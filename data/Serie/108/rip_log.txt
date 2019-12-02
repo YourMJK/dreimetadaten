@@ -1,0 +1,172 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2019-03-24 12:32:37 +0100
+
+Europa / 3F 108 - Die sieben Tore
+
+Used drive : ASUS BW-16D1HT (revision 3.01)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 40
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 08:59:36 |         0    |    40460   
+        2  | 08:59:36 | 02:15:06 |     40461    |    50591   
+        3  | 11:14:42 | 11:22:04 |     50592    |   101745   
+        4  | 22:36:46 | 06:14:71 |    101746    |   129866   
+        5  | 28:51:42 | 02:30:53 |    129867    |   141169   
+        6  | 31:22:20 | 11:26:52 |    141170    |   192671   
+        7  | 42:48:72 | 07:23:07 |    192672    |   225903   
+        8  | 50:12:04 | 04:38:61 |    225904    |   246814   
+        9  | 54:50:65 | 11:53:46 |    246815    |   300335   
+
+AccurateRip Summary (DiscID: 0015d03b-00a078bd-790fa409)
+    Track 01 : OK (v1+v2, confidence 82/82)
+    Track 02 : OK (v1+v2, confidence 83/83)
+    Track 03 : OK (v1+v2, confidence 84/84)
+    Track 04 : OK (v1+v2, confidence 81/81)
+    Track 05 : OK (v1+v2, confidence 82/82)
+    Track 06 : OK (v1+v2, confidence 81/81)
+    Track 07 : OK (v1+v2, confidence 79/79)
+    Track 08 : OK (v1+v2, confidence 77/77)
+    Track 09 : OK (v1+v2, confidence 77/77)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : ~/Projects/Audiobooks/_temp/3F 108 - Die sieben Tore.m4a
+    CRC32 hash               : 39730D25
+    CRC32 hash (skip zero)   : 75462B04
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 8DD9E196
+    CRC32 hash (skip zero)   : 4371F34C
+    AccurateRip v1 signature : 43F6DF3D
+    AccurateRip v2 signature : 5F105F8B
+        ->Accurately ripped (v1+v2, confidence 29+53/82)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 2CD5F91C
+    CRC32 hash (skip zero)   : 40BF3E14
+    AccurateRip v1 signature : BCD51DC3
+    AccurateRip v2 signature : 10469460
+        ->Accurately ripped (v1+v2, confidence 28+55/83)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 9749878E
+    CRC32 hash (skip zero)   : F0636120
+    AccurateRip v1 signature : 04D7BEFF
+    AccurateRip v2 signature : 532AC001
+        ->Accurately ripped (v1+v2, confidence 29+55/84)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 6F6870A4
+    CRC32 hash (skip zero)   : 125A1970
+    AccurateRip v1 signature : 2668B9C2
+    AccurateRip v2 signature : 0AF9110B
+        ->Accurately ripped (v1+v2, confidence 28+53/81)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : F4DC8745
+    CRC32 hash (skip zero)   : E099C3BA
+    AccurateRip v1 signature : A0861BFC
+    AccurateRip v2 signature : 58252F67
+        ->Accurately ripped (v1+v2, confidence 28+54/82)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : 947FE5E6
+    CRC32 hash (skip zero)   : D4024EC2
+    AccurateRip v1 signature : 4B11A2FC
+    AccurateRip v2 signature : F88C7708
+        ->Accurately ripped (v1+v2, confidence 28+53/81)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : 878CCD6B
+    CRC32 hash (skip zero)   : CB085F35
+    AccurateRip v1 signature : 40F1BE22
+    AccurateRip v2 signature : 3A81FC37
+        ->Accurately ripped (v1+v2, confidence 27+52/79)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+
+    CRC32 hash               : E0FA96FC
+    CRC32 hash (skip zero)   : 24FF09AF
+    AccurateRip v1 signature : 0B7DBE95
+    AccurateRip v2 signature : 9E55BDB2
+        ->Accurately ripped (v1+v2, confidence 27+50/77)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+
+    CRC32 hash               : A80127A0
+    CRC32 hash (skip zero)   : 7D0A833B
+    AccurateRip v1 signature : 4293DA41
+    AccurateRip v2 signature : 6671DAA6
+        ->Accurately ripped (v1+v2, confidence 26+51/77)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
