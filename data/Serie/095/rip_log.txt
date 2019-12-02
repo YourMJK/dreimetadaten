@@ -1,0 +1,132 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2019-03-24 14:40:28 +0100
+
+Die Drei ??? / 095/Botschaft von Geisterhand
+
+Used drive : ASUS BW-16D1HT (revision 3.01)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 40
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 11:06:22 |         0    |    49971   
+        2  | 11:06:22 | 07:45:34 |     49972    |    84880   
+        3  | 18:51:56 | 11:10:62 |     84881    |   135192   
+        4  | 30:02:43 | 11:53:60 |    135193    |   188727   
+        5  | 41:56:28 | 08:01:20 |    188728    |   224822   
+        6  | 49:57:48 | 10:06:12 |    224823    |   270284   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |     -6   |    -12   |     18     
+
+AccurateRip Summary (DiscID: 000e8e1a-004d837d-580e1306)
+    Track 01 : OK (v1+v2, confidence 51/75)
+    Track 02 : OK (v1+v2, confidence 50/74)
+    Track 03 : OK (v1+v2, confidence 49/73)
+    Track 04 : OK (v1+v2, confidence 49/72)
+    Track 05 : OK (v1+v2, confidence 50/73)
+    Track 06 : OK (v1+v2, confidence 47/70)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : ~/Projects/Audiobooks/_temp/095／Botschaft von Geisterhand.m4a
+    CRC32 hash               : BA8664E9
+    CRC32 hash (skip zero)   : CBBC6A6F
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : F8361FEE
+    CRC32 hash (skip zero)   : 320D09FC
+    AccurateRip v1 signature : 1577F476
+    AccurateRip v2 signature : DCB20D54
+        ->Accurately ripped (v1+v2, confidence 15+36/75)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : FEF13E4E
+    CRC32 hash (skip zero)   : D92157CC
+    AccurateRip v1 signature : ACAAFF75
+    AccurateRip v2 signature : D124E12A
+        ->Accurately ripped (v1+v2, confidence 15+35/74)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 055ABA59
+    CRC32 hash (skip zero)   : 0D0A3AC3
+    AccurateRip v1 signature : 41D25D35
+    AccurateRip v2 signature : EA0BACB6
+        ->Accurately ripped (v1+v2, confidence 14+35/73)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 28246E78
+    CRC32 hash (skip zero)   : 503A2DB4
+    AccurateRip v1 signature : 28015BA4
+    AccurateRip v2 signature : 9F19915D
+        ->Accurately ripped (v1+v2, confidence 14+35/72)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : 158C2A58
+    CRC32 hash (skip zero)   : E57CA723
+    AccurateRip v1 signature : 35186F71
+    AccurateRip v2 signature : 0325FC85
+        ->Accurately ripped (v1+v2, confidence 14+36/73)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : AD544367
+    CRC32 hash (skip zero)   : 7BD33B21
+    AccurateRip v1 signature : B77ABDCF
+    AccurateRip v2 signature : B7DF0038
+        ->Accurately ripped (v1+v2, confidence 14+33/70)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
