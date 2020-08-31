@@ -50,6 +50,13 @@ h1, h2, h3 {
 }
 
 
+code {
+	font-family: SFMono, monospace;
+	font-weight: 500;
+	font-size: 12pt;
+}
+
+
 a {
 	color: var(--color-blue);
 	font-weight: 500;
