@@ -21,7 +21,7 @@ class Höreinheit: Codable {
 	var beschreibung: String?
 	var veröffentlichungsdatum: String?
 	var kapitel: [Kapitel]?
-	var sprecher: [String: String]?
+	var sprecher: [[String]]?
 	var links: Links?
 }
 
