@@ -11,7 +11,11 @@ import Foundation
 
 struct Metadata: Codable {
 	var serie: [Folge]
+	var spezial: [Höreinheit]
+	var kurzgeschichten: [Höreinheit]
+	var die_dr3i: [Folge]
 }
+
 
 
 class Höreinheit: Codable {
@@ -24,6 +28,7 @@ class Höreinheit: Codable {
 	var sprecher: [[String]]?
 	var links: Links?
 }
+
 
 class Folge: Höreinheit {
 	let nummer: UInt
@@ -55,7 +60,6 @@ class Folge: Höreinheit {
 }
 
 
-
 class Teil: Höreinheit {
 	let teilNummer: UInt
 	var buchstabe: String?
@@ -84,6 +88,7 @@ class Teil: Höreinheit {
 		try super.encode(to: encoder)
 	}
 }
+
 
 
 class Kapitel: Codable, Equatable {
