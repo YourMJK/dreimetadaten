@@ -221,7 +221,7 @@ class MetadataCollector {
 		func update<T: Equatable>(_ oldValue: inout T?, to newValue: T?, description: String) {
 			if !overwrite, let oldValue = oldValue {  // no-overwrite and value is non-nil
 				if newValue != oldValue {
-					stderr("Warning (Folge \(nummer)): New value \"\(String(describing: newValue))\" for \"\(description)\" differs from current value \"\(oldValue)\", but the overwrite option was not specified. New value is ignored.")
+					stderr("Warning (Folge \(nummer)): New value for \"\(description)\" of \"\(newValue != nil ? String(describing: newValue!) : "(nil)"))\" differs from current value \"\(oldValue)\", but the overwrite option was not specified. New value is ignored.")
 				}
 				return
 			}
@@ -298,9 +298,12 @@ class MetadataCollector {
 			return try moveWhile({ $0 != character })
 		}
 		while currentIndex < endIndex {
-			if current() == "'" {
-				if !(try moveTo(next: "'")) {
-					throw CSVParseError.invalidCSVDataSet
+			for quote in (["'", "\""] as [Character]) {
+				if current() == quote {
+					if !(try moveTo(next: quote)) {
+						throw CSVParseError.invalidCSVDataSet
+					}
+					break;
 				}
 			}
 			try moveTo(next: ";")
@@ -319,7 +322,11 @@ class MetadataCollector {
 			guard rawString.count >= 2 else {
 				throw CSVParseError.invalidCSVComponentFormat(component: component, info: nil)
 			}
-			return rawString.dropFirst().dropLast().replacingOccurrences(of: ";", with: ",")
+			let result = rawString.dropFirst().dropLast()
+				.replacingOccurrences(of: ";", with: ",")
+				.replacingOccurrences(of: "\\n", with: "\n")
+				.trimmingCharacters(in: .whitespacesAndNewlines) 
+			return result
 		}
 		
 		guard let nummer = UInt(components[0]) else {
@@ -337,19 +344,20 @@ class MetadataCollector {
 			throw CSVParseError.invalidCSVComponentFormat(component: 4, info: "invalid date format \"\(datumDMY)\"")
 		}
 		let veröffentlichungsdatum = datumDMY.reversed().joined(separator: "-")
-		let sprecher: [[String]] = try convertString(component: 5).components(separatedBy: "\\n").map { (sprecherRolleString) in
-			let sprecherRolleComponents = sprecherRolleString.components(separatedBy: " - ")
+		let sprecher: [[String]] = try convertString(component: 5).components(separatedBy: "\n").map { (sprecherRolleString) in
+			let seperator = sprecherRolleString.contains(" - ") ? " - " : ": "
+			let sprecherRolleComponents = sprecherRolleString.components(separatedBy: seperator)
 			guard sprecherRolleComponents.count == 2 else {
 				throw CSVParseError.invalidCSVComponentFormat(component: 5, info: "\"\(sprecherRolleComponents)\"")
 			}
-			return sprecherRolleComponents 
+			return sprecherRolleComponents.map { $0.trimmingCharacters(in: .whitespaces)  }
 		}
 		
 		
 		func update<T: Equatable>(_ oldValue: inout T?, to newValue: T?, description: String) {
 			if !overwrite, let oldValue = oldValue {  // no-overwrite and value is non-nil
 				if newValue != oldValue {
-					stderr("Warning (Folge \(nummer)): New value \"\(String(describing: newValue))\" for \"\(description)\" differs from current value \"\(oldValue)\", but the overwrite option was not specified. New value is ignored.")
+					stderr("Warning (Folge \(nummer)): New value for \"\(description)\" of \"\(newValue != nil ? String(describing: newValue!) : "(nil)")\" differs from current value \"\(oldValue)\", but the overwrite option was not specified. New value is ignored.")
 				}
 				return
 			}
