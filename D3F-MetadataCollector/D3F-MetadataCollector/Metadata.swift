@@ -9,13 +9,7 @@
 import Foundation
 
 
-struct Metadata: Codable {
-	var serie: [Folge]
-	var spezial: [Höreinheit]?
-	var kurzgeschichten: [Höreinheit]?
-	var die_dr3i: [Folge]?
-	
-	
+extension Metadata {
 	struct OrderedCodingKey: CodingKey {
 		var stringValue: String
 		var intValue: Int?
@@ -72,6 +66,14 @@ struct Metadata: Codable {
 
 
 
+struct Metadata: Codable {
+	var serie: [Folge]
+	var spezial: [Höreinheit]?
+	var kurzgeschichten: [Höreinheit]?
+	var die_dr3i: [Folge]?
+}
+
+
 class Höreinheit: Codable {
 	var titel: String?
 	var autor: String?
@@ -94,7 +96,7 @@ class Folge: Höreinheit {
 	}
 	
 	
-	// Coding
+	// Codable
 	enum CodingKeys: CodingKey {
 		case nummer
 		case teile
@@ -124,7 +126,7 @@ class Teil: Höreinheit {
 	}
 	
 	
-	// Coding //
+	// Codable
 	enum CodingKeys: CodingKey {
 		case teilNummer
 		case buchstabe
