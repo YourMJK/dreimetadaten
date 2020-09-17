@@ -83,6 +83,7 @@ if (CommandLine.arguments.count > 1) {
 		}
 		metadataCollector.addMetadata(fromFiles: inputFiles, withType: inputType, overwrite: overwrite)
 	}
+	metadataCollector.applyCorrections()
 	
 	stdout(metadataCollector.output(outputType: outputType!))
 }
