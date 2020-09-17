@@ -11,9 +11,63 @@ import Foundation
 
 struct Metadata: Codable {
 	var serie: [Folge]
-	var spezial: [Höreinheit]
-	var kurzgeschichten: [Höreinheit]
-	var die_dr3i: [Folge]
+	var spezial: [Höreinheit]?
+	var kurzgeschichten: [Höreinheit]?
+	var die_dr3i: [Folge]?
+	
+	
+	struct OrderedCodingKey: CodingKey {
+		var stringValue: String
+		var intValue: Int?
+		
+		init(_ key: CodingKey) {
+			self.stringValue = Self.prefixedKeyString(keyString: key.stringValue)
+			self.intValue = key.intValue
+		}
+		init?(stringValue: String) {
+			self.stringValue = stringValue
+		}
+		init?(intValue: Int) {
+			self.stringValue = "\(intValue)"
+			self.intValue = intValue
+		}
+
+		static let ordering: [String] = [
+			"serie",
+			"spezial",
+			"kurzgeschichten",
+			"die_dr3i",
+
+			"nummer",
+			"teile",
+
+			"teilNummer",
+			"buchstabe",
+			
+			"titel",
+			"autor",
+			"hörspielskriptautor",
+			"beschreibung",
+			"veröffentlichungsdatum",
+			"kapitel",
+			"sprecher",
+			"links",
+		
+			"titel",
+			"start",
+			"end",
+		
+			"ffmetadata",
+			"xld_log",
+			"cover",
+			"cover_itunes",
+			"cover_cosmos"
+		]
+		static func prefixedKeyString(keyString: String) -> String {
+			let number = Self.ordering.firstIndex(of: keyString) ?? 99
+			return String(format: "%02d_%@", number, keyString)
+		}
+	}
 }
 
 
