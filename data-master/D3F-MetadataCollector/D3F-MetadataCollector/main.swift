@@ -10,7 +10,7 @@ import Foundation
 
 
 let usage = """
-Usage:   \(ProgramName) [-c <current JSON>] [--overwrite] -o (json | csv) -i (csv | ffmetadata) <input files ...>
+Usage:   \(ProgramName) [-c <current JSON>] [--overwrite] -o (json | csv) [-i (csv | ffmetadata) <input files ...>]
 
 Example: \(ProgramName) -c master.json -o json -i csv daten1.csv daten2.csv
 """
@@ -73,17 +73,16 @@ if (CommandLine.arguments.count > 1) {
 	guard outputType != nil else {
 		exit(error: "Missing output type")
 	}
-	guard inputType != nil else {
-		exit(error: "Missing input type")
-	}
-	guard inputFiles.count > 0 else {
-		exit(error: "No input files specified")
-	}
-	
 	
 	// Start program
 	let metadataCollector = MetadataCollector(withPreviousFile: previousFile)
-	metadataCollector.addMetadata(fromFiles: inputFiles, withType: inputType!, overwrite: overwrite)
+	
+	if let inputType = inputType {
+		guard inputFiles.count > 0 else {
+			exit(error: "No input files specified")
+		}
+		metadataCollector.addMetadata(fromFiles: inputFiles, withType: inputType, overwrite: overwrite)
+	}
 	
 	stdout(metadataCollector.output(outputType: outputType!))
 }
