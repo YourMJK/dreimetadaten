@@ -61,7 +61,7 @@ class MetadataCollector {
 			case .json:
 				do {
 					let jsonEncoder = JSONEncoder()
-					jsonEncoder.outputFormatting = [.prettyPrinted, .sortedKeys]
+					jsonEncoder.outputFormatting = [.prettyPrinted, .sortedKeys /*, .withoutEscapingSlashes*/]
 					jsonEncoder.keyEncodingStrategy = .custom({ Metadata.OrderedCodingKey($0.last!) })
 					let jsonData = try jsonEncoder.encode(metadata)
 					guard var jsonString = String(data: jsonData, encoding: .utf8) else {
@@ -75,6 +75,7 @@ class MetadataCollector {
 						let replacement = "\"\(key)\""
 						jsonString = jsonString.replacingOccurrences(of: target, with: replacement)  // despite copy overhead 10x faster than range(of:) + mutating replaceSubrange()
 					}
+					jsonString = jsonString.replacingOccurrences(of: "\\/", with: "/")
 					
 					return jsonString
 				}
