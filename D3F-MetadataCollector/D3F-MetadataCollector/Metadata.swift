@@ -55,7 +55,7 @@ extension Metadata {
 			"xld_log",
 			"cover",
 			"cover_itunes",
-			"cover_cosmos"
+			"cover_kosmos"
 		]
 		static func prefixedKeyString(keyString: String) -> String {
 			let number = Self.ordering.firstIndex(of: keyString) ?? 99
@@ -163,10 +163,11 @@ class Kapitel: Codable, Equatable {
 
 
 class Links: Codable {
+	var json: String?
 	var ffmetadata: String?
 	var xld_log: String?
 	var cover: String?
 	var cover_itunes: String?
-	var cover_cosmos: String?
+	var cover_kosmos: String?
 }
 

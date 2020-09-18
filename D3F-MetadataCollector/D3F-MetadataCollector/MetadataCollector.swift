@@ -14,6 +14,7 @@ class MetadataCollector {
 	enum InputType: String {
 		case csv = "csv"
 		case ffmetadata = "ffmetadata"
+		case dataDir = "dataDir"
 	}
 	enum OutputType: String {
 		case json = "json"
@@ -152,14 +153,13 @@ class MetadataCollector {
 	
 	// MARK: Parsing FFMetadata & CSV
 	
-	func addMetadata(fromFiles inputFiles: [URL], withType inputType: InputType, overwrite: Bool) {
-		for url in inputFiles {
+	func addMetadata(fromURLs inputURLs: [URL], withType inputType: InputType, overwrite: Bool) {
+		for url in inputURLs {
 			stderr("> \(url.path)")
 			do {
-				let content = try String(contentsOf: url).split(separator: "\n")
-				
 				switch inputType {
-					case .ffmetadata: 
+					case .ffmetadata:
+						let content = try String(contentsOf: url).split(separator: "\n")
 						do {
 							try handleFFMetadata(lines: content, overwrite: overwrite)
 						}
@@ -168,6 +168,7 @@ class MetadataCollector {
 						}
 					
 					case .csv:
+						let content = try String(contentsOf: url).split(separator: "\n")
 						for (i, line) in content.dropFirst().enumerated() {
 							let lineNumber = i+2
 							do {
@@ -176,6 +177,14 @@ class MetadataCollector {
 							catch let error as CSVParseError {
 								stderr("Error parsing csv file \"\(url.path)\" at line \(lineNumber):  \(error.description)")
 							}
+						}
+					
+					case .dataDir:
+						do {
+							try handleDataDir(directory: url, overwrite: overwrite)
+						}
+						catch let error as FFMetadataParseError {
+							stderr("Error parsing data directory \"\(url.path)\":  \(error.description)")
 						}
 				}
 			}
@@ -444,6 +453,95 @@ class MetadataCollector {
 		update(&folge.beschreibung, to: beschreibung, description: "beschreibung")
 		update(&folge.veröffentlichungsdatum, to: veröffentlichungsdatum, description: "veröffentlichungsdatum")
 		update(&folge.sprecher, to: sprecher, description: "sprecher")
+	}
+	
+	
+	enum DataDirParseError: Error, CustomStringConvertible {
+		case noSuchDirectory
+		case invalidDirectoryName
+		case invalidFilePath(path: String)
+		case invalidURLFileFormat(path: String)
+		
+		var description: String {
+			switch self {
+				case .noSuchDirectory: return "No such directory"
+				case .invalidDirectoryName: return "Directory name is not a valid number"
+				case .invalidFilePath(let path): return "Couldn't find base component \"web\" in path \"\(path)\""
+				case .invalidURLFileFormat(let path): return "Couldn't parse URL in file \"\(path)\""
+			}
+		}
+	}
+	
+	func handleDataDir(directory: URL, overwrite: Bool) throws {
+		func directoryExists(_ url: URL) -> Bool {
+			var isDirectory: ObjCBool = false
+			return FileManager.default.fileExists(atPath: url.path, isDirectory: &isDirectory) && isDirectory.boolValue
+		}
+		guard directoryExists(directory) else {
+			throw DataDirParseError.noSuchDirectory
+		}
+		
+		guard let nummer = UInt(directory.lastPathComponent) else {
+			throw DataDirParseError.invalidDirectoryName
+		}
+		
+		
+		let folge = findOrCreateFolge(nummer: nummer)
+		
+		func parseDirectoryContents(url directoryURL: URL) throws -> Links {
+			let links = Links()
+			for directoryContentName in try FileManager.default.contentsOfDirectory(atPath: directoryURL.path) {
+				let directoryContentURL = directoryURL.appendingPathComponent(directoryContentName)
+				
+				func absoluteWebsiteURL() throws -> String {
+					guard let rootIndex = directoryContentURL.pathComponents.firstIndex(of: "web") else {
+						throw DataDirParseError.invalidFilePath(path: directoryContentURL.path)
+					}
+					let relativePathStartIndex = directoryContentURL.pathComponents.index(after: rootIndex)
+					let relativePath = directoryContentURL.pathComponents[relativePathStartIndex...].joined(separator: "/")
+					return "http://dreimetadaten.de/\(relativePath)"
+				}
+				func parseURLFromURLFile() throws -> String {
+					let prefix = "URL="
+					let lines = try String(contentsOf: directoryContentURL, encoding: .utf8).split(separator: "\n")
+					guard let lineIndex = lines.firstIndex(where: { $0.hasPrefix(prefix) }) else {
+						throw DataDirParseError.invalidURLFileFormat(path: directoryContentURL.path)
+					}
+					return String(lines[lineIndex].dropFirst(prefix.count).trimmingCharacters(in: .whitespaces))
+				}
+				
+				switch directoryContentName {
+					case "metadata.json":
+						links.json = try absoluteWebsiteURL()
+					
+					case "ffmetadata.txt":
+						links.ffmetadata = try absoluteWebsiteURL()
+					
+					case "rip_log.txt":
+						links.xld_log = try absoluteWebsiteURL()
+					
+					case _ where directoryContentName.hasPrefix("cover."):
+						links.cover = try absoluteWebsiteURL()
+					
+					case "cover_itunes.url":
+						links.cover_itunes = try parseURLFromURLFile()
+					
+					case "cover_kosmos.url":
+						links.cover_kosmos = try parseURLFromURLFile()
+					
+					default:
+						if let teilNummer = UInt(directoryContentName), directoryExists(directoryContentURL) {
+							let teilLinks = try parseDirectoryContents(url: directoryContentURL)
+							let teil = findOrCreateTeil(teilNummer: teilNummer, inFolge: folge)
+							teil.links = teilLinks
+						}
+					}
+				}
+			return links
+		}
+		
+		let links = try parseDirectoryContents(url: directory)
+		folge.links = links
 	}
 	
 	
