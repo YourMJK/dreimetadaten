@@ -171,3 +171,88 @@ class Links: Codable {
 	var cover_kosmos: String?
 }
 
+
+
+// MARK: Updatable
+
+extension Metadata {
+	static func updateJSON(old oldJSON: inout Any?, new newJSON: Any?, overwrite: Bool) {
+		guard oldJSON != nil else {
+			oldJSON = newJSON
+			return
+		}
+		
+		var foundType = false
+		func tryType<U>(_ type: U.Type, _ handler: (inout U, U) -> Void) {
+			if !foundType, var oldCast = oldJSON as? U {
+				foundType = true
+				guard let newCast = newJSON as? U else {
+					stderr("Non-matching types found while updating")
+					return
+				}
+				handler(&oldCast, newCast)
+				oldJSON = oldCast
+			}
+		}
+		func updateEquatable<U: Equatable>(oldValue: inout U, newValue: U) {
+			oldValue.update(with: newValue, overwrite: overwrite)
+		}
+		
+		tryType([String: Any].self) { (oldDict, newDict) in
+			for key in newDict.keys {
+				updateJSON(old: &oldDict[key], new: newDict[key], overwrite: overwrite)
+			}
+		}
+		tryType([Any?].self) { (oldArray, newArray) in
+			if oldArray.count == newArray.count {
+				for (i, newValue) in newArray.enumerated() {
+					updateJSON(old: &oldArray[i], new: newValue, overwrite: overwrite)
+				}
+			}
+			else {
+				stderr("Cannot update arrays of differing lengths")
+			}
+		}
+		tryType(String.self, updateEquatable(oldValue:newValue:))
+		tryType(Int.self, updateEquatable(oldValue:newValue:))
+		
+		if !foundType {
+			stderr("Couldn't match type while updating")
+		}
+	}
+}
+
+protocol Updatable: Codable {
+	mutating func update(with new: Self, overwrite: Bool)
+}
+extension Updatable {
+	mutating func update(with new: Self, overwrite: Bool = false) {
+		let encoder = JSONEncoder()
+		let decoder = JSONDecoder()
+		func jsonObject(_ obj: Self) -> Any {
+			let data = try! encoder.encode(obj)
+			return try! JSONSerialization.jsonObject(with: data, options: [.fragmentsAllowed])
+		}
+		var oldJSON: Any? = jsonObject(self)
+		let newJSON = jsonObject(new)
+		
+		Metadata.updateJSON(old: &oldJSON, new: newJSON, overwrite: overwrite)
+		let oldData = try! JSONSerialization.data(withJSONObject: oldJSON!, options: [.fragmentsAllowed])
+		let updateSelf = try! decoder.decode(Self.self, from: oldData)
+		self = updateSelf
+	}
+}
+
+extension Equatable {
+	mutating func update(with newValue: Self, overwrite: Bool) {
+		if self != newValue {
+			if overwrite {
+				self = newValue
+			}
+			else {
+				stderr("\"\(self)\" not overwritten with \"\(newValue)\"")
+			}
+		}
+	}
+}
+

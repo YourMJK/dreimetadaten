@@ -27,7 +27,7 @@ class MetadataCollector {
 	
 	init(withPreviousFile previousFile: URL?) {
 		if let previousFile = previousFile {
-			self.metadata = Self.parsePreviousJSON(url: previousFile)
+			self.metadata = Self.parseJSON(url: previousFile)
 		}
 		else {
 			self.metadata = Metadata(serie: [])
@@ -41,16 +41,19 @@ class MetadataCollector {
 	
 	// MARK: Input & output final metadata archive 
 	
-	static func parsePreviousJSON(url: URL) -> Metadata {
+	static func parseJSON(url: URL) -> Metadata {
 		do {
 			let jsonData = try Data(contentsOf: url)
-			let jsonDecoder = JSONDecoder()
-			let metadata = try jsonDecoder.decode(Metadata.self, from: jsonData)
-			return metadata
+			return try parseJSON(data: jsonData)
 		}
 		catch {
-			exit(error: "Couldn't parse current JSON file \"\(url.path)\":  \(error.localizedDescription)")
+			exit(error: "Couldn't parse JSON file \"\(url.path)\":  \(error.localizedDescription)")
 		}
+	}
+	static func parseJSON(data jsonData: Data) throws -> Metadata {
+		let jsonDecoder = JSONDecoder()
+		let metadata = try jsonDecoder.decode(Metadata.self, from: jsonData)
+		return metadata
 	}
 	
 	
