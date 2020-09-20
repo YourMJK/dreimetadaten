@@ -1,0 +1,1559 @@
+{
+  "die_dr3i" : [
+    {
+      "nummer" : 1,
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "kapitel" : [
+            {
+              "titel" : "Der Phantom-Anwalt",
+              "start" : 0,
+              "end" : 553040
+            },
+            {
+              "titel" : "Der Untergang der Liberty Bell",
+              "start" : 553040,
+              "end" : 915680
+            },
+            {
+              "titel" : "Erfolgreiche Recherche",
+              "start" : 915680,
+              "end" : 1283907
+            },
+            {
+              "titel" : "Folgenschwerer Anruf",
+              "start" : 1283907,
+              "end" : 1404987
+            },
+            {
+              "titel" : "Mysteriöses Testament",
+              "start" : 1404987,
+              "end" : 1795267
+            },
+            {
+              "titel" : "Held ohne Ehre",
+              "start" : 1795267,
+              "end" : 2091800
+            },
+            {
+              "titel" : "Beschattet",
+              "start" : 2091800,
+              "end" : 2317507
+            },
+            {
+              "titel" : "O'Malley's Rock",
+              "start" : 2317507,
+              "end" : 2563667
+            },
+            {
+              "titel" : "Der zweite Fall",
+              "start" : 2563667,
+              "end" : 2916627
+            },
+            {
+              "titel" : "Leviathan",
+              "start" : 2916627,
+              "end" : 3377427
+            },
+            {
+              "titel" : "Das Geisterhaus am Meer",
+              "start" : 3377427,
+              "end" : 3602520
+            },
+            {
+              "titel" : "Ein schreckliches Geheimnis",
+              "start" : 3602520,
+              "end" : 3767440
+            },
+            {
+              "titel" : "Jagd auf den Unbekannten",
+              "start" : 3767440,
+              "end" : 3918160
+            }
+          ],
+          "links" : {
+            "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/1/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "kapitel" : [
+            {
+              "titel" : "Feindbesuch",
+              "start" : 0,
+              "end" : 327707
+            },
+            {
+              "titel" : "Die Geliebte des Globetrotters",
+              "start" : 327707,
+              "end" : 575827
+            },
+            {
+              "titel" : "Apelles post tabulam",
+              "start" : 575827,
+              "end" : 784987
+            },
+            {
+              "titel" : "Monsterbesuche",
+              "start" : 784987,
+              "end" : 1390253
+            },
+            {
+              "titel" : "Einbruch in der Zentrale!",
+              "start" : 1390253,
+              "end" : 1611853
+            },
+            {
+              "titel" : "Der Mikrochip",
+              "start" : 1611853,
+              "end" : 2069920
+            },
+            {
+              "titel" : "Die Zeit läuft ab",
+              "start" : 2069920,
+              "end" : 2471813
+            },
+            {
+              "titel" : "Das Seeungeheuer",
+              "start" : 2471813,
+              "end" : 2652533
+            },
+            {
+              "titel" : "Versteck in den Felsen",
+              "start" : 2652533,
+              "end" : 2825280
+            },
+            {
+              "titel" : "Die Falle schnappt zu",
+              "start" : 2825280,
+              "end" : 3305600
+            },
+            {
+              "titel" : "Tödliche Fluten",
+              "start" : 3305600,
+              "end" : 3496547
+            },
+            {
+              "titel" : "Alle vereint",
+              "start" : 3496547,
+              "end" : 3907093
+            },
+            {
+              "titel" : "Das Rätsel aller Rätsel",
+              "start" : 3907093,
+              "end" : 4075613
+            }
+          ],
+          "links" : {
+            "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/2/rip_log.txt"
+          }
+        }
+      ],
+      "titel" : "Das Seeungeheuer",
+      "autor" : "Hendrik Buchna",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Ein Anwalt mit düsterer Vergangenheit, ein einsames Küstenhaus mit einem furchtbaren Geheimnis und ein rätselhaftes Testament … Die Belastbarkeit von Jupiter, Peter und Bob wird diesmal wahrlich auf eine harte Probe gestellt. Doch damit nicht genug. Während ihrer Nachforschungen wird das Trio mit der Aufklärung eines mysteriösen Schiffsunglücks beauftragt. Unheilvolle Vermutungen werden bald zur schrecklichen Gewissheit: Aus den finsteren Tiefen des Ozeans ist ein riesenhaftes Monstrum aufgetaucht!\nWerden Die Dr3i die tödliche Gefahr von Kalifornien Küste abwenden können?",
+      "veröffentlichungsdatum" : "2006-10-13",
+      "kapitel" : [
+        {
+          "titel" : "Der Phantom-Anwalt",
+          "start" : 0,
+          "end" : 553040
+        },
+        {
+          "titel" : "Der Untergang der Liberty Bell",
+          "start" : 553040,
+          "end" : 915680
+        },
+        {
+          "titel" : "Erfolgreiche Recherche",
+          "start" : 915680,
+          "end" : 1283907
+        },
+        {
+          "titel" : "Folgenschwerer Anruf",
+          "start" : 1283907,
+          "end" : 1404987
+        },
+        {
+          "titel" : "Mysteriöses Testament",
+          "start" : 1404987,
+          "end" : 1795267
+        },
+        {
+          "titel" : "Held ohne Ehre",
+          "start" : 1795267,
+          "end" : 2091800
+        },
+        {
+          "titel" : "Beschattet",
+          "start" : 2091800,
+          "end" : 2317507
+        },
+        {
+          "titel" : "O'Malley's Rock",
+          "start" : 2317507,
+          "end" : 2563667
+        },
+        {
+          "titel" : "Der zweite Fall",
+          "start" : 2563667,
+          "end" : 2916627
+        },
+        {
+          "titel" : "Leviathan",
+          "start" : 2916627,
+          "end" : 3377427
+        },
+        {
+          "titel" : "Das Geisterhaus am Meer",
+          "start" : 3377427,
+          "end" : 3602520
+        },
+        {
+          "titel" : "Ein schreckliches Geheimnis",
+          "start" : 3602520,
+          "end" : 3767440
+        },
+        {
+          "titel" : "Jagd auf den Unbekannten",
+          "start" : 3767440,
+          "end" : 3918160
+        },
+        {
+          "titel" : "Feindbesuch",
+          "start" : 3918160,
+          "end" : 4245867
+        },
+        {
+          "titel" : "Die Geliebte des Globetrotters",
+          "start" : 4245867,
+          "end" : 4493987
+        },
+        {
+          "titel" : "Apelles post tabulam",
+          "start" : 4493987,
+          "end" : 4703147
+        },
+        {
+          "titel" : "Monsterbesuche",
+          "start" : 4703147,
+          "end" : 5308413
+        },
+        {
+          "titel" : "Einbruch in der Zentrale!",
+          "start" : 5308413,
+          "end" : 5530013
+        },
+        {
+          "titel" : "Der Mikrochip",
+          "start" : 5530013,
+          "end" : 5988080
+        },
+        {
+          "titel" : "Die Zeit läuft ab",
+          "start" : 5988080,
+          "end" : 6389973
+        },
+        {
+          "titel" : "Das Seeungeheuer",
+          "start" : 6389973,
+          "end" : 6570693
+        },
+        {
+          "titel" : "Versteck in den Felsen",
+          "start" : 6570693,
+          "end" : 6743440
+        },
+        {
+          "titel" : "Die Falle schnappt zu",
+          "start" : 6743440,
+          "end" : 7223760
+        },
+        {
+          "titel" : "Tödliche Fluten",
+          "start" : 7223760,
+          "end" : 7414707
+        },
+        {
+          "titel" : "Alle vereint",
+          "start" : 7414707,
+          "end" : 7825253
+        },
+        {
+          "titel" : "Das Rätsel aller Rätsel",
+          "start" : 7825253,
+          "end" : 7993773
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Jupiter Jones",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Crenshaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Inspektor Milton",
+          "Holger Mahlich"
+        ],
+        [
+          "Mrs. Ashby",
+          "Sabine Hahn"
+        ],
+        [
+          "Charles Prendergast",
+          "Rolf Nagel"
+        ],
+        [
+          "Richard Crandall",
+          "Konstantin Graudus"
+        ],
+        [
+          "Kirk Prendergast",
+          "Wolf Frass"
+        ],
+        [
+          "Blacky",
+          "Heikedine Körting"
+        ],
+        [
+          "Jonathan Godfrey",
+          "Eric Schäffler"
+        ],
+        [
+          "Carlos",
+          "Eduardo Garcia"
+        ],
+        [
+          "Garrett",
+          "Dietrich Adam"
+        ],
+        [
+          "Riteman",
+          "Till Demtrøder"
+        ],
+        [
+          "Stanley",
+          "Lutz Schnell"
+        ]
+      ],
+      "links" : {
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/1/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/1/cover.png"
+      }
+    },
+    {
+      "nummer" : 2,
+      "titel" : "Die Pforte zum Jenseits",
+      "autor" : "André Minninger",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Handelt es sich bei dem alten Greis Sylvester Meyzel nur um ein erwachsenes Kind, dem die Fantasie einen Streich spielt, oder wird er tatsächlich von einem unsichtbaren Gast heimgesucht? Als Meyzels nächtliche Albträume tagsüber zur Realität werden, wendet er sich Hilfe suchend an Die Dr3i. Jupiter, Peter und Bob kommen ziemlich schnell zu der Erkenntnis, dass Meyzels Schilderungen jeder Logik entbehren. Als aber auch Peters Angstträume Wirklichkeit werden, beginnt das Trio zu ermitteln. Vor ihren Augen öffnet sich die Pforte zum Jenseits …",
+      "veröffentlichungsdatum" : "2006-10-13",
+      "kapitel" : [
+        {
+          "titel" : "Aus den Träumen gerissen",
+          "start" : 0,
+          "end" : 186960
+        },
+        {
+          "titel" : "Vom Blitz getroffen!",
+          "start" : 186960,
+          "end" : 878600
+        },
+        {
+          "titel" : "Tödliche Bowle",
+          "start" : 878600,
+          "end" : 1274613
+        },
+        {
+          "titel" : "Unsichtbarer Mitbewohner",
+          "start" : 1274613,
+          "end" : 1803653
+        },
+        {
+          "titel" : "Spielverderber",
+          "start" : 1803653,
+          "end" : 2099720
+        },
+        {
+          "titel" : "Abgelehnt",
+          "start" : 2099720,
+          "end" : 2202013
+        },
+        {
+          "titel" : "Albtraum",
+          "start" : 2202013,
+          "end" : 2778973
+        },
+        {
+          "titel" : "Schlachtplan",
+          "start" : 2778973,
+          "end" : 2962547
+        },
+        {
+          "titel" : "Film ab!",
+          "start" : 2962547,
+          "end" : 3428947
+        },
+        {
+          "titel" : "Überreagiert",
+          "start" : 3428947,
+          "end" : 3740907
+        },
+        {
+          "titel" : "Erstens kommt es anders …",
+          "start" : 3740907,
+          "end" : 4502293
+        },
+        {
+          "titel" : "… und zweitens, als man denkt",
+          "start" : 4502293,
+          "end" : 4634013
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Jupiter Jones",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Crenshaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Sylvester Meyzel",
+          "Wolfgang Völz"
+        ],
+        [
+          "Dorothy Winter",
+          "Doris Kunstmann"
+        ],
+        [
+          "Mr. Hendrik",
+          "Utz Richter"
+        ],
+        [
+          "Kassiererin",
+          "Enie van de Meiklokjes"
+        ],
+        [
+          "Inspektor Milton",
+          "Holger Mahlich"
+        ],
+        [
+          "Inspektor Tomlin",
+          "Klaus Dittmann"
+        ],
+        [
+          "Mr. X",
+          "Dirk Eichhorn"
+        ],
+        [
+          "Tao",
+          "Tilman Maddaus"
+        ],
+        [
+          "Supermarkt-Durchsage",
+          "André Minninger"
+        ]
+      ],
+      "links" : {
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/2/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/2/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/2/cover.png"
+      }
+    },
+    {
+      "nummer" : 3,
+      "titel" : "Verschollen in der Zeit",
+      "autor" : "Hendrik Buchna",
+      "hörspielskriptautor" : "Hendrik Buchna",
+      "beschreibung" : "Zwei Wochen Urlaub auf einer Karibikinsel! Jupiter, Peter und Bob können ihr Glück kaum fassen. Doch was als vielversprechender Ferienstart beginnt, entwickelt sich urplötzlich zum unvorstellbaren Albtraum. Hoch über dem Atlantik gerät das Flugzeug, in dem Die Dr3i sitzen, in ein rätselhaftes Unwetter und muss mitten im berüchtigten Bermuda-Dreieck auf einer fremdartigen Insel notlanden. Was dann geschieht, führt selbst Jupiter an die Grenzen seines Verstandes. Die unfassbaren Ereignisse lassen jedoch keinen Zweifel: Die Passagiere von Flug 715 sind verschollen in der Zeit …",
+      "veröffentlichungsdatum" : "2006-10-13",
+      "kapitel" : [
+        {
+          "titel" : "Start in den Traumurlaub",
+          "start" : 0,
+          "end" : 219400
+        },
+        {
+          "titel" : "Unsanftes Erwachen",
+          "start" : 219400,
+          "end" : 731040
+        },
+        {
+          "titel" : "Notlandung im Nirgendwo",
+          "start" : 731040,
+          "end" : 940187
+        },
+        {
+          "titel" : "Das Bermuda-Dreieck",
+          "start" : 940187,
+          "end" : 1337333
+        },
+        {
+          "titel" : "Ein unheimliches Haus",
+          "start" : 1337333,
+          "end" : 1609173
+        },
+        {
+          "titel" : "Schockierende Erkenntnis",
+          "start" : 1609173,
+          "end" : 1922800
+        },
+        {
+          "titel" : "Verschollen in der Zeit",
+          "start" : 1922800,
+          "end" : 2104307
+        },
+        {
+          "titel" : "Flucht in den Dschungel",
+          "start" : 2104307,
+          "end" : 2338080
+        },
+        {
+          "titel" : "Die rätselhafte Uniform",
+          "start" : 2338080,
+          "end" : 2882627
+        },
+        {
+          "titel" : "Triumph der Logik",
+          "start" : 2882627,
+          "end" : 3025933
+        },
+        {
+          "titel" : "Der Hinterhalt",
+          "start" : 3025933,
+          "end" : 3369253
+        },
+        {
+          "titel" : "Die Maske fällt",
+          "start" : 3369253,
+          "end" : 3933893
+        },
+        {
+          "titel" : "Zurück in der Gegenwart",
+          "start" : 3933893,
+          "end" : 4113813
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Jupiter Jones",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Crenshaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "James Taylor",
+          "Wanja Mues"
+        ],
+        [
+          "Ray Wells",
+          "Dietrich Adam"
+        ],
+        [
+          "Frank Caspian",
+          "Christian Redl"
+        ],
+        [
+          "Jonathan Grant",
+          "Bernd Stephan"
+        ],
+        [
+          "Christy Grant",
+          "Anja Topf"
+        ],
+        [
+          "George Drummond",
+          "Eberhard Haar"
+        ],
+        [
+          "Tom Drummond",
+          "Patrick Bach"
+        ]
+      ],
+      "links" : {
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/3/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/3/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/3/cover.png"
+      }
+    },
+    {
+      "nummer" : 4,
+      "titel" : "Zug um Zug",
+      "autor" : "Tim Wenderoth",
+      "hörspielskriptautor" : "Tim Wenderoth, Yona Franke, Moritz von Fulmenstöcker",
+      "beschreibung" : "Ein alter Zeitungsartikel weckt die Neugier des ersten Detektivs. Wo sind die $500.000 aus dem Überfall auf den Postzug geblieben? Was geschah wirklich vor 12 Jahren am alten Bahnhof von Rocky Beach? Was wusste die verstorbene Ellie Sparrow und inwieweit war die ehemalige Postangestellte in den Raubüberfall verwickelt? Ein leeres Blatt Papier und eine wirre Buchstabenkombination sind nur zwei der zahlreichen kleinen Puzzleteile, die zusammengefügt werden müssen. Als sich auch noch andere Gestalten für das verschollene Geld zu interessieren scheinen, wird es erst recht Zeit für Die Dr3i sich mit dem Fall zu beschäftigen.\nZug um Zug suchen sie nach den Antworten auf die vielen Fragen, die sich ihnen stellen …",
+      "veröffentlichungsdatum" : "2006-11-24",
+      "kapitel" : [
+        {
+          "titel" : "Der gelöste Kriminalfall",
+          "start" : 0,
+          "end" : 234067
+        },
+        {
+          "titel" : "Neue Spuren?",
+          "start" : 234067,
+          "end" : 693853
+        },
+        {
+          "titel" : "Besuch bei Mr. Walker",
+          "start" : 693853,
+          "end" : 1389773
+        },
+        {
+          "titel" : "Ein leeres Blatt Papier",
+          "start" : 1389773,
+          "end" : 1720627
+        },
+        {
+          "titel" : "Der alte Bahnhofsvorsteher",
+          "start" : 1720627,
+          "end" : 2434187
+        },
+        {
+          "titel" : "Unter den Gleisen",
+          "start" : 2434187,
+          "end" : 2824720
+        },
+        {
+          "titel" : "Der unbekannte Sohn",
+          "start" : 2824720,
+          "end" : 3283893
+        },
+        {
+          "titel" : "CC-DC-DC-OA 14, AAH-CI-CA-EC 23",
+          "start" : 3283893,
+          "end" : 3590640
+        },
+        {
+          "titel" : "Doc Brown",
+          "start" : 3590640,
+          "end" : 3972893
+        },
+        {
+          "titel" : "Lebenslänglich für drei Detektive",
+          "start" : 3972893,
+          "end" : 4297867
+        },
+        {
+          "titel" : "Jeden Tag eine gute Tat",
+          "start" : 4297867,
+          "end" : 4747133
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Jupiter Jones",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Crenshaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Onkel Titus Jones",
+          "Hans Meinhardt"
+        ],
+        [
+          "Tante Mathilda Jones",
+          "Karin Lieneweg"
+        ],
+        [
+          "Inspektor Milton",
+          "Holger Mahlich"
+        ],
+        [
+          "Kommissar Reynolds",
+          "Wolfgang Draeger"
+        ],
+        [
+          "Mr. Walker",
+          "Gustav-Adolph Artz"
+        ],
+        [
+          "Donald Forthland",
+          "Günter Lüdke"
+        ],
+        [
+          "Shane Montana",
+          "Jürgen Thormann"
+        ],
+        [
+          "Jim",
+          "Wolfgang Berger"
+        ],
+        [
+          "Doc Brown",
+          "Tim Wenderoth"
+        ],
+        [
+          "Finnegan",
+          "Fabian Harloff"
+        ]
+      ],
+      "links" : {
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/4/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/4/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/4/cover.png"
+      }
+    },
+    {
+      "nummer" : 5,
+      "titel" : "Das Haus der 1.000 Rätsel",
+      "autor" : "Hendrik Buchna",
+      "hörspielskriptautor" : "Hendrik Buchna",
+      "beschreibung" : "Als Jupiter, Peter und Bob den Auftrag erhalten, einem alternden Filmstar bei der Klärung eines mysteriösen Vorfalls zu helfen, ahnen sie noch nicht, welch absurde Ereignisse sie erwarten. In einem abgelegenen Luxushotel stoßen sie auf die Spur eines geheimnisvollen Unbekannten, der sie mit einer Reihe tückischer Rätsel an den Rand der Verzweiflung treibt. Nichts ist so, wie es zu sein scheint. Als sich Die Dr3i im unheimlichen Kellergewölbe des Hotels schließlich am Ziel wähnen, erweist sich das Royal Mountain Residence endgültig als \"Haus der 1.000 Rätsel\" …",
+      "veröffentlichungsdatum" : "2007-02-09",
+      "kapitel" : [
+        {
+          "titel" : "Ein Star braucht Hilfe",
+          "start" : 0,
+          "end" : 232867
+        },
+        {
+          "titel" : "Gürtel, Karte, Taste",
+          "start" : 232867,
+          "end" : 601240
+        },
+        {
+          "titel" : "Die Fährte nach Marokko",
+          "start" : 601240,
+          "end" : 1232173
+        },
+        {
+          "titel" : "Eine legendäre Bar",
+          "start" : 1232173,
+          "end" : 1720267
+        },
+        {
+          "titel" : "Der rätselhafte Drink",
+          "start" : 1720267,
+          "end" : 2217320
+        },
+        {
+          "titel" : "Salon Moskva",
+          "start" : 2217320,
+          "end" : 2669573
+        },
+        {
+          "titel" : "Mademoiselle Nadine",
+          "start" : 2669573,
+          "end" : 3015507
+        },
+        {
+          "titel" : "Bobs Frisuren-Trauma",
+          "start" : 3015507,
+          "end" : 3338973
+        },
+        {
+          "titel" : "Smith & Wesson weisen den Weg",
+          "start" : 3338973,
+          "end" : 3587240
+        },
+        {
+          "titel" : "Showdown in der Finsternis",
+          "start" : 3587240,
+          "end" : 3871573
+        },
+        {
+          "titel" : "Lektion für den Meisterdetektiv",
+          "start" : 3871573,
+          "end" : 4409520
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Jupiter Jones",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Crenshaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Jack Doolan",
+          "Eckart Dux"
+        ],
+        [
+          "Harold",
+          "Gernot Endemann"
+        ],
+        [
+          "Miss Lana",
+          "Sabine Schmidt-Kirchner"
+        ],
+        [
+          "Mademoiselle Nadine",
+          "Jennie Appel"
+        ],
+        [
+          "Toby Grissom",
+          "Lothar Grützner"
+        ],
+        [
+          "Frank Mortimer",
+          "Karl-Friedrich Gerster"
+        ]
+      ],
+      "links" : {
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/5/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/5/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/5/cover.png"
+      }
+    },
+    {
+      "nummer" : 6,
+      "titel" : "Tödliche Regie",
+      "autor" : "André Minninger",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Terror im Studio! Feige Anschläge machen der Synchronsprecherin Ellen Maxell das Leben zur Hölle. Wer steckt hinter der unheimlichen Gummi-Maske der Zeichentrickfigur \"Panic-Porky\"? Nur knapp entgeht die talentierte Schauspielerin mehreren hinterhältigen Mordversuchen. Hat es jemand auf ihre Rolle abgesehen? Die drei Detektive Jupiter, Peter und Bob nehmen sich des mysteriösen Falles an und geraten in die Schusslinie der zum Leben erwachten Cartoonfigur.",
+      "veröffentlichungsdatum" : "2007-03-23",
+      "kapitel" : [
+        {
+          "titel" : "Gewonnen!",
+          "start" : 0,
+          "end" : 231600
+        },
+        {
+          "titel" : "Attentat",
+          "start" : 231600,
+          "end" : 891573
+        },
+        {
+          "titel" : "Kreidebleich",
+          "start" : 891573,
+          "end" : 1035507
+        },
+        {
+          "titel" : "Spiegel der Seele",
+          "start" : 1035507,
+          "end" : 1561547
+        },
+        {
+          "titel" : "Attacke",
+          "start" : 1561547,
+          "end" : 1735040
+        },
+        {
+          "titel" : "Vollgas",
+          "start" : 1735040,
+          "end" : 2439600
+        },
+        {
+          "titel" : "Gage",
+          "start" : 2439600,
+          "end" : 2573720
+        },
+        {
+          "titel" : "Überwacht",
+          "start" : 2573720,
+          "end" : 2731053
+        },
+        {
+          "titel" : "Verhaftet",
+          "start" : 2731053,
+          "end" : 2941027
+        },
+        {
+          "titel" : "Endspiel",
+          "start" : 2941027,
+          "end" : 3924760
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Jupiter Jones",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Crenshaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Ellen Maxell",
+          "Traudel Sperber"
+        ],
+        [
+          "Audrey Moonshadow",
+          "Judy Winter"
+        ],
+        [
+          "Sandy Stryker",
+          "Martina Regenhardt"
+        ],
+        [
+          "Mandy Honeyball",
+          "Celine Fontanges"
+        ],
+        [
+          "Mars Chaplin",
+          "Rainer Schmitt"
+        ],
+        [
+          "Inspektor Milton",
+          "Holger Mahlich"
+        ],
+        [
+          "Assistent",
+          "Dirk Bach"
+        ]
+      ],
+      "links" : {
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/6/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/6/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/6/cover.png"
+      }
+    },
+    {
+      "nummer" : 7,
+      "titel" : "und der kopflose Reiter",
+      "autor" : "Tim Wenderoth",
+      "hörspielskriptautor" : "Tim Wenderoth",
+      "beschreibung" : "Ein unheimlicher Reiter ohne Kopf versetzt die Bewohner von Rocky Beach in Angst und Schrecken. In nebligen Herbstnächten taucht er um Mitternacht auf und reitet durch die Stadt. Ist es der Geist des alten Indianers Ashoona Apeh, der mehr als 100 Jahre nach seinem Tod Rache nehmen will an jenen, die ihn seinerzeit köpften? Hat der Urenkel des Indianers etwas zu verbergen? Bevor Die Dr3i sich versehen, stehen sie dem gefährlichen Gegner und seinem Schwert machtlos gegenüber …",
+      "veröffentlichungsdatum" : "2007-11-30",
+      "kapitel" : [
+        {
+          "titel" : "Nebel",
+          "start" : 0,
+          "end" : 387347
+        },
+        {
+          "titel" : "Ashoona",
+          "start" : 387347,
+          "end" : 777520
+        },
+        {
+          "titel" : "Geisterstunde",
+          "start" : 777520,
+          "end" : 1259467
+        },
+        {
+          "titel" : "Erdbeben",
+          "start" : 1259467,
+          "end" : 1668467
+        },
+        {
+          "titel" : "Treffen im Wald",
+          "start" : 1668467,
+          "end" : 2098133
+        },
+        {
+          "titel" : "Fehlende Seiten",
+          "start" : 2098133,
+          "end" : 2703173
+        },
+        {
+          "titel" : "Im Filmstudio",
+          "start" : 2703173,
+          "end" : 3014480
+        },
+        {
+          "titel" : "Der Plan",
+          "start" : 3014480,
+          "end" : 3301640
+        },
+        {
+          "titel" : "Explosion",
+          "start" : 3301640,
+          "end" : 3724440
+        },
+        {
+          "titel" : "Ashoonas Schatz",
+          "start" : 3724440,
+          "end" : 3920920
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Jupiter Jones",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Crenshaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tante Mathilda Jones",
+          "Karin Lieneweg"
+        ],
+        [
+          "Onkel Titus Jones",
+          "Hans Meinhardt"
+        ],
+        [
+          "Marty Stevens",
+          "Lutz Harder"
+        ],
+        [
+          "Joshua Apeh",
+          "Achim Schülke"
+        ],
+        [
+          "Claudia Salazar",
+          "Marion Elskis"
+        ],
+        [
+          "Ralf Dempsey",
+          "Robin Brosch"
+        ],
+        [
+          "Marvin Cox",
+          "Jörg Gillner"
+        ],
+        [
+          "Anna",
+          "Micaela Kreissler"
+        ],
+        [
+          "George",
+          "Eric Schaeffler"
+        ],
+        [
+          "Hapa",
+          "Michael Weckler"
+        ],
+        [
+          "Lastwagenfahrer",
+          "Tim Wenderoth"
+        ]
+      ],
+      "links" : {
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/7/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/7/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/7/cover.png"
+      }
+    },
+    {
+      "nummer" : 8,
+      "titel" : "Der Jahrhundertstein",
+      "autor" : "Markus Winter",
+      "hörspielskriptautor" : "Markus Winter",
+      "beschreibung" : "Durch Zufall gelangen die drei Juniordetektive aus Rocky Beach in den Besitz eines Fragmentes des sogenannten Jahrhundertsteins, einer spätmittelalterlichen Steintafel. Noch bevor sie weiterführende Ermittlungen anstellen können wird der Stein gestohlen. Für Jupiter, Peter und Bob ist das aber noch lange kein Grund aufzugeben. Doch sie sind nicht die Einzigen, die hinter ihm her sind. Wer ist der geheimnisvolle Unbekannte, der im Hintergrund die Fäden zieht und Die Dr3i wie Schachfiguren dahin schiebt, wo sie ihm am meisten nützen? Wer steckt hinter der Maske des einarmigen Bogenschützen, der ihnen stets einen Schritt voraus ist? Urplötzlich spitzt sich die Situation zu und sie befinden sich in Lebensgefahr.",
+      "veröffentlichungsdatum" : "2007-11-30",
+      "kapitel" : [
+        {
+          "titel" : "Nächtliche Begegnung",
+          "start" : 0,
+          "end" : 415427
+        },
+        {
+          "titel" : "Ein Geist in der Zentrale",
+          "start" : 415427,
+          "end" : 997027
+        },
+        {
+          "titel" : "Gut versichert!",
+          "start" : 997027,
+          "end" : 1698120
+        },
+        {
+          "titel" : "Les Centuries",
+          "start" : 1698120,
+          "end" : 2367280
+        },
+        {
+          "titel" : "Dunkle Vorahnungen",
+          "start" : 2367280,
+          "end" : 2943987
+        },
+        {
+          "titel" : "Ausgetrickst",
+          "start" : 2943987,
+          "end" : 3620293
+        },
+        {
+          "titel" : "Erklärungen",
+          "start" : 3620293,
+          "end" : 4009120
+        },
+        {
+          "titel" : "Blick in die Zukunft",
+          "start" : 4009120,
+          "end" : 4627360
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Jupiter Jones",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Crenshaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Taro Togati",
+          "Stefan Brönneke"
+        ],
+        [
+          "Officer Hunter",
+          "Jürgen Kluckert"
+        ],
+        [
+          "Türsteher",
+          "Arndt Schmöle"
+        ],
+        [
+          "Motelangestellter",
+          "Jelko von Tiele-Winckler"
+        ],
+        [
+          "Museumsdirektor",
+          "Rainer Schmitt"
+        ],
+        [
+          "Tante Mathilda",
+          "Karin Lieneweg"
+        ],
+        [
+          "Harvey Denton",
+          "Klaus Herm"
+        ],
+        [
+          "Mrs. Fox",
+          "Nana Spier"
+        ],
+        [
+          "Inspektor Milton",
+          "Holger Mahlich"
+        ],
+        [
+          "Arthur Heatherly",
+          "Rainer Brandt"
+        ],
+        [
+          "Melissa Heatherly",
+          "Stephanie Kirchberger"
+        ]
+      ],
+      "links" : {
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/8/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/8/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/8/cover.png"
+      }
+    },
+    {
+      "nummer" : 9,
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "titel" : "Zimmer",
+          "kapitel" : [
+            {
+              "titel" : "Intro",
+              "start" : 0,
+              "end" : 127747
+            },
+            {
+              "titel" : "Ankunft Hotel",
+              "start" : 127747,
+              "end" : 680947
+            },
+            {
+              "titel" : "Entscheidung: Zimmer oder Restaurant",
+              "start" : 680947,
+              "end" : 744707
+            },
+            {
+              "titel" : "Zimmer",
+              "start" : 744707,
+              "end" : 932960
+            },
+            {
+              "titel" : "Entscheidung: Tür offen oder Klimaanlage",
+              "start" : 932960,
+              "end" : 1007760
+            },
+            {
+              "titel" : "Tür offen",
+              "start" : 1007760,
+              "end" : 1165333
+            },
+            {
+              "titel" : "Entscheidung: Tür schließen oder Flur",
+              "start" : 1165333,
+              "end" : 1211827
+            },
+            {
+              "titel" : "Tür schließen",
+              "start" : 1211827,
+              "end" : 1412120
+            },
+            {
+              "titel" : "Entscheidung: Mr. Stanley oder Auto holen",
+              "start" : 1412120,
+              "end" : 1457520
+            },
+            {
+              "titel" : "Mr. Stanley",
+              "start" : 1457520,
+              "end" : 1694933
+            },
+            {
+              "titel" : "Auto holen",
+              "start" : 1694933,
+              "end" : 1915213
+            },
+            {
+              "titel" : "Flur",
+              "start" : 1915213,
+              "end" : 2061227
+            },
+            {
+              "titel" : "Entscheidung: Flucht oder Ausrede",
+              "start" : 2061227,
+              "end" : 2104347
+            },
+            {
+              "titel" : "Flucht",
+              "start" : 2104347,
+              "end" : 2354680
+            },
+            {
+              "titel" : "Ausrede",
+              "start" : 2354680,
+              "end" : 2578267
+            },
+            {
+              "titel" : "Klimaanlage",
+              "start" : 2578267,
+              "end" : 2864440
+            },
+            {
+              "titel" : "Entscheidung: Annehmen oder Ablehnen",
+              "start" : 2864440,
+              "end" : 2916507
+            },
+            {
+              "titel" : "Annehmen",
+              "start" : 2916507,
+              "end" : 3054173
+            },
+            {
+              "titel" : "Entscheidung: Essen oder Auflegen",
+              "start" : 3054173,
+              "end" : 3127520
+            },
+            {
+              "titel" : "Essen",
+              "start" : 3127520,
+              "end" : 3315400
+            },
+            {
+              "titel" : "Auflegen",
+              "start" : 3315400,
+              "end" : 3603307
+            },
+            {
+              "titel" : "Ablehnen",
+              "start" : 3603307,
+              "end" : 3721707
+            },
+            {
+              "titel" : "Entscheidung: Befreien oder Fragen stellen",
+              "start" : 3721707,
+              "end" : 3806013
+            },
+            {
+              "titel" : "Befreien",
+              "start" : 3806013,
+              "end" : 4062120
+            },
+            {
+              "titel" : "Fragen stellen",
+              "start" : 4062120,
+              "end" : 4302080
+            }
+          ],
+          "links" : {
+            "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/ffmetadata.txt",
+            "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/rip_log.txt",
+            "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/cover.png"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "titel" : "Restaurant",
+          "kapitel" : [
+            {
+              "titel" : "Intro",
+              "start" : 0,
+              "end" : 118600
+            },
+            {
+              "titel" : "Ankunft Hotel",
+              "start" : 118600,
+              "end" : 630147
+            },
+            {
+              "titel" : "Entscheidung: Zimmer oder Restaurant",
+              "start" : 630147,
+              "end" : 690733
+            },
+            {
+              "titel" : "Restaurant",
+              "start" : 690733,
+              "end" : 932747
+            },
+            {
+              "titel" : "Entscheidung: Gästebuch oder Sachen holen",
+              "start" : 932747,
+              "end" : 1024293
+            },
+            {
+              "titel" : "Gästebuch",
+              "start" : 1024293,
+              "end" : 1166507
+            },
+            {
+              "titel" : "Entscheidung: Zimmer 113 oder Flucht",
+              "start" : 1166507,
+              "end" : 1233293
+            },
+            {
+              "titel" : "Zimmer 113",
+              "start" : 1233293,
+              "end" : 1458520
+            },
+            {
+              "titel" : "Entscheidung: Verstecken oder Polizei",
+              "start" : 1458520,
+              "end" : 1523587
+            },
+            {
+              "titel" : "Verstecken",
+              "start" : 1523587,
+              "end" : 1716960
+            },
+            {
+              "titel" : "Polizei",
+              "start" : 1716960,
+              "end" : 1917160
+            },
+            {
+              "titel" : "Flucht",
+              "start" : 1917160,
+              "end" : 2191253
+            },
+            {
+              "titel" : "Entscheidung: Laufen oder Ausleihen",
+              "start" : 2191253,
+              "end" : 2239787
+            },
+            {
+              "titel" : "Laufen",
+              "start" : 2239787,
+              "end" : 2462373
+            },
+            {
+              "titel" : "Ausleihen",
+              "start" : 2462373,
+              "end" : 2759013
+            },
+            {
+              "titel" : "Sachen holen",
+              "start" : 2759013,
+              "end" : 2967867
+            },
+            {
+              "titel" : "Entscheidung: 7. Stock oder Zimmer",
+              "start" : 2967867,
+              "end" : 3029867
+            },
+            {
+              "titel" : "7. Stock",
+              "start" : 3029867,
+              "end" : 3107373
+            },
+            {
+              "titel" : "Entscheidung: Hilferuf oder Autoschlüssel",
+              "start" : 3107373,
+              "end" : 3169533
+            },
+            {
+              "titel" : "Hilferuf",
+              "start" : 3169533,
+              "end" : 3486840
+            },
+            {
+              "titel" : "Autoschlüssel",
+              "start" : 3486840,
+              "end" : 3694973
+            },
+            {
+              "titel" : "Zimmer",
+              "start" : 3694973,
+              "end" : 4080360
+            },
+            {
+              "titel" : "Entscheidung: Wecken oder KO schlagen",
+              "start" : 4080360,
+              "end" : 4179547
+            },
+            {
+              "titel" : "Wecken",
+              "start" : 4179547,
+              "end" : 4638867
+            },
+            {
+              "titel" : "KO schlagen",
+              "start" : 4638867,
+              "end" : 4828320
+            }
+          ],
+          "links" : {
+            "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/ffmetadata.txt",
+            "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/rip_log.txt",
+            "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/cover.png"
+          }
+        }
+      ],
+      "titel" : "Hotel Luxury End",
+      "autor" : "Ivar Leon Menger",
+      "hörspielskriptautor" : "Ivar Leon Menger",
+      "beschreibung" : "Eine Nacht in einem Luxushotel, direkt an der malerischen Steilküste Nordkaliforniens? Normalerweise ein Grund zur Freude. Doch nicht für Jupiter, Peter und Bob! Denn Die Dr3i müssen um ihr Leben fürchten! Und das, obwohl das unheimliche Hotel vollkommen menschenleer ist …\nErlebe das erste interaktive Hörspiel mit Jupiter Jones, Peter Crenshaw und Bob Andrews! Mit einem Knopfdruck auf deinem CD-Player kannst du mitbestimmen, welche Lösungswege die drei Detektive bei diesem mysteriösen Abenteuer einschlagen sollen.\nAuf 2 CDs erwarten dich viele ungelöste Rätsel und Geheimnisse, sowie 16 alternative Enden!",
+      "veröffentlichungsdatum" : "2006-11-24",
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Jupiter Jones",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Crenshaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tante Mathilda Jones",
+          "Karin Lieneweg"
+        ],
+        [
+          "Mr. Overlook",
+          "Joachim Kerzel"
+        ],
+        [
+          "Portier Stanley",
+          "Lutz Mackensy"
+        ],
+        [
+          "Liftboy Jack",
+          "Jan-David Rönfeldt"
+        ],
+        [
+          "Barkeeper Lloyd",
+          "Roman Kretschmer"
+        ],
+        [
+          "Mr. Torrance",
+          "Holger Löwenberg"
+        ],
+        [
+          "Mrs. Torrence",
+          "Katja Brügger"
+        ],
+        [
+          "Shelley",
+          "Saskia Weckler"
+        ],
+        [
+          "Stuart",
+          "Nicolas König"
+        ],
+        [
+          "Danny",
+          "Patrick Bach"
+        ],
+        [
+          "Police Officer",
+          "Jürgen Thormann"
+        ],
+        [
+          "Nachrichtensprecher",
+          "Bernd Klose"
+        ]
+      ],
+      "links" : {
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/cover.png"
+      }
+    }
+  ]
+}
