@@ -16,6 +16,10 @@ class MetadataCollector {
 		case ffmetadata = "ffmetadata"
 		case dataDir = "dataDir"
 	}
+	enum CollectionType: String {
+		case serie = "serie"
+		case die_dr3i = "die_dr3i"
+	}
 	enum OutputType: String {
 		case json = "json"
 		case csv = "csv"
@@ -25,16 +29,14 @@ class MetadataCollector {
 	var metadata: Metadata
 	
 	
-	init(withPreviousFile previousFile: URL?) {
+	convenience init(withPreviousFile previousFile: URL?) {
+		self.init()
 		if let previousFile = previousFile {
 			self.metadata = Self.parseJSON(url: previousFile)
 		}
-		else {
-			self.metadata = Metadata(serie: [])
-		}
 	}
-	init(metadata: Metadata) {
-		self.metadata = metadata
+	init() {
+		self.metadata = Metadata()
 	}
 	
 	
@@ -156,7 +158,22 @@ class MetadataCollector {
 	
 	// MARK: Parsing FFMetadata & CSV
 	
-	func addMetadata(fromURLs inputURLs: [URL], withType inputType: InputType, overwrite: Bool) {
+	func addMetadata(fromURLs inputURLs: [URL], withType inputType: InputType, toCollection collectionType: CollectionType, overwrite: Bool) {
+		func createEmptyIfNil<T>(_ collection: inout [T]?) {
+			if collection == nil {
+				collection = []
+			}
+		}
+		
+		switch collectionType {
+			case .serie:
+				createEmptyIfNil(&self.metadata.serie)
+			case .die_dr3i:
+				createEmptyIfNil(&self.metadata.die_dr3i)
+		}
+		
+		createEmptyIfNil(&self.metadata.die_dr3i)
+		
 		for url in inputURLs {
 			stderr("> \(url.path)")
 			do {
@@ -164,7 +181,7 @@ class MetadataCollector {
 					case .ffmetadata:
 						let content = try String(contentsOf: url).split(separator: "\n")
 						do {
-							try handleFFMetadata(lines: content, overwrite: overwrite)
+							try handleFFMetadata(lines: content, collectionType: collectionType, overwrite: overwrite)
 						}
 						catch let error as FFMetadataParseError {
 							stderr("Error parsing ffmetadata file \"\(url.path)\":  \(error.description)")
@@ -184,7 +201,7 @@ class MetadataCollector {
 					
 					case .dataDir:
 						do {
-							try handleDataDir(directory: url, overwrite: overwrite)
+							try handleDataDir(directory: url, collectionType: collectionType, overwrite: overwrite)
 						}
 						catch let error as FFMetadataParseError {
 							stderr("Error parsing data directory \"\(url.path)\":  \(error.description)")
@@ -216,7 +233,7 @@ class MetadataCollector {
 		}
 	}
 	
-	func handleFFMetadata<T: StringProtocol>(lines: [T], overwrite: Bool) throws {
+	func handleFFMetadata<T: StringProtocol>(lines: [T], collectionType: CollectionType, overwrite: Bool) throws {
 		func findTagValue(tag: String, required: Bool = false, inRange range: Range<Int>? = nil) throws -> (tag: String, value: T.SubSequence, line: Int)? {
 			guard let lineIndex = lines[range ?? lines.indices].firstIndex(where: { $0.hasPrefix(tag+"=") }) else {
 				if required {
@@ -242,9 +259,7 @@ class MetadataCollector {
 		let folgenTitel = String(albumValue[titelIdentifierRange.upperBound...])
 		
 		let nummerStringStart = nummerIdentifierRange.upperBound
-		guard let nummerStringEnd = albumValue.index(nummerStringStart, offsetBy: 3, limitedBy: albumValue.endIndex) else {
-			throw FFMetadataParseError.albumTagParseError
-		}
+		let nummerStringEnd = titelIdentifierRange.lowerBound
 		let nummerString = albumValue[nummerStringStart..<nummerStringEnd]
 		guard let nummer = UInt(nummerString) else {
 			throw FFMetadataParseError.albumTagParseError
@@ -318,24 +333,28 @@ class MetadataCollector {
 			}
 		}
 		
-		// Find or create folge/teil based on nummer
-		let folge = findOrCreateFolge(nummer: nummer)
 		
-		if let teilNummer = teilNummer {
-			let teil = findOrCreateTeil(teilNummer: teilNummer, in: folge)
-			
-			update(&teil.buchstabe, to: buchstabe, description: "buchstabe")
-			update(&teil.titel, to: teilTitel, description: "titel")
-			update(&teil.kapitel, to: kapitels, description: "kapitel")
-			try update(&teil.autor, toValueOfTag: "composer", description: "autor")
-			try update(&teil.hörspielskriptautor, toValueOfTag: "album_artist", description: "hörspielskriptautor")
-			update(&folge.titel, to: folgenTitel, description: "titel")
-		}
-		else {
-			update(&folge.titel, to: folgenTitel, description: "titel")
-			update(&folge.kapitel, to: kapitels, description: "kapitel")
-			try update(&folge.autor, toValueOfTag: "composer", description: "autor")
-			try update(&folge.hörspielskriptautor, toValueOfTag: "album_artist", description: "hörspielskriptautor")
+		switch collectionType {
+			case .serie, .die_dr3i:
+				// Find or create folge/teil based on nummer
+				let folge = (collectionType == .serie ? findOrCreateFolge(nummer: nummer, in: &metadata.serie!) : findOrCreateFolge(nummer: nummer, in: &metadata.die_dr3i!))
+				
+				if let teilNummer = teilNummer {
+					let teil = findOrCreateTeil(teilNummer: teilNummer, in: folge)
+					
+					update(&teil.buchstabe, to: buchstabe, description: "buchstabe")
+					update(&teil.titel, to: teilTitel, description: "titel")
+					update(&teil.kapitel, to: kapitels, description: "kapitel")
+					try update(&teil.autor, toValueOfTag: "composer", description: "autor")
+					try update(&teil.hörspielskriptautor, toValueOfTag: "album_artist", description: "hörspielskriptautor")
+					update(&folge.titel, to: folgenTitel, description: "titel")
+				}
+				else {
+					update(&folge.titel, to: folgenTitel, description: "titel")
+					update(&folge.kapitel, to: kapitels, description: "kapitel")
+					try update(&folge.autor, toValueOfTag: "composer", description: "autor")
+					try update(&folge.hörspielskriptautor, toValueOfTag: "album_artist", description: "hörspielskriptautor")
+				}
 		}
 	}
 	
@@ -450,7 +469,7 @@ class MetadataCollector {
 		}
 		
 		// Find or create folge/teil based on nummer
-		let folge = findOrCreateFolge(nummer: nummer)
+		let folge = findOrCreateFolge(nummer: nummer, in: &metadata.serie!)
 		
 		update(&folge.titel, to: folgenTitel, description: "titel")
 		update(&folge.beschreibung, to: beschreibung, description: "beschreibung")
@@ -475,7 +494,7 @@ class MetadataCollector {
 		}
 	}
 	
-	func handleDataDir(directory: URL, overwrite: Bool) throws {
+	func handleDataDir(directory: URL, collectionType: CollectionType, overwrite: Bool) throws {
 		func directoryExists(_ url: URL) -> Bool {
 			var isDirectory: ObjCBool = false
 			return FileManager.default.fileExists(atPath: url.path, isDirectory: &isDirectory) && isDirectory.boolValue
@@ -489,7 +508,12 @@ class MetadataCollector {
 		}
 		
 		
-		let folge = findOrCreateFolge(nummer: nummer)
+		let höreinheit: Höreinheit = {
+			switch collectionType {
+				case .serie: return findOrCreateFolge(nummer: nummer, in: &metadata.serie!)
+				case .die_dr3i: return findOrCreateFolge(nummer: nummer, in: &metadata.die_dr3i!) 
+			}
+		}()
 		
 		func parseDirectoryContents(url directoryURL: URL) throws -> Links {
 			let links = Links()
@@ -535,7 +559,7 @@ class MetadataCollector {
 					default:
 						if let teilNummer = UInt(directoryContentName), directoryExists(directoryContentURL) {
 							let teilLinks = try parseDirectoryContents(url: directoryContentURL)
-							let teil = findOrCreateTeil(teilNummer: teilNummer, in: folge)
+							let teil = findOrCreateTeil(teilNummer: teilNummer, in: höreinheit)
 							teil.links = teilLinks
 						}
 					}
@@ -544,19 +568,19 @@ class MetadataCollector {
 		}
 		
 		let links = try parseDirectoryContents(url: directory)
-		folge.links = links
+		höreinheit.links = links
 	}
 	
 	
 	
-	func findOrCreateFolge(nummer: UInt) -> Folge {
-		if let folge = metadata.serie.first(where: { $0.nummer == nummer }) {
+	func findOrCreateFolge(nummer: UInt, in collection: inout [Folge]) -> Folge {
+		if let folge = collection.first(where: { $0.nummer == nummer }) {
 			return folge
 		}
 		else {
 			let folge = Folge(nummer: nummer)
-			let indexOfSuccessor = metadata.serie.firstIndex { $0.nummer > nummer }
-			metadata.serie.insert(folge, at: indexOfSuccessor ?? metadata.serie.endIndex)
+			let indexOfSuccessor = collection.firstIndex { $0.nummer > nummer }
+			collection.insert(folge, at: indexOfSuccessor ?? collection.endIndex)
 			return folge
 		}
 	}

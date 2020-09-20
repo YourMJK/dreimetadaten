@@ -10,7 +10,7 @@ import Foundation
 
 
 let usage = """
-Usage:   \(ProgramName) [-c <current JSON>] [--overwrite] -o (json | csv) [-i (csv | ffmetadata | dataDir) <input files ...>]
+Usage:   \(ProgramName) [-c <current JSON>] [--overwrite] -o (json | csv) [-i (csv | ffmetadata | dataDir) (serie | die_dr3i) <input files ...>]
 
 Example: \(ProgramName) -c master.json -o json -i csv daten1.csv daten2.csv
 """
@@ -22,6 +22,7 @@ if (CommandLine.arguments.count > 1) {
 	var overwrite: Bool = false
 	var outputType: MetadataCollector.OutputType?
 	var inputType: MetadataCollector.InputType?
+	var collectionType: MetadataCollector.CollectionType?
 	var inputFiles = [URL]()
 	
 	// Parse arguments
@@ -37,6 +38,13 @@ if (CommandLine.arguments.count > 1) {
 				exit(error: "Missing \(description) for option \"\(arg)\"")
 			}
 		}
+		func parseNextStringEnum<T>(description: String, contructor: (String) -> T?) -> T {
+			let nextArg = getNext(description: description)
+			guard let parsed = contructor(nextArg) else {
+				exit(error: "Unknown \(description) \"\(nextArg)\"")
+			}
+			return parsed
+		}
 		
 		switch arg {
 			case "-c":
@@ -46,26 +54,17 @@ if (CommandLine.arguments.count > 1) {
 				overwrite = true
 			
 			case "-o":
-				let descr = "output type"
-				let nextArg = getNext(description: descr)
-				guard let parsedOutputType = MetadataCollector.OutputType(rawValue: nextArg) else {
-					exit(error: "Unknown \(descr) \"\(nextArg)\"")
-				}
-				outputType = parsedOutputType
+				outputType = parseNextStringEnum(description: "output type", contructor: MetadataCollector.OutputType.init(rawValue:))
 			
 			case "-i":
-				let descr = "input type"
-				let nextArg = getNext(description: descr)
-				guard let parsedInputType = MetadataCollector.InputType(rawValue: nextArg) else {
-					exit(error: "Unknown \(descr) \"\(nextArg)\"")
-				}
-				inputType = parsedInputType
+				inputType = parseNextStringEnum(description: "input type", contructor: MetadataCollector.InputType.init(rawValue:))
+				collectionType = parseNextStringEnum(description: "collection type", contructor: MetadataCollector.CollectionType.init(rawValue:))
 				
 				inputFiles = arguments.map { URL(fileURLWithPath: $0) }
 				arguments.removeAll()
 			
 			default:
-			exit(error: "Unknown argument \"\(arg)\"")
+				exit(error: "Unknown argument \"\(arg)\"")
 		}
 	}
 	
@@ -77,11 +76,11 @@ if (CommandLine.arguments.count > 1) {
 	// Start program
 	let metadataCollector = MetadataCollector(withPreviousFile: previousFile)
 	
-	if let inputType = inputType {
+	if let inputType = inputType, let collectionType = collectionType {
 		guard inputFiles.count > 0 else {
 			exit(error: "No input files specified")
 		}
-		metadataCollector.addMetadata(fromURLs: inputFiles, withType: inputType, overwrite: overwrite)
+		metadataCollector.addMetadata(fromURLs: inputFiles, withType: inputType, toCollection: collectionType, overwrite: overwrite)
 	}
 	metadataCollector.applyCorrections()
 	

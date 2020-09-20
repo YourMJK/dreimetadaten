@@ -10,7 +10,7 @@ import Foundation
 
 
 struct Metadata: Codable {
-	var serie: [Folge]
+	var serie: [Folge]?
 	var spezial: [Höreinheit]?
 	var kurzgeschichten: [Höreinheit]?
 	var die_dr3i: [Folge]?
