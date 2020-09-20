@@ -18,6 +18,7 @@ struct Metadata: Codable {
 
 
 class Höreinheit: Codable {
+	var teile: [Teil]?
 	var titel: String?
 	var autor: String?
 	var hörspielskriptautor: String?
@@ -31,7 +32,6 @@ class Höreinheit: Codable {
 
 class Folge: Höreinheit {
 	let nummer: UInt
-	var teile: [Teil]?
 	
 	init(nummer: UInt) {
 		self.nummer = nummer
@@ -47,7 +47,6 @@ class Folge: Höreinheit {
 	required init(from decoder: Decoder) throws {
 		let container = try decoder.container(keyedBy: CodingKeys.self)
 		nummer = try container.decode(UInt.self, forKey: .nummer)
-		teile = try container.decodeIfPresent([Teil].self, forKey: .teile)
 		try super.init(from: decoder)
 	}
 	override func encode(to encoder: Encoder) throws {

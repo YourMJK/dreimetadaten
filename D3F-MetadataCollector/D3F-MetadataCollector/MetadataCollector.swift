@@ -322,7 +322,7 @@ class MetadataCollector {
 		let folge = findOrCreateFolge(nummer: nummer)
 		
 		if let teilNummer = teilNummer {
-			let teil = findOrCreateTeil(teilNummer: teilNummer, inFolge: folge)
+			let teil = findOrCreateTeil(teilNummer: teilNummer, in: folge)
 			
 			update(&teil.buchstabe, to: buchstabe, description: "buchstabe")
 			update(&teil.titel, to: teilTitel, description: "titel")
@@ -535,7 +535,7 @@ class MetadataCollector {
 					default:
 						if let teilNummer = UInt(directoryContentName), directoryExists(directoryContentURL) {
 							let teilLinks = try parseDirectoryContents(url: directoryContentURL)
-							let teil = findOrCreateTeil(teilNummer: teilNummer, inFolge: folge)
+							let teil = findOrCreateTeil(teilNummer: teilNummer, in: folge)
 							teil.links = teilLinks
 						}
 					}
@@ -560,19 +560,19 @@ class MetadataCollector {
 			return folge
 		}
 	}
-	func findOrCreateTeil(teilNummer: UInt, inFolge folge: Folge) -> Teil {
-		if folge.teile == nil {
-			folge.teile = [Teil]()
+	func findOrCreateTeil(teilNummer: UInt, in höreinheit: Höreinheit) -> Teil {
+		if höreinheit.teile == nil {
+			höreinheit.teile = [Teil]()
 		}
 		else {
-			if let teil = folge.teile!.first(where: { $0.teilNummer == teilNummer }) {
+			if let teil = höreinheit.teile!.first(where: { $0.teilNummer == teilNummer }) {
 				return teil
 			}
 		}
 		
 		let teil = Teil(teilNummer: teilNummer)
-		let indexOfSuccessor = folge.teile!.firstIndex { $0.teilNummer > teilNummer }
-		folge.teile!.insert(teil, at: indexOfSuccessor ?? folge.teile!.endIndex)
+		let indexOfSuccessor = höreinheit.teile!.firstIndex { $0.teilNummer > teilNummer }
+		höreinheit.teile!.insert(teil, at: indexOfSuccessor ?? höreinheit.teile!.endIndex)
 		return teil
 	}
 	
