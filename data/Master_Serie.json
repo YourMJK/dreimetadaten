@@ -19463,6 +19463,100 @@
               "end" : 3648933
             }
           ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Mr. Andrews",
+              "Henry König"
+            ],
+            [
+              "Jeremy Bright",
+              "Stephan Schad"
+            ],
+            [
+              "Taylor-Jackson",
+              "Jona Mues"
+            ],
+            [
+              "Francine Breckenridge",
+              "Elga Schütz"
+            ],
+            [
+              "A.C. Berany",
+              "Hanni Vanhaiden"
+            ],
+            [
+              "Samantha",
+              "Henrike Fehrs"
+            ],
+            [
+              "Corvy",
+              "Karen Suender"
+            ],
+            [
+              "Lemuel Garvine",
+              "Tim Grobe"
+            ],
+            [
+              "Prof. Roalstad",
+              "Jürgen Thormann"
+            ],
+            [
+              "Chris",
+              "Soi Anifantis"
+            ],
+            [
+              "Gamma",
+              "Wolfram Grandezka"
+            ],
+            [
+              "Barfrau",
+              "Rhesi Underberg"
+            ],
+            [
+              "John",
+              "Stephan Benson"
+            ],
+            [
+              "Walker",
+              "Rüdiger Schulzki"
+            ],
+            [
+              "Lederhose",
+              "Klaus Krückemeyer"
+            ],
+            [
+              "1. Polizist",
+              "Tim Kreuer"
+            ],
+            [
+              "2. Polizist",
+              "Jesse Grimm"
+            ],
+            [
+              "Telefonstimme",
+              "Wolfgang Völz"
+            ],
+            [
+              "Menge",
+              "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
+            ]
+          ],
           "links" : {
             "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/1/ffmetadata.txt",
             "xld_log" : "http://dreimetadaten.de/data/Serie/175/1/rip_log.txt"
@@ -19521,6 +19615,76 @@
               "end" : 3434200
             }
           ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Taylor-Jackson",
+              "Jona Mues"
+            ],
+            [
+              "Samantha",
+              "Henrike Fehrs"
+            ],
+            [
+              "Jason",
+              "Woody Mues"
+            ],
+            [
+              "Mrs. Roalstad",
+              "Beate Rysopp"
+            ],
+            [
+              "Prof. Roalstad",
+              "Jürgen Thormann"
+            ],
+            [
+              "Corvy",
+              "Karen Suender"
+            ],
+            [
+              "Mrs. Fernandez",
+              "Anja Topf"
+            ],
+            [
+              "Lemuel Garvine",
+              "Tim Grobe"
+            ],
+            [
+              "Emery",
+              "Peter Weis"
+            ],
+            [
+              "Ginger",
+              "Heidi Schaffrath"
+            ],
+            [
+              "Sanitäter",
+              "Franzisko Löwe"
+            ],
+            [
+              "Schwester",
+              "Maike Nagel"
+            ],
+            [
+              "Menge",
+              "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
+            ]
+          ],
           "links" : {
             "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/2/ffmetadata.txt",
             "xld_log" : "http://dreimetadaten.de/data/Serie/175/2/rip_log.txt"
@@ -19573,6 +19737,68 @@
               "start" : 3552200,
               "end" : 4166493
             }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Taylor-Jackson",
+              "Jona Mues"
+            ],
+            [
+              "Jason",
+              "Woody Mues"
+            ],
+            [
+              "Ivy",
+              "Leonie Lander"
+            ],
+            [
+              "Prof. Haynthorb",
+              "Wolfgang Draeger"
+            ],
+            [
+              "Mrs. Fernandez",
+              "Anja Topf"
+            ],
+            [
+              "Samantha",
+              "Henrike Fehrs"
+            ],
+            [
+              "Francine Breckenridge",
+              "Elga Schütz"
+            ],
+            [
+              "Dr. Wilcomb",
+              "Heinz Lieven"
+            ],
+            [
+              "3. Polizist",
+              "Franziskus Navek"
+            ],
+            [
+              "Mr. Andrews",
+              "Henry König"
+            ],
+            [
+              "Menge",
+              "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
+            ]
           ],
           "links" : {
             "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/3/ffmetadata.txt",
@@ -19627,7 +19853,7 @@
         ],
         [
           "Corvy",
-          "Karin Suender"
+          "Karen Suender"
         ],
         [
           "Lemuel Garvine",
@@ -19662,15 +19888,15 @@
           "Klaus Krückemeyer"
         ],
         [
-          "1.Polizist",
+          "1. Polizist",
           "Tim Kreuer"
         ],
         [
-          "2.Polizist",
+          "2. Polizist",
           "Jesse Grimm"
         ],
         [
-          "Stimme (TS)",
+          "Telefonstimme",
           "Wolfgang Völz"
         ],
         [
@@ -19711,15 +19937,19 @@
         ],
         [
           "Prof. Haynthorb",
-          "Wolfgang Dräger"
+          "Wolfgang Draeger"
         ],
         [
           "Dr. Wilcomb",
           "Heinz Lieven"
         ],
         [
-          "Polizist",
+          "3. Polizist",
           "Franziskus Navek"
+        ],
+        [
+          "Menge",
+          "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
         ]
       ],
       "links" : {
