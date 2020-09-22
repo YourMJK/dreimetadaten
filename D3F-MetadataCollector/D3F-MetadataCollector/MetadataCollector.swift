@@ -19,6 +19,7 @@ class MetadataCollector {
 	}
 	enum CollectionType: String {
 		case serie = "serie"
+		case spezial = "spezial"
 		case die_dr3i = "die_dr3i"
 	}
 	enum OutputType: String {
@@ -169,11 +170,11 @@ class MetadataCollector {
 		switch collectionType {
 			case .serie:
 				createEmptyIfNil(&self.metadata.serie)
+			case .spezial:
+				createEmptyIfNil(&self.metadata.spezial)
 			case .die_dr3i:
 				createEmptyIfNil(&self.metadata.die_dr3i)
 		}
-		
-		createEmptyIfNil(&self.metadata.die_dr3i)
 		
 		for url in inputURLs {
 			stderr("> \(url.path)")
@@ -247,7 +248,7 @@ class MetadataCollector {
 	}
 	
 	func handleFFMetadata<T: StringProtocol>(lines: [T], collectionType: CollectionType, overwrite: Bool) throws {
-		func findTagValue(tag: String, required: Bool = false, inRange range: Range<Int>? = nil) throws -> (tag: String, value: T.SubSequence, line: Int)? {
+		func findTagValue(tag: String, required: Bool = false, inRange range: Range<Int>? = nil) throws -> (tag: String, value: String, line: Int)? {
 			guard let lineIndex = lines[range ?? lines.indices].firstIndex(where: { $0.hasPrefix(tag+"=") }) else {
 				if required {
 					throw FFMetadataParseError.missingRequiredTag(tag: tag, range: range)
@@ -259,22 +260,30 @@ class MetadataCollector {
 			
 			let line = lines[lineIndex]
 			let seperatorIndex = line.firstIndex(of: "=")!
-			let value = line[line.index(after: seperatorIndex)...]
+			let value = line[line.index(after: seperatorIndex)...].replacingOccurrences(of: "\\=", with: "=")
 			
 			return (tag: tag, value: value, line: lineIndex)
 		}
 		
 		// Parse "nummer" and "titel" from album tag 
 		let (_, albumValue, _) = try findTagValue(tag: "album", required: true)!
-		guard let nummerIdentifierRange = albumValue.range(of: "Nr. "), let titelIdentifierRange = albumValue.range(of: " – ") else {
+		let nummerIdentifierRange = albumValue.range(of: "Nr. ")
+		guard let titelIdentifierRange = albumValue.range(of: " – ") else {
 			throw FFMetadataParseError.albumTagParseError
 		}
 		let folgenTitel = String(albumValue[titelIdentifierRange.upperBound...])
 		
-		let nummerStringStart = nummerIdentifierRange.upperBound
-		let nummerStringEnd = titelIdentifierRange.lowerBound
-		let nummerString = albumValue[nummerStringStart..<nummerStringEnd]
-		guard let nummer = UInt(nummerString) else {
+		var nummer: UInt?
+		if let nummerIdentifierRange = nummerIdentifierRange {
+			let nummerStringStart = nummerIdentifierRange.upperBound
+			let nummerStringEnd = titelIdentifierRange.lowerBound
+			let nummerString = albumValue[nummerStringStart..<nummerStringEnd]
+			nummer = UInt(nummerString)
+			guard nummer != nil else {
+				throw FFMetadataParseError.albumTagParseError
+			}
+		}
+		else if collectionType == .serie || collectionType == .die_dr3i {
 			throw FFMetadataParseError.albumTagParseError
 		}
 		
@@ -334,7 +343,7 @@ class MetadataCollector {
 		func update<T: Equatable>(_ oldValue: inout T?, to newValue: T?, description: String) {
 			if !overwrite, let oldValue = oldValue {  // no-overwrite and value is non-nil
 				if newValue != oldValue {
-					stderr("Warning (Folge \(nummer)): New value for \"\(description)\" of \"\(newValue != nil ? String(describing: newValue!) : "(nil)"))\" differs from current value \"\(oldValue)\", but the overwrite option was not specified. New value is ignored.")
+					stderr("Warning (Folge \(String(describing: nummer))): New value for \"\(description)\" of \"\(newValue != nil ? String(describing: newValue!) : "(nil)"))\" differs from current value \"\(oldValue)\", but the overwrite option was not specified. New value is ignored.")
 				}
 				return
 			}
@@ -346,28 +355,32 @@ class MetadataCollector {
 			}
 		}
 		
+
+		// Find or create Höreinheit based on nummer/titel
+		let höreinheit: Höreinheit = {
+			switch collectionType {
+				case .serie: return findOrCreateFolge(nummer: nummer!, in: &metadata.serie!)
+				case .spezial: return findOrCreateHöreinheit(titel: folgenTitel, in: &metadata.spezial!)
+				case .die_dr3i: return findOrCreateFolge(nummer: nummer!, in: &metadata.die_dr3i!)
+				//default: exit(error: "Unsupported collection type for this method")
+			}
+		}()
 		
-		switch collectionType {
-			case .serie, .die_dr3i:
-				// Find or create folge/teil based on nummer
-				let folge = (collectionType == .serie ? findOrCreateFolge(nummer: nummer, in: &metadata.serie!) : findOrCreateFolge(nummer: nummer, in: &metadata.die_dr3i!))
-				
-				if let teilNummer = teilNummer {
-					let teil = findOrCreateTeil(teilNummer: teilNummer, in: folge)
-					
-					update(&teil.buchstabe, to: buchstabe, description: "buchstabe")
-					update(&teil.titel, to: teilTitel, description: "titel")
-					update(&teil.kapitel, to: kapitels, description: "kapitel")
-					try update(&teil.autor, toValueOfTag: "composer", description: "autor")
-					try update(&teil.hörspielskriptautor, toValueOfTag: "album_artist", description: "hörspielskriptautor")
-					update(&folge.titel, to: folgenTitel, description: "titel")
-				}
-				else {
-					update(&folge.titel, to: folgenTitel, description: "titel")
-					update(&folge.kapitel, to: kapitels, description: "kapitel")
-					try update(&folge.autor, toValueOfTag: "composer", description: "autor")
-					try update(&folge.hörspielskriptautor, toValueOfTag: "album_artist", description: "hörspielskriptautor")
-				}
+		if let teilNummer = teilNummer {
+			let teil = findOrCreateTeil(teilNummer: teilNummer, in: höreinheit)
+			
+			update(&teil.buchstabe, to: buchstabe, description: "buchstabe")
+			update(&teil.titel, to: teilTitel, description: "titel")
+			update(&teil.kapitel, to: kapitels, description: "kapitel")
+			try update(&teil.autor, toValueOfTag: "composer", description: "autor")
+			try update(&teil.hörspielskriptautor, toValueOfTag: "album_artist", description: "hörspielskriptautor")
+			update(&höreinheit.titel, to: folgenTitel, description: "titel")
+		}
+		else {
+			update(&höreinheit.titel, to: folgenTitel, description: "titel")
+			update(&höreinheit.kapitel, to: kapitels, description: "kapitel")
+			try update(&höreinheit.autor, toValueOfTag: "composer", description: "autor")
+			try update(&höreinheit.hörspielskriptautor, toValueOfTag: "album_artist", description: "hörspielskriptautor")
 		}
 	}
 	
@@ -518,15 +531,19 @@ class MetadataCollector {
 			throw DataDirParseError.noSuchDirectory
 		}
 		
-		guard let nummer = UInt(directory.lastPathComponent) else {
+		let nummer = UInt(directory.lastPathComponent)
+		if nummer == nil && (collectionType == .serie || collectionType == .die_dr3i) {
 			throw DataDirParseError.invalidDirectoryName
 		}
+		let titelSpezial = directory.lastPathComponent
 		
 		
 		let höreinheit: Höreinheit = {
 			switch collectionType {
-				case .serie: return findOrCreateFolge(nummer: nummer, in: &metadata.serie!)
-				case .die_dr3i: return findOrCreateFolge(nummer: nummer, in: &metadata.die_dr3i!) 
+				case .serie: return findOrCreateFolge(nummer: nummer!, in: &metadata.serie!)
+				case .spezial: return findOrCreateHöreinheit(titel: titelSpezial, in: &metadata.spezial!)
+				case .die_dr3i: return findOrCreateFolge(nummer: nummer!, in: &metadata.die_dr3i!)
+				//default: exit(error: "Unsupported collection type for this method")
 			}
 		}()
 		
@@ -771,6 +788,18 @@ class MetadataCollector {
 		let indexOfSuccessor = höreinheit.teile!.firstIndex { $0.teilNummer > teilNummer }
 		höreinheit.teile!.insert(teil, at: indexOfSuccessor ?? höreinheit.teile!.endIndex)
 		return teil
+	}
+	func findOrCreateHöreinheit<S: StringProtocol>(titel: S, in collection: inout [Höreinheit]) -> Höreinheit {
+		if let höreinheit = collection.first(where: { ($0.titel != nil) ? ($0.titel! == titel) : false }) {
+			return höreinheit
+		}
+		else {
+			let höreinheit = Höreinheit()
+			höreinheit.titel = String(titel)
+			let indexOfSuccessor = collection.firstIndex { ($0.titel != nil) ? ($0.titel! > titel) : false }
+			collection.insert(höreinheit, at: indexOfSuccessor ?? collection.endIndex)
+			return höreinheit
+		}
 	}
 	
 }

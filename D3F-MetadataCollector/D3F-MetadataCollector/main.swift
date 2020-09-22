@@ -10,7 +10,7 @@ import Foundation
 
 
 let usage = """
-Usage:   \(ProgramName) [-c <current JSON>] [--overwrite] -o (json | csv) [-i (csv | ffmetadata | dataDir | mbDiscIDList) (serie | die_dr3i) <input files ...>]
+Usage:   \(ProgramName) [-c <current JSON>] [--overwrite] -o (json | csv) [-i (csv | ffmetadata | dataDir | mbDiscIDList) (serie | spezial | die_dr3i) <input files ...>]
 
 Example: \(ProgramName) -c master.json -o json -i csv daten1.csv daten2.csv
 """
