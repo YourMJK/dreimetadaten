@@ -67,29 +67,7 @@ class MetadataCollector {
 				exit(error: "Not implemented")
 			
 			case .json:
-				do {
-					let jsonEncoder = JSONEncoder()
-					jsonEncoder.outputFormatting = [.prettyPrinted, .sortedKeys /*, .withoutEscapingSlashes*/]
-					jsonEncoder.keyEncodingStrategy = .custom({ Metadata.OrderedCodingKey($0.last!) })
-					let jsonData = try jsonEncoder.encode(metadata)
-					guard var jsonString = String(data: jsonData, encoding: .utf8) else {
-						exit(error: "Invalid UTF8 format in output JSON")
-					}
-					
-					// Replace prefixed ordered keys with normal keys again
-					for key in Metadata.OrderedCodingKey.ordering {
-						let prefixedKey = Metadata.OrderedCodingKey.prefixedKeyString(keyString: key)
-						let target = "\"\(prefixedKey)\""
-						let replacement = "\"\(key)\""
-						jsonString = jsonString.replacingOccurrences(of: target, with: replacement)  // despite copy overhead 10x faster than range(of:) + mutating replaceSubrange()
-					}
-					jsonString = jsonString.replacingOccurrences(of: "\\/", with: "/")
-					
-					return jsonString
-				}
-				catch {
-					exit(error: "Couldn't generate output JSON: \(error)")
-				}
+				return metadata.createJSONString()
 		}
 	}
 	

@@ -171,6 +171,42 @@ extension Metadata {
 			return String(format: "%02d_%@", number, keyString)
 		}
 	}
+	
+	
+	static func createJSONString<T: Encodable>(of object: T) throws -> String {
+		do {
+			let jsonEncoder = JSONEncoder()
+			jsonEncoder.outputFormatting = [.prettyPrinted, .sortedKeys /*, .withoutEscapingSlashes*/]
+			jsonEncoder.keyEncodingStrategy = .custom({ Self.OrderedCodingKey($0.last!) })
+			let jsonData = try jsonEncoder.encode(object)
+			guard var jsonString = String(data: jsonData, encoding: .utf8) else {
+				exit(error: "Invalid UTF8 format in output JSON")
+			}
+			
+			// Replace prefixed ordered keys with normal keys again
+			for key in Self.OrderedCodingKey.ordering {
+				let prefixedKey = Self.OrderedCodingKey.prefixedKeyString(keyString: key)
+				let target = "\"\(prefixedKey)\""
+				let replacement = "\"\(key)\""
+				jsonString = jsonString.replacingOccurrences(of: target, with: replacement)  // despite copy overhead 10x faster than range(of:) + mutating replaceSubrange()
+			}
+			jsonString = jsonString.replacingOccurrences(of: "\\/", with: "/")
+			
+			return jsonString
+		}
+		catch {
+			exit(error: "Couldn't generate output JSON: \(error)")
+		}
+	}
+	
+	func createJSONString() -> String {
+		do {
+			return try Self.createJSONString(of: self)
+		}
+		catch {
+			exit(error: "Couldn't generate master JSON: \(error)")
+		}
+	}
 }
 
 
