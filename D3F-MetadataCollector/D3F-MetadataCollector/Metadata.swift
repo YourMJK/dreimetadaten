@@ -31,9 +31,9 @@ class Höreinheit: Codable {
 
 
 class Folge: Höreinheit {
-	let nummer: UInt
+	let nummer: Int
 	
-	init(nummer: UInt) {
+	init(nummer: Int) {
 		self.nummer = nummer
 		super.init()
 	}
@@ -46,7 +46,7 @@ class Folge: Höreinheit {
 	}
 	required init(from decoder: Decoder) throws {
 		let container = try decoder.container(keyedBy: CodingKeys.self)
-		nummer = try container.decode(UInt.self, forKey: .nummer)
+		nummer = try container.decode(Int.self, forKey: .nummer)
 		try super.init(from: decoder)
 	}
 	override func encode(to encoder: Encoder) throws {

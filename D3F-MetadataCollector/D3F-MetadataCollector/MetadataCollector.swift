@@ -251,12 +251,12 @@ class MetadataCollector {
 		}
 		let folgenTitel = String(albumValue[titelIdentifierRange.upperBound...])
 		
-		var nummer: UInt?
+		var nummer: Int?
 		if let nummerIdentifierRange = nummerIdentifierRange {
 			let nummerStringStart = nummerIdentifierRange.upperBound
 			let nummerStringEnd = titelIdentifierRange.lowerBound
 			let nummerString = albumValue[nummerStringStart..<nummerStringEnd]
-			nummer = UInt(nummerString)
+			nummer = Int(nummerString)
 			guard nummer != nil else {
 				throw FFMetadataParseError.albumTagParseError
 			}
@@ -439,7 +439,7 @@ class MetadataCollector {
 			return result
 		}
 		
-		guard let nummer = UInt(components[0]) else {
+		guard let nummer = Int(components[0]) else {
 			throw CSVParseError.invalidCSVComponentFormat(component: 0, info: nil)
 		}
 		let folgenTitel = try convertString(component: 1)
@@ -509,7 +509,7 @@ class MetadataCollector {
 			throw DataDirParseError.noSuchDirectory
 		}
 		
-		let nummer = UInt(directory.lastPathComponent)
+		let nummer = Int(directory.lastPathComponent)
 		if nummer == nil && (collectionType == .serie || collectionType == .die_dr3i) {
 			throw DataDirParseError.invalidDirectoryName
 		}
@@ -687,7 +687,7 @@ class MetadataCollector {
 		}
 		let nummerStartIndex = title.index(after: nummerIdentifierIndex)
 		let nummerString = title[nummerStartIndex..<nummerEndIndex]
-		guard let nummer = UInt(nummerString) else {
+		guard let nummer = Int(nummerString) else {
 			throw MBDiscIDListParseError.invalidTitleFormat
 		}
 		
@@ -741,7 +741,7 @@ class MetadataCollector {
 	
 	
 	
-	func findOrCreateFolge(nummer: UInt, in collection: inout [Folge]) -> Folge {
+	func findOrCreateFolge(nummer: Int, in collection: inout [Folge]) -> Folge {
 		if let folge = collection.first(where: { $0.nummer == nummer }) {
 			return folge
 		}
