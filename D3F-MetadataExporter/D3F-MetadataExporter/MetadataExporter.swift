@@ -44,8 +44,99 @@ class MetadataExporter {
 	
 	
 	
-	func exportMetadata(to: URL, outputType: OutputType) {
-		//TODO
+	func exportMetadata(to baseURL: URL, outputType: OutputType) {
+		var isDirectory: ObjCBool = false
+		guard FileManager.default.fileExists(atPath: baseURL.path, isDirectory: &isDirectory) && isDirectory.boolValue else {
+			exit(error: "No such directory \"\(baseURL.path)\"")
+		}
+		
+		let collectionPairs: [(collection: [Höreinheit]?, name: String)] = [
+			(metadata.serie, "Serie"),
+			(metadata.spezial, "Spezial"),
+			(metadata.kurzgeschichten, "Kurzgeschichten"),
+			(metadata.die_dr3i, "DiE_DR3i"),
+		]
+		
+		for collectionPair in collectionPairs {
+			guard let collection = collectionPair.collection else { continue }
+			
+			let collectionURL = baseURL.appendingPathComponent(collectionPair.name, isDirectory: true)
+			guard createDirectoryIfNeccessary(at: collectionURL) else {
+				exit(1)
+			}
+			
+			for höreinheit in collection {
+				
+				// Generate directory name for the höreinheit
+				let name: String = {
+					func formatTitle(_ title: String?) -> String {
+						guard title != nil else {
+							exit(error: "Missing title for \(höreinheit)")
+						}
+						let replacements: [Character: String] = [
+							"ä": "ae",
+							"Ä": "Ae",
+							"ö": "oe",
+							"Ö": "Oe",
+							"ü": "ue",
+							"Ü": "Ue",
+							"ß": "ss",
+							" ": "-",
+							".": "",
+							":": "",
+							",": "",
+							";": "",
+						]
+						var formattedTitle = ""
+						for character in title! {
+							if let replacement = replacements[character] {
+								formattedTitle.append(replacement)
+							}
+							else {
+								formattedTitle.append(character)
+							}
+						}
+						return formattedTitle
+					}
+					
+					if let folge = höreinheit as? Folge {
+						if folge.nummer >= 0 {
+							return String(folge.nummer)
+						}
+						return formatTitle(folge.titel)
+					}
+					return formatTitle(höreinheit.titel)
+				}()
+				let url = collectionURL.appendingPathComponent(name, isDirectory: true)
+				
+				// Export metadata of höreinheit
+				do {
+					switch outputType {
+						case .json: try exportAsJSON(höreinheit, to: url)
+					}
+				}
+				catch {
+					stderr("Error: Couldn't export metadata for \"\(höreinheit.titel ?? "(nil)")\": \(error)")
+				}
+				
+			}
+		}
 	}
 	
+	func exportAsJSON(_ höreinheit: Höreinheit, to baseDirectory: URL) throws {
+		// TODO
+	}
+	
+	
+	
+	func createDirectoryIfNeccessary(at url: URL) -> Bool {
+		do {
+			try FileManager.default.createDirectory(atPath: url.path, withIntermediateDirectories: true, attributes: nil)
+		}
+		catch {
+			stderr("Error:  Couldn't create directory at \"\(url.path)\": \(error)")
+			return false
+		}
+		return true
+	}
 }
