@@ -124,7 +124,21 @@ class MetadataExporter {
 	}
 	
 	func exportAsJSON(_ höreinheit: Höreinheit, to baseDirectory: URL) throws {
-		// TODO
+		stdout("> \(baseDirectory.path)")
+		guard createDirectoryIfNeccessary(at: baseDirectory) else {
+			return
+		}
+		
+		let fileURL = baseDirectory.appendingPathComponent("metadata.json")
+		let jsonString = try Metadata.createJSONString(of: höreinheit)
+		try jsonString.write(to: fileURL, atomically: true, encoding: .utf8)
+		
+		if let teile = höreinheit.teile {
+			for teil in teile {
+				let teilURL = baseDirectory.appendingPathComponent(String(teil.teilNummer))
+				try exportAsJSON(teil, to: teilURL)
+			}
+		}
 	}
 	
 	
@@ -139,4 +153,5 @@ class MetadataExporter {
 		}
 		return true
 	}
+	
 }
