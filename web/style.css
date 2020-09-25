@@ -24,11 +24,13 @@
 
 
 * {
+	--color-red: #ED1B23;
 	--color-blue: #2080FF;
 	--color-gray0: #202020;
 	--color-gray1: #404040;
 	
-	--tablerowHoverBG: rgba(0,0,0,0.05)
+	--tablerowHoverBG: rgba(0,0,0,0.05);
+	--tablerowMissingDataBG: rgba(237,27,35,0.1);
 }
 
 
