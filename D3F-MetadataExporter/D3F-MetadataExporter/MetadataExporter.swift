@@ -65,6 +65,16 @@ class MetadataExporter {
 				exit(1)
 			}
 			
+			let numberOfDigts: UInt = {
+				var number = collection.count
+				var orderOfMagnitude: UInt = 0
+				while number != 0 {
+					orderOfMagnitude += 1
+					number /= 10
+				}
+				return orderOfMagnitude
+			}()
+			
 			for höreinheit in collection {
 				
 				// Generate directory name for the höreinheit
@@ -101,7 +111,7 @@ class MetadataExporter {
 					
 					if let folge = höreinheit as? Folge {
 						if folge.nummer >= 0 {
-							return String(folge.nummer)
+							return String(format: "%0\(numberOfDigts)d", folge.nummer)
 						}
 						return formatTitle(folge.titel)
 					}
