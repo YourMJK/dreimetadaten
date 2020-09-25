@@ -1,0 +1,105 @@
+{
+  "teilNummer" : 2,
+  "buchstabe" : "B",
+  "titel" : "Das vergessene Volk",
+  "beschreibung" : "Dichter Urwald, ein Vulkankrater und eine unbewohnte Insel.\nPeter Shaw – ganz auf sich allein gestellt – durchlebt im Dschungel einen wahren Albtraum. Wer ist das entstellte Narbengesicht, dem er urplötzlich in einer unterirdischen Höhle gegenüber steht?",
+  "kapitel" : [
+    {
+      "titel" : "Die Schattenmänner",
+      "start" : 0,
+      "end" : 500840
+    },
+    {
+      "titel" : "Der rasende Löwe",
+      "start" : 500840,
+      "end" : 1070627
+    },
+    {
+      "titel" : "Der Doppelgänger",
+      "start" : 1070627,
+      "end" : 1677840
+    },
+    {
+      "titel" : "Der magische Kreis",
+      "start" : 1677840,
+      "end" : 2187973
+    },
+    {
+      "titel" : "Das Narbengesicht",
+      "start" : 2187973,
+      "end" : 2922893
+    },
+    {
+      "titel" : "Nacht in Angst",
+      "start" : 2922893,
+      "end" : 3376800
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Skinny Norris",
+      "Andreas von der Meden"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Jelena",
+      "Alexandra Doerk"
+    ],
+    [
+      "Professor Phoenix",
+      "Wilfried Glatzeder"
+    ],
+    [
+      "Dr. Svenson",
+      "Antje Roosch"
+    ],
+    [
+      "Mr. Schwarz",
+      "Erik Schäffler"
+    ],
+    [
+      "Mr. Olin",
+      "Uli Krohm"
+    ],
+    [
+      "Juan",
+      "Oliver Böttcher"
+    ],
+    [
+      "Rachel Hadden",
+      "Anna Carlsson"
+    ],
+    [
+      "Al",
+      "Nico König"
+    ],
+    [
+      "Anne",
+      "Corinna Wodrich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/100/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/2/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/100/2/rip_log.txt"
+  }
+}

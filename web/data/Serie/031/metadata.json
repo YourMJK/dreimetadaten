@@ -1,0 +1,115 @@
+{
+  "nummer" : 31,
+  "titel" : "und das Narbengesicht",
+  "autor" : "M. V. Carey",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Ist das Narbengesicht wirklich blind? Zweifel erscheinen angebracht, nachdem ziemlich sicher ist, daß dieser seltsame Mann bei einem Banküberfall Schmiere gestanden hat. Offene und ungeklärte Fragen haben die drei ??? schon immer interessiert. Eine verlorene Brieftasche verhilft ihnen zum Einstieg in einen Kriminalfall, bei dem es um weit mehr als nur einen Banküberfall geht.",
+  "veröffentlichungsdatum" : "1983-03-11",
+  "kapitel" : [
+    {
+      "titel" : "Ein Blinder läuft davon",
+      "start" : 0,
+      "end" : 413907
+    },
+    {
+      "titel" : "Ein neuer Fall für die drei ???",
+      "start" : 413907,
+      "end" : 800533
+    },
+    {
+      "titel" : "Mr. Bonestells Bericht",
+      "start" : 800533,
+      "end" : 1205347
+    },
+    {
+      "titel" : "Neue Fährten",
+      "start" : 1205347,
+      "end" : 1483067
+    },
+    {
+      "titel" : "Die Terroristen",
+      "start" : 1483067,
+      "end" : 1816760
+    },
+    {
+      "titel" : "Die Warnung",
+      "start" : 1816760,
+      "end" : 2102840
+    },
+    {
+      "titel" : "Ernie macht Geschäfte",
+      "start" : 2102840,
+      "end" : 2558907
+    },
+    {
+      "titel" : "Ein Alptraum wird wahr!",
+      "start" : 2558907,
+      "end" : 2984573
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Shelby Tuckerman",
+      "Pinkas Braun"
+    ],
+    [
+      "Mr. Hitfield",
+      "Christian Riege [Manfred Steffen]"
+    ],
+    [
+      "Mr. Bonestell",
+      "Joachim Richert"
+    ],
+    [
+      "Mrs. Denicola",
+      "Katharina Brauren"
+    ],
+    [
+      "Eileen",
+      "Ruth Niehaus"
+    ],
+    [
+      "Ernie",
+      "Helmut Zierl"
+    ],
+    [
+      "Polizist",
+      "Harald Pages"
+    ],
+    [
+      "Hoang Van Dong",
+      "Chen Lung Chung [Volker Brandt]"
+    ],
+    [
+      "Frau an der Bushaltestelle",
+      "Ursula Vogel"
+    ],
+    [
+      "Nachrichtensprecher",
+      "Joachim Wolff"
+    ],
+    [
+      "Patrick",
+      "Joachim Richert"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/031/metadata.json"
+  }
+}

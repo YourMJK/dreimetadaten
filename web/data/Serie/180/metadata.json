@@ -1,0 +1,111 @@
+{
+  "nummer" : 180,
+  "titel" : "und die flüsternden Puppen",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Das Mädchen Bianca wurde entführt! Am helllichten Tag, direkt vor einem Fitnessstudio! Eine Botschaft, offenbar in Panik auf einem alten Walkman hinterlassen, ist der einzige Hinweis. Die drei ??? verfolgen die Spur der Entführer bis zu einer verlassenen Hütte in Mexiko – und bringen sich dabei selbst in Gefahr.",
+  "veröffentlichungsdatum" : "2016-03-04",
+  "kapitel" : [
+    {
+      "titel" : "Eine Leiche Im Sessel",
+      "start" : 0,
+      "end" : 397987
+    },
+    {
+      "titel" : "Bianca",
+      "start" : 397987,
+      "end" : 892067
+    },
+    {
+      "titel" : "In einer anderen Welt",
+      "start" : 892067,
+      "end" : 1160013
+    },
+    {
+      "titel" : "Im dunklen Nirgendwo",
+      "start" : 1160013,
+      "end" : 2146773
+    },
+    {
+      "titel" : "Tote Augen",
+      "start" : 2146773,
+      "end" : 2489973
+    },
+    {
+      "titel" : "Aus drei mach eins",
+      "start" : 2489973,
+      "end" : 2952200
+    },
+    {
+      "titel" : "Sicheres Todesurteil",
+      "start" : 2952200,
+      "end" : 3273373
+    },
+    {
+      "titel" : "Die 7. Zeugin",
+      "start" : 3273373,
+      "end" : 4667840
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Michael Rompa",
+      "Mario Ramos"
+    ],
+    [
+      "Afton",
+      "Julia Fölster"
+    ],
+    [
+      "Skinny Norris",
+      "Michael Harck"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Godween",
+      "André Minninger"
+    ],
+    [
+      "Chef",
+      "Eric Schäffler"
+    ],
+    [
+      "Ron",
+      "Gordon Piedesack"
+    ],
+    [
+      "Ansage",
+      "Joachim Langer"
+    ],
+    [
+      "Oma",
+      "Renate Pichler"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/180/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/180/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/180/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/180/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/1e/d7/68/1ed768c8-0795-7e05-d196-3a24fa981a84/886444278751.jpg/3000x0w.png"
+  }
+}

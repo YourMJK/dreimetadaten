@@ -1,0 +1,97 @@
+{
+  "nummer" : 190,
+  "titel" : "und die Kammer der Rätsel",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein Auftrag der seltsamen Art: Die drei ??? sollen bei einer Wette behilflich sein. Gesucht ist ein Team aus klugen Köpfen, die sich in weniger als fünf Stunden aus fünf verschiedenen Rätselräumen befreien können. Wer wäre da geeigneter als Justus, Peter und Bob? Doch was zunächst als Spaß beginnt, entpuppt sich bald als gefährlicher Ernst …",
+  "veröffentlichungsdatum" : "2017-12-01",
+  "kapitel" : [
+    {
+      "titel" : "Eine Bitte an Experten",
+      "start" : 0,
+      "end" : 483760
+    },
+    {
+      "titel" : "Merkwürdiger Empfang",
+      "start" : 483760,
+      "end" : 1106213
+    },
+    {
+      "titel" : "Gefangen in Kammer eins",
+      "start" : 1106213,
+      "end" : 1746320
+    },
+    {
+      "titel" : "Auf Kollisionskurs",
+      "start" : 1746320,
+      "end" : 2077440
+    },
+    {
+      "titel" : "Ohne Wasser",
+      "start" : 2077440,
+      "end" : 2823400
+    },
+    {
+      "titel" : "Zwei Glücksjäger",
+      "start" : 2823400,
+      "end" : 3834400
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus",
+      "Rüdiger Schulzki"
+    ],
+    [
+      "Jeff Ranaldo",
+      "Till Huster"
+    ],
+    [
+      "Mr. McBrandon",
+      "Rainer Brandt"
+    ],
+    [
+      "Sandy",
+      "Anna Carlsson"
+    ],
+    [
+      "Roboter",
+      "Joachim Kretzer"
+    ],
+    [
+      "Computerstimme",
+      "Hansi Jochmann"
+    ],
+    [
+      "Bruce Torino",
+      "Michael Lott"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/190/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/190/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/190/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/190/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/98/1e/4d/981e4df8-4c0d-de73-53bb-9dfd3a85f635/886445992540.jpg/3000x0w.png"
+  }
+}

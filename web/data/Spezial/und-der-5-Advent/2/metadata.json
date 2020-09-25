@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 2,
+  "kapitel" : [
+    {
+      "titel" : "9. Dezember",
+      "start" : 0,
+      "end" : 418440
+    },
+    {
+      "titel" : "10. Dezember",
+      "start" : 418440,
+      "end" : 808827
+    },
+    {
+      "titel" : "11. Dezember",
+      "start" : 808827,
+      "end" : 1281680
+    },
+    {
+      "titel" : "12. Dezember",
+      "start" : 1281680,
+      "end" : 1650720
+    },
+    {
+      "titel" : "13. Dezember",
+      "start" : 1650720,
+      "end" : 2057747
+    },
+    {
+      "titel" : "14. Dezember",
+      "start" : 2057747,
+      "end" : 2301000
+    },
+    {
+      "titel" : "15. Dezember",
+      "start" : 2301000,
+      "end" : 2676493
+    },
+    {
+      "titel" : "16. Dezember",
+      "start" : 2676493,
+      "end" : 2843747
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/2/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/2/rip_log.txt"
+  }
+}

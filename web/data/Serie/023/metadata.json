@@ -1,0 +1,115 @@
+{
+  "nummer" : 23,
+  "titel" : "und das Aztekenschwert",
+  "autor" : "William Arden",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Die Brüder Pico und Diego Alvaro verlieren durch ein Feuer ihren ganzen Besitz. Eine wahrhaft unrealistische, aber von den drei ???, befeuert durch Justus' Eigen- und Spürsinnsinn, gehegte Hoffnung könnte die Lage zum Guten wenden: wenn sich nämlich das juwelenbesetzte sogenannte Aztekenschwert finden ließe, das ein Alvaro-Ahn seinerzeit von Cortez persönlich geschenkt bekam. Mühselige und teilweise lebensgefährliche Ermittlungen – und immer verfolgt von undurchsichtigen Fremden – bringen die drei ??? und Diego auf eine heiße Spur. Wird es den vier Jungen gelingen, noch vor ihren Verfolgern das legendäre Cortez-Schwert zu finden?",
+  "veröffentlichungsdatum" : "1981-05-14",
+  "kapitel" : [
+    {
+      "titel" : "Es geht hart auf hart",
+      "start" : 0,
+      "end" : 307133
+    },
+    {
+      "titel" : "Feuer!",
+      "start" : 307133,
+      "end" : 665760
+    },
+    {
+      "titel" : "Die Suche beginnt",
+      "start" : 665760,
+      "end" : 949947
+    },
+    {
+      "titel" : "Die alte Landkarte",
+      "start" : 949947,
+      "end" : 1275560
+    },
+    {
+      "titel" : "Der Sheriff waltet seines Amtes",
+      "start" : 1275560,
+      "end" : 1587587
+    },
+    {
+      "titel" : "Entdeckung in der Brandruine",
+      "start" : 1587587,
+      "end" : 1914053
+    },
+    {
+      "titel" : "Das Versteck",
+      "start" : 1914053,
+      "end" : 2245960
+    },
+    {
+      "titel" : "Das Schwert des Cortez",
+      "start" : 2245960,
+      "end" : 2565680
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Skinny",
+      "Andreas von der Meden"
+    ],
+    [
+      "Cody",
+      "Simon Schuchadt [Wolfgang Kaven]"
+    ],
+    [
+      "Diego Alvaro",
+      "Jan Odle"
+    ],
+    [
+      "Pico Alvaro",
+      "Mathias Lorenz"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Assistent",
+      "Claes Holmcrantz [Gernot Endemann]"
+    ],
+    [
+      "Sheriff",
+      "F.J. Steffens"
+    ],
+    [
+      "Tulsa",
+      "Klaus Klein [F.J. Steffens]"
+    ],
+    [
+      "Cap",
+      "Fritz Wegely [Siegfried Wald]"
+    ],
+    [
+      "Pike",
+      "Philip Mehringer [Joachim Wolff]"
+    ],
+    [
+      "Mr. Shaw",
+      "F.J. Steffens"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/023/metadata.json"
+  }
+}

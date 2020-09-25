@@ -1,0 +1,260 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "kapitel" : [
+        {
+          "titel" : "Prolog",
+          "start" : 0,
+          "end" : 68400
+        },
+        {
+          "titel" : "Sandfield",
+          "start" : 68400,
+          "end" : 317720
+        },
+        {
+          "titel" : "Brother Jonathan",
+          "start" : 317720,
+          "end" : 1169600
+        },
+        {
+          "titel" : "Tauchgang",
+          "start" : 1169600,
+          "end" : 1466533
+        },
+        {
+          "titel" : "Hai-Alarm",
+          "start" : 1466533,
+          "end" : 1729467
+        },
+        {
+          "titel" : "Pläne für Sandfield",
+          "start" : 1729467,
+          "end" : 2182733
+        },
+        {
+          "titel" : "Schatzsuche!",
+          "start" : 2182733,
+          "end" : 2513693
+        },
+        {
+          "titel" : "Paprika",
+          "start" : 2513693,
+          "end" : 2852240
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "kapitel" : [
+        {
+          "titel" : "Am Abgrund",
+          "start" : 0,
+          "end" : 471347
+        },
+        {
+          "titel" : "Afrika",
+          "start" : 471347,
+          "end" : 737973
+        },
+        {
+          "titel" : "Abbruchgefährdet",
+          "start" : 737973,
+          "end" : 1350440
+        },
+        {
+          "titel" : "Goldrausch",
+          "start" : 1350440,
+          "end" : 1531307
+        },
+        {
+          "titel" : "Verdacht",
+          "start" : 1531307,
+          "end" : 2102547
+        },
+        {
+          "titel" : "Elaine",
+          "start" : 2102547,
+          "end" : 2621133
+        },
+        {
+          "titel" : "Countdown",
+          "start" : 2621133,
+          "end" : 3035933
+        },
+        {
+          "titel" : "Glück im Unglück",
+          "start" : 3035933,
+          "end" : 3273800
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/rip_log.txt"
+      }
+    }
+  ],
+  "titel" : "und das versunkene Schiff",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "Kai Schwind",
+  "beschreibung" : "Liegt tatsächlich ein alter Goldschatz vor der Küste des Ferienortes von Justus, Peter und Bob? Prompt vergessen die drei ??? ihren Ärger über den verregneten Urlaub und nehmen die Jagd nach den versunkenen Reichtümern auf. Sie tauchen ein in die geheimnisvolle Geschichte des berühmtesten Dorfbewohners und heben ein dunkles Geheimnis …",
+  "veröffentlichungsdatum" : "2019-11-01",
+  "kapitel" : [
+    {
+      "titel" : "Prolog",
+      "start" : 0,
+      "end" : 68400
+    },
+    {
+      "titel" : "Sandfield",
+      "start" : 68400,
+      "end" : 317720
+    },
+    {
+      "titel" : "Brother Jonathan",
+      "start" : 317720,
+      "end" : 1169600
+    },
+    {
+      "titel" : "Tauchgang",
+      "start" : 1169600,
+      "end" : 1466533
+    },
+    {
+      "titel" : "Hai-Alarm",
+      "start" : 1466533,
+      "end" : 1729467
+    },
+    {
+      "titel" : "Pläne für Sandfield",
+      "start" : 1729467,
+      "end" : 2182733
+    },
+    {
+      "titel" : "Schatzsuche!",
+      "start" : 2182733,
+      "end" : 2513693
+    },
+    {
+      "titel" : "Paprika",
+      "start" : 2513693,
+      "end" : 2852240
+    },
+    {
+      "titel" : "Am Abgrund",
+      "start" : 2852240,
+      "end" : 3323587
+    },
+    {
+      "titel" : "Afrika",
+      "start" : 3323587,
+      "end" : 3590213
+    },
+    {
+      "titel" : "Abbruchgefährdet",
+      "start" : 3590213,
+      "end" : 4202680
+    },
+    {
+      "titel" : "Goldrausch",
+      "start" : 4202680,
+      "end" : 4383547
+    },
+    {
+      "titel" : "Verdacht",
+      "start" : 4383547,
+      "end" : 4954787
+    },
+    {
+      "titel" : "Elaine",
+      "start" : 4954787,
+      "end" : 5473373
+    },
+    {
+      "titel" : "Countdown",
+      "start" : 5473373,
+      "end" : 5888173
+    },
+    {
+      "titel" : "Glück im Unglück",
+      "start" : 5888173,
+      "end" : 6126040
+    }
+  ],
+  "sprecher" : [
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Erzäher",
+      "Thomas Fritsch"
+    ],
+    [
+      "Amanda Ellis",
+      "Simona Pahl"
+    ],
+    [
+      "Jo",
+      "Birte Kretschmer"
+    ],
+    [
+      "Steve Young",
+      "Till Huster"
+    ],
+    [
+      "Ford Follows",
+      "Stephan Benson"
+    ],
+    [
+      "Eric Ellis",
+      "Horst Stark"
+    ],
+    [
+      "Ricardo Yarbrough",
+      "Stefan Brönneke"
+    ],
+    [
+      "Bibliothekarin",
+      "Rosemarie Wohlbauer"
+    ],
+    [
+      "Mr. Friedman",
+      "Douglas Welbat"
+    ],
+    [
+      "Mann in der Bibliothek",
+      "Erik Schäffler"
+    ],
+    [
+      "Sekretärin",
+      "Christiane Leuchtmann"
+    ],
+    [
+      "Jackson Cooper",
+      "Oliver Bröttcher"
+    ],
+    [
+      "Mr. Miller",
+      "Pierre Brand"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/cover.png"
+  }
+}

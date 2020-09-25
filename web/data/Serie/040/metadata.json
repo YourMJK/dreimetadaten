@@ -1,0 +1,123 @@
+{
+  "nummer" : 40,
+  "titel" : "und der Automarder",
+  "autor" : "William Arden",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "In Rocky Beach klirren die Autoscheiben, die ein geheimnisvoller Automarder serienweise zertrümmert. Und nicht nur das: Ein Adler verschwindet. Ein Fall, der selbst für die drei Detektive unlösbar zu sein scheint. Doch dann geht dem Ersten Detektiv ein Licht auf!",
+  "veröffentlichungsdatum" : "1986-11-27",
+  "kapitel" : [
+    {
+      "titel" : "Zerbrochene Scheiben",
+      "start" : 0,
+      "end" : 335080
+    },
+    {
+      "titel" : "Justus entdeckt ein Schema",
+      "start" : 335080,
+      "end" : 644267
+    },
+    {
+      "titel" : "Anklage gegen die drei ???",
+      "start" : 644267,
+      "end" : 915480
+    },
+    {
+      "titel" : "Ein gestohlener Adler",
+      "start" : 915480,
+      "end" : 1411267
+    },
+    {
+      "titel" : "Der Täter, der nicht auffällt",
+      "start" : 1411267,
+      "end" : 1731587
+    },
+    {
+      "titel" : "Die nächste Telefonlawine rollt",
+      "start" : 1731587,
+      "end" : 2094680
+    },
+    {
+      "titel" : "Wer ist der Täter?",
+      "start" : 2094680,
+      "end" : 2402280
+    },
+    {
+      "titel" : "Ein Gewalttäter wird geschnappt",
+      "start" : 2402280,
+      "end" : 2821360
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Jacobs",
+      "Horst Naumann"
+    ],
+    [
+      "Paul Jacobs",
+      "Sascha Draeger"
+    ],
+    [
+      "Onkel Titus",
+      "Gottfried Kramer"
+    ],
+    [
+      "Tante Mathilda",
+      "Ingeborg Kallweit"
+    ],
+    [
+      "Mr. Temple",
+      "Jochen Sehrndt"
+    ],
+    [
+      "Sarah Temple",
+      "Svenja Pages"
+    ],
+    [
+      "Willard Temple",
+      "Ben Becker"
+    ],
+    [
+      "Polizeileutnant",
+      "Günter König"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Hauptkomm. Reynolds",
+      "Günter Flesch"
+    ],
+    [
+      "Margon",
+      "Henry Kielmann"
+    ],
+    [
+      "William Margon",
+      "Michael Grimm"
+    ],
+    [
+      "Passanten",
+      "Lothar Grützner, Hans Hessling"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/040/metadata.json"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "nummer" : 5,
+  "titel" : "Das Haus der 1.000 Rätsel",
+  "autor" : "Hendrik Buchna",
+  "hörspielskriptautor" : "Hendrik Buchna",
+  "beschreibung" : "Als Jupiter, Peter und Bob den Auftrag erhalten, einem alternden Filmstar bei der Klärung eines mysteriösen Vorfalls zu helfen, ahnen sie noch nicht, welch absurde Ereignisse sie erwarten. In einem abgelegenen Luxushotel stoßen sie auf die Spur eines geheimnisvollen Unbekannten, der sie mit einer Reihe tückischer Rätsel an den Rand der Verzweiflung treibt. Nichts ist so, wie es zu sein scheint. Als sich Die Dr3i im unheimlichen Kellergewölbe des Hotels schließlich am Ziel wähnen, erweist sich das Royal Mountain Residence endgültig als \"Haus der 1.000 Rätsel\" …",
+  "veröffentlichungsdatum" : "2007-02-09",
+  "kapitel" : [
+    {
+      "titel" : "Ein Star braucht Hilfe",
+      "start" : 0,
+      "end" : 232867
+    },
+    {
+      "titel" : "Gürtel, Karte, Taste",
+      "start" : 232867,
+      "end" : 601240
+    },
+    {
+      "titel" : "Die Fährte nach Marokko",
+      "start" : 601240,
+      "end" : 1232173
+    },
+    {
+      "titel" : "Eine legendäre Bar",
+      "start" : 1232173,
+      "end" : 1720267
+    },
+    {
+      "titel" : "Der rätselhafte Drink",
+      "start" : 1720267,
+      "end" : 2217320
+    },
+    {
+      "titel" : "Salon Moskva",
+      "start" : 2217320,
+      "end" : 2669573
+    },
+    {
+      "titel" : "Mademoiselle Nadine",
+      "start" : 2669573,
+      "end" : 3015507
+    },
+    {
+      "titel" : "Bobs Frisuren-Trauma",
+      "start" : 3015507,
+      "end" : 3338973
+    },
+    {
+      "titel" : "Smith & Wesson weisen den Weg",
+      "start" : 3338973,
+      "end" : 3587240
+    },
+    {
+      "titel" : "Showdown in der Finsternis",
+      "start" : 3587240,
+      "end" : 3871573
+    },
+    {
+      "titel" : "Lektion für den Meisterdetektiv",
+      "start" : 3871573,
+      "end" : 4409520
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Jupiter Jones",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Crenshaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Jack Doolan",
+      "Eckart Dux"
+    ],
+    [
+      "Harold",
+      "Gernot Endemann"
+    ],
+    [
+      "Miss Lana",
+      "Sabine Schmidt-Kirchner"
+    ],
+    [
+      "Mademoiselle Nadine",
+      "Jennie Appel"
+    ],
+    [
+      "Toby Grissom",
+      "Lothar Grützner"
+    ],
+    [
+      "Frank Mortimer",
+      "Karl-Friedrich Gerster"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/5/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/5/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/5/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/5/cover.png"
+  }
+}

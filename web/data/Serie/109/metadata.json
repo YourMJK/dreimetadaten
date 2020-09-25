@@ -1,0 +1,111 @@
+{
+  "nummer" : 109,
+  "titel" : "Gefährliches Quiz",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Hochspannung im Studio: Die Kamera läuft, die Scheinwerfer sind auf Justus gerichtet: Wird er alle Fragen in der beliebten Quiz-Show Wer knackt die Nuss? beantworten können? Er muss. Das Leben eines Menschen hängt davon ab. Skrupellose Gangster haben einen raffinierten Plan ausgeheckt. Und wieder einmal müssen die drei ??? scharf kombinieren, um den Verbrechern auf die Spur zu kommen …",
+  "veröffentlichungsdatum" : "2003-04-07",
+  "kapitel" : [
+    {
+      "titel" : "\"Wer knackt die Nuss?\"",
+      "start" : 0,
+      "end" : 843213
+    },
+    {
+      "titel" : "Auf Sendung",
+      "start" : 843213,
+      "end" : 1436867
+    },
+    {
+      "titel" : "24 Stunden Galgenfrist",
+      "start" : 1436867,
+      "end" : 1777947
+    },
+    {
+      "titel" : "Rätsel-Leichen",
+      "start" : 1777947,
+      "end" : 2206960
+    },
+    {
+      "titel" : "\"Jack, the Riddler\"",
+      "start" : 2206960,
+      "end" : 2617560
+    },
+    {
+      "titel" : "Namen Und Symbole",
+      "start" : 2617560,
+      "end" : 2994160
+    },
+    {
+      "titel" : "Von den Toten auferstanden",
+      "start" : 2994160,
+      "end" : 3474133
+    },
+    {
+      "titel" : "Wer zuletzt lacht …",
+      "start" : 3474133,
+      "end" : 4027533
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Nick Nobel",
+      "Ilja Richter"
+    ],
+    [
+      "Sandy",
+      "Micaela Kreissler"
+    ],
+    [
+      "Bill",
+      "Achim Schülke"
+    ],
+    [
+      "Mike Pherson",
+      "Wolf-Dietrich Berg"
+    ],
+    [
+      "Assistent",
+      "Martin Meyer"
+    ],
+    [
+      "Clarissa",
+      "Theresa Underberg"
+    ],
+    [
+      "Veronica",
+      "Saskia Weckler"
+    ],
+    [
+      "Joe",
+      "Jan-David Rönfeldt"
+    ],
+    [
+      "Sekretärin",
+      "Traudel Sperber"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/109/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/109/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/109/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/109/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/e7/90/07/e7900746-6523-b6ad-16bc-9eb71e3fc4eb/886445752014.jpg/3000x0w.png"
+  }
+}

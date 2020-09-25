@@ -1,0 +1,115 @@
+{
+  "nummer" : 8,
+  "titel" : "und der grüne Geist",
+  "autor" : "Robert Arthur",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Merkwürdig, daß an diesem Abend anscheinend nicht nur Bob und Peter zufällig das Haus des längst verstorbenen Mathias Green besichtigen, das abgerissen werden soll. Mehr als merkwürdig, nämlich höchst gruselig, wenn dann plötzlich ein grün schimmernder Geist erscheint, was außer den beiden immerhin sechs ausgewachsene Männer (oder waren es sieben?) bezeugen können. Justus dagegen findet den Bericht seiner Freunde weder sehr merkwürdig noch sehr gruselig, sondern sehr verdächtig – und schon bald stecken die drei ??? in den Ermittlungen zu einem neuen Fall. Bald stellt sich heraus, dass irgend jemand hinter einer wertvollen Perlenkette her ist, die in dem Abbruchhaus gefunden wurde. Sie ist dem Unbekannten sogar eine Entführung wert, wie Bob, Peter und ein neuer Freund am eigenen Leibe zu spüren bekommen. Doch Justus wäre nicht Justus, käme ihm nicht gerade rechtzeitig die rettende Erleuchtung …",
+  "veröffentlichungsdatum" : "1979-11-01",
+  "kapitel" : [
+    {
+      "titel" : "Ein Schrei in der Nacht",
+      "start" : 0,
+      "end" : 334267
+    },
+    {
+      "titel" : "Die Geheimniskammer",
+      "start" : 334267,
+      "end" : 807813
+    },
+    {
+      "titel" : "Der Geist kehrt wieder",
+      "start" : 807813,
+      "end" : 1253213
+    },
+    {
+      "titel" : "Ein Pferd geht durch",
+      "start" : 1253213,
+      "end" : 1600080
+    },
+    {
+      "titel" : "Wohin mit den Geisterperlen?",
+      "start" : 1600080,
+      "end" : 1860920
+    },
+    {
+      "titel" : "Das Geheimnis der Geisterperlen",
+      "start" : 1860920,
+      "end" : 2460773
+    },
+    {
+      "titel" : "Justus findet eine Spur",
+      "start" : 2460773,
+      "end" : 2810333
+    },
+    {
+      "titel" : "Die rätselhafte 39",
+      "start" : 2810333,
+      "end" : 3203720
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Chang",
+      "Torsten Sense"
+    ],
+    [
+      "Patrick Kenneth",
+      "Wolfgang Kubach"
+    ],
+    [
+      "Miss Lydia Green",
+      "Marianne Kehlau"
+    ],
+    [
+      "Harold Carlson",
+      "Alexander Stubbe [Peter Kirchberger]"
+    ],
+    [
+      "Hauptkommissar Reynolds",
+      "Horst Frank"
+    ],
+    [
+      "Jensen",
+      "Rolf Mamero"
+    ],
+    [
+      "Won",
+      "Victor Bernard [Ernst von Klipstein]"
+    ],
+    [
+      "Wongs Diener",
+      "Karl-Ulrich Meves"
+    ],
+    [
+      "Li",
+      "Renate Pichler"
+    ],
+    [
+      "Männer bei Greens Haus",
+      "Reiner Brönneke, Gernot Endemann"
+    ],
+    [
+      "Polizist",
+      "Peter Buchholz"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/008/metadata.json"
+  }
+}

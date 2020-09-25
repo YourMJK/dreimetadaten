@@ -1,0 +1,236 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "kapitel" : [
+        {
+          "titel" : "Ein Hilferuf",
+          "start" : 0,
+          "end" : 557187
+        },
+        {
+          "titel" : "Errare humanum est",
+          "start" : 557187,
+          "end" : 1134733
+        },
+        {
+          "titel" : "Ist Sherlock Holmes zuhause?",
+          "start" : 1134733,
+          "end" : 1352707
+        },
+        {
+          "titel" : "Die Telefonlawine",
+          "start" : 1352707,
+          "end" : 2080920
+        },
+        {
+          "titel" : "Blackbeard",
+          "start" : 2080920,
+          "end" : 2426173
+        },
+        {
+          "titel" : "Ein spezial gelagerter Sonderfall",
+          "start" : 2426173,
+          "end" : 2677653
+        },
+        {
+          "titel" : "Sterbenskrank",
+          "start" : 2677653,
+          "end" : 2921387
+        },
+        {
+          "titel" : "Skinny Norris",
+          "start" : 2921387,
+          "end" : 3178987
+        },
+        {
+          "titel" : "Robin Hood",
+          "start" : 3178987,
+          "end" : 3418440
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/1/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/1/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "kapitel" : [
+        {
+          "titel" : "Ein gerissener Kunstdieb",
+          "start" : 0,
+          "end" : 692667
+        },
+        {
+          "titel" : "Al Capone",
+          "start" : 692667,
+          "end" : 978747
+        },
+        {
+          "titel" : "Baker Street in London",
+          "start" : 978747,
+          "end" : 1177880
+        },
+        {
+          "titel" : "Auf dem Friedhof",
+          "start" : 1177880,
+          "end" : 1809400
+        },
+        {
+          "titel" : "Wo sind die Papageien?",
+          "start" : 1809400,
+          "end" : 1981684
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/rip_log.txt"
+      }
+    }
+  ],
+  "titel" : "und der Super-Papagei 2004",
+  "autor" : "Robert Arthur",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Das ist wirklich ein spezial gelagerter Sonderfall: Warum zitieren Papageien sonderbare Sprüche falsch? Was hat Sherlock Holmes mit Schneewittchen zu tun? Und aus welchem Grund taucht urplötzlich Skinny Norris auf, obwohl er damals vor 25 Jahren im Original-Hörspiel nicht dabei war? Ganz einfach: Diese Sonder-Edition der allerersten drei ??? Folge enthält viele neue Szenen und beantwortet endlich alle Fragen, die in der ursprünglichen Fassung nie beantwortet wurden …",
+  "veröffentlichungsdatum" : "2004-10-04",
+  "kapitel" : [
+    {
+      "titel" : "Ein Hilferuf",
+      "start" : 0,
+      "end" : 557187
+    },
+    {
+      "titel" : "Errare humanum est",
+      "start" : 557187,
+      "end" : 1134733
+    },
+    {
+      "titel" : "Ist Sherlock Holmes zuhause?",
+      "start" : 1134733,
+      "end" : 1352707
+    },
+    {
+      "titel" : "Die Telefonlawine",
+      "start" : 1352707,
+      "end" : 2080920
+    },
+    {
+      "titel" : "Blackbeard",
+      "start" : 2080920,
+      "end" : 2426173
+    },
+    {
+      "titel" : "Ein spezial gelagerter Sonderfall",
+      "start" : 2426173,
+      "end" : 2677653
+    },
+    {
+      "titel" : "Sterbenskrank",
+      "start" : 2677653,
+      "end" : 2921387
+    },
+    {
+      "titel" : "Skinny Norris",
+      "start" : 2921387,
+      "end" : 3178987
+    },
+    {
+      "titel" : "Robin Hood",
+      "start" : 3178987,
+      "end" : 3418440
+    },
+    {
+      "titel" : "Ein gerissener Kunstdieb",
+      "start" : 3418440,
+      "end" : 4111107
+    },
+    {
+      "titel" : "Al Capone",
+      "start" : 4111107,
+      "end" : 4397187
+    },
+    {
+      "titel" : "Baker Street in London",
+      "start" : 4397187,
+      "end" : 4596320
+    },
+    {
+      "titel" : "Auf dem Friedhof",
+      "start" : 4596320,
+      "end" : 5227840
+    },
+    {
+      "titel" : "Wo sind die Papageien?",
+      "start" : 5227840,
+      "end" : 5400124
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Skinny Norris",
+      "Andreas von der Meden"
+    ],
+    [
+      "Mr. Claudius",
+      "Gerlach Fiedler"
+    ],
+    [
+      "Mrs. Claudius",
+      "Brigitte Böttrich"
+    ],
+    [
+      "Mr. Fentriss",
+      "Detlef Bierstedt"
+    ],
+    [
+      "Hugenay",
+      "Wolfgang Kubach"
+    ],
+    [
+      "Carlos",
+      "Stefan Brönneke"
+    ],
+    [
+      "Ramos",
+      "Dario Bertoli"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Opa",
+      "Harry Rowohlt"
+    ],
+    [
+      "Miss Waggoner",
+      "Ursula Vogel"
+    ],
+    [
+      "Senora",
+      "Barbara Benuel"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/cover.png"
+  }
+}

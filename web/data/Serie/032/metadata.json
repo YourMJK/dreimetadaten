@@ -1,0 +1,111 @@
+{
+  "nummer" : 32,
+  "titel" : "und der Ameisenmensch",
+  "autor" : "M. V. Carey",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Eine Vogelscheuche erwacht plötzlich zum Leben und stürzt sich auf alles, was ihr in die Quere kommt. Letitia Radford beginnt zu verzweifeln. In ihrer Todesangst beauftragt sie die drei Detektive, das Rätsel der wandelnden Vogelscheuche zu lösen. Justus, Bob und Peter nehmen den Auftrag an und geraten unversehens selbst in Lebensgefahr.",
+  "veröffentlichungsdatum" : "1983-03-12",
+  "kapitel" : [
+    {
+      "titel" : "Der Ameisenmensch",
+      "start" : 0,
+      "end" : 368307
+    },
+    {
+      "titel" : "Die verrückte Dame",
+      "start" : 368307,
+      "end" : 617733
+    },
+    {
+      "titel" : "Ein schlimmer Schock",
+      "start" : 617733,
+      "end" : 1006453
+    },
+    {
+      "titel" : "Der rätselhafte Späher",
+      "start" : 1006453,
+      "end" : 1321267
+    },
+    {
+      "titel" : "Die Vogelscheuche schlägt zu!",
+      "start" : 1321267,
+      "end" : 1762720
+    },
+    {
+      "titel" : "Eingesperrt!",
+      "start" : 1762720,
+      "end" : 2061227
+    },
+    {
+      "titel" : "Justus zieht seine Schlüsse",
+      "start" : 2061227,
+      "end" : 2397307
+    },
+    {
+      "titel" : "Die Überraschung zum Schluss",
+      "start" : 2397307,
+      "end" : 2652653
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Dr. Woolley",
+      "Manfred Steffen"
+    ],
+    [
+      "Larry Conklin",
+      "Sylvester Merten [Helmut Zierl]"
+    ],
+    [
+      "Letitia Radford",
+      "Marianne Kehlau"
+    ],
+    [
+      "Mrs. Chumley",
+      "Renate Pichler"
+    ],
+    [
+      "Mrs. Burroughs",
+      "Katharina Brauren"
+    ],
+    [
+      "Mr. Burroughs",
+      "Martin Fichte [Joachim Wolff]"
+    ],
+    [
+      "Gary Malz",
+      "Volker Brandt"
+    ],
+    [
+      "Mr. Agnier",
+      "Willem Fricke"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Horst Frank"
+    ],
+    [
+      "Patrick",
+      "Joachim Richert"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/032/metadata.json"
+  }
+}

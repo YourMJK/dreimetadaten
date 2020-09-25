@@ -1,0 +1,126 @@
+{
+  "nummer" : 140,
+  "titel" : "Stadt der Vampire",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Eine riesige Fledermaus versetzt die Kleinstadt Yonderwood in Angst und Schrecken. Nachdem einige Menschen mit Bissspuren und einer Menge Blut in ihren Betten erwacht sind, hat der Großteil der Einwohner bereits das Weite gesucht. Justus, Peter und Bob haben noch nie an Vampire geglaubt. In diesem neuen Fall jedoch scheint es, als müssten die drei berühmten Detektive aus Rocky Beach ihre Meinung ändern …",
+  "veröffentlichungsdatum" : "2010-08-20",
+  "kapitel" : [
+    {
+      "titel" : "Yonderwood",
+      "start" : 0,
+      "end" : 228680
+    },
+    {
+      "titel" : "Die Geisterstadt",
+      "start" : 228680,
+      "end" : 1245640
+    },
+    {
+      "titel" : "Vampirjäger",
+      "start" : 1245640,
+      "end" : 1323587
+    },
+    {
+      "titel" : "Bibelvers",
+      "start" : 1323587,
+      "end" : 1546867
+    },
+    {
+      "titel" : "Versammlung",
+      "start" : 1546867,
+      "end" : 1922880
+    },
+    {
+      "titel" : "Hilfe!",
+      "start" : 1922880,
+      "end" : 2182120
+    },
+    {
+      "titel" : "Durchsucht",
+      "start" : 2182120,
+      "end" : 2463187
+    },
+    {
+      "titel" : "Jenseits der Wälder",
+      "start" : 2463187,
+      "end" : 2862427
+    },
+    {
+      "titel" : "Nacht des Grauens",
+      "start" : 2862427,
+      "end" : 3917853
+    },
+    {
+      "titel" : "Überfall!",
+      "start" : 3917853,
+      "end" : 4087160
+    },
+    {
+      "titel" : "Der Schatz der Katze",
+      "start" : 4087160,
+      "end" : 4658533
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Josy McDonaghough",
+      "Lili Draeger"
+    ],
+    [
+      "Homer Diesel",
+      "Christian Senger"
+    ],
+    [
+      "Mary Stamper",
+      "Annabelle Krieg"
+    ],
+    [
+      "Otis Stamper",
+      "Klaus Dittman"
+    ],
+    [
+      "Jonathan Black",
+      "Eckart Dux"
+    ],
+    [
+      "Miles Black",
+      "Sascha Rotermund"
+    ],
+    [
+      "Klara Kowalski",
+      "Steffi Kirchberger"
+    ],
+    [
+      "Silvester Proud",
+      "Gustav A. Artz"
+    ],
+    [
+      "Pfarrer Clark",
+      "Gerd Baltus"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/140/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/140/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/140/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/140/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/93/bd/1a/93bd1a83-9f96-38df-1215-8c9a2bc04053/886445755602.jpg/3000x0w.png"
+  }
+}

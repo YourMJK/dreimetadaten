@@ -1,0 +1,173 @@
+{
+  "teilNummer" : 1,
+  "buchstabe" : "J",
+  "titel" : "Sicht J: Der Fluch der Sheldon Street",
+  "autor" : "Hendrik Buchna",
+  "beschreibung" : "Alles beginnt mit dem Kauf eines alten Projektors und der Entdeckung einer schmalen Super-8-Filmrolle. Als die drei Detektive das Fundstück begutachten, entdecken sie die verstörende Aufnahme einer albtraumhaften Gestalt. Schnell stellen die drei ??? fest, dass es um weit mehr geht, als sie zunächst ahnen: Eine ganze Straße scheint unter dem Bann eines düsteren Geheimnisses zu stehen. Doch kaum beginnen Justus, Peter und Bob mit ihren Nachforschungen, da tauchen plötzlich Gegner auf, die ihnen mit allen Mitteln zuvorkommen wollen …",
+  "kapitel" : [
+    {
+      "titel" : "Die Cola",
+      "start" : 0,
+      "end" : 249733
+    },
+    {
+      "titel" : "Bleiche Fratze",
+      "start" : 249733,
+      "end" : 518160
+    },
+    {
+      "titel" : "Sammlerstück",
+      "start" : 518160,
+      "end" : 743333
+    },
+    {
+      "titel" : "Dunkle Erinnerung",
+      "start" : 743333,
+      "end" : 1150133
+    },
+    {
+      "titel" : "Eine Straße in Angst",
+      "start" : 1150133,
+      "end" : 1828053
+    },
+    {
+      "titel" : "Verfolgt",
+      "start" : 1828053,
+      "end" : 2374027
+    },
+    {
+      "titel" : "Kriegsrat",
+      "start" : 2374027,
+      "end" : 2635387
+    },
+    {
+      "titel" : "Unheimliche Begegnungen",
+      "start" : 2635387,
+      "end" : 3167667
+    },
+    {
+      "titel" : "Sturm",
+      "start" : 3167667,
+      "end" : 3467800
+    },
+    {
+      "titel" : "Eine heiße Spur",
+      "start" : 3467800,
+      "end" : 3850653
+    },
+    {
+      "titel" : "Wendepunkt",
+      "start" : 3850653,
+      "end" : 4188920
+    },
+    {
+      "titel" : "Der Fluch der Sheldon Street",
+      "start" : 4188920,
+      "end" : 4589640
+    },
+    {
+      "titel" : "Triumph",
+      "start" : 4589640,
+      "end" : 4757160
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus Jonas",
+      "Hans Meinhardt"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Officer Flann Doyle",
+      "Douglas Welbat"
+    ],
+    [
+      "Tanya Sullivan",
+      "Marion Elskis"
+    ],
+    [
+      "Sebastian Dawson",
+      "Bastian Pastewka"
+    ],
+    [
+      "Miss Tomkins",
+      "Steffi Kirchberger"
+    ],
+    [
+      "Mr. Foley",
+      "Dirk Bach"
+    ],
+    [
+      "John Gabbin",
+      "Tobias Schmidt"
+    ],
+    [
+      "Matthew Gabbin",
+      "Jürgen Thormann"
+    ],
+    [
+      "Georgina",
+      "Maud Ackermann"
+    ],
+    [
+      "Gil Renard",
+      "Udo Schenk"
+    ],
+    [
+      "Hedy Carlson",
+      "Luise Helm"
+    ],
+    [
+      "Steve",
+      "Sascha Draeger"
+    ],
+    [
+      "Jack",
+      "Hendrik Buchna"
+    ],
+    [
+      "Laury",
+      "Rhea Harder-Vennewald"
+    ],
+    [
+      "Gast 1",
+      "Christian Senger"
+    ],
+    [
+      "Fahrerin",
+      "Corinna Wodrich"
+    ],
+    [
+      "Radiosprecher",
+      "Tobias Meister"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/rip_log.txt"
+  }
+}

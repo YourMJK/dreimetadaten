@@ -1,0 +1,119 @@
+{
+  "nummer" : 12,
+  "titel" : "und der seltsame Wecker",
+  "autor" : "Robert Arthur",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Es gibt Wecker, die klingeln, Wecker, die schnarren, Wecker, die Musik ertönen lassen oder einen mit Glöckchengeläut aus dem Schlaf holen. Einen Wecker aber, der einen furchterregend schrillen Schrei ausstößt, haben Justus, Bob und Peter noch nie erlebt. Und ein solches Unding haben sie soeben auf dem Schrottplatz aufgestöbert! Kein Wunder, daß diese seltsame Konstruktion die Neugier und die Phantasie der drei Detektive anstachelt: Wer hat einen solchen Wecker gebaut und warum? Als sie das herauszufinden versuchen, geraten sie unversehens auf die Spur eines raffinierten Kunstraubes. Doch ehe sie ihn aufklären können, gibt es manche harte Rätselnuss zu knacken …",
+  "veröffentlichungsdatum" : "1980-03-03",
+  "kapitel" : [
+    {
+      "titel" : "Der Schrei aus dem Wecker",
+      "start" : 0,
+      "end" : 340360
+    },
+    {
+      "titel" : "Das Zimmer der Uhren",
+      "start" : 340360,
+      "end" : 779387
+    },
+    {
+      "titel" : "Wer ist Rex?",
+      "start" : 779387,
+      "end" : 1168693
+    },
+    {
+      "titel" : "Rätsel über Rätsel",
+      "start" : 1168693,
+      "end" : 1780667
+    },
+    {
+      "titel" : "Der arme Gerald",
+      "start" : 1780667,
+      "end" : 2065293
+    },
+    {
+      "titel" : "Fragen ohne Antwort",
+      "start" : 2065293,
+      "end" : 2260053
+    },
+    {
+      "titel" : "Der Gegner hat die Oberhand",
+      "start" : 2260053,
+      "end" : 2513507
+    },
+    {
+      "titel" : "Überraschende Enthüllungen",
+      "start" : 2513507,
+      "end" : 2736347
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Felix",
+      "Karl-Ulrich Meves"
+    ],
+    [
+      "Mrs. Smith",
+      "Maria Benders"
+    ],
+    [
+      "Harry",
+      "Marco Beddis"
+    ],
+    [
+      "Mrs. King",
+      "Helga Bammert"
+    ],
+    [
+      "Julie Taylor",
+      "Renate Pichler"
+    ],
+    [
+      "Martha Harris",
+      "Marga Maasberg"
+    ],
+    [
+      "Carlos",
+      "Hans-Werner Kuhn [Günter Heising]"
+    ],
+    [
+      "Gerald Cramer",
+      "Volker Brandt"
+    ],
+    [
+      "Gerald Watson",
+      "Werner van Thiel [Werner Cartano]"
+    ],
+    [
+      "Hugenay",
+      "Albert Giro [Wolfgang Kubach]"
+    ],
+    [
+      "Hauptkommissar Reynolds",
+      "Horst Frank"
+    ],
+    [
+      "Mr Jankins",
+      "Lothar Zibell"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/012/metadata.json"
+  }
+}

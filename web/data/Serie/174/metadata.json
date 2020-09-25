@@ -1,0 +1,112 @@
+{
+  "nummer" : 174,
+  "titel" : "und das Tuch der Toten",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein zunächst harmloser Ausflug entwickelt sich zu einem geheimnisvollen Fall für die drei ???: In einem sagenumwobenen Waldgebiet in den Santa Monica Mountains streift eine düstere Gestalt umher. Ein Wesen aus der Urzeit? Justus, Peter und Bob stoßen auf rätselhafte Spuren. Was sie nicht wissen: Sie sind nicht die Verfolger, sondern die Beute …",
+  "veröffentlichungsdatum" : "2015-03-06",
+  "kapitel" : [
+    {
+      "titel" : "Das Wesen im Wald",
+      "start" : 0,
+      "end" : 378187
+    },
+    {
+      "titel" : "Das Tagebuch des Priesters",
+      "start" : 378187,
+      "end" : 915787
+    },
+    {
+      "titel" : "Hintergründe",
+      "start" : 915787,
+      "end" : 1254333
+    },
+    {
+      "titel" : "Der Geruch des Todes",
+      "start" : 1254333,
+      "end" : 1889827
+    },
+    {
+      "titel" : "Freunde in der Not",
+      "start" : 1889827,
+      "end" : 2257507
+    },
+    {
+      "titel" : "In Deckung!",
+      "start" : 2257507,
+      "end" : 2390667
+    },
+    {
+      "titel" : "Allergie",
+      "start" : 2390667,
+      "end" : 2871120
+    },
+    {
+      "titel" : "Sachen von heutzutage",
+      "start" : 2871120,
+      "end" : 3486680
+    },
+    {
+      "titel" : "Geld verdirbt den Charakter",
+      "start" : 3486680,
+      "end" : 3800827
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Guillermo",
+      "Mario Ramos"
+    ],
+    [
+      "Stanley Morgan",
+      "Romanus Fuhrmann"
+    ],
+    [
+      "Grace Powell",
+      "Luise Lunow"
+    ],
+    [
+      "Angus",
+      "Till Demtrøder"
+    ],
+    [
+      "Inspektor Cottahol",
+      "Holger Mahlich"
+    ],
+    [
+      "Baxter",
+      "Hans Kahlert"
+    ],
+    [
+      "Kranführer",
+      "Klaus Dittmann"
+    ],
+    [
+      "Steve",
+      "Martin Brücker"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/174/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/174/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/174/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/174/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/fc/54/6d/fc546db2-e9a6-faf8-e023-eee2efa0a984/886445760095.jpg/3000x0w.png"
+  }
+}

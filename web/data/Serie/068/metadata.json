@@ -1,0 +1,92 @@
+{
+  "nummer" : 68,
+  "titel" : "und der Schatz im Bergsee",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Eine brenzlige Situation für Justus, Peter und Bob: Ihr Rundflug über die Schweizer Alpen endet jäh mit einer Bruchlandung. Der Pilot ist bewusstlos, das Funkgerät zerstört. Plötzlich landet ein Helikopter neben ihnen. Bewaffnete Männer fesseln und knebeln Bob, und die drei ??? müssen hilflos zusehen, wie die Gangster das Flugzeugwrack durchsuchen. Wenig später verschwinden sie wieder. Die drei Junior-Detektive können sich in Sicherheit bringen. Doch dann kommen die Gangster zurück.",
+  "veröffentlichungsdatum" : "1996-04-02",
+  "kapitel" : [
+    {
+      "titel" : "Abgestürzt",
+      "start" : 0,
+      "end" : 496760
+    },
+    {
+      "titel" : "Überfall aus der Luft",
+      "start" : 496760,
+      "end" : 986600
+    },
+    {
+      "titel" : "Verschollen im Wallis",
+      "start" : 986600,
+      "end" : 1312760
+    },
+    {
+      "titel" : "Der letzte Erkundungsflug",
+      "start" : 1312760,
+      "end" : 1790093
+    },
+    {
+      "titel" : "Mitten im Spionage-Thriller",
+      "start" : 1790093,
+      "end" : 2477760
+    },
+    {
+      "titel" : "Jerzys Plan",
+      "start" : 2477760,
+      "end" : 2916680
+    },
+    {
+      "titel" : "Mit dem U-Boot in die Tiefe",
+      "start" : 2916680,
+      "end" : 3214720
+    },
+    {
+      "titel" : "Code 999",
+      "start" : 3214720,
+      "end" : 3581227
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Jerzy",
+      "Michael Bideller"
+    ],
+    [
+      "Mariana",
+      "Antje Roosch"
+    ],
+    [
+      "1. Mann",
+      "Nico König"
+    ],
+    [
+      "2. Mann",
+      "Lutz Schnell"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/068/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/068/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/068/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/068/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music30/v4/44/13/5b/44135b46-0192-543a-7219-dc44963f9fe9/886445749441.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/80/fc/8e/0743213558424.jpg"
+  }
+}

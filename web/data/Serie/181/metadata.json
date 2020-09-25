@@ -1,0 +1,127 @@
+{
+  "nummer" : 181,
+  "titel" : "Das Kabinett des Zauberers",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Der Zauberer Pablo verschwindet während der Vorstellung in einem Schrank – und taucht nicht mehr auf. Alles andere als Hokuspokus, sind sich die drei ??? einig. Auf ihrer Suche nach dem verschwundenen Zauberer müssen Justus, Peter und Bob mehr als nur ein Zauberkabinett durchforsten, um die Lösung des Rätsels zu finden …",
+  "veröffentlichungsdatum" : "2016-05-13",
+  "kapitel" : [
+    {
+      "titel" : "Der verschwundene Zauberer",
+      "start" : 0,
+      "end" : 252747
+    },
+    {
+      "titel" : "Im Zauberschrank",
+      "start" : 252747,
+      "end" : 1122507
+    },
+    {
+      "titel" : "Der Fremde im Spiegel",
+      "start" : 1122507,
+      "end" : 1494933
+    },
+    {
+      "titel" : "Hasentod",
+      "start" : 1494933,
+      "end" : 1919853
+    },
+    {
+      "titel" : "Auf der Spur des Hasenmörders",
+      "start" : 1919853,
+      "end" : 2356680
+    },
+    {
+      "titel" : "Nightingale, der Magier",
+      "start" : 2356680,
+      "end" : 2593667
+    },
+    {
+      "titel" : "Unsichtbar und trotzdem da",
+      "start" : 2593667,
+      "end" : 3211600
+    },
+    {
+      "titel" : "Nachts in den Bergen",
+      "start" : 3211600,
+      "end" : 4413560
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Quinn",
+      "Tobias Diakow"
+    ],
+    [
+      "Nightingale",
+      "Jürgen Thormann"
+    ],
+    [
+      "Pablo",
+      "Till Huster"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Mrs. Thompson",
+      "Ingeborg Kallweit"
+    ],
+    [
+      "Mrs. Kato",
+      "Dorothea Hagena"
+    ],
+    [
+      "Sullivan",
+      "Jonas Hartmann"
+    ],
+    [
+      "Angelina",
+      "Norma Draeger"
+    ],
+    [
+      "Joshua",
+      "Hugo Richert"
+    ],
+    [
+      "1. Junge",
+      "Louis Körting"
+    ],
+    [
+      "2. Junge",
+      "Henrik Bichels"
+    ],
+    [
+      "Mädchen",
+      "Lilian Körting"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/181/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/181/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/181/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/181/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/4c/fe/74/4cfe7464-161f-ab36-cdf3-bb5bf61dd39f/886445362916.jpg/3000x0w.png"
+  }
+}

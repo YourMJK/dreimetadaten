@@ -1,0 +1,116 @@
+{
+  "nummer" : 64,
+  "titel" : "Geisterstadt",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Über Nacht wird aus harmlosen Skiferien in den Bergen eine gefährliche Suche im Kriminalfall Oames. Der Gastgeber der drei ???, der berühmte Spieleverleger Michael Julius Oames, ist entführt worden. Die Kidnapper fordern eine Million Dollar. Eine Menge Geld, finden Justus, Bob und Peter und beschließen, der Polizei von Lake Tahoe unter die Arme zu greifen. Kann Oames Vergangenheit Licht in die Sache bringen? Da stoßen sie auf eine heiße Spur. Sie führt direkt in eine Geisterstadt.",
+  "veröffentlichungsdatum" : "1995-08-28",
+  "kapitel" : [
+    {
+      "titel" : "Tante Mathilda ist verschwunden",
+      "start" : 0,
+      "end" : 663707
+    },
+    {
+      "titel" : "Rausschmiss der drei ???",
+      "start" : 663707,
+      "end" : 1289693
+    },
+    {
+      "titel" : "Kein Papierkorb für das Lösegeld",
+      "start" : 1289693,
+      "end" : 1893253
+    },
+    {
+      "titel" : "Drohung mit einem Ohr",
+      "start" : 1893253,
+      "end" : 2587613
+    },
+    {
+      "titel" : "In der Geisterstadt",
+      "start" : 2587613,
+      "end" : 3068627
+    },
+    {
+      "titel" : "Hinweis im Schnee",
+      "start" : 3068627,
+      "end" : 3293360
+    },
+    {
+      "titel" : "Doppeltes Spiel",
+      "start" : 3293360,
+      "end" : 3543280
+    },
+    {
+      "titel" : "High Noon",
+      "start" : 3543280,
+      "end" : 3969547
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Morton, Chauffeur",
+      "Andreas von der Meden"
+    ],
+    [
+      "Inspektor Capistrano",
+      "Hans Sievers"
+    ],
+    [
+      "Sergeant Hawthrone",
+      "Jürgen Kopp"
+    ],
+    [
+      "Simon Oames",
+      "Peter Kirchberger"
+    ],
+    [
+      "Silvie Oames",
+      "Edith Hancke"
+    ],
+    [
+      "Michael Julius Oames",
+      "Günther Jerschke"
+    ],
+    [
+      "Mandy Taylor",
+      "Micaela Kreißler"
+    ],
+    [
+      "Deborah Street",
+      "Astrid Kollex"
+    ],
+    [
+      "Greenwater",
+      "Norman Messer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/064/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/064/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/064/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/064/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/82/13/1b/82131bb4-e36f-2801-7e2b-e0636e783dc8/886445747485.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/91/33/36/0743212482324.jpg"
+  }
+}

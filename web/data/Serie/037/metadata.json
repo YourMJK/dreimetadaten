@@ -1,0 +1,103 @@
+{
+  "nummer" : 37,
+  "titel" : "und der heimliche Hehler",
+  "autor" : "M. V. Carey",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Ein fünfjähriger Junge verschwindet. Wurde er entführt? Ist er weggelaufen? Die drei Detektive machen sich daran, die Frage zu klären. Und sie kommen weiteren Geheimnissen auf die Spur. Was verbirgt sich in dem alten Hotel? Warum maskiert sich Mr. Burton? Die drei ??? kommen zu einer überraschenden Lösung des Falles …",
+  "veröffentlichungsdatum" : "1985-11-01",
+  "kapitel" : [
+    {
+      "titel" : "Der kleine Ausreißer",
+      "start" : 0,
+      "end" : 548107
+    },
+    {
+      "titel" : "Es kommt ganz schlimm!",
+      "start" : 548107,
+      "end" : 984133
+    },
+    {
+      "titel" : "Böse Zungen",
+      "start" : 984133,
+      "end" : 1282507
+    },
+    {
+      "titel" : "Ein Dieb geht baden",
+      "start" : 1282507,
+      "end" : 1615600
+    },
+    {
+      "titel" : "Grauen unter Wasser!",
+      "start" : 1615600,
+      "end" : 2036120
+    },
+    {
+      "titel" : "Antworten werfen neue Fragen auf",
+      "start" : 2036120,
+      "end" : 2404280
+    },
+    {
+      "titel" : "Ein verborgener Schatz!",
+      "start" : 2404280,
+      "end" : 2763693
+    },
+    {
+      "titel" : "Justus entwickelt eine Theorie",
+      "start" : 2763693,
+      "end" : 3293027
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Regina",
+      "Ursela Monn"
+    ],
+    [
+      "Teddy",
+      "Simon Jäger"
+    ],
+    [
+      "Mrs. Peabody",
+      "Gisela Trowe"
+    ],
+    [
+      "Burton",
+      "Günther Pfitzmann"
+    ],
+    [
+      "Kommissar",
+      "Günther Flesh"
+    ],
+    [
+      "Mooch",
+      "Joachim Richert"
+    ],
+    [
+      "Mr. Conine",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Fergus",
+      "Günter Dockerill"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/037/metadata.json"
+  }
+}

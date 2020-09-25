@@ -1,0 +1,135 @@
+{
+  "nummer" : 183,
+  "titel" : "und der letzte Song",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Lenny „The Rock“, der erfolgreiche Rockstar, veranstaltet auf seinem Anwesen ein teures Geburtstagskonzert voller Spezialeffekte. Als Höhepunkt der Party hat er eine Überraschung angekündigt. Auch Justus, Peter und Bob sind unter den Gästen. Die Detektive rechnen mit Vielem – doch sicher nicht mit dem, was dann passiert! Bei den Ermittlungen gerät einer der drei in große Gefahr …",
+  "veröffentlichungsdatum" : "2016-09-30",
+  "kapitel" : [
+    {
+      "titel" : "Einladung zur großen Party",
+      "start" : 0,
+      "end" : 530973
+    },
+    {
+      "titel" : "Ein schwieriger Gast",
+      "start" : 530973,
+      "end" : 1037227
+    },
+    {
+      "titel" : "The Disappearing of a Hobbit",
+      "start" : 1037227,
+      "end" : 1637920
+    },
+    {
+      "titel" : "Aus fünf mach sechs",
+      "start" : 1637920,
+      "end" : 2080733
+    },
+    {
+      "titel" : "Videostar",
+      "start" : 2080733,
+      "end" : 2342467
+    },
+    {
+      "titel" : "Schalldicht verpackt",
+      "start" : 2342467,
+      "end" : 2819707
+    },
+    {
+      "titel" : "The La-La-Song",
+      "start" : 2819707,
+      "end" : 3773813
+    },
+    {
+      "titel" : "Achtung, Steinschlag!",
+      "start" : 3773813,
+      "end" : 4566333
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus",
+      "Rüdiger Schulzki"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Lenny The Rock",
+      "Peter Kirchberger"
+    ],
+    [
+      "Sue Tamara",
+      "Maria Hartmann"
+    ],
+    [
+      "Sax Sandler",
+      "Christian Concilio"
+    ],
+    [
+      "Tim Durnell",
+      "Douglas Welbat"
+    ],
+    [
+      "Ron",
+      "Gosta Liptow"
+    ],
+    [
+      "Keith",
+      "Tobias Schmidt"
+    ],
+    [
+      "Debbie Peterson",
+      "Maud Ackermann"
+    ],
+    [
+      "Frank Wheeler",
+      "Timo Wenzel"
+    ],
+    [
+      "Joe",
+      "Stefan Brönneke"
+    ],
+    [
+      "Clayton",
+      "Gordon Piedesack"
+    ],
+    [
+      "Kellnerin",
+      "Simona Pahl"
+    ],
+    [
+      "Partygäste",
+      "Die Gäste der Record-Release-Party am 8. Mai 2016 in Hasselburg. (Wir danken euch für's Mitmachen!)"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/183/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/183/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/183/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/183/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/08/20/88/082088ed-5531-6acf-8d23-727bf88c5156/886445362954.jpg/3000x0w.png"
+  }
+}

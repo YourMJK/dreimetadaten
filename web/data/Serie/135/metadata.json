@@ -1,0 +1,144 @@
+{
+  "nummer" : 135,
+  "titel" : "Fluch des Piraten",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Eine Reihe rätselhafter Fotos weckt die Neugier der drei erfolgreichen Detektive aus Rocky Beach. Alles deutet darauf hin, dass ein kostbarer Goldschatz auf einer einsamen Insel verborgen ist. Doch vor Ort wird schnell klar, dass nicht nur Justus, Peter und Bob dem Schatz auf der Spur sind. Es beginnt eine Jagd mit ungewissem Ausgang.",
+  "veröffentlichungsdatum" : "2009-11-27",
+  "kapitel" : [
+    {
+      "titel" : "Auf der Flucht",
+      "start" : 0,
+      "end" : 137213
+    },
+    {
+      "titel" : "Die rätselhaften Bilder",
+      "start" : 137213,
+      "end" : 558360
+    },
+    {
+      "titel" : "Schatz",
+      "start" : 558360,
+      "end" : 939400
+    },
+    {
+      "titel" : "Ort der Hinterlassenschaft",
+      "start" : 939400,
+      "end" : 1036853
+    },
+    {
+      "titel" : "Ein verlockendes Angebot",
+      "start" : 1036853,
+      "end" : 1223853
+    },
+    {
+      "titel" : "Entwischt",
+      "start" : 1223853,
+      "end" : 1413587
+    },
+    {
+      "titel" : "Enträtselt",
+      "start" : 1413587,
+      "end" : 1621613
+    },
+    {
+      "titel" : "Auf festem Boden",
+      "start" : 1621613,
+      "end" : 1816653
+    },
+    {
+      "titel" : "Das Wrack",
+      "start" : 1816653,
+      "end" : 1978587
+    },
+    {
+      "titel" : "Flackerndes Licht",
+      "start" : 1978587,
+      "end" : 2109520
+    },
+    {
+      "titel" : "Die drei Feuerlöscher",
+      "start" : 2109520,
+      "end" : 2635040
+    },
+    {
+      "titel" : "Am Ziel",
+      "start" : 2635040,
+      "end" : 2759453
+    },
+    {
+      "titel" : "Rettung!?",
+      "start" : 2759453,
+      "end" : 3063787
+    },
+    {
+      "titel" : "Schock in der Tiefe",
+      "start" : 3063787,
+      "end" : 3360347
+    },
+    {
+      "titel" : "Die Nerven liegen blank",
+      "start" : 3360347,
+      "end" : 3532707
+    },
+    {
+      "titel" : "Hände hoch!",
+      "start" : 3532707,
+      "end" : 4128267
+    },
+    {
+      "titel" : "Gratulation",
+      "start" : 4128267,
+      "end" : 4271013
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Pilot",
+      "Gerhart Hinze"
+    ],
+    [
+      "Max",
+      "Traudel Sperber"
+    ],
+    [
+      "Liolotta",
+      "Peter Striebeck"
+    ],
+    [
+      "Althena",
+      "Steffi Kirchberger"
+    ],
+    [
+      "Sarah Livingston",
+      "Rosemarie Wohlbauer"
+    ],
+    [
+      "Elvira Zuckerman",
+      "Konstanze Ullmer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/135/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/135/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/135/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/135/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/60/c4/7d/60c47d82-abc3-8eec-f3ca-175cde5b08b3/886445755381.jpg/3000x0w.png"
+  }
+}

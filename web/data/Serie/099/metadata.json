@@ -1,0 +1,120 @@
+{
+  "nummer" : 99,
+  "titel" : "Rufmord",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "On Air – das rote Licht im Aufnahmestudio des Radiosenders von Rocky Beach leuchtet. Die drei ??? sind live auf Sendung. Und kein anderer als der berühmte Starmoderator Kevin Anderson führt mit witzigen Sprüchen durchs Programm. Justus, Peter und Bob berichten begeistert von ihrer Detektivarbeit – bis sich plötzlich ein anonymer Anrufer in die Sendung schaltet und mit verstellter Stimme eine unheilvolle Drohung ausspricht. Ein neuer Fall für die drei Detektive?",
+  "veröffentlichungsdatum" : "2001-09-10",
+  "kapitel" : [
+    {
+      "titel" : "\"Prime Time\"",
+      "start" : 0,
+      "end" : 513747
+    },
+    {
+      "titel" : "Kälteschauer",
+      "start" : 513747,
+      "end" : 1123107
+    },
+    {
+      "titel" : "Rufmord",
+      "start" : 1123107,
+      "end" : 1524067
+    },
+    {
+      "titel" : "Reue",
+      "start" : 1524067,
+      "end" : 2089760
+    },
+    {
+      "titel" : "Ausgetrickst",
+      "start" : 2089760,
+      "end" : 2708040
+    },
+    {
+      "titel" : "Machtspiele",
+      "start" : 2708040,
+      "end" : 3361760
+    },
+    {
+      "titel" : "In der Gummizelle",
+      "start" : 3361760,
+      "end" : 4007707
+    },
+    {
+      "titel" : "Die Flügel der Nachtigall",
+      "start" : 4007707,
+      "end" : 4573053
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Kevin Anderson",
+      "Thomas Bug"
+    ],
+    [
+      "Clarissa Franklin",
+      "Judy Winter"
+    ],
+    [
+      "Dr. Freeman",
+      "Jürgen Thormann"
+    ],
+    [
+      "Mrs. Brighton",
+      "Monika Werner"
+    ],
+    [
+      "Mrs. Wheel",
+      "Ines Sawatzki"
+    ],
+    [
+      "Schwester Whitney",
+      "Andrea Lange"
+    ],
+    [
+      "Besucher",
+      "Eckart Dux"
+    ],
+    [
+      "Bote",
+      "Stefan Rütter"
+    ],
+    [
+      "Goodween",
+      "André Minninger"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/099/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/099/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/099/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/099/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music30/v4/f2/7f/1a/f27f1aae-2603-32e0-d443-297ff8e4fdd9/886445750515.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a7/26/99/0743218398728.jpg"
+  }
+}

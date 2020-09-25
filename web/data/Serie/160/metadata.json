@@ -1,0 +1,124 @@
+{
+  "nummer" : 160,
+  "titel" : "Geheimnisvolle Botschaften",
+  "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Der Raub eines alten handgefertigten Buchs stellt die drei ??? vor ein Rätsel. Denn im Haus von Professor Mathewson hätte es weitaus wertvollere Beute gegeben. Kaum beginnen Justus, Peter und Bob zu ermitteln, stecken sie schon bis zum Hals in Schwierigkeiten: Ein geheimnisvoller Gegner ist ihnen stets einen Schritt voraus und schreckt vor nichts zurück …",
+  "veröffentlichungsdatum" : "2013-03-01",
+  "kapitel" : [
+    {
+      "titel" : "Der Pergamentmacher",
+      "start" : 0,
+      "end" : 303573
+    },
+    {
+      "titel" : "Geschick und Verstand",
+      "start" : 303573,
+      "end" : 646293
+    },
+    {
+      "titel" : "Volltreffer!",
+      "start" : 646293,
+      "end" : 802640
+    },
+    {
+      "titel" : "Einbruch in die Suite",
+      "start" : 802640,
+      "end" : 1332533
+    },
+    {
+      "titel" : "Einstiche",
+      "start" : 1332533,
+      "end" : 1562627
+    },
+    {
+      "titel" : "Der Text über dem Text",
+      "start" : 1562627,
+      "end" : 2074107
+    },
+    {
+      "titel" : "Die erste Station",
+      "start" : 2074107,
+      "end" : 2533760
+    },
+    {
+      "titel" : "Gartenzaun",
+      "start" : 2533760,
+      "end" : 3210840
+    },
+    {
+      "titel" : "Die Gruft",
+      "start" : 3210840,
+      "end" : 3820387
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Barbara",
+      "Tanja Geke"
+    ],
+    [
+      "Professor Mathewson",
+      "Stephan Schwartz"
+    ],
+    [
+      "Arthur",
+      "Stephan Benson"
+    ],
+    [
+      "Alan Jones",
+      "Wolfgang Pampel"
+    ],
+    [
+      "Shu Liin",
+      "Monika Freisfeld-Pampel"
+    ],
+    [
+      "Kellner",
+      "Sven Dahlem"
+    ],
+    [
+      "Frank",
+      "Simon Jäger"
+    ],
+    [
+      "Stadtverwalter",
+      "Achim Schülke"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Godween",
+      "André Minninger"
+    ],
+    [
+      "Feuerschlucker",
+      "Bertram Hiese"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/160/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/160/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/160/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/160/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/b9/f3/f5/b9f3f567-0754-0d9b-36de-4881697526d8/886445756746.jpg/3000x0w.png"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "nummer" : 120,
+  "titel" : "Der schwarze Skorpion",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Laut gellen die Schreie durch das Stadion: \"Ein Skorpion … ein riesiger Skorpion!\" Unter den Zuschauern der Beachvolleyball-Weltmeisterschaft in Rocky Beach bricht Panik aus. Ken Parker, einer der Spieler, ist zusammengebrochen, weil er von dem giftigen Spinnentier gestochen wurde. Wie ist der schwarze Skorpion in den Sand des Spielfeldes geraten? Wollte jemand mit einem Anschlag den bevorstehenden Sieg der amerikanischen Mannschaft verhindern? Die drei ??? nehmen die Ermittlungen auf und bekommen es in diesem gefährlichen Abenteuer mit einer ganzen Reihe weiterer unheimlicher Tiere zu tun …",
+  "veröffentlichungsdatum" : "2005-01-10",
+  "kapitel" : [
+    {
+      "titel" : "Panik!",
+      "start" : 0,
+      "end" : 265680
+    },
+    {
+      "titel" : "Der Lebensretter",
+      "start" : 265680,
+      "end" : 547587
+    },
+    {
+      "titel" : "Mehrere Todesopfer",
+      "start" : 547587,
+      "end" : 917427
+    },
+    {
+      "titel" : "Im Tropeninstitut",
+      "start" : 917427,
+      "end" : 1488587
+    },
+    {
+      "titel" : "Deep Throat",
+      "start" : 1488587,
+      "end" : 1763173
+    },
+    {
+      "titel" : "Feueralarm",
+      "start" : 1763173,
+      "end" : 2156213
+    },
+    {
+      "titel" : "Von Gifttieren attackiert",
+      "start" : 2156213,
+      "end" : 2388360
+    },
+    {
+      "titel" : "Notruf",
+      "start" : 2388360,
+      "end" : 2828693
+    },
+    {
+      "titel" : "Die Lösung",
+      "start" : 2828693,
+      "end" : 2994813
+    },
+    {
+      "titel" : "Purer Sand",
+      "start" : 2994813,
+      "end" : 3251987
+    },
+    {
+      "titel" : "Einfache Logik",
+      "start" : 3251987,
+      "end" : 3528253
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Ken Parker, Beachball-Spieler",
+      "Jürgen Holdorf"
+    ],
+    [
+      "Dr. Robinson",
+      "Heinz Lieven"
+    ],
+    [
+      "Mickey McQuire",
+      "Marco Sand"
+    ],
+    [
+      "Mrs Bancroft",
+      "Ilka Kirsch"
+    ],
+    [
+      "Zuschauer",
+      "Alexander Mülle"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/120/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/120/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/120/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/120/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/00/61/8d/00618d19-8a29-5558-04df-40088a2ef2d6/886445752175.jpg/3000x0w.png"
+  }
+}

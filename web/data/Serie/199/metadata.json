@@ -1,0 +1,111 @@
+{
+  "nummer" : 199,
+  "titel" : "und der grüne Kobold",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein grüner Kobold mit blechernem Herzschlag, der nachts über die Flure geistert. Wahrlich keine gute Werbung für ein Hotel. Die drei ??? glauben keine Sekunde an das Wesen, bis sie die Aufzeichnungen der Überwachungskamera sehen …",
+  "veröffentlichungsdatum" : "2019-05-17",
+  "kapitel" : [
+    {
+      "titel" : "Schock in der Nacht",
+      "start" : 0,
+      "end" : 415733
+    },
+    {
+      "titel" : "Spuk im Hotel Lakshmi",
+      "start" : 415733,
+      "end" : 848040
+    },
+    {
+      "titel" : "Vegane Kost",
+      "start" : 848040,
+      "end" : 1314787
+    },
+    {
+      "titel" : "El Dorado",
+      "start" : 1314787,
+      "end" : 1838573
+    },
+    {
+      "titel" : "Die Geschichte eines Hauses",
+      "start" : 1838573,
+      "end" : 2245667
+    },
+    {
+      "titel" : "Koboldalarm",
+      "start" : 2245667,
+      "end" : 3022827
+    },
+    {
+      "titel" : "Steinchen für Steinchen",
+      "start" : 3022827,
+      "end" : 3475000
+    },
+    {
+      "titel" : "Sucht und Leidenschaft",
+      "start" : 3475000,
+      "end" : 4506587
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus",
+      "Rüdiger Schulzki"
+    ],
+    [
+      "Mr. Aaron Grover",
+      "Gernot Endemann"
+    ],
+    [
+      "Msr. Patricia Grover",
+      "Heidi Berndt"
+    ],
+    [
+      "Elodie Grover",
+      "Henrike Fehrs"
+    ],
+    [
+      "Desmond Cathpole",
+      "Martin Brücker"
+    ],
+    [
+      "Hausmeister Spencer",
+      "Werner Cartano"
+    ],
+    [
+      "Mr. Rubberwood",
+      "Udo Schenk"
+    ],
+    [
+      "Mr. Parker Mayfield",
+      "Holger Umbreit"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/199/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/199/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/199/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/199/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/ad/58/80/ad5880f8-019a-d4d8-d82b-59b134fd8bc4/886447191552.jpg/3000x0w.png"
+  }
+}

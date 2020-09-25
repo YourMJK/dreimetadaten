@@ -1,0 +1,104 @@
+{
+  "nummer" : 50,
+  "titel" : "und der verschwundene Filmstar",
+  "autor" : "Megan & H. William Stine",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Ein Filmstar verschwindet – Diller Rourke, Hauptdarsteller im Horrorstreifen Atemlos II, erscheint nicht zu den Dreharbeiten auf dem Friedhof. Die Zentrale der drei ??? wird überfallen und verwüstet. Trotzdem heften sie sich an die Fersen von Erfolgsproduzent Marty Morningbaum, seinem Regisseur und dem mysteriösen Kristallkugel-Guru mit dem dritten Auge. Eine knallharte Betrugsgeschichte, live aus dem glitzernden Show-Geschäft.",
+  "veröffentlichungsdatum" : "1991-03-19",
+  "kapitel" : [
+    {
+      "titel" : "Chaos in der Strandvilla",
+      "start" : 0,
+      "end" : 548960
+    },
+    {
+      "titel" : "Ein Unglück kommt selten allein",
+      "start" : 548960,
+      "end" : 947920
+    },
+    {
+      "titel" : "Stars mit und ohne Maske",
+      "start" : 947920,
+      "end" : 1336107
+    },
+    {
+      "titel" : "Rat vom großen Guru",
+      "start" : 1336107,
+      "end" : 1717547
+    },
+    {
+      "titel" : "Der Kerl mit dem Koffer",
+      "start" : 1717547,
+      "end" : 2171933
+    },
+    {
+      "titel" : "Nachteinsatz",
+      "start" : 2171933,
+      "end" : 2739760
+    },
+    {
+      "titel" : "Total vermasselt!",
+      "start" : 2739760,
+      "end" : 3043307
+    },
+    {
+      "titel" : "Ein Vampir kehrt zurück",
+      "start" : 3043307,
+      "end" : 3435173
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Jon Travis",
+      "Rolf Becker"
+    ],
+    [
+      "Marty Morningbaum",
+      "Helmut Ahner"
+    ],
+    [
+      "Diller Rourke",
+      "Michael Quiatkowsky"
+    ],
+    [
+      "Marble Ackbourne-Smith",
+      "Wolf Rathjen"
+    ],
+    [
+      "Margo",
+      "Hanni Vanhaiden"
+    ],
+    [
+      "Kevin",
+      "Fred Maire"
+    ],
+    [
+      "Herr Andrews",
+      "Günter König"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/050/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/050/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/050/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/050/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music69/v4/51/4c/2a/514c2af4-46dc-fe14-2628-24048a5e52ac/886445747256.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/71/8a/c7/0743213885025.jpg"
+  }
+}

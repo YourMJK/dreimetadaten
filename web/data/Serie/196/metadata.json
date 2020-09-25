@@ -1,0 +1,111 @@
+{
+  "nummer" : 196,
+  "titel" : "Geheimnis des Bauchredners",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Beachte auch unser Sparpaket. Das Sparpaket gibt es HIER!!! Patricia Osborne hat Probleme mit ihrem neuen Mitbewohner Mr. Giggles. Der bereitet ihr schlaflose Nächte. Denn statt in seinem Sessel zu bleiben, wandelt er zur Abendstunde durchs Haus. Ein Fall von Ruhestörung? Das klingt nicht nach einem Fall für die drei Detektive. Doch dann erfahren Justus, Peter und Bob, dass Mr. Giggles eine Bauchrednerpuppe ist! Und für Patricia Osborne steht fest: Mr. Giggles ist vom bösen Geist seines Puppenspielers besessen.",
+  "veröffentlichungsdatum" : "2018-11-30",
+  "kapitel" : [
+    {
+      "titel" : "Magisches Ritual",
+      "start" : 0,
+      "end" : 626973
+    },
+    {
+      "titel" : "Die verfluchte Puppe",
+      "start" : 626973,
+      "end" : 1237760
+    },
+    {
+      "titel" : "Grüße von Giggles",
+      "start" : 1237760,
+      "end" : 1954253
+    },
+    {
+      "titel" : "Mission Fingerabdruck",
+      "start" : 1954253,
+      "end" : 2358880
+    },
+    {
+      "titel" : "Stars und Stiles",
+      "start" : 2358880,
+      "end" : 2998360
+    },
+    {
+      "titel" : "Das Haus am Ende der Straße",
+      "start" : 2998360,
+      "end" : 3667813
+    },
+    {
+      "titel" : "Miss Osborne unter Druck",
+      "start" : 3667813,
+      "end" : 4408320
+    },
+    {
+      "titel" : "Mit eigenen Augen",
+      "start" : 4408320,
+      "end" : 4728400
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Patricia Osborne",
+      "Barbara Focke"
+    ],
+    [
+      "Osiris",
+      "Wolfgang Kaven"
+    ],
+    [
+      "Sunshine",
+      "Dagmar Dreke"
+    ],
+    [
+      "Vandaan",
+      "Andreas Birnbaum"
+    ],
+    [
+      "Frank Corman /Mr Giggles",
+      "Lutz Mackensy"
+    ],
+    [
+      "Trixie Stiles",
+      "Anne Moll"
+    ],
+    [
+      "Bryan Bonfanti",
+      "Frank Roder"
+    ],
+    [
+      "Miller",
+      "Birte Kretschmer"
+    ],
+    [
+      "Henson",
+      "Constantin Stahlberg"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/196/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/196/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/196/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/196/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/64/31/3a/64313a04-0702-85e0-1ba6-d8a432a1e069/886446602608.jpg/3000x0w.png"
+  }
+}

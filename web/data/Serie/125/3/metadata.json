@@ -1,0 +1,163 @@
+{
+  "teilNummer" : 3,
+  "buchstabe" : "C",
+  "titel" : "Die Nacht der Schatten",
+  "beschreibung" : "Auf einer kleinen Insel vor Rocky Beach treffen die drei ??? in nächtlicher Finsternis erneut auf den Meisterdieb Hugenay. Die Jagd nach Feuermond beginnt. Und schnell zeigt sich, dass es die drei Detektive mit mehr als einem Widersacher zu tun haben.\nWem wird es gelingen, das Gemälde zu finden und das große Geheimnis um Feuermond zu lüften?",
+  "kapitel" : [
+    {
+      "titel" : "Blanker Unsinn",
+      "start" : 0,
+      "end" : 313253
+    },
+    {
+      "titel" : "Schock!",
+      "start" : 313253,
+      "end" : 390387
+    },
+    {
+      "titel" : "Stromausfall",
+      "start" : 390387,
+      "end" : 689387
+    },
+    {
+      "titel" : "Blick in die Zukunft",
+      "start" : 689387,
+      "end" : 842747
+    },
+    {
+      "titel" : "Menschenleer",
+      "start" : 842747,
+      "end" : 1016213
+    },
+    {
+      "titel" : "Skrupel",
+      "start" : 1016213,
+      "end" : 1174907
+    },
+    {
+      "titel" : "Verschlossen",
+      "start" : 1174907,
+      "end" : 1749053
+    },
+    {
+      "titel" : "Überraschung",
+      "start" : 1749053,
+      "end" : 1904560
+    },
+    {
+      "titel" : "Verbündet",
+      "start" : 1904560,
+      "end" : 2796187
+    },
+    {
+      "titel" : "Verhaftet",
+      "start" : 2796187,
+      "end" : 2927733
+    },
+    {
+      "titel" : "Die halbe Wahrheit",
+      "start" : 2927733,
+      "end" : 3227173
+    },
+    {
+      "titel" : "Eine letzte Bitte",
+      "start" : 3227173,
+      "end" : 3436853
+    },
+    {
+      "titel" : "Die ganze Wahrheit",
+      "start" : 3436853,
+      "end" : 3671587
+    },
+    {
+      "titel" : "Die Würde",
+      "start" : 3671587,
+      "end" : 3959280
+    },
+    {
+      "titel" : "Der Brief",
+      "start" : 3959280,
+      "end" : 4183213
+    },
+    {
+      "titel" : "\"Nach 15\"",
+      "start" : 4183213,
+      "end" : 4464547
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Brittany",
+      "Dorette Hugo"
+    ],
+    [
+      "Hugenay",
+      "Albert Giro"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Julianne Wallace",
+      "Marlen Diekhoff"
+    ],
+    [
+      "Charles Knox",
+      "Dirk Bach"
+    ],
+    [
+      "Moderator",
+      "Holger Wemhoff"
+    ],
+    [
+      "Polizist 2",
+      "Erik Schäffler"
+    ],
+    [
+      "Ansager",
+      "Bertram Hiese"
+    ],
+    [
+      "Mr. Myers",
+      "Eberhard Haar"
+    ],
+    [
+      "Nachtschatten",
+      "Frank Tannhäuser"
+    ],
+    [
+      "Onkel Titus Jonas",
+      "Hans Meinhardt"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Mr. Baker",
+      "Wolf Pahls"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/125/3/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/3/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/125/3/rip_log.txt"
+  }
+}

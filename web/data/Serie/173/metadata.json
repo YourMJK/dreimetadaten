@@ -1,0 +1,121 @@
+{
+  "nummer" : 173,
+  "titel" : "Dämon der Rache",
+  "autor" : "Hendrik Buchna",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Bei einer Ballonfahrt entdeckt Peter in der Nähe einer abgelegenen Villa ein Monster – eindeutig ein neuer Fall für die drei ???! Ihre Ermittlungen führen die Detektive zur seltsamen Mrs Pembroke und ihrem Neffen Luke. Die beiden werden von der grässlichen Gestalt bedroht. Luke bittet Justus, Peter und Bob um Hilfe. Doch schnell wird klar: Der Dämon der Rache ist nicht aufzuhalten …",
+  "veröffentlichungsdatum" : "2015-01-16",
+  "kapitel" : [
+    {
+      "titel" : "Der einzige Zeuge",
+      "start" : 0,
+      "end" : 197480
+    },
+    {
+      "titel" : "Das Dunkelhaus",
+      "start" : 197480,
+      "end" : 588307
+    },
+    {
+      "titel" : "Bei Tageslicht",
+      "start" : 588307,
+      "end" : 1443960
+    },
+    {
+      "titel" : "In der Dämmerung",
+      "start" : 1443960,
+      "end" : 1644800
+    },
+    {
+      "titel" : "Monsternacht",
+      "start" : 1644800,
+      "end" : 2412000
+    },
+    {
+      "titel" : "Im Kleiderschrank",
+      "start" : 2412000,
+      "end" : 2609013
+    },
+    {
+      "titel" : "Die Trinität der Geist-Vögel",
+      "start" : 2609013,
+      "end" : 3006667
+    },
+    {
+      "titel" : "Der Fluch des Harpuniers",
+      "start" : 3006667,
+      "end" : 3340213
+    },
+    {
+      "titel" : "Hinterhalt",
+      "start" : 3340213,
+      "end" : 3654787
+    },
+    {
+      "titel" : "Die große Versammlung",
+      "start" : 3654787,
+      "end" : 4225213
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Rupert",
+      "Udo Schenk"
+    ],
+    [
+      "Luke",
+      "Daniel Kirchberger"
+    ],
+    [
+      "Gwendolyn Pembroke",
+      "Aranka Mamero"
+    ],
+    [
+      "Lance Vaughn",
+      "Rainer Schmitt"
+    ],
+    [
+      "'The Destroyer'",
+      "Stephan Schad"
+    ],
+    [
+      "Darby Farnham",
+      "Christine Jensen"
+    ],
+    [
+      "Earl Forrester",
+      "Tobias Schmidt"
+    ],
+    [
+      "Alvin Cray",
+      "Michael Bideller"
+    ],
+    [
+      "Mr. Lloyd",
+      "Lutz Mackensy"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/173/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/173/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/173/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/173/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/bf/89/4a/bf894abb-61a3-c0ae-ee4b-41f8c2072a0f/886445760088.jpg/3000x0w.png"
+  }
+}

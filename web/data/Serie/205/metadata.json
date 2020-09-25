@@ -1,0 +1,117 @@
+{
+  "nummer" : 205,
+  "titel" : "Das rätselhafte Erbe",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein merkwürdiger Anruf erreicht die drei ???. Eine Frau scheint sich in großen Schwierigkeiten zu befinden. Doch bevor die Detektive Näheres erfahren, unterbricht eine kratzige Stimme das Gespräch: \"Hände hoch, oder es knallt!\" Als Justus, Peter und Bob kurz darauf auch noch ein Gemälde der jüngst verstorbenen und bekannten Künstlerin Caroline di Santo erben, ist ihre Verwirrung komplett. Was steckt hinter den geheimnisvollen Ereignissen? Und was sollen sie nur mit diesem Bild angfangen?",
+  "veröffentlichungsdatum" : "2020-05-15",
+  "kapitel" : [
+    {
+      "titel" : "Hände hoch, oder es knallt!",
+      "start" : 0,
+      "end" : 198507
+    },
+    {
+      "titel" : "Der letzte Wille",
+      "start" : 198507,
+      "end" : 778467
+    },
+    {
+      "titel" : "Mann ohne Gesicht",
+      "start" : 778467,
+      "end" : 1767080
+    },
+    {
+      "titel" : "Eine stille Bewunderin",
+      "start" : 1767080,
+      "end" : 2446760
+    },
+    {
+      "titel" : "Blutige Zeichen",
+      "start" : 2446760,
+      "end" : 3076320
+    },
+    {
+      "titel" : "Das Geheimnis der Familie di Santo",
+      "start" : 3076320,
+      "end" : 4255120
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawcrzeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Trish",
+      "Katrin Decker"
+    ],
+    [
+      "Giovanni",
+      "Stephan Schad"
+    ],
+    [
+      "Rosaly",
+      "Gertie Honeck"
+    ],
+    [
+      "Matteo",
+      "Roman Rossa"
+    ],
+    [
+      "Caroline",
+      "Marianne Bernhardt"
+    ],
+    [
+      "Butler",
+      "Ivo Möller"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Charles Stapleton",
+      "Romanus Fuhrmann"
+    ],
+    [
+      "Direktor Greenwalt",
+      "Jürgen Uter"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Angestellter",
+      "Oliver Böttcher"
+    ],
+    [
+      "Polizist",
+      "Carlo von Tiedemann"
+    ],
+    [
+      "Papagei",
+      "Merete Brettschneider"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/205/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/205/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/205/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/205/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/cb/e3/c2cbe3e2-d83d-b0c4-c33e-dfdf9aa6db68/886447878361.jpg/3000x0w.png"
+  }
+}

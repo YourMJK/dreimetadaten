@@ -1,0 +1,128 @@
+{
+  "nummer" : 134,
+  "titel" : "Der tote Mönch",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein böser Geist will Christine Harkinson von ihrem Anwesen vertreiben! Davon ist zumindest ihr Gärtner überzeugt. Lo Wang bangt um das Leben seiner Arbeitgeberin. Justus, Peter und Bob, die drei erfolgreichen Detektive aus Rocky Beach, machen sich auf die Suche nach dem ominösen Geist. Wer oder was steckt hinter der gruseligen Kapuzengestalt, die nachts ihr Unwesen im Garten treibt? Als die drei ??? ein offenes altes Grab entdecken, ist sich Peter ganz sicher: Ein toter Mönch verfolgt Christine! Doch worauf hat er es abgesehen …?",
+  "veröffentlichungsdatum" : "2009-10-02",
+  "kapitel" : [
+    {
+      "titel" : "Noch mal Glück gehabt!",
+      "start" : 0,
+      "end" : 276800
+    },
+    {
+      "titel" : "Angst",
+      "start" : 276800,
+      "end" : 849960
+    },
+    {
+      "titel" : "Beschattung",
+      "start" : 849960,
+      "end" : 1156707
+    },
+    {
+      "titel" : "Böser Geist",
+      "start" : 1156707,
+      "end" : 1448133
+    },
+    {
+      "titel" : "Verschüttet",
+      "start" : 1448133,
+      "end" : 1770587
+    },
+    {
+      "titel" : "Ordnung kehrt ein",
+      "start" : 1770587,
+      "end" : 2068627
+    },
+    {
+      "titel" : "Geschäftsgeheimnis",
+      "start" : 2068627,
+      "end" : 2193227
+    },
+    {
+      "titel" : "Neuer Entschluss",
+      "start" : 2193227,
+      "end" : 2280387
+    },
+    {
+      "titel" : "Fototrick",
+      "start" : 2280387,
+      "end" : 2601960
+    },
+    {
+      "titel" : "Es entwickelt sich",
+      "start" : 2601960,
+      "end" : 2757187
+    },
+    {
+      "titel" : "Der tote Mönch",
+      "start" : 2757187,
+      "end" : 3322453
+    },
+    {
+      "titel" : "Seltener Name",
+      "start" : 3322453,
+      "end" : 3627387
+    },
+    {
+      "titel" : "Letzte Ergebnisse",
+      "start" : 3627387,
+      "end" : 4029587
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Christine",
+      "Inken Sommer"
+    ],
+    [
+      "Mr. Bambridge",
+      "Gustav-Adolph Artz"
+    ],
+    [
+      "Lo Wang",
+      "Dae Joon Yoo"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Anthony Hearst",
+      "Wolfgang Pampel"
+    ],
+    [
+      "Truck-Fahrer",
+      "Konstantin Graudus"
+    ],
+    [
+      "Avercromby",
+      "Nicolas König"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/134/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/134/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/134/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/134/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music71/v4/0d/94/ee/0d94eeea-cbda-ed35-52cd-79e6a122f8e4/886445755145.jpg/3000x0w.png"
+  }
+}

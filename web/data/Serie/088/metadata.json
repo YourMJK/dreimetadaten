@@ -1,0 +1,122 @@
+{
+  "nummer" : 88,
+  "titel" : "Vampir im Internet",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Mit voller Kraft rast der Vampir gegen die Scheibe. Glas splittert, Scherben fliegen durch die Luft. Das Fledermaus-Monster scheint die Wände seines Käfigs zu sprengen: Das brandneue Computerspiel zieht die drei Detektive aus Rocky Beach in seinen Bann. Begeistert tauchen sie ein in die virtuelle Welt der Drachen und Monster. Die Welt des Spiels scheint sich mit der Realität zu vermischen. Justus, Peter und Bob müssen höllisch aufpassen, um den Vampiren nicht zum Opfer zu fallen.",
+  "veröffentlichungsdatum" : "1999-12-13",
+  "kapitel" : [
+    {
+      "titel" : "Per E-Mail",
+      "start" : 0,
+      "end" : 609920
+    },
+    {
+      "titel" : "Intro",
+      "start" : 609920,
+      "end" : 1276160
+    },
+    {
+      "titel" : "Level 1",
+      "start" : 1276160,
+      "end" : 2047080
+    },
+    {
+      "titel" : "Level 2",
+      "start" : 2047080,
+      "end" : 2699867
+    },
+    {
+      "titel" : "Level 3",
+      "start" : 2699867,
+      "end" : 3638080
+    },
+    {
+      "titel" : "Level 4",
+      "start" : 3638080,
+      "end" : 4496507
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Doe Dungeon, Programmierer",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Lili Buschfort",
+      "Christina Holsten"
+    ],
+    [
+      "Tom Beker",
+      "Wolfgang Hartmann"
+    ],
+    [
+      "Märchenerzähler",
+      "Hans Paetsch"
+    ],
+    [
+      "Königin Trulie",
+      "Hanna Reisch"
+    ],
+    [
+      "Vinton",
+      "Nils Noller"
+    ],
+    [
+      "Amme",
+      "Katharina Brauren"
+    ],
+    [
+      "Medusa",
+      "Marianne Kehlau"
+    ],
+    [
+      "Oinki Hinki",
+      "Niko Minninger"
+    ],
+    [
+      "Vampir-Frau",
+      "Julia von Spieß"
+    ],
+    [
+      "Hexe",
+      "Micaela Kreißler"
+    ],
+    [
+      "Oma",
+      "Beate Hasenau"
+    ],
+    [
+      "Wache",
+      "Michael Quiatkowsky"
+    ],
+    [
+      "Computerstimme",
+      "Sascha Gutzeit"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/088/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/088/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/088/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/088/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e6/9d/5c/e69d5c66-c43d-03d3-280c-b3e386d40b16/886445750294.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/85/6a/cb/0743216568925.jpg"
+  }
+}

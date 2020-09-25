@@ -1,0 +1,130 @@
+{
+  "nummer" : 2,
+  "titel" : "Die Pforte zum Jenseits",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Handelt es sich bei dem alten Greis Sylvester Meyzel nur um ein erwachsenes Kind, dem die Fantasie einen Streich spielt, oder wird er tatsächlich von einem unsichtbaren Gast heimgesucht? Als Meyzels nächtliche Albträume tagsüber zur Realität werden, wendet er sich Hilfe suchend an Die Dr3i. Jupiter, Peter und Bob kommen ziemlich schnell zu der Erkenntnis, dass Meyzels Schilderungen jeder Logik entbehren. Als aber auch Peters Angstträume Wirklichkeit werden, beginnt das Trio zu ermitteln. Vor ihren Augen öffnet sich die Pforte zum Jenseits …",
+  "veröffentlichungsdatum" : "2006-10-13",
+  "kapitel" : [
+    {
+      "titel" : "Aus den Träumen gerissen",
+      "start" : 0,
+      "end" : 186960
+    },
+    {
+      "titel" : "Vom Blitz getroffen!",
+      "start" : 186960,
+      "end" : 878600
+    },
+    {
+      "titel" : "Tödliche Bowle",
+      "start" : 878600,
+      "end" : 1274613
+    },
+    {
+      "titel" : "Unsichtbarer Mitbewohner",
+      "start" : 1274613,
+      "end" : 1803653
+    },
+    {
+      "titel" : "Spielverderber",
+      "start" : 1803653,
+      "end" : 2099720
+    },
+    {
+      "titel" : "Abgelehnt",
+      "start" : 2099720,
+      "end" : 2202013
+    },
+    {
+      "titel" : "Albtraum",
+      "start" : 2202013,
+      "end" : 2778973
+    },
+    {
+      "titel" : "Schlachtplan",
+      "start" : 2778973,
+      "end" : 2962547
+    },
+    {
+      "titel" : "Film ab!",
+      "start" : 2962547,
+      "end" : 3428947
+    },
+    {
+      "titel" : "Überreagiert",
+      "start" : 3428947,
+      "end" : 3740907
+    },
+    {
+      "titel" : "Erstens kommt es anders …",
+      "start" : 3740907,
+      "end" : 4502293
+    },
+    {
+      "titel" : "… und zweitens, als man denkt",
+      "start" : 4502293,
+      "end" : 4634013
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Jupiter Jones",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Crenshaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Sylvester Meyzel",
+      "Wolfgang Völz"
+    ],
+    [
+      "Dorothy Winter",
+      "Doris Kunstmann"
+    ],
+    [
+      "Mr. Hendrik",
+      "Utz Richter"
+    ],
+    [
+      "Kassiererin",
+      "Enie van de Meiklokjes"
+    ],
+    [
+      "Inspektor Milton",
+      "Holger Mahlich"
+    ],
+    [
+      "Inspektor Tomlin",
+      "Klaus Dittmann"
+    ],
+    [
+      "Mr. X",
+      "Dirk Eichhorn"
+    ],
+    [
+      "Tao",
+      "Tilman Maddaus"
+    ],
+    [
+      "Supermarkt-Durchsage",
+      "André Minninger"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/2/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/2/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/2/cover.png"
+  }
+}

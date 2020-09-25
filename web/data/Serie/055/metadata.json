@@ -1,0 +1,116 @@
+{
+  "nummer" : 55,
+  "titel" : "Gekaufte Spieler",
+  "autor" : "Megan & H. William Stine",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Kaum zu fassen! Duggan bietet Peter das begehrte Stipendium am Shoremont College an. Die einzige Bedingung: Er soll in der dortigen Basketball-Mannschaft mitspielen. Das ist die Chance für den begeisterten Sportler. Wenig später findet er einen dicken Briefumschlag mit Hundert-Dollar-Scheinen in seinem Auto. Wie sich herausstellt, ist Peter nicht der einzige, der Bestechungsgelder erhält. Was steckt dahinter? Um den Skandal der gekauften Spieler aufzudecken, wird Justus sogar zum Papagei.",
+  "veröffentlichungsdatum" : "1992-02-18",
+  "kapitel" : [
+    {
+      "titel" : "Durch die Hintertür",
+      "start" : 0,
+      "end" : 484507
+    },
+    {
+      "titel" : "Ganz cool",
+      "start" : 484507,
+      "end" : 903667
+    },
+    {
+      "titel" : "Ein Haufen Geld",
+      "start" : 903667,
+      "end" : 1198307
+    },
+    {
+      "titel" : "Eine Bombenparty",
+      "start" : 1198307,
+      "end" : 1812520
+    },
+    {
+      "titel" : "Verhörmethoden",
+      "start" : 1812520,
+      "end" : 2218707
+    },
+    {
+      "titel" : "Die Falle",
+      "start" : 2218707,
+      "end" : 2530613
+    },
+    {
+      "titel" : "Volltreffer",
+      "start" : 2530613,
+      "end" : 2795867
+    },
+    {
+      "titel" : "VIP",
+      "start" : 2795867,
+      "end" : 3056533
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Kelly",
+      "Juliane Szalay"
+    ],
+    [
+      "Trainer Tong",
+      "Michael Hark"
+    ],
+    [
+      "Trainer Duggan",
+      "Douglas Welbat"
+    ],
+    [
+      "Präsident Harper",
+      "Eric Vaessen"
+    ],
+    [
+      "Jerri",
+      "Samira Chanfir"
+    ],
+    [
+      "Nora",
+      "Ann Montenbruck"
+    ],
+    [
+      "Cory",
+      "Ben Tappé"
+    ],
+    [
+      "Norman",
+      "Henry König"
+    ],
+    [
+      "Powers",
+      "Hans Clarin"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/055/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/055/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/055/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/055/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/cb/6a/17/cb6a17c4-45bb-aa4a-1289-0662ef564fec/886445747133.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/33/69/b0/0743213885520.jpg"
+  }
+}

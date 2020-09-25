@@ -1,0 +1,116 @@
+{
+  "nummer" : 62,
+  "titel" : "Spuk im Hotel",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Seltsame Dinge geschehen im Hotel der exzentrischen Amanda Black. Ein Unbekannter treibt seine Spielchen mit der ehemaligen Schauspielerin. Über Nacht verschwinden Erinnerungsstücke, die an denkbar merkwürdigen Stellen wieder auftauchen. Doch als schließlich ein Nebengebäude in Flammen aufgeht, sind sich Justus, Peter und Bob einig: Das ist bitterer Ernst! Die drei ??? entschließen sich, dem Täter eine Falle zu stellen.",
+  "veröffentlichungsdatum" : "1995-02-28",
+  "kapitel" : [
+    {
+      "titel" : "Knobeln mit Folgen",
+      "start" : 0,
+      "end" : 297440
+    },
+    {
+      "titel" : "Amandas \"Old Star\"",
+      "start" : 297440,
+      "end" : 871373
+    },
+    {
+      "titel" : "Der Dieb schlägt wieder zu",
+      "start" : 871373,
+      "end" : 1448307
+    },
+    {
+      "titel" : "Amandas Geheimnis",
+      "start" : 1448307,
+      "end" : 1782720
+    },
+    {
+      "titel" : "Geister und Ganoven",
+      "start" : 1782720,
+      "end" : 2377627
+    },
+    {
+      "titel" : "Diebin in Aktion",
+      "start" : 2377627,
+      "end" : 2859707
+    },
+    {
+      "titel" : "Feuer",
+      "start" : 2859707,
+      "end" : 3265613
+    },
+    {
+      "titel" : "Zur Feier des Tages",
+      "start" : 3265613,
+      "end" : 3563227
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Amanda Black",
+      "Beate Hasenau"
+    ],
+    [
+      "Mrs. Silverstone",
+      "Barbara Ratthay"
+    ],
+    [
+      "Mr. Garfield",
+      "Holger Mahlich [Utz Richter]"
+    ],
+    [
+      "Mr. Hartford",
+      "Hans Hessling"
+    ],
+    [
+      "Mrs. Hartford",
+      "Ursula Sieg"
+    ],
+    [
+      "Mrs. Green",
+      "Monika Werner"
+    ],
+    [
+      "Henry",
+      "Lutz Schnell"
+    ],
+    [
+      "Lys",
+      "Kerstin Draeger"
+    ],
+    [
+      "Linda",
+      "Janina Richter"
+    ],
+    [
+      "Inspektor Cotta",
+      "Willem Fricke"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/062/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/062/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/062/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/062/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music60/v4/7d/ad/89/7dad893a-eb8c-a66b-24bb-1e53c0eb90d0/886445747331.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/01/7d/4e/0743212358322.jpg"
+  }
+}

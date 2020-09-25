@@ -1,0 +1,41 @@
+{
+  "teilNummer" : 2,
+  "buchstabe" : "B",
+  "beschreibung" : "Eine rätselhafte Spur aus der Vergangenheit taucht auf. Sie führt zu einem alten Bekannten, zum Feurigen Auge und zu einer entlegenen Insel.",
+  "kapitel" : [
+    {
+      "titel" : "Geheimagent Blake Turner",
+      "start" : 0,
+      "end" : 831080
+    },
+    {
+      "titel" : "Whites Geheimnisse",
+      "start" : 831080,
+      "end" : 1580280
+    },
+    {
+      "titel" : "Es piept",
+      "start" : 1580280,
+      "end" : 1975800
+    },
+    {
+      "titel" : "Besuch aus der Vergangenheit",
+      "start" : 1975800,
+      "end" : 2710786
+    },
+    {
+      "titel" : "Nächtliche Verfolgung",
+      "start" : 2710786,
+      "end" : 3395373
+    },
+    {
+      "titel" : "Befreiung",
+      "start" : 3395373,
+      "end" : 4273520
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/200/2/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/200/2/rip_log.txt"
+  }
+}

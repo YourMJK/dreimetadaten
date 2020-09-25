@@ -1,0 +1,111 @@
+{
+  "nummer" : 30,
+  "titel" : "und das Riff der Haie",
+  "autor" : "William Arden",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Demonstranten blockieren die Arbeiten an der Öl-Bohrinsel vor der Küste von Santa Barbara. Die drei Detektive fahren hinaus, um sich die Demonstration anzusehen. Sie werden in rätselhafte Vorgänge verwickelt. Etwas Unheimliches geschieht mit dem Boot von Mr. Crowe, und als ein gewaltiger Sturm aufzieht, gibt das Meer eines seiner Geheimnisse preis. Was schiebt sich da aus den Wellen? Ein Meeres-Ungeheuer …?",
+  "veröffentlichungsdatum" : "1982-06-20",
+  "kapitel" : [
+    {
+      "titel" : "Rätselhafter Schwund",
+      "start" : 0,
+      "end" : 288453
+    },
+    {
+      "titel" : "Ein Schnüffler",
+      "start" : 288453,
+      "end" : 578347
+    },
+    {
+      "titel" : "Justus weiß eine Erklärung",
+      "start" : 578347,
+      "end" : 963613
+    },
+    {
+      "titel" : "Peter hat es erfasst",
+      "start" : 963613,
+      "end" : 1251253
+    },
+    {
+      "titel" : "Der Haifänger",
+      "start" : 1251253,
+      "end" : 1548573
+    },
+    {
+      "titel" : "Das Ungetüm aus dem Meer",
+      "start" : 1548573,
+      "end" : 1929387
+    },
+    {
+      "titel" : "Das Riff der Haie und sein Geheimnis",
+      "start" : 1929387,
+      "end" : 2294893
+    },
+    {
+      "titel" : "Qualm und List",
+      "start" : 2294893,
+      "end" : 2522293
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Andrews",
+      "Joachim Richert"
+    ],
+    [
+      "Crowe",
+      "Henry Kielmann"
+    ],
+    [
+      "Käptn Jason",
+      "Karl Walter Diess"
+    ],
+    [
+      "MacGruder",
+      "Siegfried Wald"
+    ],
+    [
+      "Hanley",
+      "Lothar Grützner"
+    ],
+    [
+      "Torao",
+      "Joko Talmann [Rüdiger Schulzki]"
+    ],
+    [
+      "Berg",
+      "Andreas Beurmann / Wolfgang Draeger"
+    ],
+    [
+      "Yamura",
+      "Hubert Mittendorf"
+    ],
+    [
+      "Die Gebrüder Connors",
+      "Nicolas Körting, Lothar Grützner"
+    ],
+    [
+      "Weston",
+      "Joachim Richert"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/030/metadata.json"
+  }
+}

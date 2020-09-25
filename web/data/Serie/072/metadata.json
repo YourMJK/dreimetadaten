@@ -1,0 +1,124 @@
+{
+  "nummer" : 72,
+  "titel" : "Dreckiger Deal",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Kings Café ist für die Schülerinnen und Schüler der High School von Rocky Beach ein beliebter Treffpunkt: Der freundliche Besitzer Malcolm King hat immer ein offenes Ohr für sie und hilft, wo er kann. Deshalb ist es ein großer Schock für sie, als King plötzlich verhaftet wird. Die Polizei hat in seinem Laden Rauschgift gefunden. Justus, Peter und Bob, die drei jungen Detektive, wollen King helfen. Aber sie wissen nicht, worauf sie sich da eingelassen haben.",
+  "veröffentlichungsdatum" : "1996-10-07",
+  "kapitel" : [
+    {
+      "titel" : "Bauklötze beschlagnahmt",
+      "start" : 0,
+      "end" : 582867
+    },
+    {
+      "titel" : "Ein geheimnisvoller Tipp",
+      "start" : 582867,
+      "end" : 1202640
+    },
+    {
+      "titel" : "Verwüstung mit System",
+      "start" : 1202640,
+      "end" : 1564107
+    },
+    {
+      "titel" : "Fettige Marmeladengläser",
+      "start" : 1564107,
+      "end" : 1886947
+    },
+    {
+      "titel" : "Hester hofft auf Hilfe",
+      "start" : 1886947,
+      "end" : 2192213
+    },
+    {
+      "titel" : "Hakuna matata",
+      "start" : 2192213,
+      "end" : 2437733
+    },
+    {
+      "titel" : "Malcolm, der Rebell",
+      "start" : 2437733,
+      "end" : 3014147
+    },
+    {
+      "titel" : "Lauras letzte Chance",
+      "start" : 3014147,
+      "end" : 3477893
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Laura McLaughin",
+      "Marianne Kehlau"
+    ],
+    [
+      "Malcolm King",
+      "Jörg Gillner"
+    ],
+    [
+      "Lansana King",
+      "Sabine Hahn"
+    ],
+    [
+      "Hester Dalton",
+      "Marianne Bernhardt"
+    ],
+    [
+      "Billie",
+      "Stefan Conradi"
+    ],
+    [
+      "Polizist",
+      "Oliver Reinhardt"
+    ],
+    [
+      "Wachmann",
+      "Dieter Ohlendieck"
+    ],
+    [
+      "2. Wächter",
+      "Michael Lott"
+    ],
+    [
+      "1. Polizist",
+      "Torben Liebrecht"
+    ],
+    [
+      "2. Polizist",
+      "Rene Spiegelberger"
+    ],
+    [
+      "Kellnerin",
+      "Doris Jahn"
+    ],
+    [
+      "Kundin",
+      "Susann Jarling"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/072/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/072/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/072/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/072/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/d3/96/ce/d396ce3e-830e-7111-72ae-9081cd4fca6e/886445749502.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b5/eb/3c/0743213849720.jpg"
+  }
+}

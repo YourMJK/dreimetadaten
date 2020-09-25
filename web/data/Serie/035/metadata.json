@@ -1,0 +1,123 @@
+{
+  "nummer" : 35,
+  "titel" : "und der Höhlenmensch",
+  "autor" : "M. V. Carey",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Das Skelett eines Urzeitmenschen lockt Justus, Bob und Peter in den kleinen Ort Citrus Grove. Kaum sind sie dort, als es auch schon zu rätselhaften Zwischenfällen kommt. Erwacht der Urmensch zu geheimnisvollem Leben? Und wieso legen sich plötzlich alle Bewohner von Citrus Grove zum Schlafen in den Park …?",
+  "veröffentlichungsdatum" : "1984-10-16",
+  "kapitel" : [
+    {
+      "titel" : "Der Unbekannte",
+      "start" : 0,
+      "end" : 312493
+    },
+    {
+      "titel" : "Böses Blut!",
+      "start" : 312493,
+      "end" : 748653
+    },
+    {
+      "titel" : "Besuch bei einem Toten",
+      "start" : 748653,
+      "end" : 1129800
+    },
+    {
+      "titel" : "Es tut sich was in Citrus Grove",
+      "start" : 1129800,
+      "end" : 1615347
+    },
+    {
+      "titel" : "Die Fußspur mit den vier Zehen",
+      "start" : 1615347,
+      "end" : 2007507
+    },
+    {
+      "titel" : "Noch ein Diebstahl",
+      "start" : 2007507,
+      "end" : 2463933
+    },
+    {
+      "titel" : "Fragen über Fragen",
+      "start" : 2463933,
+      "end" : 2815253
+    },
+    {
+      "titel" : "Tatmotiv: eine Million Dollar",
+      "start" : 2815253,
+      "end" : 3255933
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Eleonor",
+      "Susanne Wulkow"
+    ],
+    [
+      "Birkensteen",
+      "Oskar Kluge [Günter König]"
+    ],
+    [
+      "Terreano",
+      "Günter König"
+    ],
+    [
+      "Brandon",
+      "Douglas Welbat"
+    ],
+    [
+      "Hoffer",
+      "Eckart Dux"
+    ],
+    [
+      "McGee",
+      "Utz Richter"
+    ],
+    [
+      "Thalia",
+      "Ingeborg Kanstein"
+    ],
+    [
+      "Stefano",
+      "Andreas von der Meden"
+    ],
+    [
+      "John",
+      "Edgar Bessen"
+    ],
+    [
+      "Tankwart",
+      "F.-J. Steffens"
+    ],
+    [
+      "LKW-Fahrer",
+      "Andreas von der Meden"
+    ],
+    [
+      "Mann am Bahnhof",
+      "Christian Rode"
+    ],
+    [
+      "Bürgermeister",
+      "Edgar Bessen"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/035/metadata.json"
+  }
+}

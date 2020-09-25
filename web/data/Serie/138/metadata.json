@@ -1,0 +1,116 @@
+{
+  "nummer" : 138,
+  "titel" : "Die geheime Treppe",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Warum wurde der junge Wissenschaftler Davy Swann entführt? Und warum nannten ihn die vermummten Täter immer Philippe? Justus, Peter und Bob nehmen die Spur auf. Diese führt in das labyrinthische Gebäude der Universität mit geheimen Treppen und einer düsteren Bibliothek. Hier stoßen die drei ??? auf ein merkwürdiges Buch und seltsame Verse. Natürlich knacken die drei erfolgreichen Detektive aus Rocky Beach das Rätsel. Doch dann fangen die Schwierigkeiten erst an …",
+  "veröffentlichungsdatum" : "2010-05-21",
+  "kapitel" : [
+    {
+      "titel" : "Treibgut",
+      "start" : 0,
+      "end" : 274747
+    },
+    {
+      "titel" : "Pirate's Point",
+      "start" : 274747,
+      "end" : 404107
+    },
+    {
+      "titel" : "Die Wand",
+      "start" : 404107,
+      "end" : 637160
+    },
+    {
+      "titel" : "Der Gefangene",
+      "start" : 637160,
+      "end" : 1013693
+    },
+    {
+      "titel" : "King Kong und Freddy Krueger",
+      "start" : 1013693,
+      "end" : 1265867
+    },
+    {
+      "titel" : "Geheimbund",
+      "start" : 1265867,
+      "end" : 1416267
+    },
+    {
+      "titel" : "Die Löwenritter",
+      "start" : 1416267,
+      "end" : 2009027
+    },
+    {
+      "titel" : "Tatze und Schwert",
+      "start" : 2009027,
+      "end" : 2328880
+    },
+    {
+      "titel" : "Jagd auf Schuhe",
+      "start" : 2328880,
+      "end" : 2499840
+    },
+    {
+      "titel" : "Putzmann aus der Uni",
+      "start" : 2499840,
+      "end" : 2681427
+    },
+    {
+      "titel" : "Der Schlüssel",
+      "start" : 2681427,
+      "end" : 2873333
+    },
+    {
+      "titel" : "Zwischen Ameisen und Mistgabel",
+      "start" : 2873333,
+      "end" : 3093160
+    },
+    {
+      "titel" : "Die geheime Treppe",
+      "start" : 3093160,
+      "end" : 3987133
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Davy Swann",
+      "Thorsten Sense"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Craig Holden",
+      "Gerhard Olschewski"
+    ],
+    [
+      "Löwenritter",
+      "Burghart Klaußner"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/138/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/138/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/138/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/138/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/d3/70/8f/d3708fac-b007-c1ea-3f4c-599410319c88/886445755497.jpg/3000x0w.png"
+  }
+}

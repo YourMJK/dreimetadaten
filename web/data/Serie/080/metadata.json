@@ -1,0 +1,78 @@
+{
+  "nummer" : 80,
+  "titel" : "Geheimakte Ufo",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Bob und Peter stockt der Atem. Durch die Bäume schimmert unwirklich grelles Licht – ein Raumschiff ist in den Wäldern um Rocky Beach gelandet. Für Peter steht fest: Die Außerirdischen übernehmen die Macht auf der Erde! Justus, der Kopf des Detektivtrios, reagiert gelassen auf die Ufo-Berichte seiner Freunde. Doch dann taucht ein weiterer Augenzeuge auf und der Erste Detektiv wird stutzig. Nochmals untersuchen die drei ??? den Landeplatz des Raumschiffs, ohne zu ahnen, dass sie bereits erwartet werden …",
+  "veröffentlichungsdatum" : "1998-05-11",
+  "kapitel" : [
+    {
+      "titel" : "Feuer am Himmel",
+      "start" : 0,
+      "end" : 542200
+    },
+    {
+      "titel" : "Das Orangental",
+      "start" : 542200,
+      "end" : 1202827
+    },
+    {
+      "titel" : "Cosma",
+      "start" : 1202827,
+      "end" : 1780293
+    },
+    {
+      "titel" : "Die Männer in Schwarz",
+      "start" : 1780293,
+      "end" : 2248373
+    },
+    {
+      "titel" : "Ein geheimnisvolles Päckchen",
+      "start" : 2248373,
+      "end" : 2948493
+    },
+    {
+      "titel" : "Die Maske fällt",
+      "start" : 2948493,
+      "end" : 3560667
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Cosma",
+      "Elke Reissert"
+    ],
+    [
+      "Vladimir Contreras",
+      "Gerhart Hinze"
+    ],
+    [
+      "Roger Carpenter",
+      "Igmar Frentzen"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/080/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/080/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/080/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/080/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music20/v4/f0/99/7d/f0997dcc-c0a6-c5a9-cb29-d094bb17b353/886445750003.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/09/85/d4/0743215476221.jpg"
+  }
+}

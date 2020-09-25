@@ -1,0 +1,102 @@
+{
+  "nummer" : 87,
+  "titel" : "Wolfsgesicht",
+  "autor" : "Katharina Fischer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Der Mann lebt allein an der Küste, die Nachbarn kennen ihn kaum, das Haus verlässt er nur selten: ein einsamer Wolf – oder ist er in Wirklichkeit das Wolfsgesicht, der gefürchtete Attentäter? Zweimal hat er bereits zugeschlagen, und jedesmal konnte er fliehen, ohne Spuren zu hinterlassen. Selbst Justus, das Computerhirn der Drei ???, ist ratlos. Da erhält die Polizei Hinweise auf den nächsten Coup. Diesmal plant der Attentäter einen Anschlag auf den Präsidenten der Vereinigten Staaten. Die Zeit drängt. Schon morgen wird der Präsident nach Rocky Beach kommen.",
+  "veröffentlichungsdatum" : "1999-10-11",
+  "kapitel" : [
+    {
+      "titel" : "Der Mann mit der Maske",
+      "start" : 0,
+      "end" : 422920
+    },
+    {
+      "titel" : "Falsche Schlüsse",
+      "start" : 422920,
+      "end" : 1107853
+    },
+    {
+      "titel" : "Das Duell",
+      "start" : 1107853,
+      "end" : 1646427
+    },
+    {
+      "titel" : "Unter Polizisten",
+      "start" : 1646427,
+      "end" : 2292627
+    },
+    {
+      "titel" : "Der dritte Brief",
+      "start" : 2292627,
+      "end" : 2795440
+    },
+    {
+      "titel" : "Der Wolf zeigt seine Krallen",
+      "start" : 2795440,
+      "end" : 3294627
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Mrs. Harding, Polizeipsychologin",
+      "Katrin Wasow"
+    ],
+    [
+      "Mr. Ambler, Assistent",
+      "Rainer Schmitt"
+    ],
+    [
+      "Rodder, das Wolfsgesicht",
+      "Andreas Martens"
+    ],
+    [
+      "Mr. Laurent, Ladenbesitzer",
+      "Lutz Lukasz"
+    ],
+    [
+      "Mr. Stepelton, Ladenbesitzer",
+      "Harald Pages"
+    ],
+    [
+      "Ray, Praktikant",
+      "Marcel Rinkenauer"
+    ],
+    [
+      "Sandy, Verkäuferin",
+      "Kathi Robens"
+    ],
+    [
+      "Kundin",
+      "Cornelia Meinhardt"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/087/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/087/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/087/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/087/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music30/v4/1c/42/bf/1c42bff0-e8bb-d952-fcc0-5fb4ce659346/886445750133.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/11/71/4b/0743216568826.jpg"
+  }
+}

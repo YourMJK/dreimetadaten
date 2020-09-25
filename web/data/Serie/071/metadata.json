@@ -1,0 +1,128 @@
+{
+  "nummer" : 71,
+  "titel" : "Die verschwundene Seglerin",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Was geschah mit Irma Bannister? Von einem Segelausflug mit Freunden kehrte die beliebte Antiquitätenhändlerin ich mehr zurück. Doch die Trauer der Hinterbliebenen hält sich in Grenzen. Die drei Detektive aus Rocky Beach wittern einen brisanten Fall und nehmen die Fährte auf. Doch ihre Recherchen enden in einer Sackgasse, die Betroffenen schweigen. Was ist tatsächlich passiert?",
+  "veröffentlichungsdatum" : "1996-10-07",
+  "kapitel" : [
+    {
+      "titel" : "Onkel Titus sitzt in der Patsche",
+      "start" : 0,
+      "end" : 736827
+    },
+    {
+      "titel" : "Ein tragischer Segelunfall",
+      "start" : 736827,
+      "end" : 1304667
+    },
+    {
+      "titel" : "Im Reich der Mitte",
+      "start" : 1304667,
+      "end" : 1666187
+    },
+    {
+      "titel" : "1:0 für Santoria",
+      "start" : 1666187,
+      "end" : 1996960
+    },
+    {
+      "titel" : "Auf Leben und Tod",
+      "start" : 1996960,
+      "end" : 2409933
+    },
+    {
+      "titel" : "Lu Kwan schweigt",
+      "start" : 2409933,
+      "end" : 2928840
+    },
+    {
+      "titel" : "Bobs Theorie",
+      "start" : 2928840,
+      "end" : 3501547
+    },
+    {
+      "titel" : "Zweitausend $ zum Ersten",
+      "start" : 3501547,
+      "end" : 3994440
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Andrews",
+      "Günter König"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Mrs. Lu Kwan",
+      "Susanne von Loessel"
+    ],
+    [
+      "Jefferson",
+      "Christian Redl"
+    ],
+    [
+      "Dimitrios, Bankdirektor",
+      "Wilhelm Wieben"
+    ],
+    [
+      "Dan Jordan, Reporter",
+      "Michael Lott"
+    ],
+    [
+      "Olivia",
+      "Eva Weißmann"
+    ],
+    [
+      "Santoria",
+      "Holger Ohlendieck"
+    ],
+    [
+      "Pertier",
+      "Johann Herstermann"
+    ],
+    [
+      "Sergeant",
+      "Ingvar Jensen"
+    ],
+    [
+      "Irma",
+      "Konstanze Ulmer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/071/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/071/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/071/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/071/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music30/v4/0a/e5/24/0ae52439-b08f-78a2-bc0c-182ce740f2ce/886445749496.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/3c/1f/38/0743213849621.jpg"
+  }
+}

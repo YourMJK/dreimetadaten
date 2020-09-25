@@ -1,0 +1,104 @@
+{
+  "nummer" : 49,
+  "titel" : "und die Comic-Diebe",
+  "autor" : "William McCay",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Auf der InterComiCon werden Comics von unersetzlichem Wert gestohlen, und die drei ??? stehen unmittelbar daneben. Sie versuchen, den Fall aufzuklären, doch es erscheint zunächst unmöglich den Dieb zu finden. Dann aber ergibt sich eine Spur! Sofort reagiert der Dieb, und Peter entgeht nur ganz knapp einem tödlichen Anschlag …",
+  "veröffentlichungsdatum" : "1990-11-26",
+  "kapitel" : [
+    {
+      "titel" : "Großer Qualm – kleines Feuer",
+      "start" : 0,
+      "end" : 363133
+    },
+    {
+      "titel" : "Spannendes aus der Szene",
+      "start" : 363133,
+      "end" : 667613
+    },
+    {
+      "titel" : "Kunst und Kommerz",
+      "start" : 667613,
+      "end" : 1086667
+    },
+    {
+      "titel" : "Das interstellare Interview",
+      "start" : 1086667,
+      "end" : 1333040
+    },
+    {
+      "titel" : "Getäuscht",
+      "start" : 1333040,
+      "end" : 1619493
+    },
+    {
+      "titel" : "Handzeichen",
+      "start" : 1619493,
+      "end" : 2033547
+    },
+    {
+      "titel" : "Schwarze Kunst im Keller",
+      "start" : 2033547,
+      "end" : 2418440
+    },
+    {
+      "titel" : "Hart erkämpfter Sieg",
+      "start" : 2418440,
+      "end" : 2670120
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Axel Griswold",
+      "Helgo Liebig"
+    ],
+    [
+      "Purvis",
+      "Heiner Kramm"
+    ],
+    [
+      "Dan DeMento",
+      "Peter Heinrich"
+    ],
+    [
+      "Leo Rottweiler",
+      "Rainer Brönneke"
+    ],
+    [
+      "Steve Trash",
+      "Thomas Naumann"
+    ],
+    [
+      "Rainey Fields",
+      "Xenia Hey"
+    ],
+    [
+      "Junge",
+      "Leonhard Mahlich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/049/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/049/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/049/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/049/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music49/v4/09/16/e2/0916e243-8070-daad-8cfb-e4c6eb42891e/886445747294.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/44/f2/0f/0743213884929.jpg"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "nummer" : 178,
+  "titel" : "Der gefiederte Schrecken",
+  "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Was hat ein seltsames Vogelwesen mit einem riesigen Aquarium zu tun? Wer hat ein Interesse daran, die gigantische Meereslandschaft des mürrischen Mr. Faring zu zerstören? Und vor allem warum? Schon am Anfang ihres neuesten Falls gibt es eine Menge Fragezeichen für Justus, Peter und Bob. Und am Tatort gilt es, nicht nur erstaunliche Kreaturen in Sicherheit zu bringen, sondern auch ein höchst merkwürdiges Rätsel zu lösen …",
+  "veröffentlichungsdatum" : "2015-12-04",
+  "kapitel" : [
+    {
+      "titel" : "Eine alte Bekannte",
+      "start" : 0,
+      "end" : 315320
+    },
+    {
+      "titel" : "Meeresgetierrettungsaktion",
+      "start" : 315320,
+      "end" : 672373
+    },
+    {
+      "titel" : "Überwacht",
+      "start" : 672373,
+      "end" : 871867
+    },
+    {
+      "titel" : "Ornithologie der besonderen Art",
+      "start" : 871867,
+      "end" : 1593400
+    },
+    {
+      "titel" : "Erpressung",
+      "start" : 1593400,
+      "end" : 1860600
+    },
+    {
+      "titel" : "Blutige Federn",
+      "start" : 1860600,
+      "end" : 2474333
+    },
+    {
+      "titel" : "Aus eins mach zwei",
+      "start" : 2474333,
+      "end" : 2990413
+    },
+    {
+      "titel" : "In der Falle",
+      "start" : 2990413,
+      "end" : 3283293
+    },
+    {
+      "titel" : "Die Federn fallen",
+      "start" : 3283293,
+      "end" : 3955933
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Barbara Mathewson",
+      "Tanja Geke"
+    ],
+    [
+      "Zacharias Faring",
+      "Olaf Reichmann"
+    ],
+    [
+      "Malone",
+      "Tilo Schmitz"
+    ],
+    [
+      "Ben Crane",
+      "Christian Rudolf"
+    ],
+    [
+      "Timothy Jackson",
+      "Nicolas König"
+    ],
+    [
+      "Reginald",
+      "Tobias Schmidt"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/178/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/178/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/178/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/178/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/b4/7b/4a/b47b4aed-21c4-873e-89ae-55363063eb77/886445760132.jpg/3000x0w.png"
+  }
+}

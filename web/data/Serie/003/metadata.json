@@ -1,0 +1,107 @@
+{
+  "nummer" : 3,
+  "titel" : "und der Karpatenhund",
+  "autor" : "M. V. Carey",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Bei mir spukt es! Mit diesem verzweifelten Ausruf von Mr. Prentice beginnt ein neues Abenteuer für die drei ???. Ein Abenteuer, das immer verwickelter wird und bei dem sogar der sonst so superschlaue Erste Detektiv, Justus Jonas, eine Zeitlang völlig im Dunkeln tappt. – Welche unheimliche Gestalt geht in der Wohnung von Mr. Prentice ein und aus und versetzt diesen in immer größere Ängste und Schrecken? Was ist die Quelle jener gespenstischen Lichtblitze in seinem Arbeitszimmer, sechs Meter über der Straße? Wer hat die wertvolle gläserne Skulptur des Karpatenhundes verschwinden lassen, und wer versucht, allen Mietern den Aufenthalt in dem großen Appartementhaus unmöglich zu machen? Die wenigen Spuren weisen in verschiedene Richtungen, und für unser Detektivtrio gilt es wieder einmal, eine harte Nuss zu knacken. Werden sie Licht in das Dunkel bringen? …",
+  "veröffentlichungsdatum" : "1979-10-14",
+  "kapitel" : [
+    {
+      "titel" : "Es spukt bei Mr. Prentice",
+      "start" : 0,
+      "end" : 267507
+    },
+    {
+      "titel" : "Die Paste mit der Zauberkraft",
+      "start" : 267507,
+      "end" : 573387
+    },
+    {
+      "titel" : "Verräterische Flecken",
+      "start" : 573387,
+      "end" : 1003627
+    },
+    {
+      "titel" : "Licht in der Kirche",
+      "start" : 1003627,
+      "end" : 1358413
+    },
+    {
+      "titel" : "Diagnose: Vergiftung",
+      "start" : 1358413,
+      "end" : 1817307
+    },
+    {
+      "titel" : "Es knallt!",
+      "start" : 1817307,
+      "end" : 2021613
+    },
+    {
+      "titel" : "Es brennt!",
+      "start" : 2021613,
+      "end" : 2425933
+    },
+    {
+      "titel" : "Ein perfektes Alibi",
+      "start" : 2425933,
+      "end" : 2748440
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Prentice",
+      "Hans Hessling"
+    ],
+    [
+      "Niedland",
+      "Gerlach Fiedler"
+    ],
+    [
+      "Pfarrer",
+      "Ernst von Klipstein"
+    ],
+    [
+      "Mrs. Boogle",
+      "Katharina Brauren"
+    ],
+    [
+      "Sonny Elmquist",
+      "Philip Kunzmann [Gernot Endemann]"
+    ],
+    [
+      "Mr. Murphy",
+      "Karl-Ulrich Meves"
+    ],
+    [
+      "Miss Chalmers",
+      "Pamela Punti"
+    ],
+    [
+      "Mr. Hassel",
+      "Rolf Hundertwasser"
+    ],
+    [
+      "Polizist",
+      "Rolf Mamero"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/003/metadata.json"
+  }
+}

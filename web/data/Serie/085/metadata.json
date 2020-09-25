@@ -1,0 +1,94 @@
+{
+  "nummer" : 85,
+  "titel" : "Feuerturm",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Wer ist Jonny? Und warum ist er verschwunden? Die drei Detektive aus Rocky Beach stehen vor einer schier unlösbaren Aufgabe. Sie sollen einen unbekannten Mann finden und ihm einen Brief übergeben, der zu einem geheimnisvollen Schatz führt. Die anonyme Botschaft lockt die drei ??? In die Wildnis des King's National Parks. Plötzlich wird der Botendienst lebensgefährlich für Justus, Peter und Bob: Jemand versucht, ihren Auftrag zu vereiteln. Werden die drei Detektive Jonny helfen können, bevor die Falle zuschnappt? Ein Wettlauf gegen die Zeit beginnt.",
+  "veröffentlichungsdatum" : "1999-05-10",
+  "kapitel" : [
+    {
+      "titel" : "Absender unbekannt",
+      "start" : 0,
+      "end" : 513733
+    },
+    {
+      "titel" : "Auf in die Wildnis",
+      "start" : 513733,
+      "end" : 932733
+    },
+    {
+      "titel" : "Die Botschaft des Königs",
+      "start" : 932733,
+      "end" : 1476733
+    },
+    {
+      "titel" : "Der schwarze Turm",
+      "start" : 1476733,
+      "end" : 2067720
+    },
+    {
+      "titel" : "Feuer",
+      "start" : 2067720,
+      "end" : 2797720
+    },
+    {
+      "titel" : "Auf heißer Spur",
+      "start" : 2797720,
+      "end" : 3562000
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Walker",
+      "Lothar Grützner"
+    ],
+    [
+      "Monica",
+      "Hansi Jochmann"
+    ],
+    [
+      "Lady MacWeiden",
+      "Renate Pichler"
+    ],
+    [
+      "Mac George",
+      "Johann Schibli"
+    ],
+    [
+      "Chris",
+      "Daniel Kruth"
+    ],
+    [
+      "Campingwart",
+      "Helmut Ahner"
+    ],
+    [
+      "Frau des Campingwarts",
+      "Ingrid Weiß"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/085/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/085/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/085/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/085/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music30/v4/80/55/fd/8055fd91-9bba-78c4-7fb4-0f072454cb61/886445750096.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/9b/9d/e8/0743216568628.jpg"
+  }
+}

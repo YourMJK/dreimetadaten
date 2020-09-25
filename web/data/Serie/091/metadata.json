@@ -1,0 +1,82 @@
+{
+  "nummer" : 91,
+  "titel" : "Labyrinth der Götter",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Der Regisseur Edward Truman hat seinen skandalumwitterten Film kurz vor der Premiere zurückgezogen und an einem geheimen Ort versteckt. Der Hinweis einer alten Schauspielerin führt Justus, Peter und Bob, die drei Detektive aus Rocky Beach, zu Trumans Grundstück. Doch dieses ist umgeben von einem undurchdringlichen Heckenlabyrinth. Die Kombinationsfähigkeit der drei ??? wird auf eine harte Probe gestellt. Rätselhafte Götterstatuen scheinen den Weg durch den Irrgarten zu weisen. Doch irgendjemand legt falsche Spuren, so dass die Detektive die Orientierung verlieren. Wo ist der Ausgang aus dem Labyrinth der Götter?",
+  "veröffentlichungsdatum" : "2000-08-14",
+  "kapitel" : [
+    {
+      "titel" : "Fragen der Götter",
+      "start" : 0,
+      "end" : 535480
+    },
+    {
+      "titel" : "Im Labyrinth",
+      "start" : 535480,
+      "end" : 1273893
+    },
+    {
+      "titel" : "\"Utopia\"",
+      "start" : 1273893,
+      "end" : 1801853
+    },
+    {
+      "titel" : "Im Planetarium",
+      "start" : 1801853,
+      "end" : 2096373
+    },
+    {
+      "titel" : "Römisch-Griechisch",
+      "start" : 2096373,
+      "end" : 2905720
+    },
+    {
+      "titel" : "Die ganze Wahrheit",
+      "start" : 2905720,
+      "end" : 3597147
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Stanley Truman",
+      "Horst Stark"
+    ],
+    [
+      "Mr. Shaw",
+      "Eberhard Haar"
+    ],
+    [
+      "Mrs. Jones",
+      "Gisela Trowe"
+    ],
+    [
+      "Mrs. Shoemaker",
+      "Barbara Schnipper"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/091/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/091/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/091/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/091/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/47/e1/96/47e196af-d0b5-75e9-dd13-09b27d042f5e/886445750331.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/43/20/e3/0743217797928.jpg"
+  }
+}

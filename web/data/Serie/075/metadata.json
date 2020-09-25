@@ -1,0 +1,104 @@
+{
+  "nummer" : 75,
+  "titel" : "Die Spur des Raben",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Peter traut seinen Augen nicht: Am frühen Abend klettert ein schwarzer Schatten auf dem Dach des Hotels herum. Instinktiv reißt Peter die Kamera hoch und drückt ab. Was er wenig später in den Händen hält ist eine Sensation: die erste Aufnahme des Raben, des dreisten Juwelendiebes von Los Angeles. Doch mit der Veröffentlichung der Photos wird der unheimliche Balancekünstler auf die drei Jungs aus Rocky Beach aufmerksam. Er führt sie in die Irre. Ein mörderischer Wettlauf mit der Zeit beginnt.",
+  "veröffentlichungsdatum" : "1997-07-14",
+  "kapitel" : [
+    {
+      "titel" : "Atemlos",
+      "start" : 0,
+      "end" : 382227
+    },
+    {
+      "titel" : "Ein Vogel auf dem Drahtseil",
+      "start" : 382227,
+      "end" : 807587
+    },
+    {
+      "titel" : "Bodyguard",
+      "start" : 807587,
+      "end" : 1356627
+    },
+    {
+      "titel" : "Beethoven",
+      "start" : 1356627,
+      "end" : 1691960
+    },
+    {
+      "titel" : "Auf der Flucht",
+      "start" : 1691960,
+      "end" : 2113227
+    },
+    {
+      "titel" : "Menschen im Hotel",
+      "start" : 2113227,
+      "end" : 2552053
+    },
+    {
+      "titel" : "Fame",
+      "start" : 2552053,
+      "end" : 3020253
+    },
+    {
+      "titel" : "Die glorreichen Drei",
+      "start" : 3020253,
+      "end" : 3339600
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mrs. Shaw",
+      "Heikedine Körting"
+    ],
+    [
+      "Amanda Black",
+      "Beate Hasenau"
+    ],
+    [
+      "Detective Gregston",
+      "Wolf-Dietrich Berg"
+    ],
+    [
+      "Nora Sethons",
+      "Ursula Sieg"
+    ],
+    [
+      "Mrs. Aston",
+      "J.S."
+    ],
+    [
+      "Mr. Krieger",
+      "Jörg Gillner"
+    ],
+    [
+      "Lisa Manninger",
+      "Katja Stichel"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/075/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/075/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/075/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/075/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music18/v4/82/58/32/825832fa-affe-16d9-cec8-712e40f7ad3e/886445749625.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/23/27/c0/0743214284926.jpg"
+  }
+}

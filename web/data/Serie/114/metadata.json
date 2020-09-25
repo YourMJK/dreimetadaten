@@ -1,0 +1,123 @@
+{
+  "nummer" : 114,
+  "titel" : "Die Villa der Toten",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "INHALT: Der Auftrag der Anruferin scheint reichlich merkwürdig, aber leicht zu erfüllen zu sein: Die drei ??? sollen beweisen, dass es in der Villa einer berühmten, verstorbenen Opernsängerin nicht spukt. Doch es kommt, wie es kommen muss. Bei dem halbherzigen Versuch, den nicht vorhandenen Geist während einer Séance zu rufen, antwortet dieser tatsächlich! Und die tote Sängerin erklärt, dass ihr Tod kein Unfall war, sondern dass sie ermordet wurde. Plötzlich ermitteln Justus, Peter und Bob im Auftrag eines spukenden Geistes und werden in ein gefährliches Intrigenspiel verwickelt. Hätten die drei Detektive diesen Fall doch besser an die Polizei abgeben sollen?",
+  "veröffentlichungsdatum" : "2004-02-09",
+  "kapitel" : [
+    {
+      "titel" : "Ein Problem",
+      "start" : 0,
+      "end" : 234147
+    },
+    {
+      "titel" : "Besuch im Märchenschloss",
+      "start" : 234147,
+      "end" : 850707
+    },
+    {
+      "titel" : "Tante Mathildas Versprechen",
+      "start" : 850707,
+      "end" : 960493
+    },
+    {
+      "titel" : "Séance",
+      "start" : 960493,
+      "end" : 1315747
+    },
+    {
+      "titel" : "In Luft aufgelöst",
+      "start" : 1315747,
+      "end" : 1786267
+    },
+    {
+      "titel" : "Die Sache stinkt",
+      "start" : 1786267,
+      "end" : 2167507
+    },
+    {
+      "titel" : "Sodom und Gomorrha",
+      "start" : 2167507,
+      "end" : 2437107
+    },
+    {
+      "titel" : "Phantomstimmen",
+      "start" : 2437107,
+      "end" : 2707453
+    },
+    {
+      "titel" : "Und der Mörder ist …",
+      "start" : 2707453,
+      "end" : 2977680
+    },
+    {
+      "titel" : "Das Testament",
+      "start" : 2977680,
+      "end" : 3121520
+    },
+    {
+      "titel" : "Im Keller eines Fans",
+      "start" : 3121520,
+      "end" : 3431360
+    },
+    {
+      "titel" : "Cinderella",
+      "start" : 3431360,
+      "end" : 4150480
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Bernadette O'Donnell",
+      "Eva Maria Bauer"
+    ],
+    [
+      "Cecilia Jones",
+      "Hanni Vanhaiden"
+    ],
+    [
+      "Elouise Adams",
+      "Hannelore Wüst"
+    ],
+    [
+      "Mrs Willow",
+      "Elga Schütz"
+    ],
+    [
+      "Möbelpacker",
+      "Christian Niehues"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/114/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/114/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/114/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/114/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music18/v4/54/46/17/544617cd-8846-9e92-6a2e-aa199cb93cf5/886445752076.jpg/3000x0w.png"
+  }
+}

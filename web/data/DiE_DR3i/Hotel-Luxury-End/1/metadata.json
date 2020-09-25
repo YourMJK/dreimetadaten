@@ -1,0 +1,137 @@
+{
+  "teilNummer" : 1,
+  "titel" : "Zimmer",
+  "kapitel" : [
+    {
+      "titel" : "Intro",
+      "start" : 0,
+      "end" : 127747
+    },
+    {
+      "titel" : "Ankunft Hotel",
+      "start" : 127747,
+      "end" : 680947
+    },
+    {
+      "titel" : "Entscheidung: Zimmer oder Restaurant",
+      "start" : 680947,
+      "end" : 744707
+    },
+    {
+      "titel" : "Zimmer",
+      "start" : 744707,
+      "end" : 932960
+    },
+    {
+      "titel" : "Entscheidung: Tür offen oder Klimaanlage",
+      "start" : 932960,
+      "end" : 1007760
+    },
+    {
+      "titel" : "Tür offen",
+      "start" : 1007760,
+      "end" : 1165333
+    },
+    {
+      "titel" : "Entscheidung: Tür schließen oder Flur",
+      "start" : 1165333,
+      "end" : 1211827
+    },
+    {
+      "titel" : "Tür schließen",
+      "start" : 1211827,
+      "end" : 1412120
+    },
+    {
+      "titel" : "Entscheidung: Mr. Stanley oder Auto holen",
+      "start" : 1412120,
+      "end" : 1457520
+    },
+    {
+      "titel" : "Mr. Stanley",
+      "start" : 1457520,
+      "end" : 1694933
+    },
+    {
+      "titel" : "Auto holen",
+      "start" : 1694933,
+      "end" : 1915213
+    },
+    {
+      "titel" : "Flur",
+      "start" : 1915213,
+      "end" : 2061227
+    },
+    {
+      "titel" : "Entscheidung: Flucht oder Ausrede",
+      "start" : 2061227,
+      "end" : 2104347
+    },
+    {
+      "titel" : "Flucht",
+      "start" : 2104347,
+      "end" : 2354680
+    },
+    {
+      "titel" : "Ausrede",
+      "start" : 2354680,
+      "end" : 2578267
+    },
+    {
+      "titel" : "Klimaanlage",
+      "start" : 2578267,
+      "end" : 2864440
+    },
+    {
+      "titel" : "Entscheidung: Annehmen oder Ablehnen",
+      "start" : 2864440,
+      "end" : 2916507
+    },
+    {
+      "titel" : "Annehmen",
+      "start" : 2916507,
+      "end" : 3054173
+    },
+    {
+      "titel" : "Entscheidung: Essen oder Auflegen",
+      "start" : 3054173,
+      "end" : 3127520
+    },
+    {
+      "titel" : "Essen",
+      "start" : 3127520,
+      "end" : 3315400
+    },
+    {
+      "titel" : "Auflegen",
+      "start" : 3315400,
+      "end" : 3603307
+    },
+    {
+      "titel" : "Ablehnen",
+      "start" : 3603307,
+      "end" : 3721707
+    },
+    {
+      "titel" : "Entscheidung: Befreien oder Fragen stellen",
+      "start" : 3721707,
+      "end" : 3806013
+    },
+    {
+      "titel" : "Befreien",
+      "start" : 3806013,
+      "end" : 4062120
+    },
+    {
+      "titel" : "Fragen stellen",
+      "start" : 4062120,
+      "end" : 4302080
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/cover.png"
+  }
+}

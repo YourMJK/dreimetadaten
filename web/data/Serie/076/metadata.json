@@ -1,0 +1,112 @@
+{
+  "nummer" : 76,
+  "titel" : "Stimmen aus dem Nichts",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Meine Schwester will mich in den Tod treiben! Die alte Dame, die neben Justus im Wartezimmer sitzt, ist am Rande eines Nervenzusammenbruchs. Der erste Detektiv wittert einen neuen Fall für die drei ??? und bietet seine Hilfe an. Doch was er dann erfährt, lässt ihn erbleichen. Mrs. Holligan wird von ihrer Schwester bedroht, verfolgt, in den Wahnsinn getrieben. Doch ihre Schwester wurde vor drei Monaten beerdigt. Justus, Peter und Bob müssen sich bei der Aufklärung des Falles beeilen. Mrs. Holligan ist schwer herzkrank, jede neue Attacke kann ihrem Leben ein Ende setzen. Doch wer steckt wirklich hinter den mysteriösen Stimmen aus dem Jenseits?",
+  "veröffentlichungsdatum" : "1997-09-08",
+  "kapitel" : [
+    {
+      "titel" : "Der Schrei",
+      "start" : 0,
+      "end" : 662587
+    },
+    {
+      "titel" : "Eindeutige Abfuhr",
+      "start" : 662587,
+      "end" : 981400
+    },
+    {
+      "titel" : "Psychoanalysen",
+      "start" : 981400,
+      "end" : 1724707
+    },
+    {
+      "titel" : "Gespräch unter vier Augen",
+      "start" : 1724707,
+      "end" : 2232707
+    },
+    {
+      "titel" : "Dem Wahnsinn nahe",
+      "start" : 2232707,
+      "end" : 2906627
+    },
+    {
+      "titel" : "Tiefenhypnose",
+      "start" : 2906627,
+      "end" : 3305613
+    },
+    {
+      "titel" : "Der letzte Wille",
+      "start" : 3305613,
+      "end" : 3787227
+    },
+    {
+      "titel" : "Das geschenkte Leben",
+      "start" : 3787227,
+      "end" : 4184827
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Abigail Holligan",
+      "Katharina Brauren"
+    ],
+    [
+      "Metzla Holligan",
+      "Beate Hasenau"
+    ],
+    [
+      "Dr. Franklin",
+      "Judy Winter"
+    ],
+    [
+      "Dr. Miller",
+      "Marianne Kehlau"
+    ],
+    [
+      "Mrs. Petersen",
+      "Victoria Voncampe"
+    ],
+    [
+      "Sekretariat",
+      "\"Fettes Brot\""
+    ],
+    [
+      "Mr. Brian",
+      "Peter Schubert"
+    ],
+    [
+      "Mrs. Dream",
+      "Petra Ehlers"
+    ],
+    [
+      "Jack Cliffwater",
+      "Thomas Schüler"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/076/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/076/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/076/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/076/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music18/v4/74/f7/97/74f797b5-d590-c427-5eb0-b5511aa54a88/886445749823.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/06/64/bc/0743214285022.jpg"
+  }
+}

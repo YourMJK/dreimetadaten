@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 2,
+  "kapitel" : [
+    {
+      "titel" : "Am Abgrund",
+      "start" : 0,
+      "end" : 471347
+    },
+    {
+      "titel" : "Afrika",
+      "start" : 471347,
+      "end" : 737973
+    },
+    {
+      "titel" : "Abbruchgefährdet",
+      "start" : 737973,
+      "end" : 1350440
+    },
+    {
+      "titel" : "Goldrausch",
+      "start" : 1350440,
+      "end" : 1531307
+    },
+    {
+      "titel" : "Verdacht",
+      "start" : 1531307,
+      "end" : 2102547
+    },
+    {
+      "titel" : "Elaine",
+      "start" : 2102547,
+      "end" : 2621133
+    },
+    {
+      "titel" : "Countdown",
+      "start" : 2621133,
+      "end" : 3035933
+    },
+    {
+      "titel" : "Glück im Unglück",
+      "start" : 3035933,
+      "end" : 3273800
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/rip_log.txt"
+  }
+}

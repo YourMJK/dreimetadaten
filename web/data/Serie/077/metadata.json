@@ -1,0 +1,110 @@
+{
+  "nummer" : 77,
+  "titel" : "Pistenteufel",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Karen Sulzenberger, Topstar der deutschen Skinationalmannschaft, hat Angst. Mysteriöse Drohbriefe machen ihr das Leben zur Hölle! Wer versucht die attraktive Läuferin aus ihrer Erfolgsspur zu stoßen? Auf Skiern und Snowboards nehmen die drei ??? in den Bergen des amerikanischen Weltcup-Ortes Vail die Ermittlungen auf. Doch das erste Attentat auf der Piste können auch die Detektive nicht verhindern. Mit 120 Sachen rast Karen auf ein tödliches Hindernis zu …",
+  "veröffentlichungsdatum" : "1997-12-08",
+  "kapitel" : [
+    {
+      "titel" : "Ein dunkles Vorzeichen",
+      "start" : 0,
+      "end" : 602987
+    },
+    {
+      "titel" : "Karen hat viel zu erzählen",
+      "start" : 602987,
+      "end" : 1202320
+    },
+    {
+      "titel" : "Schock im Schnee",
+      "start" : 1202320,
+      "end" : 1779600
+    },
+    {
+      "titel" : "Neue Pläne",
+      "start" : 1779600,
+      "end" : 2417560
+    },
+    {
+      "titel" : "Observierung",
+      "start" : 2417560,
+      "end" : 3034920
+    },
+    {
+      "titel" : "Das Blatt wendet sich",
+      "start" : 3034920,
+      "end" : 3559333
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Karen Sulzenberger",
+      "Kristina von Welzin"
+    ],
+    [
+      "Nicola",
+      "Maria Fuchs"
+    ],
+    [
+      "McMannoman",
+      "Wolfgang Noack"
+    ],
+    [
+      "Tony",
+      "Martin Lohmann"
+    ],
+    [
+      "Mrs. Seven",
+      "Eva Gelb"
+    ],
+    [
+      "Trainer",
+      "Hans Sievers"
+    ],
+    [
+      "Roger",
+      "H. P. Kaehler"
+    ],
+    [
+      "1. Mann",
+      "Helmut Ahner"
+    ],
+    [
+      "2. Mann",
+      "Richard Ems"
+    ],
+    [
+      "Kellnerin",
+      "Micaela Kreißler"
+    ],
+    [
+      "Uli",
+      "Norman Messer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/077/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/077/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/077/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/077/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/0a/c0/7e/0ac07ef7-f514-11ba-9a81-54037c6c7bf2/886445749854.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f7/48/75/0743215184027.jpg"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "teilNummer" : 1,
+  "buchstabe" : "A",
+  "beschreibung" : "Justus Jonas ist über Nacht spurlos verschwunden!\nHat man den Ersten Detektiv entführt? Bob und Peter sind bei der Suche nach ihrem besten Freund auf sich allein gestellt …",
+  "kapitel" : [
+    {
+      "titel" : "Ohne Ausweg",
+      "start" : 0,
+      "end" : 641493
+    },
+    {
+      "titel" : "\"Hilfe!\"",
+      "start" : 641493,
+      "end" : 1326867
+    },
+    {
+      "titel" : "Leute verschwinden",
+      "start" : 1326867,
+      "end" : 2030093
+    },
+    {
+      "titel" : "Aus Bobs Archiv",
+      "start" : 2030093,
+      "end" : 2717587
+    },
+    {
+      "titel" : "Überfall",
+      "start" : 2717587,
+      "end" : 3376480
+    },
+    {
+      "titel" : "Der Blick der blauen Gottheit",
+      "start" : 3376480,
+      "end" : 4340627
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/200/1/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/200/1/rip_log.txt"
+  }
+}

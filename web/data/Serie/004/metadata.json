@@ -1,0 +1,119 @@
+{
+  "nummer" : 4,
+  "titel" : "und die schwarze Katze",
+  "autor" : "William Arden",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "In einem kleinen Wanderzirkus wittern die drei jungen Detektive Peter, Bob und Justus ihren neuesten Fall. Denn wenn ein finster aussehender Mann mit Gewalt eine hässliche schwarze Stoffkatze – den Hauptgewinn einer Schießbude – an sich bringen will, sie schließlich stiehlt und am nächsten Tag per Zeitungsanzeige nach weiteren Stoffkatzen fahndet, dann muß irgend etwas dahinter stecken. Außerdem: Wieso trifft den Wanderzirkus seit Wochen ein Unglücksfall nach dem anderen? Und wer ist der Unbekannte mit der auffallenden Tätowierung, der immer wieder im Zirkus auftaucht, aber in brenzligen Momenten spurlos verschwindet? Justus und seine Freunde setzen sich ihm und der gestohlenen Katze auf die Spur und lassen sich beinah auf eine falsche Fährte jagen. nach aufregenden Fehlschlägen gelingt es ihnen aber schließlich doch, das Geheimnis der schwarzen Katze zu lüften und in letzter Minute einem raffinierten Verbrecher die Maske vom Gesicht zu reißen – im wahrsten Sinne des Wortes …",
+  "veröffentlichungsdatum" : "1979-10-15",
+  "kapitel" : [
+    {
+      "titel" : "Haltet den Dieb",
+      "start" : 0,
+      "end" : 373600
+    },
+    {
+      "titel" : "Peter beweist seinen Mut",
+      "start" : 373600,
+      "end" : 702387
+    },
+    {
+      "titel" : "Andy wundert sich",
+      "start" : 702387,
+      "end" : 1027800
+    },
+    {
+      "titel" : "Wer sucht eine schwarze Katze?",
+      "start" : 1027800,
+      "end" : 1329200
+    },
+    {
+      "titel" : "Der Mann mit der Tätowierung",
+      "start" : 1329200,
+      "end" : 1630253
+    },
+    {
+      "titel" : "In der Falle",
+      "start" : 1630253,
+      "end" : 2019613
+    },
+    {
+      "titel" : "Justus kombiniert",
+      "start" : 2019613,
+      "end" : 2320027
+    },
+    {
+      "titel" : "Der Räuber wird entlarvt",
+      "start" : 2320027,
+      "end" : 2662960
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Andy Carson",
+      "Stefan Schwade"
+    ],
+    [
+      "Mr. Carson",
+      "Reiner Brönneke"
+    ],
+    [
+      "Khan, der Kraftmensch",
+      "René Genesis"
+    ],
+    [
+      "Einzigartiger Gabbo",
+      "Iwan Raszinsky [Karl-Ulrich Meves]"
+    ],
+    [
+      "Iwan",
+      "Boris Stepin [Wolfgang Kubach]"
+    ],
+    [
+      "Junge",
+      "Philip Baader"
+    ],
+    [
+      "Hauptkommissar Reynolds",
+      "Horst Frank"
+    ],
+    [
+      "Der alte Mann",
+      "Lothar Grützner"
+    ],
+    [
+      "Wachmann",
+      "Peter Buchholz"
+    ],
+    [
+      "Jungen",
+      "Stefan Brönneke, Alexander Körting"
+    ],
+    [
+      "Jahrmarktfrau",
+      "Heikedine Körting"
+    ],
+    [
+      "Funksprecher",
+      "Gernot Endemann"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/004/metadata.json"
+  }
+}

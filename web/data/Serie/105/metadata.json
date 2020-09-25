@@ -1,0 +1,99 @@
+{
+  "nummer" : 105,
+  "titel" : "Der Nebelberg",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Eine Wandertour in den Rocky Mountains – Peter und Bob sind begeistert! Doch unterwegs hüllt auf einmal ein undurchdringlicher Nebel den Berggipfel ein und die Wandergruppe wird von einer geisterhaften Erscheinung überrascht. \"Das Phantom ist zurückgekehrt\", murmeln die Alten des nahe gelegenen Bergdorfes. Da fängt der Erste Detektiv Feuer, denn neben der körperlichen Anstrengung sind jetzt seine Gehirnzellen gefragt. Was steckt hinter der Spukerscheinung? Die drei ??? müssen diesmal besonders klug vorgehen, um die wortkargen Einsiedler zum Sprechen zu bringen.",
+  "veröffentlichungsdatum" : "2002-09-16",
+  "kapitel" : [
+    {
+      "titel" : "Ruhestörung",
+      "start" : 0,
+      "end" : 570107
+    },
+    {
+      "titel" : "Das Phantom vom Nebelberg",
+      "start" : 570107,
+      "end" : 1464027
+    },
+    {
+      "titel" : "Gruselgeschichten",
+      "start" : 1464027,
+      "end" : 1910827
+    },
+    {
+      "titel" : "Das Grauen schlägt zu",
+      "start" : 1910827,
+      "end" : 2183413
+    },
+    {
+      "titel" : "Gold",
+      "start" : 2183413,
+      "end" : 2913453
+    },
+    {
+      "titel" : "Das Herz des Berges",
+      "start" : 2913453,
+      "end" : 3285293
+    },
+    {
+      "titel" : "Die Stunde der Wahrheit",
+      "start" : 3285293,
+      "end" : 3864213
+    },
+    {
+      "titel" : "Weckruf",
+      "start" : 3864213,
+      "end" : 4545293
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Joanna Masterson",
+      "Barbara Marcks"
+    ],
+    [
+      "Jack Masterson",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Sarah Masterson",
+      "Nadja Reichardt"
+    ],
+    [
+      "Mr Harry Falkner",
+      "Wolfgang Hartmann"
+    ],
+    [
+      "Harvey Ashford",
+      "Rolf E. Schenker"
+    ],
+    [
+      "Marc",
+      "Hartmut Kollakowski"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/105/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/105/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/105/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/105/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music30/v4/d9/12/c9/d912c901-348d-e454-c03f-6b621b6ecdbd/886445751963.jpg/3000x0w.png"
+  }
+}

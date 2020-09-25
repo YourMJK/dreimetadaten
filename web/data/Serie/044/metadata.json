@@ -1,0 +1,103 @@
+{
+  "nummer" : 44,
+  "titel" : "und der gestohlene Preis",
+  "autor" : "Marc Brandel",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Die Vergangenheit holt Justus wieder ein. Er hat als Kind in dem Film Die kleinen Strolche mitgespielt. Nun soll er noch einmal als Baby Fatso ins Licht der Öffentlichkeit treten. Das gefällt ihm überhaupt nicht, doch plötzlich entwickelt sich ein Fall für die drei Detektive daraus und ihr Interesse ist geweckt. Vor allem, als sie erfahren, daß es um 20.000 Dollar geht.",
+  "veröffentlichungsdatum" : "1988-10-02",
+  "kapitel" : [
+    {
+      "titel" : "Justus' geheime Vergangenheit",
+      "start" : 0,
+      "end" : 377787
+    },
+    {
+      "titel" : "Überraschung in Studio Neun",
+      "start" : 377787,
+      "end" : 763613
+    },
+    {
+      "titel" : "Fahndung hinter den Kulissen",
+      "start" : 763613,
+      "end" : 1081253
+    },
+    {
+      "titel" : "Quiz Nummer eins",
+      "start" : 1081253,
+      "end" : 1514413
+    },
+    {
+      "titel" : "Beschattungsmanöver in Hollywood",
+      "start" : 1514413,
+      "end" : 1883067
+    },
+    {
+      "titel" : "Der Wind bringt es an den Tag",
+      "start" : 1883067,
+      "end" : 2191960
+    },
+    {
+      "titel" : "Quiz Nummer zwei",
+      "start" : 2191960,
+      "end" : 2575160
+    },
+    {
+      "titel" : "Licht an – Ton ab – Kamera läuft!",
+      "start" : 2575160,
+      "end" : 3012147
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Milton",
+      "Horst Naumann"
+    ],
+    [
+      "Bonehead",
+      "Sascha Draeger"
+    ],
+    [
+      "Peggy",
+      "Veronika Neugebauer"
+    ],
+    [
+      "Footsie",
+      "Niki Nowotny"
+    ],
+    [
+      "Bloodhound",
+      "Manou Lubowski"
+    ],
+    [
+      "Lomax",
+      "Peter Pantel [Wolf Rahtjen]"
+    ],
+    [
+      "Tante Mathilda",
+      "Dorothea Kaiser"
+    ],
+    [
+      "Gordon Harker",
+      "Stefan Brönneke"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/044/metadata.json"
+  }
+}

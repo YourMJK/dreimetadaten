@@ -1,0 +1,108 @@
+{
+  "nummer" : 116,
+  "titel" : "Codename: Cobra",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Kann ein Toter E-Mails versenden? Die 10-jährige Julia hat eine verschlüsselte E-Mail erhalten – von ihrem toten Bruder Ted! Sie bittet die drei ??? um Hilfe. Dann verschwindet das Mädchen plötzlich. Zurück bleibt eine E-Mail auf ihrem PC, die das grässliche Bild einer drohenden Kobra zeigt. Welche Bedeutung hat die Schlange? Wer ist der Absender der Nachricht? Was ist mit dem Mädchen geschehen? Die drei erfolgreichen Detektive aus Rocky Beach müssen haarscharf kombinieren, um den Schlüssel zur Lösung in diesem gefährlichen Fall zu finden.",
+  "veröffentlichungsdatum" : "2004-06-14",
+  "kapitel" : [
+    {
+      "titel" : "Schwierigkeiten",
+      "start" : 0,
+      "end" : 276147
+    },
+    {
+      "titel" : "Autounfall",
+      "start" : 276147,
+      "end" : 1555733
+    },
+    {
+      "titel" : "Ω, 4-14",
+      "start" : 1555733,
+      "end" : 1713280
+    },
+    {
+      "titel" : "Verschlüsselt",
+      "start" : 1713280,
+      "end" : 2007867
+    },
+    {
+      "titel" : "Abhauen!",
+      "start" : 2007867,
+      "end" : 2264573
+    },
+    {
+      "titel" : "\"Memory\"",
+      "start" : 2264573,
+      "end" : 2654533
+    },
+    {
+      "titel" : "Co.B.Ra",
+      "start" : 2654533,
+      "end" : 3219107
+    },
+    {
+      "titel" : "Babylonia",
+      "start" : 3219107,
+      "end" : 3541933
+    },
+    {
+      "titel" : "Rumpelstilzchenfaktor",
+      "start" : 3541933,
+      "end" : 3724893
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Mr. Applegate",
+      "Stephan Benson"
+    ],
+    [
+      "Julia Applegate",
+      "Sophie Lechtenbrink"
+    ],
+    [
+      "Teddy Applegate",
+      "Jona Mues"
+    ],
+    [
+      "Rafter",
+      "Volker Bogdan"
+    ],
+    [
+      "Archie",
+      "Bertram Hiese"
+    ],
+    [
+      "Jenny Collins",
+      "Anja Topf"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/116/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/116/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/116/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/116/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music22/v4/6f/89/5e/6f895e29-4a52-b00d-d3f1-2a01e20dde5b/886445752113.jpg/3000x0w.png"
+  }
+}

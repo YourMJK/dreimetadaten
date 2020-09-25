@@ -1,0 +1,112 @@
+{
+  "nummer" : 148,
+  "titel" : "und die feurige Flut",
+  "autor" : "Kari Erlhoff",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein schwerer Fluch lastet auf Allie Jamison, einer alten Bekannten der drei ???. Jedenfalls ist sie davon überzeugt. Schon in der nächsten Vollmondnacht soll etwas Schlimmes geschehen! Es gibt nur einen Ausweg: Justus, Peter und Bob müssen ein alchemistisches Rätsel lösen – in nur 24 Stunden. Ihre fieberhaften Ermittlungen führen die drei Detektive in eine Welt von Zauberern und Wahrsagern. Als Justus jedoch in einen Hinterhalt gelockt wird, ist klar: Dieser Fall ist lebensgefährlich!",
+  "veröffentlichungsdatum" : "2011-08-19",
+  "kapitel" : [
+    {
+      "titel" : "Verflucht",
+      "start" : 0,
+      "end" : 408987
+    },
+    {
+      "titel" : "Der gläserne Safe",
+      "start" : 408987,
+      "end" : 1683253
+    },
+    {
+      "titel" : "Neurotoxin",
+      "start" : 1683253,
+      "end" : 1922227
+    },
+    {
+      "titel" : "Ein mysteriöses Paket",
+      "start" : 1922227,
+      "end" : 2386280
+    },
+    {
+      "titel" : "Der Stern in der Dunkelheit",
+      "start" : 2386280,
+      "end" : 2623573
+    },
+    {
+      "titel" : "Feurige Flut",
+      "start" : 2623573,
+      "end" : 2869640
+    },
+    {
+      "titel" : "Kleines Rätsel",
+      "start" : 2869640,
+      "end" : 2971560
+    },
+    {
+      "titel" : "SOS",
+      "start" : 2971560,
+      "end" : 3844640
+    },
+    {
+      "titel" : "Zahltag",
+      "start" : 3844640,
+      "end" : 4011933
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Allie Jamison",
+      "Katrin Fröhlich"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Ursula Burns",
+      "Birke Bruck"
+    ],
+    [
+      "Emerald Pendragon",
+      "Monty Arnold"
+    ],
+    [
+      "Carl Parsley",
+      "Peter Weis"
+    ],
+    [
+      "Sunshine",
+      "Dagmar Dreke"
+    ],
+    [
+      "1. Mann",
+      "Tetje Mierendorf"
+    ],
+    [
+      "2. Mann",
+      "Gosta Liptow"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/148/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/148/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/148/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/148/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/c9/50/61/c9506101-32e5-13f0-d13c-8a68a07dfe14/886445756111.jpg/3000x0w.png"
+  }
+}

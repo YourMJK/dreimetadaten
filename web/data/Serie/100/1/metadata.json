@@ -1,0 +1,85 @@
+{
+  "teilNummer" : 1,
+  "buchstabe" : "A",
+  "titel" : "Das Rätsel der Sphinx",
+  "beschreibung" : "Ein seltsames Rätsel und ein unbekannter Anrufer. Die drei ??? haben alle Hände voll zu tun. Wer oder was verbirgt sich hinter dem geheimnisvollen Namen \"Sphinx\"? Alle Fäden laufen auf der \"Explorer\" zusammen, einem Schiff, auf dem der neueste Fall für Justus, Peter und Bob eine dramatische Wendung nimmt …",
+  "kapitel" : [
+    {
+      "titel" : "Botschaft von Geisterhand",
+      "start" : 0,
+      "end" : 490480
+    },
+    {
+      "titel" : "Der verschwundene Schatz",
+      "start" : 490480,
+      "end" : 1098520
+    },
+    {
+      "titel" : "Die Geisterinsel",
+      "start" : 1098520,
+      "end" : 1580160
+    },
+    {
+      "titel" : "Der unsichtbare Gegner",
+      "start" : 1580160,
+      "end" : 2095880
+    },
+    {
+      "titel" : "Gefahr im Verzug",
+      "start" : 2095880,
+      "end" : 2660453
+    },
+    {
+      "titel" : "Das Geisterschiff",
+      "start" : 2660453,
+      "end" : 3204573
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Skinny Norris",
+      "Andreas von der Meden"
+    ],
+    [
+      "Jelena",
+      "Alexandra Doerk"
+    ],
+    [
+      "Dr. Svenson",
+      "Antje Roosch"
+    ],
+    [
+      "Mr. Schwarz",
+      "Erik Schäffler"
+    ],
+    [
+      "Mr. Olin",
+      "Uli Krohm"
+    ],
+    [
+      "Juan",
+      "Oliver Böttcher"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/100/1/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/1/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/100/1/rip_log.txt"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 1,
+  "kapitel" : [
+    {
+      "titel" : "Prolog",
+      "start" : 0,
+      "end" : 68400
+    },
+    {
+      "titel" : "Sandfield",
+      "start" : 68400,
+      "end" : 317720
+    },
+    {
+      "titel" : "Brother Jonathan",
+      "start" : 317720,
+      "end" : 1169600
+    },
+    {
+      "titel" : "Tauchgang",
+      "start" : 1169600,
+      "end" : 1466533
+    },
+    {
+      "titel" : "Hai-Alarm",
+      "start" : 1466533,
+      "end" : 1729467
+    },
+    {
+      "titel" : "Pläne für Sandfield",
+      "start" : 1729467,
+      "end" : 2182733
+    },
+    {
+      "titel" : "Schatzsuche!",
+      "start" : 2182733,
+      "end" : 2513693
+    },
+    {
+      "titel" : "Paprika",
+      "start" : 2513693,
+      "end" : 2852240
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/rip_log.txt"
+  }
+}

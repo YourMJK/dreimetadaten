@@ -1,0 +1,107 @@
+{
+  "nummer" : 45,
+  "titel" : "und das Gold der Wikinger",
+  "autor" : "William Arden",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Auf der Insel Ragnarson Rock geschehen geheimnisvolle Dinge! Fotos, die Bob gemacht hat, müssen der Schlüssel sein. Doch Justus, Bob und Peter – die drei Detektive – können zunächst Besonderes darauf entdecken. Aber dann heult ein Wolf auf der Insel und Justus spitzt die Ohren. Kommt er dem Geheimnis auf die Spur?",
+  "veröffentlichungsdatum" : "1989-04-01",
+  "kapitel" : [
+    {
+      "titel" : "Von Wikingern und Indianern",
+      "start" : 0,
+      "end" : 363960
+    },
+    {
+      "titel" : "Unter Tränen",
+      "start" : 363960,
+      "end" : 780533
+    },
+    {
+      "titel" : "Tätowierte Jungfrau",
+      "start" : 780533,
+      "end" : 1099573
+    },
+    {
+      "titel" : "Kapitän aus grauer Vorzeit",
+      "start" : 1099573,
+      "end" : 1423587
+    },
+    {
+      "titel" : "Geistergestalten und Wölfe",
+      "start" : 1423587,
+      "end" : 1736333
+    },
+    {
+      "titel" : "Lichtsignale im Nebel",
+      "start" : 1736333,
+      "end" : 2050573
+    },
+    {
+      "titel" : "Zerfetzte Jacke",
+      "start" : 2050573,
+      "end" : 2424400
+    },
+    {
+      "titel" : "Eiskalter Betrug",
+      "start" : 2424400,
+      "end" : 2827347
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Ingmar Ragnarson",
+      "Rolf E. Schenker"
+    ],
+    [
+      "Karl Ragnarson",
+      "Utz Richter"
+    ],
+    [
+      "Sam Ragnarson",
+      "Marco Kröger"
+    ],
+    [
+      "Mr. Manning",
+      "Achim Schülke"
+    ],
+    [
+      "Mrs. Manning",
+      "Julia Mahnkopf"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Mrs. Andrews",
+      "Renate Pichler"
+    ],
+    [
+      "Mr. Andrews",
+      "Manfred Bendixen"
+    ],
+    [
+      "Mathilda",
+      "Ursula Vogel"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/045/metadata.json"
+  }
+}

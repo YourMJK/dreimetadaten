@@ -1,0 +1,135 @@
+{
+  "nummer" : 127,
+  "titel" : "Schwarze Madonna",
+  "autor" : "Astrid Vollenbruch",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Als Peter einen verletzten jungen Mann aus dem Meer rettet, ahnt er noch nicht, dass er damit auch einen neuen Fall für die drei ??? an Land zieht. Doch schon kurze Zeit später befinden sich die drei Detektive aus Rocky Beach mitten in einem spannenden Abenteuer, in dem eine verschwundene Marienstatue die Hauptrolle spielt. Wie viele Gegner gibt es bei dieser gefährlichen Jagd? Wie weit werden sie gehen, um die begehrte Schwarze Madonna zu bekommen? Justus, Peter und Bob stoßen an ihre Grenzen. Dieser Fall ist gefährlich, sehr gefährlich. Er bedroht sogar die Existenz ihres Detektivunternehmens …",
+  "veröffentlichungsdatum" : "2008-12-05",
+  "kapitel" : [
+    {
+      "titel" : "Der Held von Carino Beach",
+      "start" : 0,
+      "end" : 451547
+    },
+    {
+      "titel" : "Einbruch mit Folgen",
+      "start" : 451547,
+      "end" : 781787
+    },
+    {
+      "titel" : "Cotta ruft",
+      "start" : 781787,
+      "end" : 896107
+    },
+    {
+      "titel" : "Falsche Zeugenaussage",
+      "start" : 896107,
+      "end" : 1290547
+    },
+    {
+      "titel" : "Besuch im Museum",
+      "start" : 1290547,
+      "end" : 1727733
+    },
+    {
+      "titel" : "Logische Lücken",
+      "start" : 1727733,
+      "end" : 2033080
+    },
+    {
+      "titel" : "Drohanruf",
+      "start" : 2033080,
+      "end" : 2518800
+    },
+    {
+      "titel" : "Great Deliverance",
+      "start" : 2518800,
+      "end" : 2957653
+    },
+    {
+      "titel" : "Böser Fehler",
+      "start" : 2957653,
+      "end" : 3260253
+    },
+    {
+      "titel" : "Unerwartete Hilfe",
+      "start" : 3260253,
+      "end" : 3552773
+    },
+    {
+      "titel" : "Teersee",
+      "start" : 3552773,
+      "end" : 4099293
+    },
+    {
+      "titel" : "Ende und Aus",
+      "start" : 4099293,
+      "end" : 4390653
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Goodween",
+      "André Minninger"
+    ],
+    [
+      "José",
+      "Patrick Bach"
+    ],
+    [
+      "Steve Bright",
+      "Marek Erhardt"
+    ],
+    [
+      "Brian Smith",
+      "Christian Rode"
+    ],
+    [
+      "Martin",
+      "Jesse Grimm"
+    ],
+    [
+      "Wächter",
+      "Sven Dahlem"
+    ],
+    [
+      "Mrs. Osborne",
+      "Anja Nejarri"
+    ],
+    [
+      "Mr. Pentecost",
+      "Wolf Frass"
+    ],
+    [
+      "Senora Gonzalez",
+      "Susanne von Loessl"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/127/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/127/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/127/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/127/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/ea/28/2b/ea282bae-263c-2d02-bcc9-207905700b71/886445752243.jpg/3000x0w.png"
+  }
+}

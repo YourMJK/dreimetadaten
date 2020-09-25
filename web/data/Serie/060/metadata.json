@@ -1,0 +1,116 @@
+{
+  "nummer" : 60,
+  "titel" : "Dopingmixer",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Sport lässt Justus normalerweise kalt. Besonders, wenn er an einem neuen Fall arbeitet. Aber was er da auf dem Sportplatz der Highschool von Rocky Beach erlebt, macht ihn stutzig. Einer der Jungs, die mit Peter für das Sportfest trainieren, läuft sensationell schnell! Und kaum versuchen die drei ??? der Sache auf den Grund zu gehen, taucht der Sprinter unter. Opfer gewinnsüchtiger Manager oder selbst ein gewiefter Dopingbetrüger? Wer hat da seine Finger im Spiel?",
+  "veröffentlichungsdatum" : "1994-08-11",
+  "kapitel" : [
+    {
+      "titel" : "Randale im Treibhaus",
+      "start" : 0,
+      "end" : 344320
+    },
+    {
+      "titel" : "Betrug in der Arena",
+      "start" : 344320,
+      "end" : 789440
+    },
+    {
+      "titel" : "Überfall auf Miss Sharp",
+      "start" : 789440,
+      "end" : 1121053
+    },
+    {
+      "titel" : "Verdächtiges Rendezvous",
+      "start" : 1121053,
+      "end" : 1458320
+    },
+    {
+      "titel" : "Tante Mathilda spielt Detektiv",
+      "start" : 1458320,
+      "end" : 1748120
+    },
+    {
+      "titel" : "Rauhe Schale, weicher Kern",
+      "start" : 1748120,
+      "end" : 2193827
+    },
+    {
+      "titel" : "Glenn packt aus",
+      "start" : 2193827,
+      "end" : 2541507
+    },
+    {
+      "titel" : "Tante Mathildas beste Freundin",
+      "start" : 2541507,
+      "end" : 2826880
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Andrews",
+      "Günter König"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Glenn Miles",
+      "Christian Stark"
+    ],
+    [
+      "Benny",
+      "Tobias Pauls"
+    ],
+    [
+      "Tom Descanso, Trainer",
+      "Prof. Justus Frantz"
+    ],
+    [
+      "Field, Lehrer",
+      "Michael Quiatkowsky"
+    ],
+    [
+      "Hutchins, Sport-Reporter",
+      "Uwe Büschken"
+    ],
+    [
+      "Dr. Landman, Schuldirektor",
+      "Gerd Duwner"
+    ],
+    [
+      "Stan",
+      "Tilman Madaus"
+    ],
+    [
+      "Eleonore Sharp",
+      "Margot Linde"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/060/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/060/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/060/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/060/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music20/v4/ef/1a/02/ef1a02d4-5596-3e14-ee1d-9694a625fadb/886445746990.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/82/1f/5f/0743211851428.jpg"
+  }
+}

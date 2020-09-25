@@ -1,0 +1,215 @@
+{
+  "teilNummer" : 3,
+  "buchstabe" : "P",
+  "titel" : "Sicht P: Fremder Freund",
+  "autor" : "Ivar Leon Menger",
+  "beschreibung" : "Peter schwebt im siebten Himmel, denn er hat in einem Café Bekanntschaft mit einem großen Fan der drei ??? gemacht. Er wird sogar um ein Autogramm gebeten. Stolz und gut gelaunt verbringt Peter einen tollen Tag mit seinen Freunden, und alles wäre einfach perfekt, wenn er nicht plötzlich diese seltsamen Telefonanrufe und mysteriösen Briefe erhalten würde. Die drei Detektive werden heimlich beobachtet und sogar von einem Unbekannten fotografiert! Was soll das alles? Wer ist dieser seltsame Verfolger? Ist Peters Leben in Gefahr?",
+  "kapitel" : [
+    {
+      "titel" : "Die Cola",
+      "start" : 0,
+      "end" : 231413
+    },
+    {
+      "titel" : "Du hast noch nicht einmal gefragt!",
+      "start" : 231413,
+      "end" : 560493
+    },
+    {
+      "titel" : "Du bist doch verliebt, Peter!",
+      "start" : 560493,
+      "end" : 750533
+    },
+    {
+      "titel" : "Das Geschäft des Monats!",
+      "start" : 750533,
+      "end" : 1009533
+    },
+    {
+      "titel" : "Mein Name ist Peter!",
+      "start" : 1009533,
+      "end" : 1371053
+    },
+    {
+      "titel" : "Der Brief wurde abgegeben!",
+      "start" : 1371053,
+      "end" : 1580600
+    },
+    {
+      "titel" : "Auf den Novalux-Projektor!",
+      "start" : 1580600,
+      "end" : 1942960
+    },
+    {
+      "titel" : "Das bin ich dir schuldig!",
+      "start" : 1942960,
+      "end" : 2201400
+    },
+    {
+      "titel" : "Warum sollte ich das tun?",
+      "start" : 2201400,
+      "end" : 2382760
+    },
+    {
+      "titel" : "Hört ihr das nicht?",
+      "start" : 2382760,
+      "end" : 2814560
+    },
+    {
+      "titel" : "Nein, Bob! Die mag mich doch!",
+      "start" : 2814560,
+      "end" : 3104720
+    },
+    {
+      "titel" : "Aber genau das ist doch sehr seltsam!",
+      "start" : 3104720,
+      "end" : 3363200
+    },
+    {
+      "titel" : "Ein Zeichen?",
+      "start" : 3363200,
+      "end" : 3675013
+    },
+    {
+      "titel" : "Hier eine Sondermeldung!",
+      "start" : 3675013,
+      "end" : 3978200
+    },
+    {
+      "titel" : "Darf ich reinkommen?",
+      "start" : 3978200,
+      "end" : 4416000
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Bill Andrews",
+      "Henry König"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Miss Bennett",
+      "Renate Pilcher"
+    ],
+    [
+      "Dick Perry",
+      "Ernst H. Hilbich"
+    ],
+    [
+      "Walter Bush",
+      "Rolf E. Schenker"
+    ],
+    [
+      "Officer Flann Doyle",
+      "Douglas Welbat"
+    ],
+    [
+      "Ian Bush",
+      "Sky du Mont / Lucas Sperber"
+    ],
+    [
+      "Jimmy Sinclair",
+      "Siegfried Kernen / Nils Noller"
+    ],
+    [
+      "Charlie Parker",
+      "Jörg Gillner / Laurence Kalaidjan"
+    ],
+    [
+      "Brianna Jackson",
+      "Hansi Jochmann / Natalie Demtröder"
+    ],
+    [
+      "Chloe Smathers",
+      "Valerie Demtröder"
+    ],
+    [
+      "Joseph Quick",
+      "Harry Rowohlt"
+    ],
+    [
+      "Mr. Raynes",
+      "Olaf Kreuzenbeck"
+    ],
+    [
+      "Jeff White",
+      "Horst Naumann"
+    ],
+    [
+      "Hedy Carlson",
+      "Luise Helm"
+    ],
+    [
+      "Gil Renard",
+      "Udo Schenk"
+    ],
+    [
+      "Peter Foster",
+      "Gerrit Schmidt-Foss"
+    ],
+    [
+      "Matthew Gabbin",
+      "Jürgen Thormann"
+    ],
+    [
+      "Steve",
+      "Sascha Draeger"
+    ],
+    [
+      "Laury",
+      "Rhea Harder-Vennewald"
+    ],
+    [
+      "Georgina",
+      "Maud Ackermann"
+    ],
+    [
+      "Bedienung",
+      "Tim Wenderoth"
+    ],
+    [
+      "Gast",
+      "Andreas Otoo"
+    ],
+    [
+      "Sekretärin",
+      "Corinna Wodrich"
+    ],
+    [
+      "Sebastian Dawson",
+      "Bastian Pastewka"
+    ],
+    [
+      "Radiosprecher",
+      "Tobias Meister"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/rip_log.txt"
+  }
+}

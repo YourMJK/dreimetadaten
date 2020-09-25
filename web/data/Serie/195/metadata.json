@@ -1,0 +1,102 @@
+{
+  "nummer" : 195,
+  "titel" : "Im Reich der Ungeheuer",
+  "autor" : "Hendrik Buchna",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Beachte auch unser Sparpaket. Das Sparpaket gibt es HIER!!! Als die drei ??? von einem berühmten Stuntman um Hilfe gebeten werden, ahnen sie noch nicht, welch unglaubliches Abenteuer sie erwartet. Auf ihrem Weg in die Hollywood Hills werden die Freunde getrennt: Während Justus einer mysteriösen Drohung nachgeht, geraten Peter und Bob in eine beängstigende Welt des Schreckens …",
+  "veröffentlichungsdatum" : "2018-09-28",
+  "kapitel" : [
+    {
+      "titel" : "Aus eins wird zwei",
+      "start" : 0,
+      "end" : 354520
+    },
+    {
+      "titel" : "Die Uhr tickt",
+      "start" : 354520,
+      "end" : 977280
+    },
+    {
+      "titel" : "Im Reich der Ungeheuer",
+      "start" : 977280,
+      "end" : 1730587
+    },
+    {
+      "titel" : "Die Suche beginnt",
+      "start" : 1730587,
+      "end" : 2295080
+    },
+    {
+      "titel" : "Wieder vereint",
+      "start" : 2295080,
+      "end" : 3097333
+    },
+    {
+      "titel" : "Die Fassade fällt",
+      "start" : 3097333,
+      "end" : 3913080
+    },
+    {
+      "titel" : "Ende mit Schrecken",
+      "start" : 3913080,
+      "end" : 4503053
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Wally Robertson",
+      "Michael Prelle"
+    ],
+    [
+      "Charmayne Robertson",
+      "Daniela Hoffmann"
+    ],
+    [
+      "Dwaight Hayward",
+      "Gordon Piedesack"
+    ],
+    [
+      "Mrs. Flagstaff",
+      "Sabine Hahn"
+    ],
+    [
+      "Polizist",
+      "Erik Schäffler"
+    ],
+    [
+      "1. Mann",
+      "Ingo Menowski"
+    ],
+    [
+      "2. Mann",
+      "Riko Tauber"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/195/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/195/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/195/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/195/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/aa/56/ce/aa56ce11-ce70-d771-bfcb-2ce99d969964/886446602554.jpg/3000x0w.png"
+  }
+}

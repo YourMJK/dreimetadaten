@@ -1,0 +1,153 @@
+{
+  "nummer" : 111,
+  "titel" : "Die Höhle des Grauens",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Totenkopfbecher, Übernachten im Sarg, eine geheimnisvolle Höhle: Die drei ??? freuen sich auf eine aufregende Woche in der \"Geisterburg\" – dem einsam gelegenen Erlebnishotel für wohliges Gruseln. Als sich jedoch seltsame Zwischenfälle häufen, wird schnell klar: Was als spannender, aber harmloser Aufenthalt geplant war, gerät zu einem gefährlichen Abenteuer für Justus, Peter und Bob. Liegt der Schlüssel zu allem in der Höhle des Grauens – und in dem Geheimnis, das dort verborgen ist?",
+  "veröffentlichungsdatum" : "2003-08-11",
+  "kapitel" : [
+    {
+      "titel" : "Die Geisterburg",
+      "start" : 0,
+      "end" : 259413
+    },
+    {
+      "titel" : "Überraschung im Zug",
+      "start" : 259413,
+      "end" : 414053
+    },
+    {
+      "titel" : "Starke Nerven",
+      "start" : 414053,
+      "end" : 589720
+    },
+    {
+      "titel" : "Der Wilderer",
+      "start" : 589720,
+      "end" : 729853
+    },
+    {
+      "titel" : "Der schwarze Vogel",
+      "start" : 729853,
+      "end" : 1133507
+    },
+    {
+      "titel" : "Teufelsbraten mit Soße",
+      "start" : 1133507,
+      "end" : 1395400
+    },
+    {
+      "titel" : "Das pure Entsetzen",
+      "start" : 1395400,
+      "end" : 2091120
+    },
+    {
+      "titel" : "Bis ins kleinste Detail",
+      "start" : 2091120,
+      "end" : 2180373
+    },
+    {
+      "titel" : "Wo ist Blackeye?",
+      "start" : 2180373,
+      "end" : 2422107
+    },
+    {
+      "titel" : "Gespensterjäger",
+      "start" : 2422107,
+      "end" : 2669653
+    },
+    {
+      "titel" : "Von der Außenwelt abgeschnitten",
+      "start" : 2669653,
+      "end" : 2878160
+    },
+    {
+      "titel" : "Der schwarze Henker",
+      "start" : 2878160,
+      "end" : 3128000
+    },
+    {
+      "titel" : "Sprung über den Abgrund",
+      "start" : 3128000,
+      "end" : 3614813
+    },
+    {
+      "titel" : "Gut gemacht, Justus Jonas!",
+      "start" : 3614813,
+      "end" : 3906600
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Maggie Jones",
+      "Ulrike Johannson"
+    ],
+    [
+      "Lythia Waterstone",
+      "Barbara Focke"
+    ],
+    [
+      "Elisabeth Waterstone",
+      "Linde Fulde"
+    ],
+    [
+      "John Stanley",
+      "Kai Böger"
+    ],
+    [
+      "Jack Donelly",
+      "Andreas Mattau"
+    ],
+    [
+      "Althena",
+      "Michaela Boland"
+    ],
+    [
+      "Corona",
+      "Stefanie Kirchberger"
+    ],
+    [
+      "Fahrer Ken",
+      "Wolf Frass"
+    ],
+    [
+      "John Fairbanks",
+      "Christian Rudolf"
+    ],
+    [
+      "Hal Fairbanks",
+      "Heidi Schaffrath"
+    ],
+    [
+      "Walt",
+      "Wolfgang Kaven"
+    ],
+    [
+      "Blackeye",
+      "Georg Marquard"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/111/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/111/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/111/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/111/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/fc/0c/bb/fc0cbb49-4801-58d0-4077-733682f1a32c/886445752038.jpg/3000x0w.png"
+  }
+}

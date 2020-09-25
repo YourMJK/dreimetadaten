@@ -1,0 +1,103 @@
+{
+  "nummer" : 47,
+  "titel" : "und der giftige Gockel",
+  "autor" : "Megan & H. William Stine",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "\"Millionen werden sterben!\" flüstert das Unfallopfer. – Wer ist der Täter? Die drei Detektive schalten sich ein, und ein Wettlauf mit der Zeit beginnt! Schon bald merken die drei Freunde, dass sie auf der richtigen Spur sind, denn ihr unbekannter Gegner schlägt zurück …",
+  "veröffentlichungsdatum" : "1989-11-24",
+  "kapitel" : [
+    {
+      "titel" : "Ein Albtraum",
+      "start" : 0,
+      "end" : 321613
+    },
+    {
+      "titel" : "Mr. Sweetness",
+      "start" : 321613,
+      "end" : 617587
+    },
+    {
+      "titel" : "Dr. Jonas am Apparat",
+      "start" : 617587,
+      "end" : 1098027
+    },
+    {
+      "titel" : "Mordanschlag",
+      "start" : 1098027,
+      "end" : 1415827
+    },
+    {
+      "titel" : "Zurückgekehrte Erinnerung",
+      "start" : 1415827,
+      "end" : 1732267
+    },
+    {
+      "titel" : "Endstation Schrottpresse",
+      "start" : 1732267,
+      "end" : 2208587
+    },
+    {
+      "titel" : "Gefährliche Marktforschung",
+      "start" : 2208587,
+      "end" : 2555440
+    },
+    {
+      "titel" : "Der große Preis",
+      "start" : 2555440,
+      "end" : 2842373
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Kelly",
+      "Kerstin Draeger"
+    ],
+    [
+      "Julia Crown",
+      "Tessa Gasser"
+    ],
+    [
+      "Big Barney Crown",
+      "Wolfgang Völz"
+    ],
+    [
+      "Schwester Lazar",
+      "Hildegard Krekel"
+    ],
+    [
+      "Don Dellasandro",
+      "Jürgen Thormann"
+    ],
+    [
+      "Pandro Mischkin",
+      "Michael Hark"
+    ],
+    [
+      "Kranführer Dick",
+      "Ernst von Klippstein"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/047/metadata.json"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "teilNummer" : 1,
+  "kapitel" : [
+    {
+      "titel" : "Der Phantom-Anwalt",
+      "start" : 0,
+      "end" : 553040
+    },
+    {
+      "titel" : "Der Untergang der Liberty Bell",
+      "start" : 553040,
+      "end" : 915680
+    },
+    {
+      "titel" : "Erfolgreiche Recherche",
+      "start" : 915680,
+      "end" : 1283907
+    },
+    {
+      "titel" : "Folgenschwerer Anruf",
+      "start" : 1283907,
+      "end" : 1404987
+    },
+    {
+      "titel" : "Mysteriöses Testament",
+      "start" : 1404987,
+      "end" : 1795267
+    },
+    {
+      "titel" : "Held ohne Ehre",
+      "start" : 1795267,
+      "end" : 2091800
+    },
+    {
+      "titel" : "Beschattet",
+      "start" : 2091800,
+      "end" : 2317507
+    },
+    {
+      "titel" : "O'Malley's Rock",
+      "start" : 2317507,
+      "end" : 2563667
+    },
+    {
+      "titel" : "Der zweite Fall",
+      "start" : 2563667,
+      "end" : 2916627
+    },
+    {
+      "titel" : "Leviathan",
+      "start" : 2916627,
+      "end" : 3377427
+    },
+    {
+      "titel" : "Das Geisterhaus am Meer",
+      "start" : 3377427,
+      "end" : 3602520
+    },
+    {
+      "titel" : "Ein schreckliches Geheimnis",
+      "start" : 3602520,
+      "end" : 3767440
+    },
+    {
+      "titel" : "Jagd auf den Unbekannten",
+      "start" : 3767440,
+      "end" : 3918160
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/1/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/1/rip_log.txt"
+  }
+}

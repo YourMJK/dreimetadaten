@@ -1,0 +1,111 @@
+{
+  "nummer" : 2,
+  "titel" : "und der Phantomsee",
+  "autor" : "William Arden",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Welches Geheimnis verbirgt sich in einem vergilbten Brief und in den nach langer Zeit wieder aufgetauchten Aufzeichnungen des Seemanns Angus Gunn? Wurde tatsächlich in einer lange vergangenen Sturmnacht ein Piratenschatz von einem sinkenden Schiff gestohlen? Das mächten die drei Detektive Justus, Bob und Peter ebenfalls gerne wissen. Den Nachkommen von Gunn ist es bisher nicht gelunge, das Versteck des Schatzes ausfindig zu machen. Professor Shay, den diese Sache für seine Arbeit am Historischen Forschungsinstitut interessiert, hatte bislang auch kein Glück. Immer mehr Personen tauchen auf und machen sich verdächtig. Auch Java-Jim, ein undurchsichtiger Seemann, versucht den drei ??? zuvorzukommen. Und welche Rolle spielt Stebins, der wegen Unterschlagung im Gefängnis war und auf Bewährung frei ist? Der Professor vermutet, daß er und Java-Jim zusammenarbeiten. Aber am Ende sind die drei ??? allen eine Nasenlänge voraus: die vielen rätselhaften Hinweise führen sie zum Phantomsee und damit endlich zur Lösung.",
+  "veröffentlichungsdatum" : "1979-10-13",
+  "kapitel" : [
+    {
+      "titel" : "Die Seemannstruhe",
+      "start" : 0,
+      "end" : 262387
+    },
+    {
+      "titel" : "Das Wrack der \"Argyll Queen\"",
+      "start" : 262387,
+      "end" : 706387
+    },
+    {
+      "titel" : "Angriff!",
+      "start" : 706387,
+      "end" : 1062773
+    },
+    {
+      "titel" : "Die Goldgräberstadt",
+      "start" : 1062773,
+      "end" : 1348760
+    },
+    {
+      "titel" : "Beistand aus der Geisterwelt",
+      "start" : 1348760,
+      "end" : 1690440
+    },
+    {
+      "titel" : "Und wieder Java-Jim!",
+      "start" : 1690440,
+      "end" : 2051707
+    },
+    {
+      "titel" : "Der letzte Fingerzeig",
+      "start" : 2051707,
+      "end" : 2451120
+    },
+    {
+      "titel" : "Der Schatz der \"Argyll Queen\"",
+      "start" : 2451120,
+      "end" : 2738933
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Patrick Kenneth",
+      "Wolfgang Kubach"
+    ],
+    [
+      "Java-Jim",
+      "Heinz Überreiter [Gottfried Kramer]"
+    ],
+    [
+      "Mrs. Flora Gunn",
+      "Veronika Weckler"
+    ],
+    [
+      "Cluny Gunn",
+      "Fabian Harloff"
+    ],
+    [
+      "Rory",
+      "Klaus-Peter Reisch [Peter Buchholz]"
+    ],
+    [
+      "Stebins",
+      "Hans Meinhardt [Karl-Ulrich Meves]"
+    ],
+    [
+      "Mr. Widner",
+      "Ernst von Klipstein"
+    ],
+    [
+      "Verwalter von Powder Gulch",
+      "Reiner Brönneke"
+    ],
+    [
+      "Bibliothekarin",
+      "Katharina Brauren"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/002/metadata.json"
+  }
+}

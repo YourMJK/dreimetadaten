@@ -1,0 +1,93 @@
+{
+  "teilNummer" : 3,
+  "buchstabe" : "C",
+  "titel" : "Der Fluch der Gräber",
+  "beschreibung" : "Eine Bombendrohung, Raketenköpfe und den Tod vor Augen zu haben, bringen nicht nur den ängstlichen Zweiten Detektiv gehörig ins Schwitzen.\n\"Makatao\", die Toteninsel, entpuppt sich als eine gefährliche Falle.\nEin nervenaufreibender Wettlauf mit der Zeit beginnt …",
+  "kapitel" : [
+    {
+      "titel" : "Verdeckte Fouls",
+      "start" : 0,
+      "end" : 618853
+    },
+    {
+      "titel" : "Die Rache des Tigers",
+      "start" : 618853,
+      "end" : 1016733
+    },
+    {
+      "titel" : "Die rätselhaften Bilder",
+      "start" : 1016733,
+      "end" : 1685640
+    },
+    {
+      "titel" : "Das Geheimnis der Särge",
+      "start" : 1685640,
+      "end" : 2235333
+    },
+    {
+      "titel" : "Dreckiger Deal",
+      "start" : 2235333,
+      "end" : 2721600
+    },
+    {
+      "titel" : "Tödliche Spur",
+      "start" : 2721600,
+      "end" : 3410493
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Jelena",
+      "Alexandra Doerk"
+    ],
+    [
+      "Professor Phoenix",
+      "Wilfried Glatzeder"
+    ],
+    [
+      "Dr. Svenson",
+      "Antje Roosch"
+    ],
+    [
+      "Mr. Schwarz",
+      "Erik Schäffler"
+    ],
+    [
+      "Mr. Olin",
+      "Uli Krohm"
+    ],
+    [
+      "Juan",
+      "Oliver Böttcher"
+    ],
+    [
+      "Al",
+      "Nico König"
+    ],
+    [
+      "Anne",
+      "Corinna Wodrich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/100/3/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/3/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/100/3/rip_log.txt"
+  }
+}

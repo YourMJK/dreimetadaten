@@ -1,0 +1,154 @@
+{
+  "nummer" : 170,
+  "titel" : "Straße des Grauens",
+  "autor" : "Kari Erlhoff",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ex-Kommissar Reynolds wurde entführt! Justus, Peter und Bob machen sich sofort auf die Spur des Täters. Der der verbietet ihnen jeglichen Kontakt zur Polizei, schickt ihnen ein Paket mit fragwürdigem Inhalt und lässt ihnen seltsame Hinweise zukommen. Durch die glühende Hitze der Wüste jagen die drei ??? ihren ruchlosen Gegner. Und dann verschwindet auch noch Bob! Wie weit werden die Detektive gehen, um ihre Freunde zu retten?",
+  "veröffentlichungsdatum" : "2014-08-29",
+  "kapitel" : [
+    {
+      "titel" : "Das Spiel beginnt",
+      "start" : 0,
+      "end" : 740400
+    },
+    {
+      "titel" : "Verbotene Recherchen",
+      "start" : 740400,
+      "end" : 971173
+    },
+    {
+      "titel" : "Shackles & Chains",
+      "start" : 971173,
+      "end" : 1356493
+    },
+    {
+      "titel" : "NVSR und Regentanz",
+      "start" : 1356493,
+      "end" : 1687827
+    },
+    {
+      "titel" : "Verfolgt?",
+      "start" : 1687827,
+      "end" : 1793987
+    },
+    {
+      "titel" : "Nachtwache",
+      "start" : 1793987,
+      "end" : 2409333
+    },
+    {
+      "titel" : "Boblos in der Wüste",
+      "start" : 2409333,
+      "end" : 2969373
+    },
+    {
+      "titel" : "Black & White",
+      "start" : 2969373,
+      "end" : 3567120
+    },
+    {
+      "titel" : "Verkleidet",
+      "start" : 3567120,
+      "end" : 4277413
+    },
+    {
+      "titel" : "Im Namen des Gesetzes",
+      "start" : 4277413,
+      "end" : 4636707
+    },
+    {
+      "titel" : "Geheimnisse",
+      "start" : 4636707,
+      "end" : 4816533
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Mitch Palmer",
+      "Michael Lott"
+    ],
+    [
+      "Dimitri",
+      "Manou Lubowski"
+    ],
+    [
+      "Roy",
+      "Gosta Liptow"
+    ],
+    [
+      "Boss",
+      "Henry König"
+    ],
+    [
+      "Cindy",
+      "Konstanze Ullmer"
+    ],
+    [
+      "Mike",
+      "Oliver Böttcher"
+    ],
+    [
+      "Wirt",
+      "Peter Lakenmacher"
+    ],
+    [
+      "Rockford",
+      "Christian Senger"
+    ],
+    [
+      "Casino-Besucher",
+      "Robin Bosch"
+    ],
+    [
+      "Casino-Besucherin",
+      "Brigitte Böttrich"
+    ],
+    [
+      "Rezeption 1",
+      "Dorothea Lott"
+    ],
+    [
+      "Rezeption 2",
+      "Marco Spina"
+    ],
+    [
+      "Fernfahrer",
+      "Tilman Madaus"
+    ],
+    [
+      "Putzfrau",
+      "Maria Baptista"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/170/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/170/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/170/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/170/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/b5/62/72/b5627254-525b-c601-0b30-ea2443c7f846/886445760057.jpg/3000x0w.png"
+  }
+}

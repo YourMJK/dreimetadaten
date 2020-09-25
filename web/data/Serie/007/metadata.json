@@ -1,0 +1,95 @@
+{
+  "nummer" : 7,
+  "titel" : "und der unheimliche Drache",
+  "autor" : "Nick West",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Ein paar entlaufene Hunde zu suchen – naja, das ist normalerweise kein besonders verlockender Auftrag für drei clevere Detektive. Doch kaum beginnen Justus, Bob und Peter mit der Suche, da erzählt ihnen der Hundebesitzer, Mr. Allen, von einem Seeungeheuer, das er an der Küste gesichtet haben will. Wie bitte – Seeungeheuer? Doch Mr. Allen hat nicht gescherzt. Die ??? stoßen bei ihren Nachforschungen nicht nur auf einen anscheinend leibhaftigen Drachen, der unheimlich hustet, sondern auch ein mysteriöses Höhlenlabyrinth, auf verschiebbare Felswände, bewaffnete Froschmänner und manch andere Merkwürdigkeiten. Wem gehört zum Beispiel die unheimliche Stimme am Telefon? Und was ist dieser Mr. Shelby für ein Mensch? Er nennt sich Spezialist für Tricks und Späße aller Art – aber bald stellt sich heraus, daß man auch mit Tricks und Späßen entschieden zu weit gehen kann …",
+  "veröffentlichungsdatum" : "1979-10-31",
+  "kapitel" : [
+    {
+      "titel" : "Das Ungeheuer aus dem Meer",
+      "start" : 0,
+      "end" : 397493
+    },
+    {
+      "titel" : "Ein merkwürdiges Haus",
+      "start" : 397493,
+      "end" : 778800
+    },
+    {
+      "titel" : "Erste Spuren",
+      "start" : 778800,
+      "end" : 1086893
+    },
+    {
+      "titel" : "Gespenstische Botschaft am Telefon",
+      "start" : 1086893,
+      "end" : 1353707
+    },
+    {
+      "titel" : "Alte Chronik – neue Spur",
+      "start" : 1353707,
+      "end" : 1650093
+    },
+    {
+      "titel" : "Ein Witzbold und sein Werk",
+      "start" : 1650093,
+      "end" : 2096147
+    },
+    {
+      "titel" : "Die Drachenjagd beginnt",
+      "start" : 2096147,
+      "end" : 2466947
+    },
+    {
+      "titel" : "Das Geheimnis des alten Tunnels",
+      "start" : 2466947,
+      "end" : 2721773
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "H. H. Allen",
+      "Werner Cartano"
+    ],
+    [
+      "Mr. Shelby",
+      "Richard Lauffen"
+    ],
+    [
+      "Mr. Carter",
+      "F. J. Steffens"
+    ],
+    [
+      "Jack Morgan",
+      "Klaus Klein [Wolfgang Kubach]"
+    ],
+    [
+      "Harry Morgan",
+      "Reiner Brönneke"
+    ],
+    [
+      "Telephonistin",
+      "Reinhild Schneider"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/007/metadata.json"
+  }
+}

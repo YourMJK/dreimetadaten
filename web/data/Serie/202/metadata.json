@@ -1,0 +1,94 @@
+{
+  "nummer" : 202,
+  "titel" : "Das weiße Grab",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "So hatten sich die drei Detektive ihre Auszeit in den Bergen nicht vorgestellt. Nach dem Abgang einer Lawine stecken sie in einer Hütte fest! Mit ihnen zwei Wanderer und eine Bewohnerin des nahegelegenen Bergdorfs. Und als wäre die Situation nicht heikel genug, beginnen die Detektivinstinkte der drei ??? Alarm zu schlagen. Gibt es etwa eine Verbindung zwischen den Personen und dem geheimnisvollen Unfall, der vor einiger Zeit hier passierte?",
+  "veröffentlichungsdatum" : "2019-11-29",
+  "kapitel" : [
+    {
+      "titel" : "Ausgerutscht!",
+      "start" : 0,
+      "end" : 533907
+    },
+    {
+      "titel" : "Geisterlift",
+      "start" : 533907,
+      "end" : 1077133
+    },
+    {
+      "titel" : "Die verbotene Zone",
+      "start" : 1077133,
+      "end" : 1831493
+    },
+    {
+      "titel" : "Das weiße Grab",
+      "start" : 1831493,
+      "end" : 2691493
+    },
+    {
+      "titel" : "Alte Geschichten",
+      "start" : 2691493,
+      "end" : 3143307
+    },
+    {
+      "titel" : "Das Astloch",
+      "start" : 3143307,
+      "end" : 3671613
+    },
+    {
+      "titel" : "Demaskiert",
+      "start" : 3671613,
+      "end" : 4568253
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Laurenne Duffy",
+      "Heidi Schaffrath"
+    ],
+    [
+      "Joe Patwin",
+      "Jürgen Uter"
+    ],
+    [
+      "Trevor Tompson",
+      "Marek Erhardt"
+    ],
+    [
+      "Bruce Osborne",
+      "Martin Paas"
+    ],
+    [
+      "Kelly",
+      "Henrike Fehrs"
+    ],
+    [
+      "Walt Duffy",
+      "Stephan Benson"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/202/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/202/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/202/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/202/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/45/05/af/4505af0d-ea73-2e78-e178-87ab4c90b640/886447191637.jpg/3000x0w.png"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "nummer" : 63,
+  "titel" : "Fußball-Gangster",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Welches Interesse könnte ein Lebensmittelkonzern daran haben, eine ganze Fußballmannschaft unter seine Kontrolle zu bringen? Jimboy, Justus Cousin, hat sich mächtig verändert, seit er Stürmer in dieser Elf ist. Und zwar nicht zu seinem Vorteil. Die drei ??? merken bald den Zusammenhang zwischen Jimboys Schweigsamkeit und seinen Erlebnissen im streng bewachten Trainingslager. Aber kaum haben sie Erfolg bei ihren Erkundigungen, schaltet sich Inspektor Cotta ein. Justus, Peter und Bob sollen die Finger von dem brandheißen Fall lassen. Das sehen die drei ??? entscheiden anders …",
+  "veröffentlichungsdatum" : "1995-08-28",
+  "kapitel" : [
+    {
+      "titel" : "Ballkünstler unter sich",
+      "start" : 0,
+      "end" : 412613
+    },
+    {
+      "titel" : "Explosive Nachrichten",
+      "start" : 412613,
+      "end" : 960400
+    },
+    {
+      "titel" : "Smell kauft Jimboy",
+      "start" : 960400,
+      "end" : 1348587
+    },
+    {
+      "titel" : "Eisiger Empfang in den Bergen",
+      "start" : 1348587,
+      "end" : 2023547
+    },
+    {
+      "titel" : "Foul auf Bestellung",
+      "start" : 2023547,
+      "end" : 2574587
+    },
+    {
+      "titel" : "Aktion Earphone",
+      "start" : 2574587,
+      "end" : 3069533
+    },
+    {
+      "titel" : "Ein riskanter Bluff",
+      "start" : 3069533,
+      "end" : 3325320
+    },
+    {
+      "titel" : "Cotta mischt mit",
+      "start" : 3325320,
+      "end" : 4014467
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Jimboy-Jonas",
+      "Frank Meyer-Brockmann"
+    ],
+    [
+      "Mr. Bow",
+      "Klaus Sonnenschein"
+    ],
+    [
+      "Eric Randolph",
+      "Achim Schülke"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Elizabeth",
+      "Verena Großer"
+    ],
+    [
+      "Lys",
+      "Kerstin Draeger"
+    ],
+    [
+      "Kelly",
+      "Juliane Szalay"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Tamara Mostowsky",
+      "Astrid Kollex"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/063/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/063/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/063/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/063/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music20/v4/31/84/4d/31844dfa-dadc-853a-d3cc-0771dbfc0dae/886445747430.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a5/8c/89/0743212482225.jpg"
+  }
+}

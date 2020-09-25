@@ -1,0 +1,168 @@
+{
+  "teilNummer" : 1,
+  "buchstabe" : "A",
+  "titel" : "Teuflisches Duell",
+  "autor" : "Christoph Dittert",
+  "beschreibung" : "Kurz nach ihrem Einzug ins Studentenwohnheim werden die drei ??? Zeugen merkwürdiger Ereignisse auf dem Campus. Unmenschliche Schreie hallen über das Gelände, freundliche Studenten werden plötzlich aggressiv – geht hier alles mit rechten Dingen zu? Und wer ist der Teumessische Fuchs, über den man überall Gerüchte hört? Eine Fuchsjagd der besonderen Art beginnt …",
+  "kapitel" : [
+    {
+      "titel" : "Computerfehler",
+      "start" : 0,
+      "end" : 358293
+    },
+    {
+      "titel" : "Die Universität und der Fuchs",
+      "start" : 358293,
+      "end" : 524413
+    },
+    {
+      "titel" : "Aufbruch ins Abenteuer",
+      "start" : 524413,
+      "end" : 841960
+    },
+    {
+      "titel" : "Seltsame Vögel",
+      "start" : 841960,
+      "end" : 1337653
+    },
+    {
+      "titel" : "Das Geheimnis von Ruxton",
+      "start" : 1337653,
+      "end" : 1586467
+    },
+    {
+      "titel" : "Im Studentenloch",
+      "start" : 1586467,
+      "end" : 2092947
+    },
+    {
+      "titel" : "Alpha Lambda Chi",
+      "start" : 2092947,
+      "end" : 2171440
+    },
+    {
+      "titel" : "\"… ich rate dir: Nun flieh!\"",
+      "start" : 2171440,
+      "end" : 2606787
+    },
+    {
+      "titel" : "Verbrechen aller Art",
+      "start" : 2606787,
+      "end" : 2861987
+    },
+    {
+      "titel" : "Ein Dieb namens Justus Jonas",
+      "start" : 2861987,
+      "end" : 2912840
+    },
+    {
+      "titel" : "Überrachung!",
+      "start" : 2912840,
+      "end" : 3451693
+    },
+    {
+      "titel" : "Etwas wirft seinen Schatten voraus",
+      "start" : 3451693,
+      "end" : 3648933
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Andrews",
+      "Henry König"
+    ],
+    [
+      "Jeremy Bright",
+      "Stephan Schad"
+    ],
+    [
+      "Taylor-Jackson",
+      "Jona Mues"
+    ],
+    [
+      "Francine Breckenridge",
+      "Elga Schütz"
+    ],
+    [
+      "A.C. Berany",
+      "Hanni Vanhaiden"
+    ],
+    [
+      "Samantha",
+      "Henrike Fehrs"
+    ],
+    [
+      "Corvy",
+      "Karen Suender"
+    ],
+    [
+      "Lemuel Garvine",
+      "Tim Grobe"
+    ],
+    [
+      "Prof. Roalstad",
+      "Jürgen Thormann"
+    ],
+    [
+      "Chris",
+      "Soi Anifantis"
+    ],
+    [
+      "Gamma",
+      "Wolfram Grandezka"
+    ],
+    [
+      "Barfrau",
+      "Rhesi Underberg"
+    ],
+    [
+      "John",
+      "Stephan Benson"
+    ],
+    [
+      "Walker",
+      "Rüdiger Schulzki"
+    ],
+    [
+      "Lederhose",
+      "Klaus Krückemeyer"
+    ],
+    [
+      "1. Polizist",
+      "Tim Kreuer"
+    ],
+    [
+      "2. Polizist",
+      "Jesse Grimm"
+    ],
+    [
+      "Telefonstimme",
+      "Wolfgang Völz"
+    ],
+    [
+      "Menge",
+      "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/175/1/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/1/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/175/1/rip_log.txt"
+  }
+}

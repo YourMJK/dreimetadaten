@@ -1,0 +1,112 @@
+{
+  "nummer" : 58,
+  "titel" : "und der verrückte Maler",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Tante Mathilda ist wütend! Wie kann Onkel Titus es nur wagen, dieses grauenhafte Gemälde einfach in ihr Wohnzimmer zu hängen! Noch in derselben Nacht versucht jemand den Ölschinken zu klauen. Grund genug für Justus, Bob und Peter sich einzuschalten. Drohanrufe, nächtliche Überfälle und eine verdächtige Safefirma führen die drei Junior-Detektive über das Meer zu einem einsam gelegenen Haus an der Küste. Dort erwartet sie eine gefährliche Überraschung.",
+  "veröffentlichungsdatum" : "1994-07-18",
+  "kapitel" : [
+    {
+      "titel" : "Der Kamelhaarmann tritt auf",
+      "start" : 0,
+      "end" : 448067
+    },
+    {
+      "titel" : "Bobs Alleingang",
+      "start" : 448067,
+      "end" : 739453
+    },
+    {
+      "titel" : "Ein Fiesling am Telefon",
+      "start" : 739453,
+      "end" : 1062853
+    },
+    {
+      "titel" : "Onkel Titus' großer Auftritt",
+      "start" : 1062853,
+      "end" : 1359627
+    },
+    {
+      "titel" : "Ein Engel mit Revolver",
+      "start" : 1359627,
+      "end" : 1663560
+    },
+    {
+      "titel" : "Die Dinge kommen ins Rollen",
+      "start" : 1663560,
+      "end" : 2106773
+    },
+    {
+      "titel" : "Familienkrieg",
+      "start" : 2106773,
+      "end" : 2379027
+    },
+    {
+      "titel" : "Das Geheimnis des gelben Gemäldes",
+      "start" : 2379027,
+      "end" : 2711893
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "William Ashley",
+      "Franz Rudnick"
+    ],
+    [
+      "Burt Ashley",
+      "Knut Basewitz"
+    ],
+    [
+      "Pecker, Angestellter",
+      "Lutz Büschken"
+    ],
+    [
+      "Axel",
+      "Tobias Pauls"
+    ],
+    [
+      "Lys",
+      "Kerstin Draeger"
+    ],
+    [
+      "Mrs. Bloomingdale",
+      "Eva Zlomitzky"
+    ],
+    [
+      "Stella",
+      "Rebecca Völz"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/058/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/058/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/058/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/058/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music18/v4/0c/6e/26/0c6e2611-16d7-1803-d2ac-f846b1227973/886445747058.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/03/52/8a/0743211851220.jpg"
+  }
+}

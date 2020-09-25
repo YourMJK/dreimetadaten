@@ -1,0 +1,125 @@
+{
+  "nummer" : 164,
+  "titel" : "Fußball-Teufel",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Eigentlich wollen die drei ??? am Felsen Hookes Nose nur nach einem verschwundenen Hund suchen, doch schon bald taucht ein düsterer Mann mit Pferdefuß auf. Ist der Hooked Nose wirklich ein verfluchter Ort, an dem der Teufel umgeht? Und was hat der junge Fußballer Lenni Carson mit dem Geheimnis des Felsens zu tun? Müssen es Justus, Peter und Bob bei ihren Ermittlungen diesmal wirklich mit dem Teufel persönlich aufnehmen?",
+  "veröffentlichungsdatum" : "2013-10-04",
+  "kapitel" : [
+    {
+      "titel" : "Hooked Nose",
+      "start" : 0,
+      "end" : 432240
+    },
+    {
+      "titel" : "Alles schwarz",
+      "start" : 432240,
+      "end" : 872667
+    },
+    {
+      "titel" : "Wuhukini",
+      "start" : 872667,
+      "end" : 1086947
+    },
+    {
+      "titel" : "Pakt mit dem Teufel",
+      "start" : 1086947,
+      "end" : 1256627
+    },
+    {
+      "titel" : "Eine goldene Nase",
+      "start" : 1256627,
+      "end" : 1630533
+    },
+    {
+      "titel" : "Erinnerungslücken",
+      "start" : 1630533,
+      "end" : 2115453
+    },
+    {
+      "titel" : "Dunkle Stimmen",
+      "start" : 2115453,
+      "end" : 2399320
+    },
+    {
+      "titel" : "Der Tanz beginnt",
+      "start" : 2399320,
+      "end" : 2701827
+    },
+    {
+      "titel" : "Taub und blind",
+      "start" : 2701827,
+      "end" : 3813960
+    },
+    {
+      "titel" : "Ein würdiger Nachfolger",
+      "start" : 3813960,
+      "end" : 4125760
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Lenni",
+      "Tim Kreuer"
+    ],
+    [
+      "John Greyfox",
+      "Douglas Welbat"
+    ],
+    [
+      "Clay Carson",
+      "Krystian Martinek"
+    ],
+    [
+      "Walter",
+      "Achim Schülke"
+    ],
+    [
+      "Freddy Hays",
+      "Woody Mues"
+    ],
+    [
+      "Trainer",
+      "Bruno F. Apitz"
+    ],
+    [
+      "Mann",
+      "Wolfram Winfried"
+    ],
+    [
+      "Junge",
+      "Francesco Nieheim"
+    ],
+    [
+      "Spieler",
+      "Carsten Kausse"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/164/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/164/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/164/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/164/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/43/9a/28/439a28e1-84ec-e9b6-42f0-5f6ea375a977/886445756814.jpg/3000x0w.png"
+  }
+}

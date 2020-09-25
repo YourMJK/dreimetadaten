@@ -1,0 +1,254 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "kapitel" : [
+        {
+          "titel" : "Doppelter Diebstahl",
+          "start" : 0,
+          "end" : 326533
+        },
+        {
+          "titel" : "Mystik und Mythos",
+          "start" : 326533,
+          "end" : 1045907
+        },
+        {
+          "titel" : "Der Indianer",
+          "start" : 1045907,
+          "end" : 1500400
+        },
+        {
+          "titel" : "Die Zauberzwillinge",
+          "start" : 1500400,
+          "end" : 1989427
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/1/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/1/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "kapitel" : [
+        {
+          "titel" : "Auftritt: Skinny!",
+          "start" : 0,
+          "end" : 421893
+        },
+        {
+          "titel" : "Der Fall Norris",
+          "start" : 421893,
+          "end" : 814973
+        },
+        {
+          "titel" : "Das Phantom, der Diebstahl und die Katze",
+          "start" : 814973,
+          "end" : 1457520
+        },
+        {
+          "titel" : "Zitrone, Minze oder Birne?",
+          "start" : 1457520,
+          "end" : 1950506
+        },
+        {
+          "titel" : "Auf der richtigen Spur?",
+          "start" : 1950506,
+          "end" : 2293880
+        },
+        {
+          "titel" : "Ohne Hindernisse?",
+          "start" : 2293880,
+          "end" : 2619760
+        },
+        {
+          "titel" : "Der einzige Gewinner",
+          "start" : 2619760,
+          "end" : 3077053
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/2/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/2/rip_log.txt"
+      }
+    }
+  ],
+  "titel" : "und das kalte Auge",
+  "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "Yona Franke",
+  "beschreibung" : "Eine rätselhafte Diebstahlserie erschüttert Rocky Beach! Der Dieb hat offenbar eine Botschaft: CROATOAN schmiert er in blutigen Buchstaben an die Wände der Tatorte. Kennt er die schreckliche, jahrhundertealte Geschichte, die sich hinter diesem Wort verbirgt? Und wer ist der Indianer mit den kalten Augen, der immer wieder auftaucht? Höchste Zeit, dass die drei ??? Licht ins Dunkel bringen …",
+  "veröffentlichungsdatum" : "2017-08-25",
+  "kapitel" : [
+    {
+      "titel" : "Doppelter Diebstahl",
+      "start" : 0,
+      "end" : 326533
+    },
+    {
+      "titel" : "Mystik und Mythos",
+      "start" : 326533,
+      "end" : 1045907
+    },
+    {
+      "titel" : "Der Indianer",
+      "start" : 1045907,
+      "end" : 1500400
+    },
+    {
+      "titel" : "Die Zauberzwillinge",
+      "start" : 1500400,
+      "end" : 1989427
+    },
+    {
+      "titel" : "Auftritt: Skinny!",
+      "start" : 1989427,
+      "end" : 2411320
+    },
+    {
+      "titel" : "Der Fall Norris",
+      "start" : 2411320,
+      "end" : 2804400
+    },
+    {
+      "titel" : "Das Phantom, der Diebstahl und die Katze",
+      "start" : 2804400,
+      "end" : 3446947
+    },
+    {
+      "titel" : "Zitrone, Minze oder Birne?",
+      "start" : 3446947,
+      "end" : 3939933
+    },
+    {
+      "titel" : "Auf der richtigen Spur?",
+      "start" : 3939933,
+      "end" : 4283307
+    },
+    {
+      "titel" : "Ohne Hindernisse?",
+      "start" : 4283307,
+      "end" : 4609187
+    },
+    {
+      "titel" : "Der einzige Gewinner",
+      "start" : 4609187,
+      "end" : 5066480
+    }
+  ],
+  "sprecher" : [
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Zachary Collister",
+      "Stephan Benson"
+    ],
+    [
+      "Skinny Norris",
+      "Andreas von der Meden"
+    ],
+    [
+      "Mrs. Hilton",
+      "Katja Brügger"
+    ],
+    [
+      "Mr. Warren",
+      "Stephan Schwartz"
+    ],
+    [
+      "Luke Havering",
+      "Santiago Ziesmer"
+    ],
+    [
+      "Colin Havering",
+      "Santiago Ziesmer"
+    ],
+    [
+      "MacKenzie",
+      "Traudel Sperber"
+    ],
+    [
+      "Erial",
+      "Robert Missler"
+    ],
+    [
+      "Andy",
+      "Tim Grobe"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Francine",
+      "Merete Brettschneider"
+    ],
+    [
+      "Matrose",
+      "Eberhard Haar"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Mrs. Watson",
+      "Corinna Wodrich"
+    ],
+    [
+      "Betrunkener",
+      "Patrick Bach"
+    ],
+    [
+      "Kind 1",
+      "Malon Stahlhuth"
+    ],
+    [
+      "Kind 2",
+      "Julia Fölster"
+    ],
+    [
+      "Taxifahrer",
+      "Tillmann Madaus"
+    ],
+    [
+      "Kartenspieler",
+      "Robin Brosch"
+    ],
+    [
+      "Tochter von Erial",
+      "Zelda Jahreis"
+    ],
+    [
+      "AB-Ansage-Stimme",
+      "Susan Jarling"
+    ],
+    [
+      "Reporter",
+      "Ivo Möller"
+    ],
+    [
+      "Journalistin",
+      "Birte Kretschmer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/cover.png"
+  }
+}

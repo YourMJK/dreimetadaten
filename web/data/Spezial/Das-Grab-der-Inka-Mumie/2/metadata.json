@@ -1,0 +1,39 @@
+{
+  "teilNummer" : 2,
+  "kapitel" : [
+    {
+      "titel" : "Eine Mumie im Luxusbad",
+      "start" : 0,
+      "end" : 701947
+    },
+    {
+      "titel" : "Willkommen daheim",
+      "start" : 701947,
+      "end" : 871147
+    },
+    {
+      "titel" : "Der Einzige Inka",
+      "start" : 871147,
+      "end" : 1402027
+    },
+    {
+      "titel" : "Stadt, Land, Fluss",
+      "start" : 1402027,
+      "end" : 1901187
+    },
+    {
+      "titel" : "Sommersonnenwendabenteuer",
+      "start" : 1901187,
+      "end" : 2237160
+    },
+    {
+      "titel" : "Tränen des Mondes",
+      "start" : 2237160,
+      "end" : 3059627
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/2/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/2/rip_log.txt"
+  }
+}

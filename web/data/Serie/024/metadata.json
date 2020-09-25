@@ -1,0 +1,119 @@
+{
+  "nummer" : 24,
+  "titel" : "und die silberne Spinne",
+  "autor" : "Robert Arthur",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Verschwörung in Magnusstad: Der junge Lars Holmqvist soll um sein Erbe gebracht werden. Seine Freunde, Justus, Bob und Peter wollen ihm helfen, geraten dabei aber selbst in eine gefährliche Lage: plötzlich ist die legendäre silberne Spinne, die für Lars und ganz Magnusstad eine besondere Bedeutung hat, in ihrem Zimmer. Die Feinde von Lars möchten den drei ??? offensichtlich einen Raub in die Schuhe schieben. Eine abenteuerliche Verfolgungsjagd beginnt. Schaffen es die drei Freunde auch diesmal wieder?",
+  "veröffentlichungsdatum" : "1981-05-15",
+  "kapitel" : [
+    {
+      "titel" : "Um Haaresbreite",
+      "start" : 0,
+      "end" : 371640
+    },
+    {
+      "titel" : "Die silberne Spinne",
+      "start" : 371640,
+      "end" : 669107
+    },
+    {
+      "titel" : "Lauter Verdächtige",
+      "start" : 669107,
+      "end" : 869293
+    },
+    {
+      "titel" : "Finstere Pläne",
+      "start" : 869293,
+      "end" : 1264667
+    },
+    {
+      "titel" : "Ein unverhoffter Fund",
+      "start" : 1264667,
+      "end" : 1549573
+    },
+    {
+      "titel" : "Bobs Gedächtnislücke",
+      "start" : 1549573,
+      "end" : 2035467
+    },
+    {
+      "titel" : "In die Kanäle",
+      "start" : 2035467,
+      "end" : 2333520
+    },
+    {
+      "titel" : "Die Magnus-Glocke",
+      "start" : 2333520,
+      "end" : 2537893
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Bengt",
+      "Charles Regnier"
+    ],
+    [
+      "Britta",
+      "Ingeborg Kanstein"
+    ],
+    [
+      "Lars Holmqvist",
+      "Gernot Endemann"
+    ],
+    [
+      "Young",
+      "Horst Stark"
+    ],
+    [
+      "Forsborg",
+      "Richard Heelel [F.J. Steffens]"
+    ],
+    [
+      "Mann",
+      "Siegfried Wald"
+    ],
+    [
+      "Frau",
+      "Brigitte Alexis"
+    ],
+    [
+      "Köhler",
+      "Hans Meinhardt [Reiner Brönneke]"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Wärter",
+      "Joachim Wolff"
+    ],
+    [
+      "Kellner",
+      "Peter Kirchberger"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/024/metadata.json"
+  }
+}

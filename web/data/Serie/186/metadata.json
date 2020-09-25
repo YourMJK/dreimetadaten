@@ -1,0 +1,123 @@
+{
+  "nummer" : 186,
+  "titel" : "Insel des Vergessens",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Peters Opa ist verschwunden! Angeblich soll Bennington Peck still und heimlich in ein Pflegeheim gezogen sein und wird nun vermisst. Peter ist fassungslos. Das kann doch unmöglich sein! Als der Zweite Detektiv plötzlich in den Lokalnachrichten entdeckt, wie der alte Herr eine Tankstelle überfällt, überstürzen sich die Ereignisse …",
+  "veröffentlichungsdatum" : "2017-03-10",
+  "kapitel" : [
+    {
+      "titel" : "Notfallsitzung",
+      "start" : 0,
+      "end" : 291027
+    },
+    {
+      "titel" : "Spurensuche",
+      "start" : 291027,
+      "end" : 871520
+    },
+    {
+      "titel" : "Sunny Island",
+      "start" : 871520,
+      "end" : 1430973
+    },
+    {
+      "titel" : "Vertraue niemandem!",
+      "start" : 1430973,
+      "end" : 2164160
+    },
+    {
+      "titel" : "Verbündete",
+      "start" : 2164160,
+      "end" : 2670587
+    },
+    {
+      "titel" : "Der doppelte Tod",
+      "start" : 2670587,
+      "end" : 3273333
+    },
+    {
+      "titel" : "Rückkehr",
+      "start" : 3273333,
+      "end" : 3881533
+    },
+    {
+      "titel" : "Wie in Woodstock",
+      "start" : 3881533,
+      "end" : 4356747
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Ben Peck",
+      "Wolfgang Völz"
+    ],
+    [
+      "Sandra",
+      "Maureen Havlena"
+    ],
+    [
+      "TV-Nachrichtensprecher",
+      "Holger Wemhoff"
+    ],
+    [
+      "Mr. Castro",
+      "Jürgen Thormann"
+    ],
+    [
+      "Doktor Burke",
+      "Hans Peter Korff"
+    ],
+    [
+      "Mrs. Penny",
+      "Herma Koehn"
+    ],
+    [
+      "Schwester Beatrice",
+      "Roswitha Völz"
+    ],
+    [
+      "Mr. Hooper",
+      "Günther Karl"
+    ],
+    [
+      "Ellyn Djawadi",
+      "Anika Pages"
+    ],
+    [
+      "Mr. Turner",
+      "Klaus Dittmann"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Goodween",
+      "André Minninger"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/186/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/186/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/186/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/186/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/2b/1d/e7/2b1de780-7d16-7cb9-de03-b86fd88e224f/886445363012.jpg/3000x0w.png"
+  }
+}

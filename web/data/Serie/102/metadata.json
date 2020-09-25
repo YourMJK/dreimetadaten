@@ -1,0 +1,95 @@
+{
+  "nummer" : 102,
+  "titel" : "Doppelte Täuschung",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Bob gerät mitten in einen Banküberfall und kann für Bruchteile von Sekunden das Gesicht des Täters sehen. Während die drei ??? das erstellte Phantombild genau studieren, stattet der Bankräuber ihnen einen Besuch in der Zentrale ab. Zunächst scheint geklärt, dass es sich bei ihrem neuen Auftraggeber um den Zwillingsbruder des Verdächtigen handelt. Doch schon bald wissen Justus, Peter und Bob nicht mehr, mit welchem der Brüder sie es zu tun haben. Ein gefährliches Verwirrspiel beginnt.",
+  "veröffentlichungsdatum" : "2002-03-11",
+  "kapitel" : [
+    {
+      "titel" : "Der Eindringling",
+      "start" : 0,
+      "end" : 318373
+    },
+    {
+      "titel" : "Die ungleichen Brüder",
+      "start" : 318373,
+      "end" : 868720
+    },
+    {
+      "titel" : "Einbruch bei einem Dieb",
+      "start" : 868720,
+      "end" : 1336360
+    },
+    {
+      "titel" : "Hochwertige Ergebnisse",
+      "start" : 1336360,
+      "end" : 1781320
+    },
+    {
+      "titel" : "Der gestohlene Spiegel",
+      "start" : 1781320,
+      "end" : 2179773
+    },
+    {
+      "titel" : "Videorätsel",
+      "start" : 2179773,
+      "end" : 2504040
+    },
+    {
+      "titel" : "Verwirrspiel",
+      "start" : 2504040,
+      "end" : 3074253
+    },
+    {
+      "titel" : "Aller guten Dinge",
+      "start" : 3074253,
+      "end" : 3560680
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "King",
+      "Wolfgang Condrus"
+    ],
+    [
+      "Jenny Collins",
+      "Anja Topf"
+    ],
+    [
+      "Tricia Wilson",
+      "Ursula Vogel"
+    ],
+    [
+      "Goodween",
+      "André Minninger"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/102/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/102/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/102/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/102/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music18/v4/81/a0/7d/81a07d02-9a97-21ed-4746-656b192b2015/886445750553.jpg/3000x0w.png"
+  }
+}

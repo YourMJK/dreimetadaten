@@ -1,0 +1,103 @@
+{
+  "nummer" : 48,
+  "titel" : "und die gefährlichen Fässer",
+  "autor" : "G. H. Stone",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Die drei Detektive und Bobs Vater stürzen mit dem Flugzeug ab – mitten in ein Tal voller Geheimnisse und Gefahren. Merkwürdige, von Dämonen besessene Indianer tun rätselhafte Dinge, und dann stellt jemand den drei ??? eine tödliche Falle …",
+  "veröffentlichungsdatum" : "1989-11-25",
+  "kapitel" : [
+    {
+      "titel" : "Über der Sierra Nevada",
+      "start" : 0,
+      "end" : 294067
+    },
+    {
+      "titel" : "Der gespenstische Waldläufer",
+      "start" : 294067,
+      "end" : 635667
+    },
+    {
+      "titel" : "Wer kann die Kranken heilen?",
+      "start" : 635667,
+      "end" : 1142653
+    },
+    {
+      "titel" : "Ein Traum und eine Botschaft",
+      "start" : 1142653,
+      "end" : 1431333
+    },
+    {
+      "titel" : "Die Wahnsinnsfahrt",
+      "start" : 1431333,
+      "end" : 1858533
+    },
+    {
+      "titel" : "Das Tal des Todes",
+      "start" : 1858533,
+      "end" : 2161400
+    },
+    {
+      "titel" : "Schmutzige Geschäfte",
+      "start" : 2161400,
+      "end" : 2521600
+    },
+    {
+      "titel" : "Das Ende für den Dämon",
+      "start" : 2521600,
+      "end" : 2878867
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Herr Andrews",
+      "Günter König"
+    ],
+    [
+      "Daniel",
+      "Gosta Liptow"
+    ],
+    [
+      "Mary",
+      "Anja Ziemer"
+    ],
+    [
+      "Häuptling Turner",
+      "Norbert Lange"
+    ],
+    [
+      "Schamane",
+      "Douglas Welbat"
+    ],
+    [
+      "Unternehmer Mancarrow",
+      "Holger Mahlich"
+    ],
+    [
+      "Ganove Biff",
+      "Lutz Harder"
+    ],
+    [
+      "Ganove George",
+      "Manfred Liptow"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/048/metadata.json"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "nummer" : 74,
+  "titel" : "und das brennende Schwert",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Onkel Titus hat allen Grund zur Freude: Er wird zu einer Testamentsvollstreckung eingeladen! Doch statt der erhofften Millionen erbt er einen wertlosen roten Kristall, den er an einen gewissen Beany weitergeben soll. Wer aber ist dieser Beany? Die drei ??? nehmen die Ermittlung auf. Ein anonymer Anrufer bringt sie auf die Spur eines gefährlichen Geheimbundes. Und plötzlich geraten Justus, Peter und Bob in einen atemberaubenden Strudel aus Besessenheit, Wahnsinn und Aberglaube.",
+  "veröffentlichungsdatum" : "1997-02-10",
+  "kapitel" : [
+    {
+      "titel" : "Eine geheimnisvolle Erbschaft",
+      "start" : 0,
+      "end" : 581480
+    },
+    {
+      "titel" : "Gestohlene Informationen",
+      "start" : 581480,
+      "end" : 978013
+    },
+    {
+      "titel" : "Ein alter Trick",
+      "start" : 978013,
+      "end" : 1335027
+    },
+    {
+      "titel" : "Der undurchsichtige Mr. Whitehead",
+      "start" : 1335027,
+      "end" : 1989333
+    },
+    {
+      "titel" : "In der Höhle des Löwen",
+      "start" : 1989333,
+      "end" : 2450600
+    },
+    {
+      "titel" : "Das brennende Schwert",
+      "start" : 2450600,
+      "end" : 3003387
+    },
+    {
+      "titel" : "Wenn Tag und Nacht sich vereinen",
+      "start" : 3003387,
+      "end" : 3823227
+    },
+    {
+      "titel" : "Logische Schlussfolgerungen",
+      "start" : 3823227,
+      "end" : 4442107
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Onkel Titus Jonas",
+      "Hans Meinhardt"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Mr. Whitehead",
+      "Uwe Friedrichsen"
+    ],
+    [
+      "Steven Robinshaw, Anwalt",
+      "Helmo Liebig"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Mary",
+      "Victoria Voncampe"
+    ],
+    [
+      "Stan",
+      "Georg Tryphon"
+    ],
+    [
+      "Jeffrey",
+      "Michael Quiatkowsky"
+    ],
+    [
+      "John",
+      "Andreas Martens"
+    ],
+    [
+      "Dr. Wright",
+      "Dietmar Mues"
+    ],
+    [
+      "Carrie Hanson",
+      "Helga Osten-Sacken"
+    ],
+    [
+      "Tim Conrad",
+      "Moritz Gentsch"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/074/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/074/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/074/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/074/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music60/v4/a0/7a/6d/a07a6dd6-05d2-a66c-f4bd-63da13b03321/886445749595.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/42/ce/d1/0743214284827.jpg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "teilNummer" : 1,
+  "kapitel" : [
+    {
+      "titel" : "Doppelter Diebstahl",
+      "start" : 0,
+      "end" : 326533
+    },
+    {
+      "titel" : "Mystik und Mythos",
+      "start" : 326533,
+      "end" : 1045907
+    },
+    {
+      "titel" : "Der Indianer",
+      "start" : 1045907,
+      "end" : 1500400
+    },
+    {
+      "titel" : "Die Zauberzwillinge",
+      "start" : 1500400,
+      "end" : 1989427
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/1/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/1/rip_log.txt"
+  }
+}

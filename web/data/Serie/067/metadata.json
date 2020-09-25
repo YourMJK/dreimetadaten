@@ -1,0 +1,112 @@
+{
+  "nummer" : 67,
+  "titel" : "und das Geheimnis der Särge",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Haarsträubende Dinge erzählt man sich von den berühmten Höhlenlabyrinthen auf der schwäbischen Alb, aber natürlich ist davon nur die Hälfte wahr. Doch Justus, Peter und Bob, die drei Junior-Detektive aus Rocky Beach, beginnen an Spukgeschichten zu glauben, als sie in der Geisterhöhle urplötzlich eine grausige Entdeckung machen …",
+  "veröffentlichungsdatum" : "1996-04-01",
+  "kapitel" : [
+    {
+      "titel" : "Tödliche Gefahr",
+      "start" : 0,
+      "end" : 475547
+    },
+    {
+      "titel" : "Eine rätselhafte Tür",
+      "start" : 475547,
+      "end" : 876093
+    },
+    {
+      "titel" : "Rätsel auf dem Höhlengrund",
+      "start" : 876093,
+      "end" : 1332093
+    },
+    {
+      "titel" : "In der Hand der Räuber",
+      "start" : 1332093,
+      "end" : 1813307
+    },
+    {
+      "titel" : "Wie vom Erdboden verschluckt",
+      "start" : 1813307,
+      "end" : 2404093
+    },
+    {
+      "titel" : "Erpressung inklusive",
+      "start" : 2404093,
+      "end" : 2900173
+    },
+    {
+      "titel" : "Bruder Benedikt beichtet",
+      "start" : 2900173,
+      "end" : 3310747
+    },
+    {
+      "titel" : "Wiener Unterwelt",
+      "start" : 3310747,
+      "end" : 3799320
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Babette Eberle",
+      "M. Rospat"
+    ],
+    [
+      "Bruder Benedikt",
+      "Tassilo Jelde"
+    ],
+    [
+      "Mylná",
+      "Utz Richter"
+    ],
+    [
+      "Alexandra",
+      "Reinhilt Schneider"
+    ],
+    [
+      "Wirt",
+      "Hans Paetsch"
+    ],
+    [
+      "Wirtin",
+      "Ingeborg Ottmann"
+    ],
+    [
+      "Max",
+      "Lutz Schnell"
+    ],
+    [
+      "1. Polizist",
+      "Boris Sychowsky"
+    ],
+    [
+      "2. Polizist",
+      "Frank Meyer-Brockmann"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/067/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/067/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/067/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/067/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music30/v4/27/93/eb/2793eb72-0395-2490-35a9-b6310dce7dc6/886445747522.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/94/fb/e4/0743213558325.jpg"
+  }
+}

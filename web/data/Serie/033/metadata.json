@@ -1,0 +1,111 @@
+{
+  "nummer" : 33,
+  "titel" : "und die bedrohte Ranch",
+  "autor" : "M. V. Carey",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Der Zufall vermittelt Justus, Bob und Peter die Bekanntschaft mit dem exzentrischen Ehepaar Barron, und unerwartet finden sie sich auf Rancho Valverde eingeschlossen, ohne Kontakt zur Umwelt! Geht der Kampf nun gegen außerirdische Wesen oder gegen kriminelle Betrüger und Diebe? Unsere drei klugen Detektive werden die Wahrheit herausfinden – wetten?",
+  "veröffentlichungsdatum" : "1983-10-21",
+  "kapitel" : [
+    {
+      "titel" : "Ein reizbarer Herr",
+      "start" : 0,
+      "end" : 254627
+    },
+    {
+      "titel" : "Die Festung",
+      "start" : 254627,
+      "end" : 555320
+    },
+    {
+      "titel" : "Ausgang verboten",
+      "start" : 555320,
+      "end" : 850427
+    },
+    {
+      "titel" : "Invasion",
+      "start" : 850427,
+      "end" : 1309533
+    },
+    {
+      "titel" : "Ein unschuldiges Opfer",
+      "start" : 1309533,
+      "end" : 1562213
+    },
+    {
+      "titel" : "Es darf spioniert werden",
+      "start" : 1562213,
+      "end" : 1888827
+    },
+    {
+      "titel" : "Justus hat eine Erleuchtung",
+      "start" : 1888827,
+      "end" : 2224173
+    },
+    {
+      "titel" : "Geht die Welt unter?",
+      "start" : 2224173,
+      "end" : 2657067
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Patrick",
+      "Wolfgang Kubach"
+    ],
+    [
+      "Onkel Titus Jonas",
+      "Peter Kirchberger"
+    ],
+    [
+      "Mr. Barron",
+      "Pinkas Braun"
+    ],
+    [
+      "Mrs. Barron",
+      "Monika Peitsch"
+    ],
+    [
+      "Hank Detweiler",
+      "Siegfried Wald"
+    ],
+    [
+      "Elsie Spratt",
+      "Pia Werfel [Barbara Focke]"
+    ],
+    [
+      "Leutnant Ferrante",
+      "Volkert Kraeft"
+    ],
+    [
+      "Bones",
+      "Siegfried Meyerheim [Helmut Zierl]"
+    ],
+    [
+      "vermeintlicher US-Präsident",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Horst Frank"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/033/metadata.json"
+  }
+}

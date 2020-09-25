@@ -1,0 +1,128 @@
+{
+  "nummer" : 185,
+  "titel" : "und der Mann ohne Augen",
+  "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Dichte Flammen auf der Veranda eines einsamen Hauses am Rand von Rocky Beach! War es Brandstiftung? Als plötzlich ein Einbrecher durch eine ausgebrannte Wohnung schleicht, sind Justus, Peter und Bob sicher: Das war kein Unfall!",
+  "veröffentlichungsdatum" : "2017-01-20",
+  "kapitel" : [
+    {
+      "titel" : "Feuer!",
+      "start" : 0,
+      "end" : 326053
+    },
+    {
+      "titel" : "Auftrag",
+      "start" : 326053,
+      "end" : 523827
+    },
+    {
+      "titel" : "Unfall",
+      "start" : 523827,
+      "end" : 852653
+    },
+    {
+      "titel" : "Geständnis",
+      "start" : 852653,
+      "end" : 1638680
+    },
+    {
+      "titel" : "Entführungsopfer",
+      "start" : 1638680,
+      "end" : 2070400
+    },
+    {
+      "titel" : "Glasaugen",
+      "start" : 2070400,
+      "end" : 2374053
+    },
+    {
+      "titel" : "Kieselsteinchen 06",
+      "start" : 2374053,
+      "end" : 2700093
+    },
+    {
+      "titel" : "Puzzleteile",
+      "start" : 2700093,
+      "end" : 3168373
+    },
+    {
+      "titel" : "Im Lichte der Wahrheit",
+      "start" : 3168373,
+      "end" : 3685613
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Adam Quinn",
+      "Romanus Fuhrmann"
+    ],
+    [
+      "Mr. Carrington",
+      "Martin May"
+    ],
+    [
+      "Mrs. Carrington",
+      "Manuela Dahm-Mauerhofer"
+    ],
+    [
+      "Liza Hawkins",
+      "Lucia Angela Mahler"
+    ],
+    [
+      "Mr. Hawkins",
+      "Achim Schülke"
+    ],
+    [
+      "Mrs. Hawkins",
+      "Birte Kretschmer"
+    ],
+    [
+      "Leslie Logue-Smith",
+      "Uschi Hugo"
+    ],
+    [
+      "Schauspieler",
+      "Erik Schäffler"
+    ],
+    [
+      "Britney Rogers",
+      "Theresa Berlage"
+    ],
+    [
+      "Sanitäter",
+      "Oliver Böttcher"
+    ],
+    [
+      "Mr. Sisko",
+      "Daniel Welbat"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/185/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/185/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/185/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/185/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music111/v4/5c/ce/8e/5cce8e1c-538b-9685-6451-9349b4fac98a/886445362992.jpg/3000x0w.png"
+  }
+}

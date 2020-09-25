@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 3,
+  "kapitel" : [
+    {
+      "titel" : "17. Dezember",
+      "start" : 0,
+      "end" : 435120
+    },
+    {
+      "titel" : "18. Dezember",
+      "start" : 435120,
+      "end" : 682693
+    },
+    {
+      "titel" : "19. Dezember",
+      "start" : 682693,
+      "end" : 1369906
+    },
+    {
+      "titel" : "20. Dezember",
+      "start" : 1369906,
+      "end" : 1597800
+    },
+    {
+      "titel" : "21. Dezember",
+      "start" : 1597800,
+      "end" : 1897186
+    },
+    {
+      "titel" : "22. Dezember",
+      "start" : 1897186,
+      "end" : 2452800
+    },
+    {
+      "titel" : "23. Dezember",
+      "start" : 2452800,
+      "end" : 3054146
+    },
+    {
+      "titel" : "24. Dezember",
+      "start" : 3054146,
+      "end" : 4068240
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/3/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/3/rip_log.txt"
+  }
+}

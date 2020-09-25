@@ -1,0 +1,135 @@
+{
+  "nummer" : 198,
+  "titel" : "Die Legende der Gaukler",
+  "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein kleiner Zirkus hält Einzug in die Stadt und mit ihm die schaurige Legende der zwei Lebenden und der drei Toten. Doch die Gaukler schweigen eisern über die seltsamen Phänomene, die die drei ??? in den Bann ziehen – denn wer über die Legende spricht, den überkommt schreckliches Unheil. Keine guten Voraussetzungen für Justus, Peter und Bob, die sich außerdem fragen müssen, was es mit ihrem mysteriösen Auftraggeber auf sich hat. Können sie das Geheimnis der Gaukler lüften?",
+  "veröffentlichungsdatum" : "2019-03-08",
+  "kapitel" : [
+    {
+      "titel" : "\"Helft mir zu gewinnen!\"",
+      "start" : 0,
+      "end" : 564493
+    },
+    {
+      "titel" : "Von Zwergen und Dieben",
+      "start" : 564493,
+      "end" : 998360
+    },
+    {
+      "titel" : "Drei Tote",
+      "start" : 998360,
+      "end" : 1735493
+    },
+    {
+      "titel" : "Zwei Lebende",
+      "start" : 1735493,
+      "end" : 1973867
+    },
+    {
+      "titel" : "Unheil",
+      "start" : 1973867,
+      "end" : 2400587
+    },
+    {
+      "titel" : "Unrat",
+      "start" : 2400587,
+      "end" : 3185547
+    },
+    {
+      "titel" : "Ahnenforschung",
+      "start" : 3185547,
+      "end" : 3560507
+    },
+    {
+      "titel" : "Fallensteller",
+      "start" : 3560507,
+      "end" : 4166400
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Elliot Littlehorn",
+      "Santiago Ziesmer"
+    ],
+    [
+      "Tobin Muller",
+      "Niko Minninger"
+    ],
+    [
+      "Amalia",
+      "Malin Steffen"
+    ],
+    [
+      "Zauberer Miller",
+      "Julian Horeyseck"
+    ],
+    [
+      "Kelvin Mitchell",
+      "Kai Mertens"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Leigh",
+      "Vivian Brünner"
+    ],
+    [
+      "Mutter",
+      "Tina Eschmann"
+    ],
+    [
+      "Zoey",
+      "Manuela Eifrig"
+    ],
+    [
+      "Mabel",
+      "Nicola Schäffler"
+    ],
+    [
+      "Glatzkopf",
+      "Achim Schülke"
+    ],
+    [
+      "Dustin Cooper",
+      "Claus Fuchs"
+    ],
+    [
+      "Wahrsagerin Susannah",
+      "Mia Diekow"
+    ],
+    [
+      "Dr. Benchfield",
+      "Harald Dietl"
+    ],
+    [
+      "Emily",
+      "Birte Kretschmer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/198/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/198/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/198/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/198/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/e9/b8/14/e9b8146e-b77c-c1f3-74da-bed5b6b190d2/886447191538.jpg/3000x0w.png"
+  }
+}

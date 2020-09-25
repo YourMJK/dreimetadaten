@@ -1,0 +1,102 @@
+{
+  "nummer" : 94,
+  "titel" : "Das schwarze Monster",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Zirkus Trinket kommt mit einer unglaublichen Attraktion nach Rocky Beach: In der Manege tritt ein mörderisches Monster aus den Wäldern Alaskas auf. Doch dann entsteigt die Kreatur dem Käfig und verbreitet Angst und Schrecken. Die drei ??? nehmen die Spur des rätselhaften Wesens auf, denn natürlich glauben sie nicht an ein echtes Monster. Doch plötzlich steht es vor ihnen …",
+  "veröffentlichungsdatum" : "2000-11-27",
+  "kapitel" : [
+    {
+      "titel" : "Im Reich der wilden Tiere",
+      "start" : 0,
+      "end" : 686640
+    },
+    {
+      "titel" : "Dunnerak",
+      "start" : 686640,
+      "end" : 1268320
+    },
+    {
+      "titel" : "Ein Schrei in der Nacht",
+      "start" : 1268320,
+      "end" : 1809000
+    },
+    {
+      "titel" : "Der leere Käfig",
+      "start" : 1809000,
+      "end" : 2496360
+    },
+    {
+      "titel" : "Das Geheimnis des Monsters",
+      "start" : 2496360,
+      "end" : 2727400
+    },
+    {
+      "titel" : "Affentheater",
+      "start" : 2727400,
+      "end" : 3262720
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Alois Copper",
+      "Werner Cartano"
+    ],
+    [
+      "Mr. Carter",
+      "Marius Berthold"
+    ],
+    [
+      "Miss Lilly",
+      "Jocelyn Boisseaux-Endemann"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Frau des Bürgermeisters",
+      "Wanda Osten"
+    ],
+    [
+      "Reporter",
+      "Jacky Nonnon"
+    ],
+    [
+      "Stewart",
+      "Till Madaus"
+    ],
+    [
+      "Pico, Clown",
+      "Hubertus Borck"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/094/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/094/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/094/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/094/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music18/v4/f3/ef/5c/f3ef5c99-ef52-d536-62c3-50d46b128448/886445750393.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c3/99/3a/0743217877521.jpg"
+  }
+}

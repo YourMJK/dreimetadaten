@@ -1,0 +1,116 @@
+{
+  "nummer" : 70,
+  "titel" : "Schüsse aus dem Dunkel",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Mit einer flotten Bühnenshow präsentiert die erfolgreiche Modedesignerin Sally Samson ihre neue Kollektion. Bei der Westernmode passiert es: Ein Model bricht, von einem Schuss getroffen, zusammen. Ein kaltblütiger Anschlag? Wem war die junge Frau im Weg? Oder war es ein Ablenkungsmanöver? Gibt es eine Verbindung zwischen dem Schuss und den geraubten Entwürfen aus Sally Samsons Tresor? Für Justus, Peter und Bob, die drei erfolgreichen Detektive aus Rocky Beach, gibt es nur eine Möglichkeit, dem Täter auf die Spur zu kommen: Sie müssen sich als Model bewerben.",
+  "veröffentlichungsdatum" : "1996-08-05",
+  "kapitel" : [
+    {
+      "titel" : "Der Schuss!",
+      "start" : 0,
+      "end" : 729720
+    },
+    {
+      "titel" : "Sally Samson tobt",
+      "start" : 729720,
+      "end" : 1131773
+    },
+    {
+      "titel" : "Intrigen überall",
+      "start" : 1131773,
+      "end" : 1659947
+    },
+    {
+      "titel" : "Keine neue Spur",
+      "start" : 1659947,
+      "end" : 1978547
+    },
+    {
+      "titel" : "Justus Jonas jobt",
+      "start" : 1978547,
+      "end" : 2615013
+    },
+    {
+      "titel" : "Falsches Spiel",
+      "start" : 2615013,
+      "end" : 2926573
+    },
+    {
+      "titel" : "Eine böse Überraschung",
+      "start" : 2926573,
+      "end" : 3295413
+    },
+    {
+      "titel" : "Kurssturz",
+      "start" : 3295413,
+      "end" : 3784293
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Alan",
+      "Oliver Reinhardt"
+    ],
+    [
+      "Sally Samson",
+      "Cornelia Meinhardt"
+    ],
+    [
+      "Sofie Samson",
+      "Samira Chanfir"
+    ],
+    [
+      "Dr. Harris",
+      "Hansi Jochmann"
+    ],
+    [
+      "John Davis",
+      "Tim Wieck"
+    ],
+    [
+      "Homer Washington",
+      "Hans Sievers"
+    ],
+    [
+      "Fahrer",
+      "Klaus-Peter Kaehler"
+    ],
+    [
+      "Brenda",
+      "Micaela Kreißler"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Junge",
+      "Jona Mues"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/070/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/070/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/070/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/070/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music20/v4/2e/9e/3d/2e9e3d98-6f1b-3d30-b151-8af1bb1a21b3/886445749472.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d5/21/d3/0743213849423.jpg"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "nummer" : 41,
+  "titel" : "und das Volk der Winde",
+  "autor" : "Rose Estes",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Der Wissenschaftler Arnold Brewster ruft die drei Detektive zu Hilfe, denn durch eine Intrige ist er in ein Altersheim abgeschoben worden. Justus, Bob und Peter versuchen, ihm zu helfen. Sie kommen dabei einem geheimnisvollen Geschehen auf die Spur, bei dem es um Indianer, Gold und einen rätselhaften Tanzenden Saurier geht. Tödliche Gefahren lauern auf die drei ??? …",
+  "veröffentlichungsdatum" : "1987-09-17",
+  "kapitel" : [
+    {
+      "titel" : "Ein Hilferuf",
+      "start" : 0,
+      "end" : 396627
+    },
+    {
+      "titel" : "Der Neffe und sein Anwalt",
+      "start" : 396627,
+      "end" : 867053
+    },
+    {
+      "titel" : "Gesucht: Ein verschollener Indianerstamm",
+      "start" : 867053,
+      "end" : 1296680
+    },
+    {
+      "titel" : "Peter findet den \"Tanzenden Saurier\"",
+      "start" : 1296680,
+      "end" : 1617853
+    },
+    {
+      "titel" : "Auf nach Comina!",
+      "start" : 1617853,
+      "end" : 1959653
+    },
+    {
+      "titel" : "Entdeckungen in der Höhle",
+      "start" : 1959653,
+      "end" : 2402427
+    },
+    {
+      "titel" : "Pamir, der Stammeshäuptling",
+      "start" : 2402427,
+      "end" : 2846920
+    },
+    {
+      "titel" : "Kommt das Erdbeben?",
+      "start" : 2846920,
+      "end" : 3214520
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Brewster",
+      "Horst Naumann"
+    ],
+    [
+      "Clifford",
+      "Douglas Welbat"
+    ],
+    [
+      "Marie",
+      "Svenja Pages"
+    ],
+    [
+      "Zindler",
+      "Karl Walter Diess"
+    ],
+    [
+      "Pamir",
+      "Manfred Steffen"
+    ],
+    [
+      "Martin",
+      "Frank-Dieter Tausch"
+    ],
+    [
+      "Botin",
+      "Beate Hasenau"
+    ],
+    [
+      "Kellner",
+      "Helmut Ahner"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/041/metadata.json"
+  }
+}

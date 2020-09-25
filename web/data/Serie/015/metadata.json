@@ -1,0 +1,115 @@
+{
+  "nummer" : 15,
+  "titel" : "und der rasende Löwe",
+  "autor" : "Nick West",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Zur Zeit langweilen sich Justus, Bob und Peter ziemlich. Doch im richtigen Moment verhilft ihnen Alfred Hitchcock zu einem interessanten Fall: Der sonst so sanfte Löwe George – Attraktion in Jim Halls Dschungelland, einem Tierpark für Touristen – ist in letzter Zeit so unruhig. Besonders nachts … Und nicht nur George, sondern auch ein Gorilla und sogar ein schwarzer Panther streifen hier plötzlich frei herum. Da kann einem schon etwas mulmig werden. Wer könnte Interesse daran haben, wilde Tiere aus ihren Käfigen zu lassen? Und warum sind Eisenstäbe aus der Trödelhandlung von Justus' Onkel auf einmal so gefragt? Was haben Diamanten mit der ganzen Geschichte zu tun? Außerdem müssen Justus, Bob und Peter noch so seltsame Typen wie Hank Murphy, Dobbsie und Olsen auf die Schliche kommen, und dabei geraten sie prompt in Lebensgefahr. Denn mit wilden Tieren und Diamantenschmugglern ist nicht zu spaßen …",
+  "veröffentlichungsdatum" : "1980-04-02",
+  "kapitel" : [
+    {
+      "titel" : "Ein Fall im Löwenrevier",
+      "start" : 0,
+      "end" : 309587
+    },
+    {
+      "titel" : "Mit knapper Not entkommen",
+      "start" : 309587,
+      "end" : 611520
+    },
+    {
+      "titel" : "Immer Ärger mit George",
+      "start" : 611520,
+      "end" : 867800
+    },
+    {
+      "titel" : "Ein sturer Kunde mit Sonderwünschen",
+      "start" : 867800,
+      "end" : 1184587
+    },
+    {
+      "titel" : "Wirbel um einen Gorilla",
+      "start" : 1184587,
+      "end" : 1519467
+    },
+    {
+      "titel" : "Die verschlüsselte Botschaft",
+      "start" : 1519467,
+      "end" : 1746987
+    },
+    {
+      "titel" : "Eisenstäbe",
+      "start" : 1746987,
+      "end" : 2028987
+    },
+    {
+      "titel" : "Des Rätsels Lösung",
+      "start" : 2028987,
+      "end" : 2385253
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus Jonas",
+      "Hans Meinhardt"
+    ],
+    [
+      "Miss Larson",
+      "Reinhilt Schneider"
+    ],
+    [
+      "Jim Hall",
+      "Horst Stark"
+    ],
+    [
+      "Mike Hall",
+      "Mathias Lorenz"
+    ],
+    [
+      "Eastland",
+      "Karl Walter Diess"
+    ],
+    [
+      "Olsen",
+      "Karl-Ulrich Meves"
+    ],
+    [
+      "Hank Murphy",
+      "Harald Pages"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Doc Dawson",
+      "Wolfgang Jürgen"
+    ],
+    [
+      "Dobbsie",
+      "Joachim Wolff"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/015/metadata.json"
+  }
+}

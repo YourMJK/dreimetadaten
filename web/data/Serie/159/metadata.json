@@ -1,0 +1,122 @@
+{
+  "nummer" : 159,
+  "titel" : "Nacht der Tiger",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Wer ist der unbekannte Auftraggeber im neuen Fall der drei erfolgreichen Detektive aus Rocky Beach? Wie von Geisterhand erscheinen verschlüsselte Botschaften auf dem Computerbildschirm in der Zentrale. Justus' Ehrgeiz ist geweckt und die drei ??? beginnen zu ermitteln. Sie lösen die komplizierten Rätsel des Unbekannten und folgen seiner Spur. Dabei werden die drei Jungen immer tiefer in dubiose Machenschaften verstrickt. Als sich herausstellt, dass ein guter Freund von ihnen als Täter infrage kommt, stehen Justus, Peter und Bob vor einer schwierigen Entscheidung: Sollen sie ihren Freund ausliefern oder der Polizei die Wahrheit verschweigen? Justus fasst einen Plan – und die drei ??? entdecken das Unvorstellbare in der 'Nacht der Tiger' …",
+  "veröffentlichungsdatum" : "2013-01-11",
+  "kapitel" : [
+    {
+      "titel" : "Bauchangelegenheiten",
+      "start" : 0,
+      "end" : 277333
+    },
+    {
+      "titel" : "Spurensuche",
+      "start" : 277333,
+      "end" : 1083240
+    },
+    {
+      "titel" : "Nacht der Tiger",
+      "start" : 1083240,
+      "end" : 1490240
+    },
+    {
+      "titel" : "Unter Druck",
+      "start" : 1490240,
+      "end" : 1692067
+    },
+    {
+      "titel" : "Schwarze Stiere",
+      "start" : 1692067,
+      "end" : 1998333
+    },
+    {
+      "titel" : "Clever",
+      "start" : 1998333,
+      "end" : 2306307
+    },
+    {
+      "titel" : "In Teufels Küche – und Schrank",
+      "start" : 2306307,
+      "end" : 2583480
+    },
+    {
+      "titel" : "Mut zur Wahrheit",
+      "start" : 2583480,
+      "end" : 2852187
+    },
+    {
+      "titel" : "Schlagende Ziegen",
+      "start" : 2852187,
+      "end" : 3130987
+    },
+    {
+      "titel" : "Erstens kommt es anders …",
+      "start" : 3130987,
+      "end" : 3567227
+    },
+    {
+      "titel" : "… und zweitens als man denkt!",
+      "start" : 3567227,
+      "end" : 3931427
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Caroline Cotta",
+      "Michaela Mahlich"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Sergeant Donatelli",
+      "Peter Weis"
+    ],
+    [
+      "1. Mann",
+      "Robin Brosch"
+    ],
+    [
+      "2. Mann",
+      "Gerhart Hinze"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/159/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/159/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/159/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/159/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b2/72/5c/b2725c83-3cd4-048c-41ba-a96ab1f98f6e/886445756715.jpg/3000x0w.png"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "teilNummer" : 3,
+  "buchstabe" : "C",
+  "titel" : "Die dunkle Macht",
+  "autor" : "Hendrik Buchna",
+  "beschreibung" : "Die drei Detektive machen ein paar spektakuläre Entdeckungen. Doch der Teumessische Fuchs scheint ihnen stets einen Schritt voraus zu sein. Noch immer wissen sie nicht, wer sich hinter dem rätselhaften Wesen verbirgt. Und je näher die drei ??? ihm kommen, desto gefährlicher wird es für sie. Als Justus, Peter und Bob endlich auf ihren Widersacher treffen, zeigt der Fuchs sein wahres Gesicht …",
+  "kapitel" : [
+    {
+      "titel" : "Der Tag danach",
+      "start" : 0,
+      "end" : 286147
+    },
+    {
+      "titel" : "Eine neue Botschaft",
+      "start" : 286147,
+      "end" : 695000
+    },
+    {
+      "titel" : "Das Monster im Labor",
+      "start" : 695000,
+      "end" : 1323747
+    },
+    {
+      "titel" : "Ein unfassbarer Vorwurf",
+      "start" : 1323747,
+      "end" : 1693787
+    },
+    {
+      "titel" : "Kehrtwende",
+      "start" : 1693787,
+      "end" : 2374427
+    },
+    {
+      "titel" : "Auf der Fährte des Fuchses",
+      "start" : 2374427,
+      "end" : 2756973
+    },
+    {
+      "titel" : "Schattenwelt",
+      "start" : 2756973,
+      "end" : 3552200
+    },
+    {
+      "titel" : "Der letzte Kampf des Lailaps",
+      "start" : 3552200,
+      "end" : 4166493
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Taylor-Jackson",
+      "Jona Mues"
+    ],
+    [
+      "Jason",
+      "Woody Mues"
+    ],
+    [
+      "Ivy",
+      "Leonie Lander"
+    ],
+    [
+      "Prof. Haynthorb",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Mrs. Fernandez",
+      "Anja Topf"
+    ],
+    [
+      "Samantha",
+      "Henrike Fehrs"
+    ],
+    [
+      "Francine Breckenridge",
+      "Elga Schütz"
+    ],
+    [
+      "Dr. Wilcomb",
+      "Heinz Lieven"
+    ],
+    [
+      "3. Polizist",
+      "Wolfgang Kaven"
+    ],
+    [
+      "Mr. Andrews",
+      "Henry König"
+    ],
+    [
+      "Menge",
+      "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/175/3/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/3/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/175/3/rip_log.txt"
+  }
+}

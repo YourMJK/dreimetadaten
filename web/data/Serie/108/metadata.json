@@ -1,0 +1,96 @@
+{
+  "nummer" : 108,
+  "titel" : "Die sieben Tore",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Wer ist der unheimliche Mr Carter, der in einem düsteren Schloss lebt und aussieht wie ein abgemagerter Vogel? Auch sein Auftrag für die drei ??? ist mehr als seltsam: \"Findet das Versteck bei den sieben Toren\". Was zunächst harmlos klingt, entpuppt sich als äußerst gefährliches Unterfangen. Justus, Peter und Bob müssen Räume betreten, deren Türen sie besser nicht geöffnet hätten, und entdecken dabei Unglaubliches …",
+  "veröffentlichungsdatum" : "2003-04-07",
+  "kapitel" : [
+    {
+      "titel" : "Die sieben Tore",
+      "start" : 0,
+      "end" : 539480
+    },
+    {
+      "titel" : "Ein seltsamer Zeitgenosse",
+      "start" : 539480,
+      "end" : 674560
+    },
+    {
+      "titel" : "Nächtliche Begegnung",
+      "start" : 674560,
+      "end" : 1356613
+    },
+    {
+      "titel" : "Der Brief",
+      "start" : 1356613,
+      "end" : 1731560
+    },
+    {
+      "titel" : "Rhetorische Meisterleistung",
+      "start" : 1731560,
+      "end" : 1882267
+    },
+    {
+      "titel" : "Labiler Zustand",
+      "start" : 1882267,
+      "end" : 2568960
+    },
+    {
+      "titel" : "Der heilige Skarabäus",
+      "start" : 2568960,
+      "end" : 3012053
+    },
+    {
+      "titel" : "Soo-Ann",
+      "start" : 3012053,
+      "end" : 3290867
+    },
+    {
+      "titel" : "Erinnerung",
+      "start" : 3290867,
+      "end" : 4004480
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Caspar Carter",
+      "Claus Wilcke"
+    ],
+    [
+      "Enid",
+      "Janina Richter"
+    ],
+    [
+      "Albert",
+      "Wolf Rathjen"
+    ],
+    [
+      "Montgomery",
+      "Hans Sievers"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/108/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/108/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/108/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/108/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music20/v4/4c/10/7c/4c107c2e-ef9a-cb26-a935-e1ef7936d9fd/886445752007.jpg/3000x0w.png"
+  }
+}

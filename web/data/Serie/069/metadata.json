@@ -1,0 +1,124 @@
+{
+  "nummer" : 69,
+  "titel" : "Späte Rache",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Wir haben Peter! Er muß für alles bezahlen! Ein anonymer Brief schreckt Justus und Bob auf. Eigene Nachforschungen nach dem Schicksal ihres Zweiten Detektivs bleiben ergebnislos, deshalb wenden sie sich hilfesuchend an die Polizei von Rocky Beach. Ihr Freund Inspektor Cotta schlägt vor, eine Polizeipsychologin hinzuzuziehen. Sie soll aus dem Bekennerschreiben Hinweise auf den Charakter des Täters herauslesen. Und tatsächlich kommt die Expertin zu einem überraschenden Schluss: Hinter der Entführung steckt ein lange zurückliegender Fall der drei Detektive. Justus und Bob durchforsten ihr umfangreiches Archiv. Denn die Zeit läuft …",
+  "veröffentlichungsdatum" : "1996-08-05",
+  "kapitel" : [
+    {
+      "titel" : "Die Angst im Nacken",
+      "start" : 0,
+      "end" : 415787
+    },
+    {
+      "titel" : "Ein Dummkopf hinterlässt Spuren",
+      "start" : 415787,
+      "end" : 985867
+    },
+    {
+      "titel" : "Die innere Stimme",
+      "start" : 985867,
+      "end" : 1620880
+    },
+    {
+      "titel" : "Ein Fall für Dr. Ferguson",
+      "start" : 1620880,
+      "end" : 2106587
+    },
+    {
+      "titel" : "Das Geheimnis der Glaskugel",
+      "start" : 2106587,
+      "end" : 2508280
+    },
+    {
+      "titel" : "Rendezvous mit den Entführern",
+      "start" : 2508280,
+      "end" : 3125667
+    },
+    {
+      "titel" : "Ein Plan gerät aus den Fugen",
+      "start" : 3125667,
+      "end" : 3484920
+    },
+    {
+      "titel" : "Erna Fiedlers Beichte",
+      "start" : 3484920,
+      "end" : 3942387
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Erna Fiedler",
+      "Ursula Gompf"
+    ],
+    [
+      "Dr. Ferguson",
+      "Antje Cornelius"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Kelly",
+      "Juliane Szalay"
+    ],
+    [
+      "John Brady",
+      "Dirk Anton"
+    ],
+    [
+      "Matt Brady",
+      "Volker Bogdan"
+    ],
+    [
+      "Mr. Andrews",
+      "Günter König"
+    ],
+    [
+      "Mr. Shaw",
+      "Eberhard Haar"
+    ],
+    [
+      "Mrs. Shaw",
+      "Heikedine Körting"
+    ],
+    [
+      "Godween",
+      "André Minninger"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/069/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/069/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/069/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/069/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music18/v4/ba/b2/b3/bab2b3af-5771-6c16-dbd3-2855d020b773/886445749458.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a0/7b/77/0743213558523.jpg"
+  }
+}

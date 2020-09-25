@@ -1,0 +1,171 @@
+{
+  "teilNummer" : 2,
+  "buchstabe" : "B",
+  "titel" : "Flammendes Wasser",
+  "beschreibung" : "Die Spur zu Rashuras Schatz führt die drei ??? hoch in die Berge, tief unter die Erde und hinaus auf die offene See. Aber mit jedem Hinweis wird alles nur noch geheimnisvoller – und gefährlicher! Ein Wettlauf mit der Zeit beginnt …",
+  "kapitel" : [
+    {
+      "titel" : "Fragezeichen",
+      "start" : 0,
+      "end" : 140907
+    },
+    {
+      "titel" : "In Rashuras Hölle",
+      "start" : 140907,
+      "end" : 518107
+    },
+    {
+      "titel" : "Rettung",
+      "start" : 518107,
+      "end" : 716720
+    },
+    {
+      "titel" : "Wo ist Bob?",
+      "start" : 716720,
+      "end" : 975200
+    },
+    {
+      "titel" : "Heimlicher Fan",
+      "start" : 975200,
+      "end" : 1200120
+    },
+    {
+      "titel" : "Ein Hauch von Gift",
+      "start" : 1200120,
+      "end" : 1542440
+    },
+    {
+      "titel" : "Der Stern von Kerala",
+      "start" : 1542440,
+      "end" : 1910600
+    },
+    {
+      "titel" : "Eine wichtige Spur",
+      "start" : 1910600,
+      "end" : 2003600
+    },
+    {
+      "titel" : "Ein verdächtiger Polizist",
+      "start" : 2003600,
+      "end" : 2269573
+    },
+    {
+      "titel" : "Strandcafé Rocky Beach",
+      "start" : 2269573,
+      "end" : 2545627
+    },
+    {
+      "titel" : "Leviathan",
+      "start" : 2545627,
+      "end" : 2975827
+    },
+    {
+      "titel" : "Selbstmord",
+      "start" : 2975827,
+      "end" : 3128573
+    },
+    {
+      "titel" : "Hände hoch!",
+      "start" : 3128573,
+      "end" : 3275920
+    },
+    {
+      "titel" : "Ausbruch",
+      "start" : 3275920,
+      "end" : 3736453
+    },
+    {
+      "titel" : "Poker-Einsatz",
+      "start" : 3736453,
+      "end" : 3911413
+    },
+    {
+      "titel" : "Untergang",
+      "start" : 3911413,
+      "end" : 4100240
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Taylor",
+      "Bernhard Hoecker"
+    ],
+    [
+      "Mr. Smith",
+      "Tim Grobe"
+    ],
+    [
+      "Curtis Fisher",
+      "Tobias Schmidt"
+    ],
+    [
+      "Amrita Chakyar",
+      "Angela Stresemann"
+    ],
+    [
+      "Inspektor Havilland",
+      "Oliver Kalkofe"
+    ],
+    [
+      "Ismael",
+      "Stephan Schad"
+    ],
+    [
+      "Angelica",
+      "Anna Thalbach"
+    ],
+    [
+      "Sergeant Madhu",
+      "Olli Dittrich"
+    ],
+    [
+      "Mr. Andrews",
+      "Henry König"
+    ],
+    [
+      "Mrs. Andrews",
+      "Konstanze Ullmer"
+    ],
+    [
+      "Frank Mason",
+      "Wolfgang Condrus"
+    ],
+    [
+      "Mr. Raffer",
+      "Harald Dietl"
+    ],
+    [
+      "Feuerwehrmann",
+      "Kai-Hendrik Möller"
+    ],
+    [
+      "Kapitän",
+      "Sky du Mont"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/150/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/2/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/150/2/rip_log.txt"
+  }
+}

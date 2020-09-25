@@ -1,0 +1,150 @@
+{
+  "nummer" : 156,
+  "titel" : "Im Netz des Drachen",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Dragoncourt, das Anwesen des exzentrischen Spiele-Programmierers Stephen Baron, steht zum Verkauf. Der Mann ist schwer erkrankt und hat sich nach Europa zurückgezogen. Doch der mit dem Verkauf der Immobilie beauftragte Makler ist verzweifelt, denn seltsame Dinge geschehen auf Dragoncourt. Ganz klar: hier müssen die drei erfolgreichen Detektive aus Rocky Beach ermitteln! Die Recherchen führen Justus, Bob und Peter in die fantastische Welt des Online-Games \"Im Land der Drachen\". Und schnell wird aus einem scheinbar harmlosen Spiel eine tödliche Gefahr: Alles deutet darauf hin, dass die virtuellen Figuren den Weg in die Wirklichkeit gefunden haben und hier ihr Unwesen treiben …",
+  "veröffentlichungsdatum" : "2012-08-24",
+  "kapitel" : [
+    {
+      "titel" : "Das Monster im Wald",
+      "start" : 0,
+      "end" : 282240
+    },
+    {
+      "titel" : "Schwierige Jungs",
+      "start" : 282240,
+      "end" : 457387
+    },
+    {
+      "titel" : "Der schwarze Ritter",
+      "start" : 457387,
+      "end" : 870160
+    },
+    {
+      "titel" : "Dragoncourt",
+      "start" : 870160,
+      "end" : 1056360
+    },
+    {
+      "titel" : "In der Falle",
+      "start" : 1056360,
+      "end" : 1171547
+    },
+    {
+      "titel" : "Im Land des Drachen",
+      "start" : 1171547,
+      "end" : 1676560
+    },
+    {
+      "titel" : "Zwei Welten",
+      "start" : 1676560,
+      "end" : 2117187
+    },
+    {
+      "titel" : "Ein alter Freund der Familie",
+      "start" : 2117187,
+      "end" : 2256827
+    },
+    {
+      "titel" : "Gimli und Guinevere",
+      "start" : 2256827,
+      "end" : 2832133
+    },
+    {
+      "titel" : "Ganoven",
+      "start" : 2832133,
+      "end" : 3130013
+    },
+    {
+      "titel" : "Am Abgrund",
+      "start" : 3130013,
+      "end" : 3485293
+    },
+    {
+      "titel" : "Die Höhle des Drachen",
+      "start" : 3485293,
+      "end" : 3683947
+    },
+    {
+      "titel" : "Guinevere",
+      "start" : 3683947,
+      "end" : 3854200
+    },
+    {
+      "titel" : "???",
+      "start" : 3854200,
+      "end" : 4168787
+    },
+    {
+      "titel" : "Die letzte Antwort",
+      "start" : 4168787,
+      "end" : 4331240
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Ryan Holbrooke",
+      "Manfred Reddemann"
+    ],
+    [
+      "Sheriff Pickett",
+      "Gerhart Hinze"
+    ],
+    [
+      "Stephen Baron",
+      "Patrick Elias"
+    ],
+    [
+      "Zyklon",
+      "Wolfgang Berger"
+    ],
+    [
+      "Al Dahab",
+      "Neil Malik"
+    ],
+    [
+      "Frau",
+      "Regine Lamster"
+    ],
+    [
+      "Matthew",
+      "Mike Olsowski"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Zabriski",
+      "Volker Bogdan"
+    ],
+    [
+      "Fred",
+      "Oliver Mink"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/156/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/156/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/156/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/156/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/a2/a8/5f/a2a85f72-681f-d41f-c746-15e97b2e0df3/886445756548.jpg/3000x0w.png"
+  }
+}

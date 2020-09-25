@@ -1,0 +1,123 @@
+{
+  "nummer" : 179,
+  "titel" : "Die Rache des Untoten",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Bob soll ein Vermögen erben! Nur hat er von seinem Wohltäter noch nie etwas gehört. Schnell stellt sich heraus, dass auch andere Menschen ein ähnliches Schreiben erhalten haben. Die drei ??? brechen gemeinsam mit ihnen zu einer Reise auf. Ihr Ziel: Eine verlassene Hütte im „Tal der Klapperschlangen“. Plötzlich verschwindet eine junge Frau und es wird klar: Jemand hat es auf die Reisegruppe abgesehen …",
+  "veröffentlichungsdatum" : "2016-01-15",
+  "kapitel" : [
+    {
+      "titel" : "Die Wege des Schicksals",
+      "start" : 0,
+      "end" : 584507
+    },
+    {
+      "titel" : "Reise ins Ungewisse",
+      "start" : 584507,
+      "end" : 963227
+    },
+    {
+      "titel" : "Das Tal der Klapperschlangen",
+      "start" : 963227,
+      "end" : 1622947
+    },
+    {
+      "titel" : "Nacht des Grauens",
+      "start" : 1622947,
+      "end" : 1993547
+    },
+    {
+      "titel" : "In der Gewalt des Geistes",
+      "start" : 1993547,
+      "end" : 2606293
+    },
+    {
+      "titel" : "Ein grauenhafter Fund",
+      "start" : 2606293,
+      "end" : 2815507
+    },
+    {
+      "titel" : "Straßensperre",
+      "start" : 2815507,
+      "end" : 3608627
+    },
+    {
+      "titel" : "Shakehands",
+      "start" : 3608627,
+      "end" : 4297960
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Evander Whiteside",
+      "Claus Wilcke"
+    ],
+    [
+      "Wendy Brown",
+      "Catrin Owerfeldt"
+    ],
+    [
+      "Christopher Barclay",
+      "Martin Paas"
+    ],
+    [
+      "Edgar Bristol",
+      "Sascha Gutzeit"
+    ],
+    [
+      "Carter Godfrey",
+      "Nicolas König"
+    ],
+    [
+      "Chuck Foster",
+      "Heiko Wohlgemuth"
+    ],
+    [
+      "Busfahrer Sam",
+      "Achim Schülke"
+    ],
+    [
+      "Officer Ossietzky",
+      "Romanus Fuhrmann"
+    ],
+    [
+      "Matt",
+      "Mike Olsowski"
+    ],
+    [
+      "Stephen",
+      "Alexander Kruuse-Mettin"
+    ],
+    [
+      "Billy",
+      "Tom Pidde"
+    ],
+    [
+      "Polizist Jerry",
+      "Stefan Weißenburger"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/179/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/179/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/179/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/179/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/89/66/6b/89666ba1-b797-8181-f035-a97cbb458302/886445760149.jpg/3000x0w.png"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "nummer" : 187,
+  "titel" : "und das silberne Amulett",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Eine rätselhafte Botschaft fliegt über den Zaun des Schrottplatzes: eine Dose, darin ein Schlüssel, ein Parkschein und ein silbernes Amulett. Was hat es damit auf sich? Und vor allem: Wer hat den drei ??? die Dose zugespielt? Justus, Peter und Bob müssen Antworten auf viele Fragen finden – und das schnell …",
+  "veröffentlichungsdatum" : "2017-05-19",
+  "kapitel" : [
+    {
+      "titel" : "Alles außer Bonbons",
+      "start" : 0,
+      "end" : 335693
+    },
+    {
+      "titel" : "Tante Mathilda tobt",
+      "start" : 335693,
+      "end" : 581040
+    },
+    {
+      "titel" : "Verschossen",
+      "start" : 581040,
+      "end" : 842693
+    },
+    {
+      "titel" : "Kein Passwort",
+      "start" : 842693,
+      "end" : 1456560
+    },
+    {
+      "titel" : "Indianerschmuck",
+      "start" : 1456560,
+      "end" : 2048080
+    },
+    {
+      "titel" : "Das Geheimnis der Santa Catalina",
+      "start" : 2048080,
+      "end" : 2711080
+    },
+    {
+      "titel" : "Yoga",
+      "start" : 2711080,
+      "end" : 2972293
+    },
+    {
+      "titel" : "Dämonen in der Nacht",
+      "start" : 2972293,
+      "end" : 3581267
+    },
+    {
+      "titel" : "Pures Gold",
+      "start" : 3581267,
+      "end" : 4036133
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Kramer",
+      "Volker Bogdan"
+    ],
+    [
+      "Emma Bailey",
+      "Hansi Jochmann"
+    ],
+    [
+      "Hank",
+      "Ben Hecker"
+    ],
+    [
+      "Lewis Geriwell",
+      "Frank Gustavus"
+    ],
+    [
+      "Henry Appleton",
+      "Peter Heeckt"
+    ],
+    [
+      "Amber",
+      "Sarah Madeleine Tusk"
+    ],
+    [
+      "Laura",
+      "Maud Ackermann"
+    ],
+    [
+      "Gerald",
+      "Michael von Rospatt"
+    ],
+    [
+      "Nat",
+      "Tobias Schmidt"
+    ],
+    [
+      "Collins",
+      "Gosta Liptow"
+    ],
+    [
+      "Nader Rope",
+      "Michael Bideller"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/187/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/187/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/187/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/187/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music111/v4/fb/db/5c/fbdb5c83-01de-00fc-ac65-5b857f550f8e/886445992465.jpg/3000x0w.png"
+  }
+}

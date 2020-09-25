@@ -1,0 +1,107 @@
+{
+  "nummer" : 101,
+  "titel" : "und das Hexen-Handy",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Der neuste Hit unter Teenagern in Rocky Beach: \"Hexen-Handys\"! Sie leuchten im Dunkeln giftgrün und statt zu klingeln, kichern sie gruselig. Doch dann legt sich ein düsterer Schatten auf das Küstenstädchen. Einige der stolzen Besitzer dieser Handys verschwinden auf unheimliche Weise. Zurück am Tatort bleiben nur die leuchtenden Mobiltelefone, auf deren Display die Teufelszahl 666 erscheint. Die drei Detektive Justus, Peter und Bob nehmen per Handy die Spur auf, ohne zu wissen, was sie am anderen Ende der Leitung erwartet …",
+  "veröffentlichungsdatum" : "2001-12-03",
+  "kapitel" : [
+    {
+      "titel" : "Stromstoß",
+      "start" : 0,
+      "end" : 582613
+    },
+    {
+      "titel" : "Der allerneueste Schrei",
+      "start" : 582613,
+      "end" : 863400
+    },
+    {
+      "titel" : "Teuflische SMS",
+      "start" : 863400,
+      "end" : 1400093
+    },
+    {
+      "titel" : "Blutige Finger",
+      "start" : 1400093,
+      "end" : 1887093
+    },
+    {
+      "titel" : "Abgrundtiefe Stimme",
+      "start" : 1887093,
+      "end" : 2394867
+    },
+    {
+      "titel" : "Verfluchtes Handy",
+      "start" : 2394867,
+      "end" : 2895893
+    },
+    {
+      "titel" : "Monique Carrera",
+      "start" : 2895893,
+      "end" : 3446040
+    },
+    {
+      "titel" : "Hokus Pokus",
+      "start" : 3446040,
+      "end" : 4313453
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Giorgio Cade",
+      "Bastian Pastewka"
+    ],
+    [
+      "Monique Carrera",
+      "Amanda Lear"
+    ],
+    [
+      "Mrs. Jones",
+      "Marianne Kehlau"
+    ],
+    [
+      "Jenny Collins",
+      "Anja Topf"
+    ],
+    [
+      "Jeremy Scott",
+      "Woody Mues"
+    ],
+    [
+      "Mrs. Scott",
+      "Hansi Jochmann"
+    ],
+    [
+      "Oma Scott",
+      "Apollonia Minniger"
+    ],
+    [
+      "Acer",
+      "Thomas Schüler"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/101/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/101/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/101/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/101/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music18/v4/63/9d/94/639d94fa-bad4-eb49-23a1-401f2eb82b5e/886445750546.jpg/3000x0w.png"
+  }
+}

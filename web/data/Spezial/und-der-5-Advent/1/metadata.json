@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 1,
+  "kapitel" : [
+    {
+      "titel" : "1. Dezember",
+      "start" : 0,
+      "end" : 528880
+    },
+    {
+      "titel" : "2. Dezember",
+      "start" : 528880,
+      "end" : 1052733
+    },
+    {
+      "titel" : "3. Dezember",
+      "start" : 1052733,
+      "end" : 1392027
+    },
+    {
+      "titel" : "4. Dezember",
+      "start" : 1392027,
+      "end" : 1723400
+    },
+    {
+      "titel" : "5. Dezember",
+      "start" : 1723400,
+      "end" : 2275853
+    },
+    {
+      "titel" : "6. Dezember",
+      "start" : 2275853,
+      "end" : 2536933
+    },
+    {
+      "titel" : "7. Dezember",
+      "start" : 2536933,
+      "end" : 3046067
+    },
+    {
+      "titel" : "8. Dezember",
+      "start" : 3046067,
+      "end" : 3369320
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/1/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/1/rip_log.txt"
+  }
+}

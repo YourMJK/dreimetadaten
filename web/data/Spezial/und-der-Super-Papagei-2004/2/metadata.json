@@ -1,0 +1,34 @@
+{
+  "teilNummer" : 2,
+  "kapitel" : [
+    {
+      "titel" : "Ein gerissener Kunstdieb",
+      "start" : 0,
+      "end" : 692667
+    },
+    {
+      "titel" : "Al Capone",
+      "start" : 692667,
+      "end" : 978747
+    },
+    {
+      "titel" : "Baker Street in London",
+      "start" : 978747,
+      "end" : 1177880
+    },
+    {
+      "titel" : "Auf dem Friedhof",
+      "start" : 1177880,
+      "end" : 1809400
+    },
+    {
+      "titel" : "Wo sind die Papageien?",
+      "start" : 1809400,
+      "end" : 1981684
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/rip_log.txt"
+  }
+}

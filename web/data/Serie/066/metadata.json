@@ -1,0 +1,108 @@
+{
+  "nummer" : 66,
+  "titel" : "und die Schattenmänner",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Aus einem harmlosen Ausflug nach Rom wird für die drei ??? ein ganz heißer Fall. Direkt vor ihren Augen ereignen sich dreiste Überfälle an sorglosen Spaziergängern. Die Geschwindigkeit und Routine der Diebstähle macht klar: Hier sind Profis am Werk. Keine Frage, daß Justus, Peter und Bob die Verfolgung aufnehmen. Als sie jedoch den wahren Drahtziehern auf die Spur kommen, wird die Situation für sie mehr als brenzlig …",
+  "veröffentlichungsdatum" : "1995-12-04",
+  "kapitel" : [
+    {
+      "titel" : "Räuber in Rom",
+      "start" : 0,
+      "end" : 858480
+    },
+    {
+      "titel" : "Abgestürzt",
+      "start" : 858480,
+      "end" : 1204493
+    },
+    {
+      "titel" : "Ein Fotograph gibt sich verschwiegen",
+      "start" : 1204493,
+      "end" : 1593573
+    },
+    {
+      "titel" : "Fahndung nach Justus",
+      "start" : 1593573,
+      "end" : 2086493
+    },
+    {
+      "titel" : "Unerwartete Begegnung",
+      "start" : 2086493,
+      "end" : 2245947
+    },
+    {
+      "titel" : "Entführt",
+      "start" : 2245947,
+      "end" : 2705040
+    },
+    {
+      "titel" : "Die Beichte der Spinne",
+      "start" : 2705040,
+      "end" : 2995160
+    },
+    {
+      "titel" : "Der Mann im Schatten",
+      "start" : 2995160,
+      "end" : 3555013
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Alberto Bergamelli, Fotograf",
+      "Holger Mahlich"
+    ],
+    [
+      "Alexandra",
+      "Reinhilt Schneider"
+    ],
+    [
+      "Ignazio, Pensionswirt",
+      "Leonardo Cuseneza"
+    ],
+    [
+      "Sofia, Pensionswirtin",
+      "Maria Chirivi"
+    ],
+    [
+      "Franca",
+      "Samira Chanfir"
+    ],
+    [
+      "Italienerin",
+      "Francesca Chiavon"
+    ],
+    [
+      "1. Italiener",
+      "Marcello Grassi"
+    ],
+    [
+      "2. Italiener",
+      "Luigi Pane"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/066/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/066/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/066/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/066/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music18/v4/dd/ed/61/dded6155-5b51-a76c-006c-16e823786bfe/886445747508.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/0e/01/10/0743213131627.jpg"
+  }
+}

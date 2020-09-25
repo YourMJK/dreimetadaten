@@ -1,0 +1,83 @@
+{
+  "nummer" : 39,
+  "titel" : "und die Perlenvögel",
+  "autor" : "Marc Brandel",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Die drei Detektive finden eine vergessene Brieftaube und damit beginnt ein geheimnisvolles Abenteuer, bei dem es um wertvolle Perlen und ermordete Vögel geht. Die drei ??? stehen vor vielen Rätsel, aber sie geben nicht auf. – Doch dann richtet sich der Lauf einer Pistole auf sie …",
+  "veröffentlichungsdatum" : "1986-03-18",
+  "kapitel" : [
+    {
+      "titel" : "Der Mann mit dem Zwinker-Tick",
+      "start" : 0,
+      "end" : 439920
+    },
+    {
+      "titel" : "Die Frau mit dem Vogel-Tick",
+      "start" : 439920,
+      "end" : 788440
+    },
+    {
+      "titel" : "Ein Mörder raubt Vögel",
+      "start" : 788440,
+      "end" : 1168840
+    },
+    {
+      "titel" : "Wo ist das Bindeglied?",
+      "start" : 1168840,
+      "end" : 1431160
+    },
+    {
+      "titel" : "Vergiftet?",
+      "start" : 1431160,
+      "end" : 1803747
+    },
+    {
+      "titel" : "Bewaffnete Aufsicht",
+      "start" : 1803747,
+      "end" : 2148827
+    },
+    {
+      "titel" : "Wer mit wem?",
+      "start" : 2148827,
+      "end" : 2537520
+    },
+    {
+      "titel" : "Hände hoch!",
+      "start" : 2537520,
+      "end" : 2873960
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Blinky",
+      "Günter König"
+    ],
+    [
+      "Miss Melody",
+      "Gisela Trowe"
+    ],
+    [
+      "Frisbee",
+      "Hans Paetsch"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/039/metadata.json"
+  }
+}

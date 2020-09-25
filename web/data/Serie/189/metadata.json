@@ -1,0 +1,119 @@
+{
+  "nummer" : 189,
+  "titel" : "und der unsichtbare Passagier",
+  "autor" : "Hendrik Buchna",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Justus, Peter und Bob steht ein tolles Abenteuer bevor: eine Reise mit dem Coast Imperial, dem berühmten Luxuszug! Doch kurz nach Fahrtbeginn verschwindet einer der Mitreisenden spurlos. Handelt es sich um eine Entführung? Die drei Fragezeichen nehmen die Ermittlungen auf. Es bleibt ihnen nicht viel Zeit. Der nächste Bahnhof wäre die perfekte Fluchtmöglichkeit …",
+  "veröffentlichungsdatum" : "2017-09-29",
+  "kapitel" : [
+    {
+      "titel" : "Verschwunden!",
+      "start" : 0,
+      "end" : 627440
+    },
+    {
+      "titel" : "Unmöglich, aber wahr",
+      "start" : 627440,
+      "end" : 1220813
+    },
+    {
+      "titel" : "Original oder Fälschung?",
+      "start" : 1220813,
+      "end" : 1822547
+    },
+    {
+      "titel" : "Kontroll-Aktion",
+      "start" : 1822547,
+      "end" : 2348027
+    },
+    {
+      "titel" : "Gigant auf vielen Beinen",
+      "start" : 2348027,
+      "end" : 2844253
+    },
+    {
+      "titel" : "Die Masken fallen",
+      "start" : 2844253,
+      "end" : 3317000
+    },
+    {
+      "titel" : "Stunde der Wahrheit",
+      "start" : 3317000,
+      "end" : 3622427
+    },
+    {
+      "titel" : "Ein fast perfektes Verbrechen",
+      "start" : 3622427,
+      "end" : 3917560
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Whitty",
+      "Claus Wilcke"
+    ],
+    [
+      "Hank",
+      "Robert Missler"
+    ],
+    [
+      "Cowboy Dick",
+      "Wolfgang Kaven"
+    ],
+    [
+      "Mr. Arbuthnott",
+      "Eckart Dux"
+    ],
+    [
+      "Mrs. Lockwood",
+      "Ingeborg Kallweit"
+    ],
+    [
+      "Linda",
+      "Svenja Pages"
+    ],
+    [
+      "Roger",
+      "Christian Stark"
+    ],
+    [
+      "Mann",
+      "Gernot Endemann"
+    ],
+    [
+      "Einsatzleiter",
+      "Achim Schülke"
+    ],
+    [
+      "Polizist",
+      "Alexander Mettin"
+    ],
+    [
+      "Mechaniker",
+      "Joachim Kretzer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/189/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/189/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/189/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/189/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/10/46/b5/1046b5d4-6598-e716-a7e9-f46f7845392c/886445992519.jpg/3000x0w.png"
+  }
+}

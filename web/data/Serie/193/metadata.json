@@ -1,0 +1,135 @@
+{
+  "nummer" : 193,
+  "titel" : "Schrecken aus der Tiefe",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein Angler kämpft in seinem kleinen Boot mit seinem Fang, geht über Bord und wird unter Wasser gezogen … Justus, Peter und Bob sind Augenzeugen dieser Szene und eilen prompt zu Hilfe. Als der Mann sich endlich in Sicherheit befindet, stammelt er schreckensbleich immer wieder dieselben Worte: „Im See ist ein Monster!“ Aber jeder weiß: Monster gibt es nicht … Oder etwa doch? Ein neuer Fall für die drei Detektive!",
+  "veröffentlichungsdatum" : "2018-05-11",
+  "kapitel" : [
+    {
+      "titel" : "Ausnahmezustand",
+      "start" : 0,
+      "end" : 475760
+    },
+    {
+      "titel" : "Die Ermittlungen beginnen",
+      "start" : 475760,
+      "end" : 841120
+    },
+    {
+      "titel" : "Gespräch der Lichter",
+      "start" : 841120,
+      "end" : 1464960
+    },
+    {
+      "titel" : "Große Fische im Netz",
+      "start" : 1464960,
+      "end" : 1877600
+    },
+    {
+      "titel" : "Beutemeute",
+      "start" : 1877600,
+      "end" : 2354467
+    },
+    {
+      "titel" : "Peanuts in Gouda",
+      "start" : 2354467,
+      "end" : 2809173
+    },
+    {
+      "titel" : "Tauchgang mit Folgen",
+      "start" : 2809173,
+      "end" : 3207547
+    },
+    {
+      "titel" : "Verräterische Angst",
+      "start" : 3207547,
+      "end" : 4183227
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Angler",
+      "Stephan Chrzescinski"
+    ],
+    [
+      "Mac Anderson",
+      "Achim Buch"
+    ],
+    [
+      "Reporterin",
+      "Marion Gretchen Schmitz"
+    ],
+    [
+      "Mann",
+      "Sven Dahlem"
+    ],
+    [
+      "Grady",
+      "Werner Wilkening"
+    ],
+    [
+      "Pettengill",
+      "Peter Kirchberger"
+    ],
+    [
+      "Sheriff Rolins",
+      "Tommi Piper"
+    ],
+    [
+      "Farragut",
+      "Hanns Jörg Krumpholz"
+    ],
+    [
+      "Leah",
+      "Antje Birnbaum"
+    ],
+    [
+      "Cynthia Wetmore",
+      "Dorothea Hagena"
+    ],
+    [
+      "Hotelier",
+      "Gordon Piedesack"
+    ],
+    [
+      "Frau",
+      "Maud Ackermann"
+    ],
+    [
+      "Junge",
+      "Tim Heuer"
+    ],
+    [
+      "Daniel",
+      "Jannik Schümann"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/193/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/193/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/193/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/193/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/18/03/ed/1803edc5-c030-3ef2-be02-40939a5f392f/886446602509.jpg/3000x0w.png"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "teilNummer" : 2,
+  "buchstabe" : "B",
+  "titel" : "Angriff in der Nacht",
+  "autor" : "Kari Erlhoff",
+  "beschreibung" : "Ihre Ermittlungen führen die drei ??? immer weiter in einen Sumpf aus Lügen und dunklen Machenschaften. Doch wer steckt hinter alldem? Justus, Peter und Bob sind dem Teumessischen Fuchs auf der Spur, der überall und nirgends zu sein scheint. Doch haben die drei Detektive den richtigen Riecher? Eines Nachts schlägt ihr unbekannter Gegner plötzlich zu …",
+  "kapitel" : [
+    {
+      "titel" : "Kleinkriminelle mit Größenwahn",
+      "start" : 0,
+      "end" : 410853
+    },
+    {
+      "titel" : "Ein tragischer Unfall",
+      "start" : 410853,
+      "end" : 560653
+    },
+    {
+      "titel" : "Party-Time",
+      "start" : 560653,
+      "end" : 984040
+    },
+    {
+      "titel" : "Im Keller",
+      "start" : 984040,
+      "end" : 1158787
+    },
+    {
+      "titel" : "Quaesitio",
+      "start" : 1158787,
+      "end" : 1275160
+    },
+    {
+      "titel" : "Lailaps",
+      "start" : 1275160,
+      "end" : 1788133
+    },
+    {
+      "titel" : "Angriff in der Nacht",
+      "start" : 1788133,
+      "end" : 2130360
+    },
+    {
+      "titel" : "Tödliches Gift",
+      "start" : 2130360,
+      "end" : 2830120
+    },
+    {
+      "titel" : "Verräterischer Duft",
+      "start" : 2830120,
+      "end" : 3434200
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Taylor-Jackson",
+      "Jona Mues"
+    ],
+    [
+      "Samantha",
+      "Henrike Fehrs"
+    ],
+    [
+      "Jason",
+      "Woody Mues"
+    ],
+    [
+      "Mrs. Roalstad",
+      "Beate Rysopp"
+    ],
+    [
+      "Prof. Roalstad",
+      "Jürgen Thormann"
+    ],
+    [
+      "Corvy",
+      "Karen Suender"
+    ],
+    [
+      "Mrs. Fernandez",
+      "Anja Topf"
+    ],
+    [
+      "Lemuel Garvine",
+      "Tim Grobe"
+    ],
+    [
+      "Emery",
+      "Peter Weis"
+    ],
+    [
+      "Ginger",
+      "Heidi Schaffrath"
+    ],
+    [
+      "Sanitäter",
+      "Franzisko Löwe"
+    ],
+    [
+      "Schwester",
+      "Maike Nagel"
+    ],
+    [
+      "Menge",
+      "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/175/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/2/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/175/2/rip_log.txt"
+  }
+}

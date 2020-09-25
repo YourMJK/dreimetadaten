@@ -1,0 +1,78 @@
+{
+  "nummer" : 90,
+  "titel" : "Der Feuerteufel",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Auf der Suche nach einer passenden Maske für eine Halloween-Party trifft Peter auf Aaron Moore. Der Grusel-Autor wird von einem dämonischen Feuerteufel bedroht und bangt um sein Leben. Bereits drei unheimliche Vorzeichen haben sich erfüllt: Feuer, Luft und Erde haben sich gegen den Schriftsteller erhoben. Erfüllt sich auch das vierte Zeichen, bedeutet dies den Tod Moores. Können Justus, Peter und Bob, die drei erfolgreichen Detektive aus Rocky Beach, den Fluch bannen? Sie kämpfen gegen Geister und Dämonen, gegen die vier Elemente und den Feuerteufel. Ein auswegloses Unterfangen?",
+  "veröffentlichungsdatum" : "2000-05-15",
+  "kapitel" : [
+    {
+      "titel" : "Im Gruselkabinett",
+      "start" : 0,
+      "end" : 531893
+    },
+    {
+      "titel" : "Das verbrannte Grab",
+      "start" : 531893,
+      "end" : 1033320
+    },
+    {
+      "titel" : "Die vier Zeichen",
+      "start" : 1033320,
+      "end" : 1772520
+    },
+    {
+      "titel" : "Die Maske des Feuerteufels",
+      "start" : 1772520,
+      "end" : 2064853
+    },
+    {
+      "titel" : "Blutbad",
+      "start" : 2064853,
+      "end" : 2929427
+    },
+    {
+      "titel" : "Feuriges Finale",
+      "start" : 2929427,
+      "end" : 3532947
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Aaron Moore",
+      "Reent Reins"
+    ],
+    [
+      "Roxanne",
+      "Regine Lamster"
+    ],
+    [
+      "Bruce Black",
+      "Til Demtröder"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/090/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/090/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/090/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/090/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music20/v4/ad/e2/38/ade2384c-7e64-b74a-8004-0f5043e78a67/886445750324.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/ac/60/2d/0743217555528.jpg"
+  }
+}

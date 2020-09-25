@@ -1,0 +1,111 @@
+{
+  "nummer" : 5,
+  "titel" : "und der Fluch des Rubins",
+  "autor" : "Robert Arthur",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Alfred Hitchcock und die drei Detektive (Firmenzeichen ???) haben es hier mit einem seltsamen Vermächtnis zu tun: Onkel Horatio hat seinem Neffen etwas Wertvolles hinterlassen – aber was? Und vor allem wo? Die jungen Kriminalisten Justus, Peter und Bob sehen sich hier mit viel zu vielen Gipsköpfen, geheimnisvollen Herren und dem Wort August in mindestens fünf Bedeutungen konfrontiert. Werden Justus und seine Freunde mit diesem Fall nicht überfordert?",
+  "veröffentlichungsdatum" : "1979-10-16",
+  "kapitel" : [
+    {
+      "titel" : "Ein Anruf für die drei ???",
+      "start" : 0,
+      "end" : 314733
+    },
+    {
+      "titel" : "Zu Hilfe!",
+      "start" : 314733,
+      "end" : 709453
+    },
+    {
+      "titel" : "Dreipunkt taucht auf",
+      "start" : 709453,
+      "end" : 1031453
+    },
+    {
+      "titel" : "Ein Herr mit schwarzem Schnurrbart",
+      "start" : 1031453,
+      "end" : 1480747
+    },
+    {
+      "titel" : "Bob hat eine Erleuchtung",
+      "start" : 1480747,
+      "end" : 1801347
+    },
+    {
+      "titel" : "Mädchenstimme am Telefon",
+      "start" : 1801347,
+      "end" : 2141040
+    },
+    {
+      "titel" : "Des Rätsels Lösung",
+      "start" : 2141040,
+      "end" : 2547213
+    },
+    {
+      "titel" : "Gebt mir das feurige Auge",
+      "start" : 2547213,
+      "end" : 2960987
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "August August, genannt Gus",
+      "Stephan Chreszinski"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Mr. Dwiggins",
+      "Joachim Wolff"
+    ],
+    [
+      "Mr. Rhandur",
+      "Gottfried Kramer"
+    ],
+    [
+      "Joe",
+      "Peter Buchholz"
+    ],
+    [
+      "Lisa",
+      "Madeleine Stolze"
+    ],
+    [
+      "Mutter",
+      "Renate Pichler"
+    ],
+    [
+      "Patrick Kenneth",
+      "Wolfgang Kubach"
+    ],
+    [
+      "Bauarbeiter",
+      "Gernot Endemann"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/005/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/005/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/005/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/005/cover.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/71/d2/32/0743213880525.jpg"
+  }
+}

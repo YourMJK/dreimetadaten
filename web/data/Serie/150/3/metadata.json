@@ -1,0 +1,146 @@
+{
+  "teilNummer" : 3,
+  "buchstabe" : "C",
+  "titel" : "Der brennende Kristall",
+  "beschreibung" : "Noch immer haben Justus, Peter und Bob das Rätsel aus dem Testament nicht lösen können. Welche Rolle spielen Moby Dick und der brennende Kristall? Die drei ??? begeben sich zur Geisterbucht, um das Geheimnis zu lüften. Doch sie sind nicht allein! Jeder pokert hoch in diesem Spiel, das nur einer gewinnen kann …",
+  "kapitel" : [
+    {
+      "titel" : "Blödmänner",
+      "start" : 0,
+      "end" : 281320
+    },
+    {
+      "titel" : "Streit um eine Frau",
+      "start" : 281320,
+      "end" : 499720
+    },
+    {
+      "titel" : "Anudharas Fluch",
+      "start" : 499720,
+      "end" : 789240
+    },
+    {
+      "titel" : "Rachel's Delight",
+      "start" : 789240,
+      "end" : 1283040
+    },
+    {
+      "titel" : "Tauchgang in der Geisterbucht",
+      "start" : 1283040,
+      "end" : 1909547
+    },
+    {
+      "titel" : "Kennziffer",
+      "start" : 1909547,
+      "end" : 2095147
+    },
+    {
+      "titel" : "Familienangelegenheiten",
+      "start" : 2095147,
+      "end" : 2256840
+    },
+    {
+      "titel" : "Indisch",
+      "start" : 2256840,
+      "end" : 2769733
+    },
+    {
+      "titel" : "Eine Falle",
+      "start" : 2769733,
+      "end" : 2920173
+    },
+    {
+      "titel" : "Keine Tricks",
+      "start" : 2920173,
+      "end" : 3145560
+    },
+    {
+      "titel" : "Die letzte Tür",
+      "start" : 3145560,
+      "end" : 3763400
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Frank Mason",
+      "Wolfgang Condrus"
+    ],
+    [
+      "Taylor",
+      "Bernhard Hoecker"
+    ],
+    [
+      "Curtis Fisher",
+      "Tobias Schmidt"
+    ],
+    [
+      "John Fisher",
+      "Dirk Bach"
+    ],
+    [
+      "Gerry",
+      "Kostja Ullmann"
+    ],
+    [
+      "Ismael",
+      "Stephan Schad"
+    ],
+    [
+      "Mr. Smith",
+      "Tim Grobe"
+    ],
+    [
+      "Mrs. Maruthers",
+      "Ulrike Johannson"
+    ],
+    [
+      "Angelica",
+      "Anna Thalbach"
+    ],
+    [
+      "Sergeant Madhu",
+      "Olli Dittrich"
+    ],
+    [
+      "Mr. Castro",
+      "Jörg Gillner"
+    ],
+    [
+      "Sanitäter",
+      "Robert Kottula"
+    ],
+    [
+      "Anudhara",
+      "Rosakutty Hemsing"
+    ],
+    [
+      "Ruth",
+      "Gabriele Libbach"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/150/3/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/3/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/150/3/rip_log.txt"
+  }
+}

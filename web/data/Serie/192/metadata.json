@@ -1,0 +1,115 @@
+{
+  "nummer" : 192,
+  "titel" : "Im Bann des Drachen",
+  "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Peter ist spurlos verschwunden und seine beiden Freunde sind ziemlich ratlos. Was Justus und Bob nicht wissen: Der zweite Detektiv wird etliche Kilometer von Rocky Beach entfernt festgehalten. Wer hat ihn verschleppt und wieso? Können seine Freunde ihm zu Hilfe kommen? Und was hat der geheimnisvolle Drachensohn mit all dem zu tun? Justus und Bob müssen sich auf eine gefährliche Reise begeben, um all diese Fragen beantworten zu können …",
+  "veröffentlichungsdatum" : "2018-03-02",
+  "kapitel" : [
+    {
+      "titel" : "Erwachen in einer anderen Welt",
+      "start" : 0,
+      "end" : 441587
+    },
+    {
+      "titel" : "Erkenntnisse auf zwei Kontinenten",
+      "start" : 441587,
+      "end" : 1040933
+    },
+    {
+      "titel" : "Im Jing'an-Tempel und in der Luft",
+      "start" : 1040933,
+      "end" : 1620360
+    },
+    {
+      "titel" : "Böse Geister im Zickzack",
+      "start" : 1620360,
+      "end" : 2073347
+    },
+    {
+      "titel" : "Drogen im Flaschenöffner",
+      "start" : 2073347,
+      "end" : 2441947
+    },
+    {
+      "titel" : "Familienangelegenheiten",
+      "start" : 2441947,
+      "end" : 3210333
+    },
+    {
+      "titel" : "Achterbahnfahrt",
+      "start" : 3210333,
+      "end" : 3842347
+    },
+    {
+      "titel" : "Telefonlawine",
+      "start" : 3842347,
+      "end" : 4081427
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Zuko",
+      "Kostja Ullmann"
+    ],
+    [
+      "Katara",
+      "Mitsue Kono"
+    ],
+    [
+      "Xiang Than",
+      "Horst Naumann"
+    ],
+    [
+      "Fan Quoc",
+      "Christine Wilhelmi"
+    ],
+    [
+      "Fan Yuen",
+      "Frank Gustavus"
+    ],
+    [
+      "Dealerin",
+      "Barbara Schipper"
+    ],
+    [
+      "1. Chinese",
+      "Frank Richartz"
+    ],
+    [
+      "2. Chinese",
+      "Erik Schäffler"
+    ],
+    [
+      "Fan Hao",
+      "Gerd Baltus"
+    ],
+    [
+      "Einlass",
+      "Matti Schmidt-Schaller"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/192/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/192/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/192/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/192/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/cc/2c/2c/cc2c2c15-4020-a852-34ff-af4136f2e677/886446602493.jpg/3000x0w.png"
+  }
+}

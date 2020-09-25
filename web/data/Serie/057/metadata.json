@@ -1,0 +1,108 @@
+{
+  "nummer" : 57,
+  "titel" : "Tatort Zirkus",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Panik im Zirkus: Die junge Artistin Mary di Domenico stürzt während der Abendvorstellung vom Drahtseil. Für Justus, Bob und Peter steht fest: das war kein Unfall! Immerhin gilt Mary als Erbin der wertvollen Sammlung von dem berühmten Clown Jacky Knivel. Die drei Junior-Detektive sind bereit, den Fall zu übernehmen, und schon stehen sie vor einem Rätsel: Ist ihre Auftraggeberin wirklich so unschuldig wie sie behauptet?",
+  "veröffentlichungsdatum" : "1994-07-18",
+  "kapitel" : [
+    {
+      "titel" : "Absturz",
+      "start" : 0,
+      "end" : 364453
+    },
+    {
+      "titel" : "Eine Fee gibt Auskunft",
+      "start" : 364453,
+      "end" : 706507
+    },
+    {
+      "titel" : "Nächtlicher Einbruch",
+      "start" : 706507,
+      "end" : 977453
+    },
+    {
+      "titel" : "Die Schöne und der Verleger",
+      "start" : 977453,
+      "end" : 1302987
+    },
+    {
+      "titel" : "Planungsphase läuft",
+      "start" : 1302987,
+      "end" : 1599467
+    },
+    {
+      "titel" : "Ausgeräumt",
+      "start" : 1599467,
+      "end" : 2036267
+    },
+    {
+      "titel" : "Justus geht aufs Ganze",
+      "start" : 2036267,
+      "end" : 2314827
+    },
+    {
+      "titel" : "In der Klemme",
+      "start" : 2314827,
+      "end" : 2605187
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mary, Artistin",
+      "Heidrun von Goessel"
+    ],
+    [
+      "Winkler, Zirkusdirektor",
+      "Helmut Ahner"
+    ],
+    [
+      "Pipo, Clown",
+      "Arthur Brauss"
+    ],
+    [
+      "Morton, Chauffeur",
+      "Andreas von der Meden"
+    ],
+    [
+      "Cotta, Polizeiinspektor",
+      "Michael Poelchau"
+    ],
+    [
+      "Alma",
+      "Eva Zlomitzky"
+    ],
+    [
+      "Schwester",
+      "Gerda Maria Jürgens"
+    ],
+    [
+      "[Shirley Kubinski]",
+      "Thea Frank"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/057/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/057/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/057/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/057/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/ae/f8/31/aef83122-7c49-a2a0-a1f3-31a5754c9120/886445747065.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f3/af/93/0743213885728.jpg"
+  }
+}

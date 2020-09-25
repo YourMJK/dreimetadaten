@@ -1,0 +1,111 @@
+{
+  "nummer" : 14,
+  "titel" : "und das Bergmonster",
+  "autor" : "M. V. Carey",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Das neue Abenteuer, das Justus, Bob und Peter zu bestehen haben, fängt ganz harmlos an: mit der Suche nach einem Schlüssel. Doch bald schon häufen sich verdächtige Vorgänge. Warum hat Kathleen Hammond, die angeblich so geschäftstüchtig ist, solche Hemmungen, wenn sie eine Unterschrift leisten soll? Wozu baut ihr Mann hinter dem kleinen Gasthof für die wenigen Gäste ein so großes Schwimmbecken? Auf dem Berg hinter dem Haus entdecken die drei ??? geheimnisvolle Spuren von einem übergroßen Fußabdruck. Dann kommen sie dahinter, daß ein Gast des Hauses es anscheinend auf Kathleens Geld abgesehen hat. Aber trotz vieler Anhaltspunkte wollen die Ermittlungen diesmal nicht recht vorangehen. Buchstäblich in letzter Minute erst lösen sie das seltsame Geheimnis, das Kathleen bedroht, und decken hinter den düsteren Legenden um ein Bergmonster die Wahrheit auf.",
+  "veröffentlichungsdatum" : "1980-04-01",
+  "kapitel" : [
+    {
+      "titel" : "Ein seltsamer Empfang",
+      "start" : 0,
+      "end" : 349613
+    },
+    {
+      "titel" : "Wer schleicht durch die Nacht?",
+      "start" : 349613,
+      "end" : 716013
+    },
+    {
+      "titel" : "Der Monsterberg",
+      "start" : 716013,
+      "end" : 1155747
+    },
+    {
+      "titel" : "Das wilde Tier aus dem Wald",
+      "start" : 1155747,
+      "end" : 1335227
+    },
+    {
+      "titel" : "Spur von nackten Sohlen",
+      "start" : 1335227,
+      "end" : 1741573
+    },
+    {
+      "titel" : "Justus blickt nicht mehr durch",
+      "start" : 1741573,
+      "end" : 1990573
+    },
+    {
+      "titel" : "Der Berg brennt!",
+      "start" : 1990573,
+      "end" : 2305467
+    },
+    {
+      "titel" : "Die Doppelgängerin",
+      "start" : 2305467,
+      "end" : 2550187
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Smathers",
+      "Josef Dahmen"
+    ],
+    [
+      "Mr. Jensen",
+      "Wolf Rahtjen"
+    ],
+    [
+      "Patrick",
+      "Wolfgang Kubach"
+    ],
+    [
+      "Kenneth",
+      "Lutz Mackensy"
+    ],
+    [
+      "Kathleen",
+      "Brigitte Alexis"
+    ],
+    [
+      "Mr. Joe Hammond",
+      "Volker Brandt"
+    ],
+    [
+      "Mrs. Hammond",
+      "Hanni Vanhaiden"
+    ],
+    [
+      "Richardsen",
+      "Joachim Wolff"
+    ],
+    [
+      "Polizist",
+      "Horst Stark"
+    ],
+    [
+      "Lieferant",
+      "F.-J. Steffens"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/014/metadata.json"
+  }
+}

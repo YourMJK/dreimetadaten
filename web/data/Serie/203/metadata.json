@@ -1,0 +1,99 @@
+{
+  "nummer" : 203,
+  "titel" : "Tauchgang ins Ungewisse",
+  "autor" : "Kari Erlhoff",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein Kindermädchen, das nachts in Gestalt eines Seehunds sein Unwesen treibt – das ist für die drei ??? fast schon Alltag. Wäre da nicht die Tatsache, dass dieses Kindermädchen seit Jahren auf einem Friedhof begraben liegt! Als Justus, Peter und Bob mit den Ermittlungen beginnen, müssen sie feststellen, dass sie mitten in ein gefährliches Netz aus Intrigen, Verrat und Machtspielen geraten sind. Wem können die Detektive überhaupt noch trauen? Die Wahrheit scheint auf dem Grund des Meeres zu liegen. Verborgen in den Tiefen eines Unterwasserwaldes …",
+  "veröffentlichungsdatum" : "2020-01-31",
+  "kapitel" : [
+    {
+      "titel" : "Jorunn",
+      "start" : 0,
+      "end" : 384933
+    },
+    {
+      "titel" : "Gegenverkehr",
+      "start" : 384933,
+      "end" : 813400
+    },
+    {
+      "titel" : "Aus dem Meer",
+      "start" : 813400,
+      "end" : 1259853
+    },
+    {
+      "titel" : "Gefangen",
+      "start" : 1259853,
+      "end" : 1651000
+    },
+    {
+      "titel" : "Unterwasser",
+      "start" : 1651000,
+      "end" : 2425533
+    },
+    {
+      "titel" : "Sandy Miller",
+      "start" : 2425533,
+      "end" : 2970080
+    },
+    {
+      "titel" : "Tiefschlaf",
+      "start" : 2970080,
+      "end" : 3942533
+    },
+    {
+      "titel" : "Die Wahrheit",
+      "start" : 3942533,
+      "end" : 4610333
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawcrzeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Jorunn",
+      "Lilith Gebauer"
+    ],
+    [
+      "Mrs. Planter",
+      "Angela Quast"
+    ],
+    [
+      "Deidre",
+      "Gabriele Libbach"
+    ],
+    [
+      "Special Agent Ross",
+      "Udo Schenk"
+    ],
+    [
+      "Special Agent Wright",
+      "Astrid Kollex"
+    ],
+    [
+      "Fischer",
+      "Peter Franke"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/203/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/203/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/203/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/203/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/f8/1a/aa/f81aaa63-69ef-2674-9ef1-3ab68f3e129c/886447878347.jpg/3000x0w.png"
+  }
+}

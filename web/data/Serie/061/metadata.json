@@ -1,0 +1,116 @@
+{
+  "nummer" : 61,
+  "titel" : "und die Rache des Tigers",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein Sprengsatz explodiert während der Einweihungsfeier eines Vergnügungsparks im ehemaligen Zoo von Rocky Beach. Steckt tatsächlich die Bürgerinitiative dahinter, die auf demselben Gelände eine Jugendfarm errichten möchte? Die drei Detektive Justus, Bob und Peter können nicht recht daran glauben und suchen die wahren Hintermänner des feigen Anschlags. Doch erst ein geheimnisvoller Brief setzt die drei ??? auf die richtige Spur und führt sie zum Thron des Tigers. Dort erwartet sie eine gefährliche Überraschung.",
+  "veröffentlichungsdatum" : "1995-02-27",
+  "kapitel" : [
+    {
+      "titel" : "Ein bombiges Richtfest",
+      "start" : 0,
+      "end" : 465853
+    },
+    {
+      "titel" : "Stümper am Werk",
+      "start" : 465853,
+      "end" : 1007520
+    },
+    {
+      "titel" : "Im Nacken kaltes Fleisch",
+      "start" : 1007520,
+      "end" : 1634640
+    },
+    {
+      "titel" : "Justus geht unter die Raucher",
+      "start" : 1634640,
+      "end" : 1967920
+    },
+    {
+      "titel" : "Flucht vor den Cops",
+      "start" : 1967920,
+      "end" : 2486920
+    },
+    {
+      "titel" : "Wen Asiens Herrscher nicht empfangen …",
+      "start" : 2486920,
+      "end" : 2834573
+    },
+    {
+      "titel" : "Von Kimble an Marple",
+      "start" : 2834573,
+      "end" : 3094480
+    },
+    {
+      "titel" : "Im Tigerkäfig",
+      "start" : 3094480,
+      "end" : 3569320
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Milton Mitchell",
+      "Holger Mahlich"
+    ],
+    [
+      "Fred Hall",
+      "Thomas Thomé"
+    ],
+    [
+      "Anne",
+      "Janina Richter"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Kellner",
+      "Thomas Stein"
+    ],
+    [
+      "Portland",
+      "Wolfgang Völz"
+    ],
+    [
+      "Inspektor Cotta",
+      "Willem Fricke"
+    ],
+    [
+      "Charlie",
+      "Anne Marr"
+    ],
+    [
+      "Kundin",
+      "Ursula Sieg"
+    ],
+    [
+      "Adams",
+      "Hans Hessling"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/061/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/061/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/061/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/061/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music18/v4/7e/b0/2f/7eb02f84-2c84-c078-f528-e0c0acd94484/886445747324.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/fc/e7/d4/0743212358223.jpg"
+  }
+}

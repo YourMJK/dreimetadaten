@@ -1,0 +1,107 @@
+{
+  "nummer" : 107,
+  "titel" : "und der Schatz der Mönche",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "\"Ich möchte Peter Shaw sprechen. Es ist dringend.\" – \"Worum geht es denn, Mister?\" – \"Um sein Leben.\" Eigentlich hatte Peter nur nach einem geeigneten Drehort für ein Filmprojekt an der Schule gesucht. Doch in der verlassenen Fabrikhalle findet er mehr als nur einen stimmungsvollen Schauplatz für den geplanten Kriminalfilm: ein geheimnisvolles Kästchen, einen Zettel mit merkwürdigen Schriftzeichen – und einen messerwerfenden Asiaten, der sich sofort an seine Fersen heftet. Und das ist erst der Auftakt zu einem neuen Fall für die drei ???",
+  "veröffentlichungsdatum" : "2003-01-13",
+  "kapitel" : [
+    {
+      "titel" : "Das geheimnisvolle Kästchen",
+      "start" : 0,
+      "end" : 661440
+    },
+    {
+      "titel" : "Der Messerwerfer",
+      "start" : 661440,
+      "end" : 1077000
+    },
+    {
+      "titel" : "Erwischt",
+      "start" : 1077000,
+      "end" : 1596280
+    },
+    {
+      "titel" : "Die Vision",
+      "start" : 1596280,
+      "end" : 2104453
+    },
+    {
+      "titel" : "Treffpunkt \"Bookstore\"",
+      "start" : 2104453,
+      "end" : 2403013
+    },
+    {
+      "titel" : "Wiedergeburt",
+      "start" : 2403013,
+      "end" : 2902787
+    },
+    {
+      "titel" : "Im buddhistischen Zentrum",
+      "start" : 2902787,
+      "end" : 3196947
+    },
+    {
+      "titel" : "Das Geheimnis des Kästchens",
+      "start" : 3196947,
+      "end" : 3850840
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Lama Geshe",
+      "Rolf Nagel"
+    ],
+    [
+      "Tai Sutsi",
+      "Dr. Boo Young-Shin"
+    ],
+    [
+      "Chuck",
+      "Yan Kimsang"
+    ],
+    [
+      "Vinaya",
+      "Prof. Dr. Zhu"
+    ],
+    [
+      "Mr Zhang",
+      "Ingo Feder"
+    ],
+    [
+      "Lesley Dimple",
+      "Maja Stehli [Ingeborg Kantstein ?]"
+    ],
+    [
+      "Mrs. Wilbur",
+      "Ingeburg Kanstein"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/107/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/107/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/107/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/107/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music30/v4/60/d6/c3/60d6c312-997b-5814-b579-ce85e027268e/886445751987.jpg/3000x0w.png"
+  }
+}

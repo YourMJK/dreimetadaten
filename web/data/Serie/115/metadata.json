@@ -1,0 +1,150 @@
+{
+  "nummer" : 115,
+  "titel" : "Auf tödlichem Kurs",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Inhalt: Die drei erfolgreichen Detektive aus Rocky Beach stehen vor einem Rätsel: Wer könnte Interesse an dem wertlosen Ölbild haben, das ihrem alten Freund, Kommissar Reynolds, entwendet wurde? Welches Geheimnis verbirgt sich hinter dem Bild, auf dem die Segelyacht \"Gwendolyn\" Zu sehen ist? Die Ermittlungen führen Justus, Peter und Bob unversehens in ein gefährliches Abenteuer.",
+  "veröffentlichungsdatum" : "2004-04-05",
+  "kapitel" : [
+    {
+      "titel" : "Ein alter Bekannter",
+      "start" : 0,
+      "end" : 519307
+    },
+    {
+      "titel" : "Diebesgut",
+      "start" : 519307,
+      "end" : 680947
+    },
+    {
+      "titel" : "Ein paar Jahre auf dem Buckel",
+      "start" : 680947,
+      "end" : 772400
+    },
+    {
+      "titel" : "Entwischt",
+      "start" : 772400,
+      "end" : 971653
+    },
+    {
+      "titel" : "Kindheitsträume",
+      "start" : 971653,
+      "end" : 1080227
+    },
+    {
+      "titel" : "Zeichen und Symbole",
+      "start" : 1080227,
+      "end" : 1191613
+    },
+    {
+      "titel" : "Neugierige Rechtsanwältin",
+      "start" : 1191613,
+      "end" : 1272347
+    },
+    {
+      "titel" : "Wichtige Information",
+      "start" : 1272347,
+      "end" : 1367227
+    },
+    {
+      "titel" : "Das Gemälde mit dem Schiff",
+      "start" : 1367227,
+      "end" : 1459933
+    },
+    {
+      "titel" : "Schlüssel zur Herkunft",
+      "start" : 1459933,
+      "end" : 1875693
+    },
+    {
+      "titel" : "Der Gründer von \"Rothman-Oil\"",
+      "start" : 1875693,
+      "end" : 2695667
+    },
+    {
+      "titel" : "Herzanfall",
+      "start" : 2695667,
+      "end" : 3050160
+    },
+    {
+      "titel" : "Entscheidende Phase",
+      "start" : 3050160,
+      "end" : 3342893
+    },
+    {
+      "titel" : "Einbruch",
+      "start" : 3342893,
+      "end" : 3427853
+    },
+    {
+      "titel" : "Die letzte Fahrt der \"Gwendolyn\"",
+      "start" : 3427853,
+      "end" : 4200627
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Escovedo",
+      "Ignacio Descalzo"
+    ],
+    [
+      "Anita Caballero",
+      "Isabell Navarro"
+    ],
+    [
+      "Lesley Dimple",
+      "Rica Blunck"
+    ],
+    [
+      "Regina Pearson",
+      "Ingeborg Kallweit"
+    ],
+    [
+      "Mr Horowitz",
+      "Rolf Jülich"
+    ],
+    [
+      "Mr Rothman",
+      "Peter Weis"
+    ],
+    [
+      "Mrs O'Rien",
+      "Victoria von Trautmannsdorff"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/115/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/115/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/115/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/115/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music18/v4/40/1c/a1/401ca138-d545-b7ae-e10f-46be33a9f11f/886445752083.jpg/3000x0w.png"
+  }
+}

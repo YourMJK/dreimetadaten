@@ -1,0 +1,116 @@
+{
+  "nummer" : 201,
+  "titel" : "Höhenangst",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein unbekannter Anrufer behauptet, Bob wäre der einzige Augenzeuge eines Mordes. Und als wäre das nicht schon seltsam genug, handelt das neueste Buch des Autors Ben Hustler von genau diesem Verbrechen. Bob glaubt an einen schlechten Scherz. Doch als er beginnt, die ersten Kapitel von „Höhenangst“ zu lesen, überkommt ihn eine Gänsehaut …",
+  "veröffentlichungsdatum" : "2019-09-27",
+  "kapitel" : [
+    {
+      "titel" : "Loomy",
+      "start" : 0,
+      "end" : 327440
+    },
+    {
+      "titel" : "Harte Kost",
+      "start" : 327440,
+      "end" : 1000880
+    },
+    {
+      "titel" : "Lesley",
+      "start" : 1000880,
+      "end" : 1261093
+    },
+    {
+      "titel" : "Vollgas",
+      "start" : 1261093,
+      "end" : 1581600
+    },
+    {
+      "titel" : "Eisige Kälte",
+      "start" : 1581600,
+      "end" : 1995933
+    },
+    {
+      "titel" : "In Luft aufgelöst",
+      "start" : 1995933,
+      "end" : 2297253
+    },
+    {
+      "titel" : "Schweigepflicht",
+      "start" : 2297253,
+      "end" : 3317827
+    },
+    {
+      "titel" : "Höhenangst",
+      "start" : 3317827,
+      "end" : 4159653
+    },
+    {
+      "titel" : "Ausgetrickst",
+      "start" : 4159653,
+      "end" : 4703027
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Ben Hustler",
+      "Christian Brückner"
+    ],
+    [
+      "Loomy",
+      "Achim Schülke"
+    ],
+    [
+      "Angie",
+      "Angelika Bartsch"
+    ],
+    [
+      "Lesley",
+      "Ann Montenbruck"
+    ],
+    [
+      "Buchhändlerin",
+      "Victoria Fleer"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Mrs. Andrews",
+      "Heidrun von Goessel"
+    ],
+    [
+      "Kathy",
+      "Celine Fontanges"
+    ],
+    [
+      "Harry",
+      "Woody Mues"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/201/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/201/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/201/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/201/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/9a/4f/62/9a4f628f-d736-5fe4-ba54-1a1456c863f9/886447191583.jpg/3000x0w.png"
+  }
+}

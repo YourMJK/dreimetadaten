@@ -1,0 +1,134 @@
+{
+  "nummer" : 165,
+  "titel" : "Im Schatten des Giganten",
+  "autor" : "Kari Erlhoff",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die drei ??? begleiten Mr. Andrews auf eine Recherche-Reise in den Yosemite National Park. Doch anstatt sich zu erholen, finden sich Justus, Bob und Peter plötzlich mitten in einem hochgefährlichen Fall wieder: Einer von ihnen wird angeschossen, im Wald geben mysteriöse Blutspuren Rätsel auf und die drei Detektive machen einen schrecklichen Fund. Schließlich kommt es am Half Dome, dem großen Granitfelsen im Park, zu einer Kletterpartie auf Leben und Tod …",
+  "veröffentlichungsdatum" : "2013-11-29",
+  "kapitel" : [
+    {
+      "titel" : "Zwischen Himmel und Erde",
+      "start" : 0,
+      "end" : 337187
+    },
+    {
+      "titel" : "Das Tal der Unfälle",
+      "start" : 337187,
+      "end" : 477067
+    },
+    {
+      "titel" : "Im Schatten der Berge",
+      "start" : 477067,
+      "end" : 901987
+    },
+    {
+      "titel" : "\"Jene, die töten\"",
+      "start" : 901987,
+      "end" : 1260480
+    },
+    {
+      "titel" : "Getroffen!",
+      "start" : 1260480,
+      "end" : 1465107
+    },
+    {
+      "titel" : "Schlaflos im Yosemite Valley",
+      "start" : 1465107,
+      "end" : 1687787
+    },
+    {
+      "titel" : "Ein rätselhafter Anruf",
+      "start" : 1687787,
+      "end" : 2022933
+    },
+    {
+      "titel" : "Der Wahrheit auf der Spur",
+      "start" : 2022933,
+      "end" : 2244893
+    },
+    {
+      "titel" : "Ein grauenhafter Fund",
+      "start" : 2244893,
+      "end" : 3537587
+    },
+    {
+      "titel" : "In Lebensgefahr",
+      "start" : 3537587,
+      "end" : 3803453
+    },
+    {
+      "titel" : "Betrug am Berg",
+      "start" : 3803453,
+      "end" : 4217360
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Andrews",
+      "Henry König"
+    ],
+    [
+      "Randy",
+      "Marek Harloff"
+    ],
+    [
+      "Jeanne",
+      "Katja Brügger"
+    ],
+    [
+      "Ginette",
+      "Birte Kretschmer"
+    ],
+    [
+      "Tara",
+      "Angela Roy"
+    ],
+    [
+      "Steven",
+      "Robert Steudtner"
+    ],
+    [
+      "Ranger Thornton",
+      "Detlef Bierstedt"
+    ],
+    [
+      "Mr. Louis",
+      "Rüdiger Schulzki"
+    ],
+    [
+      "Busfahrer",
+      "Volker Bogdan"
+    ],
+    [
+      "Lindsey",
+      "Susan Jarling"
+    ],
+    [
+      "Reporter",
+      "Daniel Welbat"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/165/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/165/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/165/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/165/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/66/de/50/66de50ad-ee3f-8240-0268-961d5422af8e/886445756845.jpg/3000x0w.png"
+  }
+}

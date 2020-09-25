@@ -1,0 +1,94 @@
+{
+  "nummer" : 86,
+  "titel" : "Nacht in Angst",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Freitag abend, 20.25 Uhr, Steadman-Museum, Los Angeles: Mr. Peacock, der freundliche, aber schusselige Museums-Direktor, betritt mit Justus, Peter und Bob das Gebäude. In wenigen Minuten werden die drei Detektive exklusiv den wertvollsten Diamanten der Welt sehen: das berühmte Feuer des Mondes. 20.28 Uhr: Im Museum gehen die Lichter aus. Stromausfall? Sabotage? 20.30 Uhr: Fünf Gangster dringen in das Museum ein. Kurze Zeit später befinden sich Mr. Peacock und die drei ??? In ihrer Gewalt. Die Verbrecher wollen den Diamanten und sie sind breit, dafür über Leichen zu gehen.",
+  "veröffentlichungsdatum" : "1999-08-09",
+  "kapitel" : [
+    {
+      "titel" : "20:28 Uhr – Stromausfall",
+      "start" : 0,
+      "end" : 708707
+    },
+    {
+      "titel" : "21:01 Uhr – Erwischt",
+      "start" : 708707,
+      "end" : 1014947
+    },
+    {
+      "titel" : "21:47 Uhr – Lauschangriff",
+      "start" : 1014947,
+      "end" : 1727107
+    },
+    {
+      "titel" : "22:36 Uhr – Das Geheimnis des Nachtwächters",
+      "start" : 1727107,
+      "end" : 2250627
+    },
+    {
+      "titel" : "23:07 Uhr – Nichts als die Wahrheit",
+      "start" : 2250627,
+      "end" : 2726040
+    },
+    {
+      "titel" : "00:00 Uhr – Enthüllung um Mitternacht",
+      "start" : 2726040,
+      "end" : 3457213
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Mr. Peacock, Museumsdirektor",
+      "Helmut Ahner"
+    ],
+    [
+      "Alpha",
+      "Achim Schülke"
+    ],
+    [
+      "Beth",
+      "Katja Brügger"
+    ],
+    [
+      "Ernie",
+      "Wolfgang Hartmann"
+    ],
+    [
+      "Dog",
+      "Niko Minninger"
+    ],
+    [
+      "Ceewee",
+      "Michael Quiatkowski"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/086/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/086/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/086/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/086/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music20/v4/5c/1b/9c/5c1b9c85-f068-df45-5ab7-d8dddd2e4532/886445750119.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/2d/6b/46/0743216568727.jpg"
+  }
+}

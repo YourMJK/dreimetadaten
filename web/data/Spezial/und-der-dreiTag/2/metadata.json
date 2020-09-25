@@ -1,0 +1,164 @@
+{
+  "teilNummer" : 2,
+  "buchstabe" : "B",
+  "titel" : "Sicht B: Im Zeichen der Ritter",
+  "autor" : "Tim Wenderoth",
+  "beschreibung" : "Geheimnisvolle Symbole beunruhigen die Bewohner von Rocky Beach. Was steckt hinter den kryptischen Zeichen, die von einer geisterhaften Gestalt nachts an die Häuser gemalt werden? Und warum verhalten sich einige Bewohner der kleinen Küstenstadt so merkwürdig? Ihre ersten Nachforschungen bringen Justus, Peter und vor allem Bob auf die Spur einer mittelalterlichen Ritterlegende. Je intensiver sie sich mit dem Fall beschäftigen, umso klarer scheint, dass ihnen nur wenige Stunden bleiben, um am unheilvollen Freitag den 13. Schlimmeres zu verhindern …",
+  "kapitel" : [
+    {
+      "titel" : "Die Cola",
+      "start" : 0,
+      "end" : 262987
+    },
+    {
+      "titel" : "Papierdrachen",
+      "start" : 262987,
+      "end" : 490387
+    },
+    {
+      "titel" : "Außerirdische",
+      "start" : 490387,
+      "end" : 801680
+    },
+    {
+      "titel" : "Der Heilige Gral",
+      "start" : 801680,
+      "end" : 1008107
+    },
+    {
+      "titel" : "Freitag, der 13.",
+      "start" : 1008107,
+      "end" : 1488693
+    },
+    {
+      "titel" : "3 × 9 = 27",
+      "start" : 1488693,
+      "end" : 1719373
+    },
+    {
+      "titel" : "Blamiert",
+      "start" : 1719373,
+      "end" : 1958373
+    },
+    {
+      "titel" : "Jesper",
+      "start" : 1958373,
+      "end" : 2380533
+    },
+    {
+      "titel" : "Exklusivrechte",
+      "start" : 2380533,
+      "end" : 2786640
+    },
+    {
+      "titel" : "Cliffhanger",
+      "start" : 2786640,
+      "end" : 3126560
+    },
+    {
+      "titel" : "Film ab!",
+      "start" : 3126560,
+      "end" : 3353253
+    },
+    {
+      "titel" : "Rote Farbe",
+      "start" : 3353253,
+      "end" : 3904933
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Officer Flann Doyle",
+      "Douglas Welbat"
+    ],
+    [
+      "Gil Renard",
+      "Udo Schenk"
+    ],
+    [
+      "Hedy Carlson",
+      "Luise Helm"
+    ],
+    [
+      "Peter Foster",
+      "Gerrit Schmidt-Foss"
+    ],
+    [
+      "Mrs. Shaw",
+      "Isabella Grote"
+    ],
+    [
+      "Sebastian Dawson",
+      "Bastian Pastewka"
+    ],
+    [
+      "Annie Wilkes",
+      "Regina Lemnitz"
+    ],
+    [
+      "Mädchen 1",
+      "Katinka Körting"
+    ],
+    [
+      "Mädchen 2",
+      "Jacqueline Meybauer"
+    ],
+    [
+      "Georgina",
+      "Maud Ackermann"
+    ],
+    [
+      "Alter Mann",
+      "Jörg Gillner"
+    ],
+    [
+      "Junger Mann",
+      "Patrick Bach"
+    ],
+    [
+      "Dick Perry",
+      "Ernst H. Hilbich"
+    ],
+    [
+      "Matthew Gabbin",
+      "Jürgen Thormann"
+    ],
+    [
+      "Steve",
+      "Sascha Drager"
+    ],
+    [
+      "Radiosprecher",
+      "Tobias Meister"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/rip_log.txt"
+  }
+}

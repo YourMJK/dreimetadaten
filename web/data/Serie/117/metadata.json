@@ -1,0 +1,126 @@
+{
+  "nummer" : 117,
+  "titel" : "Der finstere Rivale",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Mitten in der Nacht wird von einem Unbekannten ein geheimnisvoller Koffer über den Zaun des Schrottplatzes geworfen. Justus, Peter und Bob trauen ihren Augen kaum, als sie feststellen, was das Fundstück enthält. Wer hat den Koffer über den Zaun geworfen? Und warum? Für wen war er eigentlich bestimmt? Die drei ??? stürzen sich in die Ermittlungen. Doch erst als auf dem Schrottplatz ein Feuer ausbricht, realisieren die Detektive, dass sie in großer Gefahr schweben.",
+  "veröffentlichungsdatum" : "2004-09-06",
+  "kapitel" : [
+    {
+      "titel" : "Kommt ein Koffer geflogen …",
+      "start" : 0,
+      "end" : 632720
+    },
+    {
+      "titel" : "Feuer!",
+      "start" : 632720,
+      "end" : 836907
+    },
+    {
+      "titel" : "Hinterher!",
+      "start" : 836907,
+      "end" : 1171240
+    },
+    {
+      "titel" : "Kontrolle ist besser",
+      "start" : 1171240,
+      "end" : 1756587
+    },
+    {
+      "titel" : "Der Pakt",
+      "start" : 1756587,
+      "end" : 2356800
+    },
+    {
+      "titel" : "Operation Geldkoffer",
+      "start" : 2356800,
+      "end" : 2508120
+    },
+    {
+      "titel" : "Reisepläne",
+      "start" : 2508120,
+      "end" : 2601440
+    },
+    {
+      "titel" : "In der Klemme",
+      "start" : 2601440,
+      "end" : 3065427
+    },
+    {
+      "titel" : "Verschwunden",
+      "start" : 3065427,
+      "end" : 3196347
+    },
+    {
+      "titel" : "Falschgeld",
+      "start" : 3196347,
+      "end" : 3370160
+    },
+    {
+      "titel" : "Ein ehrlicher Staatsbürger",
+      "start" : 3370160,
+      "end" : 3640027
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Skinny Norris",
+      "Andreas von der Meden"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Godwin",
+      "André Minninger"
+    ],
+    [
+      "Wagner",
+      "Jürgen Thormann"
+    ],
+    [
+      "Beaumont",
+      "Douglas Welbat"
+    ],
+    [
+      "Calhoon",
+      "Bernd Stephan"
+    ],
+    [
+      "Mike",
+      "Arndt Schmöle"
+    ],
+    [
+      "Zia",
+      "Brigitte Böttrich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/117/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/117/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/117/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/117/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/05/ce/52/05ce52f9-bc46-0d1a-f206-62a961f85b47/886445752137.jpg/3000x0w.png"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "nummer" : 169,
+  "titel" : "Die Spur des Spielers",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Bei einer Versteigerung auf dem Schrottplatz von Onkel Titus kommt ein scheinbar wertloses Schachspiel für eine ungeheure Summe unter den Hammer. Kurze Zeit später wird das Spiel gestohlen – ein neuer Fall für die drei ???! Welches Geheimnis birgt das Spiel? Wem hat es gehört? Die Zeit drängt, denn Justus, Peter und Bob sind nicht die Einzigen, die das Rätsel lösen wollen. Und nicht jede Figur in diesem Spiel ist das, was sie zu sein scheint …",
+  "veröffentlichungsdatum" : "2014-07-04",
+  "kapitel" : [
+    {
+      "titel" : "Unterm Hammer",
+      "start" : 0,
+      "end" : 527773
+    },
+    {
+      "titel" : "Fahrerflucht",
+      "start" : 527773,
+      "end" : 897787
+    },
+    {
+      "titel" : "Krankenbesuch",
+      "start" : 897787,
+      "end" : 1208453
+    },
+    {
+      "titel" : "Zwillinge hinter dem Fliegengitter",
+      "start" : 1208453,
+      "end" : 1677960
+    },
+    {
+      "titel" : "Sam Chiccarelli",
+      "start" : 1677960,
+      "end" : 1943080
+    },
+    {
+      "titel" : "Analysen",
+      "start" : 1943080,
+      "end" : 2269173
+    },
+    {
+      "titel" : "Der verschwundene Großmeister",
+      "start" : 2269173,
+      "end" : 2756547
+    },
+    {
+      "titel" : "Mrs. Hammontrees Geheimnis",
+      "start" : 2756547,
+      "end" : 3527960
+    },
+    {
+      "titel" : "Wer ist wer?",
+      "start" : 3527960,
+      "end" : 4155387
+    },
+    {
+      "titel" : "Die Lansky-Eröffnung",
+      "start" : 4155387,
+      "end" : 4910587
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Bradley",
+      "Nico König"
+    ],
+    [
+      "Bishop Blake",
+      "Wolf Frass"
+    ],
+    [
+      "Junge Frau",
+      "Heikedine Körting"
+    ],
+    [
+      "Derek",
+      "Tim Helssen"
+    ],
+    [
+      "Mrs. Kretschmer",
+      "Monika Werner"
+    ],
+    [
+      "Chastity",
+      "Undine Ullmer"
+    ],
+    [
+      "Charity",
+      "Kassandra Ullmer"
+    ],
+    [
+      "Sam Chiccarelli",
+      "Astrid Kollex"
+    ],
+    [
+      "Griffin Silverman",
+      "Stephan Schad"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/169/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/169/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/169/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/169/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/6b/8b/e7/6b8be764-71f3-b9f1-1873-8607be4ebaf8/886445756937.jpg/3000x0w.png"
+  }
+}

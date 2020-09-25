@@ -1,0 +1,153 @@
+{
+  "teilNummer" : 2,
+  "buchstabe" : "B",
+  "titel" : "Der Pfad der Täuschung",
+  "beschreibung" : "Welche Informationen hat der gesuchte Meisterdieb Victor Hugenay über das berühmte, verschollene Gemälde Feuermond, hinter dem so viele her sind? Justus, Peter und Bob müssen haarscharf kombinieren. Unter Einsatz aller Kräfte treiben die drei ??? den Fall voran. Sogar die Zentrale, der betagte Wohnwagen, muss für einen atemberaubenden Einsatz auf kurvenreicher Straße herhalten …",
+  "kapitel" : [
+    {
+      "titel" : "Das Schweigen des Meisterdiebs",
+      "start" : 0,
+      "end" : 347000
+    },
+    {
+      "titel" : "Überwacht",
+      "start" : 347000,
+      "end" : 489160
+    },
+    {
+      "titel" : "Hugenays Geschichte",
+      "start" : 489160,
+      "end" : 1005013
+    },
+    {
+      "titel" : "Erpressung",
+      "start" : 1005013,
+      "end" : 1399347
+    },
+    {
+      "titel" : "Keine Spur im Sand",
+      "start" : 1399347,
+      "end" : 1514147
+    },
+    {
+      "titel" : "Quitt",
+      "start" : 1514147,
+      "end" : 1656853
+    },
+    {
+      "titel" : "Erwischt!",
+      "start" : 1656853,
+      "end" : 1896333
+    },
+    {
+      "titel" : "Gratulation",
+      "start" : 1896333,
+      "end" : 2051707
+    },
+    {
+      "titel" : "Observation Kunstexpertin",
+      "start" : 2051707,
+      "end" : 2217267
+    },
+    {
+      "titel" : "Spitznamen",
+      "start" : 2217267,
+      "end" : 2503840
+    },
+    {
+      "titel" : "Der Weltenseher",
+      "start" : 2503840,
+      "end" : 2795253
+    },
+    {
+      "titel" : "Baupläne",
+      "start" : 2795253,
+      "end" : 3241027
+    },
+    {
+      "titel" : "Erdrutsch",
+      "start" : 3241027,
+      "end" : 3924080
+    },
+    {
+      "titel" : "\"Zwischen 11 und 12\"",
+      "start" : 3924080,
+      "end" : 4166213
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Brittany",
+      "Dorette Hugo"
+    ],
+    [
+      "Hugenay",
+      "Albert Giro"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Graham, Reporter",
+      "Thomas Bammer"
+    ],
+    [
+      "Julianne Wallace",
+      "Marlen Diekhoff"
+    ],
+    [
+      "Sharon Lockwood",
+      "Nova Meierhenrich"
+    ],
+    [
+      "Moderator",
+      "Holger Wemhoff"
+    ],
+    [
+      "Polizist 1",
+      "Fabian Harloff"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Mrs. Albright",
+      "Lotti Krekel"
+    ],
+    [
+      "Mr. Myers",
+      "Eberhard Haar"
+    ],
+    [
+      "LKW-Fahrer",
+      "Nick Heidfeld"
+    ],
+    [
+      "Onkel Titus Jonas",
+      "Hans Meinhardt"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/125/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/2/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/125/2/rip_log.txt"
+  }
+}

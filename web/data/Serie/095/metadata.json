@@ -1,0 +1,90 @@
+{
+  "nummer" : 95,
+  "titel" : "Botschaft von Geisterhand",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Dr. Arroway, Archäologin und Spezialistin auf dem Gebiet der alten Maya-Indianer, erfährt durch Zufall, dass sie bestohlen werden soll: Ein geheimnisvoller Unbekannter hat es auf das heilige Buch der Maya abgesehen, das Popol Vuh. Warum ist dieses Buch so wichtig? Verbirgt sich darin eine geheime Botschaft? Wer hat Interesse daran, sie zu entschlüsseln? Die drei Detektive aus Rocky Beach nehmen sich die Falls an und versuchen das Rätsel zu lösen. Doch als das Popol Vuh gestohlen wird, drängt die Zeit – wer lüftet als Erster das Geheimnis des heiligen Buches?",
+  "veröffentlichungsdatum" : "2001-02-12",
+  "kapitel" : [
+    {
+      "titel" : "Die unsichtbare Botschaft",
+      "start" : 0,
+      "end" : 666293
+    },
+    {
+      "titel" : "Popol Vuh",
+      "start" : 666293,
+      "end" : 1131747
+    },
+    {
+      "titel" : "Die Telefon-Lawine",
+      "start" : 1131747,
+      "end" : 1802573
+    },
+    {
+      "titel" : "Die Observierung",
+      "start" : 1802573,
+      "end" : 2516373
+    },
+    {
+      "titel" : "Melody",
+      "start" : 2516373,
+      "end" : 2997640
+    },
+    {
+      "titel" : "Das Geheimnis des heiligen Buches",
+      "start" : 2997640,
+      "end" : 3603800
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Jelena Charkov",
+      "Alexandra Doerk"
+    ],
+    [
+      "Mr. Charkov",
+      "Klaus Dittmann"
+    ],
+    [
+      "Dr. Arroway",
+      "Sona Cervena"
+    ],
+    [
+      "Janet, ihre Assistentin",
+      "Ute Rohrbeck"
+    ],
+    [
+      "Tom Gordon",
+      "Philip Hoier"
+    ],
+    [
+      "Dixon",
+      "Utz Richter"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/095/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/095/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/095/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/095/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music60/v4/c8/99/a0/c899a0c7-c833-93d2-b4e3-00b2e4657e07/886445750409.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/74/5f/77/0743218255427.jpg"
+  }
+}

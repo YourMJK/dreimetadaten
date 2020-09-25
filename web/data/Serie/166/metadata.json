@@ -1,0 +1,100 @@
+{
+  "nummer" : 166,
+  "titel" : "und die brennende Stadt",
+  "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ex-Kommissar Reynolds stattet den drei Detektiven einen Besuch ab. Es geht um das rätselhafte Testament seines Bruders, das Justus, Peter und Bob für ihren alten Freund entschlüsseln sollen. Ehe sie sich's versehen, stecken die drei ??? mitten in einem brandheißen Fall, der ihren vollen Einsatz verlangt. Denn das Erbe ruft düstere Gestalten auf den Plan – und die schrecken vor nichts zurück …",
+  "veröffentlichungsdatum" : "2014-01-17",
+  "kapitel" : [
+    {
+      "titel" : "Nachricht aus dem Grab",
+      "start" : 0,
+      "end" : 711907
+    },
+    {
+      "titel" : "Es brennt",
+      "start" : 711907,
+      "end" : 1016347
+    },
+    {
+      "titel" : "Geisterschwaden",
+      "start" : 1016347,
+      "end" : 1492533
+    },
+    {
+      "titel" : "Eine gewisse Ähnlichkeit",
+      "start" : 1492533,
+      "end" : 1655520
+    },
+    {
+      "titel" : "Der Stadtforscher",
+      "start" : 1655520,
+      "end" : 2391173
+    },
+    {
+      "titel" : "Die Falle schnappt zu",
+      "start" : 2391173,
+      "end" : 2633853
+    },
+    {
+      "titel" : "In die Tiefe",
+      "start" : 2633853,
+      "end" : 3208480
+    },
+    {
+      "titel" : "Katastrophe in der Dunkelheit",
+      "start" : 3208480,
+      "end" : 3791347
+    },
+    {
+      "titel" : "Was damals in der Finsternis geschah",
+      "start" : 3791347,
+      "end" : 4063013
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Mr. Bennet",
+      "Sven Dahlem"
+    ],
+    [
+      "Mrs. Dearing",
+      "Saskia Weckler"
+    ],
+    [
+      "Conrad Nash",
+      "Rüdiger Schulzki"
+    ],
+    [
+      "Frau",
+      "Elga Schütz"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/166/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/166/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/166/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/166/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music71/v4/0e/5c/00/0e5c005f-67c8-12ab-2320-9bad2b36de6b/886445756883.jpg/3000x0w.png"
+  }
+}

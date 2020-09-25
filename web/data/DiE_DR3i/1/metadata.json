@@ -1,0 +1,357 @@
+{
+  "nummer" : 1,
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "kapitel" : [
+        {
+          "titel" : "Der Phantom-Anwalt",
+          "start" : 0,
+          "end" : 553040
+        },
+        {
+          "titel" : "Der Untergang der Liberty Bell",
+          "start" : 553040,
+          "end" : 915680
+        },
+        {
+          "titel" : "Erfolgreiche Recherche",
+          "start" : 915680,
+          "end" : 1283907
+        },
+        {
+          "titel" : "Folgenschwerer Anruf",
+          "start" : 1283907,
+          "end" : 1404987
+        },
+        {
+          "titel" : "Mysteriöses Testament",
+          "start" : 1404987,
+          "end" : 1795267
+        },
+        {
+          "titel" : "Held ohne Ehre",
+          "start" : 1795267,
+          "end" : 2091800
+        },
+        {
+          "titel" : "Beschattet",
+          "start" : 2091800,
+          "end" : 2317507
+        },
+        {
+          "titel" : "O'Malley's Rock",
+          "start" : 2317507,
+          "end" : 2563667
+        },
+        {
+          "titel" : "Der zweite Fall",
+          "start" : 2563667,
+          "end" : 2916627
+        },
+        {
+          "titel" : "Leviathan",
+          "start" : 2916627,
+          "end" : 3377427
+        },
+        {
+          "titel" : "Das Geisterhaus am Meer",
+          "start" : 3377427,
+          "end" : 3602520
+        },
+        {
+          "titel" : "Ein schreckliches Geheimnis",
+          "start" : 3602520,
+          "end" : 3767440
+        },
+        {
+          "titel" : "Jagd auf den Unbekannten",
+          "start" : 3767440,
+          "end" : 3918160
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/1/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/1/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "kapitel" : [
+        {
+          "titel" : "Feindbesuch",
+          "start" : 0,
+          "end" : 327707
+        },
+        {
+          "titel" : "Die Geliebte des Globetrotters",
+          "start" : 327707,
+          "end" : 575827
+        },
+        {
+          "titel" : "Apelles post tabulam",
+          "start" : 575827,
+          "end" : 784987
+        },
+        {
+          "titel" : "Monsterbesuche",
+          "start" : 784987,
+          "end" : 1390253
+        },
+        {
+          "titel" : "Einbruch in der Zentrale!",
+          "start" : 1390253,
+          "end" : 1611853
+        },
+        {
+          "titel" : "Der Mikrochip",
+          "start" : 1611853,
+          "end" : 2069920
+        },
+        {
+          "titel" : "Die Zeit läuft ab",
+          "start" : 2069920,
+          "end" : 2471813
+        },
+        {
+          "titel" : "Das Seeungeheuer",
+          "start" : 2471813,
+          "end" : 2652533
+        },
+        {
+          "titel" : "Versteck in den Felsen",
+          "start" : 2652533,
+          "end" : 2825280
+        },
+        {
+          "titel" : "Die Falle schnappt zu",
+          "start" : 2825280,
+          "end" : 3305600
+        },
+        {
+          "titel" : "Tödliche Fluten",
+          "start" : 3305600,
+          "end" : 3496547
+        },
+        {
+          "titel" : "Alle vereint",
+          "start" : 3496547,
+          "end" : 3907093
+        },
+        {
+          "titel" : "Das Rätsel aller Rätsel",
+          "start" : 3907093,
+          "end" : 4075613
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/2/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/2/rip_log.txt"
+      }
+    }
+  ],
+  "titel" : "Das Seeungeheuer",
+  "autor" : "Hendrik Buchna",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein Anwalt mit düsterer Vergangenheit, ein einsames Küstenhaus mit einem furchtbaren Geheimnis und ein rätselhaftes Testament … Die Belastbarkeit von Jupiter, Peter und Bob wird diesmal wahrlich auf eine harte Probe gestellt. Doch damit nicht genug. Während ihrer Nachforschungen wird das Trio mit der Aufklärung eines mysteriösen Schiffsunglücks beauftragt. Unheilvolle Vermutungen werden bald zur schrecklichen Gewissheit: Aus den finsteren Tiefen des Ozeans ist ein riesenhaftes Monstrum aufgetaucht!\nWerden Die Dr3i die tödliche Gefahr von Kalifornien Küste abwenden können?",
+  "veröffentlichungsdatum" : "2006-10-13",
+  "kapitel" : [
+    {
+      "titel" : "Der Phantom-Anwalt",
+      "start" : 0,
+      "end" : 553040
+    },
+    {
+      "titel" : "Der Untergang der Liberty Bell",
+      "start" : 553040,
+      "end" : 915680
+    },
+    {
+      "titel" : "Erfolgreiche Recherche",
+      "start" : 915680,
+      "end" : 1283907
+    },
+    {
+      "titel" : "Folgenschwerer Anruf",
+      "start" : 1283907,
+      "end" : 1404987
+    },
+    {
+      "titel" : "Mysteriöses Testament",
+      "start" : 1404987,
+      "end" : 1795267
+    },
+    {
+      "titel" : "Held ohne Ehre",
+      "start" : 1795267,
+      "end" : 2091800
+    },
+    {
+      "titel" : "Beschattet",
+      "start" : 2091800,
+      "end" : 2317507
+    },
+    {
+      "titel" : "O'Malley's Rock",
+      "start" : 2317507,
+      "end" : 2563667
+    },
+    {
+      "titel" : "Der zweite Fall",
+      "start" : 2563667,
+      "end" : 2916627
+    },
+    {
+      "titel" : "Leviathan",
+      "start" : 2916627,
+      "end" : 3377427
+    },
+    {
+      "titel" : "Das Geisterhaus am Meer",
+      "start" : 3377427,
+      "end" : 3602520
+    },
+    {
+      "titel" : "Ein schreckliches Geheimnis",
+      "start" : 3602520,
+      "end" : 3767440
+    },
+    {
+      "titel" : "Jagd auf den Unbekannten",
+      "start" : 3767440,
+      "end" : 3918160
+    },
+    {
+      "titel" : "Feindbesuch",
+      "start" : 3918160,
+      "end" : 4245867
+    },
+    {
+      "titel" : "Die Geliebte des Globetrotters",
+      "start" : 4245867,
+      "end" : 4493987
+    },
+    {
+      "titel" : "Apelles post tabulam",
+      "start" : 4493987,
+      "end" : 4703147
+    },
+    {
+      "titel" : "Monsterbesuche",
+      "start" : 4703147,
+      "end" : 5308413
+    },
+    {
+      "titel" : "Einbruch in der Zentrale!",
+      "start" : 5308413,
+      "end" : 5530013
+    },
+    {
+      "titel" : "Der Mikrochip",
+      "start" : 5530013,
+      "end" : 5988080
+    },
+    {
+      "titel" : "Die Zeit läuft ab",
+      "start" : 5988080,
+      "end" : 6389973
+    },
+    {
+      "titel" : "Das Seeungeheuer",
+      "start" : 6389973,
+      "end" : 6570693
+    },
+    {
+      "titel" : "Versteck in den Felsen",
+      "start" : 6570693,
+      "end" : 6743440
+    },
+    {
+      "titel" : "Die Falle schnappt zu",
+      "start" : 6743440,
+      "end" : 7223760
+    },
+    {
+      "titel" : "Tödliche Fluten",
+      "start" : 7223760,
+      "end" : 7414707
+    },
+    {
+      "titel" : "Alle vereint",
+      "start" : 7414707,
+      "end" : 7825253
+    },
+    {
+      "titel" : "Das Rätsel aller Rätsel",
+      "start" : 7825253,
+      "end" : 7993773
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Jupiter Jones",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Crenshaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Inspektor Milton",
+      "Holger Mahlich"
+    ],
+    [
+      "Mrs. Ashby",
+      "Sabine Hahn"
+    ],
+    [
+      "Charles Prendergast",
+      "Rolf Nagel"
+    ],
+    [
+      "Richard Crandall",
+      "Konstantin Graudus"
+    ],
+    [
+      "Kirk Prendergast",
+      "Wolf Frass"
+    ],
+    [
+      "Blacky",
+      "Heikedine Körting"
+    ],
+    [
+      "Jonathan Godfrey",
+      "Eric Schäffler"
+    ],
+    [
+      "Carlos",
+      "Eduardo Garcia"
+    ],
+    [
+      "Garrett",
+      "Dietrich Adam"
+    ],
+    [
+      "Riteman",
+      "Till Demtrøder"
+    ],
+    [
+      "Stanley",
+      "Lutz Schnell"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/1/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/1/cover.png"
+  }
+}

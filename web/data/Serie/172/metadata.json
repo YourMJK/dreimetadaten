@@ -1,0 +1,130 @@
+{
+  "nummer" : 172,
+  "titel" : "und der Eisenmann",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Auf einer einsamen Insel stoßen die drei ??? auf den Künstler Drago Martinez. Der hat großen Erfolg mit seinem einzigartigen Werk Eisenmann. Doch die Freude darüber ist kurz: Drago wird verfolgt und fürchtet um sein Leben! Steckt ein verrückter Kunstliebhaber dahinter? Offenbar sind die drei Freunde der Lösung zu nahe, denn jemand lockt sie in einen Hinterhalt …",
+  "veröffentlichungsdatum" : "2014-11-28",
+  "kapitel" : [
+    {
+      "titel" : "Giftiges Geheimnis",
+      "start" : 0,
+      "end" : 517893
+    },
+    {
+      "titel" : "Eisenmann",
+      "start" : 517893,
+      "end" : 750520
+    },
+    {
+      "titel" : "Ein toter Vogel",
+      "start" : 750520,
+      "end" : 1555160
+    },
+    {
+      "titel" : "Kundschaft",
+      "start" : 1555160,
+      "end" : 1786840
+    },
+    {
+      "titel" : "Unter Verdacht",
+      "start" : 1786840,
+      "end" : 2064840
+    },
+    {
+      "titel" : "Gsch-Gsch!",
+      "start" : 2064840,
+      "end" : 2345920
+    },
+    {
+      "titel" : "Filmreife Flucht",
+      "start" : 2345920,
+      "end" : 2657213
+    },
+    {
+      "titel" : "Ein seltsamer Irrtum",
+      "start" : 2657213,
+      "end" : 2886973
+    },
+    {
+      "titel" : "Fragen über Fragen",
+      "start" : 2886973,
+      "end" : 3353173
+    },
+    {
+      "titel" : "Nacht im Bunker",
+      "start" : 3353173,
+      "end" : 4237453
+    },
+    {
+      "titel" : "Die letzten Fragen",
+      "start" : 4237453,
+      "end" : 4375213
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Drago Martinez",
+      "Konstantin Graudus"
+    ],
+    [
+      "Fred Osborne",
+      "Erik Schäffler"
+    ],
+    [
+      "Cecile Jezero",
+      "Sandra Quadflieg"
+    ],
+    [
+      "Deborah",
+      "Kornelia Lüdorff"
+    ],
+    [
+      "Short",
+      "Manfred Liptow"
+    ],
+    [
+      "Anthony",
+      "Lutz Harder"
+    ],
+    [
+      "Godween",
+      "André Minninger"
+    ],
+    [
+      "Heavy Metal",
+      "Iris Rufner"
+    ],
+    [
+      "Arthur Pepper",
+      "Frank Thannhäuser"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/172/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/172/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/172/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/172/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/eb/58/fc/eb58fc10-8f12-f39b-5dae-705642388a45/886445760071.jpg/3000x0w.png"
+  }
+}

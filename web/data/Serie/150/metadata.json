@@ -1,0 +1,623 @@
+{
+  "nummer" : 150,
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "buchstabe" : "A",
+      "titel" : "Rashuras Schatz",
+      "beschreibung" : "Die drei berühmten Detektive aus Rocky Beach müssen ein Rätsel lösen, das ihnen der schrullige Harry Shreber in seinem Testament hinterlassen hat. Schnell finden sie heraus, dass der erste Hinweis in einem schrottreifen Flugzeug in Shrebers Garten versteckt sein könnte. Die Suche nach Rashuras Schatz beginnt – aber Justus, Peter und Bob sind bei weitem nicht die Einzigen, die das Rätsel lösen wollen …",
+      "kapitel" : [
+        {
+          "titel" : "Eine rätselhafte Erbschaft",
+          "start" : 0,
+          "end" : 524213
+        },
+        {
+          "titel" : "Persönliche Einschätzung",
+          "start" : 524213,
+          "end" : 771373
+        },
+        {
+          "titel" : "Das Haus des Sammlers",
+          "start" : 771373,
+          "end" : 1255853
+        },
+        {
+          "titel" : "Cochin Big Blind",
+          "start" : 1255853,
+          "end" : 1725040
+        },
+        {
+          "titel" : "Überfall",
+          "start" : 1725040,
+          "end" : 1844480
+        },
+        {
+          "titel" : "Verschlossen",
+          "start" : 1844480,
+          "end" : 1963693
+        },
+        {
+          "titel" : "Auf Draht",
+          "start" : 1963693,
+          "end" : 2098240
+        },
+        {
+          "titel" : "Der Flugzeugfan",
+          "start" : 2098240,
+          "end" : 2380493
+        },
+        {
+          "titel" : "Konkurrenz schläft nicht",
+          "start" : 2380493,
+          "end" : 2464707
+        },
+        {
+          "titel" : "Atemlos",
+          "start" : 2464707,
+          "end" : 2725533
+        },
+        {
+          "titel" : "Gerry",
+          "start" : 2725533,
+          "end" : 3283107
+        },
+        {
+          "titel" : "Verkauft",
+          "start" : 3283107,
+          "end" : 3494347
+        },
+        {
+          "titel" : "Der Uhrensammler",
+          "start" : 3494347,
+          "end" : 3782093
+        },
+        {
+          "titel" : "Ein Detektiv verschwindet",
+          "start" : 3782093,
+          "end" : 4055093
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Frank Mason",
+          "Wolfgang Condrus"
+        ],
+        [
+          "Miles Dempster",
+          "Stephan Benson"
+        ],
+        [
+          "Mr. Sapchevsky",
+          "Andreas Schmidt-Schaller"
+        ],
+        [
+          "Gerry",
+          "Kostja Ullmann"
+        ],
+        [
+          "Ismael",
+          "Stephan Schad"
+        ],
+        [
+          "Carla Fenton",
+          "Natalie O'Hara"
+        ],
+        [
+          "Mrs. Maruthers",
+          "Ulrike Johannson"
+        ],
+        [
+          "Inspektor Havilland",
+          "Oliver Kalkofe"
+        ],
+        [
+          "Taylor",
+          "Bernhard Hoecker"
+        ],
+        [
+          "Inspektor Cotta",
+          "Holger Mahlich"
+        ],
+        [
+          "Angelica",
+          "Anna Thalbach"
+        ],
+        [
+          "Schwester 1",
+          "Manuela Becker"
+        ],
+        [
+          "Schwester 2",
+          "Traudel Sperber"
+        ],
+        [
+          "Pfleger",
+          "Sven Dahlem"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/150/1/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/1/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/150/1/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "buchstabe" : "B",
+      "titel" : "Flammendes Wasser",
+      "beschreibung" : "Die Spur zu Rashuras Schatz führt die drei ??? hoch in die Berge, tief unter die Erde und hinaus auf die offene See. Aber mit jedem Hinweis wird alles nur noch geheimnisvoller – und gefährlicher! Ein Wettlauf mit der Zeit beginnt …",
+      "kapitel" : [
+        {
+          "titel" : "Fragezeichen",
+          "start" : 0,
+          "end" : 140907
+        },
+        {
+          "titel" : "In Rashuras Hölle",
+          "start" : 140907,
+          "end" : 518107
+        },
+        {
+          "titel" : "Rettung",
+          "start" : 518107,
+          "end" : 716720
+        },
+        {
+          "titel" : "Wo ist Bob?",
+          "start" : 716720,
+          "end" : 975200
+        },
+        {
+          "titel" : "Heimlicher Fan",
+          "start" : 975200,
+          "end" : 1200120
+        },
+        {
+          "titel" : "Ein Hauch von Gift",
+          "start" : 1200120,
+          "end" : 1542440
+        },
+        {
+          "titel" : "Der Stern von Kerala",
+          "start" : 1542440,
+          "end" : 1910600
+        },
+        {
+          "titel" : "Eine wichtige Spur",
+          "start" : 1910600,
+          "end" : 2003600
+        },
+        {
+          "titel" : "Ein verdächtiger Polizist",
+          "start" : 2003600,
+          "end" : 2269573
+        },
+        {
+          "titel" : "Strandcafé Rocky Beach",
+          "start" : 2269573,
+          "end" : 2545627
+        },
+        {
+          "titel" : "Leviathan",
+          "start" : 2545627,
+          "end" : 2975827
+        },
+        {
+          "titel" : "Selbstmord",
+          "start" : 2975827,
+          "end" : 3128573
+        },
+        {
+          "titel" : "Hände hoch!",
+          "start" : 3128573,
+          "end" : 3275920
+        },
+        {
+          "titel" : "Ausbruch",
+          "start" : 3275920,
+          "end" : 3736453
+        },
+        {
+          "titel" : "Poker-Einsatz",
+          "start" : 3736453,
+          "end" : 3911413
+        },
+        {
+          "titel" : "Untergang",
+          "start" : 3911413,
+          "end" : 4100240
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Morton",
+          "Andreas von der Meden"
+        ],
+        [
+          "Taylor",
+          "Bernhard Hoecker"
+        ],
+        [
+          "Mr. Smith",
+          "Tim Grobe"
+        ],
+        [
+          "Curtis Fisher",
+          "Tobias Schmidt"
+        ],
+        [
+          "Amrita Chakyar",
+          "Angela Stresemann"
+        ],
+        [
+          "Inspektor Havilland",
+          "Oliver Kalkofe"
+        ],
+        [
+          "Ismael",
+          "Stephan Schad"
+        ],
+        [
+          "Angelica",
+          "Anna Thalbach"
+        ],
+        [
+          "Sergeant Madhu",
+          "Olli Dittrich"
+        ],
+        [
+          "Mr. Andrews",
+          "Henry König"
+        ],
+        [
+          "Mrs. Andrews",
+          "Konstanze Ullmer"
+        ],
+        [
+          "Frank Mason",
+          "Wolfgang Condrus"
+        ],
+        [
+          "Mr. Raffer",
+          "Harald Dietl"
+        ],
+        [
+          "Feuerwehrmann",
+          "Kai-Hendrik Möller"
+        ],
+        [
+          "Kapitän",
+          "Sky du Mont"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/150/2/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/2/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/150/2/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 3,
+      "buchstabe" : "C",
+      "titel" : "Der brennende Kristall",
+      "beschreibung" : "Noch immer haben Justus, Peter und Bob das Rätsel aus dem Testament nicht lösen können. Welche Rolle spielen Moby Dick und der brennende Kristall? Die drei ??? begeben sich zur Geisterbucht, um das Geheimnis zu lüften. Doch sie sind nicht allein! Jeder pokert hoch in diesem Spiel, das nur einer gewinnen kann …",
+      "kapitel" : [
+        {
+          "titel" : "Blödmänner",
+          "start" : 0,
+          "end" : 281320
+        },
+        {
+          "titel" : "Streit um eine Frau",
+          "start" : 281320,
+          "end" : 499720
+        },
+        {
+          "titel" : "Anudharas Fluch",
+          "start" : 499720,
+          "end" : 789240
+        },
+        {
+          "titel" : "Rachel's Delight",
+          "start" : 789240,
+          "end" : 1283040
+        },
+        {
+          "titel" : "Tauchgang in der Geisterbucht",
+          "start" : 1283040,
+          "end" : 1909547
+        },
+        {
+          "titel" : "Kennziffer",
+          "start" : 1909547,
+          "end" : 2095147
+        },
+        {
+          "titel" : "Familienangelegenheiten",
+          "start" : 2095147,
+          "end" : 2256840
+        },
+        {
+          "titel" : "Indisch",
+          "start" : 2256840,
+          "end" : 2769733
+        },
+        {
+          "titel" : "Eine Falle",
+          "start" : 2769733,
+          "end" : 2920173
+        },
+        {
+          "titel" : "Keine Tricks",
+          "start" : 2920173,
+          "end" : 3145560
+        },
+        {
+          "titel" : "Die letzte Tür",
+          "start" : 3145560,
+          "end" : 3763400
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Morton",
+          "Andreas von der Meden"
+        ],
+        [
+          "Frank Mason",
+          "Wolfgang Condrus"
+        ],
+        [
+          "Taylor",
+          "Bernhard Hoecker"
+        ],
+        [
+          "Curtis Fisher",
+          "Tobias Schmidt"
+        ],
+        [
+          "John Fisher",
+          "Dirk Bach"
+        ],
+        [
+          "Gerry",
+          "Kostja Ullmann"
+        ],
+        [
+          "Ismael",
+          "Stephan Schad"
+        ],
+        [
+          "Mr. Smith",
+          "Tim Grobe"
+        ],
+        [
+          "Mrs. Maruthers",
+          "Ulrike Johannson"
+        ],
+        [
+          "Angelica",
+          "Anna Thalbach"
+        ],
+        [
+          "Sergeant Madhu",
+          "Olli Dittrich"
+        ],
+        [
+          "Mr. Castro",
+          "Jörg Gillner"
+        ],
+        [
+          "Sanitäter",
+          "Robert Kottula"
+        ],
+        [
+          "Anudhara",
+          "Rosakutty Hemsing"
+        ],
+        [
+          "Ruth",
+          "Gabriele Libbach"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/150/3/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/3/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/150/3/rip_log.txt"
+      }
+    }
+  ],
+  "titel" : "Geisterbucht",
+  "autor" : "Astrid Vollenbruch",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die drei ??? übernehmen und lösen (hoffentlich!) ihren 150sten Fall! In drei atemberaubenden Folgen sind sie dem Rätsel der Geisterbucht auf der Spur! Welches Geheimnis verbirgt sich hinter dem Testament, dass der exzentrische Harry Shreber kurz vor seinem Tod verfasst hat? Führen die verschlüsselten Verse tatsächlich zu Rashuras Schatz? (Teil A) Den drei Detektiven wird nichts anderes übrig bleiben: Sie müssen in Flammendes Wasser (Teil B) hinab tauchen, denn nur in der Tiefe des Meeres kann geklärt werden, warum Der brennende Kristall (Teil C) so viel Unglück über eine große Anzahl Menschen bringen konnte …",
+  "veröffentlichungsdatum" : "2011-11-11",
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Frank Mason",
+      "Wolfgang Condrus"
+    ],
+    [
+      "Miles Dempster",
+      "Stephan Benson"
+    ],
+    [
+      "Mr. Sapchevsky",
+      "Andreas Schmidt-Schaller"
+    ],
+    [
+      "Gerry",
+      "Kostja Ullmann"
+    ],
+    [
+      "Ismael",
+      "Stephan Schad"
+    ],
+    [
+      "Carla Fenton",
+      "Natalie O'Hara"
+    ],
+    [
+      "Mrs. Maruthers",
+      "Ulrike Johannson"
+    ],
+    [
+      "Inspektor Havilland",
+      "Oliver Kalkofe"
+    ],
+    [
+      "Taylor",
+      "Bernhard Hoecker"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Angelica",
+      "Anna Thalbach"
+    ],
+    [
+      "Schwester 1",
+      "Manuela Becker"
+    ],
+    [
+      "Schwester 2",
+      "Traudel Sperber"
+    ],
+    [
+      "Pfleger",
+      "Sven Dahlem"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Mr. Smith",
+      "Tim Grobe"
+    ],
+    [
+      "Curtis Fisher",
+      "Tobias Schmidt"
+    ],
+    [
+      "Amrita Chakyar",
+      "Angela Stresemann"
+    ],
+    [
+      "Sergeant Madhu",
+      "Olli Dittrich"
+    ],
+    [
+      "Mr. Andrews",
+      "Henry König"
+    ],
+    [
+      "Mrs. Andrews",
+      "Konstanze Ullmer"
+    ],
+    [
+      "Mr. Raffer",
+      "Harald Dietl"
+    ],
+    [
+      "Feuerwehrmann",
+      "Kai-Hendrik Möller"
+    ],
+    [
+      "Kapitän",
+      "Sky du Mont"
+    ],
+    [
+      "John Fisher",
+      "Dirk Bach"
+    ],
+    [
+      "Mr. Castro",
+      "Jörg Gillner"
+    ],
+    [
+      "Sanitäter",
+      "Robert Kottula"
+    ],
+    [
+      "Anudhara",
+      "Rosakutty Hemsing"
+    ],
+    [
+      "Ruth",
+      "Gabriele Libbach"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/150/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Serie/150/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music71/v4/0c/79/92/0c79925a-65d7-d0ae-9710-373f94f991ce/886445756449.jpg/3000x0w.png"
+  }
+}

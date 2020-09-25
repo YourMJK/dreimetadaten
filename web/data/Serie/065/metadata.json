@@ -1,0 +1,124 @@
+{
+  "nummer" : 65,
+  "titel" : "Diamantenschmuggel",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ihren ersten Trip nach Europa haben sich Justus, Peter und Bob anders vorgestellt: Statt der erwarteten Vergnügungstour durch London werden sie in einen Diamantenschmuggel verwickelt und sogar – natürlich unfreiwillig und zunächst völlig ahnungslos – als Kuriere der heißen Ware benutzt. Schnell wird ihnen klar, daß die Reisegesellschaft, mit der sie einen Ausflug nach Rotterdam unternehmen, nicht nur aus erlebnishungrigen Touristen besteht. Welche Rolle spielt zum Beispiel der tolpatschige Mr. Thomas? Steckt er hinter den anonymen Briefen? Doch von solchen Einschüchterungsversuchen lassen sich die drei ??? bestimmt nicht abschrecken!",
+  "veröffentlichungsdatum" : "1995-12-04",
+  "kapitel" : [
+    {
+      "titel" : "Gefangen!",
+      "start" : 0,
+      "end" : 358187
+    },
+    {
+      "titel" : "Die ewigen Jagdgründe",
+      "start" : 358187,
+      "end" : 882280
+    },
+    {
+      "titel" : "Beim Lügen ertappt",
+      "start" : 882280,
+      "end" : 1491027
+    },
+    {
+      "titel" : "Ungebetener Besuch",
+      "start" : 1491027,
+      "end" : 1786093
+    },
+    {
+      "titel" : "Schritte ins Nichts",
+      "start" : 1786093,
+      "end" : 2267360
+    },
+    {
+      "titel" : "Endstation Europa",
+      "start" : 2267360,
+      "end" : 2636493
+    },
+    {
+      "titel" : "Kommissar Zufall",
+      "start" : 2636493,
+      "end" : 2963173
+    },
+    {
+      "titel" : "Eiskalt erwischt",
+      "start" : 2963173,
+      "end" : 3579173
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Alex Burlington",
+      "Klaus Sonnenschein"
+    ],
+    [
+      "Richard Applebloome",
+      "Tilman Madaus"
+    ],
+    [
+      "Robert Applebloome",
+      "Franz Rudnick"
+    ],
+    [
+      "Mary",
+      "Edith Hancke"
+    ],
+    [
+      "Elizabeth",
+      "Marianne Kehlau"
+    ],
+    [
+      "John Smith",
+      "Dirk Anton"
+    ],
+    [
+      "Jenkins",
+      "Douglas Welbat"
+    ],
+    [
+      "Thomas",
+      "Stephan Chreszinsky"
+    ],
+    [
+      "Andrew",
+      "Michael Rospat"
+    ],
+    [
+      "Mrs. Rodriguez",
+      "Katja Brügger"
+    ],
+    [
+      "Hoteldirektor",
+      "Hans Sievers"
+    ],
+    [
+      "Blondine",
+      "Veronika Neugebauer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/065/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/065/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/065/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/065/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/fe/bc/7c/febc7c84-f080-5406-223c-7182d5a05324/886445747492.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/05/8b/b6/0743213131528.jpg"
+  }
+}

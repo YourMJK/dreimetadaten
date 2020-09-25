@@ -1,0 +1,95 @@
+{
+  "nummer" : 38,
+  "titel" : "und der unsichtbare Gegner",
+  "autor" : "M. V. Carey",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Ben Peck, Peters Großvater, hat eine Reihe von Erfindungen gemacht und jetzt will er eine davon in New York verkaufen. Aber er hat ständig Angst, daß man ihm sein geistiges Eigentum stiehlt. Da ist vor allem Ed Snabel. Was hat dieser Mann vor? Warum verfolgt er Ben Peck? Die drei Detektive erleben eine atemberaubende Jagd quer durch Amerika …",
+  "veröffentlichungsdatum" : "1986-03-17",
+  "kapitel" : [
+    {
+      "titel" : "Eine wandelnde Katastrophe",
+      "start" : 0,
+      "end" : 306440
+    },
+    {
+      "titel" : "Das Abenteuer beginnt",
+      "start" : 306440,
+      "end" : 635640
+    },
+    {
+      "titel" : "Feuer als Ablenkungsmanöver",
+      "start" : 635640,
+      "end" : 986160
+    },
+    {
+      "titel" : "Hier ist doch etwas faul",
+      "start" : 986160,
+      "end" : 1269787
+    },
+    {
+      "titel" : "Ein tollkühner Schachzug",
+      "start" : 1269787,
+      "end" : 1548760
+    },
+    {
+      "titel" : "Bob in der Klemme",
+      "start" : 1548760,
+      "end" : 2019613
+    },
+    {
+      "titel" : "Top Secret",
+      "start" : 2019613,
+      "end" : 2256893
+    },
+    {
+      "titel" : "Kein Ausweg für den Täter",
+      "start" : 2256893,
+      "end" : 2552053
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mrs. Shaw",
+      "Marianne Kehlau"
+    ],
+    [
+      "Mr. Peck",
+      "Wolfgang Völz"
+    ],
+    [
+      "Ed Snabel",
+      "Horst Naumann"
+    ],
+    [
+      "Bartlett",
+      "Jochen Sehrndt"
+    ],
+    [
+      "FBI-Agent Anderson",
+      "Lutz Mackensy"
+    ],
+    [
+      "Passantin",
+      "Ingrid Andree"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/038/metadata.json"
+  }
+}

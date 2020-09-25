@@ -1,0 +1,115 @@
+{
+  "nummer" : 110,
+  "titel" : "Panik im Park",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Panik in Rocky Beach! Plötzlich werden im Stadtpark harmlose Hunde zu wilden Bestien, die sogar Menschen angreifen. Hat der seltsame schwarze Stein, den die drei ??? im Park entdecken, etwas mit dem gefährlichen Verhalten der Tiere zu tun? Wo kommt er her? Welches Geheimnis birgt er in sich? Justus, Peter und Bob machen sich mit Feuereifer auf die Suche. Unversehens geraten sie in ein neues atemberaubendes und gefährliches Abenteuer. Aber sind sie tatsächlich auf der richtigen Spur?",
+  "veröffentlichungsdatum" : "2003-06-10",
+  "kapitel" : [
+    {
+      "titel" : "Das Monster im Park",
+      "start" : 0,
+      "end" : 406400
+    },
+    {
+      "titel" : "Lauft!",
+      "start" : 406400,
+      "end" : 1030573
+    },
+    {
+      "titel" : "Nicht von dieser Welt",
+      "start" : 1030573,
+      "end" : 1468880
+    },
+    {
+      "titel" : "Die Hypothese",
+      "start" : 1468880,
+      "end" : 2056173
+    },
+    {
+      "titel" : "Seuchenalarm",
+      "start" : 2056173,
+      "end" : 2541733
+    },
+    {
+      "titel" : "Justus lässt nicht locker",
+      "start" : 2541733,
+      "end" : 2689973
+    },
+    {
+      "titel" : "Kombinationsgabe",
+      "start" : 2689973,
+      "end" : 2891000
+    },
+    {
+      "titel" : "Im Tunnel",
+      "start" : 2891000,
+      "end" : 3310573
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Pablo",
+      "Kai Hendrik Möller"
+    ],
+    [
+      "Dr. Brolin",
+      "Karl-Friedrich Gerster"
+    ],
+    [
+      "Jenkins",
+      "Gustav-Adolph Artz"
+    ],
+    [
+      "Professor Clark",
+      "Thor W. Müller"
+    ],
+    [
+      "Bürgermeister Hoover",
+      "Michael Griem"
+    ],
+    [
+      "Margie",
+      "Susanne Leu"
+    ],
+    [
+      "Mike",
+      "Achim Schülke"
+    ],
+    [
+      "Clark",
+      "Wolf Rathjen"
+    ],
+    [
+      "Wachmann",
+      "Kristian Kretschmer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/110/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/110/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/110/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/110/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music18/v4/4b/7e/11/4b7e116a-86e9-4324-e682-3f31e14617d0/886445752021.jpg/3000x0w.png"
+  }
+}

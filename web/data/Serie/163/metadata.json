@@ -1,0 +1,98 @@
+{
+  "nummer" : 163,
+  "titel" : "und der verschollene Pilot",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Eigentlich sollen die drei ??? für Onkel Titus nur ein Auto überführen. Doch der dichte Nebel in den Bergen zwingt sie, sich dort eine Unterkunft zu suchen. Ein seltsamer Pick-up-Fahrer führt sie zum 'King of the Mountain', einem heruntergekommenen Hotel ohne einen einzigen Gast. Bald geschehen seltsame Dinge, die nur eins bedeuten können: Das Hotel birgt ein Geheimnis. Hat das Wrack eines vor Jahren in den Bergen abgestürzten Flugzeugs etwas damit zu tun?",
+  "veröffentlichungsdatum" : "2013-08-30",
+  "kapitel" : [
+    {
+      "titel" : "Begegnung im Nebel",
+      "start" : 0,
+      "end" : 519093
+    },
+    {
+      "titel" : "Hässliche Fratze",
+      "start" : 519093,
+      "end" : 1034760
+    },
+    {
+      "titel" : "Ein üblicher Klassiker",
+      "start" : 1034760,
+      "end" : 1225760
+    },
+    {
+      "titel" : "Steinschlag",
+      "start" : 1225760,
+      "end" : 1582640
+    },
+    {
+      "titel" : "Harte Rätselnuss",
+      "start" : 1582640,
+      "end" : 1885467
+    },
+    {
+      "titel" : "Katzenmaske",
+      "start" : 1885467,
+      "end" : 2052000
+    },
+    {
+      "titel" : "Glatt gelogen",
+      "start" : 2052000,
+      "end" : 2626187
+    },
+    {
+      "titel" : "Die Gleichung geht auf",
+      "start" : 2626187,
+      "end" : 3009160
+    },
+    {
+      "titel" : "Platt",
+      "start" : 3009160,
+      "end" : 3373267
+    },
+    {
+      "titel" : "Auf der Flucht",
+      "start" : 3373267,
+      "end" : 4264013
+    },
+    {
+      "titel" : "Ein Rätsel aus der Kindheit",
+      "start" : 4264013,
+      "end" : 4468413
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Fynch",
+      "Stefan Benson"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/163/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/163/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/163/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/163/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/f9/2b/1c/f92b1c58-1b31-0377-d652-9d4eb3c05475/886445756807.jpg/3000x0w.png"
+  }
+}

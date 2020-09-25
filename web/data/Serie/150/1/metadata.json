@@ -1,0 +1,157 @@
+{
+  "teilNummer" : 1,
+  "buchstabe" : "A",
+  "titel" : "Rashuras Schatz",
+  "beschreibung" : "Die drei berühmten Detektive aus Rocky Beach müssen ein Rätsel lösen, das ihnen der schrullige Harry Shreber in seinem Testament hinterlassen hat. Schnell finden sie heraus, dass der erste Hinweis in einem schrottreifen Flugzeug in Shrebers Garten versteckt sein könnte. Die Suche nach Rashuras Schatz beginnt – aber Justus, Peter und Bob sind bei weitem nicht die Einzigen, die das Rätsel lösen wollen …",
+  "kapitel" : [
+    {
+      "titel" : "Eine rätselhafte Erbschaft",
+      "start" : 0,
+      "end" : 524213
+    },
+    {
+      "titel" : "Persönliche Einschätzung",
+      "start" : 524213,
+      "end" : 771373
+    },
+    {
+      "titel" : "Das Haus des Sammlers",
+      "start" : 771373,
+      "end" : 1255853
+    },
+    {
+      "titel" : "Cochin Big Blind",
+      "start" : 1255853,
+      "end" : 1725040
+    },
+    {
+      "titel" : "Überfall",
+      "start" : 1725040,
+      "end" : 1844480
+    },
+    {
+      "titel" : "Verschlossen",
+      "start" : 1844480,
+      "end" : 1963693
+    },
+    {
+      "titel" : "Auf Draht",
+      "start" : 1963693,
+      "end" : 2098240
+    },
+    {
+      "titel" : "Der Flugzeugfan",
+      "start" : 2098240,
+      "end" : 2380493
+    },
+    {
+      "titel" : "Konkurrenz schläft nicht",
+      "start" : 2380493,
+      "end" : 2464707
+    },
+    {
+      "titel" : "Atemlos",
+      "start" : 2464707,
+      "end" : 2725533
+    },
+    {
+      "titel" : "Gerry",
+      "start" : 2725533,
+      "end" : 3283107
+    },
+    {
+      "titel" : "Verkauft",
+      "start" : 3283107,
+      "end" : 3494347
+    },
+    {
+      "titel" : "Der Uhrensammler",
+      "start" : 3494347,
+      "end" : 3782093
+    },
+    {
+      "titel" : "Ein Detektiv verschwindet",
+      "start" : 3782093,
+      "end" : 4055093
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Frank Mason",
+      "Wolfgang Condrus"
+    ],
+    [
+      "Miles Dempster",
+      "Stephan Benson"
+    ],
+    [
+      "Mr. Sapchevsky",
+      "Andreas Schmidt-Schaller"
+    ],
+    [
+      "Gerry",
+      "Kostja Ullmann"
+    ],
+    [
+      "Ismael",
+      "Stephan Schad"
+    ],
+    [
+      "Carla Fenton",
+      "Natalie O'Hara"
+    ],
+    [
+      "Mrs. Maruthers",
+      "Ulrike Johannson"
+    ],
+    [
+      "Inspektor Havilland",
+      "Oliver Kalkofe"
+    ],
+    [
+      "Taylor",
+      "Bernhard Hoecker"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Angelica",
+      "Anna Thalbach"
+    ],
+    [
+      "Schwester 1",
+      "Manuela Becker"
+    ],
+    [
+      "Schwester 2",
+      "Traudel Sperber"
+    ],
+    [
+      "Pfleger",
+      "Sven Dahlem"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/150/1/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/1/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/150/1/rip_log.txt"
+  }
+}

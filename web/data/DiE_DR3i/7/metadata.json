@@ -1,0 +1,128 @@
+{
+  "nummer" : 7,
+  "titel" : "und der kopflose Reiter",
+  "autor" : "Tim Wenderoth",
+  "hörspielskriptautor" : "Tim Wenderoth",
+  "beschreibung" : "Ein unheimlicher Reiter ohne Kopf versetzt die Bewohner von Rocky Beach in Angst und Schrecken. In nebligen Herbstnächten taucht er um Mitternacht auf und reitet durch die Stadt. Ist es der Geist des alten Indianers Ashoona Apeh, der mehr als 100 Jahre nach seinem Tod Rache nehmen will an jenen, die ihn seinerzeit köpften? Hat der Urenkel des Indianers etwas zu verbergen? Bevor Die Dr3i sich versehen, stehen sie dem gefährlichen Gegner und seinem Schwert machtlos gegenüber …",
+  "veröffentlichungsdatum" : "2007-11-30",
+  "kapitel" : [
+    {
+      "titel" : "Nebel",
+      "start" : 0,
+      "end" : 387347
+    },
+    {
+      "titel" : "Ashoona",
+      "start" : 387347,
+      "end" : 777520
+    },
+    {
+      "titel" : "Geisterstunde",
+      "start" : 777520,
+      "end" : 1259467
+    },
+    {
+      "titel" : "Erdbeben",
+      "start" : 1259467,
+      "end" : 1668467
+    },
+    {
+      "titel" : "Treffen im Wald",
+      "start" : 1668467,
+      "end" : 2098133
+    },
+    {
+      "titel" : "Fehlende Seiten",
+      "start" : 2098133,
+      "end" : 2703173
+    },
+    {
+      "titel" : "Im Filmstudio",
+      "start" : 2703173,
+      "end" : 3014480
+    },
+    {
+      "titel" : "Der Plan",
+      "start" : 3014480,
+      "end" : 3301640
+    },
+    {
+      "titel" : "Explosion",
+      "start" : 3301640,
+      "end" : 3724440
+    },
+    {
+      "titel" : "Ashoonas Schatz",
+      "start" : 3724440,
+      "end" : 3920920
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Jupiter Jones",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Crenshaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda Jones",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus Jones",
+      "Hans Meinhardt"
+    ],
+    [
+      "Marty Stevens",
+      "Lutz Harder"
+    ],
+    [
+      "Joshua Apeh",
+      "Achim Schülke"
+    ],
+    [
+      "Claudia Salazar",
+      "Marion Elskis"
+    ],
+    [
+      "Ralf Dempsey",
+      "Robin Brosch"
+    ],
+    [
+      "Marvin Cox",
+      "Jörg Gillner"
+    ],
+    [
+      "Anna",
+      "Micaela Kreissler"
+    ],
+    [
+      "George",
+      "Eric Schaeffler"
+    ],
+    [
+      "Hapa",
+      "Michael Weckler"
+    ],
+    [
+      "Lastwagenfahrer",
+      "Tim Wenderoth"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/7/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/7/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/7/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/7/cover.png"
+  }
+}

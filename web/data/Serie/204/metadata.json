@@ -1,0 +1,93 @@
+{
+  "nummer" : 204,
+  "titel" : "Der dunkle Wächter",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Eigentlich sollte Bob in dem einsam gelegenen Haus nur die Katzen von Mr. Pinches füttern. Doch dann läuft etwas furchtbar schief. Als sich der dritte Detektiv nicht mehr meldet, tappen Justus und Peter im Dunkeln. Steckt etwa der verschrobene Besitzer des Hauses dahinter?",
+  "veröffentlichungsdatum" : "2020-03-13",
+  "kapitel" : [
+    {
+      "titel" : "Der Auftrag",
+      "start" : 0,
+      "end" : 645507
+    },
+    {
+      "titel" : "Überraschungsgast",
+      "start" : 645507,
+      "end" : 1409787
+    },
+    {
+      "titel" : "Lebenszeichen",
+      "start" : 1409787,
+      "end" : 2141507
+    },
+    {
+      "titel" : "Überraschende Nachricht",
+      "start" : 2141507,
+      "end" : 2731773
+    },
+    {
+      "titel" : "Auf leisen Sohlen",
+      "start" : 2731773,
+      "end" : 3328347
+    },
+    {
+      "titel" : "In der Hölle",
+      "start" : 3328347,
+      "end" : 4144067
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mary",
+      "Marion Gretchen-Schmitz"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus",
+      "Rüdiger Schulzki"
+    ],
+    [
+      "Potato-Fred",
+      "Peter Weis"
+    ],
+    [
+      "Mr. Pinches",
+      "Jürgen Uter"
+    ],
+    [
+      "Carter Bridou",
+      "Peter G. Dirmeier"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/204/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/204/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/204/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/204/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/89/1e/d1/891ed1d6-bc28-b419-6c3c-15ab6cae4743/886447878354.jpg/3000x0w.png"
+  }
+}

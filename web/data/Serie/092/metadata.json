@@ -1,0 +1,82 @@
+{
+  "nummer" : 92,
+  "titel" : "Todesflug",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Justus, Peter und Bob sitzen fest. Mitten in der Wüste versagt ihr Auto und das Wasser geht zur Neige. Die Nerven der drei Jungs sind zum Zerreißen gespannt. Plötzlich durchbricht ein Dröhnen die Stille: Ein Tiefflieger zieht über ihre Köpfe hinweg und setzt zur Landung an. Die drei Detektive schöpfen Hoffnung. Das könnte die Rettung bedeuten. Doch unversehens geraten sie in eine tödliche Falle. Ein größenwahnsinniger Weltraumforscher bringt Bob in höchste Lebensgefahr. Wie können die drei cleveren Jungs verhindern, dass Bob ins Weltall geschossen wird?",
+  "veröffentlichungsdatum" : "2000-10-09",
+  "kapitel" : [
+    {
+      "titel" : "Zehn. Neun.",
+      "start" : 0,
+      "end" : 640173
+    },
+    {
+      "titel" : "Acht. Sieben.",
+      "start" : 640173,
+      "end" : 1195187
+    },
+    {
+      "titel" : "Sechs. Fünf.",
+      "start" : 1195187,
+      "end" : 1788000
+    },
+    {
+      "titel" : "Vier. Drei.",
+      "start" : 1788000,
+      "end" : 2680213
+    },
+    {
+      "titel" : "Zwei. Eins.",
+      "start" : 2680213,
+      "end" : 2972613
+    },
+    {
+      "titel" : "Null.",
+      "start" : 2972613,
+      "end" : 3569347
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Gregstone",
+      "Wolf Rathjen"
+    ],
+    [
+      "Butch",
+      "Frank Felicetti"
+    ],
+    [
+      "Ramirez",
+      "Tobias Schmidt"
+    ],
+    [
+      "Radiosprecher",
+      "Hubertus Borck"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/092/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/092/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/092/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/092/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/37/ed/a5/37eda579-0f33-5876-3fe7-5571328e9782/886445750348.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/78/af/a9/0743217877323.jpg"
+  }
+}

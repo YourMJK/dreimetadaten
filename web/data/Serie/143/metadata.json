@@ -1,0 +1,122 @@
+{
+  "nummer" : 143,
+  "titel" : "und die Poker-Hölle",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Als Justus, Peter und Bob einem jungen Mann helfen wollen, dem in einer Postfiliale Geld gestohlen wurde, geraten sie in die gefährliche Unterwelt von China Town. Zufällig kommen sie einer illegalen Pokerspielhölle auf die Spur. Dabei müssen die drei erfolgreichen Detektive aus Rocky Beach die Erfahrung machen, dass die Beteiligten sehr unangenehm werden, wenn man ihnen in die Karten sieht! Und dann geschieht, was nie hätte geschehen dürfen …",
+  "veröffentlichungsdatum" : "2010-12-03",
+  "kapitel" : [
+    {
+      "titel" : "Nicht zu packen",
+      "start" : 0,
+      "end" : 193667
+    },
+    {
+      "titel" : "Onkel Tony",
+      "start" : 193667,
+      "end" : 572653
+    },
+    {
+      "titel" : "Ruby Tuesday",
+      "start" : 572653,
+      "end" : 813640
+    },
+    {
+      "titel" : "Babyface",
+      "start" : 813640,
+      "end" : 1536587
+    },
+    {
+      "titel" : "Schnitzeljagd",
+      "start" : 1536587,
+      "end" : 1716800
+    },
+    {
+      "titel" : "Atbash",
+      "start" : 1716800,
+      "end" : 2005333
+    },
+    {
+      "titel" : "Keine leichte Aufgabe",
+      "start" : 2005333,
+      "end" : 2195293
+    },
+    {
+      "titel" : "Rebus",
+      "start" : 2195293,
+      "end" : 2571693
+    },
+    {
+      "titel" : "Ivory",
+      "start" : 2571693,
+      "end" : 2783747
+    },
+    {
+      "titel" : "Im Elfenbeinturm",
+      "start" : 2783747,
+      "end" : 3156133
+    },
+    {
+      "titel" : "Bergamotte",
+      "start" : 3156133,
+      "end" : 3621920
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Richie Hanson",
+      "Dennis Schmidt-Foß"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Goodween",
+      "André Minninger"
+    ],
+    [
+      "Benni",
+      "Ivo Möller"
+    ],
+    [
+      "Jacki Jin",
+      "Robert Missler"
+    ],
+    [
+      "Kellnerin",
+      "Corinna Wodrich"
+    ],
+    [
+      "Croupier",
+      "Dirk Bach"
+    ],
+    [
+      "Mann",
+      "Arndt Schmöle"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/143/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/143/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/143/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/143/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/2c/38/df/2c38df4f-6ccf-21f7-b0a0-bb95484b0581/886445756005.jpg/3000x0w.png"
+  }
+}

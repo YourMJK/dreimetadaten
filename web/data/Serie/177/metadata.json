@@ -1,0 +1,116 @@
+{
+  "nummer" : 177,
+  "titel" : "Der Geist des Goldgräbers",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Im menschenleeren Dead Mans Canyon begegnet den drei ??? plötzlich ein Goldgräber. Und zwar nicht irgendeiner John Dewey kam vor über 100 Jahren zu Tode und verfluchte jeden, der seinem Gold zu nahe kommt. Für Justus steht fest: Alles Legende! Doch als in der darauffolgenden Nacht gespenstischer Besuch vor der Tür steht, erwacht die Legende zum Leben …",
+  "veröffentlichungsdatum" : "2015-10-02",
+  "kapitel" : [
+    {
+      "titel" : "Willkommen im Dead Man's Canyon",
+      "start" : 0,
+      "end" : 376120
+    },
+    {
+      "titel" : "Sniffer",
+      "start" : 376120,
+      "end" : 1000640
+    },
+    {
+      "titel" : "Alarm",
+      "start" : 1000640,
+      "end" : 1432240
+    },
+    {
+      "titel" : "Mr. Sobek",
+      "start" : 1432240,
+      "end" : 2039133
+    },
+    {
+      "titel" : "Verräterisches Schuhwerk",
+      "start" : 2039133,
+      "end" : 2531453
+    },
+    {
+      "titel" : "Auf der Lauer",
+      "start" : 2531453,
+      "end" : 3030413
+    },
+    {
+      "titel" : "Im Keller",
+      "start" : 3030413,
+      "end" : 3382960
+    },
+    {
+      "titel" : "Geständnisse",
+      "start" : 3382960,
+      "end" : 3858933
+    },
+    {
+      "titel" : "Sniffer freut sich",
+      "start" : 3858933,
+      "end" : 4121080
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Dusty Kirkpatrick",
+      "Hans Kahlert"
+    ],
+    [
+      "Miranda Kramer",
+      "Susanne Sternberg"
+    ],
+    [
+      "Barclay",
+      "Horst Stark"
+    ],
+    [
+      "Brian",
+      "Volker Hanisch"
+    ],
+    [
+      "Raven",
+      "Neda Rahmanian"
+    ],
+    [
+      "Dr. Hardwick",
+      "Till Huster"
+    ],
+    [
+      "Robert",
+      "Tim Kreuer"
+    ],
+    [
+      "Manolo",
+      "Wolfgang Berger"
+    ],
+    [
+      "Polizist",
+      "Kai-Hendrik Möller"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/177/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/177/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/177/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/177/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/71/48/43/714843ea-4dcc-c007-c9a5-b444586fc4d4/886445760125.jpg/3000x0w.png"
+  }
+}

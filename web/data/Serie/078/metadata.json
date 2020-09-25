@@ -1,0 +1,106 @@
+{
+  "nummer" : 78,
+  "titel" : "Das leere Grab",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Fassungslos starrt Justus auf das Foto, das ein Freund erst vor wenigen Tagen in Venezuela geschossen hat. Die Frau auf dem Bild ist Catherine Jonas, Justus' Mutter. Doch wie ist das möglich? Seine Eltern sind seit über zehn Jahren tot! Ihr Flugzeug stürzte vor der Küste Südamerikas ins Meer. Gab es damals doch Überlebende des Flugzeugabsturzes? Aber warum haben sich seine Eltern dann nie bei ihm gemeldet? Der erste Detektiv reagiert kopflos. Ohne zu überlegen, bucht er einen Flug und landet in der gefährlichsten Stadt Venezuelas: der Diamantenstadt Suerte.",
+  "veröffentlichungsdatum" : "1998-01-12",
+  "kapitel" : [
+    {
+      "titel" : "Whisky für Justus",
+      "start" : 0,
+      "end" : 556600
+    },
+    {
+      "titel" : "Das leere Grab",
+      "start" : 556600,
+      "end" : 1121000
+    },
+    {
+      "titel" : "Begegnung im Dschungel",
+      "start" : 1121000,
+      "end" : 1676133
+    },
+    {
+      "titel" : "Der Lauscher im Schrank",
+      "start" : 1676133,
+      "end" : 2423920
+    },
+    {
+      "titel" : "Gefährliches Wissen",
+      "start" : 2423920,
+      "end" : 3095893
+    },
+    {
+      "titel" : "Urwaldjagd",
+      "start" : 3095893,
+      "end" : 3448987
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Titus Jonas",
+      "Hans Meinhardt"
+    ],
+    [
+      "Albert Hitfield",
+      "Manfred Steffen"
+    ],
+    [
+      "Morton, Chauffeur",
+      "Andreas von der Meden"
+    ],
+    [
+      "Lys",
+      "Kerstin Draeger"
+    ],
+    [
+      "J.J.",
+      "Gregor Reisch"
+    ],
+    [
+      "Julius Jonas",
+      "Wolfgang Kaven"
+    ],
+    [
+      "Catherine Jonas",
+      "Anne Moll"
+    ],
+    [
+      "Arturo",
+      "Carlos Goiach"
+    ],
+    [
+      "Autovermieter",
+      "Richard Ems"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/078/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/078/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/078/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/078/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music60/v4/3a/77/c9/3a77c943-5a91-72cf-fa76-6488e59bc1be/886445749922.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b6/f9/32/0743215184126.jpg"
+  }
+}

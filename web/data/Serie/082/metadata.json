@@ -1,0 +1,86 @@
+{
+  "nummer" : 82,
+  "titel" : "Die Karten des Bösen",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Milva Summer glaubt an Schicksalsmächte. Bis die Karten eines Tages ihr nahes Ende prophezeien. In ihrer Todesangst wendet sie sich an Justus, Peter und Bob und bittet die jungen Detektive um Schutz vor dem drohenden Unglück. Können die drei ??? den Kräften des Tarot trotzen? Ist die Hollywood-Diva dem Tode geweiht?",
+  "veröffentlichungsdatum" : "1998-10-12",
+  "kapitel" : [
+    {
+      "titel" : "Das Rad des Schicksals",
+      "start" : 0,
+      "end" : 606453
+    },
+    {
+      "titel" : "Der Gehängte",
+      "start" : 606453,
+      "end" : 1173240
+    },
+    {
+      "titel" : "Der Eremit",
+      "start" : 1173240,
+      "end" : 2099320
+    },
+    {
+      "titel" : "Der Magier",
+      "start" : 2099320,
+      "end" : 2855627
+    },
+    {
+      "titel" : "Der Tod",
+      "start" : 2855627,
+      "end" : 3486787
+    },
+    {
+      "titel" : "Das Gericht",
+      "start" : 3486787,
+      "end" : 4199867
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Milva Summer, Astrologin",
+      "Elizabeth Volkmann"
+    ],
+    [
+      "Professor Steed, Tiermediziner",
+      "Henning Schlüter"
+    ],
+    [
+      "Daniel Art, Bodyguard",
+      "Monty Arnold"
+    ],
+    [
+      "Mike Hanson, Reporter",
+      "Corny Littmann"
+    ],
+    [
+      "Nachrichtensprecher",
+      "Werner Pohlenz"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/082/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/082/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/082/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/082/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music18/v4/e2/75/e6/e275e622-e8cd-034b-4ebf-d43862b71232/886445750041.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/87/c8/fa/0743215476429.jpg"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "nummer" : 122,
+  "titel" : "und der Geisterzug",
+  "autor" : "Astrid Vollenbruch",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die Fahrt mit dem Museumszug hatten sich die drei Detektive aus Rocky Beach eigentlich gemütlicher vorgestellt. Doch spätestens im Eisenbahntunnel durch den Black Mountain vergeht den Freunden die Ausflugslaune. Die Durchfahrt wird aufs Gruseligste boykottiert. Natürlich glauben die drei ??? kein Wort von der Spukgeschichte, nach der verunglückte Arbeiter ihr geisterhaftes Unwesen im Tunnel treiben sollen. Doch um herauszufinden, wer tatsächlich hinter den üblen Machenschaften steckt, bleiben Justus, Peter und Bob nur wenige Stunden …",
+  "veröffentlichungsdatum" : "2008-04-04",
+  "kapitel" : [
+    {
+      "titel" : "Kein Platz mehr frei!",
+      "start" : 0,
+      "end" : 480747
+    },
+    {
+      "titel" : "Entgleist?",
+      "start" : 480747,
+      "end" : 1122253
+    },
+    {
+      "titel" : "Wertvolles Indiz",
+      "start" : 1122253,
+      "end" : 1727947
+    },
+    {
+      "titel" : "In der Sackgasse",
+      "start" : 1727947,
+      "end" : 2005133
+    },
+    {
+      "titel" : "Der \"Chinesentunnel\"",
+      "start" : 2005133,
+      "end" : 2511933
+    },
+    {
+      "titel" : "Durchleuchtete Puppen",
+      "start" : 2511933,
+      "end" : 2967387
+    },
+    {
+      "titel" : "Arg konstruiert",
+      "start" : 2967387,
+      "end" : 3091427
+    },
+    {
+      "titel" : "Hände hoch!",
+      "start" : 3091427,
+      "end" : 3413960
+    },
+    {
+      "titel" : "Gold!",
+      "start" : 3413960,
+      "end" : 3494760
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Fred Jenkins",
+      "Nick Seidensticker"
+    ],
+    [
+      "Mr Campbell",
+      "Gerhart Hinze"
+    ],
+    [
+      "Sam Reilly",
+      "Jürgen Strube"
+    ],
+    [
+      "Carl Sheehan",
+      "Michael Weckler"
+    ],
+    [
+      "Collins",
+      "Thorsten Weber"
+    ],
+    [
+      "Mr Kingsley",
+      "Herbert Tennigkeit"
+    ],
+    [
+      "Mrs Kingsley",
+      "Tina Rehfeld-Wildmann"
+    ],
+    [
+      "Devlin Reno",
+      "Jörg Pleva"
+    ],
+    [
+      "Dr. Long",
+      "Lou Wong"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/122/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/122/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/122/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/122/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/3a/58/16/3a58163b-2e32-737f-c546-1f0798db536e/886445752205.jpg/3000x0w.png"
+  }
+}

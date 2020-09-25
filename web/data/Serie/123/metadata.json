@@ -1,0 +1,110 @@
+{
+  "nummer" : 123,
+  "titel" : "Fußballfieber",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Peter, der Zweite Detektiv, trainiert begeistert für die kalifornischen Schulfußballmeisterschaften. Zur gleichen Zeit erscheint ein Junge auf dem Schrottplatz und bittet die drei ??? um Hilfe: Im Haus seiner Großeltern geschehen unheimliche Dinge und die beiden alten Leute sind überzeugt, dass sie es mit den schrecklichen Vorzeichen des Todes zu tun haben. Als Justus, Peter und Bob die Ermittlungen aufnehmen, ahnen sie nicht, welche Gefahren noch auf sie zukommen werden …",
+  "veröffentlichungsdatum" : "2008-05-09",
+  "kapitel" : [
+    {
+      "titel" : "Abergläubische Großeltern",
+      "start" : 0,
+      "end" : 305107
+    },
+    {
+      "titel" : "Schock!",
+      "start" : 305107,
+      "end" : 851347
+    },
+    {
+      "titel" : "Totenuhr im Wohnzimmer",
+      "start" : 851347,
+      "end" : 1144893
+    },
+    {
+      "titel" : "Dunkler Punkt in der Vergangenheit",
+      "start" : 1144893,
+      "end" : 1515587
+    },
+    {
+      "titel" : "Herzanfall!",
+      "start" : 1515587,
+      "end" : 1826600
+    },
+    {
+      "titel" : "Verfluchte Grabkammer",
+      "start" : 1826600,
+      "end" : 2285080
+    },
+    {
+      "titel" : "Völlig desorientiert",
+      "start" : 2285080,
+      "end" : 2477853
+    },
+    {
+      "titel" : "In der Falle",
+      "start" : 2477853,
+      "end" : 2827893
+    },
+    {
+      "titel" : "Der Schreck in den Gliedern",
+      "start" : 2827893,
+      "end" : 3109800
+    },
+    {
+      "titel" : "Im Hexenkessel",
+      "start" : 3109800,
+      "end" : 3184333
+    },
+    {
+      "titel" : "Angst und Abscheu",
+      "start" : 3184333,
+      "end" : 3677213
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Emiliano",
+      "Tobias Schmidt"
+    ],
+    [
+      "Pancho",
+      "Ben Hecker"
+    ],
+    [
+      "Esperanza",
+      "Ingeborg Christiansen"
+    ],
+    [
+      "Pedro",
+      "Anton Sprick"
+    ],
+    [
+      "Abelardo",
+      "Peter Brix"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/123/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/123/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/123/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/123/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/f3/61/8c/f3618c0e-4ad0-4d47-8e70-e98a27d00a8b/886445752212.jpg/3000x0w.png"
+  }
+}

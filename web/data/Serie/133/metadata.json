@@ -1,0 +1,116 @@
+{
+  "nummer" : 133,
+  "titel" : "Fels der Dämonen",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein toller Sandstrand in einer einsamen Bucht, perfektes Surf-Wetter, ein schattiges Plätzchen für das Zelt: Die drei ??? freuen sich auf ein paar stressfreie Ferientage am Meer. Doch dann taucht ein völlig verängstigter Junge auf und berichtet von einem gruseligen schwarzen Zwerg, der ihn verfolgt. Als der Zweite Detektiv kurze Zeit darauf beim Wellenreiten eine mehr als unheimliche Begegnung im Wasser hat, ist klar: hier bahnt sich ein neuer Fall für die drei Detektive an! Wer oder was treibt sein Unwesen in der abgelegenen Bucht? Werden Justus, Peter und Bob das Geheimnis um den \"Fels der Dämonen\" lüften?",
+  "veröffentlichungsdatum" : "2009-10-02",
+  "kapitel" : [
+    {
+      "titel" : "Hilfe, ein Zwerg!",
+      "start" : 0,
+      "end" : 314427
+    },
+    {
+      "titel" : "Das Grauen in der Tiefe",
+      "start" : 314427,
+      "end" : 662467
+    },
+    {
+      "titel" : "Das Versteck",
+      "start" : 662467,
+      "end" : 827360
+    },
+    {
+      "titel" : "Zwergenkunst",
+      "start" : 827360,
+      "end" : 971427
+    },
+    {
+      "titel" : "Ein Käfer wird misshandelt",
+      "start" : 971427,
+      "end" : 1158573
+    },
+    {
+      "titel" : "Flucht nach vorne!",
+      "start" : 1158573,
+      "end" : 1390053
+    },
+    {
+      "titel" : "Abwärts",
+      "start" : 1390053,
+      "end" : 2051440
+    },
+    {
+      "titel" : "Haifischfutter",
+      "start" : 2051440,
+      "end" : 2552107
+    },
+    {
+      "titel" : "Ein tierisches Geheimnis",
+      "start" : 2552107,
+      "end" : 3473893
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Sergeant Ludlow",
+      "Dietmar Mues"
+    ],
+    [
+      "Banden-Chef",
+      "Eberhard Haar"
+    ],
+    [
+      "Eddy Reardon",
+      "Lukas Sperber"
+    ],
+    [
+      "Spanier",
+      "Erik Schäffler"
+    ],
+    [
+      "Jack",
+      "Fabian Harloff"
+    ],
+    [
+      "Italiener",
+      "Lutz Harder"
+    ],
+    [
+      "Gauner",
+      "Sven Dahlem"
+    ],
+    [
+      "Gehilfe",
+      "Gerhart Hinze"
+    ],
+    [
+      "Polizist",
+      "Bertram Hiese"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/133/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/133/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/133/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/133/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/c8/a2/b3/c8a2b383-7b02-aa4a-e732-e9ebedce83ae/886445755138.jpg/3000x0w.png"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "nummer" : 206,
+  "titel" : "und der Mottenmann",
+  "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "In Rocky Beach taucht eine schaurige Gestalt auf: Ein geflügeltes Wesen mit leuchtend roten Augen. Zeitgleich häufen sich die Unglücksfälle und Diebstähle in der beschaulichen Küstenstadt. Justus, Peter und Bob vermuten einen Zusammenhang und stürzen sich in die Ermittlungen, um das Geheimnis des Mottenmanns zu lüften.",
+  "veröffentlichungsdatum" : "2020-07-17",
+  "kapitel" : [
+    {
+      "titel" : "\"Hüte dich vor dem Mottenmann!\"",
+      "start" : 0,
+      "end" : 562933
+    },
+    {
+      "titel" : "Kwakwaka'wakw oder Nuu-cha-nulth?",
+      "start" : 562933,
+      "end" : 1172267
+    },
+    {
+      "titel" : "Brennender Puppenwagen",
+      "start" : 1172267,
+      "end" : 1597760
+    },
+    {
+      "titel" : "Laothoe populi und andere Spuren",
+      "start" : 1597760,
+      "end" : 2311107
+    },
+    {
+      "titel" : "Das große Vergessen",
+      "start" : 2311107,
+      "end" : 3220400
+    },
+    {
+      "titel" : "Heilig",
+      "start" : 3220400,
+      "end" : 3762867
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Mason Huntington",
+      "Wolfgang Häntsch"
+    ],
+    [
+      "Mrs. Brankle",
+      "Mignon Remé"
+    ],
+    [
+      "Xeni",
+      "Lina Maria Millat"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Mrs. Seymore-Wrightson",
+      "Rosemarie Wohlbauer"
+    ],
+    [
+      "Franklyn Seymore",
+      "Achim Schülke"
+    ],
+    [
+      "Liane Shore",
+      "Sadra Keck"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/206/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/206/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/206/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/206/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/95/09/12/950912ee-ba51-4423-883c-d8942e4bef9f/886447878378.jpg/3000x0w.png"
+  }
+}

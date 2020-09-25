@@ -1,0 +1,103 @@
+{
+  "nummer" : 104,
+  "titel" : "Gift per E-Mail",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Achtung Feuerquallen! Beim Tauchen vor der Küste von Rocky Beach kann Mrs Baker den giftigen Tieren in letzter Sekunde entkommen. Aber dann erscheinen die Quallen plötzlich per E-Mail auf Mrs Bakers Computerbildschirm und bedrohen nicht nur ihre Dateien, sondern auch ihr Leben. Mit Hilfe von Tom Wood – einem Computerspezialisten – nehmen die drei ??? die Spur des anonymen Absenders auf. Wenn da nur nicht Dick Perry wäre, ein überheblicher Detektiv aus Santa Monica, der Justus, Peter und Bob die Ermittlung mehr als schwer macht …",
+  "veröffentlichungsdatum" : "2002-07-08",
+  "kapitel" : [
+    {
+      "titel" : "Detektiv gesucht",
+      "start" : 0,
+      "end" : 745920
+    },
+    {
+      "titel" : "Gift per E-Mail",
+      "start" : 745920,
+      "end" : 1119947
+    },
+    {
+      "titel" : "Eine Qualle für Tom",
+      "start" : 1119947,
+      "end" : 1414453
+    },
+    {
+      "titel" : "Ein Fall für Dick Perry",
+      "start" : 1414453,
+      "end" : 1751627
+    },
+    {
+      "titel" : "Toms Rätsel",
+      "start" : 1751627,
+      "end" : 2416880
+    },
+    {
+      "titel" : "Pelagia noctiluca",
+      "start" : 2416880,
+      "end" : 2949333
+    },
+    {
+      "titel" : "Des Rätsels Lösung",
+      "start" : 2949333,
+      "end" : 3431733
+    },
+    {
+      "titel" : "Falsches Spiel",
+      "start" : 3431733,
+      "end" : 4138120
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Dick Perry",
+      "Ernst Hilbich"
+    ],
+    [
+      "Mrs. Meg Baker",
+      "Lotti Krekel"
+    ],
+    [
+      "Mrs. Wood",
+      "Elga Schütz"
+    ],
+    [
+      "Jack Sharky",
+      "Stefan Babic"
+    ],
+    [
+      "Betty Shutton",
+      "Regina Pressler"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Mrs. Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/104/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/104/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/104/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/104/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music20/v4/60/a8/54/60a85409-49cf-58dd-f4b0-9c779c302f95/886445751956.jpg/3000x0w.png"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "nummer" : 42,
+  "titel" : "und der weinende Sarg",
+  "autor" : "Megan Stine",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Die drei Detektive sind dem Geheimnis eines verborgenen Tresors auf der Spur. Der neugierige Michael ist es, der ihnen den ersten Tip gibt, drei Totenköpfe auf einem Sarg scheinen Wegweiser zu sein. Doch schnell wird es gefährlich, denn in der Nähe des Sargs ist es nicht geheuer – schon gar nicht, wenn mitten in der Nacht das Käuzchen ruft …",
+  "veröffentlichungsdatum" : "1987-10-26",
+  "kapitel" : [
+    {
+      "titel" : "Können Totenköpfe weinen?",
+      "start" : 0,
+      "end" : 322667
+    },
+    {
+      "titel" : "Einbruch in die Villa Markels!",
+      "start" : 322667,
+      "end" : 729173
+    },
+    {
+      "titel" : "Ein Mann mit rotem Schnauzbart",
+      "start" : 729173,
+      "end" : 1131587
+    },
+    {
+      "titel" : "Panne beim Kunsthandel",
+      "start" : 1131587,
+      "end" : 1422933
+    },
+    {
+      "titel" : "Ein rätselhaftes Testament",
+      "start" : 1422933,
+      "end" : 1816467
+    },
+    {
+      "titel" : "Drei Arten, einen Sarg zu betrachten",
+      "start" : 1816467,
+      "end" : 2151027
+    },
+    {
+      "titel" : "Scherben bringen es an den Tag",
+      "start" : 2151027,
+      "end" : 2469773
+    },
+    {
+      "titel" : "Die allerletzte Hürde",
+      "start" : 2469773,
+      "end" : 2869227
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Michael Cross",
+      "Matthias Klimser"
+    ],
+    [
+      "Mrs. Cross",
+      "Marianne Kehlau"
+    ],
+    [
+      "Mr. Cross",
+      "Horst Naumann"
+    ],
+    [
+      "Grady Markels",
+      "Gerd Baltus"
+    ],
+    [
+      "Brackmann",
+      "F. J. Steffens"
+    ],
+    [
+      "Margie",
+      "Monika Gabriel"
+    ],
+    [
+      "Nachrichtensprecher",
+      "Diess Günter Flesh"
+    ],
+    [
+      "Sawyer",
+      "Jürgen Thormann"
+    ],
+    [
+      "Museumsbesucherin",
+      "Beate Hasenau"
+    ],
+    [
+      "Gärtner",
+      "Günter Dockerill"
+    ],
+    [
+      "Mr. Rossing",
+      "Eric Vaessen"
+    ],
+    [
+      "Rossings Assistentin",
+      "Claudia Schermutzki"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/042/metadata.json"
+  }
+}

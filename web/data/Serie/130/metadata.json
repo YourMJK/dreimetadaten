@@ -1,0 +1,155 @@
+{
+  "nummer" : 130,
+  "titel" : "Der Fluch des Drachen",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Justus Jonas von den drei Detektiven aus Rocky Beach ist schockiert: durch seine Schuld ist die wertvolle Vase, die ein Kunde auf dem Schrottplatz deponiert hatte, in tausend Scherben zersprungen. Die drei ??? haben 24 Stunden Zeit, um für Ersatz zu sorgen. Schnell zeigt sich, dass nicht nur Justus, Peter und Bob großes Interesse an einer dunkelblauen Vase mit weißem Drachenmotiv haben. Und die Gegner schrecken vor nichts zurück. Ein gefährliches Abenteuer nimmt seinen Lauf …",
+  "veröffentlichungsdatum" : "2009-05-15",
+  "kapitel" : [
+    {
+      "titel" : "Vorsicht, zerbrechlich!",
+      "start" : 0,
+      "end" : 774640
+    },
+    {
+      "titel" : "Prinz Eisenherz",
+      "start" : 774640,
+      "end" : 1045613
+    },
+    {
+      "titel" : "Ein alter Bekannter",
+      "start" : 1045613,
+      "end" : 1284120
+    },
+    {
+      "titel" : "Endlich eine Spur",
+      "start" : 1284120,
+      "end" : 1505933
+    },
+    {
+      "titel" : "Einbruch",
+      "start" : 1505933,
+      "end" : 1884213
+    },
+    {
+      "titel" : "Aufdringlicher Kunde",
+      "start" : 1884213,
+      "end" : 2086280
+    },
+    {
+      "titel" : "20.000 Dollar",
+      "start" : 2086280,
+      "end" : 2276133
+    },
+    {
+      "titel" : "Schonfrist",
+      "start" : 2276133,
+      "end" : 2382920
+    },
+    {
+      "titel" : "Belauscht",
+      "start" : 2382920,
+      "end" : 2521333
+    },
+    {
+      "titel" : "Beweisfoto",
+      "start" : 2521333,
+      "end" : 2613907
+    },
+    {
+      "titel" : "Fehlende Informationen",
+      "start" : 2613907,
+      "end" : 2822907
+    },
+    {
+      "titel" : "In der Falle",
+      "start" : 2822907,
+      "end" : 2882627
+    },
+    {
+      "titel" : "Original und Fälschung",
+      "start" : 2882627,
+      "end" : 3050907
+    },
+    {
+      "titel" : "Die MVUM",
+      "start" : 3050907,
+      "end" : 3320200
+    },
+    {
+      "titel" : "Hellen oder Heather?",
+      "start" : 3320200,
+      "end" : 3503333
+    },
+    {
+      "titel" : "Scherben bringen Glück",
+      "start" : 3503333,
+      "end" : 4112560
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Skinny Norris",
+      "Andreas von der Meden"
+    ],
+    [
+      "Beverly Leung",
+      "Susanne Stangl"
+    ],
+    [
+      "Thomas Johnson",
+      "Lutz Herkenrath"
+    ],
+    [
+      "1. Polizist",
+      "Robert Missler"
+    ],
+    [
+      "2. Polizist",
+      "Edgar Hoppe"
+    ],
+    [
+      "James",
+      "Sönke Städtler"
+    ],
+    [
+      "Daniel Baker",
+      "Sascha Rotermund"
+    ],
+    [
+      "Mr. Grogan",
+      "Günter Flesch"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/130/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/130/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/130/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/130/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/93/4f/8b/934f8ba1-8b22-a834-fded-d2887e43f923/886445755015.jpg/3000x0w.png"
+  }
+}

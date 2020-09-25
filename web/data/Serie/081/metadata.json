@@ -1,0 +1,102 @@
+{
+  "nummer" : 81,
+  "titel" : "Verdeckte Fouls",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Erfolgreiche Wochen liegen hinter einem deutschen Fußball-Team. Nun wollen sich die Spieler unter der Sonne Kaliforniens auf die Rückrunde vorbereiten. Aber schon bald wird die Harmonie durch merkwürdige Vorgänge erschüttert: Ein Unbekannter treibt in den Mannschaftsräumen sein böses Spiel. Welches Ziel verfolgt er mit dem Zerschneiden von Trikots und dem Aufsprayen von geheimnisvoller Symbole? Die drei ??? nehmen die Ermittlungen auf.",
+  "veröffentlichungsdatum" : "1998-06-08",
+  "kapitel" : [
+    {
+      "titel" : "Ein merkwürdiger Streich",
+      "start" : 0,
+      "end" : 495307
+    },
+    {
+      "titel" : "Verdeckte Fouls",
+      "start" : 495307,
+      "end" : 1040640
+    },
+    {
+      "titel" : "Der verschwundene Bruder",
+      "start" : 1040640,
+      "end" : 1485880
+    },
+    {
+      "titel" : "Kellys Entdeckung",
+      "start" : 1485880,
+      "end" : 2043000
+    },
+    {
+      "titel" : "Die Detektive gehen in die Offensive",
+      "start" : 2043000,
+      "end" : 2540480
+    },
+    {
+      "titel" : "Foules Spiel",
+      "start" : 2540480,
+      "end" : 2983827
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Kelly Madigan",
+      "Juliane Szalay"
+    ],
+    [
+      "DaElba",
+      "Ozanan Rocha"
+    ],
+    [
+      "Alberto",
+      "Antonio Luz"
+    ],
+    [
+      "Mr. Toll",
+      "Balduin Baas"
+    ],
+    [
+      "Franke",
+      "Wolfgang Noack"
+    ],
+    [
+      "Mr. Andrews",
+      "Günter König"
+    ],
+    [
+      "Mr. Burt",
+      "Gerd Baltus"
+    ],
+    [
+      "Boris",
+      "Carlos Goiach"
+    ],
+    [
+      "Papagei",
+      "Heikedine Körting"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/081/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/081/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/081/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/081/cover.png",
+    "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music30/v4/b1/ff/2c/b1ff2cd1-190e-a0f0-66e3-f89866af5cbd/886445750010.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a8/64/09/0743215476320.jpg"
+  }
+}

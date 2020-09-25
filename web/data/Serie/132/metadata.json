@@ -1,0 +1,128 @@
+{
+  "nummer" : 132,
+  "titel" : "Spuk im Netz",
+  "autor" : "Astrid Vollenbruch",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Miss Bennett, die Leiterin der Bücherei in Rocky Beach, ist verschwunden! Eine überstürzt verlassene Wohnung, gelöschte Dateien und ein Zettel mit einer Reihe merkwürdiger Zahlen weisen auf einen äußerst mysteriösen Fall hin. Die drei ??? machen sich auf die Suche. Bald schon wissen sie: die Bibliothekarin ist den geheimnisvollen Zeichen einer geisterhaften Erscheinung im Internet gefolgt. Wohin soll sie gelockt werden? Welche Botschaft hat sie erhalten? (Justus, Peter und Bob müssen scharf kombinieren, um das Rätsel, das hinter Miss Bennetts Verschwinden steckt, zu lösen.) Die Antwort steht in den Sternen! Werden die drei erfolgreichen Detektive aus Rocky Beach sie lesen können?",
+  "veröffentlichungsdatum" : "2009-08-21",
+  "kapitel" : [
+    {
+      "titel" : "Eine Dame verschwindet",
+      "start" : 0,
+      "end" : 424653
+    },
+    {
+      "titel" : "Andromeda",
+      "start" : 424653,
+      "end" : 710960
+    },
+    {
+      "titel" : "Kassiopeia",
+      "start" : 710960,
+      "end" : 954827
+    },
+    {
+      "titel" : "Spuk im Netz",
+      "start" : 954827,
+      "end" : 1251387
+    },
+    {
+      "titel" : "Professor Alkurah",
+      "start" : 1251387,
+      "end" : 1391307
+    },
+    {
+      "titel" : "Die weiße Frau",
+      "start" : 1391307,
+      "end" : 1905653
+    },
+    {
+      "titel" : "In Kepheus Haus",
+      "start" : 1905653,
+      "end" : 2581387
+    },
+    {
+      "titel" : "Ketus",
+      "start" : 2581387,
+      "end" : 3196627
+    },
+    {
+      "titel" : "Untergang",
+      "start" : 3196627,
+      "end" : 3799387
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Miss Bennett",
+      "Renate Pichler"
+    ],
+    [
+      "Karen",
+      "Celine Fontange"
+    ],
+    [
+      "Becky",
+      "Katharina v. Keller"
+    ],
+    [
+      "Felicia Sparing",
+      "Rhea Harder"
+    ],
+    [
+      "Mrs. Amelia Sparing",
+      "Karin Buchholz"
+    ],
+    [
+      "Mr. Sparing",
+      "Sky du Mont"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Professor Alkurah",
+      "Ben Hecker"
+    ],
+    [
+      "Eroll",
+      "Bertram Hiese"
+    ],
+    [
+      "Mrs. Featherstone",
+      "Sabine Hahn"
+    ],
+    [
+      "Wärter",
+      "Jürgen Holdorf"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/132/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/132/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/132/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/132/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/92/3d/8e/923d8ec1-8cdb-d2f5-53d7-d33d93d762ab/886445755084.jpg/3000x0w.png"
+  }
+}

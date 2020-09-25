@@ -1,0 +1,86 @@
+{
+  "nummer" : 84,
+  "titel" : "Musik des Teufels",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Was ist nur mit Bob los? Warum reagiert der sonst so ausgeglichene Detektiv plötzlich aggressiv und gereizt auf seine Freunde? Es scheint, als stünde er unter dem Einfluss einer fremden Macht. Justus und Peter beschatten ihren Freund und folgen ihm unauffällig in den Konzertsaal eines Privathauses. Dort lauscht Bob gebannt der Musik eines virtuosen Geigenspielers. Und bevor sie wissen, wie ihnen geschieht, werden auch Justus und Peter von den Klängen gleichsam verhext. Können sie sich dem Bann des Teufelsgeigers entziehen, ehe es zu spät ist?",
+  "veröffentlichungsdatum" : "1999-02-08",
+  "kapitel" : [
+    {
+      "titel" : "Heimlichkeiten",
+      "start" : 0,
+      "end" : 579547
+    },
+    {
+      "titel" : "Musik des Teufels",
+      "start" : 579547,
+      "end" : 1260293
+    },
+    {
+      "titel" : "Ertappt",
+      "start" : 1260293,
+      "end" : 1800867
+    },
+    {
+      "titel" : "Peisinoes Gesang",
+      "start" : 1800867,
+      "end" : 2314800
+    },
+    {
+      "titel" : "Der Fluch der Teufelsgeige",
+      "start" : 2314800,
+      "end" : 2917507
+    },
+    {
+      "titel" : "Der fiedelnde Tod",
+      "start" : 2917507,
+      "end" : 3603107
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Jelena",
+      "Alexandra Doerk"
+    ],
+    [
+      "Mr. Charkov, Jelenas Vater",
+      "Klaus Dittmann"
+    ],
+    [
+      "Vanderhell, Teufelsgeiger",
+      "Lutz Mackensy"
+    ],
+    [
+      "Mr. Andrews",
+      "Roland Becker"
+    ],
+    [
+      "Mrs. Andrews",
+      "Carola Lange"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/084/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/084/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/084/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/084/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/a0/97/1d/a0971d15-6670-c7bf-63e4-8f55d07dae54/886445750089.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d8/13/df/0743215974321.jpg"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "nummer" : 59,
+  "titel" : "Giftiges Wasser",
+  "autor" : "Brigitte-Johanna Henkel-Waidhofer",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Die Nachricht trifft Justus, Peter und Bob wie eine Bombe: Ein Unbekannter droht, das gesamte Trinkwasser des verschlafenen Touristenstädtchens Sedona zu vergiften. Sollte das geplante Rockfestival nicht abgesagt werden? Die Polizei ist ratlos. Die drei ??? übernehmen den Fall und geraten bald in brenzlige Situationen. Da meldet sich der Erpresser erneut – das Ultimatum läuft ab!",
+  "veröffentlichungsdatum" : "1994-08-10",
+  "kapitel" : [
+    {
+      "titel" : "Eine Stadt wird erpresst",
+      "start" : 0,
+      "end" : 267880
+    },
+    {
+      "titel" : "Auf Eis gelegt",
+      "start" : 267880,
+      "end" : 690600
+    },
+    {
+      "titel" : "Trotz Regen – kein Wasser",
+      "start" : 690600,
+      "end" : 999907
+    },
+    {
+      "titel" : "Flucht auf der Harley",
+      "start" : 999907,
+      "end" : 1328827
+    },
+    {
+      "titel" : "Anweisung vom Erpresser",
+      "start" : 1328827,
+      "end" : 1644293
+    },
+    {
+      "titel" : "Verbotener Handel",
+      "start" : 1644293,
+      "end" : 2044893
+    },
+    {
+      "titel" : "Auf Drogenentzug",
+      "start" : 2044893,
+      "end" : 2361133
+    },
+    {
+      "titel" : "Im Stich gelassen",
+      "start" : 2361133,
+      "end" : 2667307
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Ruth, Zeitungs-Journalistin",
+      "Hansi Jochmann"
+    ],
+    [
+      "Jean Baxter, TV-Journalistin",
+      "Heidrun von Goessel"
+    ],
+    [
+      "Van Well, Pressechef",
+      "Ulrich Faulhaber"
+    ],
+    [
+      "Sinagua, Indianerin",
+      "Samira Chanfir"
+    ],
+    [
+      "Chosmo, Journalist",
+      "Mathias Bullach"
+    ],
+    [
+      "Monsieur Jaubert",
+      "Michael Poelchau"
+    ],
+    [
+      "René Hancock",
+      "Thomas Schüler"
+    ],
+    [
+      "Joan Brown",
+      "Rebecca Völz"
+    ],
+    [
+      "Hendrik Walton, Fabrikant",
+      "Karl Michael Mechel"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/059/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/059/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/059/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/059/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/54/05/67/5405674f-66e9-fc60-8e43-435287bb25a1/886445747010.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/13/bc/39/0743211851329.jpg"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "nummer" : 98,
+  "titel" : "Tal des Schreckens",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Mitten in den Magic Mountains wacht eine Frau am Steuer ihres Autos auf: Sie hat keine Ahnung wo sie ist, ihr Kopf schmerzt. Das Einzige, an das sie sich erinnern kann, ist ein Indianer mit Adlerkopfmaske, der sie mitten in der Nacht aus dem Auto gezerrt hat. Die Polizei zweifelt an dem Verstand der Frau, doch die drei ??? glauben ihr. Todesmutig machen sie sich auf in das Tal des Schreckens und erleben die Horrornacht ihres Lebens.",
+  "veröffentlichungsdatum" : "2001-08-13",
+  "kapitel" : [
+    {
+      "titel" : "Blackout",
+      "start" : 0,
+      "end" : 449000
+    },
+    {
+      "titel" : "Der Fluch des Adlers",
+      "start" : 449000,
+      "end" : 989973
+    },
+    {
+      "titel" : "Taylor kneift",
+      "start" : 989973,
+      "end" : 1481080
+    },
+    {
+      "titel" : "Der Alptraum beginnt",
+      "start" : 1481080,
+      "end" : 1943107
+    },
+    {
+      "titel" : "Das Tal des Schreckens",
+      "start" : 1943107,
+      "end" : 2365733
+    },
+    {
+      "titel" : "Im Dickicht des Waldes",
+      "start" : 2365733,
+      "end" : 2782520
+    },
+    {
+      "titel" : "Lauschangriff",
+      "start" : 2782520,
+      "end" : 3347573
+    },
+    {
+      "titel" : "Seitenwechsel",
+      "start" : 3347573,
+      "end" : 3772307
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Ann Sullivan",
+      "Heidi Schaffrath"
+    ],
+    [
+      "Mr. Martin",
+      "Christian Mey"
+    ],
+    [
+      "Mr. Caddy",
+      "Helmut Gentsch"
+    ],
+    [
+      "Kellnerin",
+      "Anna Carlsson"
+    ],
+    [
+      "Lady Day",
+      "Reinhilt Schneider"
+    ],
+    [
+      "Henry",
+      "Wilhelm Wieben"
+    ],
+    [
+      "Mann aus der Wüste",
+      "Wilhelm Hornbostel"
+    ],
+    [
+      "Miller",
+      "Lutz Mackensy"
+    ],
+    [
+      "Debby",
+      "Roswitha Benda"
+    ],
+    [
+      "Joe",
+      "Jakob Lichtblau [Eberhard Haar]"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/098/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/098/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/098/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/098/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music20/v4/3f/92/24/3f9224fb-2dd4-357f-d1ca-b1de96485dfd/886445750508.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/17/73/b3/0743218398629.jpg"
+  }
+}

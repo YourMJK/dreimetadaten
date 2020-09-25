@@ -1,0 +1,111 @@
+{
+  "nummer" : 46,
+  "titel" : "und der schrullige Millionär",
+  "autor" : "M. V. Carey",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Als bei der Verlobung seiner Tochter ein Teller zu Boden fällt, erleidet der geizige Millionär Pilcher einen Herzanfall. Er scheint dem Tode nahe, doch dann ist er plötzlich verschwunden. Wurde er entführt? Die drei Detektive versuchen, das Rätsel zu lösen, und Justus fordert seine Kollegen zum logischen Denken auf …",
+  "veröffentlichungsdatum" : "1989-04-08",
+  "kapitel" : [
+    {
+      "titel" : "Ein Millionär verschwindet",
+      "start" : 0,
+      "end" : 407480
+    },
+    {
+      "titel" : "Ende der Party",
+      "start" : 407480,
+      "end" : 694200
+    },
+    {
+      "titel" : "Gespeicherte Geheimdaten",
+      "start" : 694200,
+      "end" : 1110333
+    },
+    {
+      "titel" : "Die rätselhafte Botschaft",
+      "start" : 1110333,
+      "end" : 1443720
+    },
+    {
+      "titel" : "Das Buch des Bischofs",
+      "start" : 1443720,
+      "end" : 1736933
+    },
+    {
+      "titel" : "Justus hat eine Erleuchtung",
+      "start" : 1736933,
+      "end" : 2067707
+    },
+    {
+      "titel" : "Nicht umzubringen",
+      "start" : 2067707,
+      "end" : 2662787
+    },
+    {
+      "titel" : "Ein Geheimnis aus alter Zeit",
+      "start" : 2662787,
+      "end" : 2853253
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Harry Burnside",
+      "Thomas Naumann"
+    ],
+    [
+      "Millionär Pilcher",
+      "Michael von Raspatt"
+    ],
+    [
+      "Marilyn Pilcher",
+      "Gabi Libbach"
+    ],
+    [
+      "Sekretär Sanchez",
+      "Walter Eltz"
+    ],
+    [
+      "Harald Durham",
+      "Ernst A. Frantz"
+    ],
+    [
+      "Frau Durham",
+      "Micaela Kreißler"
+    ],
+    [
+      "Jim Westerbrook",
+      "Michael Quiatkowski"
+    ],
+    [
+      "Mrs. Westerbrook",
+      "Gerlinde Dillge"
+    ],
+    [
+      "Dr. Gonzaga",
+      "Michael Liptow"
+    ],
+    [
+      "Ramon Navarro",
+      "Norbert Lange"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/046/metadata.json"
+  }
+}

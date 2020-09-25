@@ -1,0 +1,360 @@
+{
+  "nummer" : 100,
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "buchstabe" : "A",
+      "titel" : "Das Rätsel der Sphinx",
+      "beschreibung" : "Ein seltsames Rätsel und ein unbekannter Anrufer. Die drei ??? haben alle Hände voll zu tun. Wer oder was verbirgt sich hinter dem geheimnisvollen Namen \"Sphinx\"? Alle Fäden laufen auf der \"Explorer\" zusammen, einem Schiff, auf dem der neueste Fall für Justus, Peter und Bob eine dramatische Wendung nimmt …",
+      "kapitel" : [
+        {
+          "titel" : "Botschaft von Geisterhand",
+          "start" : 0,
+          "end" : 490480
+        },
+        {
+          "titel" : "Der verschwundene Schatz",
+          "start" : 490480,
+          "end" : 1098520
+        },
+        {
+          "titel" : "Die Geisterinsel",
+          "start" : 1098520,
+          "end" : 1580160
+        },
+        {
+          "titel" : "Der unsichtbare Gegner",
+          "start" : 1580160,
+          "end" : 2095880
+        },
+        {
+          "titel" : "Gefahr im Verzug",
+          "start" : 2095880,
+          "end" : 2660453
+        },
+        {
+          "titel" : "Das Geisterschiff",
+          "start" : 2660453,
+          "end" : 3204573
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Matthias Fuchs"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Skinny Norris",
+          "Andreas von der Meden"
+        ],
+        [
+          "Jelena",
+          "Alexandra Doerk"
+        ],
+        [
+          "Dr. Svenson",
+          "Antje Roosch"
+        ],
+        [
+          "Mr. Schwarz",
+          "Erik Schäffler"
+        ],
+        [
+          "Mr. Olin",
+          "Uli Krohm"
+        ],
+        [
+          "Juan",
+          "Oliver Böttcher"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/100/1/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/1/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/100/1/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "buchstabe" : "B",
+      "titel" : "Das vergessene Volk",
+      "beschreibung" : "Dichter Urwald, ein Vulkankrater und eine unbewohnte Insel.\nPeter Shaw – ganz auf sich allein gestellt – durchlebt im Dschungel einen wahren Albtraum. Wer ist das entstellte Narbengesicht, dem er urplötzlich in einer unterirdischen Höhle gegenüber steht?",
+      "kapitel" : [
+        {
+          "titel" : "Die Schattenmänner",
+          "start" : 0,
+          "end" : 500840
+        },
+        {
+          "titel" : "Der rasende Löwe",
+          "start" : 500840,
+          "end" : 1070627
+        },
+        {
+          "titel" : "Der Doppelgänger",
+          "start" : 1070627,
+          "end" : 1677840
+        },
+        {
+          "titel" : "Der magische Kreis",
+          "start" : 1677840,
+          "end" : 2187973
+        },
+        {
+          "titel" : "Das Narbengesicht",
+          "start" : 2187973,
+          "end" : 2922893
+        },
+        {
+          "titel" : "Nacht in Angst",
+          "start" : 2922893,
+          "end" : 3376800
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Matthias Fuchs"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Skinny Norris",
+          "Andreas von der Meden"
+        ],
+        [
+          "Morton",
+          "Andreas von der Meden"
+        ],
+        [
+          "Jelena",
+          "Alexandra Doerk"
+        ],
+        [
+          "Professor Phoenix",
+          "Wilfried Glatzeder"
+        ],
+        [
+          "Dr. Svenson",
+          "Antje Roosch"
+        ],
+        [
+          "Mr. Schwarz",
+          "Erik Schäffler"
+        ],
+        [
+          "Mr. Olin",
+          "Uli Krohm"
+        ],
+        [
+          "Juan",
+          "Oliver Böttcher"
+        ],
+        [
+          "Rachel Hadden",
+          "Anna Carlsson"
+        ],
+        [
+          "Al",
+          "Nico König"
+        ],
+        [
+          "Anne",
+          "Corinna Wodrich"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/100/2/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/2/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/100/2/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 3,
+      "buchstabe" : "C",
+      "titel" : "Der Fluch der Gräber",
+      "beschreibung" : "Eine Bombendrohung, Raketenköpfe und den Tod vor Augen zu haben, bringen nicht nur den ängstlichen Zweiten Detektiv gehörig ins Schwitzen.\n\"Makatao\", die Toteninsel, entpuppt sich als eine gefährliche Falle.\nEin nervenaufreibender Wettlauf mit der Zeit beginnt …",
+      "kapitel" : [
+        {
+          "titel" : "Verdeckte Fouls",
+          "start" : 0,
+          "end" : 618853
+        },
+        {
+          "titel" : "Die Rache des Tigers",
+          "start" : 618853,
+          "end" : 1016733
+        },
+        {
+          "titel" : "Die rätselhaften Bilder",
+          "start" : 1016733,
+          "end" : 1685640
+        },
+        {
+          "titel" : "Das Geheimnis der Särge",
+          "start" : 1685640,
+          "end" : 2235333
+        },
+        {
+          "titel" : "Dreckiger Deal",
+          "start" : 2235333,
+          "end" : 2721600
+        },
+        {
+          "titel" : "Tödliche Spur",
+          "start" : 2721600,
+          "end" : 3410493
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Matthias Fuchs"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Jelena",
+          "Alexandra Doerk"
+        ],
+        [
+          "Professor Phoenix",
+          "Wilfried Glatzeder"
+        ],
+        [
+          "Dr. Svenson",
+          "Antje Roosch"
+        ],
+        [
+          "Mr. Schwarz",
+          "Erik Schäffler"
+        ],
+        [
+          "Mr. Olin",
+          "Uli Krohm"
+        ],
+        [
+          "Juan",
+          "Oliver Böttcher"
+        ],
+        [
+          "Al",
+          "Nico König"
+        ],
+        [
+          "Anne",
+          "Corinna Wodrich"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/100/3/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/3/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/100/3/rip_log.txt"
+      }
+    }
+  ],
+  "titel" : "Toteninsel",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die drei ??? übernehmen ihren 100sten Fall Fall! In drei spannenden Folgen sind sie dem Geheimnis der Toteninsel auf der Spur.\nEine große Herausforderung für die Detektive. Weswegen sie gut beraten sind, die Hilfe alter Wegbegleiter anzunehmen, um Das Rätsel der Sphinx (Teil 1) zu lösen. Doch plötzlich ist Peter verschwunden und auch Das vergessene Volk (Teil 2) kann Justus und Bob bei ihrer Suche nicht weiterhelfen. Erst Der Fluch der Gräber (Teil 3) führt die drei ??? auf eine heiße Spur.",
+  "veröffentlichungsdatum" : "2001-10-15",
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Skinny Norris",
+      "Andreas von der Meden"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Jelena",
+      "Alexandra Doerk"
+    ],
+    [
+      "Dr. Svenson",
+      "Antje Roosch"
+    ],
+    [
+      "Mr. Schwarz",
+      "Erik Schäffler"
+    ],
+    [
+      "Mr. Olin",
+      "Uli Krohm"
+    ],
+    [
+      "Juan",
+      "Oliver Böttcher"
+    ],
+    [
+      "Professor Phoenix",
+      "Wilfried Glatzeder"
+    ],
+    [
+      "Rachel Hadden",
+      "Anna Carlsson"
+    ],
+    [
+      "Al",
+      "Nico König"
+    ],
+    [
+      "Anne",
+      "Corinna Wodrich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/100/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Serie/100/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/98/bf/e1/98bfe170-7b8a-2459-322e-dcfcf7c525f5/886445750539.jpg/3000x0w.png"
+  }
+}

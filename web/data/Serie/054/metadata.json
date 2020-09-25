@@ -1,0 +1,112 @@
+{
+  "nummer" : 54,
+  "titel" : "Gefahr im Verzug",
+  "autor" : "Peter Lerangis",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Anonyme Drohungen, umstürzende Kulissen, herumliegende Rasierklingen, eine Explosion: Es ist offensichtlich, daß irgend jemand George Brandon nach dem Leben trachtet. Der Star des Musicals Gefahr im Verzug entgeht den mysteriösen Unfällen nur um Haaresbreite. Aber die Show läuft weiter und entwickelt sich sogar zum Kassenschlager. Um unauffällig ermitteln zu können, schleusen sich Justus, Peter und Kelly als Statisten getarnt in den Theaterbetrieb ein.",
+  "veröffentlichungsdatum" : "1992-02-17",
+  "kapitel" : [
+    {
+      "titel" : "Ein denkenswerter Auftritt",
+      "start" : 0,
+      "end" : 390120
+    },
+    {
+      "titel" : "Gefahr im Verzug",
+      "start" : 390120,
+      "end" : 711920
+    },
+    {
+      "titel" : "Hinter den Kulissen",
+      "start" : 711920,
+      "end" : 954000
+    },
+    {
+      "titel" : "Geisterbeschwörung",
+      "start" : 954000,
+      "end" : 1520760
+    },
+    {
+      "titel" : "Eine klebrige Angelegenheit",
+      "start" : 1520760,
+      "end" : 1852587
+    },
+    {
+      "titel" : "Ausverkauft",
+      "start" : 1852587,
+      "end" : 2188827
+    },
+    {
+      "titel" : "Verfolgungsjagd",
+      "start" : 2188827,
+      "end" : 2724867
+    },
+    {
+      "titel" : "Autogrammjäger",
+      "start" : 2724867,
+      "end" : 3048040
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Kelly",
+      "Juliane Szalay"
+    ],
+    [
+      "Buzz Newman",
+      "Manou Lubowski"
+    ],
+    [
+      "George Brandon",
+      "Fabian Harloff"
+    ],
+    [
+      "Jim Bernardie",
+      "Holger Mahlich"
+    ],
+    [
+      "Firestone",
+      "Peter Schiff"
+    ],
+    [
+      "Crocker",
+      "Lothar Grützner"
+    ],
+    [
+      "Lovell Madeira",
+      "Rainer Schmitt"
+    ],
+    [
+      "Vic Hammell",
+      "Ben Tappé"
+    ],
+    [
+      "Dan",
+      "Henry König"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/054/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/054/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/054/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/054/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/9e/93/8c/9e938c51-0f8c-4962-c501-b9f1d326451e/886445747157.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/82/19/6a/0743213885421.jpg"
+  }
+}

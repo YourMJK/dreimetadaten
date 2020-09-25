@@ -1,0 +1,116 @@
+{
+  "nummer" : 131,
+  "titel" : "Haus des Schreckens",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Was geht im Marriott House, dem gruseligen alten Gebäude draußen auf einer einsamen Insel, vor sich? Spukt es dort tatsächlich? Als eine Person entführt wird und unheimliche Spuren Böses ahnen lassen, ist schnell klar: Dies ist ein Fall für die drei ???! Wer oder was hat den berühmten Musikproduzenten Lloyd Scavenger in seiner Gewalt? Justus, Peter und Bob, die drei erfolgreichen Detektive aus Rocky Beach, nehmen die Spur auf – und geraten in ein Labyrinth, in dem hinter jeder Ecke ein neues Rätsel wartet …",
+  "veröffentlichungsdatum" : "2009-07-03",
+  "kapitel" : [
+    {
+      "titel" : "Marriott's Island",
+      "start" : 0,
+      "end" : 349787
+    },
+    {
+      "titel" : "Das Haus der Geister",
+      "start" : 349787,
+      "end" : 1003653
+    },
+    {
+      "titel" : "Der Mörder geht um",
+      "start" : 1003653,
+      "end" : 1564200
+    },
+    {
+      "titel" : "Das Fenster im Boden",
+      "start" : 1564200,
+      "end" : 2588227
+    },
+    {
+      "titel" : "Schritte in der Wand",
+      "start" : 2588227,
+      "end" : 2877213
+    },
+    {
+      "titel" : "Das Archiv",
+      "start" : 2877213,
+      "end" : 3237933
+    },
+    {
+      "titel" : "Es stinkt",
+      "start" : 3237933,
+      "end" : 3557200
+    },
+    {
+      "titel" : "Bericht aus der Hölle",
+      "start" : 3557200,
+      "end" : 3882493
+    },
+    {
+      "titel" : "Das Spiel ist aus",
+      "start" : 3882493,
+      "end" : 4242960
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Lloyd Scavenger",
+      "Stefan Benson"
+    ],
+    [
+      "Jack Lowell",
+      "Siegfried Kernen"
+    ],
+    [
+      "Alexander Nolan",
+      "Wilfried Hochholdinger"
+    ],
+    [
+      "Jaqueline Williams",
+      "Henrike Fehrs"
+    ],
+    [
+      "Ian Parsley",
+      "Jörg Gillner"
+    ],
+    [
+      "Mary Parsley",
+      "Karin Abicht"
+    ],
+    [
+      "Jasper Kittle",
+      "Peter Weis"
+    ],
+    [
+      "Shawne Davison",
+      "Susanne Lothar"
+    ],
+    [
+      "Officer Wood",
+      "Roman Kretschmer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/131/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/131/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/131/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/131/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/5a/b3/18/5ab318ca-2e9a-39fa-de80-027e40208841/886445755039.jpg/3000x0w.png"
+  }
+}

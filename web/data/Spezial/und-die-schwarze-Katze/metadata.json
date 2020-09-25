@@ -1,0 +1,264 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "kapitel" : [
+        {
+          "titel" : "Prolog",
+          "start" : 0,
+          "end" : 112213
+        },
+        {
+          "titel" : "Auf zum Zirkus",
+          "start" : 112213,
+          "end" : 307867
+        },
+        {
+          "titel" : "Haltet den Dieb",
+          "start" : 307867,
+          "end" : 828760
+        },
+        {
+          "titel" : "Fünf Schuss — fünf Treffer",
+          "start" : 828760,
+          "end" : 1086160
+        },
+        {
+          "titel" : "Der Löwe ist los",
+          "start" : 1086160,
+          "end" : 1351960
+        },
+        {
+          "titel" : "Eine Pechsträhne",
+          "start" : 1351960,
+          "end" : 1659760
+        },
+        {
+          "titel" : "Andy wundert sich",
+          "start" : 1659760,
+          "end" : 2349640
+        },
+        {
+          "titel" : "Der Mann mit der Tätowierung",
+          "start" : 2349640,
+          "end" : 2641800
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/1/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/1/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "kapitel" : [
+        {
+          "titel" : "In der Falle",
+          "start" : 0,
+          "end" : 557093
+        },
+        {
+          "titel" : "Justus kombiniert",
+          "start" : 557093,
+          "end" : 1192707
+        },
+        {
+          "titel" : "Nächtliche Jagd",
+          "start" : 1192707,
+          "end" : 1558400
+        },
+        {
+          "titel" : "Bart ab!",
+          "start" : 1558400,
+          "end" : 1774000
+        },
+        {
+          "titel" : "Ein seltsamer Anblick",
+          "start" : 1774000,
+          "end" : 2213840
+        },
+        {
+          "titel" : "Der Räuber wird entlarvt",
+          "start" : 2213840,
+          "end" : 2675787
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/2/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/2/rip_log.txt"
+      }
+    }
+  ],
+  "titel" : "und die schwarze Katze",
+  "autor" : "William Arden",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "In einem kleinen Wanderzirkus wittern die drei Detektive Justus, Peter und Bob ihren neuesten Fall. Justus ist sich sicher: Wenn ein finster aussehender Mann mit Gewalt eine hässliche Stoffkatze an sich bringen will, sie dann stiehlt und am nächsten Tag per Zeitungsanzeige weitere Katzen sucht, muss etwas dahinterstecken!",
+  "veröffentlichungsdatum" : "2019-02-15",
+  "kapitel" : [
+    {
+      "titel" : "Prolog",
+      "start" : 0,
+      "end" : 112213
+    },
+    {
+      "titel" : "Auf zum Zirkus",
+      "start" : 112213,
+      "end" : 307867
+    },
+    {
+      "titel" : "Haltet den Dieb",
+      "start" : 307867,
+      "end" : 828760
+    },
+    {
+      "titel" : "Fünf Schuss — fünf Treffer",
+      "start" : 828760,
+      "end" : 1086160
+    },
+    {
+      "titel" : "Der Löwe ist los",
+      "start" : 1086160,
+      "end" : 1351960
+    },
+    {
+      "titel" : "Eine Pechsträhne",
+      "start" : 1351960,
+      "end" : 1659760
+    },
+    {
+      "titel" : "Andy wundert sich",
+      "start" : 1659760,
+      "end" : 2349640
+    },
+    {
+      "titel" : "Der Mann mit der Tätowierung",
+      "start" : 2349640,
+      "end" : 2641800
+    },
+    {
+      "titel" : "In der Falle",
+      "start" : 2641800,
+      "end" : 3198893
+    },
+    {
+      "titel" : "Justus kombiniert",
+      "start" : 3198893,
+      "end" : 3834507
+    },
+    {
+      "titel" : "Nächtliche Jagd",
+      "start" : 3834507,
+      "end" : 4200200
+    },
+    {
+      "titel" : "Bart ab!",
+      "start" : 4200200,
+      "end" : 4415800
+    },
+    {
+      "titel" : "Ein seltsamer Anblick",
+      "start" : 4415800,
+      "end" : 4855640
+    },
+    {
+      "titel" : "Der Räuber wird entlarvt",
+      "start" : 4855640,
+      "end" : 5317587
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Andy Carson",
+      "Stefan Schwade"
+    ],
+    [
+      "Carson, Andys Vater",
+      "Hans Kahlert"
+    ],
+    [
+      "Onkel Titus",
+      "Hans Meinhardt"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Gabbo",
+      "Manfred Reddemann"
+    ],
+    [
+      "Wachmann",
+      "Till Huster"
+    ],
+    [
+      "Iwan",
+      "Urs Affolter"
+    ],
+    [
+      "Reynolds",
+      "Christian Redl"
+    ],
+    [
+      "Khan",
+      "Klaus Dittmann"
+    ],
+    [
+      "Schaustellerin",
+      "Ursula Sieg"
+    ],
+    [
+      "Vermieter",
+      "Stephan Benson"
+    ],
+    [
+      "Polizist 1",
+      "Jürgen Holdorf"
+    ],
+    [
+      "Polizist 2 (Prolog)",
+      "Daniel Welbat"
+    ],
+    [
+      "Polizist 3 (Prolog)",
+      "Matthias Krauße"
+    ],
+    [
+      "Losverkäufer",
+      "Joachim Kretzer"
+    ],
+    [
+      "Kassiererin",
+      "Birte Kretschmer"
+    ],
+    [
+      "Feuerschlucker",
+      "Robert Missler"
+    ],
+    [
+      "Jack",
+      "Timo Alexander Wenzel"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/cover.png"
+  }
+}

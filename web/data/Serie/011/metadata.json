@@ -1,0 +1,95 @@
+{
+  "nummer" : 11,
+  "titel" : "und das Gespensterschloss",
+  "autor" : "Robert Arthur",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Alfred Hitchcock hat zur Klärung unwahrscheinlicher Ereignisse Helfer bekommen: Die drei ???, hinter denen sich die jungen Detektive Justus, Peter und Bob verbergen. Wer könnte ein Interesse daran haben, den Spuk im Schloß zu veranstalten? Wer möchte unbedingt Besucher vom Schloß fernhalten? Zusammen mit seinen Freunden versucht Justus dem Geheimnis auf die Spur zu kommen. Werden sie es schaffen, sich als jüngste Detektei ihre Sponsoren zu verdienen? Wird es ihnen gelingen, das Geheimnis des Gespensterschlosses aufzuklären?",
+  "veröffentlichungsdatum" : "1980-03-02",
+  "kapitel" : [
+    {
+      "titel" : "Man spricht vom Gespensterschloss",
+      "start" : 0,
+      "end" : 305493
+    },
+    {
+      "titel" : "Echo aus dem Jenseits",
+      "start" : 305493,
+      "end" : 666893
+    },
+    {
+      "titel" : "In der Falle!",
+      "start" : 666893,
+      "end" : 1071107
+    },
+    {
+      "titel" : "Der Mann mit der Narbe",
+      "start" : 1071107,
+      "end" : 1449360
+    },
+    {
+      "titel" : "Die Warnung der Zigeunerin",
+      "start" : 1449360,
+      "end" : 1776747
+    },
+    {
+      "titel" : "Das blaue Phantom",
+      "start" : 1776747,
+      "end" : 2224040
+    },
+    {
+      "titel" : "Im Verlies",
+      "start" : 2224040,
+      "end" : 2548187
+    },
+    {
+      "titel" : "Interview mit einem Gespenst",
+      "start" : 2548187,
+      "end" : 2894907
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Stephen Terrill",
+      "Wolf Rahtjen"
+    ],
+    [
+      "Skinny Norris",
+      "Andreas von der Meden"
+    ],
+    [
+      "Mr. Grant",
+      "Horst Breiter"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/011/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/011/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/011/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/011/cover.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f6/90/5e/0743213881126.jpg"
+  }
+}

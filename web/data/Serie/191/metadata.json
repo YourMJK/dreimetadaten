@@ -1,0 +1,103 @@
+{
+  "nummer" : 191,
+  "titel" : "Verbrechen im Nichts",
+  "autor" : "Kari Erlhoff",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Schluss mit der Verbrecherjagd! Justus, Peter und Bob müssen ihre Sommerferien im beschaulichen Dörfchen Nothing verbringen und sind entsetzt. Der Name ist Programm: Hier passiert rein gar nichts. Auf den ersten Blick. Denn auf den zweiten birgt auch Nothing zahlreiche Geheimnisse. Schneller als es den drei ??? lieb ist, werden sie in eine Schatzsuche verstrickt und lenken die Aufmerksamkeit eines mysteriösen Verfolgers auf sich …",
+  "veröffentlichungsdatum" : "2018-01-26",
+  "kapitel" : [
+    {
+      "titel" : "Nichts im Nichts",
+      "start" : 0,
+      "end" : 410507
+    },
+    {
+      "titel" : "Seltsamer Ort",
+      "start" : 410507,
+      "end" : 1182187
+    },
+    {
+      "titel" : "Botschaft aus der Vergangenheit",
+      "start" : 1182187,
+      "end" : 1834987
+    },
+    {
+      "titel" : "Das Ende der Spur?",
+      "start" : 1834987,
+      "end" : 2295147
+    },
+    {
+      "titel" : "Schatten in der Nacht",
+      "start" : 2295147,
+      "end" : 2754867
+    },
+    {
+      "titel" : "Das Geheimnis hinter dem Geheimnis",
+      "start" : 2754867,
+      "end" : 3142227
+    },
+    {
+      "titel" : "Am Abgrund",
+      "start" : 3142227,
+      "end" : 3752707
+    },
+    {
+      "titel" : "Das Schicksal ruft",
+      "start" : 3752707,
+      "end" : 4266120
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Priscilla Sicktree",
+      "Marianne Bernhardt"
+    ],
+    [
+      "Hank",
+      "Henry König"
+    ],
+    [
+      "Brian",
+      "Patrick Mölleken"
+    ],
+    [
+      "Ashlyn",
+      "Julia Fölster"
+    ],
+    [
+      "Rosie Wrenwick",
+      "Gerlinde Dillge"
+    ],
+    [
+      "Sheriff Stone",
+      "Horst Stark"
+    ],
+    [
+      "Hilfssheriff Jonathan",
+      "Christian Rudolf"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/191/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/191/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/191/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/191/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/11/61/5d/11615db3-6d31-d95b-2287-493c87b64795/886446602479.jpg/3000x0w.png"
+  }
+}

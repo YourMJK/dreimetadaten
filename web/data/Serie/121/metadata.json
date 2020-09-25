@@ -1,0 +1,132 @@
+{
+  "nummer" : 121,
+  "titel" : "Spur ins Nichts",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Justus sitzt in der Falle! Orientierungslos und ohne Erinnerung erwacht er in einer dunklen, kalten, verschlossenen Kammer. Wurde der Erste Detektiv entführt und in ein geheimes Versteck gebracht? Und wer ist der junge Mann, der mit ihm eingeschlossen ist? Kann er sich tatsächlich auch an nichts erinnern? Oder weiß er mehr, als er Justus verraten will? Die drei ??? werden in einen höchst mysteriösen Fall verwickelt, in dem sie scharf kombinieren müssen, um dem Gegner auf die Spur zu kommen. Und dieser schreckt vor nichts zurück …",
+  "veröffentlichungsdatum" : "2008-04-04",
+  "kapitel" : [
+    {
+      "titel" : "Fehlende Erinnerung",
+      "start" : 0,
+      "end" : 199973
+    },
+    {
+      "titel" : "Filmriss",
+      "start" : 199973,
+      "end" : 519067
+    },
+    {
+      "titel" : "Eins, Punkt, Fragezeichen",
+      "start" : 519067,
+      "end" : 760533
+    },
+    {
+      "titel" : "Hasta La Vista!",
+      "start" : 760533,
+      "end" : 892200
+    },
+    {
+      "titel" : "Verdächtiges Individuum",
+      "start" : 892200,
+      "end" : 1075480
+    },
+    {
+      "titel" : "Fliegende Orangen",
+      "start" : 1075480,
+      "end" : 1332480
+    },
+    {
+      "titel" : "Absolute Dunkelheit",
+      "start" : 1332480,
+      "end" : 1518067
+    },
+    {
+      "titel" : "Gequirlter Blödsinn",
+      "start" : 1518067,
+      "end" : 1675573
+    },
+    {
+      "titel" : "Hilfeschrei",
+      "start" : 1675573,
+      "end" : 1833213
+    },
+    {
+      "titel" : "Amnesie",
+      "start" : 1833213,
+      "end" : 2312933
+    },
+    {
+      "titel" : "Überzeugende Schauspielkunst",
+      "start" : 2312933,
+      "end" : 2461267
+    },
+    {
+      "titel" : "Notbremse",
+      "start" : 2461267,
+      "end" : 3246733
+    },
+    {
+      "titel" : "In Deckung!",
+      "start" : 3246733,
+      "end" : 3762347
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Shawn",
+      "Robin Brosch"
+    ],
+    [
+      "Jolene",
+      "Marion Elskis"
+    ],
+    [
+      "Leah",
+      "Susanne Sternberg"
+    ],
+    [
+      "Jelena",
+      "Alexandra Doerk"
+    ],
+    [
+      "Sue",
+      "Kerstin Hilbig"
+    ],
+    [
+      "Kimberly Lloyd",
+      "Ingeborg Christiansen"
+    ],
+    [
+      "William Boyd",
+      "Olaf Kreuzenbeck"
+    ],
+    [
+      "Thorndike",
+      "Michael Lott"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/121/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/121/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/121/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/121/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music22/v4/28/d5/62/28d562b7-ceb8-16b3-7aa5-5f2431149799/886445752182.jpg/3000x0w.png"
+  }
+}

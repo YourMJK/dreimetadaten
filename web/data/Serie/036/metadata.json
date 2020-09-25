@@ -1,0 +1,95 @@
+{
+  "nummer" : 36,
+  "titel" : "und der Super-Wal",
+  "autor" : "Marc Brandel",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Justus, Bob und Peter retten einen Wal, der bei Ebbe ins allzu flache Wasser geraten ist. Damit beginnt eine Reihe von gefährlichen Abenteuern. Der Wal wird dressiert und soll für Bergungsarbeiten eingesetzt werden. Doch damit ist irgend jemand gar nicht einverstanden! Was liegt da Geheimnisvolles auf dem Meeresgrund? Justus muß sich gewaltig anstrengen, um schließlich das Geheimnis lüften zu können …",
+  "veröffentlichungsdatum" : "1985-05-29",
+  "kapitel" : [
+    {
+      "titel" : "Die Lebensretter",
+      "start" : 0,
+      "end" : 374880
+    },
+    {
+      "titel" : "\"Ocean World\" – Die Welt des Ozeans",
+      "start" : 374880,
+      "end" : 720507
+    },
+    {
+      "titel" : "Jetzt aber los",
+      "start" : 720507,
+      "end" : 1043360
+    },
+    {
+      "titel" : "Der Mann mit dem eigenartigen rechten Auge",
+      "start" : 1043360,
+      "end" : 1445853
+    },
+    {
+      "titel" : "Die beiden langen Stangen",
+      "start" : 1445853,
+      "end" : 1826053
+    },
+    {
+      "titel" : "Die verlorene Fracht",
+      "start" : 1826053,
+      "end" : 2189133
+    },
+    {
+      "titel" : "Flukeys Lied",
+      "start" : 2189133,
+      "end" : 2524133
+    },
+    {
+      "titel" : "Was in der Kassette war",
+      "start" : 2524133,
+      "end" : 2896187
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Constance",
+      "Heidi Schaffrath"
+    ],
+    [
+      "Slater",
+      "Helmut Ahner"
+    ],
+    [
+      "Donner",
+      "Jürgen Thormann"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Horst Frank"
+    ],
+    [
+      "Fischer",
+      "F.-J. Steffens"
+    ],
+    [
+      "Ocean-World-Mitarbeiter",
+      "Peter Lakenmacher, Christian Rode"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/036/metadata.json"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "nummer" : 79,
+  "titel" : "Im Bann des Voodoo",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Eine Strohpuppe, deren Anblick Herzrasen und Atemnot auslöst, uralte Rituale und magische Kulte und das mitten im sonnigen Kalifornien! Al Parker, der erfolgreiche Musikproduzent, kann darüber nur lachen. Doch dann gerät er selbst in den Bannkreis des Voodoo: die Untoten fordern seinen Tod. Justus, Peter und Bob, die drei Detektive aus Rocky Beach, tun ihr Bestes, aber sie kämpfen gegen einen mächtigen Gegner.",
+  "veröffentlichungsdatum" : "1998-03-09",
+  "kapitel" : [
+    {
+      "titel" : "Dichter Nebel",
+      "start" : 0,
+      "end" : 609480
+    },
+    {
+      "titel" : "Studioluft",
+      "start" : 609480,
+      "end" : 1202053
+    },
+    {
+      "titel" : "Mythen und Rituale",
+      "start" : 1202053,
+      "end" : 1702747
+    },
+    {
+      "titel" : "Fotosession",
+      "start" : 1702747,
+      "end" : 2307147
+    },
+    {
+      "titel" : "Weichgekocht",
+      "start" : 2307147,
+      "end" : 2974147
+    },
+    {
+      "titel" : "70:30",
+      "start" : 2974147,
+      "end" : 3566467
+    },
+    {
+      "titel" : "In der Puppenwerkstatt",
+      "start" : 3566467,
+      "end" : 4095200
+    },
+    {
+      "titel" : "Showdown",
+      "start" : 4095200,
+      "end" : 4612307
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Matthias Fuchs"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Al Parker, Musikproduzent",
+      "Lennardt Krüger"
+    ],
+    [
+      "William Needle",
+      "Nico König"
+    ],
+    [
+      "Stevens",
+      "Lothar Behrendt"
+    ],
+    [
+      "Bart",
+      "Doktor Renz"
+    ],
+    [
+      "Luke",
+      "Schiffmeister"
+    ],
+    [
+      "Frank",
+      "König Boris"
+    ],
+    [
+      "Joan, Visagistin",
+      "Alida Gundlach"
+    ],
+    [
+      "Jeffrey",
+      "Niko Minninger"
+    ],
+    [
+      "Hank",
+      "Harvey Draeger"
+    ],
+    [
+      "Billy",
+      "Sven Stricker"
+    ],
+    [
+      "Angestellter",
+      "Jens Herrndorff"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/079/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/079/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/079/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/079/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/e4/9d/8b/e49d8b9f-c1cb-1ccc-ff9a-0e31716e8ce4/886445749960.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c7/0b/ef/0743215476122.jpg"
+  }
+}

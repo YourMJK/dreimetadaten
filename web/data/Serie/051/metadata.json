@@ -1,0 +1,92 @@
+{
+  "nummer" : 51,
+  "titel" : "und der riskante Ritt",
+  "autor" : "Marc Brandel",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Caramba! Wie heiß brennt die Sonne in den Bergen der Sierra Madre! Wäre da nicht der Silberschatz aus den Zeiten der Revolution, kein Mensch würde hier auf störrischen Wildeseln zwischen Kakteen und Buschwerk herumreiten. Ein brummelnder Vulkan, der jeden Moment ausbrechen kann, macht die Sache auch nicht gemütlicher. Selten haben die drei ??? ein so gefährliches Abenteuer erlebt.",
+  "veröffentlichungsdatum" : "1991-03-20",
+  "kapitel" : [
+    {
+      "titel" : "Teilnahme kostenlos",
+      "start" : 0,
+      "end" : 423747
+    },
+    {
+      "titel" : "Justus' Eroberung",
+      "start" : 423747,
+      "end" : 988093
+    },
+    {
+      "titel" : "Auf Blondie ist Verlass",
+      "start" : 988093,
+      "end" : 1322067
+    },
+    {
+      "titel" : "Wer ist hier der Boss?",
+      "start" : 1322067,
+      "end" : 1625933
+    },
+    {
+      "titel" : "Unverhoffter Besuch",
+      "start" : 1625933,
+      "end" : 2200907
+    },
+    {
+      "titel" : "Gefahr von allen Seiten",
+      "start" : 2200907,
+      "end" : 2671960
+    },
+    {
+      "titel" : "Verfrühter Triumph",
+      "start" : 2671960,
+      "end" : 2947467
+    },
+    {
+      "titel" : "Flüsse aus Feuer",
+      "start" : 2947467,
+      "end" : 3270107
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mercedes",
+      "Marianne Kehlau"
+    ],
+    [
+      "Brit",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Dusty Rice",
+      "Achim Schülke"
+    ],
+    [
+      "Ascension",
+      "Eckart Dux"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/051/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/051/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/051/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/051/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music30/v4/52/92/57/52925754-35db-617a-a28d-b49468ab5f91/886445747232.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/37/1d/ab/0743213885124.jpg"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "nummer" : 184,
+  "titel" : "und der Hexengarten",
+  "autor" : "Kari Erlhoff",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die drei ??? sollen gegen Geisterpflanzen ermitteln? Zunächst hält Peter den Auftrag seines Schulkameraden Jesse für einen Scherz. Doch der meint es ernst – denn das mysteriöse Leuchten und die körperlosen Stimmen im Gewächshaus eines benachbarten Anwesens scheinen echt zu sein. Als Jesses Schwester behauptet, das Anwesen gehöre einer Hexenfamilie, werden die Detektive hellhörig …",
+  "veröffentlichungsdatum" : "2016-12-02",
+  "kapitel" : [
+    {
+      "titel" : "Böse Blumen",
+      "start" : 0,
+      "end" : 675133
+    },
+    {
+      "titel" : "Gewächse der Nacht",
+      "start" : 675133,
+      "end" : 1273240
+    },
+    {
+      "titel" : "Den Morlands auf der Spur",
+      "start" : 1273240,
+      "end" : 1827893
+    },
+    {
+      "titel" : "Nachteinsatz",
+      "start" : 1827893,
+      "end" : 2458413
+    },
+    {
+      "titel" : "Im Haus der Mitternacht",
+      "start" : 2458413,
+      "end" : 3555213
+    },
+    {
+      "titel" : "Letzte Fragen und ein neuer Fall",
+      "start" : 3555213,
+      "end" : 4139387
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Jesse",
+      "Jacob Weigert"
+    ],
+    [
+      "Trainer",
+      "Till Huster"
+    ],
+    [
+      "Jaden",
+      "Flemming Draeger"
+    ],
+    [
+      "Joshua",
+      "Louis Körting"
+    ],
+    [
+      "April",
+      "Lilli Körting"
+    ],
+    [
+      "Autumn",
+      "Sabrina Heuer-Diakow"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Charles Morland",
+      "Horst Stark"
+    ],
+    [
+      "Tanika Frost",
+      "Isabella Grothe"
+    ],
+    [
+      "Savannah Frost",
+      "Christiane Leuchtmann"
+    ],
+    [
+      "Dennis Frost",
+      "Sascha Oliver Bauer"
+    ],
+    [
+      "Jane Thompson",
+      "Maud Ackermann"
+    ],
+    [
+      "Tyler",
+      "Christian Rudolf"
+    ],
+    [
+      "Gardener",
+      "Christian Concilio"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/184/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/184/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/184/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/184/cover.png",
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music19/v4/25/b1/60/25b160a8-f7c1-ae88-56c9-dedfc6646c35/886445362978.jpg/3000x0w.png"
+  }
+}

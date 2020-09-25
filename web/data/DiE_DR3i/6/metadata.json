@@ -1,0 +1,112 @@
+{
+  "nummer" : 6,
+  "titel" : "Tödliche Regie",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Terror im Studio! Feige Anschläge machen der Synchronsprecherin Ellen Maxell das Leben zur Hölle. Wer steckt hinter der unheimlichen Gummi-Maske der Zeichentrickfigur \"Panic-Porky\"? Nur knapp entgeht die talentierte Schauspielerin mehreren hinterhältigen Mordversuchen. Hat es jemand auf ihre Rolle abgesehen? Die drei Detektive Jupiter, Peter und Bob nehmen sich des mysteriösen Falles an und geraten in die Schusslinie der zum Leben erwachten Cartoonfigur.",
+  "veröffentlichungsdatum" : "2007-03-23",
+  "kapitel" : [
+    {
+      "titel" : "Gewonnen!",
+      "start" : 0,
+      "end" : 231600
+    },
+    {
+      "titel" : "Attentat",
+      "start" : 231600,
+      "end" : 891573
+    },
+    {
+      "titel" : "Kreidebleich",
+      "start" : 891573,
+      "end" : 1035507
+    },
+    {
+      "titel" : "Spiegel der Seele",
+      "start" : 1035507,
+      "end" : 1561547
+    },
+    {
+      "titel" : "Attacke",
+      "start" : 1561547,
+      "end" : 1735040
+    },
+    {
+      "titel" : "Vollgas",
+      "start" : 1735040,
+      "end" : 2439600
+    },
+    {
+      "titel" : "Gage",
+      "start" : 2439600,
+      "end" : 2573720
+    },
+    {
+      "titel" : "Überwacht",
+      "start" : 2573720,
+      "end" : 2731053
+    },
+    {
+      "titel" : "Verhaftet",
+      "start" : 2731053,
+      "end" : 2941027
+    },
+    {
+      "titel" : "Endspiel",
+      "start" : 2941027,
+      "end" : 3924760
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Jupiter Jones",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Crenshaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Ellen Maxell",
+      "Traudel Sperber"
+    ],
+    [
+      "Audrey Moonshadow",
+      "Judy Winter"
+    ],
+    [
+      "Sandy Stryker",
+      "Martina Regenhardt"
+    ],
+    [
+      "Mandy Honeyball",
+      "Celine Fontanges"
+    ],
+    [
+      "Mars Chaplin",
+      "Rainer Schmitt"
+    ],
+    [
+      "Inspektor Milton",
+      "Holger Mahlich"
+    ],
+    [
+      "Assistent",
+      "Dirk Bach"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/6/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/6/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/6/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/6/cover.png"
+  }
+}

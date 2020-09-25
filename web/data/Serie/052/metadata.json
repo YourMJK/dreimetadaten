@@ -1,0 +1,124 @@
+{
+  "nummer" : 52,
+  "titel" : "und die Musikpiraten",
+  "autor" : "G. H. Stone",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Schlägerei auf dem Vergnügungsfest, Überfall auf Bob und eine nächtliche Verfolgungsjagd – es sieht ganz so aus, als sei der junge Detektiv zwischen zwei rivalisierende Gaunerbanden geraten. Die heiße Spur führt zur Plattenfirma Galactic Sound. Hier sind auf mysteriöse Weise Masterbänder verschwunden. Aber wie schmuggeln die Musikpiraten die Aufnahmen aus dem Haus?",
+  "veröffentlichungsdatum" : "1991-07-12",
+  "kapitel" : [
+    {
+      "titel" : "Hereingelegt!",
+      "start" : 0,
+      "end" : 415627
+    },
+    {
+      "titel" : "Bobs Entdeckung",
+      "start" : 415627,
+      "end" : 808667
+    },
+    {
+      "titel" : "Profi-Sound",
+      "start" : 808667,
+      "end" : 1425160
+    },
+    {
+      "titel" : "Im Tonstudio",
+      "start" : 1425160,
+      "end" : 1831267
+    },
+    {
+      "titel" : "Wer hat die Masterbänder?",
+      "start" : 1831267,
+      "end" : 2176867
+    },
+    {
+      "titel" : "Nicht ganz dicht",
+      "start" : 2176867,
+      "end" : 2574667
+    },
+    {
+      "titel" : "Drei plus vier",
+      "start" : 2574667,
+      "end" : 2921267
+    },
+    {
+      "titel" : "Endstation Chefetage",
+      "start" : 2921267,
+      "end" : 3267773
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Brick",
+      "Rainer Schmitt"
+    ],
+    [
+      "Thanom",
+      "Peter Heinrich"
+    ],
+    [
+      "Prem",
+      "Lutz Mackensy"
+    ],
+    [
+      "Butler",
+      "Gerd Baltus"
+    ],
+    [
+      "Sax",
+      "Andreas Mannkopff"
+    ],
+    [
+      "Celeste",
+      "Michaela Gröger"
+    ],
+    [
+      "Lara",
+      "Gerlach Fiedler"
+    ],
+    [
+      "Rivers",
+      "Wolfgang Völz"
+    ],
+    [
+      "Hansen",
+      "Verena Wiet"
+    ],
+    [
+      "Maxi",
+      "Hildegard Krekel"
+    ],
+    [
+      "Quill",
+      "Matthias Bullach"
+    ],
+    [
+      "Tony",
+      "Michael Quiatkowsky"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/052/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/052/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/052/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/052/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/cf/74/8b/cf748b7c-d47e-c163-fd3e-372420a339d8/886445747218.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/1e/c4/9e/0743213885223.jpg"
+  }
+}

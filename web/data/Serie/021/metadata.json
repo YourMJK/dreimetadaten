@@ -1,0 +1,115 @@
+{
+  "nummer" : 21,
+  "titel" : "und der Tanzende Teufel",
+  "autor" : "William Arden",
+  "hörspielskriptautor" : "H. G. Francis",
+  "beschreibung" : "Eine Serie Diebstähle in Rocky Beach – und jedesmal fehlt einer jener verbreiteten schwarzen Bordkoffer. Die drei ??? nehmen sich dieses ominösen Falls an. Und immer dann, wenn sie gerade eine neue Spur verfolgen, taucht die unheimlich reale Gestalt eines >Tanzenden Teufels",
+  "veröffentlichungsdatum" : "1980-10-10",
+  "kapitel" : [
+    {
+      "titel" : "Puppe entflogen",
+      "start" : 0,
+      "end" : 304827
+    },
+    {
+      "titel" : "Die Falle schnappt zu",
+      "start" : 304827,
+      "end" : 550973
+    },
+    {
+      "titel" : "Der Dämon greift an!",
+      "start" : 550973,
+      "end" : 909173
+    },
+    {
+      "titel" : "Der schwarze Koffer",
+      "start" : 909173,
+      "end" : 1270027
+    },
+    {
+      "titel" : "Dem Schurken auf der Spur",
+      "start" : 1270027,
+      "end" : 1714560
+    },
+    {
+      "titel" : "Der tanzende Teufel schlägt zu!",
+      "start" : 1714560,
+      "end" : 2177067
+    },
+    {
+      "titel" : "Das Gesicht am Fenster",
+      "start" : 2177067,
+      "end" : 2372280
+    },
+    {
+      "titel" : "Maske ab für den Teufel!",
+      "start" : 2372280,
+      "end" : 2547813
+    }
+  ],
+  "sprecher" : [
+    [
+      "Hitchcock, Erzähler",
+      "Peter Pasetti"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mrs. Dalton",
+      "Heidi Schaffrath"
+    ],
+    [
+      "Christina Dalton",
+      "Karina Leising [Heikedine Körting]"
+    ],
+    [
+      "Frankie Bender",
+      "Oliver Mink"
+    ],
+    [
+      "H. P. Clay",
+      "Lothar Grützner"
+    ],
+    [
+      "Jim Clay",
+      "Marcus Meiering"
+    ],
+    [
+      "Walter Quail",
+      "Christian Mey"
+    ],
+    [
+      "Trödler Hummer",
+      "Joachim Richert"
+    ],
+    [
+      "Jason Wilkes",
+      "Joachim Rake"
+    ],
+    [
+      "Chiang",
+      "Tom Barrows [Hans Irle]"
+    ],
+    [
+      "Diakon Kastner",
+      "Hans Irle"
+    ],
+    [
+      "Butler",
+      "Hans Daniel"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/021/metadata.json"
+  }
+}

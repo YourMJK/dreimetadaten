@@ -1,0 +1,146 @@
+{
+  "nummer" : 182,
+  "titel" : "Im Haus des Henkers",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Eine Serie von Überfällen beschäftigt die Polizei von Rocky Beach. Als ein harmlos wirkender Mann unerwartet den letzten Raub gesteht und ein alter Bekannter in die Sache hineingezogen wird, ist klar: Hier geht etwas nicht mit rechten Dingen zu! Justus, Peter und Bob ermitteln an düsteren Orten und geraten in die Gesellschaft zwielichtiger Gestalten. …",
+  "veröffentlichungsdatum" : "2016-07-22",
+  "kapitel" : [
+    {
+      "titel" : "Notruf",
+      "start" : 0,
+      "end" : 426840
+    },
+    {
+      "titel" : "Eine erste Spur",
+      "start" : 426840,
+      "end" : 913093
+    },
+    {
+      "titel" : "Fahrt in die Hölle",
+      "start" : 913093,
+      "end" : 1609107
+    },
+    {
+      "titel" : "Schreckensbilder",
+      "start" : 1609107,
+      "end" : 2690160
+    },
+    {
+      "titel" : "Schuldig",
+      "start" : 2690160,
+      "end" : 3062493
+    },
+    {
+      "titel" : "Jagd auf Geister",
+      "start" : 3062493,
+      "end" : 4192173
+    },
+    {
+      "titel" : "Aber logo!",
+      "start" : 4192173,
+      "end" : 4546493
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mrs. Shaw",
+      "Heikedine Körting"
+    ],
+    [
+      "Randy Carlisle",
+      "Johannes Semm"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ],
+    [
+      "Godween",
+      "Rüdiger Schulzki"
+    ],
+    [
+      "Polizist",
+      "Christoph Meyer"
+    ],
+    [
+      "Mia",
+      "Elea Richert"
+    ],
+    [
+      "Mrs. Crouch",
+      "Pia Werfel"
+    ],
+    [
+      "Rosemarie Wohlbauer",
+      "Rosemarie Wohlbauer"
+    ],
+    [
+      "Shinefield, Edna",
+      "Edna Shinefield"
+    ],
+    [
+      "George",
+      "Gordon Piedesack"
+    ],
+    [
+      "Ronny",
+      "Anton Pleva"
+    ],
+    [
+      "Loreen",
+      "Barbara Schipper"
+    ],
+    [
+      "TV-Moderatorin",
+      "Dagmar Berghoff"
+    ],
+    [
+      "Daphne",
+      "Enie van de Meiklokjes"
+    ],
+    [
+      "Kiera",
+      "Isabella Grothe"
+    ],
+    [
+      "Luther Litti",
+      "Wolf Frass"
+    ],
+    [
+      "Kyle Caldwell",
+      "Joachim Kretzer"
+    ],
+    [
+      "Hay",
+      "Tobias Diakow"
+    ],
+    [
+      "Junge",
+      "Hugo Richert"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/182/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/182/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/182/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/182/cover.png",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/00/85/aa/0085aac8-bea5-75cc-ff65-950b869e1ea6/886445362930.jpg/3000x0w.png"
+  }
+}
