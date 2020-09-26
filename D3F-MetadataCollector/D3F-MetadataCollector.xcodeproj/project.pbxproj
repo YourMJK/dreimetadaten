@@ -26,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1855D9FB251EE63700E37B8E /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 		18F078F3250EC55D006571DA /* D3F-MetadataCollector */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "D3F-MetadataCollector"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F078F6250EC55D006571DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		18F07903250EC821006571DA /* Metadata.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Metadata.swift; sourceTree = "<group>"; };
@@ -67,6 +68,7 @@
 				18F078F6250EC55D006571DA /* main.swift */,
 				18F07904250EC821006571DA /* MetadataCollector.swift */,
 				18F07903250EC821006571DA /* Metadata.swift */,
+				1855D9FB251EE63700E37B8E /* Config.xcconfig */,
 			);
 			path = "D3F-MetadataCollector";
 			sourceTree = "<group>";
@@ -254,6 +256,7 @@
 		};
 		18F078FB250EC55D006571DA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1855D9FB251EE63700E37B8E /* Config.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -263,6 +266,7 @@
 		};
 		18F078FC250EC55D006571DA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1855D9FB251EE63700E37B8E /* Config.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";

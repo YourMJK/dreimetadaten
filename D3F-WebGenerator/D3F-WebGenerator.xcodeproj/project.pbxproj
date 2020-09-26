@@ -31,6 +31,7 @@
 		1855D9F4251EB8ED00E37B8E /* CommandLineUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CommandLineUtils.swift; path = "../../D3F-MetadataCollector/D3F-MetadataCollector/CommandLineUtils.swift"; sourceTree = "<group>"; };
 		1855D9F6251EB8F400E37B8E /* Metadata.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Metadata.swift; path = "../../D3F-MetadataCollector/D3F-MetadataCollector/Metadata.swift"; sourceTree = "<group>"; };
 		1855D9F8251EBA3A00E37B8E /* WebGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebGenerator.swift; sourceTree = "<group>"; };
+		1855D9FA251EE33900E37B8E /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +68,7 @@
 				1855D9ED251EB77800E37B8E /* main.swift */,
 				1855D9F8251EBA3A00E37B8E /* WebGenerator.swift */,
 				1855D9F6251EB8F400E37B8E /* Metadata.swift */,
+				1855D9FA251EE33900E37B8E /* Config.xcconfig */,
 			);
 			path = "D3F-WebGenerator";
 			sourceTree = "<group>";
@@ -254,6 +256,7 @@
 		};
 		1855D9F2251EB77800E37B8E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1855D9FA251EE33900E37B8E /* Config.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -263,6 +266,7 @@
 		};
 		1855D9F3251EB77800E37B8E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1855D9FA251EE33900E37B8E /* Config.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";

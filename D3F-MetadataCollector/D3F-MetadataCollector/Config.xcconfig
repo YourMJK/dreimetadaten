@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  D3F-MetadataCollector
+//
+//  Created by YourMJK on 26.09.20.
+//  Copyright © 2020 YourMJK. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+CONFIGURATION_BUILD_DIR = $(SRCROOT)/../builds/
+BUILT_PRODUCTS_DIR = $(SRCROOT)/../builds/
