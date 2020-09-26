@@ -2,7 +2,7 @@
 //  main.swift
 //  D3F-MetadataExporter
 //
-//  Created by Max-Joseph on 24.09.20.
+//  Created by YourMJK on 24.09.20.
 //  Copyright © 2020 YourMJK. All rights reserved.
 //
 
