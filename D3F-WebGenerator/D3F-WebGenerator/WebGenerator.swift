@@ -122,6 +122,9 @@ class WebGenerator {
 		
 		
 		func nameForFolge(_ folge: Folge) -> String {
+			if folge.nummer < 0 {
+				return ""
+			}
 			return String(format: "%0\(numberOfDigts)d", folge.nummer)
 		}
 		func nameForTeil(_ teil: Teil) -> String {
