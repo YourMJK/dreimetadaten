@@ -1,0 +1,105 @@
+{
+  "nummer" : 207,
+  "titel" : "Die falschen Detektive",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die Drei ??? sind fassungslos: Sie haben Doppelgänger! Drei Jungen, die sie noch nie gesehen haben, geben sich als \"Die drei ???\" aus. Justus, Peter und Bob heften sich an die Fersen der falschen Detektive und beginnen ihre Ermittlungen. Wieso haben die Unbekannten ihre Identität angenommen? Und können Justus, Peter und Bob ihnen das Handwerk legen?",
+  "veröffentlichungsdatum" : "2020-09-25",
+  "kapitel" : [
+    {
+      "titel" : "Geistergeschichten",
+      "start" : 0,
+      "end" : 658667
+    },
+    {
+      "titel" : "Ein Papier voller Rätsel",
+      "start" : 658667,
+      "end" : 1397013
+    },
+    {
+      "titel" : "Der Totentisch",
+      "start" : 1397013,
+      "end" : 1679360
+    },
+    {
+      "titel" : "Beschattung",
+      "start" : 1679360,
+      "end" : 2204293
+    },
+    {
+      "titel" : "Der Geist erscheint",
+      "start" : 2204293,
+      "end" : 2959080
+    },
+    {
+      "titel" : "Die Masken fallen",
+      "start" : 2959080,
+      "end" : 3725680
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Minh",
+      "Jona Mues"
+    ],
+    [
+      "Luke",
+      "Alexander Merbeth"
+    ],
+    [
+      "Mark",
+      "Woody Mues"
+    ],
+    [
+      "Stéphane Mertens",
+      "Peter Kaempfe"
+    ],
+    [
+      "Kassiererin",
+      "Birte Kretschmer"
+    ],
+    [
+      "Ron Baxter",
+      "Robin Brosch"
+    ],
+    [
+      "Oma",
+      "Apollonia Jepsen"
+    ],
+    [
+      "Mrs. Willard",
+      "Daniela Ziegler"
+    ],
+    [
+      "Li",
+      "Traudel Sperber"
+    ],
+    [
+      "Tilan",
+      "Caroline Kiesewetter"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/207/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/207/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/207/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/207/cover.png",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c5/43/f8/c543f822-395f-de5e-7f15-d4ee365f3c84/886447878385.jpg/3000x0w.png"
+  }
+}
