@@ -183,7 +183,7 @@ class MetadataCollector {
 						do {
 							try handleDataDir(directory: url, collectionType: collectionType, overwrite: overwrite)
 						}
-						catch let error as FFMetadataParseError {
+						catch let error as DataDirParseError {
 							stderr("Error parsing data directory \"\(url.path)\":  \(error.description)")
 						}
 					
