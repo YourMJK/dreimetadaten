@@ -1,0 +1,132 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "kapitel" : [
+        {
+          "titel" : "Prolog",
+          "start" : 0,
+          "end" : 70560
+        },
+        {
+          "titel" : "Anruf aus Hollywood",
+          "start" : 70560,
+          "end" : 342933
+        },
+        {
+          "titel" : "Ein echter Smaragd?",
+          "start" : 342933,
+          "end" : 1343907
+        },
+        {
+          "titel" : "Wiedersehen am Set",
+          "start" : 1343907,
+          "end" : 1959800
+        },
+        {
+          "titel" : "Monsterpuppen",
+          "start" : 1959800,
+          "end" : 2444173
+        },
+        {
+          "titel" : "Gerald liebt Besuch",
+          "start" : 2444173,
+          "end" : 3019707
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/1/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/1/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "kapitel" : [
+        {
+          "titel" : "Ein wunder Punkt",
+          "start" : 0,
+          "end" : 565146
+        },
+        {
+          "titel" : "Das Strandhaus",
+          "start" : 565146,
+          "end" : 1324360
+        },
+        {
+          "titel" : "Im Horrormuseum",
+          "start" : 1324360,
+          "end" : 1848946
+        },
+        {
+          "titel" : "Neuigkeiten für Mr. Kushing",
+          "start" : 1848946,
+          "end" : 2733640
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/2/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/2/rip_log.txt"
+      }
+    }
+  ],
+  "titel" : "und der dreiäugige Totenkopf",
+  "autor" : "Ivar Leon Menger, John Beckmann",
+  "hörspielskriptautor" : "Ivar Leon Menger, John Beckmann",
+  "kapitel" : [
+    {
+      "titel" : "Prolog",
+      "start" : 0,
+      "end" : 70560
+    },
+    {
+      "titel" : "Anruf aus Hollywood",
+      "start" : 70560,
+      "end" : 342933
+    },
+    {
+      "titel" : "Ein echter Smaragd?",
+      "start" : 342933,
+      "end" : 1343907
+    },
+    {
+      "titel" : "Wiedersehen am Set",
+      "start" : 1343907,
+      "end" : 1959800
+    },
+    {
+      "titel" : "Monsterpuppen",
+      "start" : 1959800,
+      "end" : 2444173
+    },
+    {
+      "titel" : "Gerald liebt Besuch",
+      "start" : 2444173,
+      "end" : 3019707
+    },
+    {
+      "titel" : "Ein wunder Punkt",
+      "start" : 3019707,
+      "end" : 3584853
+    },
+    {
+      "titel" : "Das Strandhaus",
+      "start" : 3584853,
+      "end" : 4344067
+    },
+    {
+      "titel" : "Im Horrormuseum",
+      "start" : 4344067,
+      "end" : 4868653
+    },
+    {
+      "titel" : "Neuigkeiten für Mr. Kushing",
+      "start" : 4868653,
+      "end" : 5753347
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/cover.png"
+  }
+}

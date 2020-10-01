@@ -1,0 +1,93 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2020-02-15 04:25:25 +0100
+
+ / Die drei ??? - und der dreiäugige Totenkopf (Planetarium Special) - CD2
+
+Used drive : ASUS BW-16D1HT (revision 3.01)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 40
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 09:25:11 |         0    |    42385   
+        2  | 09:25:11 | 12:39:16 |     42386    |    99326   
+        3  | 22:04:27 | 08:44:44 |     99327    |   138670   
+        4  | 30:48:71 | 14:44:52 |    138671    |   205022   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : ~/Projects/Audiobooks/_temp/Die drei ??? - und der dreiäugige Totenkopf (Planetarium Special) - CD2.m4a
+    CRC32 hash               : EB8D9EE3
+    CRC32 hash (skip zero)   : DAECEC23
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 7CBE9C3F
+    CRC32 hash (skip zero)   : A1090611
+    AccurateRip v1 signature : 112AB898
+    AccurateRip v2 signature : FBB937ED
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 34EDFFB2
+    CRC32 hash (skip zero)   : 927CC55A
+    AccurateRip v1 signature : 64C996C7
+    AccurateRip v2 signature : 1C4CCD1B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 34532D4E
+    CRC32 hash (skip zero)   : 90FD3458
+    AccurateRip v1 signature : AA436B0C
+    AccurateRip v2 signature : D3C15117
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 07588BAC
+    CRC32 hash (skip zero)   : 6877F17E
+    AccurateRip v1 signature : 602A152D
+    AccurateRip v2 signature : E9AA2F8B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

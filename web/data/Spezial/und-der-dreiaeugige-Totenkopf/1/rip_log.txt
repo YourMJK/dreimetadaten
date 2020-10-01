@@ -1,0 +1,121 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2020-02-15 04:20:05 +0100
+
+ / Die drei ??? - und der dreiäugige Totenkopf (Planetarium Special) - CD1
+
+Used drive : ASUS BW-16D1HT (revision 3.01)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 40
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 01:10:42 |         0    |     5291   
+        2  | 01:10:42 | 04:32:28 |      5292    |    25719   
+        3  | 05:42:70 | 16:40:73 |     25720    |   100792   
+        4  | 22:23:68 | 10:15:67 |    100793    |   146984   
+        5  | 32:39:60 | 08:04:28 |    146985    |   183312   
+        6  | 40:44:13 | 09:35:40 |    183313    |   226477   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : ~/Projects/Audiobooks/_temp/Die drei ??? - und der dreiäugige Totenkopf (Planetarium Special) - CD1.m4a
+    CRC32 hash               : 292DCB2A
+    CRC32 hash (skip zero)   : C7240A00
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 6F81371B
+    CRC32 hash (skip zero)   : 5FB196FD
+    AccurateRip v1 signature : EE1F299F
+    AccurateRip v2 signature : 5BA12D59
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 87E8A534
+    CRC32 hash (skip zero)   : 5A2FF29B
+    AccurateRip v1 signature : 1F9366C9
+    AccurateRip v2 signature : 47B63C85
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : F5600E11
+    CRC32 hash (skip zero)   : 5B0CD8BF
+    AccurateRip v1 signature : D0D6EAAB
+    AccurateRip v2 signature : 251D21C6
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 05340356
+    CRC32 hash (skip zero)   : D2A3470D
+    AccurateRip v1 signature : 188F19FF
+    AccurateRip v2 signature : 45DFCEAC
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : 2DF3A429
+    CRC32 hash (skip zero)   : 27393E1B
+    AccurateRip v1 signature : AA399447
+    AccurateRip v2 signature : 564ED3D5
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : AB22DB8E
+    CRC32 hash (skip zero)   : F0A185C9
+    AccurateRip v1 signature : 2219A6DF
+    AccurateRip v2 signature : 04094A39
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,73 @@
+{
+  "titel" : "Brainwash: Gefangene Gedanken",
+  "autor" : "Peter Lerangis",
+  "hörspielskriptautor" : "André Minninger",
+  "kapitel" : [
+    {
+      "titel" : "Band-Probe",
+      "start" : 0,
+      "end" : 240240
+    },
+    {
+      "titel" : "Verschwunden",
+      "start" : 240240,
+      "end" : 764587
+    },
+    {
+      "titel" : "Zwischen den Stühlen",
+      "start" : 764587,
+      "end" : 911680
+    },
+    {
+      "titel" : "Depressionen?",
+      "start" : 911680,
+      "end" : 1175453
+    },
+    {
+      "titel" : "Ausreißer",
+      "start" : 1175453,
+      "end" : 1661507
+    },
+    {
+      "titel" : "SynRea",
+      "start" : 1661507,
+      "end" : 1812533
+    },
+    {
+      "titel" : "Neue Energie",
+      "start" : 1812533,
+      "end" : 2010333
+    },
+    {
+      "titel" : "Elite-Einheiten",
+      "start" : 2010333,
+      "end" : 2307147
+    },
+    {
+      "titel" : "Ertappt",
+      "start" : 2307147,
+      "end" : 2921373
+    },
+    {
+      "titel" : "Der Meister",
+      "start" : 2921373,
+      "end" : 3390173
+    },
+    {
+      "titel" : "Am Ende des Weges",
+      "start" : 3390173,
+      "end" : 3565613
+    },
+    {
+      "titel" : "Alles vergessen",
+      "start" : 3565613,
+      "end" : 3675453
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/cover.png"
+  }
+}

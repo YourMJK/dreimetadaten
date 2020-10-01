@@ -1,6 +1,79 @@
 {
   "spezial" : [
     {
+      "titel" : "Brainwash: Gefangene Gedanken",
+      "autor" : "Peter Lerangis",
+      "hörspielskriptautor" : "André Minninger",
+      "kapitel" : [
+        {
+          "titel" : "Band-Probe",
+          "start" : 0,
+          "end" : 240240
+        },
+        {
+          "titel" : "Verschwunden",
+          "start" : 240240,
+          "end" : 764587
+        },
+        {
+          "titel" : "Zwischen den Stühlen",
+          "start" : 764587,
+          "end" : 911680
+        },
+        {
+          "titel" : "Depressionen?",
+          "start" : 911680,
+          "end" : 1175453
+        },
+        {
+          "titel" : "Ausreißer",
+          "start" : 1175453,
+          "end" : 1661507
+        },
+        {
+          "titel" : "SynRea",
+          "start" : 1661507,
+          "end" : 1812533
+        },
+        {
+          "titel" : "Neue Energie",
+          "start" : 1812533,
+          "end" : 2010333
+        },
+        {
+          "titel" : "Elite-Einheiten",
+          "start" : 2010333,
+          "end" : 2307147
+        },
+        {
+          "titel" : "Ertappt",
+          "start" : 2307147,
+          "end" : 2921373
+        },
+        {
+          "titel" : "Der Meister",
+          "start" : 2921373,
+          "end" : 3390173
+        },
+        {
+          "titel" : "Am Ende des Weges",
+          "start" : 3390173,
+          "end" : 3565613
+        },
+        {
+          "titel" : "Alles vergessen",
+          "start" : 3565613,
+          "end" : 3675453
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/cover.png"
+      }
+    },
+    {
       "teile" : [
         {
           "teilNummer" : 1,
@@ -360,6 +433,753 @@
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/ffmetadata.txt",
         "xld_log" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/cover.png"
+      }
+    },
+    {
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "kapitel" : [
+            {
+              "titel" : "Die Geisterbahn",
+              "start" : 0,
+              "end" : 418747
+            },
+            {
+              "titel" : "Paket dem Gouverneur übergeben",
+              "start" : 418747,
+              "end" : 494627
+            },
+            {
+              "titel" : "Werbeanzeigen lesen",
+              "start" : 494627,
+              "end" : 644347
+            },
+            {
+              "titel" : "Vor Bubba verstecken",
+              "start" : 644347,
+              "end" : 748173
+            },
+            {
+              "titel" : "Geisterbahn beobachten",
+              "start" : 748173,
+              "end" : 798067
+            },
+            {
+              "titel" : "Paket selbst öffnen",
+              "start" : 798067,
+              "end" : 844267
+            },
+            {
+              "titel" : "Bei Bubba bleiben",
+              "start" : 844267,
+              "end" : 913187
+            },
+            {
+              "titel" : "Mit Joey sprechen",
+              "start" : 913187,
+              "end" : 1143093
+            },
+            {
+              "titel" : "Flucht zu den drei ???",
+              "start" : 1143093,
+              "end" : 1214400
+            },
+            {
+              "titel" : "Mit Bubba Detroit sprechen",
+              "start" : 1214400,
+              "end" : 1282880
+            },
+            {
+              "titel" : "Joey verfolgen",
+              "start" : 1282880,
+              "end" : 1425973
+            },
+            {
+              "titel" : "Justus hinterher rennen",
+              "start" : 1425973,
+              "end" : 1474547
+            },
+            {
+              "titel" : "Bei den drei ??? bleiben",
+              "start" : 1474547,
+              "end" : 1574467
+            },
+            {
+              "titel" : "Ich habe viel Geld",
+              "start" : 1574467,
+              "end" : 1649973
+            },
+            {
+              "titel" : "Bubba abschütteln",
+              "start" : 1649973,
+              "end" : 1767320
+            },
+            {
+              "titel" : "Geisterbahn von innen untersuchen",
+              "start" : 1767320,
+              "end" : 1916067
+            },
+            {
+              "titel" : "Verstecken in der Achterbahn",
+              "start" : 1916067,
+              "end" : 2045960
+            },
+            {
+              "titel" : "Geisterbahn von außen untersuchen",
+              "start" : 2045960,
+              "end" : 2190267
+            },
+            {
+              "titel" : "Die Zaubershow besuchen",
+              "start" : 2190267,
+              "end" : 2334773
+            },
+            {
+              "titel" : "Ich habe wenig Geld",
+              "start" : 2334773,
+              "end" : 2451360
+            },
+            {
+              "titel" : "Mit Marilyn sprechen",
+              "start" : 2451360,
+              "end" : 2654120
+            },
+            {
+              "titel" : "Verstecken in der Geisterbahn",
+              "start" : 2654120,
+              "end" : 2995320
+            },
+            {
+              "titel" : "Die Frau mit der Flugtasche befragen",
+              "start" : 2995320,
+              "end" : 3132573
+            },
+            {
+              "titel" : "Zu Margarine schleichen",
+              "start" : 3132573,
+              "end" : 3249360
+            },
+            {
+              "titel" : "Flucht über die Grenze nach Süden",
+              "start" : 3249360,
+              "end" : 3330787
+            },
+            {
+              "titel" : "Der nimmt mir alles weg",
+              "start" : 3330787,
+              "end" : 3430867
+            },
+            {
+              "titel" : "Den Verfolger verfolgen",
+              "start" : 3430867,
+              "end" : 3498480
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "kapitel" : [
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 0,
+              "end" : 15467
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 15467,
+              "end" : 30707
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 30707,
+              "end" : 45947
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 45947,
+              "end" : 61187
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 61187,
+              "end" : 76427
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 76427,
+              "end" : 91667
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 91667,
+              "end" : 106907
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 106907,
+              "end" : 122147
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 122147,
+              "end" : 137387
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 137387,
+              "end" : 152627
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 152627,
+              "end" : 167867
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 167867,
+              "end" : 183107
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 183107,
+              "end" : 198347
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 198347,
+              "end" : 213587
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 213587,
+              "end" : 228827
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 228827,
+              "end" : 244067
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 244067,
+              "end" : 259307
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 259307,
+              "end" : 274547
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 274547,
+              "end" : 289787
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 289787,
+              "end" : 305027
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 305027,
+              "end" : 320267
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 320267,
+              "end" : 335507
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 335507,
+              "end" : 350747
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 350747,
+              "end" : 365987
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 365987,
+              "end" : 381227
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 381227,
+              "end" : 396467
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 396467,
+              "end" : 411707
+            },
+            {
+              "titel" : "Die Frau mit der Flugtasche verfolgen",
+              "start" : 411707,
+              "end" : 537960
+            },
+            {
+              "titel" : "Wir warten auf Mrs. Millar",
+              "start" : 537960,
+              "end" : 653493
+            },
+            {
+              "titel" : "Wir wollen bleiben",
+              "start" : 653493,
+              "end" : 893067
+            },
+            {
+              "titel" : "Die Tür öffnen",
+              "start" : 893067,
+              "end" : 1104507
+            },
+            {
+              "titel" : "Wir wollen die Belohnung",
+              "start" : 1104507,
+              "end" : 1264053
+            },
+            {
+              "titel" : "Eine Autofahrt",
+              "start" : 1264053,
+              "end" : 1508440
+            },
+            {
+              "titel" : "Ich helfe Justus bei der Arbeit",
+              "start" : 1508440,
+              "end" : 1682947
+            },
+            {
+              "titel" : "Mrs. Millar nicht treffen",
+              "start" : 1682947,
+              "end" : 1777307
+            },
+            {
+              "titel" : "Die Popcorntüte stehlen",
+              "start" : 1777307,
+              "end" : 1889027
+            },
+            {
+              "titel" : "Jemand soll mich umprogrammieren",
+              "start" : 1889027,
+              "end" : 1992520
+            },
+            {
+              "titel" : "Die Krebs-Anzeige ist wichtig",
+              "start" : 1992520,
+              "end" : 2141507
+            },
+            {
+              "titel" : "Joey an der Flucht hindern",
+              "start" : 2141507,
+              "end" : 2218093
+            },
+            {
+              "titel" : "$100 auftreiben",
+              "start" : 2218093,
+              "end" : 2338853
+            },
+            {
+              "titel" : "Mit einem Schuh werfen",
+              "start" : 2338853,
+              "end" : 2457427
+            },
+            {
+              "titel" : "In der Geisterbahn nachsehen",
+              "start" : 2457427,
+              "end" : 2837493
+            },
+            {
+              "titel" : "Um eine Mitfahrgelegenheit bitten",
+              "start" : 2837493,
+              "end" : 2913627
+            },
+            {
+              "titel" : "Die Popcorn-Anzeige ist wichtig",
+              "start" : 2913627,
+              "end" : 2997907
+            },
+            {
+              "titel" : "Postfächer überwachen",
+              "start" : 2997907,
+              "end" : 3203520
+            },
+            {
+              "titel" : "Wir wollen gehen",
+              "start" : 3203520,
+              "end" : 3289667
+            },
+            {
+              "titel" : "Mehr als vier Mal \"Ja!\" geantwortet",
+              "start" : 3289667,
+              "end" : 3402813
+            },
+            {
+              "titel" : "Weniger als vier Mal \"Ja!\" geantwortet",
+              "start" : 3402813,
+              "end" : 3480800
+            },
+            {
+              "titel" : "Ich will für immer bleiben",
+              "start" : 3480800,
+              "end" : 3570440
+            },
+            {
+              "titel" : "Durch das Fenster fliehen",
+              "start" : 3570440,
+              "end" : 3762907
+            },
+            {
+              "titel" : "Wir wollen die Belohnung nicht",
+              "start" : 3762907,
+              "end" : 3830293
+            },
+            {
+              "titel" : "Justus arbeitet alleine",
+              "start" : 3830293,
+              "end" : 3955293
+            },
+            {
+              "titel" : "Um Hilfe rufen",
+              "start" : 3955293,
+              "end" : 4017853
+            },
+            {
+              "titel" : "Etwas Einmaliges tun",
+              "start" : 4017853,
+              "end" : 4146813
+            },
+            {
+              "titel" : "Mrs. Millar treffen",
+              "start" : 4146813,
+              "end" : 4220507
+            },
+            {
+              "titel" : "Auf dem Riesenrad",
+              "start" : 4220507,
+              "end" : 4326973
+            },
+            {
+              "titel" : "Wir gehen hinein",
+              "start" : 4326973,
+              "end" : 4409547
+            },
+            {
+              "titel" : "Mortons zweite Chance",
+              "start" : 4409547,
+              "end" : 4497427
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/2/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/2/rip_log.txt"
+          }
+        }
+      ],
+      "titel" : "House of Horrors: Haus der Angst",
+      "autor" : "Megan & H. William Stine",
+      "hörspielskriptautor" : "André Minninger",
+      "kapitel" : [
+        {
+          "titel" : "Die Geisterbahn",
+          "start" : 0,
+          "end" : 418747
+        },
+        {
+          "titel" : "Paket dem Gouverneur übergeben",
+          "start" : 418747,
+          "end" : 494627
+        },
+        {
+          "titel" : "Werbeanzeigen lesen",
+          "start" : 494627,
+          "end" : 644347
+        },
+        {
+          "titel" : "Vor Bubba verstecken",
+          "start" : 644347,
+          "end" : 748173
+        },
+        {
+          "titel" : "Geisterbahn beobachten",
+          "start" : 748173,
+          "end" : 798067
+        },
+        {
+          "titel" : "Paket selbst öffnen",
+          "start" : 798067,
+          "end" : 844267
+        },
+        {
+          "titel" : "Bei Bubba bleiben",
+          "start" : 844267,
+          "end" : 913187
+        },
+        {
+          "titel" : "Mit Joey sprechen",
+          "start" : 913187,
+          "end" : 1143093
+        },
+        {
+          "titel" : "Flucht zu den drei ???",
+          "start" : 1143093,
+          "end" : 1214400
+        },
+        {
+          "titel" : "Mit Bubba Detroit sprechen",
+          "start" : 1214400,
+          "end" : 1282880
+        },
+        {
+          "titel" : "Joey verfolgen",
+          "start" : 1282880,
+          "end" : 1425973
+        },
+        {
+          "titel" : "Justus hinterher rennen",
+          "start" : 1425973,
+          "end" : 1474547
+        },
+        {
+          "titel" : "Bei den drei ??? bleiben",
+          "start" : 1474547,
+          "end" : 1574467
+        },
+        {
+          "titel" : "Ich habe viel Geld",
+          "start" : 1574467,
+          "end" : 1649973
+        },
+        {
+          "titel" : "Bubba abschütteln",
+          "start" : 1649973,
+          "end" : 1767320
+        },
+        {
+          "titel" : "Geisterbahn von innen untersuchen",
+          "start" : 1767320,
+          "end" : 1916067
+        },
+        {
+          "titel" : "Verstecken in der Achterbahn",
+          "start" : 1916067,
+          "end" : 2045960
+        },
+        {
+          "titel" : "Geisterbahn von außen untersuchen",
+          "start" : 2045960,
+          "end" : 2190267
+        },
+        {
+          "titel" : "Die Zaubershow besuchen",
+          "start" : 2190267,
+          "end" : 2334773
+        },
+        {
+          "titel" : "Ich habe wenig Geld",
+          "start" : 2334773,
+          "end" : 2451360
+        },
+        {
+          "titel" : "Mit Marilyn sprechen",
+          "start" : 2451360,
+          "end" : 2654120
+        },
+        {
+          "titel" : "Verstecken in der Geisterbahn",
+          "start" : 2654120,
+          "end" : 2995320
+        },
+        {
+          "titel" : "Die Frau mit der Flugtasche befragen",
+          "start" : 2995320,
+          "end" : 3132573
+        },
+        {
+          "titel" : "Zu Margarine schleichen",
+          "start" : 3132573,
+          "end" : 3249360
+        },
+        {
+          "titel" : "Flucht über die Grenze nach Süden",
+          "start" : 3249360,
+          "end" : 3330787
+        },
+        {
+          "titel" : "Der nimmt mir alles weg",
+          "start" : 3330787,
+          "end" : 3430867
+        },
+        {
+          "titel" : "Den Verfolger verfolgen",
+          "start" : 3430867,
+          "end" : 3508480
+        },
+        {
+          "titel" : "Die Frau mit der Flugtasche verfolgen",
+          "start" : 3508480,
+          "end" : 3634733
+        },
+        {
+          "titel" : "Wir warten auf Mrs. Millar",
+          "start" : 3634733,
+          "end" : 3750267
+        },
+        {
+          "titel" : "Wir wollen bleiben",
+          "start" : 3750267,
+          "end" : 3989840
+        },
+        {
+          "titel" : "Die Tür öffnen",
+          "start" : 3989840,
+          "end" : 4201280
+        },
+        {
+          "titel" : "Wir wollen die Belohnung",
+          "start" : 4201280,
+          "end" : 4360827
+        },
+        {
+          "titel" : "Eine Autofahrt",
+          "start" : 4360827,
+          "end" : 4605213
+        },
+        {
+          "titel" : "Ich helfe Justus bei der Arbeit",
+          "start" : 4605213,
+          "end" : 4779720
+        },
+        {
+          "titel" : "Mrs. Millar nicht treffen",
+          "start" : 4779720,
+          "end" : 4874080
+        },
+        {
+          "titel" : "Die Popcorntüte stehlen",
+          "start" : 4874080,
+          "end" : 4985800
+        },
+        {
+          "titel" : "Jemand soll mich umprogrammieren",
+          "start" : 4985800,
+          "end" : 5089293
+        },
+        {
+          "titel" : "Die Krebs-Anzeige ist wichtig",
+          "start" : 5089293,
+          "end" : 5238280
+        },
+        {
+          "titel" : "Joey an der Flucht hindern",
+          "start" : 5238280,
+          "end" : 5314867
+        },
+        {
+          "titel" : "$100 auftreiben",
+          "start" : 5314867,
+          "end" : 5435627
+        },
+        {
+          "titel" : "Mit einem Schuh werfen",
+          "start" : 5435627,
+          "end" : 5554200
+        },
+        {
+          "titel" : "In der Geisterbahn nachsehen",
+          "start" : 5554200,
+          "end" : 5934267
+        },
+        {
+          "titel" : "Um eine Mitfahrgelegenheit bitten",
+          "start" : 5934267,
+          "end" : 6010400
+        },
+        {
+          "titel" : "Die Popcorn-Anzeige ist wichtig",
+          "start" : 6010400,
+          "end" : 6094680
+        },
+        {
+          "titel" : "Postfächer überwachen",
+          "start" : 6094680,
+          "end" : 6300293
+        },
+        {
+          "titel" : "Wir wollen gehen",
+          "start" : 6300293,
+          "end" : 6386440
+        },
+        {
+          "titel" : "Mehr als vier Mal \"Ja!\" geantwortet",
+          "start" : 6386440,
+          "end" : 6499587
+        },
+        {
+          "titel" : "Weniger als vier Mal \"Ja!\" geantwortet",
+          "start" : 6499587,
+          "end" : 6577573
+        },
+        {
+          "titel" : "Ich will für immer bleiben",
+          "start" : 6577573,
+          "end" : 6667213
+        },
+        {
+          "titel" : "Durch das Fenster fliehen",
+          "start" : 6667213,
+          "end" : 6859680
+        },
+        {
+          "titel" : "Wir wollen die Belohnung nicht",
+          "start" : 6859680,
+          "end" : 6927067
+        },
+        {
+          "titel" : "Justus arbeitet alleine",
+          "start" : 6927067,
+          "end" : 7052067
+        },
+        {
+          "titel" : "Um Hilfe rufen",
+          "start" : 7052067,
+          "end" : 7114627
+        },
+        {
+          "titel" : "Etwas Einmaliges tun",
+          "start" : 7114627,
+          "end" : 7243587
+        },
+        {
+          "titel" : "Mrs. Millar treffen",
+          "start" : 7243587,
+          "end" : 7317280
+        },
+        {
+          "titel" : "Auf dem Riesenrad",
+          "start" : 7317280,
+          "end" : 7423747
+        },
+        {
+          "titel" : "Wir gehen hinein",
+          "start" : 7423747,
+          "end" : 7506320
+        },
+        {
+          "titel" : "Mortons zweite Chance",
+          "start" : 7506320,
+          "end" : 7594170
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/cover.png"
       }
     },
     {
@@ -2967,6 +3787,138 @@
         "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/cover.png"
+      }
+    },
+    {
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "kapitel" : [
+            {
+              "titel" : "Prolog",
+              "start" : 0,
+              "end" : 70560
+            },
+            {
+              "titel" : "Anruf aus Hollywood",
+              "start" : 70560,
+              "end" : 342933
+            },
+            {
+              "titel" : "Ein echter Smaragd?",
+              "start" : 342933,
+              "end" : 1343907
+            },
+            {
+              "titel" : "Wiedersehen am Set",
+              "start" : 1343907,
+              "end" : 1959800
+            },
+            {
+              "titel" : "Monsterpuppen",
+              "start" : 1959800,
+              "end" : 2444173
+            },
+            {
+              "titel" : "Gerald liebt Besuch",
+              "start" : 2444173,
+              "end" : 3019707
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/1/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/1/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "kapitel" : [
+            {
+              "titel" : "Ein wunder Punkt",
+              "start" : 0,
+              "end" : 565146
+            },
+            {
+              "titel" : "Das Strandhaus",
+              "start" : 565146,
+              "end" : 1324360
+            },
+            {
+              "titel" : "Im Horrormuseum",
+              "start" : 1324360,
+              "end" : 1848946
+            },
+            {
+              "titel" : "Neuigkeiten für Mr. Kushing",
+              "start" : 1848946,
+              "end" : 2733640
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/2/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/2/rip_log.txt"
+          }
+        }
+      ],
+      "titel" : "und der dreiäugige Totenkopf",
+      "autor" : "Ivar Leon Menger, John Beckmann",
+      "hörspielskriptautor" : "Ivar Leon Menger, John Beckmann",
+      "kapitel" : [
+        {
+          "titel" : "Prolog",
+          "start" : 0,
+          "end" : 70560
+        },
+        {
+          "titel" : "Anruf aus Hollywood",
+          "start" : 70560,
+          "end" : 342933
+        },
+        {
+          "titel" : "Ein echter Smaragd?",
+          "start" : 342933,
+          "end" : 1343907
+        },
+        {
+          "titel" : "Wiedersehen am Set",
+          "start" : 1343907,
+          "end" : 1959800
+        },
+        {
+          "titel" : "Monsterpuppen",
+          "start" : 1959800,
+          "end" : 2444173
+        },
+        {
+          "titel" : "Gerald liebt Besuch",
+          "start" : 2444173,
+          "end" : 3019707
+        },
+        {
+          "titel" : "Ein wunder Punkt",
+          "start" : 3019707,
+          "end" : 3584853
+        },
+        {
+          "titel" : "Das Strandhaus",
+          "start" : 3584853,
+          "end" : 4344067
+        },
+        {
+          "titel" : "Im Horrormuseum",
+          "start" : 4344067,
+          "end" : 4868653
+        },
+        {
+          "titel" : "Neuigkeiten für Mr. Kushing",
+          "start" : 4868653,
+          "end" : 5753347
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/cover.png"
       }
     }
   ]

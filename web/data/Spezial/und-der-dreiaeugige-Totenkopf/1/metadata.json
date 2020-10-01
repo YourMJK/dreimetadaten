@@ -1,0 +1,39 @@
+{
+  "teilNummer" : 1,
+  "kapitel" : [
+    {
+      "titel" : "Prolog",
+      "start" : 0,
+      "end" : 70560
+    },
+    {
+      "titel" : "Anruf aus Hollywood",
+      "start" : 70560,
+      "end" : 342933
+    },
+    {
+      "titel" : "Ein echter Smaragd?",
+      "start" : 342933,
+      "end" : 1343907
+    },
+    {
+      "titel" : "Wiedersehen am Set",
+      "start" : 1343907,
+      "end" : 1959800
+    },
+    {
+      "titel" : "Monsterpuppen",
+      "start" : 1959800,
+      "end" : 2444173
+    },
+    {
+      "titel" : "Gerald liebt Besuch",
+      "start" : 2444173,
+      "end" : 3019707
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/1/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/1/rip_log.txt"
+  }
+}
