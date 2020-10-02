@@ -139,6 +139,92 @@
           "end" : 3498480
         }
       ],
+      "sprecher" : [
+        [
+          "Off-Stimme",
+          "Claudia Stocksieker"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tony",
+          "Stefan Kaminski"
+        ],
+        [
+          "Joey",
+          "Tommaso Cacciapuoti"
+        ],
+        [
+          "Ansager in der Schlammringkampfarena",
+          "Christian Rudolf"
+        ],
+        [
+          "Margarine",
+          "Alma Clausen"
+        ],
+        [
+          "Lincolnfahrer",
+          "Mike Olsowski"
+        ],
+        [
+          "Freakshow-Jack",
+          "Peter Bänker"
+        ],
+        [
+          "Der unergründliche Mickey",
+          "Krystian Martinek"
+        ],
+        [
+          "Die bärtige Marilyn",
+          "Santiago Ziesmer"
+        ],
+        [
+          "Miss Luzzy",
+          "Katja Brügger"
+        ],
+        [
+          "Bubba Detroit",
+          "Klaus Dittmann"
+        ],
+        [
+          "Junge",
+          "Patrick Bach"
+        ],
+        [
+          "Burger-Verkäufer Arnie",
+          "Manou Lubowski"
+        ],
+        [
+          "Reporterin",
+          "Mara Bergmann"
+        ],
+        [
+          "Anna Millar",
+          "Christine Pappert"
+        ],
+        [
+          "Bombenattentäter Daniel",
+          "Tim Grobe"
+        ],
+        [
+          "Polizist",
+          "Wolfgang Kaven"
+        ],
+        [
+          "Papagei",
+          "Heikedine Körting"
+        ]
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/metadata.json",
         "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/rip_log.txt"
@@ -437,6 +523,80 @@
           "start" : 4409547,
           "end" : 4497427
         }
+      ],
+      "sprecher" : [
+        [
+          "Off-Stimme",
+          "Claudia Stocksieker"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tony",
+          "Stefan Kaminski"
+        ],
+        [
+          "Joey",
+          "Tommaso Cacciapuoti"
+        ],
+        [
+          "Anna Millar",
+          "Christine Pappert"
+        ],
+        [
+          "Lily",
+          "Verena Wolfien"
+        ],
+        [
+          "Max",
+          "Holger Umbreit"
+        ],
+        [
+          "Milli",
+          "Ulrike Knief"
+        ],
+        [
+          "Celeste Hummer",
+          "Maria Willer"
+        ],
+        [
+          "Anthem Hummer",
+          "Martin May"
+        ],
+        [
+          "Morton",
+          "Andreas von der Meden"
+        ],
+        [
+          "Papagei",
+          "Heikedine Körting"
+        ],
+        [
+          "Bruce Millar",
+          "Ben Hecker"
+        ],
+        [
+          "Kommissar Reynolds",
+          "Wolfgang Draeger"
+        ],
+        [
+          "Mr. Albert Hitfield",
+          "Volker Bogdan"
+        ],
+        [
+          "TV-Sprecher",
+          "Friedel Bott"
+        ]
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/2/metadata.json",
@@ -738,6 +898,132 @@
       "start" : 7506320,
       "end" : 7594170
     }
+  ],
+  "sprecher" : [
+    [
+      "Off-Stimme",
+      "Claudia Stocksieker"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tony",
+      "Stefan Kaminski"
+    ],
+    [
+      "Joey",
+      "Tommaso Cacciapuoti"
+    ],
+    [
+      "Ansager in der Schlammringkampfarena",
+      "Christian Rudolf"
+    ],
+    [
+      "Margarine",
+      "Alma Clausen"
+    ],
+    [
+      "Lincolnfahrer",
+      "Mike Olsowski"
+    ],
+    [
+      "Freakshow-Jack",
+      "Peter Bänker"
+    ],
+    [
+      "Der unergründliche Mickey",
+      "Krystian Martinek"
+    ],
+    [
+      "Die bärtige Marilyn",
+      "Santiago Ziesmer"
+    ],
+    [
+      "Miss Luzzy",
+      "Katja Brügger"
+    ],
+    [
+      "Bubba Detroit",
+      "Klaus Dittmann"
+    ],
+    [
+      "Junge",
+      "Patrick Bach"
+    ],
+    [
+      "Burger-Verkäufer Arnie",
+      "Manou Lubowski"
+    ],
+    [
+      "Reporterin",
+      "Mara Bergmann"
+    ],
+    [
+      "Anna Millar",
+      "Christine Pappert"
+    ],
+    [
+      "Bombenattentäter Daniel",
+      "Tim Grobe"
+    ],
+    [
+      "Polizist",
+      "Wolfgang Kaven"
+    ],
+    [
+      "Lily",
+      "Verena Wolfien"
+    ],
+    [
+      "Max",
+      "Holger Umbreit"
+    ],
+    [
+      "Milli",
+      "Ulrike Knief"
+    ],
+    [
+      "Celeste Hummer",
+      "Maria Willer"
+    ],
+    [
+      "Anthem Hummer",
+      "Martin May"
+    ],
+    [
+      "Morton",
+      "Andreas von der Meden"
+    ],
+    [
+      "Bruce Millar",
+      "Ben Hecker"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Mr. Albert Hitfield",
+      "Volker Bogdan"
+    ],
+    [
+      "TV-Sprecher",
+      "Friedel Bott"
+    ],
+    [
+      "Papagei",
+      "Heikedine Körting"
+    ]
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/metadata.json",

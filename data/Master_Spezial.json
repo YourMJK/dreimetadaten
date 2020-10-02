@@ -66,6 +66,100 @@
           "end" : 3675453
         }
       ],
+      "sprecher" : [
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Ben",
+          "Fabian Harloff"
+        ],
+        [
+          "Silvia",
+          "Marion von Stengel"
+        ],
+        [
+          "Ralph",
+          "Wolfgang Kaven"
+        ],
+        [
+          "Spud",
+          "Rasmus Borowski"
+        ],
+        [
+          "O-Ian",
+          "Celine Fontanges"
+        ],
+        [
+          "Setch",
+          "Stefan Brönneke"
+        ],
+        [
+          "Hi-Top",
+          "Robin Brosch"
+        ],
+        [
+          "Car",
+          "Volker Hanisch"
+        ],
+        [
+          "Chip-Shape",
+          "Jens Wendland"
+        ],
+        [
+          "Carol",
+          "Alexandra Garcia"
+        ],
+        [
+          "Slide Terranova",
+          "Nico König"
+        ],
+        [
+          "P. \"Pejo\" Joseph McGaskill",
+          "Peter Kirchberger"
+        ],
+        [
+          "Sax Sendler",
+          "Christian Concillio"
+        ],
+        [
+          "Hausmeister",
+          "Edgar Bessen"
+        ],
+        [
+          "Bau-Kollege",
+          "Holger Umbreit"
+        ],
+        [
+          "Junge",
+          "Michael Lampe"
+        ],
+        [
+          "Mädchen",
+          "Pamela Punti"
+        ],
+        [
+          "Weibl. Offstimme",
+          "Susanne Wulkow"
+        ],
+        [
+          "Werbestimme",
+          "Enie van de Meiklokjes"
+        ],
+        [
+          "Menge",
+          "www.dreifragezeichen.de/www/menge-brainwash"
+        ]
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/ffmetadata.txt",
@@ -576,6 +670,92 @@
               "end" : 3498480
             }
           ],
+          "sprecher" : [
+            [
+              "Off-Stimme",
+              "Claudia Stocksieker"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Tony",
+              "Stefan Kaminski"
+            ],
+            [
+              "Joey",
+              "Tommaso Cacciapuoti"
+            ],
+            [
+              "Ansager in der Schlammringkampfarena",
+              "Christian Rudolf"
+            ],
+            [
+              "Margarine",
+              "Alma Clausen"
+            ],
+            [
+              "Lincolnfahrer",
+              "Mike Olsowski"
+            ],
+            [
+              "Freakshow-Jack",
+              "Peter Bänker"
+            ],
+            [
+              "Der unergründliche Mickey",
+              "Krystian Martinek"
+            ],
+            [
+              "Die bärtige Marilyn",
+              "Santiago Ziesmer"
+            ],
+            [
+              "Miss Luzzy",
+              "Katja Brügger"
+            ],
+            [
+              "Bubba Detroit",
+              "Klaus Dittmann"
+            ],
+            [
+              "Junge",
+              "Patrick Bach"
+            ],
+            [
+              "Burger-Verkäufer Arnie",
+              "Manou Lubowski"
+            ],
+            [
+              "Reporterin",
+              "Mara Bergmann"
+            ],
+            [
+              "Anna Millar",
+              "Christine Pappert"
+            ],
+            [
+              "Bombenattentäter Daniel",
+              "Tim Grobe"
+            ],
+            [
+              "Polizist",
+              "Wolfgang Kaven"
+            ],
+            [
+              "Papagei",
+              "Heikedine Körting"
+            ]
+          ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/metadata.json",
             "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/rip_log.txt"
@@ -874,6 +1054,80 @@
               "start" : 4409547,
               "end" : 4497427
             }
+          ],
+          "sprecher" : [
+            [
+              "Off-Stimme",
+              "Claudia Stocksieker"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Tony",
+              "Stefan Kaminski"
+            ],
+            [
+              "Joey",
+              "Tommaso Cacciapuoti"
+            ],
+            [
+              "Anna Millar",
+              "Christine Pappert"
+            ],
+            [
+              "Lily",
+              "Verena Wolfien"
+            ],
+            [
+              "Max",
+              "Holger Umbreit"
+            ],
+            [
+              "Milli",
+              "Ulrike Knief"
+            ],
+            [
+              "Celeste Hummer",
+              "Maria Willer"
+            ],
+            [
+              "Anthem Hummer",
+              "Martin May"
+            ],
+            [
+              "Morton",
+              "Andreas von der Meden"
+            ],
+            [
+              "Papagei",
+              "Heikedine Körting"
+            ],
+            [
+              "Bruce Millar",
+              "Ben Hecker"
+            ],
+            [
+              "Kommissar Reynolds",
+              "Wolfgang Draeger"
+            ],
+            [
+              "Mr. Albert Hitfield",
+              "Volker Bogdan"
+            ],
+            [
+              "TV-Sprecher",
+              "Friedel Bott"
+            ]
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/2/metadata.json",
@@ -1175,6 +1429,132 @@
           "start" : 7506320,
           "end" : 7594170
         }
+      ],
+      "sprecher" : [
+        [
+          "Off-Stimme",
+          "Claudia Stocksieker"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tony",
+          "Stefan Kaminski"
+        ],
+        [
+          "Joey",
+          "Tommaso Cacciapuoti"
+        ],
+        [
+          "Ansager in der Schlammringkampfarena",
+          "Christian Rudolf"
+        ],
+        [
+          "Margarine",
+          "Alma Clausen"
+        ],
+        [
+          "Lincolnfahrer",
+          "Mike Olsowski"
+        ],
+        [
+          "Freakshow-Jack",
+          "Peter Bänker"
+        ],
+        [
+          "Der unergründliche Mickey",
+          "Krystian Martinek"
+        ],
+        [
+          "Die bärtige Marilyn",
+          "Santiago Ziesmer"
+        ],
+        [
+          "Miss Luzzy",
+          "Katja Brügger"
+        ],
+        [
+          "Bubba Detroit",
+          "Klaus Dittmann"
+        ],
+        [
+          "Junge",
+          "Patrick Bach"
+        ],
+        [
+          "Burger-Verkäufer Arnie",
+          "Manou Lubowski"
+        ],
+        [
+          "Reporterin",
+          "Mara Bergmann"
+        ],
+        [
+          "Anna Millar",
+          "Christine Pappert"
+        ],
+        [
+          "Bombenattentäter Daniel",
+          "Tim Grobe"
+        ],
+        [
+          "Polizist",
+          "Wolfgang Kaven"
+        ],
+        [
+          "Lily",
+          "Verena Wolfien"
+        ],
+        [
+          "Max",
+          "Holger Umbreit"
+        ],
+        [
+          "Milli",
+          "Ulrike Knief"
+        ],
+        [
+          "Celeste Hummer",
+          "Maria Willer"
+        ],
+        [
+          "Anthem Hummer",
+          "Martin May"
+        ],
+        [
+          "Morton",
+          "Andreas von der Meden"
+        ],
+        [
+          "Bruce Millar",
+          "Ben Hecker"
+        ],
+        [
+          "Kommissar Reynolds",
+          "Wolfgang Draeger"
+        ],
+        [
+          "Mr. Albert Hitfield",
+          "Volker Bogdan"
+        ],
+        [
+          "TV-Sprecher",
+          "Friedel Bott"
+        ],
+        [
+          "Papagei",
+          "Heikedine Körting"
+        ]
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/metadata.json",
@@ -3914,6 +4294,96 @@
           "start" : 4868653,
           "end" : 5753347
         }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczek"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Onkel Titus",
+          "Rüdiger Schulzki"
+        ],
+        [
+          "Tante Mathilda",
+          "Karin Lieneweg"
+        ],
+        [
+          "Roger Kind",
+          "Holger Mahlich"
+        ],
+        [
+          "R. Kind als Regisseur Kushing",
+          "Holger Mahlich"
+        ],
+        [
+          "R. Kind als Cotta",
+          "Holger Mahlich"
+        ],
+        [
+          "Inspektor Cotta",
+          "Holger Mahlich"
+        ],
+        [
+          "Regisseur Kushing",
+          "Tim Grobe"
+        ],
+        [
+          "Melanie Shepard",
+          "Christiane Leuchtmann"
+        ],
+        [
+          "Laura",
+          "Henrike Fehrs"
+        ],
+        [
+          "Lara Bix",
+          "Ursula Sieg"
+        ],
+        [
+          "Jason Frost",
+          "Robert Missler"
+        ],
+        [
+          "Kellnerin",
+          "Simona Pahl"
+        ],
+        [
+          "Museumsdame",
+          "Rhea Harder"
+        ],
+        [
+          "Monsterpuppe",
+          "Kerstin Draeger"
+        ],
+        [
+          "Betty Frost",
+          "Rosemarie Wohlbauer"
+        ],
+        [
+          "Wachmann",
+          "Markus Schäfer"
+        ],
+        [
+          "Kameramann",
+          "Helgé Halvé"
+        ],
+        [
+          "Tonmann",
+          "Timo Alexander Wenzel"
+        ]
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/metadata.json",
