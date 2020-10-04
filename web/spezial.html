@@ -8,236 +8,409 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link href="style.css" type="text/css" rel="stylesheet">
+	<link rel="icon" type="image/png" href="favicon.png">
+	<link rel="icon" type="image/svg+xml" href="logo.svg">
 </head>
 
 
 <body>
 
-<div class="navbar">
-	<table class="navbar_table">
-		<tr>
-			<td><a href="index.html">Serie</a></td>
-			<td><a href="spezial.html">Spezial</a></td>
-			<td><a href="kurzgeschichten.html">Kurzgeschichten</a></td>
-			<td><a href="die_dr3i.html">DiE DR3i</a></td>
-		</tr>
-	</table>
-</div>
+<header class="navbar">
+	<nav>
+		<a href="index.html"><img class="imageLogo" src="logo.svg" width="32px" height="32px"></a>
+		
+		<table class="navbar_table">
+			<tr>
+				<td><a href="index.html">Serie</a></b></td>
+				<td><a class="active" href="spezial.html">Spezial</a></td>
+				<td><a href="kurzgeschichten.html">Kurzgeschichten</a></td>
+				<td><a href="die_dr3i.html">DiE DR3i</a></td>
+			</tr>
+		</table>
+		
+		<table class="navbar_table">
+			<tr>
+				<td><a href="changelog.html">Changelog</a></td>
+				<td><a href="https://github.com/YourMJK/dreimetadaten"><img class="imageGithub" src="github.svg" width="24px" height="24px" title="GitHub"></a></td>
+			</tr>
+		</table>
+	</nav>
+</header>
 
 <h2>Spezial</h2>
 
 <p>
-Daten der Die drei ??? Spezial-Folgen. (Work in Progress)<br>
+	Daten der Die drei ??? Spezial-Folgen.
 </p>
 
-<ul>
-	<li><b>Metadaten</b> (im <code>ffmetadata</code>-Format)
-		<ul>
-			<li class="sublist">Titel</li>
-			<li class="sublist">Kapitelnamen & -positionen</li>
-			<li class="sublist">Jahr</li>
-			<li class="sublist">Erzählersprecher (als "artist")</li>
-			<li class="sublist">Hörspielskriptautor (als "album_artist")</li>
-			<li class="sublist">Buchautor (als "composer")</li>
-		</ul>
-	</li>
-	<li><b>XLD Log</b>: Informationen zur CD. Inklusive Track-Hashes mit AccurateRip-DB-Abgleich</li>
-	<li><b>Cover</b>: Coverbild (1500px)</li>
-</ul>
+<section>
+	<b>Tabellenerklärung:</b>
+	<ul>
+		<li><b>Metadaten</b>: Alle bisher zur dieser Folge gesammelten Metadaten als JSON. Diese umfassen meist:
+			<ul>
+				<li class="sublist">Titel & Nummerierung</li>
+				<li class="sublist">Buchautor</li>
+				<li class="sublist">Hörspielskriptautor</li>
+				<li class="sublist">Beschreibung (Klappentext)</li>
+				<li class="sublist">Veröffentlichungsdatum</li>
+				<li class="sublist">Kapitelnamen & -zeitpositionen (in ms)</li>
+				<li class="sublist">Sprecher/Rollen-Auflistung</li>
+				<li class="sublist">Alle Links aus der Tabelle unten</li>
+			</ul>
+			Wer die Daten maschinell einlesen will, wird vielleicht <a href="data/metadata_structure.swift">dies hier</a> hilfreich finden.
+		</li>
+		<li><b>FFmetadaten</b> (ausgewählte Metadaten im <code>ffmetadata</code>-Format)
+			<ul>
+				<li class="sublist">Titel</li>
+				<li class="sublist">Kapitelnamen & -zeitpositionen</li>
+				<li class="sublist">Veröffentlichungsjahr</li>
+				<li class="sublist">Erzählersprecher als "artist"</li>
+				<li class="sublist">Hörspielskriptautor als "album_artist"</li>
+				<li class="sublist">Buchautor als "composer"</li>
+			</ul>
+		</li>
+		<li><b>XLD Log</b>: Informationen zur CD. Inklusive Track-Hashes mit AccurateRip-DB-Abgleich</li>
+		<li><b>Cover</b>: Coverbild (1500px)</li>
+	</ul>
+</section>
 
-<p>
-<b>Download Gesamtarchiv:</b> <a href="data/Spezial.zip">Spezial.zip (28MB)</a>
-<br>
-<br>
-<b>Letzte Aktualisierung:</b> 02.12.2019
-</p>
+<section>
+	<b>Downloads:</b>
+	<ul>
+		<li><b>Metadaten:</b> <a class="boldLink" href="data/Spezial.json" download="Spezial.json">Spezial.json</a> <span class="smallText"><a href="data/metadata_structure.swift">(Strukturerklärung)</a></span>
+		<li><b>Gesamtarchiv:</b> <a class="boldLink" href="data/Spezial.zip" download>Spezial.zip (28MB)</a><br>
+	</ul>
+</section>
+
+<b>Letzte Aktualisierung:</b> 05.10.2020
 
 
 <table class="datatable">
+
 <tr>
-	<td class="cell_nr">Das Grab der Inka Mumie</td>
-	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/metadata.txt">Metadaten</a></td>
+	<td class="cell_nr">Brainwash: Gefangene Gedanken</td>
+	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">Das Grab der Inka-Mumie</td>
+	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/ffmetadata.txt">FFmetadata</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 </tr>
 <tr>
 	<td class="cell_nr">/CD1</td>
+	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/1/metadata.json">Metadaten</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/1/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 </tr>
 <tr>
 	<td class="cell_nr">/CD2</td>
+	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/2/metadata.json">Metadaten</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/2/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 </tr>
-
 <tr>
 	<td class="cell_nr">High Strung: Unter Hochspannung</td>
-	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/metadata.txt">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/ffmetadata.txt">FFmetadata</a></td>
 	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/cover.png">Cover</a></td>
-</tr>
-
-<tr>
-	<td class="cell_nr">Stille Nacht, düstere Nacht</td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-düstere-Nacht/metadata.txt">Metadaten</a></td>
 	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-düstere-Nacht/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">House of Horrors: Haus der Angst</td>
+	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 </tr>
 <tr>
 	<td class="cell_nr">/CD1</td>
+	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/1/metadata.json">Metadaten</a></td>
 	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-düstere-Nacht/1/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/1/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 	<td class="cell_data"></td>
 </tr>
 <tr>
 	<td class="cell_nr">/CD2</td>
+	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/2/metadata.json">Metadaten</a></td>
 	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-düstere-Nacht/2/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/2/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">Stille Nacht, düstere Nacht</td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD1</td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/1/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/1/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD2</td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/2/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/2/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 	<td class="cell_data"></td>
 </tr>
 <tr>
 	<td class="cell_nr">/CD3</td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/3/metadata.json">Metadaten</a></td>
 	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-düstere-Nacht/3/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/3/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 	<td class="cell_data"></td>
 </tr>
-
 <tr>
 	<td class="cell_nr">und das kalte Auge</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/metadata.txt">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/ffmetadata.txt">FFmetadata</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 </tr>
 <tr>
 	<td class="cell_nr">/CD1</td>
+	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/1/metadata.json">Metadaten</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/1/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 </tr>
 <tr>
 	<td class="cell_nr">/CD2</td>
+	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/2/metadata.json">Metadaten</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/2/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"></td>
-</tr>
-
-<tr>
-	<td class="cell_nr">und der 5. Advent</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/metadata.txt">Metadaten</a></td>
 	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/cover.png">Cover</a></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/1/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"></td>
 </tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD3</td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/3/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-</tr>
-
-<tr>
-	<td class="cell_nr">und der dreiTag</td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/cover.png">Cover</a></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/1/metadata.txt">Metadaten</a></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/2/metadata.txt">Metadaten</a></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD3</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/3/metadata.txt">Metadaten</a></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/3/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-</tr>
-
-<tr>
-	<td class="cell_nr">und der Super-Papagei 2004</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/metadata.txt">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/cover.png">Cover</a></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-</tr>
-
-<tr>
-	<td class="cell_nr">und der Tornadojäger</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojäger/metadata.txt">Metadaten</a></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojäger/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojäger/cover.png">Cover</a></td>
-</tr>
-
-<tr>
-	<td class="cell_nr">und die schwarze Katze</td>
-	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/metadata.txt">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/cover.png">Cover</a></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-</tr>
-
 <tr>
 	<td class="cell_nr">und das versunkene Schiff</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/metadata.txt">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/ffmetadata.txt">FFmetadata</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 </tr>
 <tr>
 	<td class="cell_nr">/CD1</td>
+	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/1/metadata.json">Metadaten</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/1/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 </tr>
 <tr>
 	<td class="cell_nr">/CD2</td>
+	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/2/metadata.json">Metadaten</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/2/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
 </tr>
-
+<tr>
+	<td class="cell_nr">und der 5. Advent</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD1</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/1/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/1/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD2</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/2/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/2/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD3</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/3/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/3/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">und der Super-Papagei 2004</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD1</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/1/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/1/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD2</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/2/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/2/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">und der Tornadojäger</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">und der dreiTag</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/J</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/1/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/1/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/1/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/B</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/2/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/2/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/2/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/P</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/3/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/3/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/3/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">und die schwarze Katze</td>
+	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD1</td>
+	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/1/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/1/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD2</td>
+	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/2/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/2/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">und der dreiäugige Totenkopf</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/ffmetadata.txt">FFmetadata</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/cover.png">Cover</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD1</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/1/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/1/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
+<tr>
+	<td class="cell_nr">/CD2</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/2/metadata.json">Metadaten</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/2/rip_log.txt">XLD Log</a></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+	<td class="cell_data"></td>
+</tr>
 </table>
 
 </body>

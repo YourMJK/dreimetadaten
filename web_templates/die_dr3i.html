@@ -8,49 +8,81 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link href="style.css" type="text/css" rel="stylesheet">
+	<link rel="icon" type="image/png" href="favicon.png">
+	<link rel="icon" type="image/svg+xml" href="logo.svg">
 </head>
 
 
 <body>
 
-<div class="navbar">
-	<table class="navbar_table">
-		<tr>
-			<td><a href="index.html">Serie</a></td>
-			<td><a href="spezial.html">Spezial</a></td>
-			<td><a href="kurzgeschichten.html">Kurzgeschichten</a></td>
-			<td><a href="die_dr3i.html">DiE DR3i</a></td>
-		</tr>
-	</table>
-</div>
+<header class="navbar">
+	<nav>
+		<a href="index.html"><img class="imageLogo" src="logo.svg" width="32px" height="32px"></a>
+		
+		<table class="navbar_table">
+			<tr>
+				<td><a href="index.html">Serie</a></b></td>
+				<td><a href="spezial.html">Spezial</a></td>
+				<td><a href="kurzgeschichten.html">Kurzgeschichten</a></td>
+				<td><a class="active" href="die_dr3i.html">DiE DR3i</a></td>
+			</tr>
+		</table>
+		
+		<table class="navbar_table">
+			<tr>
+				<td><a href="changelog.html">Changelog</a></td>
+				<td><a href="https://github.com/YourMJK/dreimetadaten"><img class="imageGithub" src="github.svg" width="24px" height="24px" title="GitHub"></a></td>
+			</tr>
+		</table>
+	</nav>
+</header>
 
 <h2>DiE DR3i</h2>
 
 <p>
-Daten der DiE DR3i Folgen.<br>
+	Daten der DiE DR3i Folgen.
 </p>
 
-<ul>
-	<li><b>Metadaten</b> (im <code>ffmetadata</code>-Format)
-		<ul>
-			<li class="sublist">Titel</li>
-			<li class="sublist">Kapitelnamen & -positionen</li>
-			<li class="sublist">Jahr</li>
-			<li class="sublist">Erzählersprecher (als "artist")</li>
-			<li class="sublist">Hörspielskriptautor (als "album_artist")</li>
-			<li class="sublist">Buchautor (als "composer")</li>
-		</ul>
-	</li>
-	<li><b>XLD Log</b>: Informationen zur CD. Inklusive Track-Hashes mit AccurateRip-DB-Abgleich</li>
-	<li><b>Cover</b>: hochauflösendes Coverbild (2048px), rekonstruiert, Artwork aus Scans gewonnen</li>
-</ul>
+<section>
+	<b>Tabellenerklärung:</b>
+	<ul>
+		<li><b>Metadaten</b>: Alle bisher zur dieser Folge gesammelten Metadaten als JSON. Diese umfassen meist:
+			<ul>
+				<li class="sublist">Titel & Nummerierung</li>
+				<li class="sublist">Buchautor</li>
+				<li class="sublist">Hörspielskriptautor</li>
+				<li class="sublist">Beschreibung (Klappentext)</li>
+				<li class="sublist">Veröffentlichungsdatum</li>
+				<li class="sublist">Kapitelnamen & -zeitpositionen (in ms)</li>
+				<li class="sublist">Sprecher/Rollen-Auflistung</li>
+				<li class="sublist">Alle Links aus der Tabelle unten</li>
+			</ul>
+			Wer die Daten maschinell einlesen will, wird vielleicht <a href="data/metadata_structure.swift">dies hier</a> hilfreich finden.
+		</li>
+		<li><b>FFmetadaten</b> (ausgewählte Metadaten im <code>ffmetadata</code>-Format)
+			<ul>
+				<li class="sublist">Titel</li>
+				<li class="sublist">Kapitelnamen & -zeitpositionen</li>
+				<li class="sublist">Veröffentlichungsjahr</li>
+				<li class="sublist">Erzählersprecher als "artist"</li>
+				<li class="sublist">Hörspielskriptautor als "album_artist"</li>
+				<li class="sublist">Buchautor als "composer"</li>
+			</ul>
+		</li>
+		<li><b>XLD Log</b>: Informationen zur CD. Inklusive Track-Hashes mit AccurateRip-DB-Abgleich</li>
+		<li><b>Cover</b>: hochauflösendes Coverbild (2048px), rekonstruiert, Artwork aus Scans gewonnen</li>
+	</ul>
+</section>
 
-<p>
-<b>Download Gesamtarchiv:</b> <a href="data/DiE_DR3i.zip">DiE_DR3i.zip (54MB)</a>
-<br>
-<br>
+<section>
+	<b>Downloads:</b>
+	<ul>
+		<li><b>Metadaten:</b> <a class="boldLink" href="data/DiE_DR3i.json" download="DiE_DR3i.json">DiE_DR3i.json</a> <span class="smallText"><a href="data/metadata_structure.swift">(Strukturerklärung)</a></span>
+		<li><b>Gesamtarchiv:</b> <a class="boldLink" href="data/DiE_DR3i.zip" download>DiE_DR3i.zip (54MB)</a><br>
+	</ul>
+</section>
+
 <b>Letzte Aktualisierung:</b> %%date%%
-</p>
 
 
 <table class="datatable">
