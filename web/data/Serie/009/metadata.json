@@ -106,6 +106,8 @@
     ]
   ],
   "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/009/metadata.json"
+    "json" : "http://dreimetadaten.de/data/Serie/009/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Serie/008/cover.jpg",
+    "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music49/v4/91/f5/0f/91f50fd0-3117-bab6-0421-79aa8a36fdfd/source/100000x100000-999.jpg"
   }
 }
