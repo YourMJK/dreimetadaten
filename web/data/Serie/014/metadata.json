@@ -106,6 +106,8 @@
     ]
   ],
   "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/014/metadata.json"
+    "json" : "http://dreimetadaten.de/data/Serie/014/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Serie/014/cover.jpg",
+    "cover_itunes" : ""
   }
 }
