@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 1,
+  "kapitel" : [
+    {
+      "titel" : "1. Dezember: Auf ins Winterwunderland",
+      "start" : 0,
+      "end" : 466467
+    },
+    {
+      "titel" : "2. Dezember: Tief in den Wäldern",
+      "start" : 466467,
+      "end" : 777480
+    },
+    {
+      "titel" : "3. Dezember: Licht im Dunkel",
+      "start" : 777480,
+      "end" : 1297787
+    },
+    {
+      "titel" : "4. Dezember: Böse Erinnerungen",
+      "start" : 1297787,
+      "end" : 1720960
+    },
+    {
+      "titel" : "5. Dezember: Gruß vom Krampus!",
+      "start" : 1720960,
+      "end" : 2074240
+    },
+    {
+      "titel" : "6. Dezember: Keine stille Nacht",
+      "start" : 2074240,
+      "end" : 2519587
+    },
+    {
+      "titel" : "7. Dezember: Abreisen oder bleiben",
+      "start" : 2519587,
+      "end" : 2873680
+    },
+    {
+      "titel" : "8. Dezember: (K)ein Fall für die drei ???",
+      "start" : 2873680,
+      "end" : 3271667
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/1/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/1/rip_log.txt"
+  }
+}

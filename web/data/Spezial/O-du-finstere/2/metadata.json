@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 2,
+  "kapitel" : [
+    {
+      "titel" : "9. Dezember: Adventsdämon und Geisterkind",
+      "start" : 0,
+      "end" : 304906
+    },
+    {
+      "titel" : "10. Dezember: Ein unglaublicher Verdacht",
+      "start" : 304906,
+      "end" : 721200
+    },
+    {
+      "titel" : "11. Dezember: Bär gegen Teufel",
+      "start" : 721200,
+      "end" : 1233560
+    },
+    {
+      "titel" : "12. Dezember: Der Sessellift",
+      "start" : 1233560,
+      "end" : 1606146
+    },
+    {
+      "titel" : "13. Dezember: Gefangen im Nichts",
+      "start" : 1606146,
+      "end" : 2001853
+    },
+    {
+      "titel" : "14. Dezember: Eisnebel",
+      "start" : 2001853,
+      "end" : 2484173
+    },
+    {
+      "titel" : "15. Dezember: Überraschende Erkenntnisse",
+      "start" : 2484173,
+      "end" : 2748786
+    },
+    {
+      "titel" : "16. Dezember: Gekränkte Liebe",
+      "start" : 2748786,
+      "end" : 3143893
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/2/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/2/rip_log.txt"
+  }
+}
