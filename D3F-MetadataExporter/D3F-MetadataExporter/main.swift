@@ -10,9 +10,9 @@ import Foundation
 
 
 let usage = """
-Usage:   \(ProgramName) -c <master JSON> -o json <destination directory>
+Usage:   \(ProgramName) -c <master JSON> -o webDir <destination directory>
 
-Example: \(ProgramName) -c master.json -o json ./web/data/
+Example: \(ProgramName) -c master.json -o webDir ./web/data/
 """
 
 
