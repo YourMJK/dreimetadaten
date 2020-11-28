@@ -1,0 +1,296 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "kapitel" : [
+        {
+          "titel" : "Prolog",
+          "start" : 0,
+          "end" : 105067
+        },
+        {
+          "titel" : "Maya-Kunst",
+          "start" : 105067,
+          "end" : 470347
+        },
+        {
+          "titel" : "Zufall oder Missverständnis?",
+          "start" : 470347,
+          "end" : 676293
+        },
+        {
+          "titel" : "Ein krasser Typ",
+          "start" : 676293,
+          "end" : 1079867
+        },
+        {
+          "titel" : "Tunchan",
+          "start" : 1079867,
+          "end" : 1460320
+        },
+        {
+          "titel" : "Yaxché",
+          "start" : 1460320,
+          "end" : 2107547
+        },
+        {
+          "titel" : "Schriftzeichen",
+          "start" : 2107547,
+          "end" : 2522907
+        },
+        {
+          "titel" : "Das kalte Tor",
+          "start" : 2522907,
+          "end" : 2836227
+        },
+        {
+          "titel" : "Sheryl",
+          "start" : 2836227,
+          "end" : 3120467
+        },
+        {
+          "titel" : "Zachary",
+          "start" : 3120467,
+          "end" : 3351587
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/1/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/1/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "kapitel" : [
+        {
+          "titel" : "Sunset Motel",
+          "start" : 0,
+          "end" : 376546
+        },
+        {
+          "titel" : "Die Drei-Teile-Theorie",
+          "start" : 376546,
+          "end" : 820146
+        },
+        {
+          "titel" : "Tuyuchim",
+          "start" : 820146,
+          "end" : 1080946
+        },
+        {
+          "titel" : "Alle für einen?",
+          "start" : 1080946,
+          "end" : 1441440
+        },
+        {
+          "titel" : "Zum Clubhaus",
+          "start" : 1441440,
+          "end" : 1676626
+        },
+        {
+          "titel" : "Überraschender Besuch",
+          "start" : 1676626,
+          "end" : 1846146
+        },
+        {
+          "titel" : "Im Urwald?",
+          "start" : 1846146,
+          "end" : 2136546
+        },
+        {
+          "titel" : "Nach Mexiko",
+          "start" : 2136546,
+          "end" : 2487226
+        },
+        {
+          "titel" : "Blaue Wolke",
+          "start" : 2487226,
+          "end" : 2844960
+        },
+        {
+          "titel" : "Das große Geheimnis",
+          "start" : 2844960,
+          "end" : 3418800
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/2/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/2/rip_log.txt"
+      }
+    }
+  ],
+  "titel" : "und das Grab der Maya",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "Kai Schwind",
+  "beschreibung" : "In einem Umzugskarton stoßen die drei ??? auf eine alte Steinfigur und eine Karte mit geheimen Schriftzeichen. Beides scheint vom Volk der Maya zu stammen. Welches Geheimnis bergen die Fundstücke?\nAls Justus, Bob und Peter klar wird, dass einige zwielichtige Gestalten sehr an der Lösung des Rätsels interessiert sind, entspinnt sich ein gefährlicher Wettlauf gegen die Zeit – und ihre Widersacher …",
+  "veröffentlichungsdatum" : "2020-11-20",
+  "kapitel" : [
+    {
+      "titel" : "Prolog",
+      "start" : 0,
+      "end" : 105067
+    },
+    {
+      "titel" : "Maya-Kunst",
+      "start" : 105067,
+      "end" : 470347
+    },
+    {
+      "titel" : "Zufall oder Missverständnis?",
+      "start" : 470347,
+      "end" : 676293
+    },
+    {
+      "titel" : "Ein krasser Typ",
+      "start" : 676293,
+      "end" : 1079867
+    },
+    {
+      "titel" : "Tunchan",
+      "start" : 1079867,
+      "end" : 1460320
+    },
+    {
+      "titel" : "Yaxché",
+      "start" : 1460320,
+      "end" : 2107547
+    },
+    {
+      "titel" : "Schriftzeichen",
+      "start" : 2107547,
+      "end" : 2522907
+    },
+    {
+      "titel" : "Das kalte Tor",
+      "start" : 2522907,
+      "end" : 2836227
+    },
+    {
+      "titel" : "Sheryl",
+      "start" : 2836227,
+      "end" : 3120467
+    },
+    {
+      "titel" : "Zachary",
+      "start" : 3120467,
+      "end" : 3351587
+    },
+    {
+      "titel" : "Sunset Motel",
+      "start" : 3351587,
+      "end" : 3728133
+    },
+    {
+      "titel" : "Die Drei-Teile-Theorie",
+      "start" : 3728133,
+      "end" : 4171733
+    },
+    {
+      "titel" : "Tuyuchim",
+      "start" : 4171733,
+      "end" : 4432533
+    },
+    {
+      "titel" : "Alle für einen?",
+      "start" : 4432533,
+      "end" : 4793027
+    },
+    {
+      "titel" : "Zum Clubhaus",
+      "start" : 4793027,
+      "end" : 5028213
+    },
+    {
+      "titel" : "Überraschender Besuch",
+      "start" : 5028213,
+      "end" : 5197733
+    },
+    {
+      "titel" : "Im Urwald?",
+      "start" : 5197733,
+      "end" : 5488133
+    },
+    {
+      "titel" : "Nach Mexiko",
+      "start" : 5488133,
+      "end" : 5838813
+    },
+    {
+      "titel" : "Blaue Wolke",
+      "start" : 5838813,
+      "end" : 6196547
+    },
+    {
+      "titel" : "Das große Geheimnis",
+      "start" : 6196547,
+      "end" : 6770387
+    }
+  ],
+  "sprecher" : [
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Skinny Norris",
+      "Tim Kreuer"
+    ],
+    [
+      "Sheryl",
+      "Merete Brettschneider"
+    ],
+    [
+      "Professor Burnham",
+      "Jürgen Thormann"
+    ],
+    [
+      "Salvador Pérez",
+      "Matthias Klimsa"
+    ],
+    [
+      "Tuyucim Florentino Ixmatá",
+      "Mario Ramos"
+    ],
+    [
+      "Tuyucim",
+      "Nicolas Klimsa"
+    ],
+    [
+      "Maria Pérez",
+      "Caroline Kiesewetter"
+    ],
+    [
+      "Zachary",
+      "Roman Rossa"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Conrad Williams",
+      "Peter Weis"
+    ],
+    [
+      "Nachrichtensprecher",
+      "André Schünke"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/cover.png"
+  }
+}
