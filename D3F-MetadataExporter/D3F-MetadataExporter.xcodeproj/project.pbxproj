@@ -69,8 +69,8 @@
 				181F61B9251D245F005F7433 /* CommandLineUtils.swift */,
 				181F61B2251D239B005F7433 /* main.swift */,
 				181F61BD251D264F005F7433 /* MetadataExporter.swift */,
-				181F61BB251D247E005F7433 /* Metadata.swift */,
 				18D7E452261D073300181926 /* FFmetadata.swift */,
+				181F61BB251D247E005F7433 /* Metadata.swift */,
 				1855D9FC251EE6B400E37B8E /* Config.xcconfig */,
 			);
 			path = "D3F-MetadataExporter";

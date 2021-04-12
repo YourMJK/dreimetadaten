@@ -15,6 +15,7 @@ struct FFmetadata {
 	let artist: String?
 	let album_artist: String?
 	let composer: String?
+	let description: String?
 	let genre: String?
 	let date: DateComponents?
 	let track: (number: UInt, total: UInt?)?
@@ -32,8 +33,8 @@ extension FFmetadata {
 }
 
 
-extension FFmetadata: CustomStringConvertible {
-	var description: String {
+extension FFmetadata {
+	var formattedContent: String {
 		var lines = [";FFMETADATA1"]
 		
 		func addTag(key: String, value: String?, escape: Bool = true) {
@@ -53,6 +54,7 @@ extension FFmetadata: CustomStringConvertible {
 		addTag(key: "artist", value: artist)
 		addTag(key: "album_artist", value: album_artist)
 		addTag(key: "composer", value: composer)
+		addTag(key: "description", value: description)
 		addTag(key: "genre", value: genre)
 		
 		// Produce a "yyyy", "yyyy-MM" or "yyyy-MM-dd" date string
