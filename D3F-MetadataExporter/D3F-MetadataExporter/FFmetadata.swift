@@ -33,6 +33,8 @@ extension FFmetadata {
 }
 
 
+// MARK: - Formatting
+
 extension FFmetadata {
 	var formattedContent: String {
 		var lines = [";FFMETADATA1"]
@@ -93,5 +95,86 @@ extension FFmetadata {
 		addLine()
 		
 		return lines.joined(separator: "\n")
+	}
+}
+
+
+// MARK: - Creation
+
+extension FFmetadata {
+	private init(withBasicTagsFrom höreinheit: Höreinheit) {
+		// First sprecher as artist
+		let artist: String? = {
+			if let firstSprecher = höreinheit.sprecher?.first, firstSprecher.count >= 2 {
+				return firstSprecher[1]
+			}
+			return nil
+		}()
+		// Veröffentlichungsdatum as date, assuming yyyy-MM-dd format
+		let date: DateComponents? = {
+			guard let stringComponents = höreinheit.veröffentlichungsdatum?.split(separator: "-") else {
+				return nil
+			}
+			func component(_ index: Int) -> Int {
+				Int(stringComponents[index])!
+			}
+			return DateComponents(year: component(0), month: component(1), day: component(2))
+		}()
+		// Kapitel as chapters, assuming times in milliseconds. Chapters are nil if any Kapitel is missing a start or end time
+		let chapters: [Chapter]? = {
+			guard let kapitels = höreinheit.kapitel, !kapitels.isEmpty else {
+				return nil
+			}
+			var chapters = [Chapter]()
+			for kapitel in kapitels {
+				guard let start = kapitel.start, let end = kapitel.end else {
+					return nil
+				}
+				chapters.append(Chapter(timebase: 1000, start: start, end: end, title: kapitel.titel))
+			}
+			return chapters
+		}()
+		
+		self.init(title: höreinheit.titel, album: nil, artist: artist, album_artist: höreinheit.hörspielskriptautor, composer: höreinheit.autor, description: höreinheit.beschreibung, genre: "Krimi", date: date, track: nil, chapters: chapters)
+	}
+	
+	/// Create the FFmetadata for a generic collection item with `Self.init(withBasicTagsFrom:)` and using the specified `titlePrefix` (e.g. "Die drei ???") and `nummerFormat` (e.g. "Nr. %03d") to form a title.
+	static func create(forCollectionItem höreinheit: Höreinheit, titlePrefix: String, nummerFormat: String?) -> (base: Self, teile: [Self]?) {
+		// Form title
+		let nummerString: String? = {
+			guard let folge = höreinheit as? Folge, folge.nummer >= 0 else {
+				return nil
+			}
+			guard let nummerFormat = nummerFormat else {
+				return nil
+			}
+			return String(format: nummerFormat, folge.nummer)
+		}()
+		let titleComponents = [titlePrefix, nummerString, "–", höreinheit.titel]
+		let title = titleComponents.compactMap { $0 }.joined(separator: " ")  // e.g. "Die drei ??? Nr. XXX – Titel"
+		
+		// FFmetadata of base
+		var ffmetadata = Self(withBasicTagsFrom: höreinheit)
+		ffmetadata.title = title
+		ffmetadata.album = title
+		
+		// FFmetadata of teile
+		var ffmetadataTeile: [Self]?
+		if let teile = höreinheit.teile, !teile.isEmpty {
+			ffmetadataTeile = []
+			let maxTeilNummer = teile.map { $0.teilNummer }.max()!
+			for teil in teile {
+				var ffmetadata = Self(withBasicTagsFrom: teil)
+				ffmetadata.album = title
+				ffmetadata.track = (number: teil.teilNummer, total: maxTeilNummer)
+			}
+		}
+		
+		return (base: ffmetadata, teile: ffmetadataTeile)
+	}
+	
+	/// Create the FFmetadata for a collection item of type `type` with `Self.init(withBasicTagsFrom:)` and using the type's specific `titlePrefix` (e.g. "Die drei ???") and `nummerFormat` (e.g. "Nr. %03d") to form a title.
+	static func create(forCollectionItem höreinheit: Höreinheit, type: CollectionType) -> (base: Self, teile: [Self]?) {
+		create(forCollectionItem: höreinheit, titlePrefix: type.titlePrefix, nummerFormat: type.nummerFormat)
 	}
 }
