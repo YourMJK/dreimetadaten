@@ -61,7 +61,7 @@ class MetadataExporter {
 			guard let collection = collectionPair.collection else { continue }
 			let collectionType = collectionPair.type
 			
-			let collectionURL = baseURL.appendingPathComponent(collectionType.name, isDirectory: true)
+			let collectionURL = baseURL.appendingPathComponent(collectionType.fileName, isDirectory: true)
 			guard Self.createDirectoryIfNeccessary(at: collectionURL) else {
 				exit(1)
 			}

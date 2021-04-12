@@ -20,7 +20,14 @@ enum CollectionType: String {
 			case .serie: return "Serie"
 			case .spezial: return "Spezial"
 			case .kurzgeschichten: return "Kurzgeschichten"
+			case .die_dr3i: return "DiE DR3i"
+		}
+	}
+	
+	var fileName: String {
+		switch self {
 			case .die_dr3i: return "DiE_DR3i"
+			default: return name
 		}
 	}
 	
@@ -28,7 +35,7 @@ enum CollectionType: String {
 		let base = "Die drei ???"
 		switch self {
 			case .serie: return base
-			case .die_dr3i: return "DiE_DR3i"
+			case .die_dr3i: return name
 			default: return "\(base) \(name)"
 		}
 	}
