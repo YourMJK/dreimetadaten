@@ -12,6 +12,7 @@
 		181F61BC251D247E005F7433 /* Metadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181F61BB251D247E005F7433 /* Metadata.swift */; };
 		181F61BE251D264F005F7433 /* MetadataExporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181F61BD251D264F005F7433 /* MetadataExporter.swift */; };
 		18D7E453261D073300181926 /* FFmetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D7E452261D073300181926 /* FFmetadata.swift */; };
+		18D7E4562624E7C100181926 /* CollectionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D7E4552624E7C100181926 /* CollectionType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,7 @@
 		181F61BD251D264F005F7433 /* MetadataExporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetadataExporter.swift; sourceTree = "<group>"; };
 		1855D9FC251EE6B400E37B8E /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 		18D7E452261D073300181926 /* FFmetadata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FFmetadata.swift; sourceTree = "<group>"; };
+		18D7E4552624E7C100181926 /* CollectionType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				181F61B2251D239B005F7433 /* main.swift */,
 				181F61BD251D264F005F7433 /* MetadataExporter.swift */,
 				18D7E452261D073300181926 /* FFmetadata.swift */,
+				18D7E4552624E7C100181926 /* CollectionType.swift */,
 				181F61BB251D247E005F7433 /* Metadata.swift */,
 				1855D9FC251EE6B400E37B8E /* Config.xcconfig */,
 			);
@@ -139,6 +142,7 @@
 				181F61BA251D245F005F7433 /* CommandLineUtils.swift in Sources */,
 				18D7E453261D073300181926 /* FFmetadata.swift in Sources */,
 				181F61BE251D264F005F7433 /* MetadataExporter.swift in Sources */,
+				18D7E4562624E7C100181926 /* CollectionType.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
