@@ -167,6 +167,7 @@ extension FFmetadata {
 				var ffmetadata = Self(withBasicTagsFrom: teil)
 				ffmetadata.album = title
 				ffmetadata.track = (number: teil.teilNummer, total: maxTeilNummer)
+				ffmetadataTeile!.append(ffmetadata)
 			}
 		}
 		
