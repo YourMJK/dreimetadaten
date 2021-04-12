@@ -10,16 +10,16 @@ import Foundation
 
 
 struct FFmetadata {
-	let title: String?
-	let album: String?
-	let artist: String?
-	let album_artist: String?
-	let composer: String?
-	let description: String?
-	let genre: String?
-	let date: DateComponents?
-	let track: (number: UInt, total: UInt?)?
-	let chapters: [Chapter]?
+	var title: String?
+	var album: String?
+	var artist: String?
+	var album_artist: String?
+	var composer: String?
+	var description: String?
+	var genre: String?
+	var date: DateComponents?
+	var track: (number: UInt, total: UInt?)?
+	var chapters: [Chapter]?
 }
 
 
