@@ -59,9 +59,10 @@ class MetadataExporter {
 		
 		for collectionPair in collectionPairs {
 			guard let collection = collectionPair.collection else { continue }
+			let collectionType = collectionPair.type
 			
-			let collectionURL = baseURL.appendingPathComponent(collectionPair.type.name, isDirectory: true)
-			guard createDirectoryIfNeccessary(at: collectionURL) else {
+			let collectionURL = baseURL.appendingPathComponent(collectionType.name, isDirectory: true)
+			guard Self.createDirectoryIfNeccessary(at: collectionURL) else {
 				exit(1)
 			}
 			
@@ -122,7 +123,7 @@ class MetadataExporter {
 				// Export metadata of höreinheit
 				do {
 					switch outputType {
-						case .webDir: try exportForWebDir(höreinheit, to: url)
+						case .webDir: try WebDir.export(höreinheit, type: collectionType, to: url)
 					}
 				}
 				catch {
@@ -133,46 +134,9 @@ class MetadataExporter {
 		}
 	}
 	
-	func exportForWebDir(_ höreinheit: Höreinheit, to baseDirectory: URL) throws {
-		stdout("> \(baseDirectory.path)")
-		guard createDirectoryIfNeccessary(at: baseDirectory) else {
-			return
-		}
-		
-		func writeFile(filename: String, content: String) throws {
-			let fileURL = baseDirectory.appendingPathComponent(filename)
-			try content.write(to: fileURL, atomically: true, encoding: .utf8)
-		}
-		
-		// Create metadata.json file
-		let jsonString = try Metadata.createJSONString(of: höreinheit)
-		try writeFile(filename: "metadata.json", content: jsonString)
-		
-		// Create *.url files
-		func urlFileContent(name: String, url: String) -> String {
-			return "[\(name)]\nURL=\(url)\n"
-		}
-		if let links = höreinheit.links {
-			if let itunesURL = links.cover_itunes {
-				try writeFile(filename: "cover_itunes.url", content: urlFileContent(name: "iTunes-URL", url: itunesURL))
-			}
-			if let kosmosURL = links.cover_kosmos {
-				try writeFile(filename: "cover_kosmos.url", content: urlFileContent(name: "Kosmos-URL", url: kosmosURL))
-			}
-		}
-		
-		// Handle teile
-		if let teile = höreinheit.teile {
-			for teil in teile {
-				let teilURL = baseDirectory.appendingPathComponent(String(teil.teilNummer))
-				try exportForWebDir(teil, to: teilURL)
-			}
-		}
-	}
 	
 	
-	
-	func createDirectoryIfNeccessary(at url: URL) -> Bool {
+	static func createDirectoryIfNeccessary(at url: URL) -> Bool {
 		do {
 			try FileManager.default.createDirectory(atPath: url.path, withIntermediateDirectories: true, attributes: nil)
 		}
