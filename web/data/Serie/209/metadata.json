@@ -1,0 +1,106 @@
+{
+  "nummer" : 209,
+  "titel" : "Kreaturen der Nacht",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Hexe, Gruselclown, Werwolf und ein todbringender Sensenmann – so verkleidet sitzt eine bekannte Hip-Hop-Band bei einem Nachwuchs-Musikfestival in Rocky Beach in der Jury. Kann es Zufall sein, dass gleichzeitig solch dunkle Gestalten ihr kriminelles Unwesen im schönen Küstenort treiben? Umzingelt von Kreaturen der Nacht stolpern die drei ??? in ihren nächsten Fall.",
+  "veröffentlichungsdatum" : "2021-03-12",
+  "kapitel" : [
+    {
+      "titel" : "FMTM",
+      "start" : 0,
+      "end" : 480307
+    },
+    {
+      "titel" : "Dem Tod auf der Spur",
+      "start" : 480307,
+      "end" : 1091640
+    },
+    {
+      "titel" : "Backstage",
+      "start" : 1091640,
+      "end" : 1526053
+    },
+    {
+      "titel" : "TB 34F-42",
+      "start" : 1526053,
+      "end" : 1766573
+    },
+    {
+      "titel" : "Überfall",
+      "start" : 1766573,
+      "end" : 2392480
+    },
+    {
+      "titel" : "Geisterstunde",
+      "start" : 2392480,
+      "end" : 2991520
+    },
+    {
+      "titel" : "Kreaturen der Nacht",
+      "start" : 2991520,
+      "end" : 3596773
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Oisin Murphy",
+      "Douglas Welbat"
+    ],
+    [
+      "Lelia Murphy",
+      "Katja Brügger"
+    ],
+    [
+      "Virgil",
+      "Steffen Groth"
+    ],
+    [
+      "Wanda Waffle",
+      "Anja Topf"
+    ],
+    [
+      "Smiddie",
+      "Ivo Möller"
+    ],
+    [
+      "Clown",
+      "Andreas Birnbaum"
+    ],
+    [
+      "Zamora",
+      "Rainer Schmitt"
+    ],
+    [
+      "Easly",
+      "Paul Michaeli"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/209/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/209/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/209/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/209/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/3b/d2/67/3bd26794-2d8a-a4cd-4256-81ae63dfce0f/886448636892.jpg/3000x0w.png"
+  }
+}

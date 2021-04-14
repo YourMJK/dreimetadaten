@@ -1,0 +1,121 @@
+X Lossless Decoder version 20210101 (153.1)
+
+XLD extraction logfile from 2021-01-22 02:53:53 +0100
+
+ / Die drei ??? - Folge 208 - Kelch des Schicksals
+
+Used drive : TSSTcorp BDDVDW SE-506BB (revision TS00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 40
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 11:41:45 |         0    |    52619   
+        2  | 11:41:45 | 11:44:13 |     52620    |   105432   
+        3  | 23:25:58 | 10:15:07 |    105433    |   151564   
+        4  | 33:40:65 | 07:42:27 |    151565    |   186241   
+        5  | 41:23:17 | 11:31:34 |    186242    |   238100   
+        6  | 52:54:51 | 17:55:53 |    238101    |   318778   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : ~/Projects/Audiobooks/_temp/Die drei ??? - Folge 208 - Kelch des Schicksals.m4a
+    CRC32 hash               : 9EC5F971
+    CRC32 hash (skip zero)   : 173EA21B
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 214
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 0AF55F87
+    CRC32 hash (skip zero)   : 3BE67818
+    AccurateRip v1 signature : FF2E970F
+    AccurateRip v2 signature : 69016C3E
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : DE2998B3
+    CRC32 hash (skip zero)   : 53CB41CE
+    AccurateRip v1 signature : B6472ABF
+    AccurateRip v2 signature : BF8257B5
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 198
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 26D0868B
+    CRC32 hash (skip zero)   : 9EDE3532
+    AccurateRip v1 signature : 70FC3CF6
+    AccurateRip v2 signature : AE873EA0
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 16
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : B13120BD
+    CRC32 hash (skip zero)   : 58408D38
+    AccurateRip v1 signature : 3DEA3742
+    AccurateRip v2 signature : 07DCFFF0
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : BE6C5CAE
+    CRC32 hash (skip zero)   : BB476BAC
+    AccurateRip v1 signature : C07D32BC
+    AccurateRip v2 signature : 0E085AA1
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : CA80D5EE
+    CRC32 hash (skip zero)   : 121AD44E
+    AccurateRip v1 signature : 093066BB
+    AccurateRip v2 signature : B57D8144
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
