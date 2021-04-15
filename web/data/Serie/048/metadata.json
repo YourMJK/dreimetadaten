@@ -98,6 +98,7 @@
     ]
   ],
   "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/048/metadata.json"
+    "json" : "http://dreimetadaten.de/data/Serie/048/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/048/ffmetadata.txt"
   }
 }

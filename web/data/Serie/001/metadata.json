@@ -99,6 +99,7 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/001/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/001/ffmetadata.txt",
     "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music60/v4/b2/6a/0a/b26a0a70-39c9-b7f1-8598-728b054c373c/source/3000x0w.png"
   }
 }

@@ -122,6 +122,7 @@
     ]
   ],
   "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/043/metadata.json"
+    "json" : "http://dreimetadaten.de/data/Serie/043/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/043/ffmetadata.txt"
   }
 }
