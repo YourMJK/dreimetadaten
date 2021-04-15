@@ -192,6 +192,9 @@ extension Metadata {
 			}
 			jsonString = jsonString.replacingOccurrences(of: "\\/", with: "/")
 			
+			// Normalize Unicode characters into NFC, e.g. replacing "\u{0061}\u{0308}" (LATIN SMALL LETTER A + COMBINING DIAERESIS) with "\u{00E4}" (LATIN SMALL LETTER A WITH DIAERESIS)
+			jsonString = jsonString.precomposedStringWithCanonicalMapping
+			
 			return jsonString
 		}
 		catch {
