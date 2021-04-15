@@ -132,6 +132,38 @@ class MetadataCollector {
 			metadata.serie[i].autor = autor
 		}
 		*/
+		
+		/*
+		// Add ffmetadata link for items with enough metadata to generate a full ffmetadata file
+		let mandatoryStrings: [KeyPath<Folge, String?>] = [\.titel, \.autor, \.hörspielskriptautor, \.beschreibung, \.veröffentlichungsdatum, \.veröffentlichungsdatum]
+		guard let folgen = metadata.serie else {
+			return
+		}
+		var folgenNoFFmetadata = folgen.filter { $0.links?.ffmetadata == nil }	
+		let partitionIndex = folgenNoFFmetadata.partition { folge in
+			for mandatoryString in mandatoryStrings {
+				guard let string = folge[keyPath: mandatoryString], !string.isEmpty else {
+					return false
+				}
+			}
+			guard let kapitel = folge.kapitel, !kapitel.isEmpty else {
+				return false
+			}
+			guard let sprecher = folge.sprecher, let erzähler = sprecher.first, erzähler.count == 2 else {
+				return false
+			}
+			return true
+		}
+		let folgenFFmetadataRejectees = folgenNoFFmetadata[..<partitionIndex]
+		let folgenFFmetadataCandidates = folgenNoFFmetadata[partitionIndex...]
+		stderr("FFmetadata link: Rejected \(folgenFFmetadataRejectees.count): \(folgenFFmetadataRejectees.map { $0.nummer }.sorted())")
+		stderr("FFmetadata link: Accepted \(folgenFFmetadataCandidates.count): \(folgenFFmetadataCandidates.map { $0.nummer }.sorted())")
+		folgenFFmetadataCandidates.forEach { folge in
+			let nummerString = String(format: "%03d", folge.nummer)
+			folge.links = folge.links ?? Links()
+			folge.links!.ffmetadata = "http://dreimetadaten.de/data/Serie/\(nummerString)/ffmetadata.txt"
+		}
+		*/
 	}
 	
 	
