@@ -111,6 +111,8 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/023/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/023/ffmetadata.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/023/ffmetadata.txt",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/df/18/fb/df18fbf7-570e-f292-b030-672417ddc310/dj.umyijotv.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/bb/ba/9d/0743213882321.jpg"
   }
 }

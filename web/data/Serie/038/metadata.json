@@ -91,6 +91,8 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/038/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/038/ffmetadata.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/038/ffmetadata.txt",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music18/v4/9a/f5/34/9af53409-8578-72de-96f9-e054c08bfaff/dj.lzfjpenp.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/05/16/0f/0743213883823.jpg"
   }
 }

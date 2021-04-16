@@ -99,6 +99,8 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/041/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/041/ffmetadata.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/041/ffmetadata.txt",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music30/v4/11/fc/1b/11fc1b26-abc0-2796-8621-7ad7bf9b34f9/dj.qdhfopae.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/5b/38/6b/0743213884127.jpg"
   }
 }

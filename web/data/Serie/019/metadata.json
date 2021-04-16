@@ -103,6 +103,8 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/019/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/019/ffmetadata.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/019/ffmetadata.txt",
+    "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/d7/b1/6c/d7b16ca7-8cc1-559d-e84d-71b9a4660b95/dj.bdovlutz.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c3/80/88/0743213881928.jpg"
   }
 }

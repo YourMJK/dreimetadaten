@@ -123,6 +123,8 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/043/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/043/ffmetadata.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/043/ffmetadata.txt",
+    "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music30/v4/82/92/44/829244e7-f91e-8a89-5eaa-db5b733d725a/dj.laocykbv.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/54/15/b1/0743213884325.jpg"
   }
 }

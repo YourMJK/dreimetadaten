@@ -76,6 +76,7 @@
     }
   ],
   "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/029/metadata.json"
+    "json" : "http://dreimetadaten.de/data/Serie/029/metadata.json",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/9f/12/d1/0743213882925.jpg"
   }
 }
