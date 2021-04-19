@@ -100,6 +100,7 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/044/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/044/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/044/cover.png",
     "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/9e/ee/36/9eee3645-64ac-486e-5216-e39c990607ca/dj.wmxrcolx.jpg/3000x0w.png",
     "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/21/f5/4c/0743213884424.jpg"
   }

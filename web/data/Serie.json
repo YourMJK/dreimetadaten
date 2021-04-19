@@ -102,6 +102,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/001/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/001/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/001/cover.png",
         "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music41/v4/c5/29/49/c52949bf-c8b0-9850-7cbf-4877b705de41/dj.dykbrdqw.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f1/48/5f/0743213880129.jpg"
       }
@@ -216,6 +217,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/002/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/002/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/002/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music62/v4/87/1c/7f/871c7f1c-fdf1-bed9-bf1b-eb7ab73ec448/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/36/60/e9/0743213880228.jpg"
       }
@@ -326,6 +328,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/003/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/003/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/003/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music71/v4/a7/d8/54/a7d85469-a416-93a3-93ba-d8e82be2f8ae/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f9/72/9a/0743213880327.jpg"
       }
@@ -448,6 +451,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/004/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/004/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/004/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music71/v4/21/ee/57/21ee57b0-0949-8674-8b3d-c2c512c5fbc8/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/26/17/20/0743213880426.jpg"
       }
@@ -678,6 +682,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/006/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/006/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/006/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music71/v4/a7/e7/cb/a7e7cbc3-0ce0-34db-a310-d7b82546f2b0/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/aa/ae/38/0743213880624.jpg"
       }
@@ -776,6 +781,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/007/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/007/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/007/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music62/v4/c0/7a/ba/c07aba56-7363-71d6-72ba-38d2a968e379/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/ff/b4/cc/0743213880723.jpg"
       }
@@ -894,6 +900,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/008/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/008/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/008/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music49/v4/f9/34/15/f9341537-61df-3d5f-6de2-f162b2619519/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/1b/d3/1c/0743213880822.jpg"
       }
@@ -1008,6 +1015,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/009/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/009/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/009/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music49/v4/91/f5/0f/91f50fd0-3117-bab6-0421-79aa8a36fdfd/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a9/6e/17/0743213880921.jpg"
       }
@@ -1122,6 +1130,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/010/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/010/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/010/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music69/v4/be/90/52/be905214-b1e1-151f-560d-3b3065df8440/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/bb/76/44/0743213881027.jpg"
       }
@@ -1340,6 +1349,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/012/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/012/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/012/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music41/v4/79/3c/bb/793cbb57-e901-d11c-6d90-671e09e02f3b/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c9/4d/9d/0743213881225.jpg"
       }
@@ -1458,6 +1468,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/013/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/013/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/013/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music71/v4/35/d3/83/35d383d4-7cf8-4fc9-4a06-2197ae82f46b/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/34/9e/1c/0743213881324.jpg"
       }
@@ -1572,6 +1583,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/014/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/014/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/014/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music41/v4/05/0b/e1/050be1b1-f45d-df0a-eadd-3209014ed635/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/74/55/98/0743213881423.jpg"
       }
@@ -1690,6 +1702,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/015/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/015/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/015/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music62/v4/9f/c3/e3/9fc3e3cc-6b71-2f31-ccda-8d0563427859/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c0/3d/51/0743213881522.jpg"
       }
@@ -1796,6 +1809,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/016/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/016/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/016/cover.png",
         "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music22/v4/1d/6e/77/1d6e77a2-74de-ec6f-f1a7-00e72c4c5587/source/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/42/6a/06/0743213881621.jpg"
       }
@@ -1906,6 +1920,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/017/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/017/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/017/cover.png",
         "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music41/v4/d1/3e/ea/d13eea9c-fdd9-538d-5c4a-1368a17680a3/dj.wekxqyen.jpg/3000x0w.png"
       }
     },
@@ -2023,6 +2038,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/018/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/018/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/018/cover.png",
         "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/62/78/35/627835d5-3aa3-5088-b16b-0a786e4d79b6/dj.jmpvqtql.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d9/e0/b4/0743213881829.jpg"
       }
@@ -2133,6 +2149,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/019/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/019/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/019/cover.png",
         "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/d7/b1/6c/d7b16ca7-8cc1-559d-e84d-71b9a4660b95/dj.bdovlutz.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c3/80/88/0743213881928.jpg"
       }
@@ -2247,6 +2264,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/020/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/020/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/020/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/97/a9/fd/97a9fd9b-c43f-fecd-9923-17ff6d61dc21/dj.yvzrnqck.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/dd/c7/0a/0743213882024.jpg"
       }
@@ -2365,6 +2383,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/021/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/021/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/021/cover.png",
         "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/9d/86/b9/9d86b973-3676-19d6-ff69-8bb2fa4f9b11/dj.bpyrlwnl.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/bf/b9/7c/0743213882123.jpg"
       }
@@ -2487,6 +2506,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/022/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/022/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/022/cover.png",
         "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music62/v4/f1/c6/2d/f1c62d66-8c84-ef21-9198-f69ed9b2bc56/dj.enfgfmrg.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/2b/74/1b/0743213882222.jpg"
       }
@@ -2605,6 +2625,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/023/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/023/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/023/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/df/18/fb/df18fbf7-570e-f292-b030-672417ddc310/dj.umyijotv.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/bb/ba/9d/0743213882321.jpg"
       }
@@ -2727,6 +2748,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/024/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/024/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/024/cover.png",
         "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music22/v4/7b/f2/4b/7bf24b68-9d61-afb7-3daa-2fe45ef1b80c/dj.ntajhbfl.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/1a/ca/da/0743213882420.jpg"
       }
@@ -2845,6 +2867,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/025/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/025/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/025/cover.png",
         "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ea/c6/89/eac689fb-2155-d7ca-193e-563767b9b9fb/dj.zycvwczj.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/76/43/d3/0743213882529.jpg"
       }
@@ -2951,6 +2974,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/026/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/026/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/026/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music22/v4/4e/9d/e5/4e9de55b-b978-885d-f540-50218a30de04/dj.lhwrfyuw.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d6/3c/62/0743213882628.jpg"
       }
@@ -3069,6 +3093,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/027/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/027/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/027/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/16/6e/03/166e0326-6d0c-5f65-aeef-54f5a8220c2f/dj.xeozdrwb.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/5f/96/aa/0743213882727.jpg"
       }
@@ -3187,6 +3212,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/028/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/028/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/028/cover.png",
         "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/55/55/47/5555475d-a169-d46f-feba-e0db8f668bde/dj.lvueeedt.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/6c/8e/7c/0743213882826.jpg"
       }
@@ -3270,6 +3296,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/029/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Serie/029/cover.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/9f/12/d1/0743213882925.jpg"
       }
     },
@@ -3383,6 +3410,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/030/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/030/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/030/cover.png",
         "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music111/v4/02/24/df/0224dffc-2749-370f-c1f2-85a2733b40f9/884977341966.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/bc/b9/c6/0743213883021.jpg"
       }
@@ -3501,6 +3529,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/031/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/031/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/031/cover.png",
         "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/8f/22/25/8f222597-951b-a16b-e434-76fc79010987/dj.jjmuhqdw.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d7/fb/50/0743213883120.jpg"
       }
@@ -3615,6 +3644,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/032/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/032/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/032/cover.png",
         "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music60/v4/d9/54/cb/d954cb7c-ec0e-f207-f7fd-be4618538c11/dj.pohefdhy.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/56/c8/c7/0743213883229.jpg"
       }
@@ -3729,6 +3759,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/033/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/033/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/033/cover.png",
         "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music18/v4/67/ac/eb/67aceb52-b082-b6c8-5623-577418108448/dj.iiphyrhg.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/52/b9/d3/0743213883328.jpg"
       }
@@ -3827,6 +3858,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/034/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/034/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/034/cover.png",
         "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/b6/6c/d7/b66cd71b-2dcc-7b3e-63b4-05a3065d2dcb/dj.czycbjgx.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/82/6a/64/0743213883427.jpg"
       }
@@ -3953,6 +3985,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/035/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/035/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/035/cover.png",
         "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music60/v4/77/b9/2b/77b92b5d-a791-bdbc-68cf-2ebbf0482247/dj.nftybrhf.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/77/45/4e/0743213883526.jpg"
       }
@@ -4051,6 +4084,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/036/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/036/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/036/cover.png",
         "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/cb/64/32/cb6432fc-9422-409b-3a10-958cc1de1397/dj.lfsqthdn.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/e5/a8/e4/0743213883625.jpg"
       }
@@ -4157,6 +4191,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/037/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/037/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/037/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music18/v4/74/27/1d/74271d29-ff61-0b70-61ca-8bd245969ca9/dj.gdgejfto.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d3/d7/8a/0743213883724.jpg"
       }
@@ -4255,6 +4290,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/038/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/038/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/038/cover.png",
         "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music18/v4/9a/f5/34/9af53409-8578-72de-96f9-e054c08bfaff/dj.lzfjpenp.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/05/16/0f/0743213883823.jpg"
       }
@@ -4341,6 +4377,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/039/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/039/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/039/cover.png",
         "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/38/e3/36/38e336c2-d53f-9cc1-8444-9a7c1ba83389/dj.dflcpkjb.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/9c/f1/eb/0743213883922.jpg"
       }
@@ -4467,6 +4504,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/040/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/040/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/040/cover.png",
         "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e5/57/64/e557644d-59bb-2317-4b5b-f38f9d454e67/dj.nxjovmos.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d2/ef/31/0743213884028.jpg"
       }
@@ -4573,6 +4611,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/041/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/041/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/041/cover.png",
         "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music30/v4/11/fc/1b/11fc1b26-abc0-2796-8621-7ad7bf9b34f9/dj.qdhfopae.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/5b/38/6b/0743213884127.jpg"
       }
@@ -4695,6 +4734,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/042/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/042/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/042/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music60/v4/5f/eb/e1/5febe1e3-e76c-d86c-f068-004cbbc489e8/dj.pensyyhp.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f8/f9/86/0743213884226.jpg"
       }
@@ -4825,6 +4865,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/043/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/043/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/043/cover.png",
         "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music30/v4/82/92/44/829244e7-f91e-8a89-5eaa-db5b733d725a/dj.laocykbv.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/54/15/b1/0743213884325.jpg"
       }
@@ -4931,6 +4972,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/044/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/044/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/044/cover.png",
         "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/9e/ee/36/9eee3645-64ac-486e-5216-e39c990607ca/dj.wmxrcolx.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/21/f5/4c/0743213884424.jpg"
       }
@@ -5041,6 +5083,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/045/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/045/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/045/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music18/v4/8b/77/b2/8b77b255-ac8d-67b5-bfaa-055d701fffba/dj.qxbpfean.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/ba/75/9c/0743213884523.jpg"
       }
@@ -5155,6 +5198,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/046/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/046/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/046/cover.png",
         "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music60/v4/73/17/2d/73172d46-aaab-bbd7-6aef-47bd522c585b/dj.vqizxymn.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c4/fd/5c/0743213884622.jpg"
       }
@@ -5261,6 +5305,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/047/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/047/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/047/cover.png",
         "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music60/v4/f6/b4/25/f6b42563-dcd7-cb6b-fdc4-8b7240837753/dj.lepngfbv.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/bf/96/5f/0743213884721.jpg"
       }
@@ -5367,6 +5412,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/048/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/048/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/048/cover.png",
         "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music20/v4/5f/75/00/5f75002d-f227-8c1c-7b27-a70b2d232e7f/dj.fvsewypv.jpg/3000x0w.png",
         "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/4f/f1/e9/0743213884820.jpg"
       }

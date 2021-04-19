@@ -108,6 +108,7 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/032/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/032/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/032/cover.png",
     "cover_itunes" : "https://is5-ssl.mzstatic.com/image/thumb/Music60/v4/d9/54/cb/d954cb7c-ec0e-f207-f7fd-be4618538c11/dj.pohefdhy.jpg/3000x0w.png",
     "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/56/c8/c7/0743213883229.jpg"
   }

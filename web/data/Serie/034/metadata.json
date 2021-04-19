@@ -92,6 +92,7 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/034/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/034/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/034/cover.png",
     "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/b6/6c/d7/b66cd71b-2dcc-7b3e-63b4-05a3065d2dcb/dj.czycbjgx.jpg/3000x0w.png",
     "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/82/6a/64/0743213883427.jpg"
   }

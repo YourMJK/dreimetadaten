@@ -100,6 +100,7 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/001/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/001/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/001/cover.png",
     "cover_itunes" : "https://is2-ssl.mzstatic.com/image/thumb/Music41/v4/c5/29/49/c52949bf-c8b0-9850-7cbf-4877b705de41/dj.dykbrdqw.jpg/3000x0w.png",
     "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f1/48/5f/0743213880129.jpg"
   }

@@ -104,6 +104,7 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/045/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/045/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/045/cover.png",
     "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music18/v4/8b/77/b2/8b77b255-ac8d-67b5-bfaa-055d701fffba/dj.qxbpfean.jpg/3000x0w.png",
     "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/ba/75/9c/0743213884523.jpg"
   }

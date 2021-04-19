@@ -112,6 +112,7 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/008/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/008/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/008/cover.png",
     "cover_itunes" : "http://is5.mzstatic.com/image/thumb/Music49/v4/f9/34/15/f9341537-61df-3d5f-6de2-f162b2619519/source/3000x0w.png",
     "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/1b/d3/1c/0743213880822.jpg"
   }
