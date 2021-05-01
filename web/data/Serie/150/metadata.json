@@ -618,6 +618,7 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/150/metadata.json",
     "cover" : "http://dreimetadaten.de/data/Serie/150/cover.png",
-    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music71/v4/0c/79/92/0c79925a-65d7-d0ae-9710-373f94f991ce/886445756449.jpg/3000x0w.png"
+    "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music71/v4/0c/79/92/0c79925a-65d7-d0ae-9710-373f94f991ce/886445756449.jpg/3000x0w.png",
+    "cover_kosmos" : "https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f1/05/71/0886978015020.jpg"
   }
 }
