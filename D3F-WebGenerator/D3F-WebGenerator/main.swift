@@ -19,7 +19,7 @@ Example: \(ProgramName) -c master.json -o serie -i template.html
 
 if (CommandLine.arguments.count > 1) {
 	var masterFile: URL?
-	var collectionType: WebGenerator.CollectionType?
+	var collectionType: CollectionType?
 	var templateFile: URL?
 	
 	// Parse arguments
@@ -48,7 +48,7 @@ if (CommandLine.arguments.count > 1) {
 				masterFile = URL(fileURLWithPath: getNext(description: "file path"))
 			
 			case "-o":
-				collectionType = parseNextStringEnum(description: "collection type", contructor: WebGenerator.CollectionType.init(rawValue:))
+				collectionType = parseNextStringEnum(description: "collection type", contructor: CollectionType.init(rawValue:))
 				
 			case "-i":
 				templateFile = URL(fileURLWithPath: getNext(description: "template file"))

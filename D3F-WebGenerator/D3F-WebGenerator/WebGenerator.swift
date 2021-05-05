@@ -11,14 +11,6 @@ import Foundation
 
 class WebGenerator {
 	
-	enum CollectionType: String {
-		case serie = "serie"
-		case spezial = "spezial"
-		case kurzgeschichten = "kurzgeschichten"
-		case die_dr3i = "die_dr3i"
-	}
-	
-	
 	let metadata: Metadata
 	var content: String
 	

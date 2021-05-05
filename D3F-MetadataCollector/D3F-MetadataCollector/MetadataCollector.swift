@@ -17,11 +17,6 @@ class MetadataCollector {
 		case dataDir = "dataDir"
 		case mbDiscIDList = "mbDiscIDList"
 	}
-	enum CollectionType: String {
-		case serie = "serie"
-		case spezial = "spezial"
-		case die_dr3i = "die_dr3i"
-	}
 	enum OutputType: String {
 		case json = "json"
 		case csv = "csv"
@@ -182,6 +177,8 @@ class MetadataCollector {
 				createEmptyIfNil(&self.metadata.serie)
 			case .spezial:
 				createEmptyIfNil(&self.metadata.spezial)
+			case .kurzgeschichten:
+				createEmptyIfNil(&self.metadata.kurzgeschichten)
 			case .die_dr3i:
 				createEmptyIfNil(&self.metadata.die_dr3i)
 		}
@@ -371,6 +368,7 @@ class MetadataCollector {
 			switch collectionType {
 				case .serie: return findOrCreateFolge(nummer: nummer!, in: &metadata.serie!)
 				case .spezial: return findOrCreateHöreinheit(titel: folgenTitel, in: &metadata.spezial!)
+				case .kurzgeschichten: return findOrCreateHöreinheit(titel: folgenTitel, in: &metadata.kurzgeschichten!)
 				case .die_dr3i: return findOrCreateFolge(nummer: nummer!, in: &metadata.die_dr3i!)
 				//default: exit(error: "Unsupported collection type for this method")
 			}
@@ -552,6 +550,7 @@ class MetadataCollector {
 			switch collectionType {
 				case .serie: return findOrCreateFolge(nummer: nummer!, in: &metadata.serie!)
 				case .spezial: return findOrCreateHöreinheit(titel: titelSpezial, in: &metadata.spezial!)
+				case .kurzgeschichten: return findOrCreateHöreinheit(titel: titelSpezial, in: &metadata.kurzgeschichten!)
 				case .die_dr3i: return findOrCreateFolge(nummer: nummer!, in: &metadata.die_dr3i!)
 				//default: exit(error: "Unsupported collection type for this method")
 			}

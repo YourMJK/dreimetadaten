@@ -10,9 +10,9 @@ import Foundation
 
 
 let usage = """
-Usage:   \(ProgramName) [-c <current JSON>] [--overwrite] -o (json | csv) [-i (csv | ffmetadata | dataDir | mbDiscIDList) (serie | spezial | die_dr3i) <input files ...>]
+Usage:   \(ProgramName) [-c <current JSON>] [--overwrite] -o (json | csv) [-i (csv | ffmetadata | dataDir | mbDiscIDList) (serie | spezial | kurzgeschichten | die_dr3i) <input files ...>]
 
-Example: \(ProgramName) -c master.json -o json -i csv daten1.csv daten2.csv
+Example: \(ProgramName) -c master.json -o json -i csv serie daten1.csv daten2.csv
 """
 
 
@@ -22,7 +22,7 @@ if (CommandLine.arguments.count > 1) {
 	var overwrite: Bool = false
 	var outputType: MetadataCollector.OutputType?
 	var inputType: MetadataCollector.InputType?
-	var collectionType: MetadataCollector.CollectionType?
+	var collectionType: CollectionType?
 	var inputFiles = [URL]()
 	
 	// Parse arguments
@@ -58,7 +58,7 @@ if (CommandLine.arguments.count > 1) {
 			
 			case "-i":
 				inputType = parseNextStringEnum(description: "input type", contructor: MetadataCollector.InputType.init(rawValue:))
-				collectionType = parseNextStringEnum(description: "collection type", contructor: MetadataCollector.CollectionType.init(rawValue:))
+				collectionType = parseNextStringEnum(description: "collection type", contructor: CollectionType.init(rawValue:))
 				
 				inputFiles = arguments.map { URL(fileURLWithPath: $0) }
 				arguments.removeAll()
