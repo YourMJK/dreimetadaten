@@ -11,13 +11,13 @@ import Foundation
 
 class MetadataCollector {
 	
-	enum InputType: String {
+	enum InputType: String, CaseIterable {
 		case csv = "csv"
 		case ffmetadata = "ffmetadata"
 		case dataDir = "dataDir"
 		case mbDiscIDList = "mbDiscIDList"
 	}
-	enum OutputType: String {
+	enum OutputType: String, CaseIterable {
 		case json = "json"
 		case csv = "csv"
 	}

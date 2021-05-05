@@ -10,7 +10,7 @@ import Foundation
 
 
 let usage = """
-Usage:   \(ProgramName) -c <master JSON> -o (serie | spezial | kurzgeschichten | die_dr3i) -i <HTML template file>
+Usage:   \(ProgramName) -c <master JSON> -o (\(CollectionType.allCasesString)) -i <HTML template file>
 
 Example: \(ProgramName) -c master.json -o serie -i template.html
 """

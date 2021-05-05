@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1829DD3026433F330081ECFF /* CollectionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1829DD2F26433F330081ECFF /* CollectionType.swift */; };
+		1829DD36264341AD0081ECFF /* StringEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1829DD35264341AD0081ECFF /* StringEnum.swift */; };
 		18F078F7250EC55D006571DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F078F6250EC55D006571DA /* main.swift */; };
 		18F07906250EC821006571DA /* Metadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F07903250EC821006571DA /* Metadata.swift */; };
 		18F07907250EC821006571DA /* MetadataCollector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F07904250EC821006571DA /* MetadataCollector.swift */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		1829DD2F26433F330081ECFF /* CollectionType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionType.swift; sourceTree = "<group>"; };
+		1829DD35264341AD0081ECFF /* StringEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringEnum.swift; sourceTree = "<group>"; };
 		1855D9FB251EE63700E37B8E /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 		18F078F3250EC55D006571DA /* D3F-MetadataCollector */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "D3F-MetadataCollector"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F078F6250EC55D006571DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				18F07905250EC821006571DA /* CommandLineUtils.swift */,
 				18F078F6250EC55D006571DA /* main.swift */,
 				18F07904250EC821006571DA /* MetadataCollector.swift */,
+				1829DD35264341AD0081ECFF /* StringEnum.swift */,
 				1829DD2F26433F330081ECFF /* CollectionType.swift */,
 				18F07903250EC821006571DA /* Metadata.swift */,
 				1855D9FB251EE63700E37B8E /* Config.xcconfig */,
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18F07906250EC821006571DA /* Metadata.swift in Sources */,
+				1829DD36264341AD0081ECFF /* StringEnum.swift in Sources */,
 				18F07908250EC821006571DA /* CommandLineUtils.swift in Sources */,
 				18F078F7250EC55D006571DA /* main.swift in Sources */,
 				18F07907250EC821006571DA /* MetadataCollector.swift in Sources */,

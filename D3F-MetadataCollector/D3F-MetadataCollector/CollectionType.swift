@@ -9,7 +9,7 @@
 import Foundation
 
 
-enum CollectionType: String {
+enum CollectionType: String, CaseIterable {
 	case serie = "serie"
 	case spezial = "spezial"
 	case kurzgeschichten = "kurzgeschichten"
