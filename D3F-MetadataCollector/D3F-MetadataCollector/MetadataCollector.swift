@@ -159,6 +159,32 @@ class MetadataCollector {
 			folge.links!.ffmetadata = "http://dreimetadaten.de/data/Serie/\(nummerString)/ffmetadata.txt"
 		}
 		*/
+		
+		/*
+		func normalizeChapters(höreinheit: Höreinheit) {
+			defer {
+				höreinheit.teile?.forEach(normalizeChapters(höreinheit:))
+			}
+			guard let kapitel = höreinheit.kapitel, !kapitel.contains(where: { $0.start == nil }) else {
+				return
+			}
+			guard !kapitel.isEmpty else {
+				höreinheit.kapitel = nil
+				return
+			}
+			let base = kapitel.first!.start!
+			kapitel.forEach {
+				$0.start? -= base
+				$0.end? -= base
+			}
+			zip(kapitel.dropLast(), kapitel.dropFirst()).forEach { (current, next) in
+				current.end = next.start!
+			}
+		}
+		for collection in [metadata.serie, metadata.spezial, metadata.kurzgeschichten, metadata.die_dr3i] {
+			collection?.forEach(normalizeChapters(höreinheit:))
+		}
+		*/
 	}
 	
 	
