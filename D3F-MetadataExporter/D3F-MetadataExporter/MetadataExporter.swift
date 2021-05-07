@@ -50,16 +50,8 @@ class MetadataExporter {
 			exit(error: "No such directory \"\(baseURL.path)\"")
 		}
 		
-		let collectionPairs: [(collection: [Höreinheit]?, type: CollectionType)] = [
-			(metadata.serie, .serie),
-			(metadata.spezial, .spezial),
-			(metadata.kurzgeschichten, .kurzgeschichten),
-			(metadata.die_dr3i, .die_dr3i),
-		]
-		
-		for collectionPair in collectionPairs {
-			guard let collection = collectionPair.collection else { continue }
-			let collectionType = collectionPair.type
+		for collectionType in CollectionType.allCases {
+			guard let collection = metadata[keyPath: collectionType.metadataKeyPath] as? [Höreinheit] else { continue }
 			
 			let collectionURL = baseURL.appendingPathComponent(collectionType.fileName, isDirectory: true)
 			guard Self.createDirectoryIfNeccessary(at: collectionURL) else {

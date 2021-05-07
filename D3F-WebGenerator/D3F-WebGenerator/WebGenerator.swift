@@ -90,20 +90,15 @@ class WebGenerator {
 		}
 		
 		
-		let collection: [Höreinheit]? = {
-			switch collectionType {
-				case .serie: return metadata.serie?.reversed()
-				case .spezial: return metadata.spezial
-				case .kurzgeschichten: return metadata.kurzgeschichten
-				case .die_dr3i: return metadata.die_dr3i
-			}
-		}()
-		guard collection != nil else {
+		guard var collection = metadata[keyPath: collectionType.metadataKeyPath] as? [Höreinheit] else {
 			exit(error: "Given metadata file doesn't have any data for the requested collection type \"\(collectionType)\"")
+		}
+		if collectionType == .serie {
+			collection.reverse()
 		}
 		
 		let numberOfDigts: UInt = {
-			var number = collection!.count
+			var number = collection.count
 			var orderOfMagnitude: UInt = 0
 			while number != 0 {
 				orderOfMagnitude += 1
@@ -187,7 +182,7 @@ class WebGenerator {
 			endRow()
 		}
 		
-		for höreinheit in collection! {
+		for höreinheit in collection {
 			addRowFor(höreinheit: höreinheit)
 			höreinheit.teile?.forEach { addRowFor(höreinheit: $0) }
 		}
