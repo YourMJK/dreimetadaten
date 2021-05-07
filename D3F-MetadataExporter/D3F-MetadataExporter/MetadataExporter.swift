@@ -123,6 +123,27 @@ class MetadataExporter {
 				}
 				
 			}
+			
+			// Export metadata of collection as JSON
+			do {
+				var maskedMetadata = Metadata()
+				switch collectionType.metadataKeyPath {
+					case let keyPath as WritableKeyPath<Metadata, [Folge]?>:
+						maskedMetadata[keyPath: keyPath] = metadata[keyPath: keyPath]
+					case let keyPath as WritableKeyPath<Metadata, [Höreinheit]?>:
+						maskedMetadata[keyPath: keyPath] = metadata[keyPath: keyPath]
+					default:
+						fatalError("Unrecognized type for CollectionType.metadataKeyPath")
+				}
+				
+				let jsonURL = baseURL.appendingPathComponent("\(collectionType.fileName).json")
+				stdout("> \(jsonURL.path)")
+				let jsonString = try Metadata.createJSONString(of: maskedMetadata)
+				try jsonString.write(to: jsonURL, atomically: true, encoding: .utf8)
+			}
+			catch {
+				stderr("Error: Couldn't export metadata for \"\(collectionType)\": \(error)")
+			}
 		}
 	}
 	
