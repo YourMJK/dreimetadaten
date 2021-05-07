@@ -12,15 +12,23 @@ import Foundation
 let ProgramName = URL(fileURLWithPath: CommandLine.arguments.first!).lastPathComponent
 
 
-func stdout(_ string: String) {
-    FileHandle.standardOutput.write(string.appending("\n").data(using: .utf8)!)
+extension FileHandle: TextOutputStream {
+	public func write(_ string: String) {
+		guard let data = string.data(using: .utf8) else { return }
+		self.write(data)
+	}
 }
-func stderr(_ string: String) {
-    FileHandle.standardError.write(string.appending("\n").data(using: .utf8)!)
+func stdout(_ string: String, terminator: String = "\n") {
+	var stream = FileHandle.standardOutput
+	print(string, terminator: terminator, to: &stream)
+}
+func stderr(_ string: String, terminator: String = "\n") {
+	var stream = FileHandle.standardError
+	print(string, terminator: terminator, to: &stream)
 }
 
 
 func exit(error string: String, noPrefix: Bool = false) -> Never {
-    stderr(noPrefix ? string : ("Error:  " + string))
-    exit(1)
+	stderr(noPrefix ? string : ("Error:  " + string))
+	exit(1)
 }
