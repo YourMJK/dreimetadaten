@@ -69,66 +69,6 @@ class MetadataCollector {
 	
 	func applyCorrections() {
 		/*
-		metadata.serie.filter({ $0.nummer <= 60 && $0.nummer != 29 }).forEach { folge in
-			folge.hörspielskriptautor = "H. G. Francis"
-		}
-		
-		let autoren = [
-			"Robert Arthur",
-			"William Arden",
-			"M. V. Carey",
-			"William Arden",
-			"Robert Arthur",
-			"Robert Arthur",
-			"Nick West",
-			"Robert Arthur",
-			"William Arden",
-			"Robert Arthur",
-			"Robert Arthur",
-			"Robert Arthur",
-			"William Arden",
-			"M. V. Carey",
-			"Nick West",
-			"M. V. Carey",
-			"William Arden",
-			"Robert Arthur",
-			"William Arden",
-			"M. V. Carey",
-			"William Arden",
-			"Robert Arthur",
-			"William Arden",
-			"Robert Arthur",
-			"M. V. Carey",
-			"M. V. Carey",
-			"M. V. Carey",
-			"William Arden",
-			nil,
-			"William Arden",
-			"M. V. Carey",
-			"M. V. Carey",
-			"M. V. Carey",
-			"William Arden",
-			"M. V. Carey",
-			"Marc Brandel",
-			"M. V. Carey",
-			"M. V. Carey",
-			"Marc Brandel",
-			"William Arden",
-			"Rose Estes",
-			"Megan Stine",
-			"M. V. Carey",
-			"Marc Brandel",
-			"William Arden",
-			"M. V. Carey",
-			"Megan & H. William Stine",
-			"G. H. Stone"
-		]
-		for (i, autor) in autoren.enumerated() {
-			metadata.serie[i].autor = autor
-		}
-		*/
-		
-		/*
 		// Add ffmetadata link for items with enough metadata to generate a full ffmetadata file
 		let mandatoryStrings: [KeyPath<Folge, String?>] = [\.titel, \.autor, \.hörspielskriptautor, \.beschreibung, \.veröffentlichungsdatum, \.veröffentlichungsdatum]
 		guard let folgen = metadata.serie else {
