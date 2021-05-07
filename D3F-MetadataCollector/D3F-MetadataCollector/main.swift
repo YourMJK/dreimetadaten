@@ -84,7 +84,7 @@ if (CommandLine.arguments.count > 1) {
 	}
 	metadataCollector.applyCorrections()
 	
-	stdout(metadataCollector.output(outputType: outputType!))
+	stdout(metadataCollector.output(outputType: outputType!), terminator: "")
 }
 else {
 	exit(error: usage, noPrefix: true)
