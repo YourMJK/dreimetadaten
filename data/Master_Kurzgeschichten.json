@@ -6,6 +6,474 @@
           "teile" : [
             {
               "teilNummer" : 1,
+              "titel" : "und die Geisterlampe",
+              "autor" : "Kari Erlhoff",
+              "beschreibung" : "Mr. Vancura ist Schauspieler und sammelt alles, was mit dem Orient zu tun hat. Sein ganzer Stolz ist eine Wunderlampe, in der ein richtiger Dschinn lebt. Aber der Dschinn ist verschwunden …",
+              "sprecher" : [
+                [
+                  "Erzähler",
+                  "Thomas Fritsch"
+                ],
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ],
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ],
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ],
+                [
+                  "Mr. Vancura",
+                  "Lutz Herkenrath"
+                ],
+                [
+                  "Mrs. Fox",
+                  "Susan Jarling"
+                ],
+                [
+                  "Inspektor Cotta",
+                  "Holger Mahlich"
+                ],
+                [
+                  "Mr. Shaw",
+                  "Rasmus Borowski"
+                ],
+                [
+                  "Shannon",
+                  "Kerstin Draeger"
+                ],
+                [
+                  "Mr. Mosley",
+                  "Neil Malik Abdullah"
+                ],
+                [
+                  "Mann",
+                  "Thor W. Müller"
+                ]
+              ]
+            },
+            {
+              "teilNummer" : 2,
+              "titel" : "Dunkle Vergangenheit",
+              "autor" : "Marco Sonnleitner",
+              "beschreibung" : "Das neuste Hobby von Justus Jonas ist die Ahnenforschung.\nUnd dabei macht er eines Tages eine unglaubliche Entdeckung …",
+              "sprecher" : [
+                [
+                  "Erzähler",
+                  "Thomas Fritsch"
+                ],
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ],
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ],
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ],
+                [
+                  "Cowboy",
+                  "Achim Schülke"
+                ]
+              ]
+            },
+            {
+              "teilNummer" : 3,
+              "titel" : "Entführt",
+              "autor" : "Marco Sonnleitner",
+              "beschreibung" : "Peter erhält eine E-Mail: Kelly ist entführt worden! Den drei ??? bleibt weniger als eine Stunde Zeit, sie zu finden und zu befreien …",
+              "sprecher" : [
+                [
+                  "Erzähler",
+                  "Thomas Fritsch"
+                ],
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ],
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ],
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ],
+                [
+                  "Patricia",
+                  "Rhea Harder"
+                ],
+                [
+                  "Peter Shawn",
+                  "Leonhard Mahlich"
+                ],
+                [
+                  "Mann",
+                  "Helgo Liebig"
+                ]
+              ]
+            },
+            {
+              "teilNummer" : 4,
+              "titel" : "Verschwörung auf der Eagle Ranch",
+              "autor" : "Hendrik Buchna",
+              "beschreibung" : "Auf dem Autorasthof \"Eagle Ranch\" geschehen merkwürdige Dinge und die drei ??? erhalten den Auftrag, herauszufinden, was es damit auf sich hat …",
+              "sprecher" : [
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ]
+              ]
+            }
+          ],
+          "teilNummer" : 1,
+          "buchstabe" : "A",
+          "kapitel" : [
+            {
+              "titel" : "und die Geisterlampe",
+              "start" : 0,
+              "end" : 1109933
+            },
+            {
+              "titel" : "Dunkle Vergangenheit",
+              "start" : 1109933,
+              "end" : 1797413
+            },
+            {
+              "titel" : "Entführt",
+              "start" : 1797413,
+              "end" : 2650187
+            },
+            {
+              "titel" : "Verschwörung auf der Eagle Ranch",
+              "start" : 2650187,
+              "end" : 4017840
+            }
+          ]
+        },
+        {
+          "teile" : [
+            {
+              "teilNummer" : 1,
+              "titel" : "SOS",
+              "autor" : "Marco Sonnleitner",
+              "beschreibung" : "Als die drei ??? vom Strand kommen und auf dem Weg nach Hause sind, sehen sie ein SOS-Signal, das aus einem Haus gesendet wird. Eigentlich steht das Haus leer …",
+              "sprecher" : [
+                [
+                  "Erzähler",
+                  "Thomas Fritsch"
+                ],
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ],
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ],
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ],
+                [
+                  "Marty",
+                  "Philipp Draeger"
+                ],
+                [
+                  "Fred",
+                  "Guido Bernadotte"
+                ],
+                [
+                  "1. Mann",
+                  "Rasmus Rakete"
+                ],
+                [
+                  "2. Mann",
+                  "Patrick Perales"
+                ]
+              ]
+            },
+            {
+              "teilNummer" : 2,
+              "titel" : "Der graue Dämon",
+              "autor" : "Hendrik Buchna",
+              "beschreibung" : "Auf dem Weg nach Hause wird Peter plötzlich von einem unheimlichen, grauen Dämon verfolgt. Ihm bleibt nur noch ein Ausweg: Die Flucht …",
+              "sprecher" : [
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ]
+              ]
+            },
+            {
+              "teilNummer" : 3,
+              "titel" : "Das Lehrstück",
+              "autor" : "Kari Erlhoff",
+              "beschreibung" : "Peters ehemalige Klavierlehrerin, Mrs. Floyd, engagiert die drei ???, um herauszufinden, wo ihre verstorbene Mutter ihr Erbe versteckt haben könnte …",
+              "sprecher" : [
+                [
+                  "Erzähler",
+                  "Thomas Fritsch"
+                ],
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ],
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ],
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ],
+                [
+                  "Mrs. Floyd",
+                  "Gabriele Libbach"
+                ]
+              ]
+            },
+            {
+              "teilNummer" : 4,
+              "titel" : "Das Rätsel der schwarzen Nadel",
+              "autor" : "Hendrik Buchna",
+              "beschreibung" : "Die drei ??? erhalten den Auftrag, bei der Übergabe einer schwarzen Nadel dabei zu sein. Aber geht es dabei wirklich nur um das Schmuckstück?",
+              "sprecher" : [
+                [
+                  "Erzähler",
+                  "Thomas Fritsch"
+                ],
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ],
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ],
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ],
+                [
+                  "Tante Mathilda Jonas",
+                  "Karin Lieneweg"
+                ],
+                [
+                  "Vincent Grimes",
+                  "Konstantin Graudus"
+                ]
+              ]
+            }
+          ],
+          "teilNummer" : 2,
+          "buchstabe" : "B",
+          "kapitel" : [
+            {
+              "titel" : "SOS",
+              "start" : 0,
+              "end" : 661640
+            },
+            {
+              "titel" : "Der graue Dämon",
+              "start" : 661640,
+              "end" : 1217947
+            },
+            {
+              "titel" : "Das Lehrstück",
+              "start" : 1217947,
+              "end" : 1967360
+            },
+            {
+              "titel" : "Das Rätsel der schwarzen Nadel",
+              "start" : 1967360,
+              "end" : 2679040
+            }
+          ]
+        },
+        {
+          "teile" : [
+            {
+              "teilNummer" : 1,
+              "titel" : "Der verschwundene Superstar",
+              "autor" : "Kari Erlhoff",
+              "beschreibung" : "Blacky, der Papagei der drei ???, benimmt sich seit ein paar Tagen höchst sonderbar.\nWas ist der Grund für die merkwürdigen Sprüche, die der Vogel plötzlich zitiert …",
+              "sprecher" : [
+                [
+                  "Erzähler",
+                  "Thomas Fritsch"
+                ],
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ],
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ],
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ],
+                [
+                  "Tante Mathilda Jonas",
+                  "Karin Lieneweg"
+                ],
+                [
+                  "Blacky/Mynah",
+                  "Heikedine Körting"
+                ],
+                [
+                  "Juliet",
+                  "Anne Moll"
+                ],
+                [
+                  "Scott",
+                  "Tommaso Cacciapuoti"
+                ],
+                [
+                  "John",
+                  "Martin Sichel"
+                ]
+              ]
+            },
+            {
+              "teilNummer" : 2,
+              "titel" : "Manches verlernt man nie",
+              "autor" : "Marco Sonnleitner",
+              "beschreibung" : "Die drei ??? sollen von der Stadt Rocky Beach für ihr Lebenswerk geehrt werden. Und prompt sitzen sie gleich wieder mitten in einem neuen Fall …",
+              "sprecher" : [
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ]
+              ]
+            },
+            {
+              "teilNummer" : 3,
+              "titel" : "Psychomoon",
+              "autor" : "Kari Erlhoff",
+              "beschreibung" : "Kellys Tante wird erpresst und die drei ??? sollen bei der Übergabe des Geldes behilflich sein. Aber in dem Motel, in dem Peter und Kelly absteigen, passieren merkwürdige Dinge …",
+              "sprecher" : [
+                [
+                  "Erzähler",
+                  "Thomas Fritsch"
+                ],
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ],
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ],
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ],
+                [
+                  "Kelly",
+                  "Juliane Szalay"
+                ],
+                [
+                  "Norman",
+                  "Eckart Dux"
+                ],
+                [
+                  "Frau",
+                  "Anja Topf"
+                ]
+              ]
+            },
+            {
+              "teilNummer" : 4,
+              "titel" : "Jagd auf den Weihnachtsmann",
+              "autor" : "Hendrik Buchna",
+              "beschreibung" : "Rocky Beach versinkt im Schnee. Und zu allem Überfluss treibt gerade jetzt, wo die Polizei mehr oder weniger handlungsunfähig ist, ein krimineller Weihnachtsmann in der Stadt sein Unwesen …",
+              "sprecher" : [
+                [
+                  "Erzähler",
+                  "Thomas Fritsch"
+                ],
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ],
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ],
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ],
+                [
+                  "Inspektor Cotta",
+                  "Holger Mahlich"
+                ],
+                [
+                  "Mr. Darrow",
+                  "Joachim Kappl"
+                ],
+                [
+                  "1. Mann",
+                  "Patrick Bach"
+                ],
+                [
+                  "2. Mann",
+                  "Frank Meyer-Brockmann"
+                ],
+                [
+                  "3. Mann",
+                  "Roy Martens"
+                ]
+              ]
+            }
+          ],
+          "teilNummer" : 3,
+          "buchstabe" : "C",
+          "kapitel" : [
+            {
+              "titel" : "Der verschwundene Superstar",
+              "start" : 0,
+              "end" : 1055280
+            },
+            {
+              "titel" : "Manches verlernt man nie",
+              "start" : 1055280,
+              "end" : 2010880
+            },
+            {
+              "titel" : "Psychomoon",
+              "start" : 2010880,
+              "end" : 2681040
+            },
+            {
+              "titel" : "Jagd auf den Weihnachtsmann",
+              "start" : 2681040,
+              "end" : 3602480
+            }
+          ]
+        }
+      ],
+      "titel" : "und die Geisterlampe",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Das gab es noch nie:\n12 Mini-Fälle der drei ???.\nDie drei Autoren Kari Erlhoff, Hendrik Buchna und Marco Sonnleitner erzählen 12 kurze Geschichten, die die drei jungen Detektive aus Rocky Beach teilweise auch mal von ein paar ganz anderen Seiten zeigen.",
+      "veröffentlichungsdatum" : "2012-09-28"
+    },
+    {
+      "teile" : [
+        {
+          "teile" : [
+            {
+              "teilNummer" : 1,
               "titel" : "Der siebte Gast",
               "autor" : "André Minninger",
               "beschreibung" : "Mrs. Emily White spürt instinktiv, dass an dem Schreiben von ihrer Freundin Judy Fradkin etwas faul ist. Warum wurde die alte Dame von dem Jahrestreffen der Märchenfiguren so urplötzlich ausgeladen? Um der Sache auf den Grund zu gehen, holt sich Mrs White die Unterstützung der drei ???.",
@@ -555,479 +1023,6 @@
           "teile" : [
             {
               "teilNummer" : 1,
-              "titel" : "Das schwarze Verlies",
-              "autor" : "Ben Nevis",
-              "beschreibung" : "Es ist dunkel. Mehr als dunkel. Schwarz. Peter erwacht und ist gefesselt! Wo befindet er sich? Ist alles nur ein Traum? Plötzlich vernimmt er ein seltsames Grunzen. Ein Kampfhund …? Dann kehren seine Erinnerungen zurück!",
-              "kapitel" : [
-                {
-                  "titel" : "Gefesselt",
-                  "start" : 0,
-                  "end" : 826640
-                },
-                {
-                  "titel" : "Betäubt",
-                  "start" : 826640,
-                  "end" : 1316773
-                },
-                {
-                  "titel" : "Verrostet",
-                  "start" : 1316773,
-                  "end" : 2240920
-                }
-              ],
-              "sprecher" : [
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ]
-              ]
-            },
-            {
-              "teilNummer" : 2,
-              "titel" : "Schwarze Seelen",
-              "autor" : "André Minninger",
-              "beschreibung" : "Die gegenseitigen Beschuldigungen der Zwillingsschwestern Helen und Ellen stellen die drei Detektive auf eine harte Zerreißprobe. Wird es ihnen dennoch gelingen, die wahre Täterin zu überführen?",
-              "kapitel" : [
-                {
-                  "titel" : "Ohne Gewissen",
-                  "start" : 0,
-                  "end" : 645160
-                },
-                {
-                  "titel" : "Ohne Rücksicht",
-                  "start" : 645160,
-                  "end" : 1349373
-                },
-                {
-                  "titel" : "Ohne Reue",
-                  "start" : 1349373,
-                  "end" : 1855920
-                }
-              ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Axel Milberg"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Helen",
-                  "Balancinha Blanc (Dorette Hugo)"
-                ],
-                [
-                  "Ellen",
-                  "Dorette Hugo"
-                ],
-                [
-                  "Vater",
-                  "Douglas Welbat"
-                ]
-              ]
-            }
-          ],
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Das schwarze Verlies – Gefesselt",
-              "start" : 0,
-              "end" : 826640
-            },
-            {
-              "titel" : "Das schwarze Verlies – Betäubt",
-              "start" : 826640,
-              "end" : 1316773
-            },
-            {
-              "titel" : "Das schwarze Verlies – Verrostet",
-              "start" : 1316773,
-              "end" : 2240920
-            },
-            {
-              "titel" : "Schwarze Seelen – Ohne Gewissen",
-              "start" : 2240920,
-              "end" : 2886080
-            },
-            {
-              "titel" : "Schwarze Seelen – Ohne Rücksicht",
-              "start" : 2886080,
-              "end" : 3590293
-            },
-            {
-              "titel" : "Schwarze Seelen – Ohne Reue",
-              "start" : 3590293,
-              "end" : 4096840
-            }
-          ]
-        },
-        {
-          "teile" : [
-            {
-              "teilNummer" : 1,
-              "titel" : "Ein schwarzer Tag für Mr. Kingstone",
-              "autor" : "Christoph Dittert",
-              "beschreibung" : "Ausgerechnet Skinny Norris beauftragt die drei Detektive mit einem neuen Fall: Wer erpresst Mr. Kingstone, den blinden Betreiber des Dunkelrestaurants in Rocky Beach? In totaler Finsternis ermitteln Justus, Peter und Bob, um dem skrupellosen Verbrecher auf die Schliche zu kommen. Doch wird ihre Falle auch zuschnappen?",
-              "kapitel" : [
-                {
-                  "titel" : "Unverschämter Kerl",
-                  "start" : 0,
-                  "end" : 526840
-                },
-                {
-                  "titel" : "Dunkelrestaurant",
-                  "start" : 526840,
-                  "end" : 1199413
-                },
-                {
-                  "titel" : "Kontaktschranke",
-                  "start" : 1199413,
-                  "end" : 1889653
-                }
-              ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Axel Milberg"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Tante Mathilda Jonas",
-                  "Karin Lieneweg"
-                ],
-                [
-                  "Skinny Norris",
-                  "Michael Harck"
-                ],
-                [
-                  "Marc Kingstone",
-                  "Rainer Brandt"
-                ],
-                [
-                  "Aaron Kingstone",
-                  "Tommi Piper"
-                ],
-                [
-                  "Sarah",
-                  "Christiane Leuchtmann"
-                ]
-              ]
-            },
-            {
-              "teilNummer" : 2,
-              "titel" : "Wer hat Angst vorm Schwarzen Mann",
-              "autor" : "Marco Sonnleitner",
-              "beschreibung" : "In einem Kindergarten in Rocky Beach herrscht größte Besorgnis: Wurden die Kinder tatsächlich allesamt von einem unheimlichen \"Schwarzen Mann\" heimgesucht? Die Ermittlungen der drei ??? führen zum ominösen \"Herz von Afrika\" …",
-              "kapitel" : [
-                {
-                  "titel" : "Albtraum?",
-                  "start" : 0,
-                  "end" : 601054
-                },
-                {
-                  "titel" : "Das Herz von Afrika",
-                  "start" : 601054,
-                  "end" : 1250120
-                },
-                {
-                  "titel" : "Lasso-Künste",
-                  "start" : 1250120,
-                  "end" : 1767387
-                }
-              ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Axel Milberg"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Kelly Madigan",
-                  "Juliane Szalay"
-                ],
-                [
-                  "Mrs. McGee",
-                  "Alice Krimmel"
-                ],
-                [
-                  "Toby",
-                  "A. Stengelin"
-                ],
-                [
-                  "Mrs. Wells",
-                  "Heidi Schaffrath"
-                ],
-                [
-                  "Junge",
-                  "Linus Tauber"
-                ],
-                [
-                  "Mädchen",
-                  "Katinka Jaekel"
-                ],
-                [
-                  "Ericsson",
-                  "Detlev Tams"
-                ],
-                [
-                  "Sprecher/Moderator",
-                  "Oliver Böttcher"
-                ],
-                [
-                  "Tarek Shabana",
-                  "Werner Wilkening"
-                ]
-              ]
-            }
-          ],
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Unverschämter Kerl",
-              "start" : 0,
-              "end" : 526840
-            },
-            {
-              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Dunkelrestaurant",
-              "start" : 526840,
-              "end" : 1199413
-            },
-            {
-              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Kontaktschranke",
-              "start" : 1199413,
-              "end" : 1889653
-            },
-            {
-              "titel" : "Wer hat Angst vorm Schwarzen Mann – Albtraum?",
-              "start" : 1889653,
-              "end" : 2490707
-            },
-            {
-              "titel" : "Wer hat Angst vorm Schwarzen Mann – Das Herz von Afrika",
-              "start" : 2490707,
-              "end" : 3139773
-            },
-            {
-              "titel" : "Wer hat Angst vorm Schwarzen Mann – Lasso-Künste",
-              "start" : 3139773,
-              "end" : 3657040
-            }
-          ]
-        },
-        {
-          "teile" : [
-            {
-              "teilNummer" : 1,
-              "titel" : "Die schwarze PhantOma",
-              "autor" : "Kari Erlhoff",
-              "beschreibung" : "Wer steckt hinter der unheimlichen Porschefahrerin, von der Justus beinahe überfahren wurde!? Auch Peter wird von ihr mit einem heftigen Fausthieb niedergestreckt! Wer ist die humpelnde Rentnerin, die als \"PhantOma\" in Rocky Beach ihr Unwesen treibt? An Verdächtigen mangelt es keineswegs …",
-              "kapitel" : [
-                {
-                  "titel" : "Wasserdichte Alibis",
-                  "start" : 0,
-                  "end" : 828067
-                },
-                {
-                  "titel" : "Kriminelle Abwege",
-                  "start" : 828067,
-                  "end" : 1373493
-                },
-                {
-                  "titel" : "Tägliches Training",
-                  "start" : 1373493,
-                  "end" : 2256800
-                }
-              ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Axel Milberg"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Tasha",
-                  "Victoria Zöller"
-                ],
-                [
-                  "Domino Laverna",
-                  "Sabine Hahn"
-                ],
-                [
-                  "Biff Rodgers, Reporter",
-                  "Daniel Schütter"
-                ],
-                [
-                  "Lesley Dimple",
-                  "Ann Montenbruck"
-                ],
-                [
-                  "Zeus Zenon Johnson",
-                  "Michael Prelle"
-                ],
-                [
-                  "Computer",
-                  "Peter Bayer"
-                ],
-                [
-                  "Off-Sprecher",
-                  "Frank Roder"
-                ],
-                [
-                  "Sprecher",
-                  "Andreas Birnbaum"
-                ]
-              ]
-            },
-            {
-              "teilNummer" : 2,
-              "titel" : "Das schwarze Nest",
-              "autor" : "Hendrik Buchna",
-              "beschreibung" : "Das Telefon klingelt nicht in der Zentrale der drei Detektive. Doch Justus hört es ganz deutlich. Leidet er unter Wahnvorstellungen? Und auch Peter wird von argen Problemen geplagt: Er muss unbedingt das große Sackhüpfturnier gewinnen!\nBob wird endlich aus dem Krankenhaus entlassen und wundert sich über gar nichts mehr …",
-              "kapitel" : [
-                {
-                  "titel" : "Grabesstille",
-                  "start" : 0,
-                  "end" : 547413
-                },
-                {
-                  "titel" : "Demokratische Abstimmung",
-                  "start" : 547413,
-                  "end" : 1040413
-                },
-                {
-                  "titel" : "Fall gelöst",
-                  "start" : 1040413,
-                  "end" : 1718507
-                }
-              ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Axel Milberg"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Blacky",
-                  "Pamela Punti"
-                ],
-                [
-                  "Kassiererin",
-                  "Angela Stresemann"
-                ],
-                [
-                  "Inspektor Cotta",
-                  "Holger Mahlich"
-                ]
-              ]
-            }
-          ],
-          "teilNummer" : 3,
-          "kapitel" : [
-            {
-              "titel" : "Die schwarze PhantOma – Wasserdichte Alibis",
-              "start" : 0,
-              "end" : 828067
-            },
-            {
-              "titel" : "Die schwarze PhantOma – Kriminelle Abwege",
-              "start" : 828067,
-              "end" : 1373493
-            },
-            {
-              "titel" : "Die schwarze PhantOma – Tägliches Training",
-              "start" : 1373493,
-              "end" : 2256800
-            },
-            {
-              "titel" : "Das schwarze Nest – Grabesstille",
-              "start" : 2256800,
-              "end" : 2804213
-            },
-            {
-              "titel" : "Das schwarze Nest – Demokratische Abstimmung",
-              "start" : 2804213,
-              "end" : 3297213
-            },
-            {
-              "titel" : "Das schwarze Nest – Fall gelöst",
-              "start" : 3297213,
-              "end" : 3975307
-            }
-          ]
-        }
-      ],
-      "titel" : "und der schwarze Tag",
-      "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.\n\nSechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
-      "veröffentlichungsdatum" : "2018-10-28"
-    },
-    {
-      "teile" : [
-        {
-          "teile" : [
-            {
-              "teilNummer" : 1,
               "titel" : "Immer und immer wieder",
               "autor" : "Hendrik Buchna",
               "beschreibung" : "Peter ist ratlos: in wenigen Minuten wird die Zentrale zerstört werden, und er kann nichts dagegen tun! Erst ein Tipp vom Ersten Detektiv bringt ihn auf die richtige Spur – oder doch nicht?",
@@ -1494,14 +1489,27 @@
           "teile" : [
             {
               "teilNummer" : 1,
-              "titel" : "und die Geisterlampe",
-              "autor" : "Kari Erlhoff",
-              "beschreibung" : "Mr. Vancura ist Schauspieler und sammelt alles, was mit dem Orient zu tun hat. Sein ganzer Stolz ist eine Wunderlampe, in der ein richtiger Dschinn lebt. Aber der Dschinn ist verschwunden …",
+              "titel" : "Das schwarze Verlies",
+              "autor" : "Ben Nevis",
+              "beschreibung" : "Es ist dunkel. Mehr als dunkel. Schwarz. Peter erwacht und ist gefesselt! Wo befindet er sich? Ist alles nur ein Traum? Plötzlich vernimmt er ein seltsames Grunzen. Ein Kampfhund …? Dann kehren seine Erinnerungen zurück!",
+              "kapitel" : [
+                {
+                  "titel" : "Gefesselt",
+                  "start" : 0,
+                  "end" : 826640
+                },
+                {
+                  "titel" : "Betäubt",
+                  "start" : 826640,
+                  "end" : 1316773
+                },
+                {
+                  "titel" : "Verrostet",
+                  "start" : 1316773,
+                  "end" : 2240920
+                }
+              ],
               "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
                 [
                   "Justus Jonas",
                   "Oliver Rohrbeck"
@@ -1513,46 +1521,35 @@
                 [
                   "Bob Andrews",
                   "Andreas Fröhlich"
-                ],
-                [
-                  "Mr. Vancura",
-                  "Lutz Herkenrath"
-                ],
-                [
-                  "Mrs. Fox",
-                  "Susan Jarling"
-                ],
-                [
-                  "Inspektor Cotta",
-                  "Holger Mahlich"
-                ],
-                [
-                  "Mr. Shaw",
-                  "Rasmus Borowski"
-                ],
-                [
-                  "Shannon",
-                  "Kerstin Draeger"
-                ],
-                [
-                  "Mr. Mosley",
-                  "Neil Malik Abdullah"
-                ],
-                [
-                  "Mann",
-                  "Thor W. Müller"
                 ]
               ]
             },
             {
               "teilNummer" : 2,
-              "titel" : "Dunkle Vergangenheit",
-              "autor" : "Marco Sonnleitner",
-              "beschreibung" : "Das neuste Hobby von Justus Jonas ist die Ahnenforschung.\nUnd dabei macht er eines Tages eine unglaubliche Entdeckung …",
+              "titel" : "Schwarze Seelen",
+              "autor" : "André Minninger",
+              "beschreibung" : "Die gegenseitigen Beschuldigungen der Zwillingsschwestern Helen und Ellen stellen die drei Detektive auf eine harte Zerreißprobe. Wird es ihnen dennoch gelingen, die wahre Täterin zu überführen?",
+              "kapitel" : [
+                {
+                  "titel" : "Ohne Gewissen",
+                  "start" : 0,
+                  "end" : 645160
+                },
+                {
+                  "titel" : "Ohne Rücksicht",
+                  "start" : 645160,
+                  "end" : 1349373
+                },
+                {
+                  "titel" : "Ohne Reue",
+                  "start" : 1349373,
+                  "end" : 1855920
+                }
+              ],
               "sprecher" : [
                 [
                   "Erzähler",
-                  "Thomas Fritsch"
+                  "Axel Milberg"
                 ],
                 [
                   "Justus Jonas",
@@ -1567,82 +1564,51 @@
                   "Andreas Fröhlich"
                 ],
                 [
-                  "Cowboy",
-                  "Achim Schülke"
-                ]
-              ]
-            },
-            {
-              "teilNummer" : 3,
-              "titel" : "Entführt",
-              "autor" : "Marco Sonnleitner",
-              "beschreibung" : "Peter erhält eine E-Mail: Kelly ist entführt worden! Den drei ??? bleibt weniger als eine Stunde Zeit, sie zu finden und zu befreien …",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
+                  "Helen",
+                  "Balancinha Blanc (Dorette Hugo)"
                 ],
                 [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
+                  "Ellen",
+                  "Dorette Hugo"
                 ],
                 [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Patricia",
-                  "Rhea Harder"
-                ],
-                [
-                  "Peter Shawn",
-                  "Leonhard Mahlich"
-                ],
-                [
-                  "Mann",
-                  "Helgo Liebig"
-                ]
-              ]
-            },
-            {
-              "teilNummer" : 4,
-              "titel" : "Verschwörung auf der Eagle Ranch",
-              "autor" : "Hendrik Buchna",
-              "beschreibung" : "Auf dem Autorasthof \"Eagle Ranch\" geschehen merkwürdige Dinge und die drei ??? erhalten den Auftrag, herauszufinden, was es damit auf sich hat …",
-              "sprecher" : [
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
+                  "Vater",
+                  "Douglas Welbat"
                 ]
               ]
             }
           ],
           "teilNummer" : 1,
-          "buchstabe" : "A",
           "kapitel" : [
             {
-              "titel" : "und die Geisterlampe",
+              "titel" : "Das schwarze Verlies – Gefesselt",
               "start" : 0,
-              "end" : 1109933
+              "end" : 826640
             },
             {
-              "titel" : "Dunkle Vergangenheit",
-              "start" : 1109933,
-              "end" : 1797413
+              "titel" : "Das schwarze Verlies – Betäubt",
+              "start" : 826640,
+              "end" : 1316773
             },
             {
-              "titel" : "Entführt",
-              "start" : 1797413,
-              "end" : 2650187
+              "titel" : "Das schwarze Verlies – Verrostet",
+              "start" : 1316773,
+              "end" : 2240920
             },
             {
-              "titel" : "Verschwörung auf der Eagle Ranch",
-              "start" : 2650187,
-              "end" : 4017840
+              "titel" : "Schwarze Seelen – Ohne Gewissen",
+              "start" : 2240920,
+              "end" : 2886080
+            },
+            {
+              "titel" : "Schwarze Seelen – Ohne Rücksicht",
+              "start" : 2886080,
+              "end" : 3590293
+            },
+            {
+              "titel" : "Schwarze Seelen – Ohne Reue",
+              "start" : 3590293,
+              "end" : 4096840
             }
           ]
         },
@@ -1650,93 +1616,30 @@
           "teile" : [
             {
               "teilNummer" : 1,
-              "titel" : "SOS",
-              "autor" : "Marco Sonnleitner",
-              "beschreibung" : "Als die drei ??? vom Strand kommen und auf dem Weg nach Hause sind, sehen sie ein SOS-Signal, das aus einem Haus gesendet wird. Eigentlich steht das Haus leer …",
+              "titel" : "Ein schwarzer Tag für Mr. Kingstone",
+              "autor" : "Christoph Dittert",
+              "beschreibung" : "Ausgerechnet Skinny Norris beauftragt die drei Detektive mit einem neuen Fall: Wer erpresst Mr. Kingstone, den blinden Betreiber des Dunkelrestaurants in Rocky Beach? In totaler Finsternis ermitteln Justus, Peter und Bob, um dem skrupellosen Verbrecher auf die Schliche zu kommen. Doch wird ihre Falle auch zuschnappen?",
+              "kapitel" : [
+                {
+                  "titel" : "Unverschämter Kerl",
+                  "start" : 0,
+                  "end" : 526840
+                },
+                {
+                  "titel" : "Dunkelrestaurant",
+                  "start" : 526840,
+                  "end" : 1199413
+                },
+                {
+                  "titel" : "Kontaktschranke",
+                  "start" : 1199413,
+                  "end" : 1889653
+                }
+              ],
               "sprecher" : [
                 [
                   "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Marty",
-                  "Philipp Draeger"
-                ],
-                [
-                  "Fred",
-                  "Guido Bernadotte"
-                ],
-                [
-                  "1. Mann",
-                  "Rasmus Rakete"
-                ],
-                [
-                  "2. Mann",
-                  "Patrick Perales"
-                ]
-              ]
-            },
-            {
-              "teilNummer" : 2,
-              "titel" : "Der graue Dämon",
-              "autor" : "Hendrik Buchna",
-              "beschreibung" : "Auf dem Weg nach Hause wird Peter plötzlich von einem unheimlichen, grauen Dämon verfolgt. Ihm bleibt nur noch ein Ausweg: Die Flucht …",
-              "sprecher" : [
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ]
-              ]
-            },
-            {
-              "teilNummer" : 3,
-              "titel" : "Das Lehrstück",
-              "autor" : "Kari Erlhoff",
-              "beschreibung" : "Peters ehemalige Klavierlehrerin, Mrs. Floyd, engagiert die drei ???, um herauszufinden, wo ihre verstorbene Mutter ihr Erbe versteckt haben könnte …",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Mrs. Floyd",
-                  "Gabriele Libbach"
-                ]
-              ]
-            },
-            {
-              "teilNummer" : 4,
-              "titel" : "Das Rätsel der schwarzen Nadel",
-              "autor" : "Hendrik Buchna",
-              "beschreibung" : "Die drei ??? erhalten den Auftrag, bei der Übergabe einer schwarzen Nadel dabei zu sein. Aber geht es dabei wirklich nur um das Schmuckstück?",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
+                  "Axel Milberg"
                 ],
                 [
                   "Justus Jonas",
@@ -1755,34 +1658,132 @@
                   "Karin Lieneweg"
                 ],
                 [
-                  "Vincent Grimes",
-                  "Konstantin Graudus"
+                  "Skinny Norris",
+                  "Michael Harck"
+                ],
+                [
+                  "Marc Kingstone",
+                  "Rainer Brandt"
+                ],
+                [
+                  "Aaron Kingstone",
+                  "Tommi Piper"
+                ],
+                [
+                  "Sarah",
+                  "Christiane Leuchtmann"
+                ]
+              ]
+            },
+            {
+              "teilNummer" : 2,
+              "titel" : "Wer hat Angst vorm Schwarzen Mann",
+              "autor" : "Marco Sonnleitner",
+              "beschreibung" : "In einem Kindergarten in Rocky Beach herrscht größte Besorgnis: Wurden die Kinder tatsächlich allesamt von einem unheimlichen \"Schwarzen Mann\" heimgesucht? Die Ermittlungen der drei ??? führen zum ominösen \"Herz von Afrika\" …",
+              "kapitel" : [
+                {
+                  "titel" : "Albtraum?",
+                  "start" : 0,
+                  "end" : 601054
+                },
+                {
+                  "titel" : "Das Herz von Afrika",
+                  "start" : 601054,
+                  "end" : 1250120
+                },
+                {
+                  "titel" : "Lasso-Künste",
+                  "start" : 1250120,
+                  "end" : 1767387
+                }
+              ],
+              "sprecher" : [
+                [
+                  "Erzähler",
+                  "Axel Milberg"
+                ],
+                [
+                  "Justus Jonas",
+                  "Oliver Rohrbeck"
+                ],
+                [
+                  "Peter Shaw",
+                  "Jens Wawrczeck"
+                ],
+                [
+                  "Bob Andrews",
+                  "Andreas Fröhlich"
+                ],
+                [
+                  "Kelly Madigan",
+                  "Juliane Szalay"
+                ],
+                [
+                  "Mrs. McGee",
+                  "Alice Krimmel"
+                ],
+                [
+                  "Toby",
+                  "A. Stengelin"
+                ],
+                [
+                  "Mrs. Wells",
+                  "Heidi Schaffrath"
+                ],
+                [
+                  "Junge",
+                  "Linus Tauber"
+                ],
+                [
+                  "Mädchen",
+                  "Katinka Jaekel"
+                ],
+                [
+                  "Ericsson",
+                  "Detlev Tams"
+                ],
+                [
+                  "Sprecher/Moderator",
+                  "Oliver Böttcher"
+                ],
+                [
+                  "Tarek Shabana",
+                  "Werner Wilkening"
                 ]
               ]
             }
           ],
           "teilNummer" : 2,
-          "buchstabe" : "B",
           "kapitel" : [
             {
-              "titel" : "SOS",
+              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Unverschämter Kerl",
               "start" : 0,
-              "end" : 661640
+              "end" : 526840
             },
             {
-              "titel" : "Der graue Dämon",
-              "start" : 661640,
-              "end" : 1217947
+              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Dunkelrestaurant",
+              "start" : 526840,
+              "end" : 1199413
             },
             {
-              "titel" : "Das Lehrstück",
-              "start" : 1217947,
-              "end" : 1967360
+              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Kontaktschranke",
+              "start" : 1199413,
+              "end" : 1889653
             },
             {
-              "titel" : "Das Rätsel der schwarzen Nadel",
-              "start" : 1967360,
-              "end" : 2679040
+              "titel" : "Wer hat Angst vorm Schwarzen Mann – Albtraum?",
+              "start" : 1889653,
+              "end" : 2490707
+            },
+            {
+              "titel" : "Wer hat Angst vorm Schwarzen Mann – Das Herz von Afrika",
+              "start" : 2490707,
+              "end" : 3139773
+            },
+            {
+              "titel" : "Wer hat Angst vorm Schwarzen Mann – Lasso-Künste",
+              "start" : 3139773,
+              "end" : 3657040
             }
           ]
         },
@@ -1790,13 +1791,30 @@
           "teile" : [
             {
               "teilNummer" : 1,
-              "titel" : "Der verschwundene Superstar",
+              "titel" : "Die schwarze PhantOma",
               "autor" : "Kari Erlhoff",
-              "beschreibung" : "Blacky, der Papagei der drei ???, benimmt sich seit ein paar Tagen höchst sonderbar.\nWas ist der Grund für die merkwürdigen Sprüche, die der Vogel plötzlich zitiert …",
+              "beschreibung" : "Wer steckt hinter der unheimlichen Porschefahrerin, von der Justus beinahe überfahren wurde!? Auch Peter wird von ihr mit einem heftigen Fausthieb niedergestreckt! Wer ist die humpelnde Rentnerin, die als \"PhantOma\" in Rocky Beach ihr Unwesen treibt? An Verdächtigen mangelt es keineswegs …",
+              "kapitel" : [
+                {
+                  "titel" : "Wasserdichte Alibis",
+                  "start" : 0,
+                  "end" : 828067
+                },
+                {
+                  "titel" : "Kriminelle Abwege",
+                  "start" : 828067,
+                  "end" : 1373493
+                },
+                {
+                  "titel" : "Tägliches Training",
+                  "start" : 1373493,
+                  "end" : 2256800
+                }
+              ],
               "sprecher" : [
                 [
                   "Erzähler",
-                  "Thomas Fritsch"
+                  "Axel Milberg"
                 ],
                 [
                   "Justus Jonas",
@@ -1811,84 +1829,65 @@
                   "Andreas Fröhlich"
                 ],
                 [
-                  "Tante Mathilda Jonas",
-                  "Karin Lieneweg"
+                  "Tasha",
+                  "Victoria Zöller"
                 ],
                 [
-                  "Blacky/Mynah",
-                  "Heikedine Körting"
+                  "Domino Laverna",
+                  "Sabine Hahn"
                 ],
                 [
-                  "Juliet",
-                  "Anne Moll"
+                  "Biff Rodgers, Reporter",
+                  "Daniel Schütter"
                 ],
                 [
-                  "Scott",
-                  "Tommaso Cacciapuoti"
+                  "Lesley Dimple",
+                  "Ann Montenbruck"
                 ],
                 [
-                  "John",
-                  "Martin Sichel"
+                  "Zeus Zenon Johnson",
+                  "Michael Prelle"
+                ],
+                [
+                  "Computer",
+                  "Peter Bayer"
+                ],
+                [
+                  "Off-Sprecher",
+                  "Frank Roder"
+                ],
+                [
+                  "Sprecher",
+                  "Andreas Birnbaum"
                 ]
               ]
             },
             {
               "teilNummer" : 2,
-              "titel" : "Manches verlernt man nie",
-              "autor" : "Marco Sonnleitner",
-              "beschreibung" : "Die drei ??? sollen von der Stadt Rocky Beach für ihr Lebenswerk geehrt werden. Und prompt sitzen sie gleich wieder mitten in einem neuen Fall …",
-              "sprecher" : [
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ]
-              ]
-            },
-            {
-              "teilNummer" : 3,
-              "titel" : "Psychomoon",
-              "autor" : "Kari Erlhoff",
-              "beschreibung" : "Kellys Tante wird erpresst und die drei ??? sollen bei der Übergabe des Geldes behilflich sein. Aber in dem Motel, in dem Peter und Kelly absteigen, passieren merkwürdige Dinge …",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Kelly",
-                  "Juliane Szalay"
-                ],
-                [
-                  "Norman",
-                  "Eckart Dux"
-                ],
-                [
-                  "Frau",
-                  "Anja Topf"
-                ]
-              ]
-            },
-            {
-              "teilNummer" : 4,
-              "titel" : "Jagd auf den Weihnachtsmann",
+              "titel" : "Das schwarze Nest",
               "autor" : "Hendrik Buchna",
-              "beschreibung" : "Rocky Beach versinkt im Schnee. Und zu allem Überfluss treibt gerade jetzt, wo die Polizei mehr oder weniger handlungsunfähig ist, ein krimineller Weihnachtsmann in der Stadt sein Unwesen …",
+              "beschreibung" : "Das Telefon klingelt nicht in der Zentrale der drei Detektive. Doch Justus hört es ganz deutlich. Leidet er unter Wahnvorstellungen? Und auch Peter wird von argen Problemen geplagt: Er muss unbedingt das große Sackhüpfturnier gewinnen!\nBob wird endlich aus dem Krankenhaus entlassen und wundert sich über gar nichts mehr …",
+              "kapitel" : [
+                {
+                  "titel" : "Grabesstille",
+                  "start" : 0,
+                  "end" : 547413
+                },
+                {
+                  "titel" : "Demokratische Abstimmung",
+                  "start" : 547413,
+                  "end" : 1040413
+                },
+                {
+                  "titel" : "Fall gelöst",
+                  "start" : 1040413,
+                  "end" : 1718507
+                }
+              ],
               "sprecher" : [
                 [
                   "Erzähler",
-                  "Thomas Fritsch"
+                  "Axel Milberg"
                 ],
                 [
                   "Justus Jonas",
@@ -1901,60 +1900,61 @@
                 [
                   "Bob Andrews",
                   "Andreas Fröhlich"
+                ],
+                [
+                  "Blacky",
+                  "Pamela Punti"
+                ],
+                [
+                  "Kassiererin",
+                  "Angela Stresemann"
                 ],
                 [
                   "Inspektor Cotta",
                   "Holger Mahlich"
-                ],
-                [
-                  "Mr. Darrow",
-                  "Joachim Kappl"
-                ],
-                [
-                  "1. Mann",
-                  "Patrick Bach"
-                ],
-                [
-                  "2. Mann",
-                  "Frank Meyer-Brockmann"
-                ],
-                [
-                  "3. Mann",
-                  "Roy Martens"
                 ]
               ]
             }
           ],
           "teilNummer" : 3,
-          "buchstabe" : "C",
           "kapitel" : [
             {
-              "titel" : "Der verschwundene Superstar",
+              "titel" : "Die schwarze PhantOma – Wasserdichte Alibis",
               "start" : 0,
-              "end" : 1055280
+              "end" : 828067
             },
             {
-              "titel" : "Manches verlernt man nie",
-              "start" : 1055280,
-              "end" : 2010880
+              "titel" : "Die schwarze PhantOma – Kriminelle Abwege",
+              "start" : 828067,
+              "end" : 1373493
             },
             {
-              "titel" : "Psychomoon",
-              "start" : 2010880,
-              "end" : 2681040
+              "titel" : "Die schwarze PhantOma – Tägliches Training",
+              "start" : 1373493,
+              "end" : 2256800
             },
             {
-              "titel" : "Jagd auf den Weihnachtsmann",
-              "start" : 2681040,
-              "end" : 3602480
+              "titel" : "Das schwarze Nest – Grabesstille",
+              "start" : 2256800,
+              "end" : 2804213
+            },
+            {
+              "titel" : "Das schwarze Nest – Demokratische Abstimmung",
+              "start" : 2804213,
+              "end" : 3297213
+            },
+            {
+              "titel" : "Das schwarze Nest – Fall gelöst",
+              "start" : 3297213,
+              "end" : 3975307
             }
           ]
         }
       ],
-      "titel" : "und die Geisterlampe",
+      "titel" : "und der schwarze Tag",
       "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Das gab es noch nie:\n12 Mini-Fälle der drei ???.\nDie drei Autoren Kari Erlhoff, Hendrik Buchna und Marco Sonnleitner erzählen 12 kurze Geschichten, die die drei jungen Detektive aus Rocky Beach teilweise auch mal von ein paar ganz anderen Seiten zeigen.",
-      "veröffentlichungsdatum" : "2012-09-28"
+      "beschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.\n\nSechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
+      "veröffentlichungsdatum" : "2018-10-28"
     }
   ]
 }
