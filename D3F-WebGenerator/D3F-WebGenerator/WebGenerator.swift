@@ -138,13 +138,29 @@ class WebGenerator {
 					else if let teil = höreinheit as? Teil {
 						addCell(class: .nr, content: nameForTeil(teil))
 					}
-				
-				case .spezial, .kurzgeschichten:
+					
+				case .spezial:
 					if let teil = höreinheit as? Teil {
 						addCell(class: .nr, content: nameForTeil(teil))
 					}
 					else {
 						addCell(class: .nr, content: höreinheit.titel ?? "")
+					}
+					
+				case .kurzgeschichten:
+					if let teil = höreinheit as? Teil {
+						if let titel = teil.titel {
+							addEmptyCell()
+							addCell(class: .nr, content: titel)
+						}
+						else {
+							addCell(class: .nr, content: nameForTeil(teil))
+							addEmptyCell()
+						}
+					}
+					else {
+						addCell(class: .nr, content: höreinheit.titel ?? "")
+						addEmptyCell()
 					}
 				
 				case .die_dr3i:
@@ -182,10 +198,11 @@ class WebGenerator {
 			endRow()
 		}
 		
-		for höreinheit in collection {
+		func recursive(_ höreinheit: Höreinheit) {
 			addRowFor(höreinheit: höreinheit)
-			höreinheit.teile?.forEach { addRowFor(höreinheit: $0) }
+			höreinheit.teile?.forEach { recursive($0) }
 		}
+		collection.forEach { recursive($0) }
 		
 		replace(placeholder: placeholder, with: tableRowsString)
 	}
