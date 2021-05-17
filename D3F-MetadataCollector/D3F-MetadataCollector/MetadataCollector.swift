@@ -522,7 +522,7 @@ class MetadataCollector {
 			}
 		}()
 		
-		func parseDirectoryContents(url directoryURL: URL) throws -> Links {
+		func parseDirectoryContents(url directoryURL: URL, for höreinheit: Höreinheit) throws -> Links {
 			let links = Links()
 			for directoryContentName in try FileManager.default.contentsOfDirectory(atPath: directoryURL.path) {
 				let directoryContentURL = directoryURL.appendingPathComponent(directoryContentName)
@@ -565,8 +565,8 @@ class MetadataCollector {
 					
 					default:
 						if let teilNummer = UInt(directoryContentName), directoryExists(directoryContentURL) {
-							let teilLinks = try parseDirectoryContents(url: directoryContentURL)
 							let teil = findOrCreateTeil(teilNummer: teilNummer, in: höreinheit)
+							let teilLinks = try parseDirectoryContents(url: directoryContentURL, for: teil)
 							teil.links = teilLinks
 						}
 					}
@@ -574,7 +574,7 @@ class MetadataCollector {
 			return links
 		}
 		
-		let links = try parseDirectoryContents(url: directory)
+		let links = try parseDirectoryContents(url: directory, for: höreinheit)
 		höreinheit.links = links
 	}
 	
