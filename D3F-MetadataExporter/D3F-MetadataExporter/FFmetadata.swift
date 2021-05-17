@@ -138,8 +138,14 @@ extension FFmetadata {
 		self.init(title: höreinheit.titel, album: nil, artist: artist, album_artist: höreinheit.hörspielskriptautor, composer: höreinheit.autor, description: höreinheit.beschreibung, genre: "Krimi", date: date, track: nil, chapters: chapters)
 	}
 	
+	
+	/// Create the FFmetadata for a collection item of type `type` with `Self.init(withBasicTagsFrom:)` and using the type's specific `titlePrefix` (e.g. "Die drei ???") and `nummerFormat` (e.g. "Nr. %03d") to form a title.
+	static func create(forCollectionItem höreinheit: Höreinheit, type: CollectionType) -> Self {
+		create(forCollectionItem: höreinheit, titlePrefix: type.titlePrefix, nummerFormat: type.nummerFormat)
+	}
+	
 	/// Create the FFmetadata for a generic collection item with `Self.init(withBasicTagsFrom:)` and using the specified `titlePrefix` (e.g. "Die drei ???") and `nummerFormat` (e.g. "Nr. %03d") to form a title.
-	static func create(forCollectionItem höreinheit: Höreinheit, titlePrefix: String, nummerFormat: String?) -> (base: Self, teile: [Self]?) {
+	static func create(forCollectionItem höreinheit: Höreinheit, titlePrefix: String, nummerFormat: String?) -> Self {
 		// Form title
 		let nummerString: String? = {
 			guard let folge = höreinheit as? Folge, folge.nummer >= 0 else {
@@ -154,40 +160,36 @@ extension FFmetadata {
 		let title = titleComponents.compactMap { $0 }.joined(separator: " ")  // e.g. "Die drei ??? Nr. XXX – Titel"
 		
 		// FFmetadata of base
-		var ffmetadataBase = Self(withBasicTagsFrom: höreinheit)
-		ffmetadataBase.title = title
-		ffmetadataBase.album = title
+		var ffmetadata = Self(withBasicTagsFrom: höreinheit)
+		ffmetadata.title = title
+		ffmetadata.album = title
 		
-		// FFmetadata of teile
-		var ffmetadataTeile: [Self]?
-		if let teile = höreinheit.teile, !teile.isEmpty {
-			ffmetadataTeile = []
-			let maxTeilNummer = teile.map { $0.teilNummer }.max()!
-			
-			for teil in teile {
-				var ffmetadata = Self(withBasicTagsFrom: teil)
-				ffmetadata.album = title
-				ffmetadata.track = (number: teil.teilNummer, total: maxTeilNummer)
-				
-				func baseValueAsPlaceholder<T>(_ keyPath: WritableKeyPath<FFmetadata, T?>) {
-					ffmetadata[keyPath: keyPath] = ffmetadata[keyPath: keyPath] ?? ffmetadataBase[keyPath: keyPath]
-				}
-				baseValueAsPlaceholder(\.artist)
-				baseValueAsPlaceholder(\.album_artist)
-				baseValueAsPlaceholder(\.composer)
-				baseValueAsPlaceholder(\.description)
-				baseValueAsPlaceholder(\.genre)
-				baseValueAsPlaceholder(\.date)
-				
-				ffmetadataTeile!.append(ffmetadata)
-			}
-		}
-		
-		return (base: ffmetadataBase, teile: ffmetadataTeile)
+		return ffmetadata
 	}
 	
-	/// Create the FFmetadata for a collection item of type `type` with `Self.init(withBasicTagsFrom:)` and using the type's specific `titlePrefix` (e.g. "Die drei ???") and `nummerFormat` (e.g. "Nr. %03d") to form a title.
-	static func create(forCollectionItem höreinheit: Höreinheit, type: CollectionType) -> (base: Self, teile: [Self]?) {
-		create(forCollectionItem: höreinheit, titlePrefix: type.titlePrefix, nummerFormat: type.nummerFormat)
+	/// Create the FFmetadata for an array of Teil which share the same base metadata
+	static func create(forTeile teile: [Teil], ofBase ffmetadataBase: FFmetadata) -> [Self] {
+		guard !teile.isEmpty else { return [] }
+		let maxTeilNummer = teile.map { $0.teilNummer }.max()!
+		
+		let ffmetadataTeile: [Self] = teile.map { teil in
+			var ffmetadata = Self(withBasicTagsFrom: teil)
+			ffmetadata.album = ffmetadataBase.title
+			ffmetadata.track = (number: teil.teilNummer, total: maxTeilNummer)
+			
+			func baseValueAsPlaceholder<T>(_ keyPath: WritableKeyPath<FFmetadata, T?>) {
+				ffmetadata[keyPath: keyPath] = ffmetadata[keyPath: keyPath] ?? ffmetadataBase[keyPath: keyPath]
+			}
+			baseValueAsPlaceholder(\.artist)
+			baseValueAsPlaceholder(\.album_artist)
+			baseValueAsPlaceholder(\.composer)
+			baseValueAsPlaceholder(\.description)
+			baseValueAsPlaceholder(\.genre)
+			baseValueAsPlaceholder(\.date)
+			
+			return ffmetadata
+		}
+		
+		return ffmetadataTeile
 	}
 }

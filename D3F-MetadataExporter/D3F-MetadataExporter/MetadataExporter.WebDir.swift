@@ -13,7 +13,9 @@ extension MetadataExporter {
 	enum WebDir {
 		
 		static func export(_ höreinheit: Höreinheit, type: CollectionType, to baseDirectory: URL) throws {
-			func recursive(_ höreinheit: Höreinheit, to baseDirectory: URL) throws {
+			var teileByDepth: [Int: [(teil: Teil, url: URL)]] = [:]
+			
+			func recursive(_ höreinheit: Höreinheit, to baseDirectory: URL, depth: Int = 0) throws {
 				stdout("> \(baseDirectory.path)")
 				guard MetadataExporter.createDirectoryIfNeccessary(at: baseDirectory) else {
 					return
@@ -45,13 +47,13 @@ extension MetadataExporter {
 				if let teile = höreinheit.teile {
 					for teil in teile {
 						let teilURL = baseDirectory.appendingPathComponent(String(teil.teilNummer))
-						try recursive(teil, to: teilURL)
+						teileByDepth[depth, default: []].append((teil, teilURL))
+						try recursive(teil, to: teilURL, depth: depth+1)
 					}
 				}
 			}
 			try recursive(höreinheit, to: baseDirectory)
-			
-			let ffmetadata = FFmetadata.create(forCollectionItem: höreinheit, type: type)
+			let ffmetadataBase = FFmetadata.create(forCollectionItem: höreinheit, type: type)
 			
 			// Create ffmetadata.txt file if links.ffmetadata exists
 			func writeFile(ffmetadata: FFmetadata, at url: URL, for höreinheit: Höreinheit) throws {
@@ -65,13 +67,16 @@ extension MetadataExporter {
 			}
 			
 			// Base
-			try writeFile(ffmetadata: ffmetadata.base, at: baseDirectory, for: höreinheit)
+			try writeFile(ffmetadata: ffmetadataBase, at: baseDirectory, for: höreinheit)
 			
 			// Teile
-			if let teile = höreinheit.teile, let ffmetadataTeile = ffmetadata.teile {
-				try zip(teile, ffmetadataTeile).forEach { (teil, ffmetadata) in
-					let teilURL = baseDirectory.appendingPathComponent(String(teil.teilNummer))
-					try writeFile(ffmetadata: ffmetadata, at: teilURL, for: teil)
+			for teile in teileByDepth.values {
+				let teileWithFFmetadata = teile.filter { $0.teil.links?.ffmetadata != nil }
+				guard !teileWithFFmetadata.isEmpty else { continue }
+				let teileFFmetadata = FFmetadata.create(forTeile: teileWithFFmetadata.map { $0.teil }, ofBase: ffmetadataBase)
+				
+				try zip(teileWithFFmetadata, teileFFmetadata).forEach { (teilTuple, ffmetadata) in
+					try writeFile(ffmetadata: ffmetadata, at: teilTuple.url, for: teilTuple.teil)
 				}
 			}
 		}
