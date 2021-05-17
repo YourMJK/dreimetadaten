@@ -54,7 +54,11 @@
                   "Mann",
                   "Thor W. Müller"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/1/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/1/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 2,
@@ -82,7 +86,11 @@
                   "Cowboy",
                   "Achim Schülke"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/2/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/2/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 3,
@@ -118,7 +126,11 @@
                   "Mann",
                   "Helgo Liebig"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/3/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/3/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 4,
@@ -130,7 +142,11 @@
                   "Bob Andrews",
                   "Andreas Fröhlich"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/4/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/4/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 1,
@@ -156,7 +172,10 @@
               "start" : 2650187,
               "end" : 4017840
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/metadata.json"
+          }
         },
         {
           "teile" : [
@@ -198,7 +217,11 @@
                   "2. Mann",
                   "Patrick Perales"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/5/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/5/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 6,
@@ -210,7 +233,11 @@
                   "Peter Shaw",
                   "Jens Wawrczeck"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/6/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/6/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 7,
@@ -238,7 +265,11 @@
                   "Mrs. Floyd",
                   "Gabriele Libbach"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/7/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/7/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 8,
@@ -270,7 +301,11 @@
                   "Vincent Grimes",
                   "Konstantin Graudus"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/8/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/8/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 2,
@@ -296,7 +331,10 @@
               "start" : 1967360,
               "end" : 2679040
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/metadata.json"
+          }
         },
         {
           "teile" : [
@@ -342,7 +380,11 @@
                   "John",
                   "Martin Sichel"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/9/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/9/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 10,
@@ -354,7 +396,11 @@
                   "Justus Jonas",
                   "Oliver Rohrbeck"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/10/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/10/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 11,
@@ -390,7 +436,11 @@
                   "Frau",
                   "Anja Topf"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/11/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/11/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 12,
@@ -434,7 +484,11 @@
                   "3. Mann",
                   "Roy Martens"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/12/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/12/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 3,
@@ -460,13 +514,19 @@
               "start" : 2681040,
               "end" : 3602480
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/metadata.json"
+          }
         }
       ],
       "titel" : "und die Geisterlampe",
       "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Das gab es noch nie:\n12 Mini-Fälle der drei ???.\nDie drei Autoren Kari Erlhoff, Hendrik Buchna und Marco Sonnleitner erzählen 12 kurze Geschichten, die die drei jungen Detektive aus Rocky Beach teilweise auch mal von ein paar ganz anderen Seiten zeigen.",
-      "veröffentlichungsdatum" : "2012-09-28"
+      "veröffentlichungsdatum" : "2012-09-28",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/metadata.json"
+      }
     },
     {
       "teile" : [
@@ -539,7 +599,11 @@
                   "Meerjungfrau",
                   "Pamela Punti"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 2,
@@ -600,7 +664,11 @@
                   "Bobby",
                   "Merete Brettschneider"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 1,
@@ -635,7 +703,10 @@
               "start" : 2796560,
               "end" : 3073920
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/metadata.json"
+          }
         },
         {
           "teile" : [
@@ -686,7 +757,11 @@
                   "Onkel Titus Jonas",
                   "Hans Meinhardt"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 4,
@@ -751,7 +826,11 @@
                   "Jamie Peterson, Barmann",
                   "Patrick Bach"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/4/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/4/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 2,
@@ -786,7 +865,10 @@
               "start" : 2303627,
               "end" : 2748267
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/metadata.json"
+          }
         },
         {
           "teile" : [
@@ -849,7 +931,11 @@
                   "Mercedes",
                   "Wanda Osten"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 6,
@@ -906,7 +992,11 @@
                   "Off-Sprecherin",
                   "Claudia Stocksieker"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/6/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/6/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 7,
@@ -959,7 +1049,11 @@
                   "Ian Carew",
                   "Sascha Draeger"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/7/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/7/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 3,
@@ -1009,13 +1103,19 @@
               "start" : 3327240,
               "end" : 3898467
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/metadata.json"
+          }
         }
       ],
       "titel" : "Das Rätsel der Sieben",
       "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Sieben Kurzgeschichten von sieben Autoren in einer Hörspiel-Box: Bei diesen Fällen wird so rasant ermittelt, dass die Lösungen nur knapp entfernt sind!\nMysteriös, abenteuerlich, gespenstisch, experimentell, witzig, unheimlich und verflixt: Siebenmal knackig-kurzer Hör-Spaß ist garantiert!",
-      "veröffentlichungsdatum" : "2014-02-21"
+      "veröffentlichungsdatum" : "2014-02-21",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json"
+      }
     },
     {
       "teile" : [
@@ -1068,7 +1168,11 @@
                   "Marvin Gray",
                   "Horst Stark"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/1/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/1/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 2,
@@ -1137,7 +1241,11 @@
                   "TV-Sprecher",
                   "Holger Wemhoff"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/2/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/2/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 3,
@@ -1181,7 +1289,11 @@
                   "Lucy Hopkins",
                   "Topsy Küppers"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/3/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/3/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 1,
@@ -1226,7 +1338,10 @@
               "start" : 2794893,
               "end" : 3652267
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/metadata.json"
+          }
         },
         {
           "teile" : [
@@ -1297,7 +1412,11 @@
                   "Radio",
                   "Wilhelm Wieben"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/4/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/4/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 5,
@@ -1346,7 +1465,11 @@
                   "Mr. Walsh",
                   "Christian Rudolf"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/5/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/5/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 6,
@@ -1420,7 +1543,11 @@
                   "Skinny Norris",
                   "Michael Harck"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/6/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/6/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 2,
@@ -1475,13 +1602,19 @@
               "start" : 4298853,
               "end" : 4569373
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/metadata.json"
+          }
         }
       ],
       "titel" : "und der Zeitgeist",
       "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Die drei ??? übernehmen jeden Fall. Da gibt's immer Überraschungen, ungeahnte Wendungen – und manchmal kommt alles wirklich ganz anders als gedacht! So wie in diesen kurzen Fällen, bei denen die Welt von Justus, Peter und Bob manchmal ganz schön auf den Kopf gestellt wird. Da ist vorwärts dann plötzlich doch rückwärts und vorn ist hinten und gleich nochmal von vorn …\n\nSechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
-      "veröffentlichungsdatum" : "2016-03-04"
+      "veröffentlichungsdatum" : "2016-03-04",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/metadata.json"
+      }
     },
     {
       "teile" : [
@@ -1522,7 +1655,11 @@
                   "Bob Andrews",
                   "Andreas Fröhlich"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/1/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/1/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 2,
@@ -1575,7 +1712,11 @@
                   "Vater",
                   "Douglas Welbat"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/2/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/2/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 1,
@@ -1610,7 +1751,10 @@
               "start" : 3590293,
               "end" : 4096840
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/metadata.json"
+          }
         },
         {
           "teile" : [
@@ -1673,7 +1817,11 @@
                   "Sarah",
                   "Christiane Leuchtmann"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 4,
@@ -1750,7 +1898,11 @@
                   "Tarek Shabana",
                   "Werner Wilkening"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/4/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/4/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 2,
@@ -1785,7 +1937,10 @@
               "start" : 3139773,
               "end" : 3657040
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/metadata.json"
+          }
         },
         {
           "teile" : [
@@ -1860,7 +2015,11 @@
                   "Sprecher",
                   "Andreas Birnbaum"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/ffmetadata.txt"
+              }
             },
             {
               "teilNummer" : 6,
@@ -1913,7 +2072,11 @@
                   "Inspektor Cotta",
                   "Holger Mahlich"
                 ]
-              ]
+              ],
+              "links" : {
+                "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/metadata.json",
+                "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/ffmetadata.txt"
+              }
             }
           ],
           "teilNummer" : 3,
@@ -1948,13 +2111,19 @@
               "start" : 3297213,
               "end" : 3975307
             }
-          ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/metadata.json"
+          }
         }
       ],
       "titel" : "und der schwarze Tag",
       "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.\n\nSechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
-      "veröffentlichungsdatum" : "2018-10-28"
+      "veröffentlichungsdatum" : "2018-10-28",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/metadata.json"
+      }
     }
   ]
 }
