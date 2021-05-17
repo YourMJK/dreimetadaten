@@ -221,7 +221,8 @@
         }
       ],
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/rip_log.txt"
       }
     },
     {
@@ -485,7 +486,8 @@
         }
       ],
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/rip_log.txt"
       }
     }
   ],

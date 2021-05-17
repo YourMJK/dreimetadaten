@@ -135,7 +135,8 @@
         }
       ],
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/rip_log.txt"
       }
     },
     {
@@ -321,7 +322,8 @@
         }
       ],
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/rip_log.txt"
       }
     },
     {
@@ -495,7 +497,8 @@
         }
       ],
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/rip_log.txt"
       }
     }
   ],
