@@ -1,0 +1,73 @@
+{
+  "teilNummer" : 2,
+  "titel" : "Der Raub der Zehntausend",
+  "autor" : "Marco Sonnleitner",
+  "beschreibung" : "Beim Ausliefern einer Standuhr geraten die drei Detektive mitten in einen Kriminalfall, der äußerst explosiv enden könnte …",
+  "kapitel" : [
+    {
+      "titel" : "Der absolute Hammer",
+      "start" : 0,
+      "end" : 193827
+    },
+    {
+      "titel" : "Die Botschaft",
+      "start" : 193827,
+      "end" : 823293
+    },
+    {
+      "titel" : "Ablenkungsmanöver",
+      "start" : 823293,
+      "end" : 1198507
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Nancy McMonigal",
+      "Gerlinde Dilge"
+    ],
+    [
+      "Tom",
+      "Wolfgang Rositzka"
+    ],
+    [
+      "Rod",
+      "Herbert Tennigkeit"
+    ],
+    [
+      "Joe",
+      "Oliver Reichmann"
+    ],
+    [
+      "Ben",
+      "Stephan Chrzescinski"
+    ],
+    [
+      "Mariann",
+      "Simone Ritscher"
+    ],
+    [
+      "TV-Sprecher",
+      "Holger Wemhoff"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/2/ffmetadata.txt"
+  }
+}

@@ -1,0 +1,26 @@
+;FFMETADATA1
+title=Rückwärtsgang
+album=Die drei ??? Kurzgeschichten – und der Zeitgeist
+artist=Thomas Fritsch
+album_artist=André Minninger
+composer=André Marx
+description=In diesem rätselhaften Fall scheint die Zeit aus den Fugen geraten zu sein – mal geht es vorwärts, dann wieder zurück!
+genre=Krimi
+date=2016-03-04
+track=5/6
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=563586
+title=Jetzt
+[CHAPTER]
+TIMEBASE=1/1000
+START=563586
+END=953986
+title=Die Aufzeichnung
+[CHAPTER]
+TIMEBASE=1/1000
+START=953986
+END=1136386
+title=Vorwärts

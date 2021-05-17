@@ -1,0 +1,65 @@
+{
+  "teilNummer" : 2,
+  "titel" : "Bis um sieben zurück",
+  "autor" : "Kari Erlhoff",
+  "beschreibung" : "Bob Andrews rutscht auf dem glitschigen Boden des Schuppens aus und wird ohnmächtig. Als er kurze Zeit später erwacht, scheinen einige Dinge plötzlich recht merkwürdig zu sein … Doch nicht nur für ihn; denn auch seine Eltern scheinen ihn kaum wiederzuerkennen und machen sich die größten Sorgen um ihren Sohn. In ihrer Angst ziehen sie einen Arzt hinzu …",
+  "kapitel" : [
+    {
+      "titel" : "Kopfschmerzen",
+      "start" : 0,
+      "end" : 694933
+    },
+    {
+      "titel" : "Erwischt!",
+      "start" : 694933,
+      "end" : 1199813
+    },
+    {
+      "titel" : "Bobby",
+      "start" : 1199813,
+      "end" : 1477173
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Andrews",
+      "Henry König"
+    ],
+    [
+      "Mrs. Andrews",
+      "Konstanze Ullmer"
+    ],
+    [
+      "Arzt",
+      "Erik Schäffler"
+    ],
+    [
+      "Mrs. Wallace",
+      "Angela Stresemann"
+    ],
+    [
+      "Bobby",
+      "Merete Brettschneider"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/ffmetadata.txt"
+  }
+}

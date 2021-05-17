@@ -1,0 +1,57 @@
+{
+  "teilNummer" : 2,
+  "titel" : "Schwarze Seelen",
+  "autor" : "André Minninger",
+  "beschreibung" : "Die gegenseitigen Beschuldigungen der Zwillingsschwestern Helen und Ellen stellen die drei Detektive auf eine harte Zerreißprobe. Wird es ihnen dennoch gelingen, die wahre Täterin zu überführen?",
+  "kapitel" : [
+    {
+      "titel" : "Ohne Gewissen",
+      "start" : 0,
+      "end" : 645160
+    },
+    {
+      "titel" : "Ohne Rücksicht",
+      "start" : 645160,
+      "end" : 1349373
+    },
+    {
+      "titel" : "Ohne Reue",
+      "start" : 1349373,
+      "end" : 1855920
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Helen",
+      "Balancinha Blanc (Dorette Hugo)"
+    ],
+    [
+      "Ellen",
+      "Dorette Hugo"
+    ],
+    [
+      "Vater",
+      "Douglas Welbat"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/2/ffmetadata.txt"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "teilNummer" : 3,
+  "titel" : "Bobs schwerste Stunde",
+  "autor" : "Hendrik Buchna",
+  "beschreibung" : "Bob weicht jede Farbe aus dem Gesicht. Wie vom Blitz getroffen steht er vor dem geöffneten Aktenschrank und lässt seinen Blick über die leeren Regale schweifen. Einbrecher haben das gesamte Fall-Archiv der drei Detektive gestohlen! Die Sammlung scheint für immer verloren zu sein. Doch dann entdeckt Justus einen Zettel mit einer merkwürdigen Botschaft …",
+  "kapitel" : [
+    {
+      "titel" : "Alles weg!",
+      "start" : 0,
+      "end" : 433867
+    },
+    {
+      "titel" : "Gruselstimme",
+      "start" : 433867,
+      "end" : 973600
+    },
+    {
+      "titel" : "Aufwendiges Vorhaben",
+      "start" : 973600,
+      "end" : 1574187
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus Jonas",
+      "Hans Meinhardt"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/ffmetadata.txt"
+  }
+}

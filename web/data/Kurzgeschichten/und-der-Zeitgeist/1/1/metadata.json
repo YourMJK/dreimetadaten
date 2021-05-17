@@ -1,0 +1,53 @@
+{
+  "teilNummer" : 1,
+  "titel" : "Immer und immer wieder",
+  "autor" : "Hendrik Buchna",
+  "beschreibung" : "Peter ist ratlos: in wenigen Minuten wird die Zentrale zerstört werden, und er kann nichts dagegen tun! Erst ein Tipp vom Ersten Detektiv bringt ihn auf die richtige Spur – oder doch nicht?",
+  "kapitel" : [
+    {
+      "titel" : "Sieben",
+      "start" : 0,
+      "end" : 172213
+    },
+    {
+      "titel" : "Variationen",
+      "start" : 172213,
+      "end" : 590280
+    },
+    {
+      "titel" : "Elf",
+      "start" : 590280,
+      "end" : 950800
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Hüne",
+      "Johannes Semm"
+    ],
+    [
+      "Marvin Gray",
+      "Horst Stark"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/1/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/1/ffmetadata.txt"
+  }
+}

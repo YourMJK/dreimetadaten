@@ -1,0 +1,78 @@
+{
+  "teilNummer" : 6,
+  "titel" : "Zeit der Opfer, Zeit der Wunder",
+  "autor" : "Christoph Dittert, Kari Erlhoff",
+  "beschreibung" : "Eigentlich geht es nur um ein Literaturprojekt für die Schule – doch mit den drei ??? wird auch das schnell zu einem Abenteuer …",
+  "kapitel" : [
+    {
+      "titel" : "Die richtige Perspektive",
+      "start" : 0,
+      "end" : 524827
+    },
+    {
+      "titel" : "Die nächste Stufe",
+      "start" : 524827,
+      "end" : 964467
+    },
+    {
+      "titel" : "Einfach galaktisch!",
+      "start" : 964467,
+      "end" : 1413600
+    },
+    {
+      "titel" : "Objekt der Begierde",
+      "start" : 1413600,
+      "end" : 1684120
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Weise Frau",
+      "Dorothea Hagena"
+    ],
+    [
+      "Kelly",
+      "Juliane Szalay-Pracht"
+    ],
+    [
+      "Patrick",
+      "Nicolas König"
+    ],
+    [
+      "Samuel",
+      "Johannes Semm"
+    ],
+    [
+      "Kenneth",
+      "Olaf Reichmann"
+    ],
+    [
+      "Liz Zapata",
+      "Merete Brettschneider"
+    ],
+    [
+      "Skinny Norris",
+      "Michael Harck"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/6/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/6/ffmetadata.txt"
+  }
+}

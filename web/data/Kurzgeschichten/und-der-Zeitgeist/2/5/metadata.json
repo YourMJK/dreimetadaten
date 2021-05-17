@@ -1,0 +1,53 @@
+{
+  "teilNummer" : 5,
+  "titel" : "Rückwärtsgang",
+  "autor" : "André Marx",
+  "beschreibung" : "In diesem rätselhaften Fall scheint die Zeit aus den Fugen geraten zu sein – mal geht es vorwärts, dann wieder zurück!",
+  "kapitel" : [
+    {
+      "titel" : "Jetzt",
+      "start" : 0,
+      "end" : 563586
+    },
+    {
+      "titel" : "Die Aufzeichnung",
+      "start" : 563586,
+      "end" : 953986
+    },
+    {
+      "titel" : "Vorwärts",
+      "start" : 953986,
+      "end" : 1136386
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mr. Tilton",
+      "Christian Senger"
+    ],
+    [
+      "Mr. Walsh",
+      "Christian Rudolf"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/5/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/5/ffmetadata.txt"
+  }
+}

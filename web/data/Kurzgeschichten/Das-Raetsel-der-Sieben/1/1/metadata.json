@@ -1,0 +1,73 @@
+{
+  "teilNummer" : 1,
+  "titel" : "Der siebte Gast",
+  "autor" : "André Minninger",
+  "beschreibung" : "Mrs. Emily White spürt instinktiv, dass an dem Schreiben von ihrer Freundin Judy Fradkin etwas faul ist. Warum wurde die alte Dame von dem Jahrestreffen der Märchenfiguren so urplötzlich ausgeladen? Um der Sache auf den Grund zu gehen, holt sich Mrs White die Unterstützung der drei ???.",
+  "kapitel" : [
+    {
+      "titel" : "Inszenierung neuer Geschichten",
+      "start" : 0,
+      "end" : 439267
+    },
+    {
+      "titel" : "Die Worte einer Lügenhexe",
+      "start" : 439267,
+      "end" : 774387
+    },
+    {
+      "titel" : "Prinzessin in Champagnerlaune",
+      "start" : 774387,
+      "end" : 1596747
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Emily White",
+      "Sabine Hahn"
+    ],
+    [
+      "Judy Fradkin",
+      "Ursula Heyer"
+    ],
+    [
+      "Aladin",
+      "Heidi Schaffrath"
+    ],
+    [
+      "Aschenputtel",
+      "Regina Lemnitz"
+    ],
+    [
+      "Prinzessin",
+      "Renate Pichler"
+    ],
+    [
+      "Rotkäppchen",
+      "Angela Stresemann"
+    ],
+    [
+      "Meerjungfrau",
+      "Pamela Punti"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/ffmetadata.txt"
+  }
+}

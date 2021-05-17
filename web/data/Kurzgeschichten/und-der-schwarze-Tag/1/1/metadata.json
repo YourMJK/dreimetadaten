@@ -1,0 +1,41 @@
+{
+  "teilNummer" : 1,
+  "titel" : "Das schwarze Verlies",
+  "autor" : "Ben Nevis",
+  "beschreibung" : "Es ist dunkel. Mehr als dunkel. Schwarz. Peter erwacht und ist gefesselt! Wo befindet er sich? Ist alles nur ein Traum? Plötzlich vernimmt er ein seltsames Grunzen. Ein Kampfhund …? Dann kehren seine Erinnerungen zurück!",
+  "kapitel" : [
+    {
+      "titel" : "Gefesselt",
+      "start" : 0,
+      "end" : 826640
+    },
+    {
+      "titel" : "Betäubt",
+      "start" : 826640,
+      "end" : 1316773
+    },
+    {
+      "titel" : "Verrostet",
+      "start" : 1316773,
+      "end" : 2240920
+    }
+  ],
+  "sprecher" : [
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/1/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/1/ffmetadata.txt"
+  }
+}

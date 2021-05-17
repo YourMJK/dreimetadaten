@@ -1,0 +1,57 @@
+{
+  "teilNummer" : 6,
+  "titel" : "Das schwarze Nest",
+  "autor" : "Hendrik Buchna",
+  "beschreibung" : "Das Telefon klingelt nicht in der Zentrale der drei Detektive. Doch Justus hört es ganz deutlich. Leidet er unter Wahnvorstellungen? Und auch Peter wird von argen Problemen geplagt: Er muss unbedingt das große Sackhüpfturnier gewinnen!\nBob wird endlich aus dem Krankenhaus entlassen und wundert sich über gar nichts mehr …",
+  "kapitel" : [
+    {
+      "titel" : "Grabesstille",
+      "start" : 0,
+      "end" : 547413
+    },
+    {
+      "titel" : "Demokratische Abstimmung",
+      "start" : 547413,
+      "end" : 1040413
+    },
+    {
+      "titel" : "Fall gelöst",
+      "start" : 1040413,
+      "end" : 1718507
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Blacky",
+      "Pamela Punti"
+    ],
+    [
+      "Kassiererin",
+      "Angela Stresemann"
+    ],
+    [
+      "Inspektor Cotta",
+      "Holger Mahlich"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/ffmetadata.txt"
+  }
+}

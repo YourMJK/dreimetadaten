@@ -1,0 +1,73 @@
+{
+  "teilNummer" : 4,
+  "titel" : "Leaving Nineteen Sixty-four",
+  "autor" : "Ben Nevis",
+  "beschreibung" : "Professor Selby hat die drei ??? auf eine Reise durch die Zeit geschickt – nun müssen sie ein Rätsel lösen, um zurückzukehren.",
+  "kapitel" : [
+    {
+      "titel" : "Überraschung",
+      "start" : 0,
+      "end" : 477000
+    },
+    {
+      "titel" : "Ein schlechter Scherz",
+      "start" : 477000,
+      "end" : 991520
+    },
+    {
+      "titel" : "Ein Ass im Ärmel",
+      "start" : 991520,
+      "end" : 1748867
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Onkel Titus Jonas",
+      "Hans Meinhardt"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Professor Selby",
+      "Claus Wilcke"
+    ],
+    [
+      "Oberpriesterin",
+      "Elga Schütz"
+    ],
+    [
+      "Kevin",
+      "Patrick Mölleken"
+    ],
+    [
+      "Mann in Kutte",
+      "Rüdiger Hellmann"
+    ],
+    [
+      "Radio",
+      "Wilhelm Wieben"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/4/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/4/ffmetadata.txt"
+  }
+}

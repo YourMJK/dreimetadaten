@@ -1,0 +1,509 @@
+{
+  "teile" : [
+    {
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "titel" : "Das schwarze Verlies",
+          "autor" : "Ben Nevis",
+          "beschreibung" : "Es ist dunkel. Mehr als dunkel. Schwarz. Peter erwacht und ist gefesselt! Wo befindet er sich? Ist alles nur ein Traum? Plötzlich vernimmt er ein seltsames Grunzen. Ein Kampfhund …? Dann kehren seine Erinnerungen zurück!",
+          "kapitel" : [
+            {
+              "titel" : "Gefesselt",
+              "start" : 0,
+              "end" : 826640
+            },
+            {
+              "titel" : "Betäubt",
+              "start" : 826640,
+              "end" : 1316773
+            },
+            {
+              "titel" : "Verrostet",
+              "start" : 1316773,
+              "end" : 2240920
+            }
+          ],
+          "sprecher" : [
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/1/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/1/ffmetadata.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "titel" : "Schwarze Seelen",
+          "autor" : "André Minninger",
+          "beschreibung" : "Die gegenseitigen Beschuldigungen der Zwillingsschwestern Helen und Ellen stellen die drei Detektive auf eine harte Zerreißprobe. Wird es ihnen dennoch gelingen, die wahre Täterin zu überführen?",
+          "kapitel" : [
+            {
+              "titel" : "Ohne Gewissen",
+              "start" : 0,
+              "end" : 645160
+            },
+            {
+              "titel" : "Ohne Rücksicht",
+              "start" : 645160,
+              "end" : 1349373
+            },
+            {
+              "titel" : "Ohne Reue",
+              "start" : 1349373,
+              "end" : 1855920
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Axel Milberg"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Helen",
+              "Balancinha Blanc (Dorette Hugo)"
+            ],
+            [
+              "Ellen",
+              "Dorette Hugo"
+            ],
+            [
+              "Vater",
+              "Douglas Welbat"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/2/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/2/ffmetadata.txt"
+          }
+        }
+      ],
+      "teilNummer" : 1,
+      "kapitel" : [
+        {
+          "titel" : "Das schwarze Verlies – Gefesselt",
+          "start" : 0,
+          "end" : 826640
+        },
+        {
+          "titel" : "Das schwarze Verlies – Betäubt",
+          "start" : 826640,
+          "end" : 1316773
+        },
+        {
+          "titel" : "Das schwarze Verlies – Verrostet",
+          "start" : 1316773,
+          "end" : 2240920
+        },
+        {
+          "titel" : "Schwarze Seelen – Ohne Gewissen",
+          "start" : 2240920,
+          "end" : 2886080
+        },
+        {
+          "titel" : "Schwarze Seelen – Ohne Rücksicht",
+          "start" : 2886080,
+          "end" : 3590293
+        },
+        {
+          "titel" : "Schwarze Seelen – Ohne Reue",
+          "start" : 3590293,
+          "end" : 4096840
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/metadata.json"
+      }
+    },
+    {
+      "teile" : [
+        {
+          "teilNummer" : 3,
+          "titel" : "Ein schwarzer Tag für Mr. Kingstone",
+          "autor" : "Christoph Dittert",
+          "beschreibung" : "Ausgerechnet Skinny Norris beauftragt die drei Detektive mit einem neuen Fall: Wer erpresst Mr. Kingstone, den blinden Betreiber des Dunkelrestaurants in Rocky Beach? In totaler Finsternis ermitteln Justus, Peter und Bob, um dem skrupellosen Verbrecher auf die Schliche zu kommen. Doch wird ihre Falle auch zuschnappen?",
+          "kapitel" : [
+            {
+              "titel" : "Unverschämter Kerl",
+              "start" : 0,
+              "end" : 526840
+            },
+            {
+              "titel" : "Dunkelrestaurant",
+              "start" : 526840,
+              "end" : 1199413
+            },
+            {
+              "titel" : "Kontaktschranke",
+              "start" : 1199413,
+              "end" : 1889653
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Axel Milberg"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Tante Mathilda Jonas",
+              "Karin Lieneweg"
+            ],
+            [
+              "Skinny Norris",
+              "Michael Harck"
+            ],
+            [
+              "Marc Kingstone",
+              "Rainer Brandt"
+            ],
+            [
+              "Aaron Kingstone",
+              "Tommi Piper"
+            ],
+            [
+              "Sarah",
+              "Christiane Leuchtmann"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/ffmetadata.txt"
+          }
+        },
+        {
+          "teilNummer" : 4,
+          "titel" : "Wer hat Angst vorm Schwarzen Mann",
+          "autor" : "Marco Sonnleitner",
+          "beschreibung" : "In einem Kindergarten in Rocky Beach herrscht größte Besorgnis: Wurden die Kinder tatsächlich allesamt von einem unheimlichen \"Schwarzen Mann\" heimgesucht? Die Ermittlungen der drei ??? führen zum ominösen \"Herz von Afrika\" …",
+          "kapitel" : [
+            {
+              "titel" : "Albtraum?",
+              "start" : 0,
+              "end" : 601054
+            },
+            {
+              "titel" : "Das Herz von Afrika",
+              "start" : 601054,
+              "end" : 1250120
+            },
+            {
+              "titel" : "Lasso-Künste",
+              "start" : 1250120,
+              "end" : 1767387
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Axel Milberg"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Kelly Madigan",
+              "Juliane Szalay"
+            ],
+            [
+              "Mrs. McGee",
+              "Alice Krimmel"
+            ],
+            [
+              "Toby",
+              "A. Stengelin"
+            ],
+            [
+              "Mrs. Wells",
+              "Heidi Schaffrath"
+            ],
+            [
+              "Junge",
+              "Linus Tauber"
+            ],
+            [
+              "Mädchen",
+              "Katinka Jaekel"
+            ],
+            [
+              "Ericsson",
+              "Detlev Tams"
+            ],
+            [
+              "Sprecher/Moderator",
+              "Oliver Böttcher"
+            ],
+            [
+              "Tarek Shabana",
+              "Werner Wilkening"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/4/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/4/ffmetadata.txt"
+          }
+        }
+      ],
+      "teilNummer" : 2,
+      "kapitel" : [
+        {
+          "titel" : "Ein schwarzer Tag für Mr. Kingstone – Unverschämter Kerl",
+          "start" : 0,
+          "end" : 526840
+        },
+        {
+          "titel" : "Ein schwarzer Tag für Mr. Kingstone – Dunkelrestaurant",
+          "start" : 526840,
+          "end" : 1199413
+        },
+        {
+          "titel" : "Ein schwarzer Tag für Mr. Kingstone – Kontaktschranke",
+          "start" : 1199413,
+          "end" : 1889653
+        },
+        {
+          "titel" : "Wer hat Angst vorm Schwarzen Mann – Albtraum?",
+          "start" : 1889653,
+          "end" : 2490707
+        },
+        {
+          "titel" : "Wer hat Angst vorm Schwarzen Mann – Das Herz von Afrika",
+          "start" : 2490707,
+          "end" : 3139773
+        },
+        {
+          "titel" : "Wer hat Angst vorm Schwarzen Mann – Lasso-Künste",
+          "start" : 3139773,
+          "end" : 3657040
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/metadata.json"
+      }
+    },
+    {
+      "teile" : [
+        {
+          "teilNummer" : 5,
+          "titel" : "Die schwarze PhantOma",
+          "autor" : "Kari Erlhoff",
+          "beschreibung" : "Wer steckt hinter der unheimlichen Porschefahrerin, von der Justus beinahe überfahren wurde!? Auch Peter wird von ihr mit einem heftigen Fausthieb niedergestreckt! Wer ist die humpelnde Rentnerin, die als \"PhantOma\" in Rocky Beach ihr Unwesen treibt? An Verdächtigen mangelt es keineswegs …",
+          "kapitel" : [
+            {
+              "titel" : "Wasserdichte Alibis",
+              "start" : 0,
+              "end" : 828067
+            },
+            {
+              "titel" : "Kriminelle Abwege",
+              "start" : 828067,
+              "end" : 1373493
+            },
+            {
+              "titel" : "Tägliches Training",
+              "start" : 1373493,
+              "end" : 2256800
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Axel Milberg"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Tasha",
+              "Victoria Zöller"
+            ],
+            [
+              "Domino Laverna",
+              "Sabine Hahn"
+            ],
+            [
+              "Biff Rodgers, Reporter",
+              "Daniel Schütter"
+            ],
+            [
+              "Lesley Dimple",
+              "Ann Montenbruck"
+            ],
+            [
+              "Zeus Zenon Johnson",
+              "Michael Prelle"
+            ],
+            [
+              "Computer",
+              "Peter Bayer"
+            ],
+            [
+              "Off-Sprecher",
+              "Frank Roder"
+            ],
+            [
+              "Sprecher",
+              "Andreas Birnbaum"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/ffmetadata.txt"
+          }
+        },
+        {
+          "teilNummer" : 6,
+          "titel" : "Das schwarze Nest",
+          "autor" : "Hendrik Buchna",
+          "beschreibung" : "Das Telefon klingelt nicht in der Zentrale der drei Detektive. Doch Justus hört es ganz deutlich. Leidet er unter Wahnvorstellungen? Und auch Peter wird von argen Problemen geplagt: Er muss unbedingt das große Sackhüpfturnier gewinnen!\nBob wird endlich aus dem Krankenhaus entlassen und wundert sich über gar nichts mehr …",
+          "kapitel" : [
+            {
+              "titel" : "Grabesstille",
+              "start" : 0,
+              "end" : 547413
+            },
+            {
+              "titel" : "Demokratische Abstimmung",
+              "start" : 547413,
+              "end" : 1040413
+            },
+            {
+              "titel" : "Fall gelöst",
+              "start" : 1040413,
+              "end" : 1718507
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Axel Milberg"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Blacky",
+              "Pamela Punti"
+            ],
+            [
+              "Kassiererin",
+              "Angela Stresemann"
+            ],
+            [
+              "Inspektor Cotta",
+              "Holger Mahlich"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/ffmetadata.txt"
+          }
+        }
+      ],
+      "teilNummer" : 3,
+      "kapitel" : [
+        {
+          "titel" : "Die schwarze PhantOma – Wasserdichte Alibis",
+          "start" : 0,
+          "end" : 828067
+        },
+        {
+          "titel" : "Die schwarze PhantOma – Kriminelle Abwege",
+          "start" : 828067,
+          "end" : 1373493
+        },
+        {
+          "titel" : "Die schwarze PhantOma – Tägliches Training",
+          "start" : 1373493,
+          "end" : 2256800
+        },
+        {
+          "titel" : "Das schwarze Nest – Grabesstille",
+          "start" : 2256800,
+          "end" : 2804213
+        },
+        {
+          "titel" : "Das schwarze Nest – Demokratische Abstimmung",
+          "start" : 2804213,
+          "end" : 3297213
+        },
+        {
+          "titel" : "Das schwarze Nest – Fall gelöst",
+          "start" : 3297213,
+          "end" : 3975307
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/metadata.json"
+      }
+    }
+  ],
+  "titel" : "und der schwarze Tag",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.\n\nSechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
+  "veröffentlichungsdatum" : "2018-10-28",
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/metadata.json"
+  }
+}

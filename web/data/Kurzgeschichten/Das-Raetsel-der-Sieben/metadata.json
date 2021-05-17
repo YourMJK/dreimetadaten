@@ -1,0 +1,589 @@
+{
+  "teile" : [
+    {
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "titel" : "Der siebte Gast",
+          "autor" : "André Minninger",
+          "beschreibung" : "Mrs. Emily White spürt instinktiv, dass an dem Schreiben von ihrer Freundin Judy Fradkin etwas faul ist. Warum wurde die alte Dame von dem Jahrestreffen der Märchenfiguren so urplötzlich ausgeladen? Um der Sache auf den Grund zu gehen, holt sich Mrs White die Unterstützung der drei ???.",
+          "kapitel" : [
+            {
+              "titel" : "Inszenierung neuer Geschichten",
+              "start" : 0,
+              "end" : 439267
+            },
+            {
+              "titel" : "Die Worte einer Lügenhexe",
+              "start" : 439267,
+              "end" : 774387
+            },
+            {
+              "titel" : "Prinzessin in Champagnerlaune",
+              "start" : 774387,
+              "end" : 1596747
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Emily White",
+              "Sabine Hahn"
+            ],
+            [
+              "Judy Fradkin",
+              "Ursula Heyer"
+            ],
+            [
+              "Aladin",
+              "Heidi Schaffrath"
+            ],
+            [
+              "Aschenputtel",
+              "Regina Lemnitz"
+            ],
+            [
+              "Prinzessin",
+              "Renate Pichler"
+            ],
+            [
+              "Rotkäppchen",
+              "Angela Stresemann"
+            ],
+            [
+              "Meerjungfrau",
+              "Pamela Punti"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/ffmetadata.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "titel" : "Bis um sieben zurück",
+          "autor" : "Kari Erlhoff",
+          "beschreibung" : "Bob Andrews rutscht auf dem glitschigen Boden des Schuppens aus und wird ohnmächtig. Als er kurze Zeit später erwacht, scheinen einige Dinge plötzlich recht merkwürdig zu sein … Doch nicht nur für ihn; denn auch seine Eltern scheinen ihn kaum wiederzuerkennen und machen sich die größten Sorgen um ihren Sohn. In ihrer Angst ziehen sie einen Arzt hinzu …",
+          "kapitel" : [
+            {
+              "titel" : "Kopfschmerzen",
+              "start" : 0,
+              "end" : 694933
+            },
+            {
+              "titel" : "Erwischt!",
+              "start" : 694933,
+              "end" : 1199813
+            },
+            {
+              "titel" : "Bobby",
+              "start" : 1199813,
+              "end" : 1477173
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Mr. Andrews",
+              "Henry König"
+            ],
+            [
+              "Mrs. Andrews",
+              "Konstanze Ullmer"
+            ],
+            [
+              "Arzt",
+              "Erik Schäffler"
+            ],
+            [
+              "Mrs. Wallace",
+              "Angela Stresemann"
+            ],
+            [
+              "Bobby",
+              "Merete Brettschneider"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/ffmetadata.txt"
+          }
+        }
+      ],
+      "teilNummer" : 1,
+      "kapitel" : [
+        {
+          "titel" : "Der siebte Gast – Inszenierung neuer Geschichten",
+          "start" : 0,
+          "end" : 439267
+        },
+        {
+          "titel" : "Der siebte Gast – Die Worte einer Lügenhexe",
+          "start" : 439267,
+          "end" : 774387
+        },
+        {
+          "titel" : "Der siebte Gast – Prinzessin in Champagnerlaune",
+          "start" : 774387,
+          "end" : 1596747
+        },
+        {
+          "titel" : "Bis um sieben zurück – Kopfschmerzen",
+          "start" : 1596747,
+          "end" : 2291680
+        },
+        {
+          "titel" : "Bis um sieben zurück – Erwischt!",
+          "start" : 2291680,
+          "end" : 2796560
+        },
+        {
+          "titel" : "Bis um sieben zurück – Bobby",
+          "start" : 2796560,
+          "end" : 3073920
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/metadata.json"
+      }
+    },
+    {
+      "teile" : [
+        {
+          "teilNummer" : 3,
+          "titel" : "Bobs schwerste Stunde",
+          "autor" : "Hendrik Buchna",
+          "beschreibung" : "Bob weicht jede Farbe aus dem Gesicht. Wie vom Blitz getroffen steht er vor dem geöffneten Aktenschrank und lässt seinen Blick über die leeren Regale schweifen. Einbrecher haben das gesamte Fall-Archiv der drei Detektive gestohlen! Die Sammlung scheint für immer verloren zu sein. Doch dann entdeckt Justus einen Zettel mit einer merkwürdigen Botschaft …",
+          "kapitel" : [
+            {
+              "titel" : "Alles weg!",
+              "start" : 0,
+              "end" : 433867
+            },
+            {
+              "titel" : "Gruselstimme",
+              "start" : 433867,
+              "end" : 973600
+            },
+            {
+              "titel" : "Aufwendiges Vorhaben",
+              "start" : 973600,
+              "end" : 1574187
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Tante Mathilda Jonas",
+              "Karin Lieneweg"
+            ],
+            [
+              "Onkel Titus Jonas",
+              "Hans Meinhardt"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/ffmetadata.txt"
+          }
+        },
+        {
+          "teilNummer" : 4,
+          "titel" : "Die rote Sieben",
+          "autor" : "Marco Sonnleitner",
+          "beschreibung" : "\"Ihre Einsätze bitte!\" Während der Croupier im Casino des Luxusdampfers die Kugel in der Roulette-Schüssel kreisen lässt, wird in Kabine 347 ein Passagier niedergeschlagen und ausgeraubt! Ein Fall für die drei Detektive, die auf dem Schiff gerade als Aushilfskellner arbeiten …",
+          "kapitel" : [
+            {
+              "titel" : "Rien ne va plus",
+              "start" : 0,
+              "end" : 295293
+            },
+            {
+              "titel" : "Blutspuren",
+              "start" : 295293,
+              "end" : 729440
+            },
+            {
+              "titel" : "Abgekartetes Spiel",
+              "start" : 729440,
+              "end" : 1174080
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Croupier",
+              "Gosta Liptow"
+            ],
+            [
+              "Carl Hopkins, Physiker",
+              "Ben Hecker"
+            ],
+            [
+              "Miller, Schiffsdetektiv",
+              "Michael Grimm"
+            ],
+            [
+              "Kapitän Sherwood",
+              "Horst Naumann"
+            ],
+            [
+              "Theodore Quaid",
+              "Dietrich Adam"
+            ],
+            [
+              "Jamie Peterson, Barmann",
+              "Patrick Bach"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/4/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/4/ffmetadata.txt"
+          }
+        }
+      ],
+      "teilNummer" : 2,
+      "kapitel" : [
+        {
+          "titel" : "Bobs schwerste Stunde – Alles weg!",
+          "start" : 0,
+          "end" : 433867
+        },
+        {
+          "titel" : "Bobs schwerste Stunde – Gruselstimme",
+          "start" : 433867,
+          "end" : 973600
+        },
+        {
+          "titel" : "Bobs schwerste Stunde – Aufwendiges Vorhaben",
+          "start" : 973600,
+          "end" : 1574187
+        },
+        {
+          "titel" : "Die rote Sieben – Rien ne va plus!",
+          "start" : 1574187,
+          "end" : 1869480
+        },
+        {
+          "titel" : "Die rote Sieben – Blutspuren",
+          "start" : 1869480,
+          "end" : 2303627
+        },
+        {
+          "titel" : "Die rote Sieben – Abgekartetes Spiel",
+          "start" : 2303627,
+          "end" : 2748267
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/metadata.json"
+      }
+    },
+    {
+      "teile" : [
+        {
+          "teilNummer" : 5,
+          "titel" : "Schutzgeld",
+          "autor" : "Ben Nevis",
+          "beschreibung" : "Wer ist die seltsame Dame, die so auffällig unauffällig durch die Einkaufsstraße schleicht, und sich dabei immer wieder ängstlich umsieht? Als sich die drei Detektive an ihre Fersen heften und die Verdächtige demaskieren, erleben sie eine große Überraschung. Doch jetzt fangen die Schwierigkeiten erst an …",
+          "kapitel" : [
+            {
+              "titel" : "Überraschung!",
+              "start" : 0,
+              "end" : 277693
+            },
+            {
+              "titel" : "Arges Misstrauen",
+              "start" : 277693,
+              "end" : 941400
+            },
+            {
+              "titel" : "Sieben harte Stunden",
+              "start" : 941400,
+              "end" : 1389800
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Onkel Titus Jonas",
+              "Hans Meinhardt"
+            ],
+            [
+              "Tante Mathilda Jonas",
+              "Karin Lieneweg"
+            ],
+            [
+              "Handerson",
+              "Wolfgang Rositzka"
+            ],
+            [
+              "Diego",
+              "Stefan Benson"
+            ],
+            [
+              "Mercedes",
+              "Wanda Osten"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/ffmetadata.txt"
+          }
+        },
+        {
+          "teilNummer" : 6,
+          "titel" : "Die siebte Frau des Leuchters",
+          "autor" : "Christoph Dittert",
+          "beschreibung" : "\"Mein Name ist Nayeli. Und ich bin ein Dieb!\" Der junge Mann, der bei den drei Detektiven auf dem Schrottplatz auftaucht, zieht einen antiken Kerzenhalter aus seinem Rucksack und erzählt dazu eine seltsame Geschichte. Doch wer ist der Fremde, der urplötzlich auftaucht und Nayeli dann in die Flucht schlägt? Unversehens geraten Justus, Bob und Peter in große Gefahr …",
+          "kapitel" : [
+            {
+              "titel" : "Böse Macht im Grab",
+              "start" : 0,
+              "end" : 285107
+            },
+            {
+              "titel" : "Auf dem Geisterschiff",
+              "start" : 285107,
+              "end" : 629667
+            },
+            {
+              "titel" : "Freier Wille",
+              "start" : 629667,
+              "end" : 1409027
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Nayeli",
+              "Stefan Brönneke"
+            ],
+            [
+              "Barker",
+              "Ben Hecker"
+            ],
+            [
+              "Onkel Titus Jonas",
+              "Hans Meinhardt"
+            ],
+            [
+              "Off-Sprecherin",
+              "Claudia Stocksieker"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/6/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/6/ffmetadata.txt"
+          }
+        },
+        {
+          "teilNummer" : 7,
+          "titel" : "Die verschwundene Torte",
+          "autor" : "André Marx",
+          "beschreibung" : "An Justus' Geburtstag muss der erste Detektiv eine schwere Niederlage einstecken: Ausgerechnet seine Geburtstagstorte wurde über Nacht aus der Freiluftwerkstatt gestohlen! Doch wer kommt als Täter in Frage? Mit Hilfe einer Überwachungskamera sollte der Dieb doch zu identifizieren sein – oder etwa nicht?",
+          "kapitel" : [
+            {
+              "titel" : "In Angst und Schrecken",
+              "start" : 0,
+              "end" : 367840
+            },
+            {
+              "titel" : "Gescanntes Areal",
+              "start" : 367840,
+              "end" : 528413
+            },
+            {
+              "titel" : "Des Rätsels Lösung",
+              "start" : 528413,
+              "end" : 1099640
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Tante Mathilda Jonas",
+              "Karin Lieneweg"
+            ],
+            [
+              "Onkel Titus Jonas",
+              "Hans Meinhardt"
+            ],
+            [
+              "Ian Carew",
+              "Sascha Draeger"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/7/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/7/ffmetadata.txt"
+          }
+        }
+      ],
+      "teilNummer" : 3,
+      "kapitel" : [
+        {
+          "titel" : "Schutzgeld – Überraschung!",
+          "start" : 0,
+          "end" : 277693
+        },
+        {
+          "titel" : "Schutzgeld – Arges Misstrauen",
+          "start" : 277693,
+          "end" : 941400
+        },
+        {
+          "titel" : "Schutzgeld – Sieben harte Stunden",
+          "start" : 941400,
+          "end" : 1389800
+        },
+        {
+          "titel" : "Die siebte Frau des Leuchters – Böse Macht im Grab",
+          "start" : 1389800,
+          "end" : 1674907
+        },
+        {
+          "titel" : "Die siebte Frau des Leuchters – Auf dem Geisterschiff",
+          "start" : 1674907,
+          "end" : 2019467
+        },
+        {
+          "titel" : "Die siebte Frau des Leuchters – Freier Wille",
+          "start" : 2019467,
+          "end" : 2798827
+        },
+        {
+          "titel" : "Die verschwundene Torte – In Angst und Schrecken",
+          "start" : 2798827,
+          "end" : 3166667
+        },
+        {
+          "titel" : "Die verschwundene Torte – Gescanntes Areals",
+          "start" : 3166667,
+          "end" : 3327240
+        },
+        {
+          "titel" : "Die verschwundene Torte – Des Rätsels Lösung",
+          "start" : 3327240,
+          "end" : 3898467
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/metadata.json"
+      }
+    }
+  ],
+  "titel" : "Das Rätsel der Sieben",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Sieben Kurzgeschichten von sieben Autoren in einer Hörspiel-Box: Bei diesen Fällen wird so rasant ermittelt, dass die Lösungen nur knapp entfernt sind!\nMysteriös, abenteuerlich, gespenstisch, experimentell, witzig, unheimlich und verflixt: Siebenmal knackig-kurzer Hör-Spaß ist garantiert!",
+  "veröffentlichungsdatum" : "2014-02-21",
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json"
+  }
+}

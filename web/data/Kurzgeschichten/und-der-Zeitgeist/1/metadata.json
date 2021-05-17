@@ -1,0 +1,224 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "titel" : "Immer und immer wieder",
+      "autor" : "Hendrik Buchna",
+      "beschreibung" : "Peter ist ratlos: in wenigen Minuten wird die Zentrale zerstört werden, und er kann nichts dagegen tun! Erst ein Tipp vom Ersten Detektiv bringt ihn auf die richtige Spur – oder doch nicht?",
+      "kapitel" : [
+        {
+          "titel" : "Sieben",
+          "start" : 0,
+          "end" : 172213
+        },
+        {
+          "titel" : "Variationen",
+          "start" : 172213,
+          "end" : 590280
+        },
+        {
+          "titel" : "Elf",
+          "start" : 590280,
+          "end" : 950800
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Hüne",
+          "Johannes Semm"
+        ],
+        [
+          "Marvin Gray",
+          "Horst Stark"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/1/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/1/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "titel" : "Der Raub der Zehntausend",
+      "autor" : "Marco Sonnleitner",
+      "beschreibung" : "Beim Ausliefern einer Standuhr geraten die drei Detektive mitten in einen Kriminalfall, der äußerst explosiv enden könnte …",
+      "kapitel" : [
+        {
+          "titel" : "Der absolute Hammer",
+          "start" : 0,
+          "end" : 193827
+        },
+        {
+          "titel" : "Die Botschaft",
+          "start" : 193827,
+          "end" : 823293
+        },
+        {
+          "titel" : "Ablenkungsmanöver",
+          "start" : 823293,
+          "end" : 1198507
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Nancy McMonigal",
+          "Gerlinde Dilge"
+        ],
+        [
+          "Tom",
+          "Wolfgang Rositzka"
+        ],
+        [
+          "Rod",
+          "Herbert Tennigkeit"
+        ],
+        [
+          "Joe",
+          "Oliver Reichmann"
+        ],
+        [
+          "Ben",
+          "Stephan Chrzescinski"
+        ],
+        [
+          "Mariann",
+          "Simone Ritscher"
+        ],
+        [
+          "TV-Sprecher",
+          "Holger Wemhoff"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/2/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/2/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 3,
+      "titel" : "Der verschwundene Zeitgeist",
+      "autor" : "André Minninger",
+      "beschreibung" : "Wer hat die fehlenden Manuskriptseiten von Malcolm Fever gestohlen? Als sich die drei Detektive des Falls annehmen, machen sie die Bekanntschaft mit einer höchst sonderbaren Dame …",
+      "kapitel" : [
+        {
+          "titel" : "Ein emotionales Gespräch",
+          "start" : 0,
+          "end" : 645586
+        },
+        {
+          "titel" : "Eindeutiges Foto",
+          "start" : 645586,
+          "end" : 1502960
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Malcolm Fever",
+          "Tilo Schmitz"
+        ],
+        [
+          "Lucy Hopkins",
+          "Topsy Küppers"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/3/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/3/ffmetadata.txt"
+      }
+    }
+  ],
+  "teilNummer" : 1,
+  "kapitel" : [
+    {
+      "titel" : "Immer und immer wieder – Sieben",
+      "start" : 0,
+      "end" : 172213
+    },
+    {
+      "titel" : "Immer und immer wieder – Variationen",
+      "start" : 172213,
+      "end" : 590280
+    },
+    {
+      "titel" : "Immer und immer wieder – Elf",
+      "start" : 590280,
+      "end" : 950800
+    },
+    {
+      "titel" : "Der Raub der Zehntausend – Der absolute Hammer",
+      "start" : 950800,
+      "end" : 1144627
+    },
+    {
+      "titel" : "Der Raub der Zehntausend – Die Botschaft",
+      "start" : 1144627,
+      "end" : 1774093
+    },
+    {
+      "titel" : "Der Raub der Zehntausend – Ablenkungsmanöver",
+      "start" : 1774093,
+      "end" : 2149307
+    },
+    {
+      "titel" : "Der verschwundene Zeitgeist – Ein emotionales Gespräch",
+      "start" : 2149307,
+      "end" : 2794893
+    },
+    {
+      "titel" : "Der verschwundene Zeitgeist – Eindeutiges Foto",
+      "start" : 2794893,
+      "end" : 3652267
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/metadata.json"
+  }
+}

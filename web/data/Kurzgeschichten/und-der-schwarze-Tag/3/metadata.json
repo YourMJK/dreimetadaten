@@ -1,0 +1,174 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 5,
+      "titel" : "Die schwarze PhantOma",
+      "autor" : "Kari Erlhoff",
+      "beschreibung" : "Wer steckt hinter der unheimlichen Porschefahrerin, von der Justus beinahe überfahren wurde!? Auch Peter wird von ihr mit einem heftigen Fausthieb niedergestreckt! Wer ist die humpelnde Rentnerin, die als \"PhantOma\" in Rocky Beach ihr Unwesen treibt? An Verdächtigen mangelt es keineswegs …",
+      "kapitel" : [
+        {
+          "titel" : "Wasserdichte Alibis",
+          "start" : 0,
+          "end" : 828067
+        },
+        {
+          "titel" : "Kriminelle Abwege",
+          "start" : 828067,
+          "end" : 1373493
+        },
+        {
+          "titel" : "Tägliches Training",
+          "start" : 1373493,
+          "end" : 2256800
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tasha",
+          "Victoria Zöller"
+        ],
+        [
+          "Domino Laverna",
+          "Sabine Hahn"
+        ],
+        [
+          "Biff Rodgers, Reporter",
+          "Daniel Schütter"
+        ],
+        [
+          "Lesley Dimple",
+          "Ann Montenbruck"
+        ],
+        [
+          "Zeus Zenon Johnson",
+          "Michael Prelle"
+        ],
+        [
+          "Computer",
+          "Peter Bayer"
+        ],
+        [
+          "Off-Sprecher",
+          "Frank Roder"
+        ],
+        [
+          "Sprecher",
+          "Andreas Birnbaum"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 6,
+      "titel" : "Das schwarze Nest",
+      "autor" : "Hendrik Buchna",
+      "beschreibung" : "Das Telefon klingelt nicht in der Zentrale der drei Detektive. Doch Justus hört es ganz deutlich. Leidet er unter Wahnvorstellungen? Und auch Peter wird von argen Problemen geplagt: Er muss unbedingt das große Sackhüpfturnier gewinnen!\nBob wird endlich aus dem Krankenhaus entlassen und wundert sich über gar nichts mehr …",
+      "kapitel" : [
+        {
+          "titel" : "Grabesstille",
+          "start" : 0,
+          "end" : 547413
+        },
+        {
+          "titel" : "Demokratische Abstimmung",
+          "start" : 547413,
+          "end" : 1040413
+        },
+        {
+          "titel" : "Fall gelöst",
+          "start" : 1040413,
+          "end" : 1718507
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Blacky",
+          "Pamela Punti"
+        ],
+        [
+          "Kassiererin",
+          "Angela Stresemann"
+        ],
+        [
+          "Inspektor Cotta",
+          "Holger Mahlich"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/ffmetadata.txt"
+      }
+    }
+  ],
+  "teilNummer" : 3,
+  "kapitel" : [
+    {
+      "titel" : "Die schwarze PhantOma – Wasserdichte Alibis",
+      "start" : 0,
+      "end" : 828067
+    },
+    {
+      "titel" : "Die schwarze PhantOma – Kriminelle Abwege",
+      "start" : 828067,
+      "end" : 1373493
+    },
+    {
+      "titel" : "Die schwarze PhantOma – Tägliches Training",
+      "start" : 1373493,
+      "end" : 2256800
+    },
+    {
+      "titel" : "Das schwarze Nest – Grabesstille",
+      "start" : 2256800,
+      "end" : 2804213
+    },
+    {
+      "titel" : "Das schwarze Nest – Demokratische Abstimmung",
+      "start" : 2804213,
+      "end" : 3297213
+    },
+    {
+      "titel" : "Das schwarze Nest – Fall gelöst",
+      "start" : 3297213,
+      "end" : 3975307
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/metadata.json"
+  }
+}

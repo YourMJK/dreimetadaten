@@ -1,0 +1,65 @@
+{
+  "teilNummer" : 3,
+  "titel" : "Ein schwarzer Tag für Mr. Kingstone",
+  "autor" : "Christoph Dittert",
+  "beschreibung" : "Ausgerechnet Skinny Norris beauftragt die drei Detektive mit einem neuen Fall: Wer erpresst Mr. Kingstone, den blinden Betreiber des Dunkelrestaurants in Rocky Beach? In totaler Finsternis ermitteln Justus, Peter und Bob, um dem skrupellosen Verbrecher auf die Schliche zu kommen. Doch wird ihre Falle auch zuschnappen?",
+  "kapitel" : [
+    {
+      "titel" : "Unverschämter Kerl",
+      "start" : 0,
+      "end" : 526840
+    },
+    {
+      "titel" : "Dunkelrestaurant",
+      "start" : 526840,
+      "end" : 1199413
+    },
+    {
+      "titel" : "Kontaktschranke",
+      "start" : 1199413,
+      "end" : 1889653
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Skinny Norris",
+      "Michael Harck"
+    ],
+    [
+      "Marc Kingstone",
+      "Rainer Brandt"
+    ],
+    [
+      "Aaron Kingstone",
+      "Tommi Piper"
+    ],
+    [
+      "Sarah",
+      "Christiane Leuchtmann"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/ffmetadata.txt"
+  }
+}

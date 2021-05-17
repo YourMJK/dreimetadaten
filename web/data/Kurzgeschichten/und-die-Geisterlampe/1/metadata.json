@@ -1,0 +1,179 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "titel" : "und die Geisterlampe",
+      "autor" : "Kari Erlhoff",
+      "beschreibung" : "Mr. Vancura ist Schauspieler und sammelt alles, was mit dem Orient zu tun hat. Sein ganzer Stolz ist eine Wunderlampe, in der ein richtiger Dschinn lebt. Aber der Dschinn ist verschwunden …",
+      "veröffentlichungsdatum" : "2011-12-02",
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Mr. Vancura",
+          "Lutz Herkenrath"
+        ],
+        [
+          "Mrs. Fox",
+          "Susan Jarling"
+        ],
+        [
+          "Inspektor Cotta",
+          "Holger Mahlich"
+        ],
+        [
+          "Mr. Shaw",
+          "Rasmus Borowski"
+        ],
+        [
+          "Shannon",
+          "Kerstin Draeger"
+        ],
+        [
+          "Mr. Mosley",
+          "Neil Malik Abdullah"
+        ],
+        [
+          "Mann",
+          "Thor W. Müller"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/1/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/1/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "titel" : "Dunkle Vergangenheit",
+      "autor" : "Marco Sonnleitner",
+      "beschreibung" : "Das neuste Hobby von Justus Jonas ist die Ahnenforschung.\nUnd dabei macht er eines Tages eine unglaubliche Entdeckung …",
+      "veröffentlichungsdatum" : "2011-12-04",
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Cowboy",
+          "Achim Schülke"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/2/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/2/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 3,
+      "titel" : "Entführt",
+      "autor" : "Marco Sonnleitner",
+      "beschreibung" : "Peter erhält eine E-Mail: Kelly ist entführt worden! Den drei ??? bleibt weniger als eine Stunde Zeit, sie zu finden und zu befreien …",
+      "veröffentlichungsdatum" : "2011-12-06",
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Patricia",
+          "Rhea Harder"
+        ],
+        [
+          "Peter Shawn",
+          "Leonhard Mahlich"
+        ],
+        [
+          "Mann",
+          "Helgo Liebig"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/3/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/3/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 4,
+      "titel" : "Verschwörung auf der Eagle Ranch",
+      "autor" : "Hendrik Buchna",
+      "beschreibung" : "Auf dem Autorasthof \"Eagle Ranch\" geschehen merkwürdige Dinge und die drei ??? erhalten den Auftrag, herauszufinden, was es damit auf sich hat …",
+      "veröffentlichungsdatum" : "2011-12-08",
+      "sprecher" : [
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/4/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/4/ffmetadata.txt"
+      }
+    }
+  ],
+  "teilNummer" : 1,
+  "buchstabe" : "A",
+  "kapitel" : [
+    {
+      "titel" : "und die Geisterlampe",
+      "start" : 0,
+      "end" : 1109933
+    },
+    {
+      "titel" : "Dunkle Vergangenheit",
+      "start" : 1109933,
+      "end" : 1797413
+    },
+    {
+      "titel" : "Entführt",
+      "start" : 1797413,
+      "end" : 2650187
+    },
+    {
+      "titel" : "Verschwörung auf der Eagle Ranch",
+      "start" : 2650187,
+      "end" : 4017840
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/metadata.json"
+  }
+}

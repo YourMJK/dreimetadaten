@@ -1,0 +1,77 @@
+{
+  "teilNummer" : 5,
+  "titel" : "Die schwarze PhantOma",
+  "autor" : "Kari Erlhoff",
+  "beschreibung" : "Wer steckt hinter der unheimlichen Porschefahrerin, von der Justus beinahe überfahren wurde!? Auch Peter wird von ihr mit einem heftigen Fausthieb niedergestreckt! Wer ist die humpelnde Rentnerin, die als \"PhantOma\" in Rocky Beach ihr Unwesen treibt? An Verdächtigen mangelt es keineswegs …",
+  "kapitel" : [
+    {
+      "titel" : "Wasserdichte Alibis",
+      "start" : 0,
+      "end" : 828067
+    },
+    {
+      "titel" : "Kriminelle Abwege",
+      "start" : 828067,
+      "end" : 1373493
+    },
+    {
+      "titel" : "Tägliches Training",
+      "start" : 1373493,
+      "end" : 2256800
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tasha",
+      "Victoria Zöller"
+    ],
+    [
+      "Domino Laverna",
+      "Sabine Hahn"
+    ],
+    [
+      "Biff Rodgers, Reporter",
+      "Daniel Schütter"
+    ],
+    [
+      "Lesley Dimple",
+      "Ann Montenbruck"
+    ],
+    [
+      "Zeus Zenon Johnson",
+      "Michael Prelle"
+    ],
+    [
+      "Computer",
+      "Peter Bayer"
+    ],
+    [
+      "Off-Sprecher",
+      "Frank Roder"
+    ],
+    [
+      "Sprecher",
+      "Andreas Birnbaum"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/ffmetadata.txt"
+  }
+}

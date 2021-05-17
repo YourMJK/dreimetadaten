@@ -1,0 +1,65 @@
+{
+  "teilNummer" : 5,
+  "titel" : "Schutzgeld",
+  "autor" : "Ben Nevis",
+  "beschreibung" : "Wer ist die seltsame Dame, die so auffällig unauffällig durch die Einkaufsstraße schleicht, und sich dabei immer wieder ängstlich umsieht? Als sich die drei Detektive an ihre Fersen heften und die Verdächtige demaskieren, erleben sie eine große Überraschung. Doch jetzt fangen die Schwierigkeiten erst an …",
+  "kapitel" : [
+    {
+      "titel" : "Überraschung!",
+      "start" : 0,
+      "end" : 277693
+    },
+    {
+      "titel" : "Arges Misstrauen",
+      "start" : 277693,
+      "end" : 941400
+    },
+    {
+      "titel" : "Sieben harte Stunden",
+      "start" : 941400,
+      "end" : 1389800
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Onkel Titus Jonas",
+      "Hans Meinhardt"
+    ],
+    [
+      "Tante Mathilda Jonas",
+      "Karin Lieneweg"
+    ],
+    [
+      "Handerson",
+      "Wolfgang Rositzka"
+    ],
+    [
+      "Diego",
+      "Stefan Benson"
+    ],
+    [
+      "Mercedes",
+      "Wanda Osten"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/ffmetadata.txt"
+  }
+}

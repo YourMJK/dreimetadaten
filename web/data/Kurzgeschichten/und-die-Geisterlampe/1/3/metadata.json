@@ -1,0 +1,41 @@
+{
+  "teilNummer" : 3,
+  "titel" : "Entführt",
+  "autor" : "Marco Sonnleitner",
+  "beschreibung" : "Peter erhält eine E-Mail: Kelly ist entführt worden! Den drei ??? bleibt weniger als eine Stunde Zeit, sie zu finden und zu befreien …",
+  "veröffentlichungsdatum" : "2011-12-06",
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Patricia",
+      "Rhea Harder"
+    ],
+    [
+      "Peter Shawn",
+      "Leonhard Mahlich"
+    ],
+    [
+      "Mann",
+      "Helgo Liebig"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/3/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/3/ffmetadata.txt"
+  }
+}

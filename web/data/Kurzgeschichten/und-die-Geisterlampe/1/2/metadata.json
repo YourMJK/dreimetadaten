@@ -1,0 +1,33 @@
+{
+  "teilNummer" : 2,
+  "titel" : "Dunkle Vergangenheit",
+  "autor" : "Marco Sonnleitner",
+  "beschreibung" : "Das neuste Hobby von Justus Jonas ist die Ahnenforschung.\nUnd dabei macht er eines Tages eine unglaubliche Entdeckung …",
+  "veröffentlichungsdatum" : "2011-12-04",
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Cowboy",
+      "Achim Schülke"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/2/ffmetadata.txt"
+  }
+}

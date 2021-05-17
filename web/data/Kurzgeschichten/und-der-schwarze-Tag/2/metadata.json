@@ -1,0 +1,186 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 3,
+      "titel" : "Ein schwarzer Tag für Mr. Kingstone",
+      "autor" : "Christoph Dittert",
+      "beschreibung" : "Ausgerechnet Skinny Norris beauftragt die drei Detektive mit einem neuen Fall: Wer erpresst Mr. Kingstone, den blinden Betreiber des Dunkelrestaurants in Rocky Beach? In totaler Finsternis ermitteln Justus, Peter und Bob, um dem skrupellosen Verbrecher auf die Schliche zu kommen. Doch wird ihre Falle auch zuschnappen?",
+      "kapitel" : [
+        {
+          "titel" : "Unverschämter Kerl",
+          "start" : 0,
+          "end" : 526840
+        },
+        {
+          "titel" : "Dunkelrestaurant",
+          "start" : 526840,
+          "end" : 1199413
+        },
+        {
+          "titel" : "Kontaktschranke",
+          "start" : 1199413,
+          "end" : 1889653
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tante Mathilda Jonas",
+          "Karin Lieneweg"
+        ],
+        [
+          "Skinny Norris",
+          "Michael Harck"
+        ],
+        [
+          "Marc Kingstone",
+          "Rainer Brandt"
+        ],
+        [
+          "Aaron Kingstone",
+          "Tommi Piper"
+        ],
+        [
+          "Sarah",
+          "Christiane Leuchtmann"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 4,
+      "titel" : "Wer hat Angst vorm Schwarzen Mann",
+      "autor" : "Marco Sonnleitner",
+      "beschreibung" : "In einem Kindergarten in Rocky Beach herrscht größte Besorgnis: Wurden die Kinder tatsächlich allesamt von einem unheimlichen \"Schwarzen Mann\" heimgesucht? Die Ermittlungen der drei ??? führen zum ominösen \"Herz von Afrika\" …",
+      "kapitel" : [
+        {
+          "titel" : "Albtraum?",
+          "start" : 0,
+          "end" : 601054
+        },
+        {
+          "titel" : "Das Herz von Afrika",
+          "start" : 601054,
+          "end" : 1250120
+        },
+        {
+          "titel" : "Lasso-Künste",
+          "start" : 1250120,
+          "end" : 1767387
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Kelly Madigan",
+          "Juliane Szalay"
+        ],
+        [
+          "Mrs. McGee",
+          "Alice Krimmel"
+        ],
+        [
+          "Toby",
+          "A. Stengelin"
+        ],
+        [
+          "Mrs. Wells",
+          "Heidi Schaffrath"
+        ],
+        [
+          "Junge",
+          "Linus Tauber"
+        ],
+        [
+          "Mädchen",
+          "Katinka Jaekel"
+        ],
+        [
+          "Ericsson",
+          "Detlev Tams"
+        ],
+        [
+          "Sprecher/Moderator",
+          "Oliver Böttcher"
+        ],
+        [
+          "Tarek Shabana",
+          "Werner Wilkening"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/4/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/4/ffmetadata.txt"
+      }
+    }
+  ],
+  "teilNummer" : 2,
+  "kapitel" : [
+    {
+      "titel" : "Ein schwarzer Tag für Mr. Kingstone – Unverschämter Kerl",
+      "start" : 0,
+      "end" : 526840
+    },
+    {
+      "titel" : "Ein schwarzer Tag für Mr. Kingstone – Dunkelrestaurant",
+      "start" : 526840,
+      "end" : 1199413
+    },
+    {
+      "titel" : "Ein schwarzer Tag für Mr. Kingstone – Kontaktschranke",
+      "start" : 1199413,
+      "end" : 1889653
+    },
+    {
+      "titel" : "Wer hat Angst vorm Schwarzen Mann – Albtraum?",
+      "start" : 1889653,
+      "end" : 2490707
+    },
+    {
+      "titel" : "Wer hat Angst vorm Schwarzen Mann – Das Herz von Afrika",
+      "start" : 2490707,
+      "end" : 3139773
+    },
+    {
+      "titel" : "Wer hat Angst vorm Schwarzen Mann – Lasso-Künste",
+      "start" : 3139773,
+      "end" : 3657040
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/metadata.json"
+  }
+}

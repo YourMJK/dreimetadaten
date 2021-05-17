@@ -1,0 +1,33 @@
+{
+  "teilNummer" : 7,
+  "titel" : "Das Lehrstück",
+  "autor" : "Kari Erlhoff",
+  "beschreibung" : "Peters ehemalige Klavierlehrerin, Mrs. Floyd, engagiert die drei ???, um herauszufinden, wo ihre verstorbene Mutter ihr Erbe versteckt haben könnte …",
+  "veröffentlichungsdatum" : "2011-12-14",
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Thomas Fritsch"
+    ],
+    [
+      "Justus Jonas",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Mrs. Floyd",
+      "Gabriele Libbach"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/7/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/7/ffmetadata.txt"
+  }
+}

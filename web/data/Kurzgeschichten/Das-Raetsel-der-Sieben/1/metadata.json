@@ -1,0 +1,178 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "titel" : "Der siebte Gast",
+      "autor" : "André Minninger",
+      "beschreibung" : "Mrs. Emily White spürt instinktiv, dass an dem Schreiben von ihrer Freundin Judy Fradkin etwas faul ist. Warum wurde die alte Dame von dem Jahrestreffen der Märchenfiguren so urplötzlich ausgeladen? Um der Sache auf den Grund zu gehen, holt sich Mrs White die Unterstützung der drei ???.",
+      "kapitel" : [
+        {
+          "titel" : "Inszenierung neuer Geschichten",
+          "start" : 0,
+          "end" : 439267
+        },
+        {
+          "titel" : "Die Worte einer Lügenhexe",
+          "start" : 439267,
+          "end" : 774387
+        },
+        {
+          "titel" : "Prinzessin in Champagnerlaune",
+          "start" : 774387,
+          "end" : 1596747
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Emily White",
+          "Sabine Hahn"
+        ],
+        [
+          "Judy Fradkin",
+          "Ursula Heyer"
+        ],
+        [
+          "Aladin",
+          "Heidi Schaffrath"
+        ],
+        [
+          "Aschenputtel",
+          "Regina Lemnitz"
+        ],
+        [
+          "Prinzessin",
+          "Renate Pichler"
+        ],
+        [
+          "Rotkäppchen",
+          "Angela Stresemann"
+        ],
+        [
+          "Meerjungfrau",
+          "Pamela Punti"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "titel" : "Bis um sieben zurück",
+      "autor" : "Kari Erlhoff",
+      "beschreibung" : "Bob Andrews rutscht auf dem glitschigen Boden des Schuppens aus und wird ohnmächtig. Als er kurze Zeit später erwacht, scheinen einige Dinge plötzlich recht merkwürdig zu sein … Doch nicht nur für ihn; denn auch seine Eltern scheinen ihn kaum wiederzuerkennen und machen sich die größten Sorgen um ihren Sohn. In ihrer Angst ziehen sie einen Arzt hinzu …",
+      "kapitel" : [
+        {
+          "titel" : "Kopfschmerzen",
+          "start" : 0,
+          "end" : 694933
+        },
+        {
+          "titel" : "Erwischt!",
+          "start" : 694933,
+          "end" : 1199813
+        },
+        {
+          "titel" : "Bobby",
+          "start" : 1199813,
+          "end" : 1477173
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Mr. Andrews",
+          "Henry König"
+        ],
+        [
+          "Mrs. Andrews",
+          "Konstanze Ullmer"
+        ],
+        [
+          "Arzt",
+          "Erik Schäffler"
+        ],
+        [
+          "Mrs. Wallace",
+          "Angela Stresemann"
+        ],
+        [
+          "Bobby",
+          "Merete Brettschneider"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/ffmetadata.txt"
+      }
+    }
+  ],
+  "teilNummer" : 1,
+  "kapitel" : [
+    {
+      "titel" : "Der siebte Gast – Inszenierung neuer Geschichten",
+      "start" : 0,
+      "end" : 439267
+    },
+    {
+      "titel" : "Der siebte Gast – Die Worte einer Lügenhexe",
+      "start" : 439267,
+      "end" : 774387
+    },
+    {
+      "titel" : "Der siebte Gast – Prinzessin in Champagnerlaune",
+      "start" : 774387,
+      "end" : 1596747
+    },
+    {
+      "titel" : "Bis um sieben zurück – Kopfschmerzen",
+      "start" : 1596747,
+      "end" : 2291680
+    },
+    {
+      "titel" : "Bis um sieben zurück – Erwischt!",
+      "start" : 2291680,
+      "end" : 2796560
+    },
+    {
+      "titel" : "Bis um sieben zurück – Bobby",
+      "start" : 2796560,
+      "end" : 3073920
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/metadata.json"
+  }
+}
