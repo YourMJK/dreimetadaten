@@ -1,6 +1,996 @@
 {
   "spezial" : [
     {
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "kapitel" : [
+            {
+              "titel" : "Ein Hilferuf",
+              "start" : 0,
+              "end" : 557187
+            },
+            {
+              "titel" : "Errare humanum est",
+              "start" : 557187,
+              "end" : 1134733
+            },
+            {
+              "titel" : "Ist Sherlock Holmes zuhause?",
+              "start" : 1134733,
+              "end" : 1352707
+            },
+            {
+              "titel" : "Die Telefonlawine",
+              "start" : 1352707,
+              "end" : 2080920
+            },
+            {
+              "titel" : "Blackbeard",
+              "start" : 2080920,
+              "end" : 2426173
+            },
+            {
+              "titel" : "Ein spezial gelagerter Sonderfall",
+              "start" : 2426173,
+              "end" : 2677653
+            },
+            {
+              "titel" : "Sterbenskrank",
+              "start" : 2677653,
+              "end" : 2921387
+            },
+            {
+              "titel" : "Skinny Norris",
+              "start" : 2921387,
+              "end" : 3178987
+            },
+            {
+              "titel" : "Robin Hood",
+              "start" : 3178987,
+              "end" : 3418440
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/1/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/1/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "kapitel" : [
+            {
+              "titel" : "Ein gerissener Kunstdieb",
+              "start" : 0,
+              "end" : 692667
+            },
+            {
+              "titel" : "Al Capone",
+              "start" : 692667,
+              "end" : 978747
+            },
+            {
+              "titel" : "Baker Street in London",
+              "start" : 978747,
+              "end" : 1177880
+            },
+            {
+              "titel" : "Auf dem Friedhof",
+              "start" : 1177880,
+              "end" : 1809400
+            },
+            {
+              "titel" : "Wo sind die Papageien?",
+              "start" : 1809400,
+              "end" : 1981684
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/rip_log.txt"
+          }
+        }
+      ],
+      "titel" : "und der Super-Papagei 2004",
+      "autor" : "Robert Arthur",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Das ist wirklich ein spezial gelagerter Sonderfall: Warum zitieren Papageien sonderbare Sprüche falsch? Was hat Sherlock Holmes mit Schneewittchen zu tun? Und aus welchem Grund taucht urplötzlich Skinny Norris auf, obwohl er damals vor 25 Jahren im Original-Hörspiel nicht dabei war? Ganz einfach: Diese Sonder-Edition der allerersten drei ??? Folge enthält viele neue Szenen und beantwortet endlich alle Fragen, die in der ursprünglichen Fassung nie beantwortet wurden …",
+      "veröffentlichungsdatum" : "2004-10-04",
+      "kapitel" : [
+        {
+          "titel" : "Ein Hilferuf",
+          "start" : 0,
+          "end" : 557187
+        },
+        {
+          "titel" : "Errare humanum est",
+          "start" : 557187,
+          "end" : 1134733
+        },
+        {
+          "titel" : "Ist Sherlock Holmes zuhause?",
+          "start" : 1134733,
+          "end" : 1352707
+        },
+        {
+          "titel" : "Die Telefonlawine",
+          "start" : 1352707,
+          "end" : 2080920
+        },
+        {
+          "titel" : "Blackbeard",
+          "start" : 2080920,
+          "end" : 2426173
+        },
+        {
+          "titel" : "Ein spezial gelagerter Sonderfall",
+          "start" : 2426173,
+          "end" : 2677653
+        },
+        {
+          "titel" : "Sterbenskrank",
+          "start" : 2677653,
+          "end" : 2921387
+        },
+        {
+          "titel" : "Skinny Norris",
+          "start" : 2921387,
+          "end" : 3178987
+        },
+        {
+          "titel" : "Robin Hood",
+          "start" : 3178987,
+          "end" : 3418440
+        },
+        {
+          "titel" : "Ein gerissener Kunstdieb",
+          "start" : 3418440,
+          "end" : 4111107
+        },
+        {
+          "titel" : "Al Capone",
+          "start" : 4111107,
+          "end" : 4397187
+        },
+        {
+          "titel" : "Baker Street in London",
+          "start" : 4397187,
+          "end" : 4596320
+        },
+        {
+          "titel" : "Auf dem Friedhof",
+          "start" : 4596320,
+          "end" : 5227840
+        },
+        {
+          "titel" : "Wo sind die Papageien?",
+          "start" : 5227840,
+          "end" : 5400124
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Skinny Norris",
+          "Andreas von der Meden"
+        ],
+        [
+          "Mr. Claudius",
+          "Gerlach Fiedler"
+        ],
+        [
+          "Mrs. Claudius",
+          "Brigitte Böttrich"
+        ],
+        [
+          "Mr. Fentriss",
+          "Detlef Bierstedt"
+        ],
+        [
+          "Hugenay",
+          "Wolfgang Kubach"
+        ],
+        [
+          "Carlos",
+          "Stefan Brönneke"
+        ],
+        [
+          "Ramos",
+          "Dario Bertoli"
+        ],
+        [
+          "Morton",
+          "Andreas von der Meden"
+        ],
+        [
+          "Opa",
+          "Harry Rowohlt"
+        ],
+        [
+          "Miss Waggoner",
+          "Ursula Vogel"
+        ],
+        [
+          "Senora",
+          "Barbara Benuel"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/cover.png"
+      }
+    },
+    {
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "buchstabe" : "J",
+          "titel" : "Sicht J: Der Fluch der Sheldon Street",
+          "autor" : "Hendrik Buchna",
+          "beschreibung" : "Alles beginnt mit dem Kauf eines alten Projektors und der Entdeckung einer schmalen Super-8-Filmrolle. Als die drei Detektive das Fundstück begutachten, entdecken sie die verstörende Aufnahme einer albtraumhaften Gestalt. Schnell stellen die drei ??? fest, dass es um weit mehr geht, als sie zunächst ahnen: Eine ganze Straße scheint unter dem Bann eines düsteren Geheimnisses zu stehen. Doch kaum beginnen Justus, Peter und Bob mit ihren Nachforschungen, da tauchen plötzlich Gegner auf, die ihnen mit allen Mitteln zuvorkommen wollen …",
+          "kapitel" : [
+            {
+              "titel" : "Die Cola",
+              "start" : 0,
+              "end" : 249733
+            },
+            {
+              "titel" : "Bleiche Fratze",
+              "start" : 249733,
+              "end" : 518160
+            },
+            {
+              "titel" : "Sammlerstück",
+              "start" : 518160,
+              "end" : 743333
+            },
+            {
+              "titel" : "Dunkle Erinnerung",
+              "start" : 743333,
+              "end" : 1150133
+            },
+            {
+              "titel" : "Eine Straße in Angst",
+              "start" : 1150133,
+              "end" : 1828053
+            },
+            {
+              "titel" : "Verfolgt",
+              "start" : 1828053,
+              "end" : 2374027
+            },
+            {
+              "titel" : "Kriegsrat",
+              "start" : 2374027,
+              "end" : 2635387
+            },
+            {
+              "titel" : "Unheimliche Begegnungen",
+              "start" : 2635387,
+              "end" : 3167667
+            },
+            {
+              "titel" : "Sturm",
+              "start" : 3167667,
+              "end" : 3467800
+            },
+            {
+              "titel" : "Eine heiße Spur",
+              "start" : 3467800,
+              "end" : 3850653
+            },
+            {
+              "titel" : "Wendepunkt",
+              "start" : 3850653,
+              "end" : 4188920
+            },
+            {
+              "titel" : "Der Fluch der Sheldon Street",
+              "start" : 4188920,
+              "end" : 4589640
+            },
+            {
+              "titel" : "Triumph",
+              "start" : 4589640,
+              "end" : 4757160
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Tante Mathilda Jonas",
+              "Karin Lieneweg"
+            ],
+            [
+              "Onkel Titus Jonas",
+              "Hans Meinhardt"
+            ],
+            [
+              "Inspektor Cotta",
+              "Holger Mahlich"
+            ],
+            [
+              "Officer Flann Doyle",
+              "Douglas Welbat"
+            ],
+            [
+              "Tanya Sullivan",
+              "Marion Elskis"
+            ],
+            [
+              "Sebastian Dawson",
+              "Bastian Pastewka"
+            ],
+            [
+              "Miss Tomkins",
+              "Steffi Kirchberger"
+            ],
+            [
+              "Mr. Foley",
+              "Dirk Bach"
+            ],
+            [
+              "John Gabbin",
+              "Tobias Schmidt"
+            ],
+            [
+              "Matthew Gabbin",
+              "Jürgen Thormann"
+            ],
+            [
+              "Georgina",
+              "Maud Ackermann"
+            ],
+            [
+              "Gil Renard",
+              "Udo Schenk"
+            ],
+            [
+              "Hedy Carlson",
+              "Luise Helm"
+            ],
+            [
+              "Steve",
+              "Sascha Draeger"
+            ],
+            [
+              "Jack",
+              "Hendrik Buchna"
+            ],
+            [
+              "Laury",
+              "Rhea Harder-Vennewald"
+            ],
+            [
+              "Gast 1",
+              "Christian Senger"
+            ],
+            [
+              "Fahrerin",
+              "Corinna Wodrich"
+            ],
+            [
+              "Radiosprecher",
+              "Tobias Meister"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "buchstabe" : "B",
+          "titel" : "Sicht B: Im Zeichen der Ritter",
+          "autor" : "Tim Wenderoth",
+          "beschreibung" : "Geheimnisvolle Symbole beunruhigen die Bewohner von Rocky Beach. Was steckt hinter den kryptischen Zeichen, die von einer geisterhaften Gestalt nachts an die Häuser gemalt werden? Und warum verhalten sich einige Bewohner der kleinen Küstenstadt so merkwürdig? Ihre ersten Nachforschungen bringen Justus, Peter und vor allem Bob auf die Spur einer mittelalterlichen Ritterlegende. Je intensiver sie sich mit dem Fall beschäftigen, umso klarer scheint, dass ihnen nur wenige Stunden bleiben, um am unheilvollen Freitag den 13. Schlimmeres zu verhindern …",
+          "kapitel" : [
+            {
+              "titel" : "Die Cola",
+              "start" : 0,
+              "end" : 262987
+            },
+            {
+              "titel" : "Papierdrachen",
+              "start" : 262987,
+              "end" : 490387
+            },
+            {
+              "titel" : "Außerirdische",
+              "start" : 490387,
+              "end" : 801680
+            },
+            {
+              "titel" : "Der Heilige Gral",
+              "start" : 801680,
+              "end" : 1008107
+            },
+            {
+              "titel" : "Freitag, der 13.",
+              "start" : 1008107,
+              "end" : 1488693
+            },
+            {
+              "titel" : "3 × 9 = 27",
+              "start" : 1488693,
+              "end" : 1719373
+            },
+            {
+              "titel" : "Blamiert",
+              "start" : 1719373,
+              "end" : 1958373
+            },
+            {
+              "titel" : "Jesper",
+              "start" : 1958373,
+              "end" : 2380533
+            },
+            {
+              "titel" : "Exklusivrechte",
+              "start" : 2380533,
+              "end" : 2786640
+            },
+            {
+              "titel" : "Cliffhanger",
+              "start" : 2786640,
+              "end" : 3126560
+            },
+            {
+              "titel" : "Film ab!",
+              "start" : 3126560,
+              "end" : 3353253
+            },
+            {
+              "titel" : "Rote Farbe",
+              "start" : 3353253,
+              "end" : 3904933
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Tante Mathilda Jonas",
+              "Karin Lieneweg"
+            ],
+            [
+              "Inspektor Cotta",
+              "Holger Mahlich"
+            ],
+            [
+              "Officer Flann Doyle",
+              "Douglas Welbat"
+            ],
+            [
+              "Gil Renard",
+              "Udo Schenk"
+            ],
+            [
+              "Hedy Carlson",
+              "Luise Helm"
+            ],
+            [
+              "Peter Foster",
+              "Gerrit Schmidt-Foss"
+            ],
+            [
+              "Mrs. Shaw",
+              "Isabella Grote"
+            ],
+            [
+              "Sebastian Dawson",
+              "Bastian Pastewka"
+            ],
+            [
+              "Annie Wilkes",
+              "Regina Lemnitz"
+            ],
+            [
+              "Mädchen 1",
+              "Katinka Körting"
+            ],
+            [
+              "Mädchen 2",
+              "Jacqueline Meybauer"
+            ],
+            [
+              "Georgina",
+              "Maud Ackermann"
+            ],
+            [
+              "Alter Mann",
+              "Jörg Gillner"
+            ],
+            [
+              "Junger Mann",
+              "Patrick Bach"
+            ],
+            [
+              "Dick Perry",
+              "Ernst H. Hilbich"
+            ],
+            [
+              "Matthew Gabbin",
+              "Jürgen Thormann"
+            ],
+            [
+              "Steve",
+              "Sascha Drager"
+            ],
+            [
+              "Radiosprecher",
+              "Tobias Meister"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 3,
+          "buchstabe" : "P",
+          "titel" : "Sicht P: Fremder Freund",
+          "autor" : "Ivar Leon Menger",
+          "beschreibung" : "Peter schwebt im siebten Himmel, denn er hat in einem Café Bekanntschaft mit einem großen Fan der drei ??? gemacht. Er wird sogar um ein Autogramm gebeten. Stolz und gut gelaunt verbringt Peter einen tollen Tag mit seinen Freunden, und alles wäre einfach perfekt, wenn er nicht plötzlich diese seltsamen Telefonanrufe und mysteriösen Briefe erhalten würde. Die drei Detektive werden heimlich beobachtet und sogar von einem Unbekannten fotografiert! Was soll das alles? Wer ist dieser seltsame Verfolger? Ist Peters Leben in Gefahr?",
+          "kapitel" : [
+            {
+              "titel" : "Die Cola",
+              "start" : 0,
+              "end" : 231413
+            },
+            {
+              "titel" : "Du hast noch nicht einmal gefragt!",
+              "start" : 231413,
+              "end" : 560493
+            },
+            {
+              "titel" : "Du bist doch verliebt, Peter!",
+              "start" : 560493,
+              "end" : 750533
+            },
+            {
+              "titel" : "Das Geschäft des Monats!",
+              "start" : 750533,
+              "end" : 1009533
+            },
+            {
+              "titel" : "Mein Name ist Peter!",
+              "start" : 1009533,
+              "end" : 1371053
+            },
+            {
+              "titel" : "Der Brief wurde abgegeben!",
+              "start" : 1371053,
+              "end" : 1580600
+            },
+            {
+              "titel" : "Auf den Novalux-Projektor!",
+              "start" : 1580600,
+              "end" : 1942960
+            },
+            {
+              "titel" : "Das bin ich dir schuldig!",
+              "start" : 1942960,
+              "end" : 2201400
+            },
+            {
+              "titel" : "Warum sollte ich das tun?",
+              "start" : 2201400,
+              "end" : 2382760
+            },
+            {
+              "titel" : "Hört ihr das nicht?",
+              "start" : 2382760,
+              "end" : 2814560
+            },
+            {
+              "titel" : "Nein, Bob! Die mag mich doch!",
+              "start" : 2814560,
+              "end" : 3104720
+            },
+            {
+              "titel" : "Aber genau das ist doch sehr seltsam!",
+              "start" : 3104720,
+              "end" : 3363200
+            },
+            {
+              "titel" : "Ein Zeichen?",
+              "start" : 3363200,
+              "end" : 3675013
+            },
+            {
+              "titel" : "Hier eine Sondermeldung!",
+              "start" : 3675013,
+              "end" : 3978200
+            },
+            {
+              "titel" : "Darf ich reinkommen?",
+              "start" : 3978200,
+              "end" : 4416000
+            }
+          ],
+          "sprecher" : [
+            [
+              "Erzähler",
+              "Thomas Fritsch"
+            ],
+            [
+              "Justus Jonas",
+              "Oliver Rohrbeck"
+            ],
+            [
+              "Peter Shaw",
+              "Jens Wawrczeck"
+            ],
+            [
+              "Bob Andrews",
+              "Andreas Fröhlich"
+            ],
+            [
+              "Tante Mathilda Jonas",
+              "Karin Lieneweg"
+            ],
+            [
+              "Bill Andrews",
+              "Henry König"
+            ],
+            [
+              "Inspektor Cotta",
+              "Holger Mahlich"
+            ],
+            [
+              "Miss Bennett",
+              "Renate Pilcher"
+            ],
+            [
+              "Dick Perry",
+              "Ernst H. Hilbich"
+            ],
+            [
+              "Walter Bush",
+              "Rolf E. Schenker"
+            ],
+            [
+              "Officer Flann Doyle",
+              "Douglas Welbat"
+            ],
+            [
+              "Ian Bush",
+              "Sky du Mont / Lucas Sperber"
+            ],
+            [
+              "Jimmy Sinclair",
+              "Siegfried Kernen / Nils Noller"
+            ],
+            [
+              "Charlie Parker",
+              "Jörg Gillner / Laurence Kalaidjan"
+            ],
+            [
+              "Brianna Jackson",
+              "Hansi Jochmann / Natalie Demtröder"
+            ],
+            [
+              "Chloe Smathers",
+              "Valerie Demtröder"
+            ],
+            [
+              "Joseph Quick",
+              "Harry Rowohlt"
+            ],
+            [
+              "Mr. Raynes",
+              "Olaf Kreuzenbeck"
+            ],
+            [
+              "Jeff White",
+              "Horst Naumann"
+            ],
+            [
+              "Hedy Carlson",
+              "Luise Helm"
+            ],
+            [
+              "Gil Renard",
+              "Udo Schenk"
+            ],
+            [
+              "Peter Foster",
+              "Gerrit Schmidt-Foss"
+            ],
+            [
+              "Matthew Gabbin",
+              "Jürgen Thormann"
+            ],
+            [
+              "Steve",
+              "Sascha Draeger"
+            ],
+            [
+              "Laury",
+              "Rhea Harder-Vennewald"
+            ],
+            [
+              "Georgina",
+              "Maud Ackermann"
+            ],
+            [
+              "Bedienung",
+              "Tim Wenderoth"
+            ],
+            [
+              "Gast",
+              "Andreas Otoo"
+            ],
+            [
+              "Sekretärin",
+              "Corinna Wodrich"
+            ],
+            [
+              "Sebastian Dawson",
+              "Bastian Pastewka"
+            ],
+            [
+              "Radiosprecher",
+              "Tobias Meister"
+            ]
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/rip_log.txt"
+          }
+        }
+      ],
+      "titel" : "und der dreiTag",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Kann ein und derselbe Tag dreimal völlig unterschiedlich verlaufen? Kann ein unscheinbares Detail wie ein Colaglas darüber entscheiden, wie sich alle weiteren Geschehnisse entwickeln? Erlebe, wie Justus, Peter und Bob auf den unheimlichen Fluch der Sheldon Street, die mysteriösen Zeichen der Ritter stoßen und den bedrohlichen Fremden Freund stoßen – und zwar zeitgleich am selben Tag!\nDrei Geschichten von drei Autoren führen dich dreimal durch einen Tag, wie er unterschiedlicher nicht verlaufen könnte.",
+      "veröffentlichungsdatum" : "2010-10-01",
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tante Mathilda Jonas",
+          "Karin Lieneweg"
+        ],
+        [
+          "Onkel Titus Jonas",
+          "Hans Meinhardt"
+        ],
+        [
+          "Inspektor Cotta",
+          "Holger Mahlich"
+        ],
+        [
+          "Officer Flann Doyle",
+          "Douglas Welbat"
+        ],
+        [
+          "Tanya Sullivan",
+          "Marion Elskis"
+        ],
+        [
+          "Sebastian Dawson",
+          "Bastian Pastewka"
+        ],
+        [
+          "Miss Tomkins",
+          "Steffi Kirchberger"
+        ],
+        [
+          "Mr. Foley",
+          "Dirk Bach"
+        ],
+        [
+          "John Gabbin",
+          "Tobias Schmidt"
+        ],
+        [
+          "Matthew Gabbin",
+          "Jürgen Thormann"
+        ],
+        [
+          "Georgina",
+          "Maud Ackermann"
+        ],
+        [
+          "Gil Renard",
+          "Udo Schenk"
+        ],
+        [
+          "Hedy Carlson",
+          "Luise Helm"
+        ],
+        [
+          "Steve",
+          "Sascha Draeger"
+        ],
+        [
+          "Jack",
+          "Hendrik Buchna"
+        ],
+        [
+          "Laury",
+          "Rhea Harder-Vennewald"
+        ],
+        [
+          "Gast 1",
+          "Christian Senger"
+        ],
+        [
+          "Fahrerin",
+          "Corinna Wodrich"
+        ],
+        [
+          "Radiosprecher",
+          "Tobias Meister"
+        ],
+        [
+          "Peter Foster",
+          "Gerrit Schmidt-Foss"
+        ],
+        [
+          "Mrs. Shaw",
+          "Isabella Grote"
+        ],
+        [
+          "Annie Wilkes",
+          "Regina Lemnitz"
+        ],
+        [
+          "Mädchen 1",
+          "Katinka Körting"
+        ],
+        [
+          "Mädchen 2",
+          "Jacqueline Meybauer"
+        ],
+        [
+          "Alter Mann",
+          "Jörg Gillner"
+        ],
+        [
+          "Junger Mann",
+          "Patrick Bach"
+        ],
+        [
+          "Dick Perry",
+          "Ernst H. Hilbich"
+        ],
+        [
+          "Bill Andrews",
+          "Henry König"
+        ],
+        [
+          "Miss Bennett",
+          "Renate Pilcher"
+        ],
+        [
+          "Walter Bush",
+          "Rolf E. Schenker"
+        ],
+        [
+          "Officer Flann Doyle",
+          "Douglas Welbat"
+        ],
+        [
+          "Ian Bush",
+          "Sky du Mont / Lucas Sperber"
+        ],
+        [
+          "Jimmy Sinclair",
+          "Siegfried Kernen / Nils Noller"
+        ],
+        [
+          "Charlie Parker",
+          "Jörg Gillner / Laurence Kalaidjan"
+        ],
+        [
+          "Brianna Jackson",
+          "Hansi Jochmann / Natalie Demtröder"
+        ],
+        [
+          "Chloe Smathers",
+          "Valerie Demtröder"
+        ],
+        [
+          "Joseph Quick",
+          "Harry Rowohlt"
+        ],
+        [
+          "Mr. Raynes",
+          "Olaf Kreuzenbeck"
+        ],
+        [
+          "Jeff White",
+          "Horst Naumann"
+        ],
+        [
+          "Bedienung",
+          "Tim Wenderoth"
+        ],
+        [
+          "Gast 2",
+          "Andreas Otto"
+        ],
+        [
+          "Sekretärin",
+          "Corinna Wodrich"
+        ],
+        [
+          "Radiosprecher",
+          "Tobias Meister"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/cover.png"
+      }
+    },
+    {
       "titel" : "Brainwash: Gefangene Gedanken",
       "autor" : "Peter Lerangis",
       "hörspielskriptautor" : "André Minninger",
@@ -167,368 +1157,6 @@
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/ffmetadata.txt",
         "xld_log" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/cover.png"
-      }
-    },
-    {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Ein Mumienschrein in Rocky Beach",
-              "start" : 0,
-              "end" : 517133
-            },
-            {
-              "titel" : "Doch ein Auftrag",
-              "start" : 517133,
-              "end" : 766627
-            },
-            {
-              "titel" : "Ein halber Inka",
-              "start" : 766627,
-              "end" : 1054493
-            },
-            {
-              "titel" : "Frauengeschichten",
-              "start" : 1054493,
-              "end" : 1278067
-            },
-            {
-              "titel" : "Kein Entkommen",
-              "start" : 1278067,
-              "end" : 1533707
-            },
-            {
-              "titel" : "Einbruch ins Dunkel",
-              "start" : 1533707,
-              "end" : 2322920
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Eine Mumie im Luxusbad",
-              "start" : 0,
-              "end" : 701947
-            },
-            {
-              "titel" : "Willkommen daheim",
-              "start" : 701947,
-              "end" : 871147
-            },
-            {
-              "titel" : "Der Einzige Inka",
-              "start" : 871147,
-              "end" : 1402027
-            },
-            {
-              "titel" : "Stadt, Land, Fluss",
-              "start" : 1402027,
-              "end" : 1901187
-            },
-            {
-              "titel" : "Sommersonnenwendabenteuer",
-              "start" : 1901187,
-              "end" : 2237160
-            },
-            {
-              "titel" : "Tränen des Mondes",
-              "start" : 2237160,
-              "end" : 3059627
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/2/rip_log.txt"
-          }
-        }
-      ],
-      "titel" : "Das Grab der Inka-Mumie",
-      "autor" : "Christoph Dittert",
-      "hörspielskriptautor" : "Yona Franke",
-      "beschreibung" : "Aus dem unterirdischen Schrein der Familie Paredes wurde eine Mumie gestohlen! Sofort machen sich Justus, Peter und Bob daran, das Rätsel hinter diesem Diebstahl aufzuklären.\nWer steckt dahinter – und vor allem: Was hat der Täter mit seiner Beute vor? Bei ihren Ermittlungen treffen die drei ??? auf geheimnisvolle Gestalten, die anscheinend nichts Gutes im Schilde führen.\nOder will jemand sie nur auf eine falsche Fährte locken?",
-      "veröffentlichungsdatum" : "2017-03-24",
-      "kapitel" : [
-        {
-          "titel" : "Ein Mumienschrein in Rocky Beach",
-          "start" : 0,
-          "end" : 517133
-        },
-        {
-          "titel" : "Doch ein Auftrag",
-          "start" : 517133,
-          "end" : 766627
-        },
-        {
-          "titel" : "Ein halber Inka",
-          "start" : 766627,
-          "end" : 1054493
-        },
-        {
-          "titel" : "Frauengeschichten",
-          "start" : 1054493,
-          "end" : 1278067
-        },
-        {
-          "titel" : "Kein Entkommen",
-          "start" : 1278067,
-          "end" : 1533707
-        },
-        {
-          "titel" : "Einbruch ins Dunkel",
-          "start" : 1533707,
-          "end" : 2322920
-        },
-        {
-          "titel" : "Eine Mumie im Luxusbad",
-          "start" : 2322920,
-          "end" : 3024867
-        },
-        {
-          "titel" : "Willkommen daheim",
-          "start" : 3024867,
-          "end" : 3194067
-        },
-        {
-          "titel" : "Der Einzige Inka",
-          "start" : 3194067,
-          "end" : 3724947
-        },
-        {
-          "titel" : "Stadt, Land, Fluss",
-          "start" : 3724947,
-          "end" : 4224107
-        },
-        {
-          "titel" : "Sommersonnenwendabenteuer",
-          "start" : 4224107,
-          "end" : 4560080
-        },
-        {
-          "titel" : "Tränen des Mondes",
-          "start" : 4560080,
-          "end" : 5382547
-        }
-      ],
-      "sprecher" : [
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Nayra Paredes",
-          "Sonja Stein"
-        ],
-        [
-          "Andrés Paredes",
-          "Tim Kreuer"
-        ],
-        [
-          "Mr. Gabriel Paredes",
-          "Urs Affolter"
-        ],
-        [
-          "Tante Mathilda",
-          "Karin Lieneweg"
-        ],
-        [
-          "Onkel Titus",
-          "Hans Meinhardt"
-        ],
-        [
-          "Quentin Montgrove",
-          "Eberhard Haar"
-        ],
-        [
-          "Emma Miller",
-          "Kerstin Draeger"
-        ],
-        [
-          "Der Einzige Inka",
-          "Eckart Dux"
-        ],
-        [
-          "Kassiererin im Museum",
-          "Merete Brettschneider"
-        ],
-        [
-          "Ansagerin im Museum",
-          "Merete Brettschneider"
-        ],
-        [
-          "Eisdielen-Besitzer",
-          "Robert Missler"
-        ],
-        [
-          "Alte Frau",
-          "Katja Brügger"
-        ],
-        [
-          "Mann",
-          "Andre Gatzke"
-        ],
-        [
-          "Frau 1",
-          "Heikedine Körting"
-        ],
-        [
-          "Frau 2",
-          "Susan Jarling"
-        ],
-        [
-          "Frau 3",
-          "Hella von der Osten"
-        ],
-        [
-          "Frau 4",
-          "Saskia Weckler"
-        ],
-        [
-          "Mädchen",
-          "Theresa Unterberg"
-        ],
-        [
-          "Kind 1",
-          "Malon Stahlhut"
-        ],
-        [
-          "Kind 2",
-          "Julia Fölster"
-        ]
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/cover.png"
-      }
-    },
-    {
-      "titel" : "High Strung: Unter Hochspannung",
-      "autor" : "G. H. Stone",
-      "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Justus will bei einer Radioshow 5000 Dollar gewinnen. Die Regeln sehen vor, dass dazu täglich ein Rätsel gelöst und ein Gegenstand eingesammelt werden muss. Wer alles gefunden hat und es zum Sponsor der Sendung bringt, bekommt das Geld. Ein weiterer Preis ist eine alte Gitarre, die aber scheinbar niemand haben will. Plötzlich wird auf dem Schrottplatz eingebrochen und den drei Detektiven ist schnell klar, dass es jemand auf Justus' gesammelte Gegenstände abgesehen hat. Aber wer sollte das sein? Gemeinsam machen sich die drei ??? auf die Suche nach dem Dieb und geraten in ein gefährliches Abenteuer …",
-      "veröffentlichungsdatum" : "2011-11-11",
-      "kapitel" : [
-        {
-          "titel" : "Guten Morgen, Rocky Beach",
-          "start" : 0,
-          "end" : 404573
-        },
-        {
-          "titel" : "Haltet den Dieb!",
-          "start" : 404573,
-          "end" : 942667
-        },
-        {
-          "titel" : "Alarm!",
-          "start" : 942667,
-          "end" : 1209693
-        },
-        {
-          "titel" : "Überfall",
-          "start" : 1209693,
-          "end" : 1369080
-        },
-        {
-          "titel" : "Aufgekauft",
-          "start" : 1369080,
-          "end" : 1568280
-        },
-        {
-          "titel" : "Vorsicht, Schlange!",
-          "start" : 1568280,
-          "end" : 2410227
-        },
-        {
-          "titel" : "Weiße Weihnacht",
-          "start" : 2410227,
-          "end" : 2536653
-        },
-        {
-          "titel" : "Was fehlt denn da?",
-          "start" : 2536653,
-          "end" : 2972787
-        },
-        {
-          "titel" : "Jailhouse Rock",
-          "start" : 2972787,
-          "end" : 3170453
-        }
-      ],
-      "sprecher" : [
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Doktor Ax Me",
-          "Krystian Martinek"
-        ],
-        [
-          "Stinky Rossiter",
-          "Dustin Sattler-Semmelrogge"
-        ],
-        [
-          "Fear Crowther",
-          "Ingo Mommsen"
-        ],
-        [
-          "Mouth Crosby",
-          "Stefan Gabriel"
-        ],
-        [
-          "Mack Dolland",
-          "Mike Olsowski"
-        ],
-        [
-          "Eric Mukogawa",
-          "Marek Harloff"
-        ],
-        [
-          "Marilla",
-          "Saskia Mayerhoff"
-        ],
-        [
-          "Kelly",
-          "Juliane Szalay"
-        ],
-        [
-          "Rosie",
-          "Reinhilt Schneider"
-        ],
-        [
-          "Blacky",
-          "Heikedine Körting"
-        ]
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt",
-        "cover" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/cover.png"
       }
     },
     {
@@ -1567,348 +2195,462 @@
       }
     },
     {
+      "titel" : "High Strung: Unter Hochspannung",
+      "autor" : "G. H. Stone",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Justus will bei einer Radioshow 5000 Dollar gewinnen. Die Regeln sehen vor, dass dazu täglich ein Rätsel gelöst und ein Gegenstand eingesammelt werden muss. Wer alles gefunden hat und es zum Sponsor der Sendung bringt, bekommt das Geld. Ein weiterer Preis ist eine alte Gitarre, die aber scheinbar niemand haben will. Plötzlich wird auf dem Schrottplatz eingebrochen und den drei Detektiven ist schnell klar, dass es jemand auf Justus' gesammelte Gegenstände abgesehen hat. Aber wer sollte das sein? Gemeinsam machen sich die drei ??? auf die Suche nach dem Dieb und geraten in ein gefährliches Abenteuer …",
+      "veröffentlichungsdatum" : "2011-11-11",
+      "kapitel" : [
+        {
+          "titel" : "Guten Morgen, Rocky Beach",
+          "start" : 0,
+          "end" : 404573
+        },
+        {
+          "titel" : "Haltet den Dieb!",
+          "start" : 404573,
+          "end" : 942667
+        },
+        {
+          "titel" : "Alarm!",
+          "start" : 942667,
+          "end" : 1209693
+        },
+        {
+          "titel" : "Überfall",
+          "start" : 1209693,
+          "end" : 1369080
+        },
+        {
+          "titel" : "Aufgekauft",
+          "start" : 1369080,
+          "end" : 1568280
+        },
+        {
+          "titel" : "Vorsicht, Schlange!",
+          "start" : 1568280,
+          "end" : 2410227
+        },
+        {
+          "titel" : "Weiße Weihnacht",
+          "start" : 2410227,
+          "end" : 2536653
+        },
+        {
+          "titel" : "Was fehlt denn da?",
+          "start" : 2536653,
+          "end" : 2972787
+        },
+        {
+          "titel" : "Jailhouse Rock",
+          "start" : 2972787,
+          "end" : 3170453
+        }
+      ],
+      "sprecher" : [
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Doktor Ax Me",
+          "Krystian Martinek"
+        ],
+        [
+          "Stinky Rossiter",
+          "Dustin Sattler-Semmelrogge"
+        ],
+        [
+          "Fear Crowther",
+          "Ingo Mommsen"
+        ],
+        [
+          "Mouth Crosby",
+          "Stefan Gabriel"
+        ],
+        [
+          "Mack Dolland",
+          "Mike Olsowski"
+        ],
+        [
+          "Eric Mukogawa",
+          "Marek Harloff"
+        ],
+        [
+          "Marilla",
+          "Saskia Mayerhoff"
+        ],
+        [
+          "Kelly",
+          "Juliane Szalay"
+        ],
+        [
+          "Rosie",
+          "Reinhilt Schneider"
+        ],
+        [
+          "Blacky",
+          "Heikedine Körting"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/cover.png"
+      }
+    },
+    {
       "teile" : [
         {
           "teilNummer" : 1,
           "kapitel" : [
             {
-              "titel" : "1. Dezember: Auf ins Winterwunderland",
+              "titel" : "1. Dezember",
               "start" : 0,
-              "end" : 466467
+              "end" : 528880
             },
             {
-              "titel" : "2. Dezember: Tief in den Wäldern",
-              "start" : 466467,
-              "end" : 777480
+              "titel" : "2. Dezember",
+              "start" : 528880,
+              "end" : 1052733
             },
             {
-              "titel" : "3. Dezember: Licht im Dunkel",
-              "start" : 777480,
-              "end" : 1297787
+              "titel" : "3. Dezember",
+              "start" : 1052733,
+              "end" : 1392027
             },
             {
-              "titel" : "4. Dezember: Böse Erinnerungen",
-              "start" : 1297787,
-              "end" : 1720960
+              "titel" : "4. Dezember",
+              "start" : 1392027,
+              "end" : 1723400
             },
             {
-              "titel" : "5. Dezember: Gruß vom Krampus!",
-              "start" : 1720960,
-              "end" : 2074240
+              "titel" : "5. Dezember",
+              "start" : 1723400,
+              "end" : 2275853
             },
             {
-              "titel" : "6. Dezember: Keine stille Nacht",
-              "start" : 2074240,
-              "end" : 2519587
+              "titel" : "6. Dezember",
+              "start" : 2275853,
+              "end" : 2536933
             },
             {
-              "titel" : "7. Dezember: Abreisen oder bleiben",
-              "start" : 2519587,
-              "end" : 2873680
+              "titel" : "7. Dezember",
+              "start" : 2536933,
+              "end" : 3046067
             },
             {
-              "titel" : "8. Dezember: (K)ein Fall für die drei ???",
-              "start" : 2873680,
-              "end" : 3271667
+              "titel" : "8. Dezember",
+              "start" : 3046067,
+              "end" : 3369320
             }
           ],
           "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/1/rip_log.txt"
+            "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/1/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/1/rip_log.txt"
           }
         },
         {
           "teilNummer" : 2,
           "kapitel" : [
             {
-              "titel" : "9. Dezember: Adventsdämon und Geisterkind",
+              "titel" : "9. Dezember",
               "start" : 0,
-              "end" : 304906
+              "end" : 418440
             },
             {
-              "titel" : "10. Dezember: Ein unglaublicher Verdacht",
-              "start" : 304906,
-              "end" : 721200
+              "titel" : "10. Dezember",
+              "start" : 418440,
+              "end" : 808827
             },
             {
-              "titel" : "11. Dezember: Bär gegen Teufel",
-              "start" : 721200,
-              "end" : 1233560
+              "titel" : "11. Dezember",
+              "start" : 808827,
+              "end" : 1281680
             },
             {
-              "titel" : "12. Dezember: Der Sessellift",
-              "start" : 1233560,
-              "end" : 1606146
+              "titel" : "12. Dezember",
+              "start" : 1281680,
+              "end" : 1650720
             },
             {
-              "titel" : "13. Dezember: Gefangen im Nichts",
-              "start" : 1606146,
-              "end" : 2001853
+              "titel" : "13. Dezember",
+              "start" : 1650720,
+              "end" : 2057747
             },
             {
-              "titel" : "14. Dezember: Eisnebel",
-              "start" : 2001853,
-              "end" : 2484173
+              "titel" : "14. Dezember",
+              "start" : 2057747,
+              "end" : 2301000
             },
             {
-              "titel" : "15. Dezember: Überraschende Erkenntnisse",
-              "start" : 2484173,
-              "end" : 2748786
+              "titel" : "15. Dezember",
+              "start" : 2301000,
+              "end" : 2676493
             },
             {
-              "titel" : "16. Dezember: Gekränkte Liebe",
-              "start" : 2748786,
-              "end" : 3143893
+              "titel" : "16. Dezember",
+              "start" : 2676493,
+              "end" : 2843747
             }
           ],
           "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/2/rip_log.txt"
+            "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/2/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/2/rip_log.txt"
           }
         },
         {
           "teilNummer" : 3,
           "kapitel" : [
             {
-              "titel" : "17. Dezember: Bitterböser Schneemann",
+              "titel" : "17. Dezember",
               "start" : 0,
-              "end" : 384427
+              "end" : 435120
             },
             {
-              "titel" : "18. Dezember: Schatten der Vergangenheit",
-              "start" : 384427,
-              "end" : 776427
+              "titel" : "18. Dezember",
+              "start" : 435120,
+              "end" : 682693
             },
             {
-              "titel" : "19. Dezember: Unerwartete Wendung",
-              "start" : 776427,
-              "end" : 1218773
+              "titel" : "19. Dezember",
+              "start" : 682693,
+              "end" : 1369906
             },
             {
-              "titel" : "20. Dezember: Neustart",
-              "start" : 1218773,
-              "end" : 1767920
+              "titel" : "20. Dezember",
+              "start" : 1369906,
+              "end" : 1597800
             },
             {
-              "titel" : "21. Dezember: Ein Albtraum wird wahr!",
-              "start" : 1767920,
-              "end" : 2100453
+              "titel" : "21. Dezember",
+              "start" : 1597800,
+              "end" : 1897186
             },
             {
-              "titel" : "22. Dezember: Die Masken fallen",
-              "start" : 2100453,
-              "end" : 2618627
+              "titel" : "22. Dezember",
+              "start" : 1897186,
+              "end" : 2452800
             },
             {
-              "titel" : "23. Dezember: Auge in Auge mit dem Feind",
-              "start" : 2618627,
-              "end" : 3110867
+              "titel" : "23. Dezember",
+              "start" : 2452800,
+              "end" : 3054146
             },
             {
-              "titel" : "24. Dezember: O Tannenbaum",
-              "start" : 3110867,
-              "end" : 3533293
+              "titel" : "24. Dezember",
+              "start" : 3054146,
+              "end" : 4068240
             }
           ],
           "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/3/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/3/rip_log.txt"
+            "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/3/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/3/rip_log.txt"
           }
         }
       ],
-      "titel" : "O du finstere",
-      "autor" : "Hendrik Buchna",
+      "titel" : "und der 5. Advent",
+      "autor" : "André Minninger",
       "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Für Tante Mathilda erfüllt sich ein lang gehegter Wunsch: Gemeinsam mit Onkel Titus, Justus, Peter und Bob will sie Weihnachten in einer verschneiten Berghütte feiern. Die besinnliche Stimmung wird schnell getrübt, als eine gehörnte Schreckgestalt in die Idylle hereinbricht. Doch auch unheimliche Vorfälle und Drohbotschaften halten die drei ??? nicht davon ab, diesem Rätsel auf den Grund zu gehen.\nEin Weihnachtsfall in 24 Kapiteln.",
-      "veröffentlichungsdatum" : "2020-10-09",
+      "beschreibung" : "Die anstehenden Festtage haben sich Justus, Peter und Bob wahrlich anders vorgestellt: Durch einen Zufall wird Justus Zeuge, wie Tante Mathildas Freundin Lydia Candle am 1. Dezember in ihrem Adventskalender einen erschreckenden Fund macht! Und schon bald stellt sich heraus, dass ein furchtbares Verbrechen verübt werden soll! Viel Zeit bleibt den drei Detektiven nicht, diesen verzwickten Fall zu lösen, in dem an jedem Tag neue Stolpersteine auftauchen, die schließlich nicht nur das Leben von Bob Andrews bedrohen! Die Zeit drängt und bis zum 24. Dezember gilt es, manch harte Nuss zu knacken …",
+      "veröffentlichungsdatum" : "2013-10-04",
       "kapitel" : [
         {
-          "titel" : "1. Dezember: Auf ins Winterwunderland",
+          "titel" : "1. Dezember",
           "start" : 0,
-          "end" : 466467
+          "end" : 528880
         },
         {
-          "titel" : "2. Dezember: Tief in den Wäldern",
-          "start" : 466467,
-          "end" : 777480
+          "titel" : "2. Dezember",
+          "start" : 528880,
+          "end" : 1052733
         },
         {
-          "titel" : "3. Dezember: Licht im Dunkel",
-          "start" : 777480,
-          "end" : 1297787
+          "titel" : "3. Dezember",
+          "start" : 1052733,
+          "end" : 1392027
         },
         {
-          "titel" : "4. Dezember: Böse Erinnerungen",
-          "start" : 1297787,
-          "end" : 1720960
+          "titel" : "4. Dezember",
+          "start" : 1392027,
+          "end" : 1723400
         },
         {
-          "titel" : "5. Dezember: Gruß vom Krampus!",
-          "start" : 1720960,
-          "end" : 2074240
+          "titel" : "5. Dezember",
+          "start" : 1723400,
+          "end" : 2275853
         },
         {
-          "titel" : "6. Dezember: Keine stille Nacht",
-          "start" : 2074240,
-          "end" : 2519587
+          "titel" : "6. Dezember",
+          "start" : 2275853,
+          "end" : 2536933
         },
         {
-          "titel" : "7. Dezember: Abreisen oder bleiben",
-          "start" : 2519587,
-          "end" : 2873680
+          "titel" : "7. Dezember",
+          "start" : 2536933,
+          "end" : 3046067
         },
         {
-          "titel" : "8. Dezember: (K)ein Fall für die drei ???",
-          "start" : 2873680,
-          "end" : 3271667
+          "titel" : "8. Dezember",
+          "start" : 3046067,
+          "end" : 3369320
         },
         {
-          "titel" : "9. Dezember: Adventsdämon und Geisterkind",
-          "start" : 3271667,
-          "end" : 3576573
+          "titel" : "9. Dezember",
+          "start" : 3369320,
+          "end" : 3787760
         },
         {
-          "titel" : "10. Dezember: Ein unglaublicher Verdacht",
-          "start" : 3576573,
-          "end" : 3992867
+          "titel" : "10. Dezember",
+          "start" : 3787760,
+          "end" : 4178147
         },
         {
-          "titel" : "11. Dezember: Bär gegen Teufel",
-          "start" : 3992867,
-          "end" : 4505227
+          "titel" : "11. Dezember",
+          "start" : 4178147,
+          "end" : 4651000
         },
         {
-          "titel" : "12. Dezember: Der Sessellift",
-          "start" : 4505227,
-          "end" : 4877813
+          "titel" : "12. Dezember",
+          "start" : 4651000,
+          "end" : 5020040
         },
         {
-          "titel" : "13. Dezember: Gefangen im Nichts",
-          "start" : 4877813,
-          "end" : 5273520
+          "titel" : "13. Dezember",
+          "start" : 5020040,
+          "end" : 5427067
         },
         {
-          "titel" : "14. Dezember: Eisnebel",
-          "start" : 5273520,
-          "end" : 5755840
+          "titel" : "14. Dezember",
+          "start" : 5427067,
+          "end" : 5670320
         },
         {
-          "titel" : "15. Dezember: Überraschende Erkenntnisse",
-          "start" : 5755840,
-          "end" : 6020453
+          "titel" : "15. Dezember",
+          "start" : 5670320,
+          "end" : 6045813
         },
         {
-          "titel" : "16. Dezember: Gekränkte Liebe",
-          "start" : 6020453,
-          "end" : 6415560
+          "titel" : "16. Dezember",
+          "start" : 6045813,
+          "end" : 6213067
         },
         {
-          "titel" : "17. Dezember: Bitterböser Schneemann",
-          "start" : 6415560,
-          "end" : 6799987
+          "titel" : "17. Dezember",
+          "start" : 6213067,
+          "end" : 6648187
         },
         {
-          "titel" : "18. Dezember: Schatten der Vergangenheit",
-          "start" : 6799987,
-          "end" : 7191987
+          "titel" : "18. Dezember",
+          "start" : 6648187,
+          "end" : 6895760
         },
         {
-          "titel" : "19. Dezember: Unerwartete Wendung",
-          "start" : 7191987,
-          "end" : 7634333
+          "titel" : "19. Dezember",
+          "start" : 6895760,
+          "end" : 7582973
         },
         {
-          "titel" : "20. Dezember: Neustart",
-          "start" : 7634333,
-          "end" : 8183480
+          "titel" : "20. Dezember",
+          "start" : 7582973,
+          "end" : 7810867
         },
         {
-          "titel" : "21. Dezember: Ein Albtraum wird wahr!",
-          "start" : 8183480,
-          "end" : 8516013
+          "titel" : "21. Dezember",
+          "start" : 7810867,
+          "end" : 8110253
         },
         {
-          "titel" : "22. Dezember: Die Masken fallen",
-          "start" : 8516013,
-          "end" : 9034187
+          "titel" : "22. Dezember",
+          "start" : 8110253,
+          "end" : 8665867
         },
         {
-          "titel" : "23. Dezember: Auge in Auge mit dem Feind",
-          "start" : 9034187,
-          "end" : 9526427
+          "titel" : "23. Dezember",
+          "start" : 8665867,
+          "end" : 9267213
         },
         {
-          "titel" : "24. Dezember: O Tannenbaum",
-          "start" : 9526427,
-          "end" : 9948853
+          "titel" : "24. Dezember",
+          "start" : 9267213,
+          "end" : 10281307
         }
       ],
       "sprecher" : [
         [
           "Erzähler",
-          "Axel Milberg"
+          "Thomas Fritsch"
         ],
         [
-          "Justus Jonas, Erster Detektiv",
+          "Justus Jonas",
           "Oliver Rohrbeck"
         ],
         [
-          "Peter Shaw, Zweiter Detektiv",
+          "Peter Shaw",
           "Jens Wawrczeck"
         ],
         [
-          "Bob Andrews, Recherchen und Archiv",
+          "Bob Andrews",
           "Andreas Fröhlich"
+        ],
+        [
+          "Mrs. Lydia Candle",
+          "Monika John"
+        ],
+        [
+          "Jeremias Howard",
+          "Gosta Liptow"
+        ],
+        [
+          "Empfangsdame",
+          "Katja Brügger"
+        ],
+        [
+          "Radiosprecherin",
+          "Simona Pahl"
         ],
         [
           "Tante Mathilda",
           "Karin Lieneweg"
         ],
         [
-          "Onkel Titus",
-          "Rüdiger Schulzki"
+          "Inspektor Cotta",
+          "Holger Mahlich"
         ],
         [
-          "Gianna",
-          "Celine Fontanges"
+          "Patricia Handerson",
+          "Janina Richter"
         ],
         [
-          "Lance",
-          "Armin Schlagwein"
+          "Polizistin",
+          "Carolin Fortenbacher"
         ],
         [
-          "Debra",
-          "Melanie Kastaun"
+          "Schausteller",
+          "Eckart Dux"
         ],
         [
-          "Audrey",
-          "Anja Topf"
+          "Edward Candle",
+          "Robin Brosch"
         ],
         [
-          "Bellins",
-          "Joachim Kretzer"
-        ],
-        [
-          "Jerry",
-          "Matthias Keller"
-        ],
-        [
-          "Corey",
-          "Andreas Zaron"
-        ],
-        [
-          "Joe",
-          "André Beyer"
-        ],
-        [
-          "Mr. Allister Frain",
-          "Fabian Harloff"
+          "Blacky",
+          "Heikedine Körting"
         ]
       ],
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/cover.png"
+        "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/cover.png"
       }
     },
     {
@@ -2270,6 +3012,740 @@
           "teilNummer" : 1,
           "kapitel" : [
             {
+              "titel" : "1. Dezember: Auf ins Winterwunderland",
+              "start" : 0,
+              "end" : 466467
+            },
+            {
+              "titel" : "2. Dezember: Tief in den Wäldern",
+              "start" : 466467,
+              "end" : 777480
+            },
+            {
+              "titel" : "3. Dezember: Licht im Dunkel",
+              "start" : 777480,
+              "end" : 1297787
+            },
+            {
+              "titel" : "4. Dezember: Böse Erinnerungen",
+              "start" : 1297787,
+              "end" : 1720960
+            },
+            {
+              "titel" : "5. Dezember: Gruß vom Krampus!",
+              "start" : 1720960,
+              "end" : 2074240
+            },
+            {
+              "titel" : "6. Dezember: Keine stille Nacht",
+              "start" : 2074240,
+              "end" : 2519587
+            },
+            {
+              "titel" : "7. Dezember: Abreisen oder bleiben",
+              "start" : 2519587,
+              "end" : 2873680
+            },
+            {
+              "titel" : "8. Dezember: (K)ein Fall für die drei ???",
+              "start" : 2873680,
+              "end" : 3271667
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/1/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/1/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "kapitel" : [
+            {
+              "titel" : "9. Dezember: Adventsdämon und Geisterkind",
+              "start" : 0,
+              "end" : 304906
+            },
+            {
+              "titel" : "10. Dezember: Ein unglaublicher Verdacht",
+              "start" : 304906,
+              "end" : 721200
+            },
+            {
+              "titel" : "11. Dezember: Bär gegen Teufel",
+              "start" : 721200,
+              "end" : 1233560
+            },
+            {
+              "titel" : "12. Dezember: Der Sessellift",
+              "start" : 1233560,
+              "end" : 1606146
+            },
+            {
+              "titel" : "13. Dezember: Gefangen im Nichts",
+              "start" : 1606146,
+              "end" : 2001853
+            },
+            {
+              "titel" : "14. Dezember: Eisnebel",
+              "start" : 2001853,
+              "end" : 2484173
+            },
+            {
+              "titel" : "15. Dezember: Überraschende Erkenntnisse",
+              "start" : 2484173,
+              "end" : 2748786
+            },
+            {
+              "titel" : "16. Dezember: Gekränkte Liebe",
+              "start" : 2748786,
+              "end" : 3143893
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/2/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/2/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 3,
+          "kapitel" : [
+            {
+              "titel" : "17. Dezember: Bitterböser Schneemann",
+              "start" : 0,
+              "end" : 384427
+            },
+            {
+              "titel" : "18. Dezember: Schatten der Vergangenheit",
+              "start" : 384427,
+              "end" : 776427
+            },
+            {
+              "titel" : "19. Dezember: Unerwartete Wendung",
+              "start" : 776427,
+              "end" : 1218773
+            },
+            {
+              "titel" : "20. Dezember: Neustart",
+              "start" : 1218773,
+              "end" : 1767920
+            },
+            {
+              "titel" : "21. Dezember: Ein Albtraum wird wahr!",
+              "start" : 1767920,
+              "end" : 2100453
+            },
+            {
+              "titel" : "22. Dezember: Die Masken fallen",
+              "start" : 2100453,
+              "end" : 2618627
+            },
+            {
+              "titel" : "23. Dezember: Auge in Auge mit dem Feind",
+              "start" : 2618627,
+              "end" : 3110867
+            },
+            {
+              "titel" : "24. Dezember: O Tannenbaum",
+              "start" : 3110867,
+              "end" : 3533293
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/3/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/3/rip_log.txt"
+          }
+        }
+      ],
+      "titel" : "O du finstere",
+      "autor" : "Hendrik Buchna",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Für Tante Mathilda erfüllt sich ein lang gehegter Wunsch: Gemeinsam mit Onkel Titus, Justus, Peter und Bob will sie Weihnachten in einer verschneiten Berghütte feiern. Die besinnliche Stimmung wird schnell getrübt, als eine gehörnte Schreckgestalt in die Idylle hereinbricht. Doch auch unheimliche Vorfälle und Drohbotschaften halten die drei ??? nicht davon ab, diesem Rätsel auf den Grund zu gehen.\nEin Weihnachtsfall in 24 Kapiteln.",
+      "veröffentlichungsdatum" : "2020-10-09",
+      "kapitel" : [
+        {
+          "titel" : "1. Dezember: Auf ins Winterwunderland",
+          "start" : 0,
+          "end" : 466467
+        },
+        {
+          "titel" : "2. Dezember: Tief in den Wäldern",
+          "start" : 466467,
+          "end" : 777480
+        },
+        {
+          "titel" : "3. Dezember: Licht im Dunkel",
+          "start" : 777480,
+          "end" : 1297787
+        },
+        {
+          "titel" : "4. Dezember: Böse Erinnerungen",
+          "start" : 1297787,
+          "end" : 1720960
+        },
+        {
+          "titel" : "5. Dezember: Gruß vom Krampus!",
+          "start" : 1720960,
+          "end" : 2074240
+        },
+        {
+          "titel" : "6. Dezember: Keine stille Nacht",
+          "start" : 2074240,
+          "end" : 2519587
+        },
+        {
+          "titel" : "7. Dezember: Abreisen oder bleiben",
+          "start" : 2519587,
+          "end" : 2873680
+        },
+        {
+          "titel" : "8. Dezember: (K)ein Fall für die drei ???",
+          "start" : 2873680,
+          "end" : 3271667
+        },
+        {
+          "titel" : "9. Dezember: Adventsdämon und Geisterkind",
+          "start" : 3271667,
+          "end" : 3576573
+        },
+        {
+          "titel" : "10. Dezember: Ein unglaublicher Verdacht",
+          "start" : 3576573,
+          "end" : 3992867
+        },
+        {
+          "titel" : "11. Dezember: Bär gegen Teufel",
+          "start" : 3992867,
+          "end" : 4505227
+        },
+        {
+          "titel" : "12. Dezember: Der Sessellift",
+          "start" : 4505227,
+          "end" : 4877813
+        },
+        {
+          "titel" : "13. Dezember: Gefangen im Nichts",
+          "start" : 4877813,
+          "end" : 5273520
+        },
+        {
+          "titel" : "14. Dezember: Eisnebel",
+          "start" : 5273520,
+          "end" : 5755840
+        },
+        {
+          "titel" : "15. Dezember: Überraschende Erkenntnisse",
+          "start" : 5755840,
+          "end" : 6020453
+        },
+        {
+          "titel" : "16. Dezember: Gekränkte Liebe",
+          "start" : 6020453,
+          "end" : 6415560
+        },
+        {
+          "titel" : "17. Dezember: Bitterböser Schneemann",
+          "start" : 6415560,
+          "end" : 6799987
+        },
+        {
+          "titel" : "18. Dezember: Schatten der Vergangenheit",
+          "start" : 6799987,
+          "end" : 7191987
+        },
+        {
+          "titel" : "19. Dezember: Unerwartete Wendung",
+          "start" : 7191987,
+          "end" : 7634333
+        },
+        {
+          "titel" : "20. Dezember: Neustart",
+          "start" : 7634333,
+          "end" : 8183480
+        },
+        {
+          "titel" : "21. Dezember: Ein Albtraum wird wahr!",
+          "start" : 8183480,
+          "end" : 8516013
+        },
+        {
+          "titel" : "22. Dezember: Die Masken fallen",
+          "start" : 8516013,
+          "end" : 9034187
+        },
+        {
+          "titel" : "23. Dezember: Auge in Auge mit dem Feind",
+          "start" : 9034187,
+          "end" : 9526427
+        },
+        {
+          "titel" : "24. Dezember: O Tannenbaum",
+          "start" : 9526427,
+          "end" : 9948853
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tante Mathilda",
+          "Karin Lieneweg"
+        ],
+        [
+          "Onkel Titus",
+          "Rüdiger Schulzki"
+        ],
+        [
+          "Gianna",
+          "Celine Fontanges"
+        ],
+        [
+          "Lance",
+          "Armin Schlagwein"
+        ],
+        [
+          "Debra",
+          "Melanie Kastaun"
+        ],
+        [
+          "Audrey",
+          "Anja Topf"
+        ],
+        [
+          "Bellins",
+          "Joachim Kretzer"
+        ],
+        [
+          "Jerry",
+          "Matthias Keller"
+        ],
+        [
+          "Corey",
+          "Andreas Zaron"
+        ],
+        [
+          "Joe",
+          "André Beyer"
+        ],
+        [
+          "Mr. Allister Frain",
+          "Fabian Harloff"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/cover.png"
+      }
+    },
+    {
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "kapitel" : [
+            {
+              "titel" : "Ein Mumienschrein in Rocky Beach",
+              "start" : 0,
+              "end" : 517133
+            },
+            {
+              "titel" : "Doch ein Auftrag",
+              "start" : 517133,
+              "end" : 766627
+            },
+            {
+              "titel" : "Ein halber Inka",
+              "start" : 766627,
+              "end" : 1054493
+            },
+            {
+              "titel" : "Frauengeschichten",
+              "start" : 1054493,
+              "end" : 1278067
+            },
+            {
+              "titel" : "Kein Entkommen",
+              "start" : 1278067,
+              "end" : 1533707
+            },
+            {
+              "titel" : "Einbruch ins Dunkel",
+              "start" : 1533707,
+              "end" : 2322920
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/1/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/1/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "kapitel" : [
+            {
+              "titel" : "Eine Mumie im Luxusbad",
+              "start" : 0,
+              "end" : 701947
+            },
+            {
+              "titel" : "Willkommen daheim",
+              "start" : 701947,
+              "end" : 871147
+            },
+            {
+              "titel" : "Der Einzige Inka",
+              "start" : 871147,
+              "end" : 1402027
+            },
+            {
+              "titel" : "Stadt, Land, Fluss",
+              "start" : 1402027,
+              "end" : 1901187
+            },
+            {
+              "titel" : "Sommersonnenwendabenteuer",
+              "start" : 1901187,
+              "end" : 2237160
+            },
+            {
+              "titel" : "Tränen des Mondes",
+              "start" : 2237160,
+              "end" : 3059627
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/2/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/2/rip_log.txt"
+          }
+        }
+      ],
+      "titel" : "Das Grab der Inka-Mumie",
+      "autor" : "Christoph Dittert",
+      "hörspielskriptautor" : "Yona Franke",
+      "beschreibung" : "Aus dem unterirdischen Schrein der Familie Paredes wurde eine Mumie gestohlen! Sofort machen sich Justus, Peter und Bob daran, das Rätsel hinter diesem Diebstahl aufzuklären.\nWer steckt dahinter – und vor allem: Was hat der Täter mit seiner Beute vor? Bei ihren Ermittlungen treffen die drei ??? auf geheimnisvolle Gestalten, die anscheinend nichts Gutes im Schilde führen.\nOder will jemand sie nur auf eine falsche Fährte locken?",
+      "veröffentlichungsdatum" : "2017-03-24",
+      "kapitel" : [
+        {
+          "titel" : "Ein Mumienschrein in Rocky Beach",
+          "start" : 0,
+          "end" : 517133
+        },
+        {
+          "titel" : "Doch ein Auftrag",
+          "start" : 517133,
+          "end" : 766627
+        },
+        {
+          "titel" : "Ein halber Inka",
+          "start" : 766627,
+          "end" : 1054493
+        },
+        {
+          "titel" : "Frauengeschichten",
+          "start" : 1054493,
+          "end" : 1278067
+        },
+        {
+          "titel" : "Kein Entkommen",
+          "start" : 1278067,
+          "end" : 1533707
+        },
+        {
+          "titel" : "Einbruch ins Dunkel",
+          "start" : 1533707,
+          "end" : 2322920
+        },
+        {
+          "titel" : "Eine Mumie im Luxusbad",
+          "start" : 2322920,
+          "end" : 3024867
+        },
+        {
+          "titel" : "Willkommen daheim",
+          "start" : 3024867,
+          "end" : 3194067
+        },
+        {
+          "titel" : "Der Einzige Inka",
+          "start" : 3194067,
+          "end" : 3724947
+        },
+        {
+          "titel" : "Stadt, Land, Fluss",
+          "start" : 3724947,
+          "end" : 4224107
+        },
+        {
+          "titel" : "Sommersonnenwendabenteuer",
+          "start" : 4224107,
+          "end" : 4560080
+        },
+        {
+          "titel" : "Tränen des Mondes",
+          "start" : 4560080,
+          "end" : 5382547
+        }
+      ],
+      "sprecher" : [
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Nayra Paredes",
+          "Sonja Stein"
+        ],
+        [
+          "Andrés Paredes",
+          "Tim Kreuer"
+        ],
+        [
+          "Mr. Gabriel Paredes",
+          "Urs Affolter"
+        ],
+        [
+          "Tante Mathilda",
+          "Karin Lieneweg"
+        ],
+        [
+          "Onkel Titus",
+          "Hans Meinhardt"
+        ],
+        [
+          "Quentin Montgrove",
+          "Eberhard Haar"
+        ],
+        [
+          "Emma Miller",
+          "Kerstin Draeger"
+        ],
+        [
+          "Der Einzige Inka",
+          "Eckart Dux"
+        ],
+        [
+          "Kassiererin im Museum",
+          "Merete Brettschneider"
+        ],
+        [
+          "Ansagerin im Museum",
+          "Merete Brettschneider"
+        ],
+        [
+          "Eisdielen-Besitzer",
+          "Robert Missler"
+        ],
+        [
+          "Alte Frau",
+          "Katja Brügger"
+        ],
+        [
+          "Mann",
+          "Andre Gatzke"
+        ],
+        [
+          "Frau 1",
+          "Heikedine Körting"
+        ],
+        [
+          "Frau 2",
+          "Susan Jarling"
+        ],
+        [
+          "Frau 3",
+          "Hella von der Osten"
+        ],
+        [
+          "Frau 4",
+          "Saskia Weckler"
+        ],
+        [
+          "Mädchen",
+          "Theresa Unterberg"
+        ],
+        [
+          "Kind 1",
+          "Malon Stahlhut"
+        ],
+        [
+          "Kind 2",
+          "Julia Fölster"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/cover.png"
+      }
+    },
+    {
+      "titel" : "und der Tornadojäger",
+      "autor" : "Christoph Dittert",
+      "hörspielskriptautor" : "Yona Franke",
+      "beschreibung" : "Der bekannte Tornadojäger Dylan Harvey kommt zu einer Fotoshow nach Rocky Beach. Das lassen sich Justus, Peter und Bob natürlich nicht entgehen. Doch kurz vor dem angekündigten Auftritt werden dem Tornadojäger wichtige Aufnahmen gestohlen. Die drei Detektive ermitteln für Harvey. Sie wollen wissen, wer hinter dem Diebstahl steckt – und warum diese Fotos so wichtig sind. Aber plötzlich wirkt ihr Auftraggeber gar nicht mehr so unschuldig. Ist der Tornadojäger nur ein windiger Betrüger?",
+      "veröffentlichungsdatum" : "2017-06-23",
+      "kapitel" : [
+        {
+          "titel" : "Eine rasante Flucht",
+          "start" : 0,
+          "end" : 318187
+        },
+        {
+          "titel" : "Superhelden der besonderen Art",
+          "start" : 318187,
+          "end" : 741440
+        },
+        {
+          "titel" : "Die Lauscherin",
+          "start" : 741440,
+          "end" : 1025947
+        },
+        {
+          "titel" : "Überraschende Enthüllungen",
+          "start" : 1025947,
+          "end" : 1323813
+        },
+        {
+          "titel" : "Auf Rachefeldzug",
+          "start" : 1323813,
+          "end" : 1848493
+        },
+        {
+          "titel" : "Intrigen überall",
+          "start" : 1848493,
+          "end" : 2262707
+        },
+        {
+          "titel" : "Entführt!",
+          "start" : 2262707,
+          "end" : 2755507
+        },
+        {
+          "titel" : "Schlussfolgerungen",
+          "start" : 2755507,
+          "end" : 2884867
+        },
+        {
+          "titel" : "Schein und Sein",
+          "start" : 2884867,
+          "end" : 3224013
+        },
+        {
+          "titel" : "Licht ins Dunkel",
+          "start" : 3224013,
+          "end" : 3761333
+        },
+        {
+          "titel" : "Ein Paar",
+          "start" : 3761333,
+          "end" : 4068907
+        },
+        {
+          "titel" : "Sonnenklar",
+          "start" : 4068907,
+          "end" : 4300133
+        }
+      ],
+      "sprecher" : [
+        [
+          "Justus Jonas",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Dylan Harvey",
+          "Stephan Schad"
+        ],
+        [
+          "Mrs. Violet Conroy",
+          "Birte Kretschmer"
+        ],
+        [
+          "Mr. Alex Scott",
+          "Oliver Böttche"
+        ],
+        [
+          "Myriel",
+          "Undine Ullmer"
+        ],
+        [
+          "Zimmermädchen",
+          "Theresa Underberg"
+        ],
+        [
+          "Zimmerjunge",
+          "Jannik Endemann"
+        ],
+        [
+          "Mutter im Stadtpark",
+          "Saskia Weckler"
+        ],
+        [
+          "Klein Peter",
+          "Malon Stahlhut"
+        ],
+        [
+          "Kellnerin im Hotel",
+          "Alexandra Garcia"
+        ],
+        [
+          "Handwerker im Hotel 1",
+          "André Gatzke"
+        ],
+        [
+          "Handwerker im Hotel 2",
+          "Bent Schönemann"
+        ],
+        [
+          "Internetcafébesitzer",
+          "Tim Kreuer"
+        ],
+        [
+          "Vortragsbesucher, Parkbesucher, Frühstücksgäste, Nachbarn",
+          "Susan Jarling, Hilla Fitzen, Nina Minninger, Marine Endemann, Zelda Jahreis, Maud Ackermann, Heikedine Körting, Stephanie Kirchberger, Ingeborg Christiansen, Michaela Kreissler, Theresa Underberg, Kerstin Draeger, Lennart Krüger, Kjell Wenzel, Norma Draeger, Florian Herkenrath, Jannik Endemann, Dirk Eichhorn, Stephan Benson"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/cover.png"
+      }
+    },
+    {
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "kapitel" : [
+            {
               "titel" : "Doppelter Diebstahl",
               "start" : 0,
               "end" : 326533
@@ -2516,1742 +3992,6 @@
         "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/cover.png"
-      }
-    },
-    {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Prolog",
-              "start" : 0,
-              "end" : 68400
-            },
-            {
-              "titel" : "Sandfield",
-              "start" : 68400,
-              "end" : 317720
-            },
-            {
-              "titel" : "Brother Jonathan",
-              "start" : 317720,
-              "end" : 1169600
-            },
-            {
-              "titel" : "Tauchgang",
-              "start" : 1169600,
-              "end" : 1466533
-            },
-            {
-              "titel" : "Hai-Alarm",
-              "start" : 1466533,
-              "end" : 1729467
-            },
-            {
-              "titel" : "Pläne für Sandfield",
-              "start" : 1729467,
-              "end" : 2182733
-            },
-            {
-              "titel" : "Schatzsuche!",
-              "start" : 2182733,
-              "end" : 2513693
-            },
-            {
-              "titel" : "Paprika",
-              "start" : 2513693,
-              "end" : 2852240
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Am Abgrund",
-              "start" : 0,
-              "end" : 471347
-            },
-            {
-              "titel" : "Afrika",
-              "start" : 471347,
-              "end" : 737973
-            },
-            {
-              "titel" : "Abbruchgefährdet",
-              "start" : 737973,
-              "end" : 1350440
-            },
-            {
-              "titel" : "Goldrausch",
-              "start" : 1350440,
-              "end" : 1531307
-            },
-            {
-              "titel" : "Verdacht",
-              "start" : 1531307,
-              "end" : 2102547
-            },
-            {
-              "titel" : "Elaine",
-              "start" : 2102547,
-              "end" : 2621133
-            },
-            {
-              "titel" : "Countdown",
-              "start" : 2621133,
-              "end" : 3035933
-            },
-            {
-              "titel" : "Glück im Unglück",
-              "start" : 3035933,
-              "end" : 3273800
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/rip_log.txt"
-          }
-        }
-      ],
-      "titel" : "und das versunkene Schiff",
-      "autor" : "André Marx",
-      "hörspielskriptautor" : "Kai Schwind",
-      "beschreibung" : "Liegt tatsächlich ein alter Goldschatz vor der Küste des Ferienortes von Justus, Peter und Bob? Prompt vergessen die drei ??? ihren Ärger über den verregneten Urlaub und nehmen die Jagd nach den versunkenen Reichtümern auf. Sie tauchen ein in die geheimnisvolle Geschichte des berühmtesten Dorfbewohners und heben ein dunkles Geheimnis …",
-      "veröffentlichungsdatum" : "2019-11-01",
-      "kapitel" : [
-        {
-          "titel" : "Prolog",
-          "start" : 0,
-          "end" : 68400
-        },
-        {
-          "titel" : "Sandfield",
-          "start" : 68400,
-          "end" : 317720
-        },
-        {
-          "titel" : "Brother Jonathan",
-          "start" : 317720,
-          "end" : 1169600
-        },
-        {
-          "titel" : "Tauchgang",
-          "start" : 1169600,
-          "end" : 1466533
-        },
-        {
-          "titel" : "Hai-Alarm",
-          "start" : 1466533,
-          "end" : 1729467
-        },
-        {
-          "titel" : "Pläne für Sandfield",
-          "start" : 1729467,
-          "end" : 2182733
-        },
-        {
-          "titel" : "Schatzsuche!",
-          "start" : 2182733,
-          "end" : 2513693
-        },
-        {
-          "titel" : "Paprika",
-          "start" : 2513693,
-          "end" : 2852240
-        },
-        {
-          "titel" : "Am Abgrund",
-          "start" : 2852240,
-          "end" : 3323587
-        },
-        {
-          "titel" : "Afrika",
-          "start" : 3323587,
-          "end" : 3590213
-        },
-        {
-          "titel" : "Abbruchgefährdet",
-          "start" : 3590213,
-          "end" : 4202680
-        },
-        {
-          "titel" : "Goldrausch",
-          "start" : 4202680,
-          "end" : 4383547
-        },
-        {
-          "titel" : "Verdacht",
-          "start" : 4383547,
-          "end" : 4954787
-        },
-        {
-          "titel" : "Elaine",
-          "start" : 4954787,
-          "end" : 5473373
-        },
-        {
-          "titel" : "Countdown",
-          "start" : 5473373,
-          "end" : 5888173
-        },
-        {
-          "titel" : "Glück im Unglück",
-          "start" : 5888173,
-          "end" : 6126040
-        }
-      ],
-      "sprecher" : [
-        [
-          "Erzäher",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas, Erster Detektiv",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw, Zweiter Detektiv",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews, Recherchen und Archiv",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Amanda Ellis",
-          "Simona Pahl"
-        ],
-        [
-          "Jo",
-          "Birte Kretschmer"
-        ],
-        [
-          "Steve Young",
-          "Till Huster"
-        ],
-        [
-          "Ford Follows",
-          "Stephan Benson"
-        ],
-        [
-          "Eric Ellis",
-          "Horst Stark"
-        ],
-        [
-          "Ricardo Yarbrough",
-          "Stefan Brönneke"
-        ],
-        [
-          "Bibliothekarin",
-          "Rosemarie Wohlbauer"
-        ],
-        [
-          "Mr. Friedman",
-          "Douglas Welbat"
-        ],
-        [
-          "Mann in der Bibliothek",
-          "Erik Schäffler"
-        ],
-        [
-          "Sekretärin",
-          "Christiane Leuchtmann"
-        ],
-        [
-          "Jackson Cooper",
-          "Oliver Bröttcher"
-        ],
-        [
-          "Mr. Miller",
-          "Pierre Brand"
-        ]
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/cover.png"
-      }
-    },
-    {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "1. Dezember",
-              "start" : 0,
-              "end" : 528880
-            },
-            {
-              "titel" : "2. Dezember",
-              "start" : 528880,
-              "end" : 1052733
-            },
-            {
-              "titel" : "3. Dezember",
-              "start" : 1052733,
-              "end" : 1392027
-            },
-            {
-              "titel" : "4. Dezember",
-              "start" : 1392027,
-              "end" : 1723400
-            },
-            {
-              "titel" : "5. Dezember",
-              "start" : 1723400,
-              "end" : 2275853
-            },
-            {
-              "titel" : "6. Dezember",
-              "start" : 2275853,
-              "end" : 2536933
-            },
-            {
-              "titel" : "7. Dezember",
-              "start" : 2536933,
-              "end" : 3046067
-            },
-            {
-              "titel" : "8. Dezember",
-              "start" : 3046067,
-              "end" : 3369320
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "9. Dezember",
-              "start" : 0,
-              "end" : 418440
-            },
-            {
-              "titel" : "10. Dezember",
-              "start" : 418440,
-              "end" : 808827
-            },
-            {
-              "titel" : "11. Dezember",
-              "start" : 808827,
-              "end" : 1281680
-            },
-            {
-              "titel" : "12. Dezember",
-              "start" : 1281680,
-              "end" : 1650720
-            },
-            {
-              "titel" : "13. Dezember",
-              "start" : 1650720,
-              "end" : 2057747
-            },
-            {
-              "titel" : "14. Dezember",
-              "start" : 2057747,
-              "end" : 2301000
-            },
-            {
-              "titel" : "15. Dezember",
-              "start" : 2301000,
-              "end" : 2676493
-            },
-            {
-              "titel" : "16. Dezember",
-              "start" : 2676493,
-              "end" : 2843747
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/2/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 3,
-          "kapitel" : [
-            {
-              "titel" : "17. Dezember",
-              "start" : 0,
-              "end" : 435120
-            },
-            {
-              "titel" : "18. Dezember",
-              "start" : 435120,
-              "end" : 682693
-            },
-            {
-              "titel" : "19. Dezember",
-              "start" : 682693,
-              "end" : 1369906
-            },
-            {
-              "titel" : "20. Dezember",
-              "start" : 1369906,
-              "end" : 1597800
-            },
-            {
-              "titel" : "21. Dezember",
-              "start" : 1597800,
-              "end" : 1897186
-            },
-            {
-              "titel" : "22. Dezember",
-              "start" : 1897186,
-              "end" : 2452800
-            },
-            {
-              "titel" : "23. Dezember",
-              "start" : 2452800,
-              "end" : 3054146
-            },
-            {
-              "titel" : "24. Dezember",
-              "start" : 3054146,
-              "end" : 4068240
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/3/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/3/rip_log.txt"
-          }
-        }
-      ],
-      "titel" : "und der 5. Advent",
-      "autor" : "André Minninger",
-      "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Die anstehenden Festtage haben sich Justus, Peter und Bob wahrlich anders vorgestellt: Durch einen Zufall wird Justus Zeuge, wie Tante Mathildas Freundin Lydia Candle am 1. Dezember in ihrem Adventskalender einen erschreckenden Fund macht! Und schon bald stellt sich heraus, dass ein furchtbares Verbrechen verübt werden soll! Viel Zeit bleibt den drei Detektiven nicht, diesen verzwickten Fall zu lösen, in dem an jedem Tag neue Stolpersteine auftauchen, die schließlich nicht nur das Leben von Bob Andrews bedrohen! Die Zeit drängt und bis zum 24. Dezember gilt es, manch harte Nuss zu knacken …",
-      "veröffentlichungsdatum" : "2013-10-04",
-      "kapitel" : [
-        {
-          "titel" : "1. Dezember",
-          "start" : 0,
-          "end" : 528880
-        },
-        {
-          "titel" : "2. Dezember",
-          "start" : 528880,
-          "end" : 1052733
-        },
-        {
-          "titel" : "3. Dezember",
-          "start" : 1052733,
-          "end" : 1392027
-        },
-        {
-          "titel" : "4. Dezember",
-          "start" : 1392027,
-          "end" : 1723400
-        },
-        {
-          "titel" : "5. Dezember",
-          "start" : 1723400,
-          "end" : 2275853
-        },
-        {
-          "titel" : "6. Dezember",
-          "start" : 2275853,
-          "end" : 2536933
-        },
-        {
-          "titel" : "7. Dezember",
-          "start" : 2536933,
-          "end" : 3046067
-        },
-        {
-          "titel" : "8. Dezember",
-          "start" : 3046067,
-          "end" : 3369320
-        },
-        {
-          "titel" : "9. Dezember",
-          "start" : 3369320,
-          "end" : 3787760
-        },
-        {
-          "titel" : "10. Dezember",
-          "start" : 3787760,
-          "end" : 4178147
-        },
-        {
-          "titel" : "11. Dezember",
-          "start" : 4178147,
-          "end" : 4651000
-        },
-        {
-          "titel" : "12. Dezember",
-          "start" : 4651000,
-          "end" : 5020040
-        },
-        {
-          "titel" : "13. Dezember",
-          "start" : 5020040,
-          "end" : 5427067
-        },
-        {
-          "titel" : "14. Dezember",
-          "start" : 5427067,
-          "end" : 5670320
-        },
-        {
-          "titel" : "15. Dezember",
-          "start" : 5670320,
-          "end" : 6045813
-        },
-        {
-          "titel" : "16. Dezember",
-          "start" : 6045813,
-          "end" : 6213067
-        },
-        {
-          "titel" : "17. Dezember",
-          "start" : 6213067,
-          "end" : 6648187
-        },
-        {
-          "titel" : "18. Dezember",
-          "start" : 6648187,
-          "end" : 6895760
-        },
-        {
-          "titel" : "19. Dezember",
-          "start" : 6895760,
-          "end" : 7582973
-        },
-        {
-          "titel" : "20. Dezember",
-          "start" : 7582973,
-          "end" : 7810867
-        },
-        {
-          "titel" : "21. Dezember",
-          "start" : 7810867,
-          "end" : 8110253
-        },
-        {
-          "titel" : "22. Dezember",
-          "start" : 8110253,
-          "end" : 8665867
-        },
-        {
-          "titel" : "23. Dezember",
-          "start" : 8665867,
-          "end" : 9267213
-        },
-        {
-          "titel" : "24. Dezember",
-          "start" : 9267213,
-          "end" : 10281307
-        }
-      ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Mrs. Lydia Candle",
-          "Monika John"
-        ],
-        [
-          "Jeremias Howard",
-          "Gosta Liptow"
-        ],
-        [
-          "Empfangsdame",
-          "Katja Brügger"
-        ],
-        [
-          "Radiosprecherin",
-          "Simona Pahl"
-        ],
-        [
-          "Tante Mathilda",
-          "Karin Lieneweg"
-        ],
-        [
-          "Inspektor Cotta",
-          "Holger Mahlich"
-        ],
-        [
-          "Patricia Handerson",
-          "Janina Richter"
-        ],
-        [
-          "Polizistin",
-          "Carolin Fortenbacher"
-        ],
-        [
-          "Schausteller",
-          "Eckart Dux"
-        ],
-        [
-          "Edward Candle",
-          "Robin Brosch"
-        ],
-        [
-          "Blacky",
-          "Heikedine Körting"
-        ]
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/cover.png"
-      }
-    },
-    {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Ein Hilferuf",
-              "start" : 0,
-              "end" : 557187
-            },
-            {
-              "titel" : "Errare humanum est",
-              "start" : 557187,
-              "end" : 1134733
-            },
-            {
-              "titel" : "Ist Sherlock Holmes zuhause?",
-              "start" : 1134733,
-              "end" : 1352707
-            },
-            {
-              "titel" : "Die Telefonlawine",
-              "start" : 1352707,
-              "end" : 2080920
-            },
-            {
-              "titel" : "Blackbeard",
-              "start" : 2080920,
-              "end" : 2426173
-            },
-            {
-              "titel" : "Ein spezial gelagerter Sonderfall",
-              "start" : 2426173,
-              "end" : 2677653
-            },
-            {
-              "titel" : "Sterbenskrank",
-              "start" : 2677653,
-              "end" : 2921387
-            },
-            {
-              "titel" : "Skinny Norris",
-              "start" : 2921387,
-              "end" : 3178987
-            },
-            {
-              "titel" : "Robin Hood",
-              "start" : 3178987,
-              "end" : 3418440
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Ein gerissener Kunstdieb",
-              "start" : 0,
-              "end" : 692667
-            },
-            {
-              "titel" : "Al Capone",
-              "start" : 692667,
-              "end" : 978747
-            },
-            {
-              "titel" : "Baker Street in London",
-              "start" : 978747,
-              "end" : 1177880
-            },
-            {
-              "titel" : "Auf dem Friedhof",
-              "start" : 1177880,
-              "end" : 1809400
-            },
-            {
-              "titel" : "Wo sind die Papageien?",
-              "start" : 1809400,
-              "end" : 1981684
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/rip_log.txt"
-          }
-        }
-      ],
-      "titel" : "und der Super-Papagei 2004",
-      "autor" : "Robert Arthur",
-      "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Das ist wirklich ein spezial gelagerter Sonderfall: Warum zitieren Papageien sonderbare Sprüche falsch? Was hat Sherlock Holmes mit Schneewittchen zu tun? Und aus welchem Grund taucht urplötzlich Skinny Norris auf, obwohl er damals vor 25 Jahren im Original-Hörspiel nicht dabei war? Ganz einfach: Diese Sonder-Edition der allerersten drei ??? Folge enthält viele neue Szenen und beantwortet endlich alle Fragen, die in der ursprünglichen Fassung nie beantwortet wurden …",
-      "veröffentlichungsdatum" : "2004-10-04",
-      "kapitel" : [
-        {
-          "titel" : "Ein Hilferuf",
-          "start" : 0,
-          "end" : 557187
-        },
-        {
-          "titel" : "Errare humanum est",
-          "start" : 557187,
-          "end" : 1134733
-        },
-        {
-          "titel" : "Ist Sherlock Holmes zuhause?",
-          "start" : 1134733,
-          "end" : 1352707
-        },
-        {
-          "titel" : "Die Telefonlawine",
-          "start" : 1352707,
-          "end" : 2080920
-        },
-        {
-          "titel" : "Blackbeard",
-          "start" : 2080920,
-          "end" : 2426173
-        },
-        {
-          "titel" : "Ein spezial gelagerter Sonderfall",
-          "start" : 2426173,
-          "end" : 2677653
-        },
-        {
-          "titel" : "Sterbenskrank",
-          "start" : 2677653,
-          "end" : 2921387
-        },
-        {
-          "titel" : "Skinny Norris",
-          "start" : 2921387,
-          "end" : 3178987
-        },
-        {
-          "titel" : "Robin Hood",
-          "start" : 3178987,
-          "end" : 3418440
-        },
-        {
-          "titel" : "Ein gerissener Kunstdieb",
-          "start" : 3418440,
-          "end" : 4111107
-        },
-        {
-          "titel" : "Al Capone",
-          "start" : 4111107,
-          "end" : 4397187
-        },
-        {
-          "titel" : "Baker Street in London",
-          "start" : 4397187,
-          "end" : 4596320
-        },
-        {
-          "titel" : "Auf dem Friedhof",
-          "start" : 4596320,
-          "end" : 5227840
-        },
-        {
-          "titel" : "Wo sind die Papageien?",
-          "start" : 5227840,
-          "end" : 5400124
-        }
-      ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas, Erster Detektiv",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw, Zweiter Detektiv",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews, Recherchen und Archiv",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Skinny Norris",
-          "Andreas von der Meden"
-        ],
-        [
-          "Mr. Claudius",
-          "Gerlach Fiedler"
-        ],
-        [
-          "Mrs. Claudius",
-          "Brigitte Böttrich"
-        ],
-        [
-          "Mr. Fentriss",
-          "Detlef Bierstedt"
-        ],
-        [
-          "Hugenay",
-          "Wolfgang Kubach"
-        ],
-        [
-          "Carlos",
-          "Stefan Brönneke"
-        ],
-        [
-          "Ramos",
-          "Dario Bertoli"
-        ],
-        [
-          "Morton",
-          "Andreas von der Meden"
-        ],
-        [
-          "Opa",
-          "Harry Rowohlt"
-        ],
-        [
-          "Miss Waggoner",
-          "Ursula Vogel"
-        ],
-        [
-          "Senora",
-          "Barbara Benuel"
-        ]
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/cover.png"
-      }
-    },
-    {
-      "titel" : "und der Tornadojäger",
-      "autor" : "Christoph Dittert",
-      "hörspielskriptautor" : "Yona Franke",
-      "beschreibung" : "Der bekannte Tornadojäger Dylan Harvey kommt zu einer Fotoshow nach Rocky Beach. Das lassen sich Justus, Peter und Bob natürlich nicht entgehen. Doch kurz vor dem angekündigten Auftritt werden dem Tornadojäger wichtige Aufnahmen gestohlen. Die drei Detektive ermitteln für Harvey. Sie wollen wissen, wer hinter dem Diebstahl steckt – und warum diese Fotos so wichtig sind. Aber plötzlich wirkt ihr Auftraggeber gar nicht mehr so unschuldig. Ist der Tornadojäger nur ein windiger Betrüger?",
-      "veröffentlichungsdatum" : "2017-06-23",
-      "kapitel" : [
-        {
-          "titel" : "Eine rasante Flucht",
-          "start" : 0,
-          "end" : 318187
-        },
-        {
-          "titel" : "Superhelden der besonderen Art",
-          "start" : 318187,
-          "end" : 741440
-        },
-        {
-          "titel" : "Die Lauscherin",
-          "start" : 741440,
-          "end" : 1025947
-        },
-        {
-          "titel" : "Überraschende Enthüllungen",
-          "start" : 1025947,
-          "end" : 1323813
-        },
-        {
-          "titel" : "Auf Rachefeldzug",
-          "start" : 1323813,
-          "end" : 1848493
-        },
-        {
-          "titel" : "Intrigen überall",
-          "start" : 1848493,
-          "end" : 2262707
-        },
-        {
-          "titel" : "Entführt!",
-          "start" : 2262707,
-          "end" : 2755507
-        },
-        {
-          "titel" : "Schlussfolgerungen",
-          "start" : 2755507,
-          "end" : 2884867
-        },
-        {
-          "titel" : "Schein und Sein",
-          "start" : 2884867,
-          "end" : 3224013
-        },
-        {
-          "titel" : "Licht ins Dunkel",
-          "start" : 3224013,
-          "end" : 3761333
-        },
-        {
-          "titel" : "Ein Paar",
-          "start" : 3761333,
-          "end" : 4068907
-        },
-        {
-          "titel" : "Sonnenklar",
-          "start" : 4068907,
-          "end" : 4300133
-        }
-      ],
-      "sprecher" : [
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Dylan Harvey",
-          "Stephan Schad"
-        ],
-        [
-          "Mrs. Violet Conroy",
-          "Birte Kretschmer"
-        ],
-        [
-          "Mr. Alex Scott",
-          "Oliver Böttche"
-        ],
-        [
-          "Myriel",
-          "Undine Ullmer"
-        ],
-        [
-          "Zimmermädchen",
-          "Theresa Underberg"
-        ],
-        [
-          "Zimmerjunge",
-          "Jannik Endemann"
-        ],
-        [
-          "Mutter im Stadtpark",
-          "Saskia Weckler"
-        ],
-        [
-          "Klein Peter",
-          "Malon Stahlhut"
-        ],
-        [
-          "Kellnerin im Hotel",
-          "Alexandra Garcia"
-        ],
-        [
-          "Handwerker im Hotel 1",
-          "André Gatzke"
-        ],
-        [
-          "Handwerker im Hotel 2",
-          "Bent Schönemann"
-        ],
-        [
-          "Internetcafébesitzer",
-          "Tim Kreuer"
-        ],
-        [
-          "Vortragsbesucher, Parkbesucher, Frühstücksgäste, Nachbarn",
-          "Susan Jarling, Hilla Fitzen, Nina Minninger, Marine Endemann, Zelda Jahreis, Maud Ackermann, Heikedine Körting, Stephanie Kirchberger, Ingeborg Christiansen, Michaela Kreissler, Theresa Underberg, Kerstin Draeger, Lennart Krüger, Kjell Wenzel, Norma Draeger, Florian Herkenrath, Jannik Endemann, Dirk Eichhorn, Stephan Benson"
-        ]
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/rip_log.txt",
-        "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/cover.png"
-      }
-    },
-    {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "buchstabe" : "J",
-          "titel" : "Sicht J: Der Fluch der Sheldon Street",
-          "autor" : "Hendrik Buchna",
-          "beschreibung" : "Alles beginnt mit dem Kauf eines alten Projektors und der Entdeckung einer schmalen Super-8-Filmrolle. Als die drei Detektive das Fundstück begutachten, entdecken sie die verstörende Aufnahme einer albtraumhaften Gestalt. Schnell stellen die drei ??? fest, dass es um weit mehr geht, als sie zunächst ahnen: Eine ganze Straße scheint unter dem Bann eines düsteren Geheimnisses zu stehen. Doch kaum beginnen Justus, Peter und Bob mit ihren Nachforschungen, da tauchen plötzlich Gegner auf, die ihnen mit allen Mitteln zuvorkommen wollen …",
-          "kapitel" : [
-            {
-              "titel" : "Die Cola",
-              "start" : 0,
-              "end" : 249733
-            },
-            {
-              "titel" : "Bleiche Fratze",
-              "start" : 249733,
-              "end" : 518160
-            },
-            {
-              "titel" : "Sammlerstück",
-              "start" : 518160,
-              "end" : 743333
-            },
-            {
-              "titel" : "Dunkle Erinnerung",
-              "start" : 743333,
-              "end" : 1150133
-            },
-            {
-              "titel" : "Eine Straße in Angst",
-              "start" : 1150133,
-              "end" : 1828053
-            },
-            {
-              "titel" : "Verfolgt",
-              "start" : 1828053,
-              "end" : 2374027
-            },
-            {
-              "titel" : "Kriegsrat",
-              "start" : 2374027,
-              "end" : 2635387
-            },
-            {
-              "titel" : "Unheimliche Begegnungen",
-              "start" : 2635387,
-              "end" : 3167667
-            },
-            {
-              "titel" : "Sturm",
-              "start" : 3167667,
-              "end" : 3467800
-            },
-            {
-              "titel" : "Eine heiße Spur",
-              "start" : 3467800,
-              "end" : 3850653
-            },
-            {
-              "titel" : "Wendepunkt",
-              "start" : 3850653,
-              "end" : 4188920
-            },
-            {
-              "titel" : "Der Fluch der Sheldon Street",
-              "start" : 4188920,
-              "end" : 4589640
-            },
-            {
-              "titel" : "Triumph",
-              "start" : 4589640,
-              "end" : 4757160
-            }
-          ],
-          "sprecher" : [
-            [
-              "Erzähler",
-              "Thomas Fritsch"
-            ],
-            [
-              "Justus Jonas",
-              "Oliver Rohrbeck"
-            ],
-            [
-              "Peter Shaw",
-              "Jens Wawrczeck"
-            ],
-            [
-              "Bob Andrews",
-              "Andreas Fröhlich"
-            ],
-            [
-              "Tante Mathilda Jonas",
-              "Karin Lieneweg"
-            ],
-            [
-              "Onkel Titus Jonas",
-              "Hans Meinhardt"
-            ],
-            [
-              "Inspektor Cotta",
-              "Holger Mahlich"
-            ],
-            [
-              "Officer Flann Doyle",
-              "Douglas Welbat"
-            ],
-            [
-              "Tanya Sullivan",
-              "Marion Elskis"
-            ],
-            [
-              "Sebastian Dawson",
-              "Bastian Pastewka"
-            ],
-            [
-              "Miss Tomkins",
-              "Steffi Kirchberger"
-            ],
-            [
-              "Mr. Foley",
-              "Dirk Bach"
-            ],
-            [
-              "John Gabbin",
-              "Tobias Schmidt"
-            ],
-            [
-              "Matthew Gabbin",
-              "Jürgen Thormann"
-            ],
-            [
-              "Georgina",
-              "Maud Ackermann"
-            ],
-            [
-              "Gil Renard",
-              "Udo Schenk"
-            ],
-            [
-              "Hedy Carlson",
-              "Luise Helm"
-            ],
-            [
-              "Steve",
-              "Sascha Draeger"
-            ],
-            [
-              "Jack",
-              "Hendrik Buchna"
-            ],
-            [
-              "Laury",
-              "Rhea Harder-Vennewald"
-            ],
-            [
-              "Gast 1",
-              "Christian Senger"
-            ],
-            [
-              "Fahrerin",
-              "Corinna Wodrich"
-            ],
-            [
-              "Radiosprecher",
-              "Tobias Meister"
-            ]
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "buchstabe" : "B",
-          "titel" : "Sicht B: Im Zeichen der Ritter",
-          "autor" : "Tim Wenderoth",
-          "beschreibung" : "Geheimnisvolle Symbole beunruhigen die Bewohner von Rocky Beach. Was steckt hinter den kryptischen Zeichen, die von einer geisterhaften Gestalt nachts an die Häuser gemalt werden? Und warum verhalten sich einige Bewohner der kleinen Küstenstadt so merkwürdig? Ihre ersten Nachforschungen bringen Justus, Peter und vor allem Bob auf die Spur einer mittelalterlichen Ritterlegende. Je intensiver sie sich mit dem Fall beschäftigen, umso klarer scheint, dass ihnen nur wenige Stunden bleiben, um am unheilvollen Freitag den 13. Schlimmeres zu verhindern …",
-          "kapitel" : [
-            {
-              "titel" : "Die Cola",
-              "start" : 0,
-              "end" : 262987
-            },
-            {
-              "titel" : "Papierdrachen",
-              "start" : 262987,
-              "end" : 490387
-            },
-            {
-              "titel" : "Außerirdische",
-              "start" : 490387,
-              "end" : 801680
-            },
-            {
-              "titel" : "Der Heilige Gral",
-              "start" : 801680,
-              "end" : 1008107
-            },
-            {
-              "titel" : "Freitag, der 13.",
-              "start" : 1008107,
-              "end" : 1488693
-            },
-            {
-              "titel" : "3 × 9 = 27",
-              "start" : 1488693,
-              "end" : 1719373
-            },
-            {
-              "titel" : "Blamiert",
-              "start" : 1719373,
-              "end" : 1958373
-            },
-            {
-              "titel" : "Jesper",
-              "start" : 1958373,
-              "end" : 2380533
-            },
-            {
-              "titel" : "Exklusivrechte",
-              "start" : 2380533,
-              "end" : 2786640
-            },
-            {
-              "titel" : "Cliffhanger",
-              "start" : 2786640,
-              "end" : 3126560
-            },
-            {
-              "titel" : "Film ab!",
-              "start" : 3126560,
-              "end" : 3353253
-            },
-            {
-              "titel" : "Rote Farbe",
-              "start" : 3353253,
-              "end" : 3904933
-            }
-          ],
-          "sprecher" : [
-            [
-              "Erzähler",
-              "Thomas Fritsch"
-            ],
-            [
-              "Justus Jonas",
-              "Oliver Rohrbeck"
-            ],
-            [
-              "Peter Shaw",
-              "Jens Wawrczeck"
-            ],
-            [
-              "Bob Andrews",
-              "Andreas Fröhlich"
-            ],
-            [
-              "Tante Mathilda Jonas",
-              "Karin Lieneweg"
-            ],
-            [
-              "Inspektor Cotta",
-              "Holger Mahlich"
-            ],
-            [
-              "Officer Flann Doyle",
-              "Douglas Welbat"
-            ],
-            [
-              "Gil Renard",
-              "Udo Schenk"
-            ],
-            [
-              "Hedy Carlson",
-              "Luise Helm"
-            ],
-            [
-              "Peter Foster",
-              "Gerrit Schmidt-Foss"
-            ],
-            [
-              "Mrs. Shaw",
-              "Isabella Grote"
-            ],
-            [
-              "Sebastian Dawson",
-              "Bastian Pastewka"
-            ],
-            [
-              "Annie Wilkes",
-              "Regina Lemnitz"
-            ],
-            [
-              "Mädchen 1",
-              "Katinka Körting"
-            ],
-            [
-              "Mädchen 2",
-              "Jacqueline Meybauer"
-            ],
-            [
-              "Georgina",
-              "Maud Ackermann"
-            ],
-            [
-              "Alter Mann",
-              "Jörg Gillner"
-            ],
-            [
-              "Junger Mann",
-              "Patrick Bach"
-            ],
-            [
-              "Dick Perry",
-              "Ernst H. Hilbich"
-            ],
-            [
-              "Matthew Gabbin",
-              "Jürgen Thormann"
-            ],
-            [
-              "Steve",
-              "Sascha Drager"
-            ],
-            [
-              "Radiosprecher",
-              "Tobias Meister"
-            ]
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 3,
-          "buchstabe" : "P",
-          "titel" : "Sicht P: Fremder Freund",
-          "autor" : "Ivar Leon Menger",
-          "beschreibung" : "Peter schwebt im siebten Himmel, denn er hat in einem Café Bekanntschaft mit einem großen Fan der drei ??? gemacht. Er wird sogar um ein Autogramm gebeten. Stolz und gut gelaunt verbringt Peter einen tollen Tag mit seinen Freunden, und alles wäre einfach perfekt, wenn er nicht plötzlich diese seltsamen Telefonanrufe und mysteriösen Briefe erhalten würde. Die drei Detektive werden heimlich beobachtet und sogar von einem Unbekannten fotografiert! Was soll das alles? Wer ist dieser seltsame Verfolger? Ist Peters Leben in Gefahr?",
-          "kapitel" : [
-            {
-              "titel" : "Die Cola",
-              "start" : 0,
-              "end" : 231413
-            },
-            {
-              "titel" : "Du hast noch nicht einmal gefragt!",
-              "start" : 231413,
-              "end" : 560493
-            },
-            {
-              "titel" : "Du bist doch verliebt, Peter!",
-              "start" : 560493,
-              "end" : 750533
-            },
-            {
-              "titel" : "Das Geschäft des Monats!",
-              "start" : 750533,
-              "end" : 1009533
-            },
-            {
-              "titel" : "Mein Name ist Peter!",
-              "start" : 1009533,
-              "end" : 1371053
-            },
-            {
-              "titel" : "Der Brief wurde abgegeben!",
-              "start" : 1371053,
-              "end" : 1580600
-            },
-            {
-              "titel" : "Auf den Novalux-Projektor!",
-              "start" : 1580600,
-              "end" : 1942960
-            },
-            {
-              "titel" : "Das bin ich dir schuldig!",
-              "start" : 1942960,
-              "end" : 2201400
-            },
-            {
-              "titel" : "Warum sollte ich das tun?",
-              "start" : 2201400,
-              "end" : 2382760
-            },
-            {
-              "titel" : "Hört ihr das nicht?",
-              "start" : 2382760,
-              "end" : 2814560
-            },
-            {
-              "titel" : "Nein, Bob! Die mag mich doch!",
-              "start" : 2814560,
-              "end" : 3104720
-            },
-            {
-              "titel" : "Aber genau das ist doch sehr seltsam!",
-              "start" : 3104720,
-              "end" : 3363200
-            },
-            {
-              "titel" : "Ein Zeichen?",
-              "start" : 3363200,
-              "end" : 3675013
-            },
-            {
-              "titel" : "Hier eine Sondermeldung!",
-              "start" : 3675013,
-              "end" : 3978200
-            },
-            {
-              "titel" : "Darf ich reinkommen?",
-              "start" : 3978200,
-              "end" : 4416000
-            }
-          ],
-          "sprecher" : [
-            [
-              "Erzähler",
-              "Thomas Fritsch"
-            ],
-            [
-              "Justus Jonas",
-              "Oliver Rohrbeck"
-            ],
-            [
-              "Peter Shaw",
-              "Jens Wawrczeck"
-            ],
-            [
-              "Bob Andrews",
-              "Andreas Fröhlich"
-            ],
-            [
-              "Tante Mathilda Jonas",
-              "Karin Lieneweg"
-            ],
-            [
-              "Bill Andrews",
-              "Henry König"
-            ],
-            [
-              "Inspektor Cotta",
-              "Holger Mahlich"
-            ],
-            [
-              "Miss Bennett",
-              "Renate Pilcher"
-            ],
-            [
-              "Dick Perry",
-              "Ernst H. Hilbich"
-            ],
-            [
-              "Walter Bush",
-              "Rolf E. Schenker"
-            ],
-            [
-              "Officer Flann Doyle",
-              "Douglas Welbat"
-            ],
-            [
-              "Ian Bush",
-              "Sky du Mont / Lucas Sperber"
-            ],
-            [
-              "Jimmy Sinclair",
-              "Siegfried Kernen / Nils Noller"
-            ],
-            [
-              "Charlie Parker",
-              "Jörg Gillner / Laurence Kalaidjan"
-            ],
-            [
-              "Brianna Jackson",
-              "Hansi Jochmann / Natalie Demtröder"
-            ],
-            [
-              "Chloe Smathers",
-              "Valerie Demtröder"
-            ],
-            [
-              "Joseph Quick",
-              "Harry Rowohlt"
-            ],
-            [
-              "Mr. Raynes",
-              "Olaf Kreuzenbeck"
-            ],
-            [
-              "Jeff White",
-              "Horst Naumann"
-            ],
-            [
-              "Hedy Carlson",
-              "Luise Helm"
-            ],
-            [
-              "Gil Renard",
-              "Udo Schenk"
-            ],
-            [
-              "Peter Foster",
-              "Gerrit Schmidt-Foss"
-            ],
-            [
-              "Matthew Gabbin",
-              "Jürgen Thormann"
-            ],
-            [
-              "Steve",
-              "Sascha Draeger"
-            ],
-            [
-              "Laury",
-              "Rhea Harder-Vennewald"
-            ],
-            [
-              "Georgina",
-              "Maud Ackermann"
-            ],
-            [
-              "Bedienung",
-              "Tim Wenderoth"
-            ],
-            [
-              "Gast",
-              "Andreas Otoo"
-            ],
-            [
-              "Sekretärin",
-              "Corinna Wodrich"
-            ],
-            [
-              "Sebastian Dawson",
-              "Bastian Pastewka"
-            ],
-            [
-              "Radiosprecher",
-              "Tobias Meister"
-            ]
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/rip_log.txt"
-          }
-        }
-      ],
-      "titel" : "und der dreiTag",
-      "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Kann ein und derselbe Tag dreimal völlig unterschiedlich verlaufen? Kann ein unscheinbares Detail wie ein Colaglas darüber entscheiden, wie sich alle weiteren Geschehnisse entwickeln? Erlebe, wie Justus, Peter und Bob auf den unheimlichen Fluch der Sheldon Street, die mysteriösen Zeichen der Ritter stoßen und den bedrohlichen Fremden Freund stoßen – und zwar zeitgleich am selben Tag!\nDrei Geschichten von drei Autoren führen dich dreimal durch einen Tag, wie er unterschiedlicher nicht verlaufen könnte.",
-      "veröffentlichungsdatum" : "2010-10-01",
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Tante Mathilda Jonas",
-          "Karin Lieneweg"
-        ],
-        [
-          "Onkel Titus Jonas",
-          "Hans Meinhardt"
-        ],
-        [
-          "Inspektor Cotta",
-          "Holger Mahlich"
-        ],
-        [
-          "Officer Flann Doyle",
-          "Douglas Welbat"
-        ],
-        [
-          "Tanya Sullivan",
-          "Marion Elskis"
-        ],
-        [
-          "Sebastian Dawson",
-          "Bastian Pastewka"
-        ],
-        [
-          "Miss Tomkins",
-          "Steffi Kirchberger"
-        ],
-        [
-          "Mr. Foley",
-          "Dirk Bach"
-        ],
-        [
-          "John Gabbin",
-          "Tobias Schmidt"
-        ],
-        [
-          "Matthew Gabbin",
-          "Jürgen Thormann"
-        ],
-        [
-          "Georgina",
-          "Maud Ackermann"
-        ],
-        [
-          "Gil Renard",
-          "Udo Schenk"
-        ],
-        [
-          "Hedy Carlson",
-          "Luise Helm"
-        ],
-        [
-          "Steve",
-          "Sascha Draeger"
-        ],
-        [
-          "Jack",
-          "Hendrik Buchna"
-        ],
-        [
-          "Laury",
-          "Rhea Harder-Vennewald"
-        ],
-        [
-          "Gast 1",
-          "Christian Senger"
-        ],
-        [
-          "Fahrerin",
-          "Corinna Wodrich"
-        ],
-        [
-          "Radiosprecher",
-          "Tobias Meister"
-        ],
-        [
-          "Peter Foster",
-          "Gerrit Schmidt-Foss"
-        ],
-        [
-          "Mrs. Shaw",
-          "Isabella Grote"
-        ],
-        [
-          "Annie Wilkes",
-          "Regina Lemnitz"
-        ],
-        [
-          "Mädchen 1",
-          "Katinka Körting"
-        ],
-        [
-          "Mädchen 2",
-          "Jacqueline Meybauer"
-        ],
-        [
-          "Alter Mann",
-          "Jörg Gillner"
-        ],
-        [
-          "Junger Mann",
-          "Patrick Bach"
-        ],
-        [
-          "Dick Perry",
-          "Ernst H. Hilbich"
-        ],
-        [
-          "Bill Andrews",
-          "Henry König"
-        ],
-        [
-          "Miss Bennett",
-          "Renate Pilcher"
-        ],
-        [
-          "Walter Bush",
-          "Rolf E. Schenker"
-        ],
-        [
-          "Officer Flann Doyle",
-          "Douglas Welbat"
-        ],
-        [
-          "Ian Bush",
-          "Sky du Mont / Lucas Sperber"
-        ],
-        [
-          "Jimmy Sinclair",
-          "Siegfried Kernen / Nils Noller"
-        ],
-        [
-          "Charlie Parker",
-          "Jörg Gillner / Laurence Kalaidjan"
-        ],
-        [
-          "Brianna Jackson",
-          "Hansi Jochmann / Natalie Demtröder"
-        ],
-        [
-          "Chloe Smathers",
-          "Valerie Demtröder"
-        ],
-        [
-          "Joseph Quick",
-          "Harry Rowohlt"
-        ],
-        [
-          "Mr. Raynes",
-          "Olaf Kreuzenbeck"
-        ],
-        [
-          "Jeff White",
-          "Horst Naumann"
-        ],
-        [
-          "Bedienung",
-          "Tim Wenderoth"
-        ],
-        [
-          "Gast 2",
-          "Andreas Otto"
-        ],
-        [
-          "Sekretärin",
-          "Corinna Wodrich"
-        ],
-        [
-          "Radiosprecher",
-          "Tobias Meister"
-        ]
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/metadata.json",
-        "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/cover.png"
       }
     },
     {
@@ -4516,6 +4256,266 @@
         "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/cover.png"
+      }
+    },
+    {
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "kapitel" : [
+            {
+              "titel" : "Prolog",
+              "start" : 0,
+              "end" : 68400
+            },
+            {
+              "titel" : "Sandfield",
+              "start" : 68400,
+              "end" : 317720
+            },
+            {
+              "titel" : "Brother Jonathan",
+              "start" : 317720,
+              "end" : 1169600
+            },
+            {
+              "titel" : "Tauchgang",
+              "start" : 1169600,
+              "end" : 1466533
+            },
+            {
+              "titel" : "Hai-Alarm",
+              "start" : 1466533,
+              "end" : 1729467
+            },
+            {
+              "titel" : "Pläne für Sandfield",
+              "start" : 1729467,
+              "end" : 2182733
+            },
+            {
+              "titel" : "Schatzsuche!",
+              "start" : 2182733,
+              "end" : 2513693
+            },
+            {
+              "titel" : "Paprika",
+              "start" : 2513693,
+              "end" : 2852240
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "kapitel" : [
+            {
+              "titel" : "Am Abgrund",
+              "start" : 0,
+              "end" : 471347
+            },
+            {
+              "titel" : "Afrika",
+              "start" : 471347,
+              "end" : 737973
+            },
+            {
+              "titel" : "Abbruchgefährdet",
+              "start" : 737973,
+              "end" : 1350440
+            },
+            {
+              "titel" : "Goldrausch",
+              "start" : 1350440,
+              "end" : 1531307
+            },
+            {
+              "titel" : "Verdacht",
+              "start" : 1531307,
+              "end" : 2102547
+            },
+            {
+              "titel" : "Elaine",
+              "start" : 2102547,
+              "end" : 2621133
+            },
+            {
+              "titel" : "Countdown",
+              "start" : 2621133,
+              "end" : 3035933
+            },
+            {
+              "titel" : "Glück im Unglück",
+              "start" : 3035933,
+              "end" : 3273800
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/rip_log.txt"
+          }
+        }
+      ],
+      "titel" : "und das versunkene Schiff",
+      "autor" : "André Marx",
+      "hörspielskriptautor" : "Kai Schwind",
+      "beschreibung" : "Liegt tatsächlich ein alter Goldschatz vor der Küste des Ferienortes von Justus, Peter und Bob? Prompt vergessen die drei ??? ihren Ärger über den verregneten Urlaub und nehmen die Jagd nach den versunkenen Reichtümern auf. Sie tauchen ein in die geheimnisvolle Geschichte des berühmtesten Dorfbewohners und heben ein dunkles Geheimnis …",
+      "veröffentlichungsdatum" : "2019-11-01",
+      "kapitel" : [
+        {
+          "titel" : "Prolog",
+          "start" : 0,
+          "end" : 68400
+        },
+        {
+          "titel" : "Sandfield",
+          "start" : 68400,
+          "end" : 317720
+        },
+        {
+          "titel" : "Brother Jonathan",
+          "start" : 317720,
+          "end" : 1169600
+        },
+        {
+          "titel" : "Tauchgang",
+          "start" : 1169600,
+          "end" : 1466533
+        },
+        {
+          "titel" : "Hai-Alarm",
+          "start" : 1466533,
+          "end" : 1729467
+        },
+        {
+          "titel" : "Pläne für Sandfield",
+          "start" : 1729467,
+          "end" : 2182733
+        },
+        {
+          "titel" : "Schatzsuche!",
+          "start" : 2182733,
+          "end" : 2513693
+        },
+        {
+          "titel" : "Paprika",
+          "start" : 2513693,
+          "end" : 2852240
+        },
+        {
+          "titel" : "Am Abgrund",
+          "start" : 2852240,
+          "end" : 3323587
+        },
+        {
+          "titel" : "Afrika",
+          "start" : 3323587,
+          "end" : 3590213
+        },
+        {
+          "titel" : "Abbruchgefährdet",
+          "start" : 3590213,
+          "end" : 4202680
+        },
+        {
+          "titel" : "Goldrausch",
+          "start" : 4202680,
+          "end" : 4383547
+        },
+        {
+          "titel" : "Verdacht",
+          "start" : 4383547,
+          "end" : 4954787
+        },
+        {
+          "titel" : "Elaine",
+          "start" : 4954787,
+          "end" : 5473373
+        },
+        {
+          "titel" : "Countdown",
+          "start" : 5473373,
+          "end" : 5888173
+        },
+        {
+          "titel" : "Glück im Unglück",
+          "start" : 5888173,
+          "end" : 6126040
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzäher",
+          "Thomas Fritsch"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Amanda Ellis",
+          "Simona Pahl"
+        ],
+        [
+          "Jo",
+          "Birte Kretschmer"
+        ],
+        [
+          "Steve Young",
+          "Till Huster"
+        ],
+        [
+          "Ford Follows",
+          "Stephan Benson"
+        ],
+        [
+          "Eric Ellis",
+          "Horst Stark"
+        ],
+        [
+          "Ricardo Yarbrough",
+          "Stefan Brönneke"
+        ],
+        [
+          "Bibliothekarin",
+          "Rosemarie Wohlbauer"
+        ],
+        [
+          "Mr. Friedman",
+          "Douglas Welbat"
+        ],
+        [
+          "Mann in der Bibliothek",
+          "Erik Schäffler"
+        ],
+        [
+          "Sekretärin",
+          "Christiane Leuchtmann"
+        ],
+        [
+          "Jackson Cooper",
+          "Oliver Bröttcher"
+        ],
+        [
+          "Mr. Miller",
+          "Pierre Brand"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/cover.png"
       }
     },
     {
