@@ -26767,6 +26767,99 @@
         "cover" : "http://dreimetadaten.de/data/Serie/209/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/3b/d2/67/3bd26794-2d8a-a4cd-4256-81ae63dfce0f/886448636892.jpg/3000x0w.png"
       }
+    },
+    {
+      "nummer" : 210,
+      "titel" : "und die schweigende Grotte",
+      "autor" : "Christoph Dittert",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Die verfallene Ruine des einstigen Sanatoriums lädt Justus, Peter und Bob zum Abenteuerausflug ein. Das bröckelige Gemäuer und die verschüttete Grotte darunter hat seit Jahren niemand mehr betreten. Die drei ??? gelangen in das verlassene Gebäude und finden eine verschlossene Kiste mit unerwartetem Inhalt. Sie sie etwa doch nicht allein?",
+      "veröffentlichungsdatum" : "2021-06-11",
+      "kapitel" : [
+        {
+          "titel" : "Ein Mann verschwindet",
+          "start" : 0,
+          "end" : 442800
+        },
+        {
+          "titel" : "Der Tausend-Dollar-Fisch",
+          "start" : 442800,
+          "end" : 905693
+        },
+        {
+          "titel" : "Delfine und begeisterte Fans",
+          "start" : 905693,
+          "end" : 1621267
+        },
+        {
+          "titel" : "Im Zwielicht",
+          "start" : 1621267,
+          "end" : 2030867
+        },
+        {
+          "titel" : "Visite bei der Privatärztin",
+          "start" : 2030867,
+          "end" : 2802013
+        },
+        {
+          "titel" : "Zugang zur Vergangenheit",
+          "start" : 2802013,
+          "end" : 3627267
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Zach Cannings",
+          "Martin May"
+        ],
+        [
+          "Nicole",
+          "Saskia Weckler"
+        ],
+        [
+          "Mitarbeiter",
+          "Achim Funk"
+        ],
+        [
+          "Sara Roskin",
+          "Elke Reissert"
+        ],
+        [
+          "Caden Devlin",
+          "Werner Wilkening"
+        ],
+        [
+          "Offizier der Küstenwache (1)",
+          "Thorsten Laussch"
+        ],
+        [
+          "Offizier der Küstenwache (2)",
+          "Andreas Birnbaum"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/210/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/210/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/210/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/210/cover.png",
+        "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Video125/v4/4e/cd/21/4ecd2117-fb94-7922-50b8-589c757110ac/Job4c0011ca-62b7-4699-8cf0-38604544c0cd-114736460-PreviewImage_preview_image_nonvideo_sdr-Time1622648984231.png/3000x0w.png"
+      }
     }
   ]
 }
