@@ -1,0 +1,101 @@
+{
+  "nummer" : 211,
+  "titel" : "und der Jadekönig",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Haben die drei ??? etwas mit dem Diebstahl des \"Jadekönigs\" zu tun? Eine der wertvollsten Briefmarken der Welt ist verschwunden. Auf der Suche geraten die Detektive mitten hinein in ein lang gehütetes Familiengeheimnis. Können Justus, Peter und Bob den Jadekönig retten – oder werden sie sich an diesem Fall die Finger verbrennen?",
+  "veröffentlichungsdatum" : "2021-07-16",
+  "kapitel" : [
+    {
+      "titel" : "Der Anfang",
+      "start" : 0,
+      "end" : 452387
+    },
+    {
+      "titel" : "Green British Nanda 2 Pence",
+      "start" : 452387,
+      "end" : 994880
+    },
+    {
+      "titel" : "Rick und Marlow",
+      "start" : 994880,
+      "end" : 1676240
+    },
+    {
+      "titel" : "Nächtlicher Besuch",
+      "start" : 1676240,
+      "end" : 2336853
+    },
+    {
+      "titel" : "Ein Liebespaar",
+      "start" : 2336853,
+      "end" : 3260760
+    },
+    {
+      "titel" : "In Flammen",
+      "start" : 3260760,
+      "end" : 4321973
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Jock",
+      "Christian Stark"
+    ],
+    [
+      "Gavin Sterling",
+      "Stephan Benson"
+    ],
+    [
+      "Judith Sterling",
+      "Hedi Kriegeskotte"
+    ],
+    [
+      "Leopold Nelson",
+      "Oliver Kalkofe"
+    ],
+    [
+      "Marlow",
+      "Janis Zaurins"
+    ],
+    [
+      "Rick",
+      "Daniel Welbat"
+    ],
+    [
+      "Mrs. Torres",
+      "Heidi Berndt"
+    ],
+    [
+      "Dark Blue D",
+      "Ivo Möller"
+    ],
+    [
+      "Busfahrerin",
+      "Rosemarie Wohlbauer"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/211/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/211/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/211/rip_log.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/211/cover.png",
+    "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/11/aa/60/11aa607b-24d2-bf56-d4dd-85809bf2e799/886448719021.jpg/3000x0w.png"
+  }
+}
