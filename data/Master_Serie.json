@@ -27067,6 +27067,19 @@
         "cover" : "http://dreimetadaten.de/data/Serie/212/cover.png",
         "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/83/67/2d8367c7-7558-9250-c80f-fc8c6291eb70/886448719038.jpg/3000x0w.png"
       }
+    },
+    {
+      "nummer" : 213,
+      "titel" : "Der Fluch der Medusa",
+      "autor" : "Marco Sonnleitner",
+      "hörspielskriptautor" : "André Minninger",
+      "veröffentlichungsdatum" : "2021-11-26",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/213/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Serie/213/cover.png",
+        "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/17/a3/91/17a3916d-2d2d-ada0-c722-168abbdddc8e/886449558667.jpg/3000x0w.png"
+      },
+      "unvollständig" : true
     }
   ]
 }
