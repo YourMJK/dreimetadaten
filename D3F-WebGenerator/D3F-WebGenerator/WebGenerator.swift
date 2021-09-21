@@ -82,8 +82,10 @@ class WebGenerator {
 				addCell(class: .data, content: "")
 			}
 		}
-		func startRow() {
-			tableRowsString.append("\n<tr>")
+		func startRow(incomplete: Bool) {
+			tableRowsString.append("\n<tr")
+			if incomplete { tableRowsString.append(" class=\"row_incomplete\"") }
+			tableRowsString.append(">")
 		}
 		func endRow() {
 			tableRowsString.append("\n</tr>")
@@ -127,7 +129,7 @@ class WebGenerator {
 		}
 		
 		func addRowFor(höreinheit: Höreinheit) {
-			startRow()
+			startRow(incomplete: höreinheit.unvollständig ?? false)
 			
 			// First one (or two) identifying cell(s)
 			switch collectionType {

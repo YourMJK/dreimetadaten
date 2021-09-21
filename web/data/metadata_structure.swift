@@ -16,6 +16,7 @@ class Höreinheit {
 	var kapitel: [Kapitel]?
 	var sprecher: [[String]]?
 	var links: Links?
+	var unvollständig: Bool?
 }
 
 class Folge: Höreinheit {

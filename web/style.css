@@ -31,6 +31,7 @@
 	
 	--color-background: #FCFCFC;
 	--color-tablerowHoverBG: rgba(0,0,0,0.05);
+	--color-tablerowIncompleteBG: rgba(237,27,35,0.125);
 	
 	--line-style: 0.5px solid var(--color-gray1);
 	
@@ -155,6 +156,9 @@ nav img {
 }
 .datatable tr:hover {
 	background-color: var(--color-tablerowHoverBG);
+}
+.datatable .row_incomplete {
+	background-color: var(--color-tablerowIncompleteBG) !important;
 }
 
 .datatable .cell_nr {

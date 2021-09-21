@@ -27,6 +27,7 @@ class Höreinheit: Codable {
 	var kapitel: [Kapitel]?
 	var sprecher: [[String]]?
 	var links: Links?
+	var unvollständig: Bool?
 }
 
 
@@ -154,6 +155,7 @@ extension Metadata {
 			"kapitel",
 			"sprecher",
 			"links",
+			"unvollständig",
 			
 			"titel",
 			"start",
