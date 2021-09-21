@@ -26961,6 +26961,112 @@
         "cover" : "http://dreimetadaten.de/data/Serie/211/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/11/aa/60/11aa607b-24d2-bf56-d4dd-85809bf2e799/886448719021.jpg/3000x0w.png"
       }
+    },
+    {
+      "nummer" : 212,
+      "titel" : "und der weiße Leopard",
+      "autor" : "Hendrik Buchna",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Der \"weiße Leopard\" wird streng bewacht! Kein Einbrecher dieser Welt kann die wertvolle japanische Prunkschale stehlen. Ein unüberwindbares Sicherheitssystem schützt den Schatz. Doch plötzlich ist die edle Schale aus dem 17. Jahrhundert verschwunden. Ein brisanter Fall für die drei ???, denn auf der Schale liegt ein Fluch der Samurai …",
+      "veröffentlichungsdatum" : "2021-09-17",
+      "kapitel" : [
+        {
+          "titel" : "Alarm in Bel Air",
+          "start" : 0,
+          "end" : 434947
+        },
+        {
+          "titel" : "Ein seltsames Haus",
+          "start" : 434947,
+          "end" : 1244267
+        },
+        {
+          "titel" : "Ein Phantom schlägt zu",
+          "start" : 1244267,
+          "end" : 2065120
+        },
+        {
+          "titel" : "Klient in Not",
+          "start" : 2065120,
+          "end" : 2457933
+        },
+        {
+          "titel" : "In der Höhle des Shoguns",
+          "start" : 2457933,
+          "end" : 3091853
+        },
+        {
+          "titel" : "Wendepunkt",
+          "start" : 3091853,
+          "end" : 3778587
+        },
+        {
+          "titel" : "Die Villa der Lügen",
+          "start" : 3778587,
+          "end" : 4395213
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Larry Conklin",
+          "Helmut Zierl"
+        ],
+        [
+          "Fairfax",
+          "Wolfgang Pampel"
+        ],
+        [
+          "Zachary",
+          "Nicolas König"
+        ],
+        [
+          "Butler Francis",
+          "Bruno F. Apitz"
+        ],
+        [
+          "Mrs. Dutton",
+          "Monika Werner"
+        ],
+        [
+          "Noreen",
+          "Simona Pahl"
+        ],
+        [
+          "Mrs. Mobray",
+          "Eva Weissmann"
+        ],
+        [
+          "Polizist",
+          "Holger Wemhoff"
+        ],
+        [
+          "Miyazawa",
+          "Achim Schülke"
+        ]
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/212/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/212/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/212/rip_log.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/212/cover.png",
+        "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/83/67/2d8367c7-7558-9250-c80f-fc8c6291eb70/886448719038.jpg/3000x0w.png"
+      }
     }
   ]
 }
