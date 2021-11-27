@@ -316,7 +316,7 @@ class MetadataCollector {
 		func update<T: Equatable>(_ oldValue: inout T?, to newValue: T?, description: String) {
 			if !overwrite, let oldValue = oldValue {  // no-overwrite and value is non-nil
 				if newValue != oldValue {
-					stderr("Warning (Folge \(String(describing: nummer))): New value for \"\(description)\" of \"\(newValue != nil ? String(describing: newValue!) : "(nil)"))\" differs from current value \"\(oldValue)\", but the overwrite option was not specified. New value is ignored.")
+					stderr("Warning (Folge \(String(describing: nummer))): New value for \"\(description)\" of \"\(newValue != nil ? String(describing: newValue!) : "(nil)")\" differs from current value \"\(oldValue)\", but the overwrite option was not specified. New value is ignored.")
 				}
 				return
 			}
