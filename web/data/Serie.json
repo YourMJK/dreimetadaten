@@ -27073,13 +27073,122 @@
       "titel" : "Der Fluch der Medusa",
       "autor" : "Marco Sonnleitner",
       "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Ein Brief mit einer unverständlichen Abfolge von Buchstaben und Zahlen – Jojo weiß mit dieser kryptischen Botschaft nichts anzufangen. Dabei möchte er doch unbedingt herausfinden, wo sein Vater ist. Der bekannte Enthüllungsjournalist ist auf einer Recherchereise verschwunden. Die drei ??? geraten in eine verzwickte Rätseljagd. War der Journalist einem Politskandal auf der Spur? Und werden die drei Detektive ihn finden, bevor seine Gegner es tun?",
       "veröffentlichungsdatum" : "2021-11-26",
+      "kapitel" : [
+        {
+          "titel" : "An Messers Schneide",
+          "start" : 0,
+          "end" : 586013
+        },
+        {
+          "titel" : "Weiskopfadlr",
+          "start" : 586013,
+          "end" : 1335907
+        },
+        {
+          "titel" : "Das Auge des Außerirdischen",
+          "start" : 1335907,
+          "end" : 2011347
+        },
+        {
+          "titel" : "Naknek",
+          "start" : 2011347,
+          "end" : 2498373
+        },
+        {
+          "titel" : "Zombie-Alarm",
+          "start" : 2498373,
+          "end" : 2919427
+        },
+        {
+          "titel" : "Verstellte Stimme",
+          "start" : 2919427,
+          "end" : 3345640
+        },
+        {
+          "titel" : "Das Geheimnis der Medusa",
+          "start" : 3345640,
+          "end" : 4378267
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tante Mathilda",
+          "Karin Lieneweg"
+        ],
+        [
+          "Jojo",
+          "Lovis Harloff"
+        ],
+        [
+          "Mrs Carmichael",
+          "Anne Moll"
+        ],
+        [
+          "Mr Jeremiah Carmichael",
+          "Peter Bieringer"
+        ],
+        [
+          "Gravedigger",
+          "Lutz Mackensy"
+        ],
+        [
+          "Kruger",
+          "Gordon Piedesack"
+        ],
+        [
+          "Annabelle Delaney",
+          "Sabine Kaack"
+        ],
+        [
+          "Claire Delaney",
+          "Theresa Underberg"
+        ],
+        [
+          "Ace Hall",
+          "Patrick Berg"
+        ],
+        [
+          "Vince Buchanan",
+          "Joachim Kretzer"
+        ],
+        [
+          "Neal Buchanan",
+          "Marek Harloff"
+        ],
+        [
+          "Moderator",
+          "Holger Wemhoff"
+        ],
+        [
+          "Pearson",
+          "Till Huster"
+        ]
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/213/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/213/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/213/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/213/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/17/a3/91/17a3916d-2d2d-ada0-c722-168abbdddc8e/886449558667.jpg/3000x0w.png"
-      },
-      "unvollständig" : true
+      }
     }
   ]
 }
