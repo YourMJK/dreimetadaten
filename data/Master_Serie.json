@@ -27189,6 +27189,19 @@
         "cover" : "http://dreimetadaten.de/data/Serie/213/cover.png",
         "cover_itunes" : "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/17/a3/91/17a3916d-2d2d-ada0-c722-168abbdddc8e/886449558667.jpg/3000x0w.png"
       }
+    },
+    {
+      "nummer" : 214,
+      "titel" : "und der Geisterbunker",
+      "autor" : "Ben Nevis",
+      "hörspielskriptautor" : "André Minninger",
+      "veröffentlichungsdatum" : "2022-02-04",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/214/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Serie/214/cover.png",
+        "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/4a/b1/74/4ab174d2-4a43-f8c8-5c40-58d688ed6adc/886449413034.jpg/3000x0w.png"
+      },
+      "unvollständig" : true
     }
   ]
 }
