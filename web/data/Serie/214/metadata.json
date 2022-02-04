@@ -3,11 +3,107 @@
   "titel" : "und der Geisterbunker",
   "autor" : "Ben Nevis",
   "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die drei ??? werden zu einem verlassenen Bunker an der Steilküste von Rocky Beach geschickt. Dort soll es spuken – und tatsächlich hören sie geisterhafte Stimmen. Beim Erkunden des Bunkers werden sie plötzlich eingesperrt. Können Justus, Peter und Bob sich aus dem Geisterbunker befreien? Ein nervenaufreibendes Abenteuer beginnt.",
   "veröffentlichungsdatum" : "2022-02-04",
+  "kapitel" : [
+    {
+      "titel" : "Neue Fälle stapelweise",
+      "start" : 0,
+      "end" : 656000
+    },
+    {
+      "titel" : "Geisterstimmen",
+      "start" : 656000,
+      "end" : 1042987
+    },
+    {
+      "titel" : "Die Enttarnung",
+      "start" : 1042987,
+      "end" : 1644973
+    },
+    {
+      "titel" : "Justus' Trick",
+      "start" : 1644973,
+      "end" : 2402027
+    },
+    {
+      "titel" : "Die Insel des Todes",
+      "start" : 2402027,
+      "end" : 3456947
+    },
+    {
+      "titel" : "Verhaftet",
+      "start" : 3456947,
+      "end" : 3938600
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Onkel Titus",
+      "Rüdiger Schulzki"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Kommissarin Lisa Merryweather",
+      "Caroline Peters"
+    ],
+    [
+      "Elena Fleckenstein",
+      "Christiane Leuchtmann"
+    ],
+    [
+      "Roderick Sanders",
+      "Albrecht Ganskopf"
+    ],
+    [
+      "Fahrerin",
+      "Elga Schütz"
+    ],
+    [
+      "Rubbish George",
+      "Hans Peter Korff"
+    ],
+    [
+      "Officer Brown",
+      "André Beyer"
+    ],
+    [
+      "Bote",
+      "Achim Schülke"
+    ],
+    [
+      "Polizist",
+      "Alexander Mettin"
+    ],
+    [
+      "Angestellte im Altenheim",
+      "Barbara Schipper"
+    ]
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/214/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/214/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/214/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/214/cover.png",
     "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/4a/b1/74/4ab174d2-4a43-f8c8-5c40-58d688ed6adc/886449413034.jpg/3000x0w.png"
-  },
-  "unvollständig" : true
+  }
 }
