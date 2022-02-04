@@ -27298,6 +27298,19 @@
         "cover" : "http://dreimetadaten.de/data/Serie/214/cover.png",
         "cover_itunes" : "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/4a/b1/74/4ab174d2-4a43-f8c8-5c40-58d688ed6adc/886449413034.jpg/3000x0w.png"
       }
+    },
+    {
+      "nummer" : 215,
+      "titel" : "und die verlorene Zeit",
+      "autor" : "Christoph Dittert",
+      "hörspielskriptautor" : "André Minninger",
+      "veröffentlichungsdatum" : "2022-03-25",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/215/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Serie/215/cover.png",
+        "cover_itunes" : "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/fa/fa/6dfafa36-abc9-7c6d-ba70-b4a12d13ace3/886449413058.jpg/3000x0w.png"
+      },
+      "unvollständig" : true
     }
   ]
 }
