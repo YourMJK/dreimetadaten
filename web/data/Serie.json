@@ -27526,6 +27526,19 @@
         "cover" : "http://dreimetadaten.de/data/Serie/216/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music126/v4/eb/74/2f/eb742faa-8677-eded-4d52-fa45dbf62e8c/source"
       }
+    },
+    {
+      "nummer" : 217,
+      "titel" : "und der Kristallschädel",
+      "autor" : "André Marx",
+      "hörspielskriptautor" : "André Minninger",
+      "veröffentlichungsdatum" : "2022-07-15",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/217/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Serie/217/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music112/v4/6f/30/56/6f3056fb-3bec-1355-04b3-0b9f234dd9ca/886449413096.jpg"
+      },
+      "unvollständig" : true
     }
   ]
 }
