@@ -27532,13 +27532,119 @@
       "titel" : "und der Kristallschädel",
       "autor" : "André Marx",
       "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Ein harmloser Trödeleinkauf endet für die drei ??? in einer Verfolgungsjagd. Die Suche nach einem wertvollen Kristallschädel beginnt! Der kürzlich verstorbene Hunter Scott soll einen solchen Schädel besessen haben. Von den Maya gefertigt hat er angeblich heilende Kräfte. Doch wo in seiner Villa könnte er versteckt sein? Das fragen sich nicht nur Justus, Peter und Bob – denn einige zwielichtige Gestalten haben es auf den Kristallschädel abgesehen. Sind die drei Detektive schneller?",
       "veröffentlichungsdatum" : "2022-07-15",
+      "kapitel" : [
+        {
+          "titel" : "Das Haus von Hunter Scott",
+          "start" : 0,
+          "end" : 726773
+        },
+        {
+          "titel" : "Ein Schädel löst sich in Luft auf",
+          "start" : 726773,
+          "end" : 1352067
+        },
+        {
+          "titel" : "Kosmische Energien",
+          "start" : 1352067,
+          "end" : 1747840
+        },
+        {
+          "titel" : "Lauschaktion",
+          "start" : 1747840,
+          "end" : 2328440
+        },
+        {
+          "titel" : "Wo ist der Kristallschädel?",
+          "start" : 2328440,
+          "end" : 2968147
+        },
+        {
+          "titel" : "Im Uhrenturm",
+          "start" : 2968147,
+          "end" : 3468000
+        },
+        {
+          "titel" : "Maskerade",
+          "start" : 3468000,
+          "end" : 3969453
+        },
+        {
+          "titel" : "Abgemacht!",
+          "start" : 3969453,
+          "end" : 4520653
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Mrs. Julia Scott",
+          "Stephanie Kirchberger"
+        ],
+        [
+          "Onkel Titus",
+          "Erik Schäffler"
+        ],
+        [
+          "Gwendolyn",
+          "Maud Ackermann"
+        ],
+        [
+          "Nicholas",
+          "Max König"
+        ],
+        [
+          "Raphael Luca",
+          "Achim Buch"
+        ],
+        [
+          "Inspektor Cotta",
+          "Holger Mahlich"
+        ],
+        [
+          "Mrs. Bronkowitz",
+          "Angela Stresemann"
+        ],
+        [
+          "Lady",
+          "Eva Monar"
+        ],
+        [
+          "Dame",
+          "Carolyn Walsh"
+        ],
+        [
+          "Godween",
+          "André Minninger"
+        ],
+        [
+          "Hunter Scott",
+          "Hans-Jürgen Mende"
+        ]
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/217/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/217/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/217/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/217/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music112/v4/6f/30/56/6f3056fb-3bec-1355-04b3-0b9f234dd9ca/886449413096.jpg"
-      },
-      "unvollständig" : true
+      }
     }
   ]
 }
