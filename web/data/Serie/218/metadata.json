@@ -3,11 +3,117 @@
   "titel" : "Im Netz der Lügen",
   "autor" : "Kari Erlhoff",
   "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ein Einbrecher, der nichts stiehlt, sondern Gegenstände hinterlässt? In Rocky Beach gehen seltsame Dinge vor, wenn das kein Fall für die drei ??? ist!\nWas zunächst harmlos erscheint, verfolgt ein Muster, und genau dieses versuchen Justus, Peter und Bob zu entschlüsseln. Doch jemand will mit aller Kraft verhindern, dass die Detektive Licht ins Dunkel bringen. Werden die drei Freunde den Fall lösen, bevor es zu einer Katastrophe kommt, oder verstricken sie sich im Netz der Lügen?",
   "veröffentlichungsdatum" : "2022-09-16",
+  "kapitel" : [
+    {
+      "titel" : "Der Countdown läuft",
+      "start" : 0,
+      "end" : 688360
+    },
+    {
+      "titel" : "Tatort Rocky Beach",
+      "start" : 688360,
+      "end" : 1449067
+    },
+    {
+      "titel" : "Das Messer",
+      "start" : 1449067,
+      "end" : 1866880
+    },
+    {
+      "titel" : "Ein alter Freund erinnert sich",
+      "start" : 1866880,
+      "end" : 2283573
+    },
+    {
+      "titel" : "Gefährlicher Einbrecher",
+      "start" : 2283573,
+      "end" : 2711333
+    },
+    {
+      "titel" : "Gefahr im Mondschein",
+      "start" : 2711333,
+      "end" : 3145973
+    },
+    {
+      "titel" : "Geliebtes Sammlerobjekt",
+      "start" : 3145973,
+      "end" : 3527000
+    },
+    {
+      "titel" : "Showtime",
+      "start" : 3527000,
+      "end" : 4372133
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Olivia",
+      "Uschi Hugo"
+    ],
+    [
+      "Pamela Parker, Olivias Mutter",
+      "Katrin Decker"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Eudora Kretschmer",
+      "Monika Werner"
+    ],
+    [
+      "Barbara",
+      "Carolyn Walsh"
+    ],
+    [
+      "Canyon Brookside",
+      "Marek Erhardt"
+    ],
+    [
+      "Owens",
+      "Jan Langer"
+    ],
+    [
+      "Bernie Walters",
+      "Vadim Goldfeld"
+    ],
+    [
+      "Kommissar Reynolds",
+      "Wolfgang Draeger"
+    ],
+    [
+      "Edgar Mulligan",
+      "Karsten Haase"
+    ],
+    [
+      "Swift",
+      "Tim Grobe"
+    ]
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/218/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/218/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/218/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/218/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music112/v4/c0/13/4d/c0134d60-2ae9-48cf-6002-5ce6766a1b46/886449413232.jpg"
-  },
-  "unvollständig" : true
+  }
 }
