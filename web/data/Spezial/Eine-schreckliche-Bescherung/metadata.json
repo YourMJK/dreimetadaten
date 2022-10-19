@@ -1,0 +1,401 @@
+{
+  "teile" : [
+    {
+      "teilNummer" : 1,
+      "kapitel" : [
+        {
+          "titel" : "Tag 01: Winterwunderland",
+          "start" : 0,
+          "end" : 483987
+        },
+        {
+          "titel" : "Tag 02: Angriff auf Santa Claus",
+          "start" : 483987,
+          "end" : 634960
+        },
+        {
+          "titel" : "Tag 03: Sabotage",
+          "start" : 634960,
+          "end" : 950920
+        },
+        {
+          "titel" : "Tag 04: Ein Sack voller Geheimnisse",
+          "start" : 950920,
+          "end" : 1342133
+        },
+        {
+          "titel" : "Tag 05: 36 x Elf",
+          "start" : 1342133,
+          "end" : 1805067
+        },
+        {
+          "titel" : "Tag 06: Bruder Justus",
+          "start" : 1805067,
+          "end" : 2202560
+        },
+        {
+          "titel" : "Tag 07: Elf gegen drei",
+          "start" : 2202560,
+          "end" : 2448800
+        },
+        {
+          "titel" : "Tag 08: Märchenstunde",
+          "start" : 2448800,
+          "end" : 2705213
+        },
+        {
+          "titel" : "Tag 09: Köder mit Schleife",
+          "start" : 2705213,
+          "end" : 3227933
+        },
+        {
+          "titel" : "Tag 10: Auf frischer Tat",
+          "start" : 3227933,
+          "end" : 3552400
+        },
+        {
+          "titel" : "Tag 11: Kurzfinger",
+          "start" : 3552400,
+          "end" : 3785267
+        },
+        {
+          "titel" : "Tag 12: Der Alligator",
+          "start" : 3785267,
+          "end" : 4156227
+        },
+        {
+          "titel" : "Tag 13: Eine schräge Nachtmusik",
+          "start" : 4156227,
+          "end" : 4545373
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/1/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/1/rip_log.txt"
+      }
+    },
+    {
+      "teilNummer" : 2,
+      "kapitel" : [
+        {
+          "titel" : "Tag 14: Die magische Laterne",
+          "start" : 0,
+          "end" : 396960
+        },
+        {
+          "titel" : "Tag 15: 96930 Arctic Circle",
+          "start" : 396960,
+          "end" : 810973
+        },
+        {
+          "titel" : "Tag 16: Die Übergabe",
+          "start" : 810973,
+          "end" : 1187973
+        },
+        {
+          "titel" : "Tag 17: Schritte im Dunkeln",
+          "start" : 1187973,
+          "end" : 1566493
+        },
+        {
+          "titel" : "Tag 18: Eine schreckliche Überraschung",
+          "start" : 1566493,
+          "end" : 2015493
+        },
+        {
+          "titel" : "Tag 19: Die Frau vom Polarkreis",
+          "start" : 2015493,
+          "end" : 2446413
+        },
+        {
+          "titel" : "Tag 20: Elf auf der Flucht",
+          "start" : 2446413,
+          "end" : 2969680
+        },
+        {
+          "titel" : "Tag 21: Verfolgte Verbrecher",
+          "start" : 2969680,
+          "end" : 3329387
+        },
+        {
+          "titel" : "Tag 22: Im Würgegriff der Rentiere",
+          "start" : 3329387,
+          "end" : 3695293
+        },
+        {
+          "titel" : "Tag 23: Nächstes Weihnachten",
+          "start" : 3695293,
+          "end" : 4101187
+        },
+        {
+          "titel" : "Tag 24: Mitarbeiter des Monats",
+          "start" : 4101187,
+          "end" : 4609387
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/2/metadata.json",
+        "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/2/rip_log.txt"
+      }
+    }
+  ],
+  "titel" : "Eine schreckliche Bescherung",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Beim Einkaufsbummel im Kaufhaus Garcy's werden Justus, Peter und Bob Zeugen eines Überfalls. Kein geringerer als der Weihnachtsmann des Garcy's wird angegriffen. Jemand hat es auf den Sack voller Geschenke abgesehen … und dieser jemand ist ausgerechnet als Weihnachtself verkleidet.\nDie drei ??? heften sich an die Fersen des Diebes und finden heraus, auf welches Weihnachtsgeschenk es der Elf abgesehen hat …",
+  "veröffentlichungsdatum" : "2022-10-14",
+  "kapitel" : [
+    {
+      "titel" : "Tag 01: Winterwunderland",
+      "start" : 0,
+      "end" : 483987
+    },
+    {
+      "titel" : "Tag 02: Angriff auf Santa Claus",
+      "start" : 483987,
+      "end" : 634960
+    },
+    {
+      "titel" : "Tag 03: Sabotage",
+      "start" : 634960,
+      "end" : 950920
+    },
+    {
+      "titel" : "Tag 04: Ein Sack voller Geheimnisse",
+      "start" : 950920,
+      "end" : 1342133
+    },
+    {
+      "titel" : "Tag 05: 36 x Elf",
+      "start" : 1342133,
+      "end" : 1805067
+    },
+    {
+      "titel" : "Tag 06: Bruder Justus",
+      "start" : 1805067,
+      "end" : 2202560
+    },
+    {
+      "titel" : "Tag 07: Elf gegen drei",
+      "start" : 2202560,
+      "end" : 2448800
+    },
+    {
+      "titel" : "Tag 08: Märchenstunde",
+      "start" : 2448800,
+      "end" : 2705213
+    },
+    {
+      "titel" : "Tag 09: Köder mit Schleife",
+      "start" : 2705213,
+      "end" : 3227933
+    },
+    {
+      "titel" : "Tag 10: Auf frischer Tat",
+      "start" : 3227933,
+      "end" : 3552400
+    },
+    {
+      "titel" : "Tag 11: Kurzfinger",
+      "start" : 3552400,
+      "end" : 3785267
+    },
+    {
+      "titel" : "Tag 12: Der Alligator",
+      "start" : 3785267,
+      "end" : 4156227
+    },
+    {
+      "titel" : "Tag 13: Eine schräge Nachtmusik",
+      "start" : 4156227,
+      "end" : 4545373
+    },
+    {
+      "titel" : "Tag 14: Die magische Laterne",
+      "start" : 4545373,
+      "end" : 4942333
+    },
+    {
+      "titel" : "Tag 15: 96930 Arctic Circle",
+      "start" : 4942333,
+      "end" : 5356346
+    },
+    {
+      "titel" : "Tag 16: Die Übergabe",
+      "start" : 5356346,
+      "end" : 5733346
+    },
+    {
+      "titel" : "Tag 17: Schritte im Dunkeln",
+      "start" : 5733346,
+      "end" : 6111866
+    },
+    {
+      "titel" : "Tag 18: Eine schreckliche Überraschung",
+      "start" : 6111866,
+      "end" : 6560866
+    },
+    {
+      "titel" : "Tag 19: Die Frau vom Polarkreis",
+      "start" : 6560866,
+      "end" : 6991786
+    },
+    {
+      "titel" : "Tag 20: Elf auf der Flucht",
+      "start" : 6991786,
+      "end" : 7515053
+    },
+    {
+      "titel" : "Tag 21: Verfolgte Verbrecher",
+      "start" : 7515053,
+      "end" : 7874760
+    },
+    {
+      "titel" : "Tag 22: Im Würgegriff der Rentiere",
+      "start" : 7874760,
+      "end" : 8240666
+    },
+    {
+      "titel" : "Tag 23: Nächstes Weihnachten",
+      "start" : 8240666,
+      "end" : 8646560
+    },
+    {
+      "titel" : "Tag 24: Mitarbeiter des Monats",
+      "start" : 8646560,
+      "end" : 9154760
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Tante Mathilda",
+      "Karin Lieneweg"
+    ],
+    [
+      "Onkel Titus",
+      "Erik Schäffler"
+    ],
+    [
+      "Santa Claus",
+      "Claus Wilcke"
+    ],
+    [
+      "Fotograf",
+      "Stephan Schad"
+    ],
+    [
+      "Sandy",
+      "Angela Stresemann"
+    ],
+    [
+      "Mutter",
+      "Pamela Punti"
+    ],
+    [
+      "Mr. Puckle",
+      "Christian Rudolf"
+    ],
+    [
+      "Mrs. Hatchett",
+      "Petra Kleinert"
+    ],
+    [
+      "Matty",
+      "Joshua Rudolf"
+    ],
+    [
+      "1. Security",
+      "Patrick Berg"
+    ],
+    [
+      "2. Security",
+      "Philipp Stumpp"
+    ],
+    [
+      "3. Security",
+      "Max König"
+    ],
+    [
+      "4. Security",
+      "Tony Curting"
+    ],
+    [
+      "Pater",
+      "Achim Schülke"
+    ],
+    [
+      "Engel",
+      "Theresa Underberg"
+    ],
+    [
+      "1. Polizist",
+      "Patrick Baehr"
+    ],
+    [
+      "2. Polizist",
+      "Alexander Mettin"
+    ],
+    [
+      "3. Polizist",
+      "Douglas Welbat"
+    ],
+    [
+      "Angestellte",
+      "Katrin Decker"
+    ],
+    [
+      "Larry",
+      "Jan Langer"
+    ],
+    [
+      "Luke Bigelow",
+      "Harald Effenberg"
+    ],
+    [
+      "Molly",
+      "Regine Lamster"
+    ],
+    [
+      "Emmett",
+      "Reinhold Kammerer"
+    ],
+    [
+      "Durchsage",
+      "Andrea Lüdke"
+    ],
+    [
+      "Krankenschwester",
+      "Scarlett Lubowski"
+    ],
+    [
+      "Mann",
+      "Helge Halvé"
+    ],
+    [
+      "Bandenchef",
+      "Lars Schmidtke"
+    ]
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music122/v4/d6/bf/a6/d6bfa640-de36-a2cb-3790-74a9e1ce511b/886449413263.jpg"
+  }
+}

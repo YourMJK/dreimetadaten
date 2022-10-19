@@ -1,0 +1,74 @@
+{
+  "teilNummer" : 1,
+  "kapitel" : [
+    {
+      "titel" : "Tag 01: Winterwunderland",
+      "start" : 0,
+      "end" : 483987
+    },
+    {
+      "titel" : "Tag 02: Angriff auf Santa Claus",
+      "start" : 483987,
+      "end" : 634960
+    },
+    {
+      "titel" : "Tag 03: Sabotage",
+      "start" : 634960,
+      "end" : 950920
+    },
+    {
+      "titel" : "Tag 04: Ein Sack voller Geheimnisse",
+      "start" : 950920,
+      "end" : 1342133
+    },
+    {
+      "titel" : "Tag 05: 36 x Elf",
+      "start" : 1342133,
+      "end" : 1805067
+    },
+    {
+      "titel" : "Tag 06: Bruder Justus",
+      "start" : 1805067,
+      "end" : 2202560
+    },
+    {
+      "titel" : "Tag 07: Elf gegen drei",
+      "start" : 2202560,
+      "end" : 2448800
+    },
+    {
+      "titel" : "Tag 08: Märchenstunde",
+      "start" : 2448800,
+      "end" : 2705213
+    },
+    {
+      "titel" : "Tag 09: Köder mit Schleife",
+      "start" : 2705213,
+      "end" : 3227933
+    },
+    {
+      "titel" : "Tag 10: Auf frischer Tat",
+      "start" : 3227933,
+      "end" : 3552400
+    },
+    {
+      "titel" : "Tag 11: Kurzfinger",
+      "start" : 3552400,
+      "end" : 3785267
+    },
+    {
+      "titel" : "Tag 12: Der Alligator",
+      "start" : 3785267,
+      "end" : 4156227
+    },
+    {
+      "titel" : "Tag 13: Eine schräge Nachtmusik",
+      "start" : 4156227,
+      "end" : 4545373
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/1/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/1/rip_log.txt"
+  }
+}
