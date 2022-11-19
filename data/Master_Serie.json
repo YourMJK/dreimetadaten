@@ -27770,13 +27770,119 @@
       "titel" : "und die Teufelsklippe",
       "autor" : "Ben Nevis",
       "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Peter Shaw – ein Mörder? Ganz bestimmt nicht! Da sind sich Justus und Bob sicher. Können die beiden die Unschuld des Zweiten Detektivs beweisen?\nPeter sieht ihn fallen, doch die Teufelsklippe gibt ihn nicht wieder her. Verschluckt von den tosenden Wellen bleibt der Mann verschwunden … Was ist passiert? Ausgerechnet der Zweite Detektiv wird beschuldigt, Paul Forsters ins Meer gestoßen zu haben. Im Verhör wird Peter bis ins kleinste Detail befragt. Justus und Bob versuchen derweil mehr über den seltsamen Fall herauszufinden. Können die beiden ihrem Freund helfen?",
       "veröffentlichungsdatum" : "2022-11-18",
+      "kapitel" : [
+        {
+          "titel" : "Sturz ins Meer",
+          "start" : 0,
+          "end" : 452693
+        },
+        {
+          "titel" : "Unter Verdacht",
+          "start" : 452693,
+          "end" : 793640
+        },
+        {
+          "titel" : "Justus will es wissen",
+          "start" : 793640,
+          "end" : 1532880
+        },
+        {
+          "titel" : "Eine interessante Begegnung",
+          "start" : 1532880,
+          "end" : 1966933
+        },
+        {
+          "titel" : "Auf der Teufelszunge",
+          "start" : 1966933,
+          "end" : 2607067
+        },
+        {
+          "titel" : "Kunde 37",
+          "start" : 2607067,
+          "end" : 2928693
+        },
+        {
+          "titel" : "Entführt",
+          "start" : 2928693,
+          "end" : 3430307
+        },
+        {
+          "titel" : "Das letzte Geheimnis",
+          "start" : 3430307,
+          "end" : 4189547
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Detective Ella",
+          "Neda Rahmanian"
+        ],
+        [
+          "Officer James",
+          "Sascha Gutzeit"
+        ],
+        [
+          "Mr. Shaw",
+          "Michael Grimm"
+        ],
+        [
+          "Paul Forsters",
+          "Achim Buch"
+        ],
+        [
+          "Esprit",
+          "Matthias Keller"
+        ],
+        [
+          "Anthony Spring",
+          "Douglas Welbat"
+        ],
+        [
+          "Butch",
+          "Tom Pidde"
+        ],
+        [
+          "Inspektor Cotta",
+          "Holger Mahlich"
+        ],
+        [
+          "Blacky",
+          "Heikedine Körting"
+        ],
+        [
+          "Godween",
+          "André Minninger"
+        ],
+        [
+          "Polizist",
+          "Frank Meyer-Brockmann"
+        ]
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/219/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/219/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/219/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/219/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music112/v4/d0/fa/95/d0fa95d3-9318-de46-9413-504016bf071f/886449413300.jpg"
-      },
-      "unvollständig" : true
+      }
     }
   ]
 }
