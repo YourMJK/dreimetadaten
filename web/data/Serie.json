@@ -27889,13 +27889,121 @@
       "titel" : "Im Wald der Gefahren",
       "autor" : "André Marx",
       "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Von Rocky Beach in die Rocky Mountains – die drei ??? freuen sich auf ein Wander-Wochenende. Was harmlos beginnt, wird zum Kampf ums nackte Überleben!\nNoch bevor die Wandergruppe aufbricht, wittern die drei Detektive einen neuen Fall: Ein toter Briefkasten und eine Stolperfalle – will jemand die Tour verhindern? Schon auf der ersten Etappe wird es brenzlig. Ein Bach wird zum reißenden Fluss, und Pilze sollte man mit Vorsicht genießen. Als Peter verschwindet, wird klar: Die Wildnis hat etwas zu verbergen. Die drei ??? finden sich im Wald der Gefahren wieder …",
       "veröffentlichungsdatum" : "2023-01-20",
+      "kapitel" : [
+        {
+          "titel" : "Montana",
+          "start" : 0,
+          "end" : 389293
+        },
+        {
+          "titel" : "Vorstellungsrunde",
+          "start" : 389293,
+          "end" : 831853
+        },
+        {
+          "titel" : "Der tote Briefkasten",
+          "start" : 831853,
+          "end" : 1266027
+        },
+        {
+          "titel" : "Sturz",
+          "start" : 1266027,
+          "end" : 1547800
+        },
+        {
+          "titel" : "Aufwärts",
+          "start" : 1547800,
+          "end" : 2104947
+        },
+        {
+          "titel" : "Pilze und Blaubeerpudding",
+          "start" : 2104947,
+          "end" : 2498453
+        },
+        {
+          "titel" : "Das Versteck in den Weiden",
+          "start" : 2498453,
+          "end" : 2886960
+        },
+        {
+          "titel" : "Getroffener Tank",
+          "start" : 2886960,
+          "end" : 3327920
+        },
+        {
+          "titel" : "Ein Mann namens Thomas",
+          "start" : 3327920,
+          "end" : 3757160
+        },
+        {
+          "titel" : "Geheime Superkraft",
+          "start" : 3757160,
+          "end" : 4446747
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Bill Greyfield",
+          "Gordon Piedesack"
+        ],
+        [
+          "Karen Greyfield",
+          "Beate Rysopp"
+        ],
+        [
+          "Ralph Sanders",
+          "Jens Böttcher"
+        ],
+        [
+          "Dylan Reid",
+          "Matthias Keller"
+        ],
+        [
+          "Zoe",
+          "Marion Martienzen"
+        ],
+        [
+          "Simon Cobby",
+          "Pat Murphy"
+        ],
+        [
+          "Angela van Limbeek",
+          "Malin Steffen"
+        ],
+        [
+          "John Addington",
+          "Andreas Birnbaum"
+        ],
+        [
+          "Doktor Williams",
+          "Holger Wemhoff"
+        ]
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/220/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/220/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/220/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/220/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music112/v4/a3/5d/6c/a35d6cfc-8219-1e66-8923-a8c227a1ac35/196589194510.jpg"
-      },
-      "unvollständig" : true
+      }
     }
   ]
 }
