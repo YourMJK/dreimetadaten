@@ -27998,13 +27998,104 @@
       "titel" : "Manuskript des Satans",
       "autor" : "Hendrik Buchna",
       "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Ein Manuskript des leibhaftigen Satans und teuflische Lärmattacken – dieser Fall hat es in sich! Begeben die drei ??? sich in höllische Gefahr?\nWer steckt hinter dem entsetzlichen Lärmangriff auf das Haus von Professor Bancroft? Während der Wissenschaftler versucht, eine geheimnisvolle alte Handschrift zu übersetzen, machen sich Justus, Peter und Bob auf die Suche nach der Lärmquelle. Haben die Attacken etwas mit dem Manuskript des Satans zu tun, an dem der Professor gerade arbeitet? Die drei Detektive werden es herausfinden.",
       "veröffentlichungsdatum" : "2023-03-03",
+      "kapitel" : [
+        {
+          "titel" : "Satanische Attacken",
+          "start" : 0,
+          "end" : 466173
+        },
+        {
+          "titel" : "Bowling-Bedrohung",
+          "start" : 466173,
+          "end" : 965973
+        },
+        {
+          "titel" : "Die drei Söhne",
+          "start" : 965973,
+          "end" : 1436000
+        },
+        {
+          "titel" : "Offenes Fenster in der Nacht",
+          "start" : 1436000,
+          "end" : 1861853
+        },
+        {
+          "titel" : "Bancroft und Bancroft",
+          "start" : 1861853,
+          "end" : 2209573
+        },
+        {
+          "titel" : "Seltsames Klebeband",
+          "start" : 2209573,
+          "end" : 2728627
+        },
+        {
+          "titel" : "Verstorbene Ehefrau",
+          "start" : 2728627,
+          "end" : 3019400
+        },
+        {
+          "titel" : "Eine Wand mit Geschichte",
+          "start" : 3019400,
+          "end" : 3533053
+        },
+        {
+          "titel" : "Endstation Keller",
+          "start" : 3533053,
+          "end" : 3932520
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tante Mathilda",
+          "Karin Lieneweg"
+        ],
+        [
+          "Professor Douglas Bancroft",
+          "Jürgen Thormann"
+        ],
+        [
+          "Butler Vernom",
+          "Jürgen Holdorf"
+        ],
+        [
+          "Miss Mortimer",
+          "Heidi Schaffrath"
+        ],
+        [
+          "Elwood Shoreland",
+          "Martin May"
+        ],
+        [
+          "Darian",
+          "Marc Zabinski"
+        ]
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/221/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/221/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/221/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/221/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music122/v4/ee/d9/25/eed925e9-91ae-071f-51ac-8f95f4a20cf6/196589194671.jpg"
-      },
-      "unvollständig" : true
+      }
     }
   ]
 }
