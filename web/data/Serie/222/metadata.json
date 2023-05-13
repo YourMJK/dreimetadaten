@@ -3,11 +3,117 @@
   "titel" : "und die Gesetzlosen",
   "autor" : "Kari Erlhoff",
   "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Peter wird in der Rocky Beach Highschool unfreiwillig Zeuge eines dubiosen Telefonats. Hat seine Lehrerin Amanda Blunt ein dunkles Geheimnis?\nAls die unscheinbare Frau dann auch noch verdächtige Utensilien in ihr Auto packt und losfährt, nimmt Peter die Verfolgung auf. Natürlich nicht ohne seine beiden Freunde zu informieren. Die drei ??? begeben sich auf einen gefährlichen Roadtrip durch die verlassene Prärie. Hoffentlich wird ihnen diese Fahrt nicht zum Verhängnis …",
   "veröffentlichungsdatum" : "2023-05-12",
+  "kapitel" : [
+    {
+      "titel" : "Das Grauen in Pink",
+      "start" : 0,
+      "end" : 397733
+    },
+    {
+      "titel" : "Entführung",
+      "start" : 397733,
+      "end" : 799173
+    },
+    {
+      "titel" : "Warnung",
+      "start" : 799173,
+      "end" : 1508667
+    },
+    {
+      "titel" : "Sacramento",
+      "start" : 1508667,
+      "end" : 1948347
+    },
+    {
+      "titel" : "Stichwort: Wahrheit",
+      "start" : 1948347,
+      "end" : 2595200
+    },
+    {
+      "titel" : "Gleichungen mit drei Unbekannten",
+      "start" : 2595200,
+      "end" : 3546747
+    },
+    {
+      "titel" : "Jede Menge Geld",
+      "start" : 3546747,
+      "end" : 3909253
+    },
+    {
+      "titel" : "Schlangenjagd",
+      "start" : 3909253,
+      "end" : 4615480
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Amanda Blunt",
+      "Katy Karrenbauer"
+    ],
+    [
+      "Quinn",
+      "Till Hagen"
+    ],
+    [
+      "Lyn",
+      "Henrike Fehrs"
+    ],
+    [
+      "Opossum",
+      "Reinhold Kammerer"
+    ],
+    [
+      "Nancy",
+      "Britta Steffenhagen"
+    ],
+    [
+      "Odo",
+      "Sebastian König"
+    ],
+    [
+      "Dimwitt",
+      "Achim Schülke"
+    ],
+    [
+      "Telefonstimme",
+      "Nico König"
+    ],
+    [
+      "Colstone",
+      "Peter G. Dirmeier"
+    ],
+    [
+      "Moderatorin",
+      "Petra Kleinert"
+    ],
+    [
+      "Sheriff",
+      "Konstantin Graudus"
+    ]
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/222/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/222/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/222/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/222/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music126/v4/a7/67/37/a7673797-8db6-01f7-da10-d19466f06130/196589194695.jpg"
-  },
-  "unvollständig" : true
+  }
 }
