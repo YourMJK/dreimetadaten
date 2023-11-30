@@ -3,11 +3,105 @@
   "titel" : "Die Yacht des Verrats",
   "autor" : "Ben Nevis",
   "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Justus Jonas ist einmalig – oder etwa nicht? Unerwarteter Besuch und ein Diebstahl führen die drei ??? auf die Yacht des Verrats.\nJustus, Peter und Bob trauen ihren Augen kaum, als ihnen Ian Carew wieder gegenübersteht. Ein alter Fall verbindet die Detektive mit dem Sohn des ehemaligen Premierministers von Nanda. Kein Wunder, dass Ian erneut ihre Hilfe sucht. Er ist im Auftrag seines Landes in Rocky Beach, doch jemand verfolgt ihn und in sein Hotelzimmer wurde eingebrochen. Können die drei ??? ihrem Freund helfen?",
   "veröffentlichungsdatum" : "2023-11-24",
+  "kapitel" : [
+    {
+      "titel" : "Tokoloshe",
+      "start" : 0,
+      "end" : 543227
+    },
+    {
+      "titel" : "Die Vodoo-Frau",
+      "start" : 543227,
+      "end" : 1058413
+    },
+    {
+      "titel" : "Ein gefährlicher Plan",
+      "start" : 1058413,
+      "end" : 1532147
+    },
+    {
+      "titel" : "Mission Peter",
+      "start" : 1532147,
+      "end" : 1919067
+    },
+    {
+      "titel" : "An Bord",
+      "start" : 1919067,
+      "end" : 2564413
+    },
+    {
+      "titel" : "Leinen los!",
+      "start" : 2564413,
+      "end" : 3009173
+    },
+    {
+      "titel" : "Mann über Bord!",
+      "start" : 3009173,
+      "end" : 3630933
+    },
+    {
+      "titel" : "Enttarnt",
+      "start" : 3630933,
+      "end" : 4363613
+    }
+  ],
+  "sprecher" : [
+    [
+      "Erzähler",
+      "Axel Milberg"
+    ],
+    [
+      "Justus Jonas, Erster Detektiv",
+      "Oliver Rohrbeck"
+    ],
+    [
+      "Peter Shaw, Zweiter Detektiv",
+      "Jens Wawrczeck"
+    ],
+    [
+      "Bob Andrews, Recherchen und Archiv",
+      "Andreas Fröhlich"
+    ],
+    [
+      "Ian Carew",
+      "Sascha Draeger"
+    ],
+    [
+      "Mambo Mawu",
+      "Regina Lemnitz"
+    ],
+    [
+      "Kommissarin Martinez",
+      "Caroline Kiesewetter"
+    ],
+    [
+      "Larry",
+      "Stephan Schad"
+    ],
+    [
+      "Morton",
+      "Michael Prelle"
+    ],
+    [
+      "Thabani Mathoho",
+      "Tim Grobe"
+    ],
+    [
+      "Clayton Badu",
+      "Frank Roder"
+    ],
+    [
+      "Cumba Balewa",
+      "Heidi Berndt"
+    ]
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/224/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/224/ffmetadata.txt",
+    "xld_log" : "http://dreimetadaten.de/data/Serie/224/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/224/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music116/v4/1a/1d/2d/1a1d2d8a-eb6e-8d6b-3eaa-2fb8d0817c65/196871057400.jpg"
-  },
-  "unvollständig" : true
+  }
 }
