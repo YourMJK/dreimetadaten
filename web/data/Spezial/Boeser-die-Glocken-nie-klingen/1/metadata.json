@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 1,
+  "kapitel" : [
+    {
+      "titel" : "Tag 01 – Unbekannter Herkunft",
+      "start" : 0,
+      "end" : 569440
+    },
+    {
+      "titel" : "Tag 02 – Alarm",
+      "start" : 569440,
+      "end" : 1208960
+    },
+    {
+      "titel" : "Tag 03 – Tante Mathildas beste Freundin",
+      "start" : 1208960,
+      "end" : 1561053
+    },
+    {
+      "titel" : "Tag 04 – Ein viertes Fragezeichen",
+      "start" : 1561053,
+      "end" : 1862027
+    },
+    {
+      "titel" : "Tag 05 – Fairer Deal",
+      "start" : 1862027,
+      "end" : 2481240
+    },
+    {
+      "titel" : "Tag 06 – Auf in den Kampf",
+      "start" : 2481240,
+      "end" : 2910240
+    },
+    {
+      "titel" : "Tag 07 – Zimmer 7",
+      "start" : 2910240,
+      "end" : 3594720
+    },
+    {
+      "titel" : "Tag 08 – Erwischt!",
+      "start" : 3594720,
+      "end" : 4319693
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/1/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/1/rip_log.txt"
+  }
+}

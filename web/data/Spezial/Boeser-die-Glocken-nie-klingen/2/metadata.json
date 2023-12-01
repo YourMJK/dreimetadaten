@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 2,
+  "kapitel" : [
+    {
+      "titel" : "Tag 09 – Heftiger Streit",
+      "start" : 0,
+      "end" : 425360
+    },
+    {
+      "titel" : "Tag 10 – Dicht auf der Spur",
+      "start" : 425360,
+      "end" : 908480
+    },
+    {
+      "titel" : "Tag 11 – Hausdurchsuchung",
+      "start" : 908480,
+      "end" : 1438067
+    },
+    {
+      "titel" : "Tag 12 – Observation",
+      "start" : 1438067,
+      "end" : 1705520
+    },
+    {
+      "titel" : "Tag 13 – Bittere Realität",
+      "start" : 1705520,
+      "end" : 2078467
+    },
+    {
+      "titel" : "Tag 14 – Razzia",
+      "start" : 2078467,
+      "end" : 2353653
+    },
+    {
+      "titel" : "Tag 15 – Stich ins Wespennest",
+      "start" : 2353653,
+      "end" : 2752413
+    },
+    {
+      "titel" : "Tag 16 – Effektive Strategie",
+      "start" : 2752413,
+      "end" : 2885320
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/2/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/2/rip_log.txt"
+  }
+}

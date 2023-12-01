@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 3,
+  "kapitel" : [
+    {
+      "titel" : "Tag 17 - Der Verzweiflung nah",
+      "start" : 0,
+      "end" : 394947
+    },
+    {
+      "titel" : "Tag 18 - Heißes Eisen",
+      "start" : 394947,
+      "end" : 1121147
+    },
+    {
+      "titel" : "Tag 19 - Wie im Märchen",
+      "start" : 1121147,
+      "end" : 1892680
+    },
+    {
+      "titel" : "Tag 20 - Verzweiflungstat",
+      "start" : 1892680,
+      "end" : 3169320
+    },
+    {
+      "titel" : "Tag 21 - Polizeieinsatz",
+      "start" : 3169320,
+      "end" : 3433040
+    },
+    {
+      "titel" : "Tag 22 - Verdacht",
+      "start" : 3433040,
+      "end" : 3810627
+    },
+    {
+      "titel" : "Tag 23 - Stockender Atem",
+      "start" : 3810627,
+      "end" : 4527920
+    },
+    {
+      "titel" : "Tag 24 - Beichte",
+      "start" : 4527920,
+      "end" : 5005253
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/3/metadata.json",
+    "xld_log" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/3/rip_log.txt"
+  }
+}
