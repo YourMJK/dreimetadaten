@@ -28448,16 +28448,306 @@
     },
     {
       "nummer" : 225,
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "kapitel" : [
+            {
+              "titel" : "Überraschung!",
+              "start" : 0,
+              "end" : 399667
+            },
+            {
+              "titel" : "Das Tischdecken-Gespenst",
+              "start" : 399667,
+              "end" : 806227
+            },
+            {
+              "titel" : "Hände hoch",
+              "start" : 806227,
+              "end" : 1546920
+            },
+            {
+              "titel" : "Funkloch",
+              "start" : 1546920,
+              "end" : 2365227
+            },
+            {
+              "titel" : "Spurensuche",
+              "start" : 2365227,
+              "end" : 2736467
+            },
+            {
+              "titel" : "Schüsse im Maisfeld",
+              "start" : 2736467,
+              "end" : 3077933
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Serie/225/1/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Serie/225/1/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "kapitel" : [
+            {
+              "titel" : "Das gehängte Brautpaar",
+              "start" : 0,
+              "end" : 700813
+            },
+            {
+              "titel" : "Wenn man vom Teufel spricht",
+              "start" : 700813,
+              "end" : 1108613
+            },
+            {
+              "titel" : "Regenbogenrosen",
+              "start" : 1108613,
+              "end" : 1547107
+            },
+            {
+              "titel" : "In der Falle",
+              "start" : 1547107,
+              "end" : 2341440
+            },
+            {
+              "titel" : "Dreißig Stunden",
+              "start" : 2341440,
+              "end" : 3042893
+            },
+            {
+              "titel" : "Der Mann im Nachthemd",
+              "start" : 3042893,
+              "end" : 3689613
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Serie/225/2/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Serie/225/2/rip_log.txt"
+          }
+        },
+        {
+          "teilNummer" : 3,
+          "kapitel" : [
+            {
+              "titel" : "Sie haben das Recht zu schweigen",
+              "start" : 0,
+              "end" : 371253
+            },
+            {
+              "titel" : "Beschattung",
+              "start" : 371253,
+              "end" : 1171040
+            },
+            {
+              "titel" : "Das Hochzeitsgeschenk",
+              "start" : 1171040,
+              "end" : 1740613
+            },
+            {
+              "titel" : "Unter Druck",
+              "start" : 1740613,
+              "end" : 2092733
+            },
+            {
+              "titel" : "Deconvulsan",
+              "start" : 2092733,
+              "end" : 3235867
+            },
+            {
+              "titel" : "Hochzeitstag",
+              "start" : 3235867,
+              "end" : 3928907
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Serie/225/3/metadata.json",
+            "xld_log" : "http://dreimetadaten.de/data/Serie/225/3/rip_log.txt"
+          }
+        }
+      ],
       "titel" : "und der Puppenmacher",
       "autor" : "André Marx",
       "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Schaurige Maispuppen, Schüsse und verurteilte Verbrecher – keine guten Vorzeichen für eine Hochzeit. Die drei ??? geben ihr Bestes, um das Fest zu retten.\nDeep Spring, ein verschlafener Ort in der Wüste von Arizona: Die drei ??? reisen an, um die Hochzeit eines alten Bekannten zu besuchen. Doch während die Vorbereitungen in vollem Gange sind, pflastern unheimliche Puppen den Weg der Detektive. Als sie schließlich ein Hochzeitspaar aus Mais, aufgehängt im Gebälk, entdecken, bekommt nicht nur die Braut kalte Füße. Können Justus, Peter und Bob die seltsamen Geschehnisse aufklären?",
       "veröffentlichungsdatum" : "2024-01-26",
+      "kapitel" : [
+        {
+          "titel" : "Überraschung!",
+          "start" : 0,
+          "end" : 399667
+        },
+        {
+          "titel" : "Das Tischdecken-Gespenst",
+          "start" : 399667,
+          "end" : 806227
+        },
+        {
+          "titel" : "Hände hoch",
+          "start" : 806227,
+          "end" : 1546920
+        },
+        {
+          "titel" : "Funkloch",
+          "start" : 1546920,
+          "end" : 2365227
+        },
+        {
+          "titel" : "Spurensuche",
+          "start" : 2365227,
+          "end" : 2736467
+        },
+        {
+          "titel" : "Schüsse im Maisfeld",
+          "start" : 2736467,
+          "end" : 3077933
+        },
+        {
+          "titel" : "Das gehängte Brautpaar",
+          "start" : 3077933,
+          "end" : 3778746
+        },
+        {
+          "titel" : "Wenn man vom Teufel spricht",
+          "start" : 3778746,
+          "end" : 4186546
+        },
+        {
+          "titel" : "Regenbogenrosen",
+          "start" : 4186546,
+          "end" : 4625040
+        },
+        {
+          "titel" : "In der Falle",
+          "start" : 4625040,
+          "end" : 5419373
+        },
+        {
+          "titel" : "Dreißig Stunden",
+          "start" : 5419373,
+          "end" : 6120826
+        },
+        {
+          "titel" : "Der Mann im Nachthemd",
+          "start" : 6120826,
+          "end" : 6767546
+        },
+        {
+          "titel" : "Sie haben das Recht zu schweigen",
+          "start" : 6767546,
+          "end" : 7138799
+        },
+        {
+          "titel" : "Beschattung",
+          "start" : 7138799,
+          "end" : 7938586
+        },
+        {
+          "titel" : "Das Hochzeitsgeschenk",
+          "start" : 7938586,
+          "end" : 8508159
+        },
+        {
+          "titel" : "Unter Druck",
+          "start" : 8508159,
+          "end" : 8860279
+        },
+        {
+          "titel" : "Deconvulsan",
+          "start" : 8860279,
+          "end" : 10003413
+        },
+        {
+          "titel" : "Hochzeitstag",
+          "start" : 10003413,
+          "end" : 10696453
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Tante Mathilda",
+          "Karin Lieneweg"
+        ],
+        [
+          "Onkel Titus",
+          "Erik Schäffler"
+        ],
+        [
+          "Kenneth",
+          "Till Huster"
+        ],
+        [
+          "Chief Householder",
+          "Gordon Piedesack"
+        ],
+        [
+          "Tricia Cooper",
+          "Anna Carlsson"
+        ],
+        [
+          "Mr. Rice",
+          "Stephan Schad"
+        ],
+        [
+          "Katee",
+          "Anne Moll"
+        ],
+        [
+          "Sergeant Murray",
+          "Achim Buch"
+        ],
+        [
+          "Mary",
+          "Svantje Wascher"
+        ],
+        [
+          "Scott",
+          "John Wesley Zielmann"
+        ],
+        [
+          "Johnson",
+          "Wanja Mues"
+        ],
+        [
+          "Nigel",
+          "Tim Mälzer"
+        ],
+        [
+          "Patrick",
+          "Christian Rudolf"
+        ],
+        [
+          "Dolly Craig",
+          "Rosemarie Wohlbauer"
+        ],
+        [
+          "Mrs. Cooper",
+          "Angelika Berg"
+        ]
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/225/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/225/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/225/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music126/v4/ba/79/de/ba79de32-25df-c9d7-4f87-71aef668506c/196871249751.jpg"
-      },
-      "unvollständig" : true
+      }
     }
   ]
 }
