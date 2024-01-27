@@ -28748,6 +28748,19 @@
         "cover" : "http://dreimetadaten.de/data/Serie/225/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music126/v4/ba/79/de/ba79de32-25df-c9d7-4f87-71aef668506c/196871249751.jpg"
       }
+    },
+    {
+      "nummer" : 226,
+      "titel" : "Die Spur der Toten",
+      "autor" : "André Minninger",
+      "hörspielskriptautor" : "André Minninger",
+      "veröffentlichungsdatum" : "2024-03-22",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/226/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Serie/226/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music116/v4/30/d4/77/30d47722-aed3-7ce0-7a21-f0d96e7bf82e/196871249775.jpg"
+      },
+      "unvollständig" : true
     }
   ]
 }
