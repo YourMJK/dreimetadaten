@@ -28754,13 +28754,101 @@
       "titel" : "Die Spur der Toten",
       "autor" : "André Minninger",
       "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Bob Andrews stockt der Atem – unerwartet erhält er Post von einem Anwalt. Die Vergangenheit holt ihn ein und lässt ihn an seinem Verstand zweifeln.\nDas Vermächtnis, das eine alte Bekannte dem dritten Detektiv hinterlässt, ist ebenso unheimlich wie bizarr: Nach ihrem Ableben soll er die Spur ihres Mörders aufnehmen und ihn unter allen Umständen dingfest machen. Können die drei ??? ihren Tod aufklären und den Täter finden? Justus, Peter und Bob folgen den Spuren, die bis in das Reich der Toten führen.",
       "veröffentlichungsdatum" : "2024-03-22",
+      "kapitel" : [
+        {
+          "titel" : "Lebensbilanz",
+          "start" : 0,
+          "end" : 644680
+        },
+        {
+          "titel" : "Entlassen",
+          "start" : 644680,
+          "end" : 1188493
+        },
+        {
+          "titel" : "Innere Uhr",
+          "start" : 1188493,
+          "end" : 1837627
+        },
+        {
+          "titel" : "Äußerste Konzentration",
+          "start" : 1837627,
+          "end" : 2583333
+        },
+        {
+          "titel" : "Schock",
+          "start" : 2583333,
+          "end" : 3764320
+        },
+        {
+          "titel" : "Richtig geschlussfolgert",
+          "start" : 3764320,
+          "end" : 4953600
+        }
+      ],
+      "sprecher" : [
+        [
+          "Erzähler",
+          "Axel Milberg"
+        ],
+        [
+          "Justus Jonas, Erster Detektiv",
+          "Oliver Rohrbeck"
+        ],
+        [
+          "Peter Shaw, Zweiter Detektiv",
+          "Jens Wawrczeck"
+        ],
+        [
+          "Bob Andrews, Recherchen und Archiv",
+          "Andreas Fröhlich"
+        ],
+        [
+          "Clarissa Franklin",
+          "Judy Winter"
+        ],
+        [
+          "Jack Cliffwater",
+          "Oliver Kalkofe"
+        ],
+        [
+          "Mr. Bumblebee",
+          "Tim Grobe"
+        ],
+        [
+          "Inspektor Cotta",
+          "Holger Mahlich"
+        ],
+        [
+          "Mrs. Evans",
+          "Merete Brettschneider"
+        ],
+        [
+          "Mr. Powers",
+          "Achim Buch"
+        ],
+        [
+          "Meyer",
+          "Tim Helssen"
+        ],
+        [
+          "Polizist",
+          "John Wesley Zielmann"
+        ],
+        [
+          "Polizistin",
+          "Merle Tucholka"
+        ]
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/226/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/226/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/226/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/226/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music116/v4/30/d4/77/30d47722-aed3-7ce0-7a21-f0d96e7bf82e/196871249775.jpg"
-      },
-      "unvollständig" : true
+      }
     }
   ]
 }
