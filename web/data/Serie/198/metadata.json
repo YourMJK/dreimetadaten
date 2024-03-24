@@ -47,83 +47,83 @@
       "end" : 4166400
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Elliot Littlehorn",
-      "Santiago Ziesmer"
-    ],
-    [
-      "Tobin Muller",
-      "Niko Minninger"
-    ],
-    [
-      "Amalia",
-      "Malin Steffen"
-    ],
-    [
-      "Zauberer Miller",
-      "Julian Horeyseck"
-    ],
-    [
-      "Kelvin Mitchell",
-      "Kai Mertens"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Leigh",
-      "Vivian Brünner"
-    ],
-    [
-      "Mutter",
-      "Tina Eschmann"
-    ],
-    [
-      "Zoey",
-      "Manuela Eifrig"
-    ],
-    [
-      "Mabel",
-      "Nicola Schäffler"
-    ],
-    [
-      "Glatzkopf",
-      "Achim Schülke"
-    ],
-    [
-      "Dustin Cooper",
-      "Claus Fuchs"
-    ],
-    [
-      "Wahrsagerin Susannah",
-      "Mia Diekow"
-    ],
-    [
-      "Dr. Benchfield",
-      "Harald Dietl"
-    ],
-    [
-      "Emily",
-      "Birte Kretschmer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Elliot Littlehorn",
+      "sprecher" : "Santiago Ziesmer"
+    },
+    {
+      "rolle" : "Tobin Muller",
+      "sprecher" : "Niko Minninger"
+    },
+    {
+      "rolle" : "Amalia",
+      "sprecher" : "Malin Steffen"
+    },
+    {
+      "rolle" : "Zauberer Miller",
+      "sprecher" : "Julian Horeyseck"
+    },
+    {
+      "rolle" : "Kelvin Mitchell",
+      "sprecher" : "Kai Mertens"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Leigh",
+      "sprecher" : "Vivian Brünner"
+    },
+    {
+      "rolle" : "Mutter",
+      "sprecher" : "Tina Eschmann"
+    },
+    {
+      "rolle" : "Zoey",
+      "sprecher" : "Manuela Eifrig"
+    },
+    {
+      "rolle" : "Mabel",
+      "sprecher" : "Nicola Schäffler"
+    },
+    {
+      "rolle" : "Glatzkopf",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Dustin Cooper",
+      "sprecher" : "Claus Fuchs"
+    },
+    {
+      "rolle" : "Wahrsagerin Susannah",
+      "sprecher" : "Mia Diekow"
+    },
+    {
+      "rolle" : "Dr. Benchfield",
+      "sprecher" : "Harald Dietl"
+    },
+    {
+      "rolle" : "Emily",
+      "sprecher" : "Birte Kretschmer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/198/metadata.json",

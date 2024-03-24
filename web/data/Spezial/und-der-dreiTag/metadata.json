@@ -73,99 +73,100 @@
           "end" : 4757160
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Tante Mathilda Jonas",
-          "Karin Lieneweg"
-        ],
-        [
-          "Onkel Titus Jonas",
-          "Hans Meinhardt"
-        ],
-        [
-          "Inspektor Cotta",
-          "Holger Mahlich"
-        ],
-        [
-          "Officer Flann Doyle",
-          "Douglas Welbat"
-        ],
-        [
-          "Tanya Sullivan",
-          "Marion Elskis"
-        ],
-        [
-          "Sebastian Dawson",
-          "Bastian Pastewka"
-        ],
-        [
-          "Miss Tomkins",
-          "Steffi Kirchberger"
-        ],
-        [
-          "Mr. Foley",
-          "Dirk Bach"
-        ],
-        [
-          "John Gabbin",
-          "Tobias Schmidt"
-        ],
-        [
-          "Matthew Gabbin",
-          "Jürgen Thormann"
-        ],
-        [
-          "Georgina",
-          "Maud Ackermann"
-        ],
-        [
-          "Gil Renard",
-          "Udo Schenk"
-        ],
-        [
-          "Hedy Carlson",
-          "Luise Helm"
-        ],
-        [
-          "Steve",
-          "Sascha Draeger"
-        ],
-        [
-          "Jack",
-          "Hendrik Buchna"
-        ],
-        [
-          "Laury",
-          "Rhea Harder-Vennewald"
-        ],
-        [
-          "Gast 1",
-          "Christian Senger"
-        ],
-        [
-          "Fahrerin",
-          "Corinna Wodrich"
-        ],
-        [
-          "Radiosprecher",
-          "Tobias Meister"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Officer Flann Doyle",
+          "sprecher" : "Douglas Welbat"
+        },
+        {
+          "rolle" : "Tanya Sullivan",
+          "sprecher" : "Marion Elskis"
+        },
+        {
+          "rolle" : "Sebastian Dawson",
+          "sprecher" : "Bastian Pastewka"
+        },
+        {
+          "rolle" : "Miss Tomkins",
+          "sprecher" : "Stephanie Damare"
+        },
+        {
+          "rolle" : "Mr. Foley",
+          "sprecher" : "Dirk Bach"
+        },
+        {
+          "rolle" : "John Gabbin",
+          "sprecher" : "Tobias Schmidt"
+        },
+        {
+          "rolle" : "Matthew Gabbin",
+          "sprecher" : "Jürgen Thormann"
+        },
+        {
+          "rolle" : "Georgina",
+          "sprecher" : "Maud Ackermann"
+        },
+        {
+          "rolle" : "Gil Renard",
+          "sprecher" : "Udo Schenk"
+        },
+        {
+          "rolle" : "Hedy Carlson",
+          "sprecher" : "Luise Helm"
+        },
+        {
+          "rolle" : "Steve",
+          "sprecher" : "Sascha Draeger"
+        },
+        {
+          "rolle" : "Jack",
+          "sprecher" : "Hendrik Buchna"
+        },
+        {
+          "rolle" : "Laury",
+          "sprecher" : "Rhea Harder-Vennewald"
+        },
+        {
+          "rolle" : "Gast 1",
+          "sprecher" : "Christian Senger"
+        },
+        {
+          "rolle" : "Fahrerin",
+          "sprecher" : "Corinna Wodrich"
+        },
+        {
+          "rolle" : "Radiosprecher",
+          "sprecher" : "Tobias Meister"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/metadata.json",
@@ -241,95 +242,95 @@
           "end" : 3904933
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Tante Mathilda Jonas",
-          "Karin Lieneweg"
-        ],
-        [
-          "Inspektor Cotta",
-          "Holger Mahlich"
-        ],
-        [
-          "Officer Flann Doyle",
-          "Douglas Welbat"
-        ],
-        [
-          "Gil Renard",
-          "Udo Schenk"
-        ],
-        [
-          "Hedy Carlson",
-          "Luise Helm"
-        ],
-        [
-          "Peter Foster",
-          "Gerrit Schmidt-Foss"
-        ],
-        [
-          "Mrs. Shaw",
-          "Isabella Grote"
-        ],
-        [
-          "Sebastian Dawson",
-          "Bastian Pastewka"
-        ],
-        [
-          "Annie Wilkes",
-          "Regina Lemnitz"
-        ],
-        [
-          "Mädchen 1",
-          "Katinka Körting"
-        ],
-        [
-          "Mädchen 2",
-          "Jacqueline Meybauer"
-        ],
-        [
-          "Georgina",
-          "Maud Ackermann"
-        ],
-        [
-          "Alter Mann",
-          "Jörg Gillner"
-        ],
-        [
-          "Junger Mann",
-          "Patrick Bach"
-        ],
-        [
-          "Dick Perry",
-          "Ernst H. Hilbich"
-        ],
-        [
-          "Matthew Gabbin",
-          "Jürgen Thormann"
-        ],
-        [
-          "Steve",
-          "Sascha Draeger"
-        ],
-        [
-          "Radiosprecher",
-          "Tobias Meister"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Officer Flann Doyle",
+          "sprecher" : "Douglas Welbat"
+        },
+        {
+          "rolle" : "Gil Renard",
+          "sprecher" : "Udo Schenk"
+        },
+        {
+          "rolle" : "Hedy Carlson",
+          "sprecher" : "Luise Helm"
+        },
+        {
+          "rolle" : "Peter Foster",
+          "sprecher" : "Gerrit Schmidt-Foß"
+        },
+        {
+          "rolle" : "Mrs. Shaw",
+          "sprecher" : "Isabella Grothe"
+        },
+        {
+          "rolle" : "Sebastian Dawson",
+          "sprecher" : "Bastian Pastewka"
+        },
+        {
+          "rolle" : "Annie Wilkes",
+          "sprecher" : "Regina Lemnitz"
+        },
+        {
+          "rolle" : "Mädchen 1",
+          "sprecher" : "Katinka Körting"
+        },
+        {
+          "rolle" : "Mädchen 2",
+          "sprecher" : "Jacqueline Meybauer"
+        },
+        {
+          "rolle" : "Georgina",
+          "sprecher" : "Maud Ackermann"
+        },
+        {
+          "rolle" : "Alter Mann",
+          "sprecher" : "Jörg Gillner"
+        },
+        {
+          "rolle" : "Junger Mann",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Dick Perry",
+          "sprecher" : "Ernst H. Hilbich"
+        },
+        {
+          "rolle" : "Matthew Gabbin",
+          "sprecher" : "Jürgen Thormann"
+        },
+        {
+          "rolle" : "Steve",
+          "sprecher" : "Sascha Draeger"
+        },
+        {
+          "rolle" : "Radiosprecher",
+          "sprecher" : "Tobias Meister"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",
@@ -420,131 +421,131 @@
           "end" : 4416000
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Tante Mathilda Jonas",
-          "Karin Lieneweg"
-        ],
-        [
-          "Bill Andrews",
-          "Henry König"
-        ],
-        [
-          "Inspektor Cotta",
-          "Holger Mahlich"
-        ],
-        [
-          "Miss Bennett",
-          "Renate Pilcher"
-        ],
-        [
-          "Dick Perry",
-          "Ernst H. Hilbich"
-        ],
-        [
-          "Walter Bush",
-          "Rolf E. Schenker"
-        ],
-        [
-          "Officer Flann Doyle",
-          "Douglas Welbat"
-        ],
-        [
-          "Ian Bush",
-          "Sky du Mont / Lucas Sperber"
-        ],
-        [
-          "Jimmy Sinclair",
-          "Siegfried Kernen / Nils Noller"
-        ],
-        [
-          "Charlie Parker",
-          "Jörg Gillner / Laurence Kalaidjan"
-        ],
-        [
-          "Brianna Jackson",
-          "Hansi Jochmann / Natalie Demtröder"
-        ],
-        [
-          "Chloe Smathers",
-          "Valerie Demtröder"
-        ],
-        [
-          "Joseph Quick",
-          "Harry Rowohlt"
-        ],
-        [
-          "Mr. Raynes",
-          "Olaf Kreuzenbeck"
-        ],
-        [
-          "Jeff White",
-          "Horst Naumann"
-        ],
-        [
-          "Hedy Carlson",
-          "Luise Helm"
-        ],
-        [
-          "Gil Renard",
-          "Udo Schenk"
-        ],
-        [
-          "Peter Foster",
-          "Gerrit Schmidt-Foss"
-        ],
-        [
-          "Matthew Gabbin",
-          "Jürgen Thormann"
-        ],
-        [
-          "Steve",
-          "Sascha Draeger"
-        ],
-        [
-          "Laury",
-          "Rhea Harder-Vennewald"
-        ],
-        [
-          "Georgina",
-          "Maud Ackermann"
-        ],
-        [
-          "Bedienung",
-          "Tim Wenderoth"
-        ],
-        [
-          "Gast",
-          "Andreas Otto"
-        ],
-        [
-          "Sekretärin",
-          "Corinna Wodrich"
-        ],
-        [
-          "Sebastian Dawson",
-          "Bastian Pastewka"
-        ],
-        [
-          "Radiosprecher",
-          "Tobias Meister"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Mr. Andrews",
+          "sprecher" : "Henry König"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Miss Bennett",
+          "sprecher" : "Renate Pichler"
+        },
+        {
+          "rolle" : "Dick Perry",
+          "sprecher" : "Ernst H. Hilbich"
+        },
+        {
+          "rolle" : "Walter Bush",
+          "sprecher" : "Rolf E. Schenker"
+        },
+        {
+          "rolle" : "Officer Flann Doyle",
+          "sprecher" : "Douglas Welbat"
+        },
+        {
+          "rolle" : "Ian Bush",
+          "sprecher" : "Sky du Mont / Lukas T. Sperber"
+        },
+        {
+          "rolle" : "Jimmy Sinclair",
+          "sprecher" : "Siegfried W. Kernen / Nils Noller"
+        },
+        {
+          "rolle" : "Charlie Parker",
+          "sprecher" : "Oliver Böttcher / Laurence Kalaidjian"
+        },
+        {
+          "rolle" : "Brianna Jackson",
+          "sprecher" : "Hansi Jochmann / Natalie Demtrøder"
+        },
+        {
+          "rolle" : "Chloe Smathers",
+          "sprecher" : "Valerie Demtrøder"
+        },
+        {
+          "rolle" : "Joseph Quick",
+          "sprecher" : "Harry Rowohlt"
+        },
+        {
+          "rolle" : "Mr. Raynes",
+          "sprecher" : "Olaf Kreutzenbeck"
+        },
+        {
+          "rolle" : "Jeff White",
+          "sprecher" : "Horst Naumann"
+        },
+        {
+          "rolle" : "Hedy Carlson",
+          "sprecher" : "Luise Helm"
+        },
+        {
+          "rolle" : "Gil Renard",
+          "sprecher" : "Udo Schenk"
+        },
+        {
+          "rolle" : "Peter Foster",
+          "sprecher" : "Gerrit Schmidt-Foß"
+        },
+        {
+          "rolle" : "Matthew Gabbin",
+          "sprecher" : "Jürgen Thormann"
+        },
+        {
+          "rolle" : "Steve",
+          "sprecher" : "Sascha Draeger"
+        },
+        {
+          "rolle" : "Laury",
+          "sprecher" : "Rhea Harder-Vennewald"
+        },
+        {
+          "rolle" : "Georgina",
+          "sprecher" : "Maud Ackermann"
+        },
+        {
+          "rolle" : "Bedienung",
+          "sprecher" : "Tim Wenderoth"
+        },
+        {
+          "rolle" : "Gast",
+          "sprecher" : "Andreas Otto"
+        },
+        {
+          "rolle" : "Sekretärin",
+          "sprecher" : "Corinna Wodrich"
+        },
+        {
+          "rolle" : "Sebastian Dawson",
+          "sprecher" : "Bastian Pastewka"
+        },
+        {
+          "rolle" : "Radiosprecher",
+          "sprecher" : "Tobias Meister"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/metadata.json",
@@ -557,187 +558,188 @@
   "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Kann ein und derselbe Tag dreimal völlig unterschiedlich verlaufen? Kann ein unscheinbares Detail wie ein Colaglas darüber entscheiden, wie sich alle weiteren Geschehnisse entwickeln? Erlebe, wie Justus, Peter und Bob auf den unheimlichen Fluch der Sheldon Street, die mysteriösen Zeichen der Ritter stoßen und den bedrohlichen Fremden Freund stoßen – und zwar zeitgleich am selben Tag!\nDrei Geschichten von drei Autoren führen dich dreimal durch einen Tag, wie er unterschiedlicher nicht verlaufen könnte.",
   "veröffentlichungsdatum" : "2010-10-01",
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Officer Flann Doyle",
-      "Douglas Welbat"
-    ],
-    [
-      "Tanya Sullivan",
-      "Marion Elskis"
-    ],
-    [
-      "Sebastian Dawson",
-      "Bastian Pastewka"
-    ],
-    [
-      "Miss Tomkins",
-      "Steffi Kirchberger"
-    ],
-    [
-      "Mr. Foley",
-      "Dirk Bach"
-    ],
-    [
-      "John Gabbin",
-      "Tobias Schmidt"
-    ],
-    [
-      "Matthew Gabbin",
-      "Jürgen Thormann"
-    ],
-    [
-      "Georgina",
-      "Maud Ackermann"
-    ],
-    [
-      "Gil Renard",
-      "Udo Schenk"
-    ],
-    [
-      "Hedy Carlson",
-      "Luise Helm"
-    ],
-    [
-      "Steve",
-      "Sascha Draeger"
-    ],
-    [
-      "Jack",
-      "Hendrik Buchna"
-    ],
-    [
-      "Laury",
-      "Rhea Harder-Vennewald"
-    ],
-    [
-      "Gast 1",
-      "Christian Senger"
-    ],
-    [
-      "Fahrerin",
-      "Corinna Wodrich"
-    ],
-    [
-      "Radiosprecher",
-      "Tobias Meister"
-    ],
-    [
-      "Peter Foster",
-      "Gerrit Schmidt-Foss"
-    ],
-    [
-      "Mrs. Shaw",
-      "Isabella Grote"
-    ],
-    [
-      "Annie Wilkes",
-      "Regina Lemnitz"
-    ],
-    [
-      "Mädchen 1",
-      "Katinka Körting"
-    ],
-    [
-      "Mädchen 2",
-      "Jacqueline Meybauer"
-    ],
-    [
-      "Alter Mann",
-      "Jörg Gillner"
-    ],
-    [
-      "Junger Mann",
-      "Patrick Bach"
-    ],
-    [
-      "Dick Perry",
-      "Ernst H. Hilbich"
-    ],
-    [
-      "Bill Andrews",
-      "Henry König"
-    ],
-    [
-      "Miss Bennett",
-      "Renate Pilcher"
-    ],
-    [
-      "Walter Bush",
-      "Rolf E. Schenker"
-    ],
-    [
-      "Ian Bush",
-      "Sky du Mont / Lucas Sperber"
-    ],
-    [
-      "Jimmy Sinclair",
-      "Siegfried Kernen / Nils Noller"
-    ],
-    [
-      "Charlie Parker",
-      "Jörg Gillner / Laurence Kalaidjan"
-    ],
-    [
-      "Brianna Jackson",
-      "Hansi Jochmann / Natalie Demtröder"
-    ],
-    [
-      "Chloe Smathers",
-      "Valerie Demtröder"
-    ],
-    [
-      "Joseph Quick",
-      "Harry Rowohlt"
-    ],
-    [
-      "Mr. Raynes",
-      "Olaf Kreuzenbeck"
-    ],
-    [
-      "Jeff White",
-      "Horst Naumann"
-    ],
-    [
-      "Bedienung",
-      "Tim Wenderoth"
-    ],
-    [
-      "Gast 2",
-      "Andreas Otto"
-    ],
-    [
-      "Sekretärin",
-      "Corinna Wodrich"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Officer Flann Doyle",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Tanya Sullivan",
+      "sprecher" : "Marion Elskis"
+    },
+    {
+      "rolle" : "Sebastian Dawson",
+      "sprecher" : "Bastian Pastewka"
+    },
+    {
+      "rolle" : "Miss Tomkins",
+      "sprecher" : "Stephanie Damare"
+    },
+    {
+      "rolle" : "Mr. Foley",
+      "sprecher" : "Dirk Bach"
+    },
+    {
+      "rolle" : "John Gabbin",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Matthew Gabbin",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Georgina",
+      "sprecher" : "Maud Ackermann"
+    },
+    {
+      "rolle" : "Gil Renard",
+      "sprecher" : "Udo Schenk"
+    },
+    {
+      "rolle" : "Hedy Carlson",
+      "sprecher" : "Luise Helm"
+    },
+    {
+      "rolle" : "Steve",
+      "sprecher" : "Sascha Draeger"
+    },
+    {
+      "rolle" : "Jack",
+      "sprecher" : "Hendrik Buchna"
+    },
+    {
+      "rolle" : "Laury",
+      "sprecher" : "Rhea Harder-Vennewald"
+    },
+    {
+      "rolle" : "Gast 1",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Fahrerin",
+      "sprecher" : "Corinna Wodrich"
+    },
+    {
+      "rolle" : "Radiosprecher",
+      "sprecher" : "Tobias Meister"
+    },
+    {
+      "rolle" : "Peter Foster",
+      "sprecher" : "Gerrit Schmidt-Foß"
+    },
+    {
+      "rolle" : "Mrs. Shaw",
+      "sprecher" : "Isabella Grothe"
+    },
+    {
+      "rolle" : "Annie Wilkes",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Mädchen 1",
+      "sprecher" : "Katinka Körting"
+    },
+    {
+      "rolle" : "Mädchen 2",
+      "sprecher" : "Jacqueline Meybauer"
+    },
+    {
+      "rolle" : "Alter Mann",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Junger Mann",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Dick Perry",
+      "sprecher" : "Ernst H. Hilbich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Miss Bennett",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Walter Bush",
+      "sprecher" : "Rolf E. Schenker"
+    },
+    {
+      "rolle" : "Ian Bush",
+      "sprecher" : "Sky du Mont / Lukas T. Sperber"
+    },
+    {
+      "rolle" : "Jimmy Sinclair",
+      "sprecher" : "Siegfried W. Kernen / Nils Noller"
+    },
+    {
+      "rolle" : "Charlie Parker",
+      "sprecher" : "Oliver Böttcher / Laurence Kalaidjian"
+    },
+    {
+      "rolle" : "Brianna Jackson",
+      "sprecher" : "Hansi Jochmann / Natalie Demtrøder"
+    },
+    {
+      "rolle" : "Chloe Smathers",
+      "sprecher" : "Valerie Demtrøder"
+    },
+    {
+      "rolle" : "Joseph Quick",
+      "sprecher" : "Harry Rowohlt"
+    },
+    {
+      "rolle" : "Mr. Raynes",
+      "sprecher" : "Olaf Kreutzenbeck"
+    },
+    {
+      "rolle" : "Jeff White",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Bedienung",
+      "sprecher" : "Tim Wenderoth"
+    },
+    {
+      "rolle" : "Gast 2",
+      "sprecher" : "Andreas Otto"
+    },
+    {
+      "rolle" : "Sekretärin",
+      "sprecher" : "Corinna Wodrich"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/metadata.json",

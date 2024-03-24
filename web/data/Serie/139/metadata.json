@@ -67,79 +67,80 @@
       "end" : 3860747
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Helena Darraz",
-      "Ingrid Andree"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Pritchard",
-      "Sascha Rotermund"
-    ],
-    [
-      "Sid",
-      "Tilman Madaus"
-    ],
-    [
-      "Caroline",
-      "Celine Fontanges"
-    ],
-    [
-      "Sandy",
-      "Simona Pahl"
-    ],
-    [
-      "Steven",
-      "René Dawn-Claude"
-    ],
-    [
-      "Ernest",
-      "Tim Kreuer"
-    ],
-    [
-      "Radioansagerin",
-      "Susanne Wulkow"
-    ],
-    [
-      "Harvey Griscom",
-      "Christian Rudolf"
-    ],
-    [
-      "John Dellcourt",
-      "Gustav Adolph Artz"
-    ],
-    [
-      "Miss Darraz",
-      "Sabine Hahn"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Helena Darraz",
+      "sprecher" : "Ingrid Andree"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Pritchard",
+      "sprecher" : "Sascha Rotermund"
+    },
+    {
+      "rolle" : "Sid",
+      "sprecher" : "Tilman Madaus"
+    },
+    {
+      "rolle" : "Caroline",
+      "sprecher" : "Celine Fontanges"
+    },
+    {
+      "rolle" : "Sandy",
+      "sprecher" : "Simona Pahl"
+    },
+    {
+      "rolle" : "Steven",
+      "sprecher" : "René Dawn-Claude"
+    },
+    {
+      "rolle" : "Ernest",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Radioansagerin",
+      "sprecher" : "Susanne Wulkow"
+    },
+    {
+      "rolle" : "Harvey Griscom",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "John Dellcourt",
+      "sprecher" : "Gustav Adolph Artz"
+    },
+    {
+      "rolle" : "Miss Darraz",
+      "sprecher" : "Sabine Hahn"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/139/metadata.json",

@@ -52,83 +52,84 @@
       "end" : 4190827
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Matthew Kooning",
-      "Tim Kreuer"
-    ],
-    [
-      "Doktor Kooning",
-      "Dietrich Adam"
-    ],
-    [
-      "Mrs. Kooning",
-      "Christiane Leuchtmann"
-    ],
-    [
-      "Finnley Stenseth",
-      "Julian Greis"
-    ],
-    [
-      "Farryn Stenseth",
-      "Clarissa Börner"
-    ],
-    [
-      "Mrs. Stenseth",
-      "Herma Koehn"
-    ],
-    [
-      "Stacey Warren",
-      "Katja Brügger"
-    ],
-    [
-      "Brandon",
-      "Stefan Exner"
-    ],
-    [
-      "Surferin",
-      "Simona Pahl"
-    ],
-    [
-      "Surfer",
-      "Tim Knauer"
-    ],
-    [
-      "Dylan",
-      "Sascha Rotermund"
-    ],
-    [
-      "Steven",
-      "Johannes Korff"
-    ],
-    [
-      "M. Keen",
-      "Detlef Tams"
-    ],
-    [
-      "George",
-      "Mars Saibert"
-    ],
-    [
-      "Mann",
-      "Gunnar Bergmann"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Matthew Kooning",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Doktor Kooning",
+      "sprecher" : "Dietrich Adam"
+    },
+    {
+      "rolle" : "Mrs. Kooning",
+      "sprecher" : "Christiane Leuchtmann"
+    },
+    {
+      "rolle" : "Finnley Stenseth",
+      "sprecher" : "Julian Greis"
+    },
+    {
+      "rolle" : "Farryn Stenseth",
+      "sprecher" : "Clarissa Börner"
+    },
+    {
+      "rolle" : "Mrs. Stenseth",
+      "sprecher" : "Herma Koehn"
+    },
+    {
+      "rolle" : "Stacey Warren",
+      "sprecher" : "Katja Brügger"
+    },
+    {
+      "rolle" : "Brandon",
+      "sprecher" : "Stefan Exner"
+    },
+    {
+      "rolle" : "Surferin",
+      "sprecher" : "Simona Pahl"
+    },
+    {
+      "rolle" : "Surfer",
+      "sprecher" : "Tim Knauer"
+    },
+    {
+      "rolle" : "Dylan",
+      "sprecher" : "Sascha Rotermund"
+    },
+    {
+      "rolle" : "Steven",
+      "sprecher" : "Johannes Korff"
+    },
+    {
+      "rolle" : "M. Keen",
+      "sprecher" : "Detlef Tams"
+    },
+    {
+      "rolle" : "George",
+      "sprecher" : "Marcel Saibert"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Peter Flechtner",
+      "pseudonym" : "Gunnar Bergmann"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/197/metadata.json",

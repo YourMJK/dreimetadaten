@@ -37,79 +37,79 @@
       "end" : 4250387
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Bootsie Washington",
-      "Andreas Birnbaum"
-    ],
-    [
-      "Majorie Dever",
-      "Victoria Trauttmansdorff"
-    ],
-    [
-      "Schwester",
-      "Gabriele Libbach"
-    ],
-    [
-      "Leland Hanson",
-      "Matthias Keller"
-    ],
-    [
-      "Jolene",
-      "Sarah Madeleine Tusk"
-    ],
-    [
-      "Perceval",
-      "André Beyer"
-    ],
-    [
-      "Mercury",
-      "Kerstin Draeger"
-    ],
-    [
-      "Coldfield",
-      "Wolf-Dietrich Sprenger"
-    ],
-    [
-      "Urs",
-      "Hanns Jörg Krumpholz"
-    ],
-    [
-      "Nicolas",
-      "Uwe Lauschke"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Godween",
-      "André Minninger"
-    ],
-    [
-      "Carver",
-      "Andreas Zaron"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Bootsie Washington",
+      "sprecher" : "Andreas Birnbaum"
+    },
+    {
+      "rolle" : "Majorie Dever",
+      "sprecher" : "Victoria Trauttmansdorff"
+    },
+    {
+      "rolle" : "Schwester",
+      "sprecher" : "Gabriele Libbach"
+    },
+    {
+      "rolle" : "Leland Hanson",
+      "sprecher" : "Matthias Keller"
+    },
+    {
+      "rolle" : "Jolene",
+      "sprecher" : "Sarah Madeleine Tusk"
+    },
+    {
+      "rolle" : "Perceval",
+      "sprecher" : "André Beyer"
+    },
+    {
+      "rolle" : "Mercury",
+      "sprecher" : "Kerstin Draeger"
+    },
+    {
+      "rolle" : "Coldfield",
+      "sprecher" : "Wolf-Dietrich Sprenger"
+    },
+    {
+      "rolle" : "Urs",
+      "sprecher" : "Hanns Jörg Krumpholz"
+    },
+    {
+      "rolle" : "Nicolas",
+      "sprecher" : "Uwe Lauschke"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Carver",
+      "sprecher" : "Andreas Zaron"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/208/metadata.json",

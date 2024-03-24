@@ -47,47 +47,47 @@
       "end" : 2640213
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Shaw",
-      "Horst Schick"
-    ],
-    [
-      "Kapitän Joy",
-      "Helmut Ahner"
-    ],
-    [
-      "Jeremy Joy",
-      "Philip Siegel"
-    ],
-    [
-      "Joshua Evans",
-      "Douglas Welbat"
-    ],
-    [
-      "Major Karnes",
-      "Manfred Schermutzki"
-    ],
-    [
-      "Sam Davis",
-      "Utz Richter"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Shaw",
+      "sprecher" : "Horst Schick"
+    },
+    {
+      "rolle" : "Kapitän Joy",
+      "sprecher" : "Helmut Ahner"
+    },
+    {
+      "rolle" : "Jeremy Joy",
+      "sprecher" : "Philip Siegel"
+    },
+    {
+      "rolle" : "Joshua Evans",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Major Karnes",
+      "sprecher" : "Manfred Schermutzki"
+    },
+    {
+      "rolle" : "Sam Davis",
+      "sprecher" : "Utz Richter"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/034/metadata.json",

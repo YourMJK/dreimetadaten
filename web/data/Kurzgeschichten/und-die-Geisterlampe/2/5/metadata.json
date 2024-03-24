@@ -4,39 +4,39 @@
   "autor" : "Marco Sonnleitner",
   "beschreibung" : "Als die drei ??? vom Strand kommen und auf dem Weg nach Hause sind, sehen sie ein SOS-Signal, das aus einem Haus gesendet wird. Eigentlich steht das Haus leer …",
   "veröffentlichungsdatum" : "2011-12-10",
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Marty",
-      "Philipp Draeger"
-    ],
-    [
-      "Fred",
-      "Guido Bernadotte"
-    ],
-    [
-      "1. Mann",
-      "Rasmus Rakete"
-    ],
-    [
-      "2. Mann",
-      "Patrick Perales"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Marty",
+      "sprecher" : "Philipp Draeger"
+    },
+    {
+      "rolle" : "Fred",
+      "sprecher" : "Guido Bernadotte"
+    },
+    {
+      "rolle" : "Mann 1",
+      "sprecher" : "Rasmus Rakete"
+    },
+    {
+      "rolle" : "Mann 2",
+      "sprecher" : "Patrick Perales"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/5/metadata.json",

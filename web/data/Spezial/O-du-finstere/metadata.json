@@ -275,67 +275,67 @@
       "end" : 9948853
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Gianna",
-      "Celine Fontanges"
-    ],
-    [
-      "Lance",
-      "Armin Schlagwein"
-    ],
-    [
-      "Debra",
-      "Melanie Kastaun"
-    ],
-    [
-      "Audrey",
-      "Anja Topf"
-    ],
-    [
-      "Bellins",
-      "Joachim Kretzer"
-    ],
-    [
-      "Jerry",
-      "Matthias Keller"
-    ],
-    [
-      "Corey",
-      "Andreas Zaron"
-    ],
-    [
-      "Joe",
-      "André Beyer"
-    ],
-    [
-      "Mr. Allister Frain",
-      "Fabian Harloff"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Gianna",
+      "sprecher" : "Celine Fontanges"
+    },
+    {
+      "rolle" : "Lance",
+      "sprecher" : "Armin Schlagwein"
+    },
+    {
+      "rolle" : "Debra",
+      "sprecher" : "Melanie Kastaun"
+    },
+    {
+      "rolle" : "Audrey",
+      "sprecher" : "Anja Topf"
+    },
+    {
+      "rolle" : "Bellins",
+      "sprecher" : "Joachim Kretzer"
+    },
+    {
+      "rolle" : "Jerry",
+      "sprecher" : "Matthias Keller"
+    },
+    {
+      "rolle" : "Corey",
+      "sprecher" : "Andreas Zaron"
+    },
+    {
+      "rolle" : "Joe",
+      "sprecher" : "André Beyer"
+    },
+    {
+      "rolle" : "Mr. Allister Frain",
+      "sprecher" : "Fabian Harloff"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/metadata.json",

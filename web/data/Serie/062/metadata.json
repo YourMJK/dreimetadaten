@@ -47,63 +47,63 @@
       "end" : 3563227
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Amanda Black",
-      "Beate Hasenau"
-    ],
-    [
-      "Mrs. Silverstone",
-      "Barbara Ratthay"
-    ],
-    [
-      "Mr. Garfield",
-      "Holger Mahlich [Utz Richter]"
-    ],
-    [
-      "Mr. Hartford",
-      "Hans Hessling"
-    ],
-    [
-      "Mrs. Hartford",
-      "Ursula Sieg"
-    ],
-    [
-      "Mrs. Green",
-      "Monika Werner"
-    ],
-    [
-      "Henry",
-      "Lutz Schnell"
-    ],
-    [
-      "Lys",
-      "Kerstin Draeger"
-    ],
-    [
-      "Linda",
-      "Janina Richter"
-    ],
-    [
-      "Inspektor Cotta",
-      "Willem Fricke"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Amanda Black",
+      "sprecher" : "Beate Hasenau"
+    },
+    {
+      "rolle" : "Mrs. Silverstone",
+      "sprecher" : "Barbara Ratthey"
+    },
+    {
+      "rolle" : "Mr. Garfield",
+      "sprecher" : "Utz Richter"
+    },
+    {
+      "rolle" : "Mr. Hartford",
+      "sprecher" : "Hans Hessling"
+    },
+    {
+      "rolle" : "Mrs. Hartford",
+      "sprecher" : "Ursula Sieg"
+    },
+    {
+      "rolle" : "Mrs. Green",
+      "sprecher" : "Monika Werner"
+    },
+    {
+      "rolle" : "Henry",
+      "sprecher" : "Lutz Schnell"
+    },
+    {
+      "rolle" : "Lys",
+      "sprecher" : "Kerstin Draeger"
+    },
+    {
+      "rolle" : "Linda",
+      "sprecher" : "Janina Richter"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Willem Fricke"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/062/metadata.json",

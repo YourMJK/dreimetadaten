@@ -15,31 +15,31 @@
       "end" : 1502960
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Malcolm Fever",
-      "Tilo Schmitz"
-    ],
-    [
-      "Lucy Hopkins",
-      "Topsy Küppers"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Malcolm Fever",
+      "sprecher" : "Tilo Schmitz"
+    },
+    {
+      "rolle" : "Lucy Hopkins",
+      "sprecher" : "Topsy Küppers"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/3/metadata.json",

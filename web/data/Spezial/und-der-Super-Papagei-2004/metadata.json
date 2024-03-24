@@ -166,67 +166,68 @@
       "end" : 5400124
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Mr. Claudius",
-      "Gerlach Fiedler"
-    ],
-    [
-      "Mrs. Claudius",
-      "Brigitte Böttrich"
-    ],
-    [
-      "Mr. Fentriss",
-      "Detlef Bierstedt"
-    ],
-    [
-      "Hugenay",
-      "Wolfgang Kubach"
-    ],
-    [
-      "Carlos",
-      "Stefan Brönneke"
-    ],
-    [
-      "Ramos",
-      "Dario Bertoli"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Opa",
-      "Harry Rowohlt"
-    ],
-    [
-      "Miss Waggoner",
-      "Ursula Vogel"
-    ],
-    [
-      "Senora",
-      "Barbara Benuel"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Mr. Claudius, Kunsthändler",
+      "sprecher" : "Gerlach Fiedler"
+    },
+    {
+      "rolle" : "Mrs. Claudius",
+      "sprecher" : "Brigitte Böttrich"
+    },
+    {
+      "rolle" : "Mr. Fentriss, Schriftsteller",
+      "sprecher" : "Detlef Bierstedt"
+    },
+    {
+      "rolle" : "Hugenay",
+      "sprecher" : "Wolfgang Kubach"
+    },
+    {
+      "rolle" : "Carlos",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Onkel Ramos",
+      "sprecher" : "Detlef Bierstedt",
+      "pseudonym" : "Dario Bertoli"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Opa",
+      "sprecher" : "Harry Rowohlt"
+    },
+    {
+      "rolle" : "Miss Waggoner",
+      "sprecher" : "Ursula Vogel"
+    },
+    {
+      "rolle" : "Senora",
+      "sprecher" : "Barbara Benuel"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/metadata.json",

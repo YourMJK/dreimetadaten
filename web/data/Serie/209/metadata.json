@@ -42,59 +42,59 @@
       "end" : 3596773
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Oisin Murphy",
-      "Douglas Welbat"
-    ],
-    [
-      "Lelia Murphy",
-      "Katja Brügger"
-    ],
-    [
-      "Virgil",
-      "Steffen Groth"
-    ],
-    [
-      "Wanda Waffle",
-      "Anja Topf"
-    ],
-    [
-      "Smiddie",
-      "Ivo Möller"
-    ],
-    [
-      "Clown",
-      "Andreas Birnbaum"
-    ],
-    [
-      "Zamora",
-      "Rainer Schmitt"
-    ],
-    [
-      "Easly",
-      "Paul Michaeli"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Oisin Murphy",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Lelia Murphy",
+      "sprecher" : "Katja Brügger"
+    },
+    {
+      "rolle" : "Virgil",
+      "sprecher" : "Steffen Groth"
+    },
+    {
+      "rolle" : "Wanda Waffle",
+      "sprecher" : "Anja Topf"
+    },
+    {
+      "rolle" : "Smiddie",
+      "sprecher" : "Ivo Möller"
+    },
+    {
+      "rolle" : "Clown",
+      "sprecher" : "Andreas Birnbaum"
+    },
+    {
+      "rolle" : "Zamora",
+      "sprecher" : "Rainer Schmitt"
+    },
+    {
+      "rolle" : "Easly",
+      "sprecher" : "Paul Michaeli"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/209/metadata.json",

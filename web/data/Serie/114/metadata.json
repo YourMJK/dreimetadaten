@@ -67,51 +67,51 @@
       "end" : 4150480
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Bernadette O'Donnell",
-      "Eva Maria Bauer"
-    ],
-    [
-      "Cecilia Jones",
-      "Hanni Vanhaiden"
-    ],
-    [
-      "Elouise Adams",
-      "Hannelore Wüst"
-    ],
-    [
-      "Mrs Willow",
-      "Elga Schütz"
-    ],
-    [
-      "Möbelpacker",
-      "Christian Niehues"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Bernadette O'Donnell",
+      "sprecher" : "Eva Maria Bauer"
+    },
+    {
+      "rolle" : "Cecilia Jones",
+      "sprecher" : "Hanni Vanhaiden"
+    },
+    {
+      "rolle" : "Elouise Adams",
+      "sprecher" : "Hannelore Wüst"
+    },
+    {
+      "rolle" : "Mrs. Willow",
+      "sprecher" : "Elga Schütz"
+    },
+    {
+      "rolle" : "Möbelpacker",
+      "sprecher" : "Christian Niehues"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/114/metadata.json",

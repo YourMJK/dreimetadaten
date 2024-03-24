@@ -47,55 +47,55 @@
       "end" : 3293027
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Regina",
-      "Ursela Monn"
-    ],
-    [
-      "Teddy",
-      "Simon Jäger"
-    ],
-    [
-      "Mrs. Peabody",
-      "Gisela Trowe"
-    ],
-    [
-      "Burton",
-      "Günther Pfitzmann"
-    ],
-    [
-      "Kommissar",
-      "Günther Flesh"
-    ],
-    [
-      "Mooch",
-      "Joachim Richert"
-    ],
-    [
-      "Mr. Conine",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Fergus",
-      "Günter Dockerill"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Regina",
+      "sprecher" : "Ursela Monn"
+    },
+    {
+      "rolle" : "Teddy",
+      "sprecher" : "Simon Jäger"
+    },
+    {
+      "rolle" : "Mrs. Peabody",
+      "sprecher" : "Gisela Trowe"
+    },
+    {
+      "rolle" : "Burton",
+      "sprecher" : "Günter Pfitzmann"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Günther Flesch"
+    },
+    {
+      "rolle" : "Mooch",
+      "sprecher" : "Joachim Richert"
+    },
+    {
+      "rolle" : "Mr. Conine",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Fergus",
+      "sprecher" : "Günther Dockerill"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/037/metadata.json",

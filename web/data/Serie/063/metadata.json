@@ -47,63 +47,64 @@
       "end" : 4014467
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Jimboy-Jonas",
-      "Frank Meyer-Brockmann"
-    ],
-    [
-      "Mr. Bow",
-      "Klaus Sonnenschein"
-    ],
-    [
-      "Eric Randolph",
-      "Achim Schülke"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Elizabeth",
-      "Verena Großer"
-    ],
-    [
-      "Lys",
-      "Kerstin Draeger"
-    ],
-    [
-      "Kelly",
-      "Juliane Szalay"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Tamara Mostowsky",
-      "Astrid Kollex"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Jimboy-Jonas",
+      "sprecher" : "Frank Meyer-Brockmann"
+    },
+    {
+      "rolle" : "Mr. Bow",
+      "sprecher" : "Klaus Sonnenschein"
+    },
+    {
+      "rolle" : "Eric Randolph",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Elizabeth",
+      "sprecher" : "Verena Großer"
+    },
+    {
+      "rolle" : "Lys",
+      "sprecher" : "Kerstin Draeger"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Tamara Mostowsky",
+      "sprecher" : "Astrid Kollex"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/063/metadata.json",

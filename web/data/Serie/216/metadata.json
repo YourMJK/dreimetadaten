@@ -52,55 +52,55 @@
       "end" : 3884267
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Kendra Bowman",
-      "Sandra Schwittau"
-    ],
-    [
-      "Huxley, Sittich",
-      "Achim Buch"
-    ],
-    [
-      "Matt",
-      "Manfred Liptow"
-    ],
-    [
-      "Carol",
-      "Gerlinde Dillge"
-    ],
-    [
-      "Trevor",
-      "Peter Kaempfe"
-    ],
-    [
-      "Officer",
-      "Torsten Münchow"
-    ],
-    [
-      "Reginald",
-      "Malte Janßen"
-    ],
-    [
-      "Blacky",
-      "Heikedine Körting"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kendra Bowman",
+      "sprecher" : "Sandra Schwittau"
+    },
+    {
+      "rolle" : "Huxley, Sittich",
+      "sprecher" : "Achim Buch"
+    },
+    {
+      "rolle" : "Matt",
+      "sprecher" : "Manfred Liptow"
+    },
+    {
+      "rolle" : "Carol",
+      "sprecher" : "Gerlinde Dillge"
+    },
+    {
+      "rolle" : "Trevor",
+      "sprecher" : "Peter Kaempfe"
+    },
+    {
+      "rolle" : "Officer",
+      "sprecher" : "Torsten Münchow"
+    },
+    {
+      "rolle" : "Reginald",
+      "sprecher" : "Malte Janßen"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/216/metadata.json",

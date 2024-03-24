@@ -37,59 +37,60 @@
       "end" : 3262720
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Alois Copper",
-      "Werner Cartano"
-    ],
-    [
-      "Mr. Carter",
-      "Marius Berthold"
-    ],
-    [
-      "Miss Lilly",
-      "Jocelyn Boisseaux-Endemann"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Frau des Bürgermeisters",
-      "Wanda Osten"
-    ],
-    [
-      "Reporter",
-      "Jacky Nonnon"
-    ],
-    [
-      "Stewart",
-      "Till Madaus"
-    ],
-    [
-      "Pico, Clown",
-      "Hubertus Borck"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Alois Copper",
+      "sprecher" : "Werner Cartano"
+    },
+    {
+      "rolle" : "Mr. Carter",
+      "sprecher" : "Marius Berthold"
+    },
+    {
+      "rolle" : "Miss Lilly",
+      "sprecher" : "Jocelyne Boisseau"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Frau des Bürgermeisters",
+      "sprecher" : "Hella von der Osten-Sacken",
+      "pseudonym" : "Wanda Osten"
+    },
+    {
+      "rolle" : "Reporter",
+      "sprecher" : "Jacky Nonnon"
+    },
+    {
+      "rolle" : "Stewart",
+      "sprecher" : "Tilman Madaus"
+    },
+    {
+      "rolle" : "Pico, Clown",
+      "sprecher" : "Hubertus Borck"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/094/metadata.json",

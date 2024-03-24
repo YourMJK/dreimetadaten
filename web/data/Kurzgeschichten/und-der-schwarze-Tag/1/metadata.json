@@ -22,19 +22,19 @@
           "end" : 2240920
         }
       ],
-      "sprecher" : [
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/1/metadata.json",
@@ -63,35 +63,36 @@
           "end" : 1855920
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Axel Milberg"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Helen",
-          "Balancinha Blanc (Dorette Hugo)"
-        ],
-        [
-          "Ellen",
-          "Dorette Hugo"
-        ],
-        [
-          "Vater",
-          "Douglas Welbat"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Helen",
+          "sprecher" : "Dorette Hugo",
+          "pseudonym" : "Balancinha Blanc"
+        },
+        {
+          "rolle" : "Ellen",
+          "sprecher" : "Dorette Hugo"
+        },
+        {
+          "rolle" : "Vater",
+          "sprecher" : "Douglas Welbat"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/2/metadata.json",

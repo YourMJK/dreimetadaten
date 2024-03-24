@@ -47,59 +47,59 @@
       "end" : 4667840
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Michael Rompa",
-      "Mario Ramos"
-    ],
-    [
-      "Afton",
-      "Julia Fölster"
-    ],
-    [
-      "Skinny Norris",
-      "Michael Harck"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Godween",
-      "André Minninger"
-    ],
-    [
-      "Chef",
-      "Eric Schäffler"
-    ],
-    [
-      "Ron",
-      "Gordon Piedesack"
-    ],
-    [
-      "Ansage",
-      "Joachim Langer"
-    ],
-    [
-      "Oma",
-      "Renate Pichler"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Michael Rompa",
+      "sprecher" : "Mario Ramos"
+    },
+    {
+      "rolle" : "Afton",
+      "sprecher" : "Julia Fölster"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Michael Harck"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Chef",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Ron",
+      "sprecher" : "Gordon Piedesack"
+    },
+    {
+      "rolle" : "Ansage",
+      "sprecher" : "Joachim Langer"
+    },
+    {
+      "rolle" : "Oma",
+      "sprecher" : "Renate Pichler"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/180/metadata.json",

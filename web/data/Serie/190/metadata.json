@@ -37,55 +37,55 @@
       "end" : 3834400
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Jeff Ranaldo",
-      "Till Huster"
-    ],
-    [
-      "Mr. McBrandon",
-      "Rainer Brandt"
-    ],
-    [
-      "Sandy",
-      "Anna Carlsson"
-    ],
-    [
-      "Roboter",
-      "Joachim Kretzer"
-    ],
-    [
-      "Computerstimme",
-      "Hansi Jochmann"
-    ],
-    [
-      "Bruce Torino",
-      "Michael Lott"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Jeff Ranaldo",
+      "sprecher" : "Till Huster"
+    },
+    {
+      "rolle" : "Mr. McBrandon",
+      "sprecher" : "Rainer Brandt"
+    },
+    {
+      "rolle" : "Sandy",
+      "sprecher" : "Anna Carlsson"
+    },
+    {
+      "rolle" : "Roboter",
+      "sprecher" : "Joachim Kretzer"
+    },
+    {
+      "rolle" : "Computerstimme",
+      "sprecher" : "Hansi Jochmann"
+    },
+    {
+      "rolle" : "Bruce Torino",
+      "sprecher" : "Michael Lott"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/190/metadata.json",

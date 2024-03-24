@@ -67,55 +67,55 @@
       "end" : 3722547
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Takasi Yukawa",
-      "Wilfried Diallaz"
-    ],
-    [
-      "Frank Hektor",
-      "Michael Lott"
-    ],
-    [
-      "Sean Doherty",
-      "Leonhard Mahlich"
-    ],
-    [
-      "Mandy",
-      "Jasmin Wagner"
-    ],
-    [
-      "Zeno Daniels",
-      "Philipp Baltus"
-    ],
-    [
-      "Percy",
-      "Jesse Grimm"
-    ],
-    [
-      "Keko",
-      "Jens Wendland"
-    ],
-    [
-      "Anthony Fender",
-      "Peter Buchholz"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Takasi Yukawa",
+      "sprecher" : "Wilfried Dziallas"
+    },
+    {
+      "rolle" : "Frank Hektor",
+      "sprecher" : "Michael Lott"
+    },
+    {
+      "rolle" : "Sean Doherty",
+      "sprecher" : "Leonhard Mahlich"
+    },
+    {
+      "rolle" : "Mandy",
+      "sprecher" : "Jasmin Wagner"
+    },
+    {
+      "rolle" : "Zeno Daniels",
+      "sprecher" : "Philipp Baltus"
+    },
+    {
+      "rolle" : "Percy",
+      "sprecher" : "Jesse Grimm"
+    },
+    {
+      "rolle" : "Keko",
+      "sprecher" : "Jens Wendland"
+    },
+    {
+      "rolle" : "Anthony Fender",
+      "sprecher" : "Peter Buchholz"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/145/metadata.json",

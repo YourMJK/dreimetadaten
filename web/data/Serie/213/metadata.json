@@ -42,75 +42,75 @@
       "end" : 4378267
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Jojo",
-      "Lovis Harloff"
-    ],
-    [
-      "Mrs Carmichael",
-      "Anne Moll"
-    ],
-    [
-      "Mr Jeremiah Carmichael",
-      "Peter Bieringer"
-    ],
-    [
-      "Gravedigger",
-      "Lutz Mackensy"
-    ],
-    [
-      "Kruger",
-      "Gordon Piedesack"
-    ],
-    [
-      "Annabelle Delaney",
-      "Sabine Kaack"
-    ],
-    [
-      "Claire Delaney",
-      "Theresa Underberg"
-    ],
-    [
-      "Ace Hall",
-      "Patrick Berg"
-    ],
-    [
-      "Vince Buchanan",
-      "Joachim Kretzer"
-    ],
-    [
-      "Neal Buchanan",
-      "Marek Harloff"
-    ],
-    [
-      "Moderator",
-      "Holger Wemhoff"
-    ],
-    [
-      "Pearson",
-      "Till Huster"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Jojo",
+      "sprecher" : "Lovis Harloff"
+    },
+    {
+      "rolle" : "Mrs. Carmichael",
+      "sprecher" : "Anne Moll"
+    },
+    {
+      "rolle" : "Mr. Jeremiah Carmichael",
+      "sprecher" : "Peter Bieringer"
+    },
+    {
+      "rolle" : "Gravedigger",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Kruger",
+      "sprecher" : "Gordon Piedesack"
+    },
+    {
+      "rolle" : "Annabelle Delaney",
+      "sprecher" : "Sabine Kaack"
+    },
+    {
+      "rolle" : "Claire Delaney",
+      "sprecher" : "Theresa Underberg"
+    },
+    {
+      "rolle" : "Ace Hall",
+      "sprecher" : "Patrick Berg"
+    },
+    {
+      "rolle" : "Vince Buchanan",
+      "sprecher" : "Joachim Kretzer"
+    },
+    {
+      "rolle" : "Neal Buchanan",
+      "sprecher" : "Marek Harloff"
+    },
+    {
+      "rolle" : "Moderator",
+      "sprecher" : "Holger Wemhoff"
+    },
+    {
+      "rolle" : "Pearson",
+      "sprecher" : "Till Huster"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/213/metadata.json",

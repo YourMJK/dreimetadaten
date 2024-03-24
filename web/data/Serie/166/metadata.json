@@ -52,43 +52,43 @@
       "end" : 4063013
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Mr. Bennet",
-      "Sven Dahlem"
-    ],
-    [
-      "Mrs. Dearing",
-      "Saskia Weckler"
-    ],
-    [
-      "Conrad Nash",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Frau",
-      "Elga Schütz"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Mr. Bennet",
+      "sprecher" : "Sven Dahlem"
+    },
+    {
+      "rolle" : "Mrs. Dearing",
+      "sprecher" : "Saskia Weckler"
+    },
+    {
+      "rolle" : "Conrad Nash",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Frau",
+      "sprecher" : "Elga Schütz"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/166/metadata.json",

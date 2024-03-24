@@ -81,131 +81,131 @@
       "end" : 4416000
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Bill Andrews",
-      "Henry König"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Miss Bennett",
-      "Renate Pilcher"
-    ],
-    [
-      "Dick Perry",
-      "Ernst H. Hilbich"
-    ],
-    [
-      "Walter Bush",
-      "Rolf E. Schenker"
-    ],
-    [
-      "Officer Flann Doyle",
-      "Douglas Welbat"
-    ],
-    [
-      "Ian Bush",
-      "Sky du Mont / Lucas Sperber"
-    ],
-    [
-      "Jimmy Sinclair",
-      "Siegfried Kernen / Nils Noller"
-    ],
-    [
-      "Charlie Parker",
-      "Jörg Gillner / Laurence Kalaidjan"
-    ],
-    [
-      "Brianna Jackson",
-      "Hansi Jochmann / Natalie Demtröder"
-    ],
-    [
-      "Chloe Smathers",
-      "Valerie Demtröder"
-    ],
-    [
-      "Joseph Quick",
-      "Harry Rowohlt"
-    ],
-    [
-      "Mr. Raynes",
-      "Olaf Kreuzenbeck"
-    ],
-    [
-      "Jeff White",
-      "Horst Naumann"
-    ],
-    [
-      "Hedy Carlson",
-      "Luise Helm"
-    ],
-    [
-      "Gil Renard",
-      "Udo Schenk"
-    ],
-    [
-      "Peter Foster",
-      "Gerrit Schmidt-Foss"
-    ],
-    [
-      "Matthew Gabbin",
-      "Jürgen Thormann"
-    ],
-    [
-      "Steve",
-      "Sascha Draeger"
-    ],
-    [
-      "Laury",
-      "Rhea Harder-Vennewald"
-    ],
-    [
-      "Georgina",
-      "Maud Ackermann"
-    ],
-    [
-      "Bedienung",
-      "Tim Wenderoth"
-    ],
-    [
-      "Gast",
-      "Andreas Otto"
-    ],
-    [
-      "Sekretärin",
-      "Corinna Wodrich"
-    ],
-    [
-      "Sebastian Dawson",
-      "Bastian Pastewka"
-    ],
-    [
-      "Radiosprecher",
-      "Tobias Meister"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Miss Bennett",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Dick Perry",
+      "sprecher" : "Ernst H. Hilbich"
+    },
+    {
+      "rolle" : "Walter Bush",
+      "sprecher" : "Rolf E. Schenker"
+    },
+    {
+      "rolle" : "Officer Flann Doyle",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Ian Bush",
+      "sprecher" : "Sky du Mont / Lukas T. Sperber"
+    },
+    {
+      "rolle" : "Jimmy Sinclair",
+      "sprecher" : "Siegfried W. Kernen / Nils Noller"
+    },
+    {
+      "rolle" : "Charlie Parker",
+      "sprecher" : "Oliver Böttcher / Laurence Kalaidjian"
+    },
+    {
+      "rolle" : "Brianna Jackson",
+      "sprecher" : "Hansi Jochmann / Natalie Demtrøder"
+    },
+    {
+      "rolle" : "Chloe Smathers",
+      "sprecher" : "Valerie Demtrøder"
+    },
+    {
+      "rolle" : "Joseph Quick",
+      "sprecher" : "Harry Rowohlt"
+    },
+    {
+      "rolle" : "Mr. Raynes",
+      "sprecher" : "Olaf Kreutzenbeck"
+    },
+    {
+      "rolle" : "Jeff White",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Hedy Carlson",
+      "sprecher" : "Luise Helm"
+    },
+    {
+      "rolle" : "Gil Renard",
+      "sprecher" : "Udo Schenk"
+    },
+    {
+      "rolle" : "Peter Foster",
+      "sprecher" : "Gerrit Schmidt-Foß"
+    },
+    {
+      "rolle" : "Matthew Gabbin",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Steve",
+      "sprecher" : "Sascha Draeger"
+    },
+    {
+      "rolle" : "Laury",
+      "sprecher" : "Rhea Harder-Vennewald"
+    },
+    {
+      "rolle" : "Georgina",
+      "sprecher" : "Maud Ackermann"
+    },
+    {
+      "rolle" : "Bedienung",
+      "sprecher" : "Tim Wenderoth"
+    },
+    {
+      "rolle" : "Gast",
+      "sprecher" : "Andreas Otto"
+    },
+    {
+      "rolle" : "Sekretärin",
+      "sprecher" : "Corinna Wodrich"
+    },
+    {
+      "rolle" : "Sebastian Dawson",
+      "sprecher" : "Bastian Pastewka"
+    },
+    {
+      "rolle" : "Radiosprecher",
+      "sprecher" : "Tobias Meister"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/metadata.json",

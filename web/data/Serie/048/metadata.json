@@ -47,55 +47,55 @@
       "end" : 2878867
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Herr Andrews",
-      "Günter König"
-    ],
-    [
-      "Daniel",
-      "Gosta Liptow"
-    ],
-    [
-      "Mary",
-      "Anja Ziemer"
-    ],
-    [
-      "Häuptling Turner",
-      "Norbert Lange"
-    ],
-    [
-      "Schamane",
-      "Douglas Welbat"
-    ],
-    [
-      "Unternehmer Mancarrow",
-      "Holger Mahlich"
-    ],
-    [
-      "Ganove Biff",
-      "Lutz Harder"
-    ],
-    [
-      "Ganove George",
-      "Manfred Liptow"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Günter König"
+    },
+    {
+      "rolle" : "Daniel",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Mary",
+      "sprecher" : "Anja Ziemer"
+    },
+    {
+      "rolle" : "Häuptling Turner",
+      "sprecher" : "Norbert Lange"
+    },
+    {
+      "rolle" : "Schamane",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Unternehmer Mancarrow",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Ganove Biff",
+      "sprecher" : "Lutz Harder"
+    },
+    {
+      "rolle" : "Ganove George",
+      "sprecher" : "Manfred Liptow"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/048/metadata.json",

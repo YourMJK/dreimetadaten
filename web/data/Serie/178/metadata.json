@@ -52,51 +52,51 @@
       "end" : 3955933
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Barbara Mathewson",
-      "Tanja Geke"
-    ],
-    [
-      "Zacharias Faring",
-      "Olaf Reichmann"
-    ],
-    [
-      "Malone",
-      "Tilo Schmitz"
-    ],
-    [
-      "Ben Crane",
-      "Christian Rudolf"
-    ],
-    [
-      "Timothy Jackson",
-      "Nicolas König"
-    ],
-    [
-      "Reginald",
-      "Tobias Schmidt"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Barbara Mathewson",
+      "sprecher" : "Tanja Geke"
+    },
+    {
+      "rolle" : "Zacharias Faring",
+      "sprecher" : "Olaf Reichmann"
+    },
+    {
+      "rolle" : "Malone",
+      "sprecher" : "Tilo Schmitz"
+    },
+    {
+      "rolle" : "Ben Crane",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Timothy Jackson",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Reginald",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/178/metadata.json",

@@ -47,63 +47,63 @@
       "end" : 2967587
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Kelly",
-      "Juliane Szalay"
-    ],
-    [
-      "Liz",
-      "Verena Großer"
-    ],
-    [
-      "Harold",
-      "Willi Röbke"
-    ],
-    [
-      "Dose",
-      "Jan-Friedrich Conrad"
-    ],
-    [
-      "Silas Ek",
-      "Hans Sievers"
-    ],
-    [
-      "Sekretär",
-      "Eckart Dux"
-    ],
-    [
-      "Jan",
-      "Stefan Brönneke"
-    ],
-    [
-      "Lys",
-      "Anika Pages"
-    ],
-    [
-      "Branson Barr",
-      "Michael Harck"
-    ],
-    [
-      "Norton Rome",
-      "Douglas Welbat"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Liz",
+      "sprecher" : "Verena Großer"
+    },
+    {
+      "rolle" : "Harold",
+      "sprecher" : "Willi Röbke"
+    },
+    {
+      "rolle" : "Dose",
+      "sprecher" : "Jan-Friedrich Conrad"
+    },
+    {
+      "rolle" : "Silas Ek",
+      "sprecher" : "Hans Sievers"
+    },
+    {
+      "rolle" : "Sekretär",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Jan",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Lys",
+      "sprecher" : "Annika Pages"
+    },
+    {
+      "rolle" : "Branson Barr",
+      "sprecher" : "Michael Harck"
+    },
+    {
+      "rolle" : "Norton Rome",
+      "sprecher" : "Douglas Welbat"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/056/metadata.json",

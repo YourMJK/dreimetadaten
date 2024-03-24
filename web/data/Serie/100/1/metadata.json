@@ -35,47 +35,47 @@
       "end" : 3204573
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Jelena",
-      "Alexandra Doerk"
-    ],
-    [
-      "Dr. Svenson",
-      "Antje Roosch"
-    ],
-    [
-      "Mr. Schwarz",
-      "Erik Schäffler"
-    ],
-    [
-      "Mr. Olin",
-      "Uli Krohm"
-    ],
-    [
-      "Juan",
-      "Oliver Böttcher"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Jelena Charkova",
+      "sprecher" : "Alexandra Doerk"
+    },
+    {
+      "rolle" : "Dr. Svenson",
+      "sprecher" : "Antje Roosch"
+    },
+    {
+      "rolle" : "Mr. Schwarz",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Mr. Olin",
+      "sprecher" : "Uli Krohm"
+    },
+    {
+      "rolle" : "Juan",
+      "sprecher" : "Oliver Böttcher"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/100/1/metadata.json",

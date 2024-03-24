@@ -87,87 +87,87 @@
       "end" : 3943307
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Laurence Seinfeld",
-      "Wolf Frass"
-    ],
-    [
-      "Denzel Hopkins",
-      "Tilo Schmitz"
-    ],
-    [
-      "Goldie Hopkins",
-      "Madeleine Weingarten"
-    ],
-    [
-      "Neil Rockwell",
-      "Wanja Mues"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mrs. Summer Hopkins",
-      "Regina Lemnitz"
-    ],
-    [
-      "Brooks, Galerist",
-      "Martin May"
-    ],
-    [
-      "Mr. Elroy Follister",
-      "Stephan Schwartz"
-    ],
-    [
-      "Martha",
-      "Hanna Reisch"
-    ],
-    [
-      "Dillon",
-      "Gregor Reisch"
-    ],
-    [
-      "Wayne",
-      "Woody Mues"
-    ],
-    [
-      "Gefängniswärter",
-      "Gosta Liptow"
-    ],
-    [
-      "Wirt",
-      "Klaus Dittmann"
-    ],
-    [
-      "Greis",
-      "Jürgen Thormann"
-    ],
-    [
-      "Beamter",
-      "Monty Arnold"
-    ],
-    [
-      "Taxifahrer",
-      "Harald Dietl"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Laurence Seinfeld",
+      "sprecher" : "Wolf Frass"
+    },
+    {
+      "rolle" : "Denzel Hopkins",
+      "sprecher" : "Tilo Schmitz"
+    },
+    {
+      "rolle" : "Goldie Hopkins",
+      "sprecher" : "Madeleine Weingart"
+    },
+    {
+      "rolle" : "Neil Rockwell",
+      "sprecher" : "Wanja Mues"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mrs. Summer Hopkins",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Brooks, Galerist",
+      "sprecher" : "Martin May"
+    },
+    {
+      "rolle" : "Mr. Elroy Follister",
+      "sprecher" : "Stephan Schwartz"
+    },
+    {
+      "rolle" : "Martha",
+      "sprecher" : "Hanna Reisch"
+    },
+    {
+      "rolle" : "Dillon",
+      "sprecher" : "Gregor Reisch"
+    },
+    {
+      "rolle" : "Wayne",
+      "sprecher" : "Woody Mues"
+    },
+    {
+      "rolle" : "Gefängniswärter",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Wirt",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Greis",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Beamter",
+      "sprecher" : "Monty Arnold"
+    },
+    {
+      "rolle" : "Taxifahrer",
+      "sprecher" : "Harald Dietl"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/151/metadata.json",

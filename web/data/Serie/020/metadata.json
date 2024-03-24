@@ -47,63 +47,63 @@
       "end" : 2816907
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Hauptkommissar Reynolds",
-      "Horst Frank"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Mihai Eftimin",
-      "Volker Brandt"
-    ],
-    [
-      "Dr. Radulescu",
-      "Günter Flesh"
-    ],
-    [
-      "Potter",
-      "Karl-Heinz Gerdesmann"
-    ],
-    [
-      "Mrs. Dobson",
-      "Marianne Kehlau"
-    ],
-    [
-      "Tom Dobson",
-      "Alexander Körting"
-    ],
-    [
-      "Farrier",
-      "Gottfried Kramer"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Polizist",
-      "Hans Irle"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Horst Frank"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Mihai Eftimin",
+      "sprecher" : "Volker Brandt"
+    },
+    {
+      "rolle" : "Dr. Radulescu",
+      "sprecher" : "Günther Flesch"
+    },
+    {
+      "rolle" : "Potter",
+      "sprecher" : "Karl-Heinz Gerdesmann"
+    },
+    {
+      "rolle" : "Mrs. Dobson",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "Tom Dobson",
+      "sprecher" : "Alexander Körting"
+    },
+    {
+      "rolle" : "Farrier",
+      "sprecher" : "Gottfried Kramer"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Hans Irle"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/020/metadata.json",

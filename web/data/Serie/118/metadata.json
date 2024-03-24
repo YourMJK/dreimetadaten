@@ -72,67 +72,67 @@
       "end" : 3996413
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Ralph",
-      "Jan-David Rönnfeldt"
-    ],
-    [
-      "Robbie",
-      "Manfred Reddemann"
-    ],
-    [
-      "Jack",
-      "Daniel Brühl"
-    ],
-    [
-      "Dennis",
-      "Stefan Brönneke"
-    ],
-    [
-      "Gina",
-      "Chiara Ferraú"
-    ],
-    [
-      "Charly",
-      "Aaron Lee Ullmer"
-    ],
-    [
-      "Sheriff",
-      "Harry Rowohlt"
-    ],
-    [
-      "Turnbull",
-      "Detlef Bierstedt"
-    ],
-    [
-      "Jenny Collins",
-      "Anja Topf"
-    ],
-    [
-      "Dizzy",
-      "Marion Klaus"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Ralph",
+      "sprecher" : "Jan-David Rönfeldt"
+    },
+    {
+      "rolle" : "Robbie",
+      "sprecher" : "Manfred Reddemann"
+    },
+    {
+      "rolle" : "Jack",
+      "sprecher" : "Daniel Brühl"
+    },
+    {
+      "rolle" : "Dennis",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Gina",
+      "sprecher" : "Chiara Ferraú"
+    },
+    {
+      "rolle" : "Charly",
+      "sprecher" : "Aaron Lee Ullmer"
+    },
+    {
+      "rolle" : "Sheriff",
+      "sprecher" : "Harry Rowohlt"
+    },
+    {
+      "rolle" : "Turnbull",
+      "sprecher" : "Detlef Bierstedt"
+    },
+    {
+      "rolle" : "Jenny Collins",
+      "sprecher" : "Anja Topf"
+    },
+    {
+      "rolle" : "Dizzy",
+      "sprecher" : "Marion Klaus"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/118/metadata.json",

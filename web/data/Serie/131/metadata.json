@@ -52,59 +52,59 @@
       "end" : 4242960
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Lloyd Scavenger",
-      "Stefan Benson"
-    ],
-    [
-      "Jack Lowell",
-      "Siegfried Kernen"
-    ],
-    [
-      "Alexander Nolan",
-      "Wilfried Hochholdinger"
-    ],
-    [
-      "Jaqueline Williams",
-      "Henrike Fehrs"
-    ],
-    [
-      "Ian Parsley",
-      "Jörg Gillner"
-    ],
-    [
-      "Mary Parsley",
-      "Karin Abicht"
-    ],
-    [
-      "Jasper Kittle",
-      "Peter Weis"
-    ],
-    [
-      "Shawne Davison",
-      "Susanne Lothar"
-    ],
-    [
-      "Officer Wood",
-      "Roman Kretschmer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Lloyd Scavenger",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Jack Lowell",
+      "sprecher" : "Siegfried W. Kernen"
+    },
+    {
+      "rolle" : "Alexander Nolan",
+      "sprecher" : "Wilfried Hochholdinger"
+    },
+    {
+      "rolle" : "Jaqueline Williams",
+      "sprecher" : "Henrike Fehrs"
+    },
+    {
+      "rolle" : "Ian Parsley",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Mary Parsley",
+      "sprecher" : "Carin Abicht"
+    },
+    {
+      "rolle" : "Jasper Kittle",
+      "sprecher" : "Peter Weis"
+    },
+    {
+      "rolle" : "Shawne Davison",
+      "sprecher" : "Susanne Lothar"
+    },
+    {
+      "rolle" : "Officer Wood",
+      "sprecher" : "Roman Kretschmer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/131/metadata.json",

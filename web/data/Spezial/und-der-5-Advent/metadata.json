@@ -275,67 +275,67 @@
       "end" : 10281307
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mrs. Lydia Candle",
-      "Monika John"
-    ],
-    [
-      "Jeremias Howard",
-      "Gosta Liptow"
-    ],
-    [
-      "Empfangsdame",
-      "Katja Brügger"
-    ],
-    [
-      "Radiosprecherin",
-      "Simona Pahl"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Patricia Handerson",
-      "Janina Richter"
-    ],
-    [
-      "Polizistin",
-      "Carolin Fortenbacher"
-    ],
-    [
-      "Schausteller",
-      "Eckart Dux"
-    ],
-    [
-      "Edward Candle",
-      "Robin Brosch"
-    ],
-    [
-      "Blacky",
-      "Heikedine Körting"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mrs. Lydia Candle",
+      "sprecher" : "Monika John"
+    },
+    {
+      "rolle" : "Jeremias Howard",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Empfangsdame",
+      "sprecher" : "Katja Brügger"
+    },
+    {
+      "rolle" : "Radiosprecherin",
+      "sprecher" : "Simona Pahl"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Patricia Handerson",
+      "sprecher" : "Janina Richter"
+    },
+    {
+      "rolle" : "Polizistin",
+      "sprecher" : "Carolin Fortenbacher"
+    },
+    {
+      "rolle" : "Schausteller",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Edward Candle",
+      "sprecher" : "Robin Brosch"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/metadata.json",

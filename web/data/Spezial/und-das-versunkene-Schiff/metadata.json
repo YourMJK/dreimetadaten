@@ -186,71 +186,71 @@
       "end" : 6126040
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Amanda Ellis",
-      "Simona Pahl"
-    ],
-    [
-      "Jo",
-      "Birte Kretschmer"
-    ],
-    [
-      "Steve Young",
-      "Till Huster"
-    ],
-    [
-      "Ford Follows",
-      "Stephan Benson"
-    ],
-    [
-      "Eric Ellis",
-      "Horst Stark"
-    ],
-    [
-      "Ricardo Yarbrough",
-      "Stefan Brönneke"
-    ],
-    [
-      "Bibliothekarin",
-      "Rosemarie Wohlbauer"
-    ],
-    [
-      "Mr. Friedman",
-      "Douglas Welbat"
-    ],
-    [
-      "Mann in der Bibliothek",
-      "Erik Schäffler"
-    ],
-    [
-      "Sekretärin",
-      "Christiane Leuchtmann"
-    ],
-    [
-      "Jackson Cooper",
-      "Oliver Bröttcher"
-    ],
-    [
-      "Mr. Miller",
-      "Pierre Brand"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Amanda Ellis",
+      "sprecher" : "Simona Pahl"
+    },
+    {
+      "rolle" : "Jo",
+      "sprecher" : "Birte Kretschmer"
+    },
+    {
+      "rolle" : "Steve Young",
+      "sprecher" : "Till Huster"
+    },
+    {
+      "rolle" : "Ford Follows",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Eric Ellis",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Ricardo Yarbrough",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Bibliothekarin",
+      "sprecher" : "Rosemarie Wohlbauer"
+    },
+    {
+      "rolle" : "Mr. Friedman",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Mann in der Bibliothek",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Sekretärin",
+      "sprecher" : "Christiane Leuchtmann"
+    },
+    {
+      "rolle" : "Jackson Cooper",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Mr. Miller",
+      "sprecher" : "Pierre Brand"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/metadata.json",

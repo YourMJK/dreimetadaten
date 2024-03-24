@@ -47,71 +47,75 @@
       "end" : 2736347
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Felix",
-      "Karl-Ulrich Meves"
-    ],
-    [
-      "Mrs. Smith",
-      "Maria Benders"
-    ],
-    [
-      "Harry",
-      "Marco Beddis"
-    ],
-    [
-      "Mrs. King",
-      "Helga Bammert"
-    ],
-    [
-      "Julie Taylor",
-      "Renate Pichler"
-    ],
-    [
-      "Martha Harris",
-      "Marga Maasberg"
-    ],
-    [
-      "Carlos",
-      "Hans-Werner Kuhn [Günter Heising]"
-    ],
-    [
-      "Gerald Cramer",
-      "Volker Brandt"
-    ],
-    [
-      "Gerald Watson",
-      "Werner van Thiel [Werner Cartano]"
-    ],
-    [
-      "Hugenay",
-      "Albert Giro [Wolfgang Kubach]"
-    ],
-    [
-      "Hauptkommissar Reynolds",
-      "Horst Frank"
-    ],
-    [
-      "Mr Jankins",
-      "Lothar Zibell"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Felix",
+      "sprecher" : "Karl-Ulrich Meves"
+    },
+    {
+      "rolle" : "Mrs. Smith",
+      "sprecher" : "Brigitte Alexis",
+      "pseudonym" : "Maria Benders"
+    },
+    {
+      "rolle" : "Harry",
+      "sprecher" : "Marco Beddies"
+    },
+    {
+      "rolle" : "Mrs. King",
+      "sprecher" : "Helga Bammert"
+    },
+    {
+      "rolle" : "Julie Taylor",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Martha Harris",
+      "sprecher" : "Eva Gelb"
+    },
+    {
+      "rolle" : "Carlos",
+      "sprecher" : "Günther Heising",
+      "pseudonym" : "Hans-Werner Kuhn"
+    },
+    {
+      "rolle" : "Gerald Cramer",
+      "sprecher" : "Volker Brandt"
+    },
+    {
+      "rolle" : "Gerald Watson",
+      "sprecher" : "Werner Cartano",
+      "pseudonym" : "Werner van Thiel"
+    },
+    {
+      "rolle" : "Hugenay",
+      "sprecher" : "Wolfgang Kubach",
+      "pseudonym" : "Albert Giro"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Horst Frank"
+    },
+    {
+      "rolle" : "Mr. Jankins",
+      "sprecher" : "Lothar Zibell"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/012/metadata.json",

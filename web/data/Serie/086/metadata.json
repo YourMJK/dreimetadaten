@@ -37,51 +37,51 @@
       "end" : 3457213
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Mr. Peacock, Museumsdirektor",
-      "Helmut Ahner"
-    ],
-    [
-      "Alpha",
-      "Achim Schülke"
-    ],
-    [
-      "Beth",
-      "Katja Brügger"
-    ],
-    [
-      "Ernie",
-      "Wolfgang Hartmann"
-    ],
-    [
-      "Dog",
-      "Niko Minninger"
-    ],
-    [
-      "Ceewee",
-      "Michael Quiatkowski"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Mr. Peacock, Museumsdirektor",
+      "sprecher" : "Helmut Ahner"
+    },
+    {
+      "rolle" : "Alpha",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Beth",
+      "sprecher" : "Katja Brügger"
+    },
+    {
+      "rolle" : "Ernie",
+      "sprecher" : "Wolfgang Hartmann"
+    },
+    {
+      "rolle" : "Dog",
+      "sprecher" : "Niko Minninger"
+    },
+    {
+      "rolle" : "Ceewee",
+      "sprecher" : "Michael Quiatkowsky"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/086/metadata.json",

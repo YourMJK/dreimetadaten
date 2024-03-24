@@ -47,55 +47,55 @@
       "end" : 4313453
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Giorgio Cade",
-      "Bastian Pastewka"
-    ],
-    [
-      "Monique Carrera",
-      "Amanda Lear"
-    ],
-    [
-      "Mrs. Jones",
-      "Marianne Kehlau"
-    ],
-    [
-      "Jenny Collins",
-      "Anja Topf"
-    ],
-    [
-      "Jeremy Scott",
-      "Woody Mues"
-    ],
-    [
-      "Mrs. Scott",
-      "Hansi Jochmann"
-    ],
-    [
-      "Oma Scott",
-      "Apollonia Minniger"
-    ],
-    [
-      "Acer",
-      "Thomas Schüler"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Giorgio Cade",
+      "sprecher" : "Bastian Pastewka"
+    },
+    {
+      "rolle" : "Monique Carrera",
+      "sprecher" : "Amanda Lear"
+    },
+    {
+      "rolle" : "Mrs. Jones",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "Jenny Collins",
+      "sprecher" : "Anja Topf"
+    },
+    {
+      "rolle" : "Jeremy Scott",
+      "sprecher" : "Woody Mues"
+    },
+    {
+      "rolle" : "Mrs. Scott",
+      "sprecher" : "Hansi Jochmann"
+    },
+    {
+      "rolle" : "Oma Scott",
+      "sprecher" : "Apollonia Jepsen"
+    },
+    {
+      "rolle" : "Acer",
+      "sprecher" : "Thomas Schüler"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/101/metadata.json",

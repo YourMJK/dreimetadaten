@@ -450,13 +450,13 @@ class MetadataCollector {
 			throw CSVParseError.invalidCSVComponentFormat(component: 4, info: "invalid date format \"\(datumDMY)\"")
 		}
 		let veröffentlichungsdatum = datumDMY.reversed().joined(separator: "-")
-		let sprecher: [[String]] = try convertString(component: 5).components(separatedBy: "\n").map { (sprecherRolleString) in
+		let sprechrollen: [Sprechrolle] = try convertString(component: 5).components(separatedBy: "\n").map { (sprecherRolleString) in
 			let seperator = sprecherRolleString.contains(" - ") ? " - " : ": "
-			let sprecherRolleComponents = sprecherRolleString.components(separatedBy: seperator)
+			let sprecherRolleComponents = sprecherRolleString.components(separatedBy: seperator).map { $0.trimmingCharacters(in: .whitespaces)  }
 			guard sprecherRolleComponents.count == 2 else {
 				throw CSVParseError.invalidCSVComponentFormat(component: 5, info: "\"\(sprecherRolleComponents)\"")
 			}
-			return sprecherRolleComponents.map { $0.trimmingCharacters(in: .whitespaces)  }
+			return Sprechrolle(rolle: sprecherRolleComponents[0], sprecher: sprecherRolleComponents[1])
 		}
 		
 		
@@ -476,7 +476,7 @@ class MetadataCollector {
 		update(&folge.titel, to: folgenTitel, description: "titel")
 		update(&folge.beschreibung, to: beschreibung, description: "beschreibung")
 		update(&folge.veröffentlichungsdatum, to: veröffentlichungsdatum, description: "veröffentlichungsdatum")
-		update(&folge.sprecher, to: sprecher, description: "sprecher")
+		update(&folge.sprechrollen, to: sprechrollen, description: "sprechrollen")
 	}
 	
 	

@@ -20,59 +20,59 @@
       "end" : 1767387
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Kelly Madigan",
-      "Juliane Szalay"
-    ],
-    [
-      "Mrs. McGee",
-      "Alice Krimmel"
-    ],
-    [
-      "Toby",
-      "A. Stengelin"
-    ],
-    [
-      "Mrs. Wells",
-      "Heidi Schaffrath"
-    ],
-    [
-      "Junge",
-      "Linus Tauber"
-    ],
-    [
-      "Mädchen",
-      "Katinka Jaekel"
-    ],
-    [
-      "Ericsson",
-      "Detlev Tams"
-    ],
-    [
-      "Sprecher/Moderator",
-      "Oliver Böttcher"
-    ],
-    [
-      "Tarek Shabana",
-      "Werner Wilkening"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kelly Madigan",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Mrs. McGee",
+      "sprecher" : "Alice Krimmel"
+    },
+    {
+      "rolle" : "Toby",
+      "sprecher" : "A. Stengelin"
+    },
+    {
+      "rolle" : "Mrs. Wells",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Junge",
+      "sprecher" : "Linus Tauber"
+    },
+    {
+      "rolle" : "Mädchen",
+      "sprecher" : "Katinka Jaekel"
+    },
+    {
+      "rolle" : "Ericsson",
+      "sprecher" : "Detlef Tams"
+    },
+    {
+      "rolle" : "Sprecher/Moderator",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Tarek Shabana",
+      "sprecher" : "Werner Wilkening"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/4/metadata.json",

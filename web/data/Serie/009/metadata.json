@@ -47,63 +47,66 @@
       "end" : 2832680
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Professor Carswell",
-      "Theodor Anzinger"
-    ],
-    [
-      "Hal Carswell",
-      "Oliver Mink"
-    ],
-    [
-      "Gräfin",
-      "Henriette Bischoff [Gisela Trowe]"
-    ],
-    [
-      "Armand Marechal",
-      "Joachim Wolff"
-    ],
-    [
-      "De Groot",
-      "René Genesis"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Maxwell James",
-      "Werner Cartano"
-    ],
-    [
-      "Hauptkommissar Reynolds",
-      "Horst Frank"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Professor Carswell",
+      "sprecher" : "Volker Bogdan",
+      "pseudonym" : "Theodor Anzinger"
+    },
+    {
+      "rolle" : "Hal Carswell",
+      "sprecher" : "Oliver Mink"
+    },
+    {
+      "rolle" : "Gräfin",
+      "sprecher" : "Gisela Trowe",
+      "pseudonym" : "Henriette Bischoff"
+    },
+    {
+      "rolle" : "Armand Marechal",
+      "sprecher" : "Joachim Wolff"
+    },
+    {
+      "rolle" : "De Groot",
+      "sprecher" : "René Genesis"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Maxwell James",
+      "sprecher" : "Werner Cartano"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Horst Frank"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/009/metadata.json",

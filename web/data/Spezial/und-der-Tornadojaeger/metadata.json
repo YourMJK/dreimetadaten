@@ -66,71 +66,71 @@
       "end" : 4300133
     }
   ],
-  "sprecher" : [
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Dylan Harvey",
-      "Stephan Schad"
-    ],
-    [
-      "Mrs. Violet Conroy",
-      "Birte Kretschmer"
-    ],
-    [
-      "Mr. Alex Scott",
-      "Oliver Böttche"
-    ],
-    [
-      "Myriel",
-      "Undine Ullmer"
-    ],
-    [
-      "Zimmermädchen",
-      "Theresa Underberg"
-    ],
-    [
-      "Zimmerjunge",
-      "Jannik Endemann"
-    ],
-    [
-      "Mutter im Stadtpark",
-      "Saskia Weckler"
-    ],
-    [
-      "Klein Peter",
-      "Malon Stahlhut"
-    ],
-    [
-      "Kellnerin im Hotel",
-      "Alexandra Garcia"
-    ],
-    [
-      "Handwerker im Hotel 1",
-      "André Gatzke"
-    ],
-    [
-      "Handwerker im Hotel 2",
-      "Bent Schönemann"
-    ],
-    [
-      "Internetcafébesitzer",
-      "Tim Kreuer"
-    ],
-    [
-      "Vortragsbesucher, Parkbesucher, Frühstücksgäste, Nachbarn",
-      "Susan Jarling, Hilla Fitzen, Nina Minninger, Marine Endemann, Zelda Jahreis, Maud Ackermann, Heikedine Körting, Stephanie Kirchberger, Ingeborg Christiansen, Michaela Kreissler, Theresa Underberg, Kerstin Draeger, Lennart Krüger, Kjell Wenzel, Norma Draeger, Florian Herkenrath, Jannik Endemann, Dirk Eichhorn, Stephan Benson"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Dylan Harvey",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Mrs. Violet Conroy",
+      "sprecher" : "Birte Kretschmer"
+    },
+    {
+      "rolle" : "Mr. Alex Scott",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Myriel",
+      "sprecher" : "Undine Ullmer"
+    },
+    {
+      "rolle" : "Zimmermädchen",
+      "sprecher" : "Theresa Underberg"
+    },
+    {
+      "rolle" : "Zimmerjunge",
+      "sprecher" : "Jannik Endemann"
+    },
+    {
+      "rolle" : "Mutter im Stadtpark",
+      "sprecher" : "Saskia Weckler"
+    },
+    {
+      "rolle" : "Klein Peter",
+      "sprecher" : "Malon Stahlhuth"
+    },
+    {
+      "rolle" : "Kellnerin im Hotel",
+      "sprecher" : "Alexandra Garcia"
+    },
+    {
+      "rolle" : "Handwerker im Hotel 1",
+      "sprecher" : "André Gatzke"
+    },
+    {
+      "rolle" : "Handwerker im Hotel 2",
+      "sprecher" : "Bent Schönemann"
+    },
+    {
+      "rolle" : "Internetcafébesitzer",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Vortragsbesucher, Parkbesucher, Frühstücksgäste, Nachbarn",
+      "sprecher" : "Susan Jarling, Hilla Fitzen, Nina Minninger, Marine Endemann, Zelda Jahreis, Maud Ackermann, Heikedine Körting, Stephanie Damare, Ingeborg Christiansen, Micaëla Kreißler, Theresa Underberg, Kerstin Draeger, Lennardt Krüger, Kjell Wenzel, Norma Draeger, Florian Herkenrath, Jannik Endemann, Dirk Eichhorn, Stephan Benson"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/metadata.json",

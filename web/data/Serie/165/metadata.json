@@ -62,67 +62,67 @@
       "end" : 4217360
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Andrews",
-      "Henry König"
-    ],
-    [
-      "Randy",
-      "Marek Harloff"
-    ],
-    [
-      "Jeanne",
-      "Katja Brügger"
-    ],
-    [
-      "Ginette",
-      "Birte Kretschmer"
-    ],
-    [
-      "Tara",
-      "Angela Roy"
-    ],
-    [
-      "Steven",
-      "Robert Steudtner"
-    ],
-    [
-      "Ranger Thornton",
-      "Detlef Bierstedt"
-    ],
-    [
-      "Mr. Louis",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Busfahrer",
-      "Volker Bogdan"
-    ],
-    [
-      "Lindsey",
-      "Susan Jarling"
-    ],
-    [
-      "Reporter",
-      "Daniel Welbat"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Randy",
+      "sprecher" : "Marek Harloff"
+    },
+    {
+      "rolle" : "Jeanne",
+      "sprecher" : "Katja Brügger"
+    },
+    {
+      "rolle" : "Ginette",
+      "sprecher" : "Birte Kretschmer"
+    },
+    {
+      "rolle" : "Tara",
+      "sprecher" : "Angela Roy"
+    },
+    {
+      "rolle" : "Steven",
+      "sprecher" : "Robert Steudtner"
+    },
+    {
+      "rolle" : "Ranger Thornton",
+      "sprecher" : "Detlef Bierstedt"
+    },
+    {
+      "rolle" : "Mr. Louis",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Busfahrer",
+      "sprecher" : "Volker Bogdan"
+    },
+    {
+      "rolle" : "Lindsey",
+      "sprecher" : "Susan Jarling"
+    },
+    {
+      "rolle" : "Reporter",
+      "sprecher" : "Daniel Welbat"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/165/metadata.json",

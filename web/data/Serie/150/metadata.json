@@ -78,79 +78,79 @@
           "end" : 4055093
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Frank Mason",
-          "Wolfgang Condrus"
-        ],
-        [
-          "Miles Dempster",
-          "Stephan Benson"
-        ],
-        [
-          "Mr. Sapchevsky",
-          "Andreas Schmidt-Schaller"
-        ],
-        [
-          "Gerry",
-          "Kostja Ullmann"
-        ],
-        [
-          "Ismael",
-          "Stephan Schad"
-        ],
-        [
-          "Carla Fenton",
-          "Natalie O'Hara"
-        ],
-        [
-          "Mrs. Maruthers",
-          "Ulrike Johannson"
-        ],
-        [
-          "Inspektor Havilland",
-          "Oliver Kalkofe"
-        ],
-        [
-          "Taylor",
-          "Bernhard Hoecker"
-        ],
-        [
-          "Inspektor Cotta",
-          "Holger Mahlich"
-        ],
-        [
-          "Angelica",
-          "Anna Thalbach"
-        ],
-        [
-          "Schwester 1",
-          "Manuela Becker"
-        ],
-        [
-          "Schwester 2",
-          "Traudel Sperber"
-        ],
-        [
-          "Pfleger",
-          "Sven Dahlem"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Frank Mason",
+          "sprecher" : "Wolfgang Condrus"
+        },
+        {
+          "rolle" : "Miles Dempster",
+          "sprecher" : "Stephan Benson"
+        },
+        {
+          "rolle" : "Mr. Sapchevsky",
+          "sprecher" : "Andreas Schmidt-Schaller"
+        },
+        {
+          "rolle" : "Gerry",
+          "sprecher" : "Kostja Ullmann"
+        },
+        {
+          "rolle" : "Ismael",
+          "sprecher" : "Stephan Schad"
+        },
+        {
+          "rolle" : "Carla Fenton",
+          "sprecher" : "Natalie O'Hara"
+        },
+        {
+          "rolle" : "Mrs. Maruthers",
+          "sprecher" : "Ulrike Johannson"
+        },
+        {
+          "rolle" : "Inspektor Havilland",
+          "sprecher" : "Oliver Kalkofe"
+        },
+        {
+          "rolle" : "Taylor",
+          "sprecher" : "Bernhard Hoëcker"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Angelica",
+          "sprecher" : "Anna Thalbach"
+        },
+        {
+          "rolle" : "Schwester 1",
+          "sprecher" : "Manuela Becker"
+        },
+        {
+          "rolle" : "Schwester 2",
+          "sprecher" : "Traudel Sperber"
+        },
+        {
+          "rolle" : "Pfleger",
+          "sprecher" : "Sven Dahlem"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/150/1/metadata.json",
@@ -245,83 +245,83 @@
           "end" : 4100240
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Morton",
-          "Andreas von der Meden"
-        ],
-        [
-          "Taylor",
-          "Bernhard Hoecker"
-        ],
-        [
-          "Mr. Smith",
-          "Tim Grobe"
-        ],
-        [
-          "Curtis Fisher",
-          "Tobias Schmidt"
-        ],
-        [
-          "Amrita Chakyar",
-          "Angela Stresemann"
-        ],
-        [
-          "Inspektor Havilland",
-          "Oliver Kalkofe"
-        ],
-        [
-          "Ismael",
-          "Stephan Schad"
-        ],
-        [
-          "Angelica",
-          "Anna Thalbach"
-        ],
-        [
-          "Sergeant Madhu",
-          "Olli Dittrich"
-        ],
-        [
-          "Mr. Andrews",
-          "Henry König"
-        ],
-        [
-          "Mrs. Andrews",
-          "Konstanze Ullmer"
-        ],
-        [
-          "Frank Mason",
-          "Wolfgang Condrus"
-        ],
-        [
-          "Mr. Raffer",
-          "Harald Dietl"
-        ],
-        [
-          "Feuerwehrmann",
-          "Kai-Hendrik Möller"
-        ],
-        [
-          "Kapitän",
-          "Sky du Mont"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Morton",
+          "sprecher" : "Andreas von der Meden"
+        },
+        {
+          "rolle" : "Taylor",
+          "sprecher" : "Bernhard Hoëcker"
+        },
+        {
+          "rolle" : "Mr. Smith",
+          "sprecher" : "Tim Grobe"
+        },
+        {
+          "rolle" : "Curtis Fisher",
+          "sprecher" : "Tobias Schmidt"
+        },
+        {
+          "rolle" : "Amrita Chakyar",
+          "sprecher" : "Angela Stresemann"
+        },
+        {
+          "rolle" : "Inspektor Havilland",
+          "sprecher" : "Oliver Kalkofe"
+        },
+        {
+          "rolle" : "Ismael",
+          "sprecher" : "Stephan Schad"
+        },
+        {
+          "rolle" : "Angelica",
+          "sprecher" : "Anna Thalbach"
+        },
+        {
+          "rolle" : "Sergeant Madhu",
+          "sprecher" : "Olli Dittrich"
+        },
+        {
+          "rolle" : "Mr. Andrews",
+          "sprecher" : "Henry König"
+        },
+        {
+          "rolle" : "Mrs. Andrews",
+          "sprecher" : "Konstanze Ullmer"
+        },
+        {
+          "rolle" : "Frank Mason",
+          "sprecher" : "Wolfgang Condrus"
+        },
+        {
+          "rolle" : "Mr. Raffer",
+          "sprecher" : "Harald Dietl"
+        },
+        {
+          "rolle" : "Feuerwehrmann",
+          "sprecher" : "Kai Henrik Möller"
+        },
+        {
+          "rolle" : "Kapitän",
+          "sprecher" : "Sky du Mont"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/150/2/metadata.json",
@@ -391,83 +391,83 @@
           "end" : 3763400
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Morton",
-          "Andreas von der Meden"
-        ],
-        [
-          "Frank Mason",
-          "Wolfgang Condrus"
-        ],
-        [
-          "Taylor",
-          "Bernhard Hoecker"
-        ],
-        [
-          "Curtis Fisher",
-          "Tobias Schmidt"
-        ],
-        [
-          "John Fisher",
-          "Dirk Bach"
-        ],
-        [
-          "Gerry",
-          "Kostja Ullmann"
-        ],
-        [
-          "Ismael",
-          "Stephan Schad"
-        ],
-        [
-          "Mr. Smith",
-          "Tim Grobe"
-        ],
-        [
-          "Mrs. Maruthers",
-          "Ulrike Johannson"
-        ],
-        [
-          "Angelica",
-          "Anna Thalbach"
-        ],
-        [
-          "Sergeant Madhu",
-          "Olli Dittrich"
-        ],
-        [
-          "Mr. Castro",
-          "Jörg Gillner"
-        ],
-        [
-          "Sanitäter",
-          "Robert Kottula"
-        ],
-        [
-          "Anudhara",
-          "Rosakutty Hemsing"
-        ],
-        [
-          "Ruth",
-          "Gabriele Libbach"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Morton",
+          "sprecher" : "Andreas von der Meden"
+        },
+        {
+          "rolle" : "Frank Mason",
+          "sprecher" : "Wolfgang Condrus"
+        },
+        {
+          "rolle" : "Taylor",
+          "sprecher" : "Bernhard Hoëcker"
+        },
+        {
+          "rolle" : "Curtis Fisher",
+          "sprecher" : "Tobias Schmidt"
+        },
+        {
+          "rolle" : "John Fisher",
+          "sprecher" : "Dirk Bach"
+        },
+        {
+          "rolle" : "Gerry",
+          "sprecher" : "Kostja Ullmann"
+        },
+        {
+          "rolle" : "Ismael",
+          "sprecher" : "Stephan Schad"
+        },
+        {
+          "rolle" : "Mr. Smith",
+          "sprecher" : "Tim Grobe"
+        },
+        {
+          "rolle" : "Mrs. Maruthers",
+          "sprecher" : "Ulrike Johannson"
+        },
+        {
+          "rolle" : "Angelica",
+          "sprecher" : "Anna Thalbach"
+        },
+        {
+          "rolle" : "Sergeant Madhu",
+          "sprecher" : "Olli Dittrich"
+        },
+        {
+          "rolle" : "Mr. Castro",
+          "sprecher" : "Jörg Gillner"
+        },
+        {
+          "rolle" : "Sanitäter",
+          "sprecher" : "Robert Kotulla"
+        },
+        {
+          "rolle" : "Anudhara",
+          "sprecher" : "Rosakutty Hemsing"
+        },
+        {
+          "rolle" : "Ruth",
+          "sprecher" : "Gabriele Libbach"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/150/3/metadata.json",
@@ -481,139 +481,139 @@
   "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Die drei ??? übernehmen und lösen (hoffentlich!) ihren 150sten Fall! In drei atemberaubenden Folgen sind sie dem Rätsel der Geisterbucht auf der Spur! Welches Geheimnis verbirgt sich hinter dem Testament, dass der exzentrische Harry Shreber kurz vor seinem Tod verfasst hat? Führen die verschlüsselten Verse tatsächlich zu Rashuras Schatz? (Teil A) Den drei Detektiven wird nichts anderes übrig bleiben: Sie müssen in Flammendes Wasser (Teil B) hinab tauchen, denn nur in der Tiefe des Meeres kann geklärt werden, warum Der brennende Kristall (Teil C) so viel Unglück über eine große Anzahl Menschen bringen konnte …",
   "veröffentlichungsdatum" : "2011-11-11",
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Frank Mason",
-      "Wolfgang Condrus"
-    ],
-    [
-      "Miles Dempster",
-      "Stephan Benson"
-    ],
-    [
-      "Mr. Sapchevsky",
-      "Andreas Schmidt-Schaller"
-    ],
-    [
-      "Gerry",
-      "Kostja Ullmann"
-    ],
-    [
-      "Ismael",
-      "Stephan Schad"
-    ],
-    [
-      "Carla Fenton",
-      "Natalie O'Hara"
-    ],
-    [
-      "Mrs. Maruthers",
-      "Ulrike Johannson"
-    ],
-    [
-      "Inspektor Havilland",
-      "Oliver Kalkofe"
-    ],
-    [
-      "Taylor",
-      "Bernhard Hoecker"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Angelica",
-      "Anna Thalbach"
-    ],
-    [
-      "Schwester 1",
-      "Manuela Becker"
-    ],
-    [
-      "Schwester 2",
-      "Traudel Sperber"
-    ],
-    [
-      "Pfleger",
-      "Sven Dahlem"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Mr. Smith",
-      "Tim Grobe"
-    ],
-    [
-      "Curtis Fisher",
-      "Tobias Schmidt"
-    ],
-    [
-      "Amrita Chakyar",
-      "Angela Stresemann"
-    ],
-    [
-      "Sergeant Madhu",
-      "Olli Dittrich"
-    ],
-    [
-      "Mr. Andrews",
-      "Henry König"
-    ],
-    [
-      "Mrs. Andrews",
-      "Konstanze Ullmer"
-    ],
-    [
-      "Mr. Raffer",
-      "Harald Dietl"
-    ],
-    [
-      "Feuerwehrmann",
-      "Kai-Hendrik Möller"
-    ],
-    [
-      "Kapitän",
-      "Sky du Mont"
-    ],
-    [
-      "John Fisher",
-      "Dirk Bach"
-    ],
-    [
-      "Mr. Castro",
-      "Jörg Gillner"
-    ],
-    [
-      "Sanitäter",
-      "Robert Kottula"
-    ],
-    [
-      "Anudhara",
-      "Rosakutty Hemsing"
-    ],
-    [
-      "Ruth",
-      "Gabriele Libbach"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Frank Mason",
+      "sprecher" : "Wolfgang Condrus"
+    },
+    {
+      "rolle" : "Miles Dempster",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Mr. Sapchevsky",
+      "sprecher" : "Andreas Schmidt-Schaller"
+    },
+    {
+      "rolle" : "Gerry",
+      "sprecher" : "Kostja Ullmann"
+    },
+    {
+      "rolle" : "Ismael",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Carla Fenton",
+      "sprecher" : "Natalie O'Hara"
+    },
+    {
+      "rolle" : "Mrs. Maruthers",
+      "sprecher" : "Ulrike Johannson"
+    },
+    {
+      "rolle" : "Inspektor Havilland",
+      "sprecher" : "Oliver Kalkofe"
+    },
+    {
+      "rolle" : "Taylor",
+      "sprecher" : "Bernhard Hoëcker"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Angelica",
+      "sprecher" : "Anna Thalbach"
+    },
+    {
+      "rolle" : "Schwester 1",
+      "sprecher" : "Manuela Becker"
+    },
+    {
+      "rolle" : "Schwester 2",
+      "sprecher" : "Traudel Sperber"
+    },
+    {
+      "rolle" : "Pfleger",
+      "sprecher" : "Sven Dahlem"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Mr. Smith",
+      "sprecher" : "Tim Grobe"
+    },
+    {
+      "rolle" : "Curtis Fisher",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Amrita Chakyar",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Sergeant Madhu",
+      "sprecher" : "Olli Dittrich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Mrs. Andrews",
+      "sprecher" : "Konstanze Ullmer"
+    },
+    {
+      "rolle" : "Mr. Raffer",
+      "sprecher" : "Harald Dietl"
+    },
+    {
+      "rolle" : "Feuerwehrmann",
+      "sprecher" : "Kai Henrik Möller"
+    },
+    {
+      "rolle" : "Kapitän",
+      "sprecher" : "Sky du Mont"
+    },
+    {
+      "rolle" : "John Fisher",
+      "sprecher" : "Dirk Bach"
+    },
+    {
+      "rolle" : "Mr. Castro",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Sanitäter",
+      "sprecher" : "Robert Kotulla"
+    },
+    {
+      "rolle" : "Anudhara",
+      "sprecher" : "Rosakutty Hemsing"
+    },
+    {
+      "rolle" : "Ruth",
+      "sprecher" : "Gabriele Libbach"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/150/metadata.json",

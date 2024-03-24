@@ -42,55 +42,55 @@
       "end" : 4503053
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Wally Robertson",
-      "Michael Prelle"
-    ],
-    [
-      "Charmayne Robertson",
-      "Daniela Hoffmann"
-    ],
-    [
-      "Dwaight Hayward",
-      "Gordon Piedesack"
-    ],
-    [
-      "Mrs. Flagstaff",
-      "Sabine Hahn"
-    ],
-    [
-      "Polizist",
-      "Erik Schäffler"
-    ],
-    [
-      "1. Mann",
-      "Ingo Menowski"
-    ],
-    [
-      "2. Mann",
-      "Riko Tauber"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Wally Robertson",
+      "sprecher" : "Michael Prelle"
+    },
+    {
+      "rolle" : "Charmayne Robertson",
+      "sprecher" : "Daniela Hoffmann"
+    },
+    {
+      "rolle" : "Dwaight Hayward",
+      "sprecher" : "Gordon Piedesack"
+    },
+    {
+      "rolle" : "Mrs. Flagstaff",
+      "sprecher" : "Sabine Hahn"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Mann 1",
+      "sprecher" : "Ingo Menowski"
+    },
+    {
+      "rolle" : "Mann 2",
+      "sprecher" : "Riko Tauber"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/195/metadata.json",

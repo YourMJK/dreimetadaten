@@ -47,75 +47,76 @@
       "end" : 3255933
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Eleonor",
-      "Susanne Wulkow"
-    ],
-    [
-      "Birkensteen",
-      "Oskar Kluge [Günter König]"
-    ],
-    [
-      "Terreano",
-      "Günter König"
-    ],
-    [
-      "Brandon",
-      "Douglas Welbat"
-    ],
-    [
-      "Hoffer",
-      "Eckart Dux"
-    ],
-    [
-      "McGee",
-      "Utz Richter"
-    ],
-    [
-      "Thalia",
-      "Ingeborg Kanstein"
-    ],
-    [
-      "Stefano",
-      "Andreas von der Meden"
-    ],
-    [
-      "John",
-      "Edgar Bessen"
-    ],
-    [
-      "Tankwart",
-      "F.-J. Steffens"
-    ],
-    [
-      "LKW-Fahrer",
-      "Andreas von der Meden"
-    ],
-    [
-      "Mann am Bahnhof",
-      "Christian Rode"
-    ],
-    [
-      "Bürgermeister",
-      "Edgar Bessen"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Eleonor",
+      "sprecher" : "Susanne Wulkow"
+    },
+    {
+      "rolle" : "Birkensteen",
+      "sprecher" : "Günter König",
+      "pseudonym" : "Oskar Kluge"
+    },
+    {
+      "rolle" : "Terreano",
+      "sprecher" : "Günter König"
+    },
+    {
+      "rolle" : "Brandon",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Hoffer",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "McGee",
+      "sprecher" : "Utz Richter"
+    },
+    {
+      "rolle" : "Thalia",
+      "sprecher" : "Ingeburg Kanstein"
+    },
+    {
+      "rolle" : "Stefano",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "John",
+      "sprecher" : "Edgar Bessen"
+    },
+    {
+      "rolle" : "Tankwart",
+      "sprecher" : "Franz-Josef Steffens"
+    },
+    {
+      "rolle" : "LKW-Fahrer",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Mann am Bahnhof",
+      "sprecher" : "Christian Rode"
+    },
+    {
+      "rolle" : "Bürgermeister",
+      "sprecher" : "Edgar Bessen"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/035/metadata.json",

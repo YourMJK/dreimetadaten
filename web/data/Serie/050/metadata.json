@@ -47,51 +47,51 @@
       "end" : 3435173
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Jon Travis",
-      "Rolf Becker"
-    ],
-    [
-      "Marty Morningbaum",
-      "Helmut Ahner"
-    ],
-    [
-      "Diller Rourke",
-      "Michael Quiatkowsky"
-    ],
-    [
-      "Marble Ackbourne-Smith",
-      "Wolf Rathjen"
-    ],
-    [
-      "Margo",
-      "Hanni Vanhaiden"
-    ],
-    [
-      "Kevin",
-      "Fred Maire"
-    ],
-    [
-      "Herr Andrews",
-      "Günter König"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Jon Travis",
+      "sprecher" : "Rolf Becker"
+    },
+    {
+      "rolle" : "Marty Morningbaum",
+      "sprecher" : "Helmut Ahner"
+    },
+    {
+      "rolle" : "Diller Rourke",
+      "sprecher" : "Michael Quiatkowsky"
+    },
+    {
+      "rolle" : "Marble Ackbourne-Smith",
+      "sprecher" : "Wolf Rahtjen"
+    },
+    {
+      "rolle" : "Margo",
+      "sprecher" : "Hanni Vanhaiden"
+    },
+    {
+      "rolle" : "Kevin",
+      "sprecher" : "Fred Maire"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Günter König"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/050/metadata.json",

@@ -37,63 +37,63 @@
       "end" : 3725680
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Minh",
-      "Jona Mues"
-    ],
-    [
-      "Luke",
-      "Alexander Merbeth"
-    ],
-    [
-      "Mark",
-      "Woody Mues"
-    ],
-    [
-      "Stéphane Mertens",
-      "Peter Kaempfe"
-    ],
-    [
-      "Kassiererin",
-      "Birte Kretschmer"
-    ],
-    [
-      "Ron Baxter",
-      "Robin Brosch"
-    ],
-    [
-      "Oma",
-      "Apollonia Jepsen"
-    ],
-    [
-      "Mrs. Willard",
-      "Daniela Ziegler"
-    ],
-    [
-      "Li",
-      "Traudel Sperber"
-    ],
-    [
-      "Tilan",
-      "Caroline Kiesewetter"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Minh",
+      "sprecher" : "Jona Mues"
+    },
+    {
+      "rolle" : "Luke",
+      "sprecher" : "Alexander Merbeth"
+    },
+    {
+      "rolle" : "Mark",
+      "sprecher" : "Woody Mues"
+    },
+    {
+      "rolle" : "Stéphane Mertens",
+      "sprecher" : "Peter Kaempfe"
+    },
+    {
+      "rolle" : "Kassiererin",
+      "sprecher" : "Birte Kretschmer"
+    },
+    {
+      "rolle" : "Ron Baxter",
+      "sprecher" : "Robin Brosch"
+    },
+    {
+      "rolle" : "Oma",
+      "sprecher" : "Apollonia Jepsen"
+    },
+    {
+      "rolle" : "Mrs. Willard",
+      "sprecher" : "Daniela Ziegler"
+    },
+    {
+      "rolle" : "Li",
+      "sprecher" : "Traudel Sperber"
+    },
+    {
+      "rolle" : "Tilan",
+      "sprecher" : "Caroline Kiesewetter"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/207/metadata.json",

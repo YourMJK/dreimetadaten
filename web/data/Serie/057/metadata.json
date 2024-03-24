@@ -47,55 +47,55 @@
       "end" : 2605187
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mary, Artistin",
-      "Heidrun von Goessel"
-    ],
-    [
-      "Winkler, Zirkusdirektor",
-      "Helmut Ahner"
-    ],
-    [
-      "Pipo, Clown",
-      "Arthur Brauss"
-    ],
-    [
-      "Morton, Chauffeur",
-      "Andreas von der Meden"
-    ],
-    [
-      "Cotta, Polizeiinspektor",
-      "Michael Poelchau"
-    ],
-    [
-      "Alma",
-      "Eva Zlomitzky"
-    ],
-    [
-      "Schwester",
-      "Gerda Maria Jürgens"
-    ],
-    [
-      "[Shirley Kubinski]",
-      "Thea Frank"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mary, Artistin",
+      "sprecher" : "Heidrun von Goessel"
+    },
+    {
+      "rolle" : "Winkler, Zirkusdirektor",
+      "sprecher" : "Helmut Ahner"
+    },
+    {
+      "rolle" : "Pipo, Clown",
+      "sprecher" : "Arthur Brauss"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Michael Poelchau"
+    },
+    {
+      "rolle" : "Alma",
+      "sprecher" : "Eva Zlonitzky"
+    },
+    {
+      "rolle" : "Schwester",
+      "sprecher" : "Gerda-Maria Jürgens"
+    },
+    {
+      "rolle" : "Shirley Kubinski",
+      "sprecher" : "Thea Frank"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/057/metadata.json",

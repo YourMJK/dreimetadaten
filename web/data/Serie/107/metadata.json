@@ -47,55 +47,55 @@
       "end" : 3850840
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Lama Geshe",
-      "Rolf Nagel"
-    ],
-    [
-      "Tai Sutsi",
-      "Dr. Boo Young-Shin"
-    ],
-    [
-      "Chuck",
-      "Yan Kimsang"
-    ],
-    [
-      "Vinaya",
-      "Prof. Dr. Zhu"
-    ],
-    [
-      "Mr Zhang",
-      "Ingo Feder"
-    ],
-    [
-      "Lesley Dimple",
-      "Maja Stehli [Ingeborg Kantstein ?]"
-    ],
-    [
-      "Mrs. Wilbur",
-      "Ingeburg Kanstein"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Lama Geshe",
+      "sprecher" : "Rolf Nagel"
+    },
+    {
+      "rolle" : "Tai Sutsi",
+      "sprecher" : "Dr. Boo Young-Shin"
+    },
+    {
+      "rolle" : "Chuck",
+      "sprecher" : "Yan Kimsang"
+    },
+    {
+      "rolle" : "Vinaya",
+      "sprecher" : "Prof. Dr. Zhu"
+    },
+    {
+      "rolle" : "Mr. Zhang",
+      "sprecher" : "Ingo Feder"
+    },
+    {
+      "rolle" : "Lesley Dimple",
+      "sprecher" : "Ann Montenbruck"
+    },
+    {
+      "rolle" : "Mrs. Wilbur",
+      "sprecher" : "Ingeburg Kanstein"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/107/metadata.json",

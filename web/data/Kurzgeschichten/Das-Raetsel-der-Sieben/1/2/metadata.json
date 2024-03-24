@@ -20,43 +20,43 @@
       "end" : 1477173
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Andrews",
-      "Henry König"
-    ],
-    [
-      "Mrs. Andrews",
-      "Konstanze Ullmer"
-    ],
-    [
-      "Arzt",
-      "Erik Schäffler"
-    ],
-    [
-      "Mrs. Wallace",
-      "Angela Stresemann"
-    ],
-    [
-      "Bobby",
-      "Merete Brettschneider"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Mrs. Andrews",
+      "sprecher" : "Konstanze Ullmer"
+    },
+    {
+      "rolle" : "Arzt",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Mrs. Wallace",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Bobby",
+      "sprecher" : "Merete Brettschneider"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/metadata.json",

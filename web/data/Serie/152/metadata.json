@@ -67,83 +67,83 @@
       "end" : 3374867
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Bert Young",
-      "Horst Stark"
-    ],
-    [
-      "Mrs. Johnson",
-      "Gabriele Libbach"
-    ],
-    [
-      "Chapman",
-      "Sascha Rotermund"
-    ],
-    [
-      "Tony",
-      "Reent Reins"
-    ],
-    [
-      "Blake",
-      "Wolfgang Rositzka"
-    ],
-    [
-      "Mr. Andrews",
-      "Henry König"
-    ],
-    [
-      "Rubbish George",
-      "Utz Richter"
-    ],
-    [
-      "1. Mann",
-      "Rasmus Borowski"
-    ],
-    [
-      "2. Mann",
-      "Jo Kappl"
-    ],
-    [
-      "Verkäufer",
-      "Marcus Schönhoff"
-    ],
-    [
-      "Sunny",
-      "Rainer Schmitt"
-    ],
-    [
-      "Fernsehr-Sprecher",
-      "Jannik Schümann"
-    ],
-    [
-      "Blacky",
-      "Heikedine Körting"
-    ],
-    [
-      "Francesco",
-      "Anton Sprick"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Bert Young",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Mrs. Johnson",
+      "sprecher" : "Gabriele Libbach"
+    },
+    {
+      "rolle" : "Chapman",
+      "sprecher" : "Sascha Rotermund"
+    },
+    {
+      "rolle" : "Tony",
+      "sprecher" : "Reent Reins"
+    },
+    {
+      "rolle" : "Blake",
+      "sprecher" : "Wolfgang Rositzka"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Rubbish George",
+      "sprecher" : "Utz Richter"
+    },
+    {
+      "rolle" : "Mann 1",
+      "sprecher" : "Rasmus Borowski"
+    },
+    {
+      "rolle" : "Mann 2",
+      "sprecher" : "Joachim Kappl"
+    },
+    {
+      "rolle" : "Verkäufer",
+      "sprecher" : "Marcus Schönhoff"
+    },
+    {
+      "rolle" : "Sunny",
+      "sprecher" : "Rainer Schmitt"
+    },
+    {
+      "rolle" : "Fernsehe-Sprecher",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    },
+    {
+      "rolle" : "Francesco",
+      "sprecher" : "Anton Sprick"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/152/metadata.json",

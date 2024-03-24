@@ -20,31 +20,32 @@
       "end" : 1574187
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/metadata.json",

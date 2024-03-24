@@ -52,59 +52,59 @@
       "end" : 3473893
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Sergeant Ludlow",
-      "Dietmar Mues"
-    ],
-    [
-      "Banden-Chef",
-      "Eberhard Haar"
-    ],
-    [
-      "Eddy Reardon",
-      "Lukas Sperber"
-    ],
-    [
-      "Spanier",
-      "Erik Schäffler"
-    ],
-    [
-      "Jack",
-      "Fabian Harloff"
-    ],
-    [
-      "Italiener",
-      "Lutz Harder"
-    ],
-    [
-      "Gauner",
-      "Sven Dahlem"
-    ],
-    [
-      "Gehilfe",
-      "Gerhart Hinze"
-    ],
-    [
-      "Polizist",
-      "Bertram Hiese"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Sergeant Ludlow",
+      "sprecher" : "Dietmar Mues"
+    },
+    {
+      "rolle" : "Banden-Chef",
+      "sprecher" : "Eberhard Haar"
+    },
+    {
+      "rolle" : "Eddy Reardon",
+      "sprecher" : "Lukas T. Sperber"
+    },
+    {
+      "rolle" : "Spanier",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Jack",
+      "sprecher" : "Fabian Harloff"
+    },
+    {
+      "rolle" : "Italiener",
+      "sprecher" : "Lutz Harder"
+    },
+    {
+      "rolle" : "Gauner",
+      "sprecher" : "Sven Dahlem"
+    },
+    {
+      "rolle" : "Gehilfe",
+      "sprecher" : "Gerhart Hinze"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Bertram Hiese"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/133/metadata.json",

@@ -47,63 +47,63 @@
       "end" : 3784293
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Alan",
-      "Oliver Reinhardt"
-    ],
-    [
-      "Sally Samson",
-      "Cornelia Meinhardt"
-    ],
-    [
-      "Sofie Samson",
-      "Samira Chanfir"
-    ],
-    [
-      "Dr. Harris",
-      "Hansi Jochmann"
-    ],
-    [
-      "John Davis",
-      "Tim Wieck"
-    ],
-    [
-      "Homer Washington",
-      "Hans Sievers"
-    ],
-    [
-      "Fahrer",
-      "Klaus-Peter Kaehler"
-    ],
-    [
-      "Brenda",
-      "Micaela Kreißler"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Junge",
-      "Jona Mues"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Alan",
+      "sprecher" : "Oliver Reinhard"
+    },
+    {
+      "rolle" : "Sally Samson",
+      "sprecher" : "Cornelia Meinhardt"
+    },
+    {
+      "rolle" : "Sofie Samson",
+      "sprecher" : "Samira Chanfir"
+    },
+    {
+      "rolle" : "Dr. Harris",
+      "sprecher" : "Hansi Jochmann"
+    },
+    {
+      "rolle" : "John Davis",
+      "sprecher" : "Tim Wieck"
+    },
+    {
+      "rolle" : "Homer Washington",
+      "sprecher" : "Hans Sievers"
+    },
+    {
+      "rolle" : "Fahrer",
+      "sprecher" : "Klaus-Peter Kaehler"
+    },
+    {
+      "rolle" : "Brenda",
+      "sprecher" : "Micaëla Kreißler"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Junge",
+      "sprecher" : "Jona Mues"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/070/metadata.json",

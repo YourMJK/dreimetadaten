@@ -77,71 +77,71 @@
       "end" : 3906600
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Maggie Jones",
-      "Ulrike Johannson"
-    ],
-    [
-      "Lythia Waterstone",
-      "Barbara Focke"
-    ],
-    [
-      "Elisabeth Waterstone",
-      "Linde Fulde"
-    ],
-    [
-      "John Stanley",
-      "Kai Böger"
-    ],
-    [
-      "Jack Donelly",
-      "Andreas Mattau"
-    ],
-    [
-      "Althena",
-      "Michaela Boland"
-    ],
-    [
-      "Corona",
-      "Stefanie Kirchberger"
-    ],
-    [
-      "Fahrer Ken",
-      "Wolf Frass"
-    ],
-    [
-      "John Fairbanks",
-      "Christian Rudolf"
-    ],
-    [
-      "Hal Fairbanks",
-      "Heidi Schaffrath"
-    ],
-    [
-      "Walt",
-      "Wolfgang Kaven"
-    ],
-    [
-      "Blackeye",
-      "Georg Marquard"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Maggie Jones",
+      "sprecher" : "Ulrike Johannson"
+    },
+    {
+      "rolle" : "Lythia Waterstone",
+      "sprecher" : "Barbara Focke"
+    },
+    {
+      "rolle" : "Elisabeth Waterstone",
+      "sprecher" : "Linde Fulda"
+    },
+    {
+      "rolle" : "John Stanley",
+      "sprecher" : "Kai Böger"
+    },
+    {
+      "rolle" : "Jack Donelly",
+      "sprecher" : "Andreas Mattau"
+    },
+    {
+      "rolle" : "Althena",
+      "sprecher" : "Michaela Boland"
+    },
+    {
+      "rolle" : "Corona",
+      "sprecher" : "Stephanie Damare"
+    },
+    {
+      "rolle" : "Fahrer Ken",
+      "sprecher" : "Wolf Frass"
+    },
+    {
+      "rolle" : "John Fairbanks",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Hal Fairbanks",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Walt",
+      "sprecher" : "Wolfgang Kaven"
+    },
+    {
+      "rolle" : "Blackeye",
+      "sprecher" : "Georg Marquard"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/111/metadata.json",

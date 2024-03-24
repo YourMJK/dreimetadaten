@@ -47,67 +47,68 @@
       "end" : 2640320
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Mr. Harris",
-      "Günter Heising"
-    ],
-    [
-      "Miss Sanchez",
-      "Marlene Lindner [Ursula Vogel]"
-    ],
-    [
-      "Ted Sanchez",
-      "Nikolas Körting"
-    ],
-    [
-      "Sanders",
-      "Torsten Sense"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Natches",
-      "Gernot Endermann"
-    ],
-    [
-      "Hauptkommissar Reynolds",
-      "Horst Frank"
-    ],
-    [
-      "Prof. Meeker",
-      "Josef Dahmen"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Polizist",
-      "Joachim Wolff"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Mr. Harris",
+      "sprecher" : "Günther Heising"
+    },
+    {
+      "rolle" : "Miss Sanchez",
+      "sprecher" : "Cordula Hubrich",
+      "pseudonym" : "Marlene Lindner"
+    },
+    {
+      "rolle" : "Ted Sanchez",
+      "sprecher" : "Nicolas Körting"
+    },
+    {
+      "rolle" : "Sanders",
+      "sprecher" : "Torsten Sense"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Natches",
+      "sprecher" : "Gernot Endemann"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Horst Frank"
+    },
+    {
+      "rolle" : "Prof. Meeker",
+      "sprecher" : "Josef Dahmen"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Joachim Wolff"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/013/metadata.json",

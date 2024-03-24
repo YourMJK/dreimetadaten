@@ -22,43 +22,45 @@
           "end" : 1389800
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Onkel Titus Jonas",
-          "Hans Meinhardt"
-        ],
-        [
-          "Tante Mathilda Jonas",
-          "Karin Lieneweg"
-        ],
-        [
-          "Handerson",
-          "Wolfgang Rositzka"
-        ],
-        [
-          "Diego",
-          "Stefan Benson"
-        ],
-        [
-          "Mercedes",
-          "Wanda Osten"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Handerson",
+          "sprecher" : "Wolfgang Rositzka"
+        },
+        {
+          "rolle" : "Diego",
+          "sprecher" : "Stephan Benson"
+        },
+        {
+          "rolle" : "Mercedes",
+          "sprecher" : "Hella von der Osten-Sacken",
+          "pseudonym" : "Wanda Osten"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/metadata.json",
@@ -87,39 +89,40 @@
           "end" : 1409027
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Nayeli",
-          "Stefan Brönneke"
-        ],
-        [
-          "Barker",
-          "Ben Hecker"
-        ],
-        [
-          "Onkel Titus Jonas",
-          "Hans Meinhardt"
-        ],
-        [
-          "Off-Sprecherin",
-          "Claudia Stocksieker"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Nayeli",
+          "sprecher" : "Stefan Brönneke"
+        },
+        {
+          "rolle" : "Barker",
+          "sprecher" : "Ben Hecker"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Off-Sprecherin",
+          "sprecher" : "Claudia Stocksieker"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/6/metadata.json",
@@ -148,35 +151,36 @@
           "end" : 1099640
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Tante Mathilda Jonas",
-          "Karin Lieneweg"
-        ],
-        [
-          "Onkel Titus Jonas",
-          "Hans Meinhardt"
-        ],
-        [
-          "Ian Carew",
-          "Sascha Draeger"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Ian Carew",
+          "sprecher" : "Sascha Draeger"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/7/metadata.json",

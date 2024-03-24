@@ -47,55 +47,55 @@
       "end" : 3997320
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mrs. Madigan",
-      "Anne Marks-Rocke"
-    ],
-    [
-      "Eathon Easton, ihr Untermieter",
-      "Helmo Liebig"
-    ],
-    [
-      "Mrs. Lydia Cartier",
-      "Gerda Gmelin"
-    ],
-    [
-      "Sigourney, ihr Dienstmädchen",
-      "Susanne Beck"
-    ],
-    [
-      "Kelly",
-      "Juliane Szalay"
-    ],
-    [
-      "Inspektor Kershaw",
-      "Frank Felicetti"
-    ],
-    [
-      "Hugenay",
-      "Hans Irle"
-    ],
-    [
-      "Museumswärterin",
-      "Marianne Kehlau"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mrs. Madigan",
+      "sprecher" : "Annemarie Marks-Rocke"
+    },
+    {
+      "rolle" : "Eathon Easton, ihr Untermieter",
+      "sprecher" : "Helgo Liebig"
+    },
+    {
+      "rolle" : "Mrs. Lydia Cartier",
+      "sprecher" : "Gerda Gmelin"
+    },
+    {
+      "rolle" : "Sigourney, ihr Dienstmädchen",
+      "sprecher" : "Susanne Beck"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Inspektor Kershaw",
+      "sprecher" : "Frank Felicetti"
+    },
+    {
+      "rolle" : "Hugenay",
+      "sprecher" : "Hans Irle"
+    },
+    {
+      "rolle" : "Museumswärterin",
+      "sprecher" : "Marianne Kehlau"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/073/metadata.json",

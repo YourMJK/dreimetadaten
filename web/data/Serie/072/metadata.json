@@ -47,71 +47,71 @@
       "end" : 3477893
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Laura McLaughin",
-      "Marianne Kehlau"
-    ],
-    [
-      "Malcolm King",
-      "Jörg Gillner"
-    ],
-    [
-      "Lansana King",
-      "Sabine Hahn"
-    ],
-    [
-      "Hester Dalton",
-      "Marianne Bernhardt"
-    ],
-    [
-      "Billie",
-      "Stefan Conradi"
-    ],
-    [
-      "Polizist",
-      "Oliver Reinhardt"
-    ],
-    [
-      "Wachmann",
-      "Dieter Ohlendieck"
-    ],
-    [
-      "2. Wächter",
-      "Michael Lott"
-    ],
-    [
-      "1. Polizist",
-      "Torben Liebrecht"
-    ],
-    [
-      "2. Polizist",
-      "Rene Spiegelberger"
-    ],
-    [
-      "Kellnerin",
-      "Doris Jahn"
-    ],
-    [
-      "Kundin",
-      "Susann Jarling"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Laura McLaughin",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "Malcolm King",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Lansana King",
+      "sprecher" : "Sabine Hahn"
+    },
+    {
+      "rolle" : "Hester Dalton",
+      "sprecher" : "Marianne Bernhardt"
+    },
+    {
+      "rolle" : "Billie",
+      "sprecher" : "Stefan Conradi"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Oliver Reinhard"
+    },
+    {
+      "rolle" : "Wachmann",
+      "sprecher" : "Dieter Ohlendiek"
+    },
+    {
+      "rolle" : "Wächter 2",
+      "sprecher" : "Michael Lott"
+    },
+    {
+      "rolle" : "Polizist 1",
+      "sprecher" : "Torben Liebrecht"
+    },
+    {
+      "rolle" : "Polizist 2",
+      "sprecher" : "Rene Spiegelberger"
+    },
+    {
+      "rolle" : "Kellnerin",
+      "sprecher" : "Doris Jahn"
+    },
+    {
+      "rolle" : "Kundin",
+      "sprecher" : "Susan Jarling"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/072/metadata.json",

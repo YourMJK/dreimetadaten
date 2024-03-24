@@ -216,83 +216,83 @@
       "end" : 10696453
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Erik Schäffler"
-    ],
-    [
-      "Kenneth",
-      "Till Huster"
-    ],
-    [
-      "Chief Householder",
-      "Gordon Piedesack"
-    ],
-    [
-      "Tricia Cooper",
-      "Anna Carlsson"
-    ],
-    [
-      "Mr. Rice",
-      "Stephan Schad"
-    ],
-    [
-      "Katee",
-      "Anne Moll"
-    ],
-    [
-      "Sergeant Murray",
-      "Achim Buch"
-    ],
-    [
-      "Mary",
-      "Svantje Wascher"
-    ],
-    [
-      "Scott",
-      "John Wesley Zielmann"
-    ],
-    [
-      "Johnson",
-      "Wanja Mues"
-    ],
-    [
-      "Nigel",
-      "Tim Mälzer"
-    ],
-    [
-      "Patrick",
-      "Christian Rudolf"
-    ],
-    [
-      "Dolly Craig",
-      "Rosemarie Wohlbauer"
-    ],
-    [
-      "Mrs. Cooper",
-      "Angelika Berg"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Kenneth",
+      "sprecher" : "Till Huster"
+    },
+    {
+      "rolle" : "Chief Householder",
+      "sprecher" : "Gordon Piedesack"
+    },
+    {
+      "rolle" : "Tricia Cooper",
+      "sprecher" : "Anna Carlsson"
+    },
+    {
+      "rolle" : "Mr. Rice",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Katee",
+      "sprecher" : "Anne Moll"
+    },
+    {
+      "rolle" : "Sergeant Murray",
+      "sprecher" : "Achim Buch"
+    },
+    {
+      "rolle" : "Mary",
+      "sprecher" : "Svantje Wascher"
+    },
+    {
+      "rolle" : "Scott",
+      "sprecher" : "John Wesley Zielmann"
+    },
+    {
+      "rolle" : "Johnson",
+      "sprecher" : "Wanja Mues"
+    },
+    {
+      "rolle" : "Nigel",
+      "sprecher" : "Tim Mälzer"
+    },
+    {
+      "rolle" : "Patrick",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Dolly Craig",
+      "sprecher" : "Rosemarie Wohlbauer"
+    },
+    {
+      "rolle" : "Mrs. Cooper",
+      "sprecher" : "Angelika Berg"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/225/metadata.json",

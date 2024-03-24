@@ -72,47 +72,47 @@
       "end" : 4653507
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Winston Granville",
-      "Christian Rode"
-    ],
-    [
-      "Matthew Granville",
-      "Uwe Friedrichsen"
-    ],
-    [
-      "Smithy",
-      "Konstantin Graudus"
-    ],
-    [
-      "Mr. Jackmore",
-      "Michael Brennicke"
-    ],
-    [
-      "Professor Frazier",
-      "Wilhelm Wieben"
-    ],
-    [
-      "Polizist",
-      "Tetje Mierendorf"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Winston Granville",
+      "sprecher" : "Christian Rode"
+    },
+    {
+      "rolle" : "Matthew Granville",
+      "sprecher" : "Uwe Friedrichsen"
+    },
+    {
+      "rolle" : "Smithy",
+      "sprecher" : "Konstantin Graudus"
+    },
+    {
+      "rolle" : "Mr. Jackmore",
+      "sprecher" : "Michael Brennicke"
+    },
+    {
+      "rolle" : "Professor Frazier",
+      "sprecher" : "Wilhelm Wieben"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Tetje Mierendorf"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/137/metadata.json",

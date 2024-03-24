@@ -47,63 +47,66 @@
       "end" : 2738933
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Patrick Kenneth",
-      "Wolfgang Kubach"
-    ],
-    [
-      "Java-Jim",
-      "Heinz Überreiter [Gottfried Kramer]"
-    ],
-    [
-      "Mrs. Flora Gunn",
-      "Veronika Weckler"
-    ],
-    [
-      "Cluny Gunn",
-      "Fabian Harloff"
-    ],
-    [
-      "Rory",
-      "Klaus-Peter Reisch [Peter Buchholz]"
-    ],
-    [
-      "Stebins",
-      "Hans Meinhardt [Karl-Ulrich Meves]"
-    ],
-    [
-      "Mr. Widner",
-      "Ernst von Klipstein"
-    ],
-    [
-      "Verwalter von Powder Gulch",
-      "Reiner Brönneke"
-    ],
-    [
-      "Bibliothekarin",
-      "Katharina Brauren"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Patrick Kenneth",
+      "sprecher" : "Wolfgang Kubach"
+    },
+    {
+      "rolle" : "Java-Jim",
+      "sprecher" : "Gottfried Kramer",
+      "pseudonym" : "Heinz Überreiter"
+    },
+    {
+      "rolle" : "Mrs. Flora Gunn",
+      "sprecher" : "Veronika Weckler"
+    },
+    {
+      "rolle" : "Cluny Gunn",
+      "sprecher" : "Fabian Harloff"
+    },
+    {
+      "rolle" : "Rory",
+      "sprecher" : "Peter Buchholz",
+      "pseudonym" : "Klaus-Peter Reisch"
+    },
+    {
+      "rolle" : "Stebins",
+      "sprecher" : "Karl-Ulrich Meves",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Mr. Widner",
+      "sprecher" : "Ernst von Klipstein"
+    },
+    {
+      "rolle" : "Verwalter von Powder Gulch",
+      "sprecher" : "Reiner Brönneke"
+    },
+    {
+      "rolle" : "Bibliothekarin",
+      "sprecher" : "Katharina Brauren"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/002/metadata.json",

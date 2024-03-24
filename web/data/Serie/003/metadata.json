@@ -47,59 +47,62 @@
       "end" : 2748440
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Prentice",
-      "Hans Hessling"
-    ],
-    [
-      "Niedland",
-      "Gerlach Fiedler"
-    ],
-    [
-      "Pfarrer",
-      "Ernst von Klipstein"
-    ],
-    [
-      "Mrs. Boogle",
-      "Katharina Brauren"
-    ],
-    [
-      "Sonny Elmquist",
-      "Philip Kunzmann [Gernot Endemann]"
-    ],
-    [
-      "Mr. Murphy",
-      "Karl-Ulrich Meves"
-    ],
-    [
-      "Miss Chalmers",
-      "Pamela Punti"
-    ],
-    [
-      "Mr. Hassel",
-      "Rolf Hundertwasser"
-    ],
-    [
-      "Polizist",
-      "Rolf Mamero"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Prentice",
+      "sprecher" : "Hans Hessling"
+    },
+    {
+      "rolle" : "Niedland",
+      "sprecher" : "Gerlach Fiedler"
+    },
+    {
+      "rolle" : "Pfarrer",
+      "sprecher" : "Ernst von Klipstein"
+    },
+    {
+      "rolle" : "Mrs. Boogle",
+      "sprecher" : "Katharina Brauren"
+    },
+    {
+      "rolle" : "Sonny Elmquist",
+      "sprecher" : "Gernot Endemann",
+      "pseudonym" : "Philip Kunzmann"
+    },
+    {
+      "rolle" : "Mr. Murphy",
+      "sprecher" : "Karl-Ulrich Meves"
+    },
+    {
+      "rolle" : "Miss Chalmers",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Pamela Punti"
+    },
+    {
+      "rolle" : "Mr. Hassel",
+      "sprecher" : "Wolfgang Kubach",
+      "pseudonym" : "Rolf Hundertwasser"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Rolf Mamero"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/003/metadata.json",

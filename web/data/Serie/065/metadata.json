@@ -47,71 +47,71 @@
       "end" : 3579173
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Alex Burlington",
-      "Klaus Sonnenschein"
-    ],
-    [
-      "Richard Applebloome",
-      "Tilman Madaus"
-    ],
-    [
-      "Robert Applebloome",
-      "Franz Rudnick"
-    ],
-    [
-      "Mary",
-      "Edith Hancke"
-    ],
-    [
-      "Elizabeth",
-      "Marianne Kehlau"
-    ],
-    [
-      "John Smith",
-      "Dirk Anton"
-    ],
-    [
-      "Jenkins",
-      "Douglas Welbat"
-    ],
-    [
-      "Thomas",
-      "Stephan Chreszinsky"
-    ],
-    [
-      "Andrew",
-      "Michael Rospat"
-    ],
-    [
-      "Mrs. Rodriguez",
-      "Katja Brügger"
-    ],
-    [
-      "Hoteldirektor",
-      "Hans Sievers"
-    ],
-    [
-      "Blondine",
-      "Veronika Neugebauer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Alex Burlington",
+      "sprecher" : "Klaus Sonnenschein"
+    },
+    {
+      "rolle" : "Richard Applebloome",
+      "sprecher" : "Tilman Madaus"
+    },
+    {
+      "rolle" : "Robert Applebloome",
+      "sprecher" : "Franz Rudnick"
+    },
+    {
+      "rolle" : "Mary",
+      "sprecher" : "Edith Hancke"
+    },
+    {
+      "rolle" : "Elizabeth",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "John Smith",
+      "sprecher" : "Dirk Anton"
+    },
+    {
+      "rolle" : "Jenkins",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Thomas",
+      "sprecher" : "Stephan Chrzescinski"
+    },
+    {
+      "rolle" : "Andrew",
+      "sprecher" : "Michael von Rospatt"
+    },
+    {
+      "rolle" : "Mrs. Rodriguez",
+      "sprecher" : "Katja Brügger"
+    },
+    {
+      "rolle" : "Hoteldirektor",
+      "sprecher" : "Hans Sievers"
+    },
+    {
+      "rolle" : "Blondine",
+      "sprecher" : "Veronika Neugebauer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/065/metadata.json",

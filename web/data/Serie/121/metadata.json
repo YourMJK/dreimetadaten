@@ -72,55 +72,55 @@
       "end" : 3762347
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Shawn",
-      "Robin Brosch"
-    ],
-    [
-      "Jolene",
-      "Marion Elskis"
-    ],
-    [
-      "Leah",
-      "Susanne Sternberg"
-    ],
-    [
-      "Jelena",
-      "Alexandra Doerk"
-    ],
-    [
-      "Sue",
-      "Kerstin Hilbig"
-    ],
-    [
-      "Kimberly Lloyd",
-      "Ingeborg Christiansen"
-    ],
-    [
-      "William Boyd",
-      "Olaf Kreuzenbeck"
-    ],
-    [
-      "Thorndike",
-      "Michael Lott"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Shawn",
+      "sprecher" : "Robin Brosch"
+    },
+    {
+      "rolle" : "Jolene",
+      "sprecher" : "Marion Elskis"
+    },
+    {
+      "rolle" : "Leah",
+      "sprecher" : "Susanne Sternberg"
+    },
+    {
+      "rolle" : "Jelena Charkova",
+      "sprecher" : "Alexandra Doerk"
+    },
+    {
+      "rolle" : "Sue",
+      "sprecher" : "Kerstin Hilbig"
+    },
+    {
+      "rolle" : "Kimberly Lloyd",
+      "sprecher" : "Ingeborg Christiansen"
+    },
+    {
+      "rolle" : "William Boyd",
+      "sprecher" : "Olaf Kreutzenbeck"
+    },
+    {
+      "rolle" : "Thorndike",
+      "sprecher" : "Michael Lott"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/121/metadata.json",

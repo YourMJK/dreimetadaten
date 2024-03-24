@@ -72,51 +72,51 @@
       "end" : 4029587
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Christine",
-      "Inken Sommer"
-    ],
-    [
-      "Mr. Bambridge",
-      "Gustav-Adolph Artz"
-    ],
-    [
-      "Lo Wang",
-      "Dae Joon Yoo"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Anthony Hearst",
-      "Wolfgang Pampel"
-    ],
-    [
-      "Truck-Fahrer",
-      "Konstantin Graudus"
-    ],
-    [
-      "Avercromby",
-      "Nicolas König"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Christine",
+      "sprecher" : "Inken Sommer"
+    },
+    {
+      "rolle" : "Mr. Bambridge",
+      "sprecher" : "Gustav-Adolph Artz"
+    },
+    {
+      "rolle" : "Lo Wang",
+      "sprecher" : "Dae Joon Yoo"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Anthony Hearst",
+      "sprecher" : "Wolfgang Pampel"
+    },
+    {
+      "rolle" : "Truck-Fahrer",
+      "sprecher" : "Konstantin Graudus"
+    },
+    {
+      "rolle" : "Avercromby",
+      "sprecher" : "Nicolas König"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/134/metadata.json",

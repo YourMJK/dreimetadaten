@@ -52,75 +52,75 @@
       "end" : 4036133
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Kramer",
-      "Volker Bogdan"
-    ],
-    [
-      "Emma Bailey",
-      "Hansi Jochmann"
-    ],
-    [
-      "Hank",
-      "Ben Hecker"
-    ],
-    [
-      "Lewis Geriwell",
-      "Frank Gustavus"
-    ],
-    [
-      "Henry Appleton",
-      "Peter Heeckt"
-    ],
-    [
-      "Amber",
-      "Sarah Madeleine Tusk"
-    ],
-    [
-      "Laura",
-      "Maud Ackermann"
-    ],
-    [
-      "Gerald",
-      "Michael von Rospatt"
-    ],
-    [
-      "Nat",
-      "Tobias Schmidt"
-    ],
-    [
-      "Collins",
-      "Gosta Liptow"
-    ],
-    [
-      "Nader Rope",
-      "Michael Bideller"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Kramer",
+      "sprecher" : "Volker Bogdan"
+    },
+    {
+      "rolle" : "Emma Bailey",
+      "sprecher" : "Hansi Jochmann"
+    },
+    {
+      "rolle" : "Hank",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Lewis Geriwell",
+      "sprecher" : "Frank Gustavus"
+    },
+    {
+      "rolle" : "Henry Appleton",
+      "sprecher" : "Peter Heeckt"
+    },
+    {
+      "rolle" : "Amber",
+      "sprecher" : "Sarah Madeleine Tusk"
+    },
+    {
+      "rolle" : "Laura",
+      "sprecher" : "Maud Ackermann"
+    },
+    {
+      "rolle" : "Gerald",
+      "sprecher" : "Michael von Rospatt"
+    },
+    {
+      "rolle" : "Nat",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Collins",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Nader Rope",
+      "sprecher" : "Michael Bideller"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/187/metadata.json",

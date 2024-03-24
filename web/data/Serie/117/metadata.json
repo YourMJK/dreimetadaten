@@ -62,59 +62,60 @@
       "end" : 3640027
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Godwin",
-      "André Minninger"
-    ],
-    [
-      "Wagner",
-      "Jürgen Thormann"
-    ],
-    [
-      "Beaumont",
-      "Douglas Welbat"
-    ],
-    [
-      "Calhoon",
-      "Bernd Stephan"
-    ],
-    [
-      "Mike",
-      "Arndt Schmöle"
-    ],
-    [
-      "Zia",
-      "Brigitte Böttrich"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Wagner",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Beaumont",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Calhoon",
+      "sprecher" : "Bernd Stephan"
+    },
+    {
+      "rolle" : "Mike",
+      "sprecher" : "Arndt Schmöle"
+    },
+    {
+      "rolle" : "Zia",
+      "sprecher" : "Brigitte Böttrich"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/117/metadata.json",

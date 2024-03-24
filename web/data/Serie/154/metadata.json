@@ -72,95 +72,96 @@
       "end" : 4238587
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Titus Jonas",
-      "Hans Meinhard"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Prof. Jane Heathcliff",
-      "Victoria von Trauttmansdorff"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Mr. Grey",
-      "Urs Affolter"
-    ],
-    [
-      "Lester Price",
-      "Fabian Harloff"
-    ],
-    [
-      "Cinelly",
-      "Bernd Stephan"
-    ],
-    [
-      "Mr. Monroe",
-      "Achim Schülke"
-    ],
-    [
-      "Miss Deborah Cassidy",
-      "Barbara Focke"
-    ],
-    [
-      "Mr. Burke",
-      "Kai-Hendrik Möller"
-    ],
-    [
-      "Miss Trimble",
-      "Christine Pappert"
-    ],
-    [
-      "Mr. Weston",
-      "Joachim Lautenbach"
-    ],
-    [
-      "Nachbarin",
-      "Doris Maria Kaiser"
-    ],
-    [
-      "Butler",
-      "Erik Schäffler"
-    ],
-    [
-      "Goodween",
-      "André Minninger"
-    ],
-    [
-      "Michael Kowalski",
-      "Tobias Schmidt"
-    ],
-    [
-      "Jack",
-      "Leonhard Mahlich"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Prof. Jane Heathcliff",
+      "sprecher" : "Victoria Trauttmansdorff"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Mr. Grey",
+      "sprecher" : "Urs Affolter"
+    },
+    {
+      "rolle" : "Lester Price",
+      "sprecher" : "Fabian Harloff"
+    },
+    {
+      "rolle" : "Cinelly",
+      "sprecher" : "Bernd Stephan"
+    },
+    {
+      "rolle" : "Mr. Monroe",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Miss Deborah Cassidy",
+      "sprecher" : "Barbara Focke"
+    },
+    {
+      "rolle" : "Mr. Burke",
+      "sprecher" : "Kai Henrik Möller"
+    },
+    {
+      "rolle" : "Miss Trimble",
+      "sprecher" : "Christine Pappert"
+    },
+    {
+      "rolle" : "Mr. Weston",
+      "sprecher" : "Joachim Lautenbach"
+    },
+    {
+      "rolle" : "Nachbarin",
+      "sprecher" : "Doris Maria Kaiser"
+    },
+    {
+      "rolle" : "Butler",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Michael Kowalski",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Jack",
+      "sprecher" : "Leonhard Mahlich"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/154/metadata.json",

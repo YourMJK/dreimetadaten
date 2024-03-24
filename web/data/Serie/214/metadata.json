@@ -37,67 +37,67 @@
       "end" : 3938600
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Kommissarin Lisa Merryweather",
-      "Caroline Peters"
-    ],
-    [
-      "Elena Fleckenstein",
-      "Christiane Leuchtmann"
-    ],
-    [
-      "Roderick Sanders",
-      "Albrecht Ganskopf"
-    ],
-    [
-      "Fahrerin",
-      "Elga Schütz"
-    ],
-    [
-      "Rubbish George",
-      "Hans Peter Korff"
-    ],
-    [
-      "Officer Brown",
-      "André Beyer"
-    ],
-    [
-      "Bote",
-      "Achim Schülke"
-    ],
-    [
-      "Polizist",
-      "Alexander Mettin"
-    ],
-    [
-      "Angestellte im Altenheim",
-      "Barbara Schipper"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Kommissarin Lisa Merryweather",
+      "sprecher" : "Caroline Peters"
+    },
+    {
+      "rolle" : "Elena Fleckenstein",
+      "sprecher" : "Christiane Leuchtmann"
+    },
+    {
+      "rolle" : "Roderick Sanders",
+      "sprecher" : "Albrecht Ganskopf"
+    },
+    {
+      "rolle" : "Fahrerin",
+      "sprecher" : "Elga Schütz"
+    },
+    {
+      "rolle" : "Rubbish George",
+      "sprecher" : "Hans Peter Korff"
+    },
+    {
+      "rolle" : "Officer Brown",
+      "sprecher" : "André Beyer"
+    },
+    {
+      "rolle" : "Bote",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Alexander Mettin"
+    },
+    {
+      "rolle" : "Angestellte im Altenheim",
+      "sprecher" : "Barbara Schipper"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/214/metadata.json",

@@ -25,7 +25,7 @@ class Höreinheit: Codable {
 	var beschreibung: String?
 	var veröffentlichungsdatum: String?
 	var kapitel: [Kapitel]?
-	var sprecher: [[String]]?
+	var sprechrollen: [Sprechrolle]?
 	var links: Links?
 	var unvollständig: Bool?
 }
@@ -105,6 +105,22 @@ class Kapitel: Codable, Equatable {
 }
 
 
+class Sprechrolle: Codable, Equatable {
+	var rolle: String
+	var sprecher: String
+	var pseudonym: String?
+	
+	init(rolle: String, sprecher: String) {
+		self.rolle = rolle
+		self.sprecher = sprecher
+	}
+	
+	static func == (lhs: Sprechrolle, rhs: Sprechrolle) -> Bool {
+		return lhs.rolle == rhs.rolle && lhs.sprecher == rhs.sprecher && lhs.pseudonym == rhs.pseudonym
+	}
+}
+
+
 class Links: Codable {
 	var json: String?
 	var ffmetadata: String?
@@ -153,13 +169,17 @@ extension Metadata {
 			"beschreibung",
 			"veröffentlichungsdatum",
 			"kapitel",
-			"sprecher",
+			"sprechrollen",
 			"links",
 			"unvollständig",
 			
 			"titel",
 			"start",
 			"end",
+			
+			"rolle",
+			"sprecher",
+			"pseudonym",
 			
 			"json",
 			"ffmetadata",

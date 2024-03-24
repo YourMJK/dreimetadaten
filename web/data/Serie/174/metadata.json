@@ -52,55 +52,55 @@
       "end" : 3800827
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Guillermo",
-      "Mario Ramos"
-    ],
-    [
-      "Stanley Morgan",
-      "Romanus Fuhrmann"
-    ],
-    [
-      "Grace Powell",
-      "Luise Lunow"
-    ],
-    [
-      "Angus",
-      "Till Demtrøder"
-    ],
-    [
-      "Inspektor Cottahol",
-      "Holger Mahlich"
-    ],
-    [
-      "Baxter",
-      "Hans Kahlert"
-    ],
-    [
-      "Kranführer",
-      "Klaus Dittmann"
-    ],
-    [
-      "Steve",
-      "Martin Brücker"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Guillermo",
+      "sprecher" : "Mario Ramos"
+    },
+    {
+      "rolle" : "Stanley Morgan",
+      "sprecher" : "Romanus Fuhrmann"
+    },
+    {
+      "rolle" : "Grace Powell",
+      "sprecher" : "Luise Lunow"
+    },
+    {
+      "rolle" : "Angus",
+      "sprecher" : "Till Demtrøder"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Baxter",
+      "sprecher" : "Hans Kahlert"
+    },
+    {
+      "rolle" : "Kranführer",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Steve",
+      "sprecher" : "Martin Brücker"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/174/metadata.json",

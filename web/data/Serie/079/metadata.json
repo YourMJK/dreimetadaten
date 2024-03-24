@@ -47,67 +47,70 @@
       "end" : 4612307
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Al Parker, Musikproduzent",
-      "Lennardt Krüger"
-    ],
-    [
-      "William Needle",
-      "Nico König"
-    ],
-    [
-      "Stevens",
-      "Lothar Behrendt"
-    ],
-    [
-      "Bart",
-      "Doktor Renz"
-    ],
-    [
-      "Luke",
-      "Schiffmeister"
-    ],
-    [
-      "Frank",
-      "König Boris"
-    ],
-    [
-      "Joan, Visagistin",
-      "Alida Gundlach"
-    ],
-    [
-      "Jeffrey",
-      "Niko Minninger"
-    ],
-    [
-      "Hank",
-      "Harvey Draeger"
-    ],
-    [
-      "Billy",
-      "Sven Stricker"
-    ],
-    [
-      "Angestellter",
-      "Jens Herrndorff"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Al Parker, Musikproduzent",
+      "sprecher" : "Lennardt Krüger"
+    },
+    {
+      "rolle" : "William Needle",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Stevens",
+      "sprecher" : "Lothar Behrendt"
+    },
+    {
+      "rolle" : "Bart",
+      "sprecher" : "Martin Vandreier",
+      "pseudonym" : "Dokter Renz"
+    },
+    {
+      "rolle" : "Luke",
+      "sprecher" : "Björn Warns",
+      "pseudonym" : "Schiffmeister"
+    },
+    {
+      "rolle" : "Frank",
+      "sprecher" : "Boris Lauterbach",
+      "pseudonym" : "König Boris"
+    },
+    {
+      "rolle" : "Joan, Visagistin",
+      "sprecher" : "Alida Gundlach"
+    },
+    {
+      "rolle" : "Jeffrey",
+      "sprecher" : "Niko Minninger"
+    },
+    {
+      "rolle" : "Hank",
+      "sprecher" : "Harvey Draeger"
+    },
+    {
+      "rolle" : "Billy",
+      "sprecher" : "Sven Stricker"
+    },
+    {
+      "rolle" : "Angestellter",
+      "sprecher" : "Jens Herrndorff"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/079/metadata.json",

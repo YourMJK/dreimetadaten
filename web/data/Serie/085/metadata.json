@@ -37,51 +37,51 @@
       "end" : 3562000
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Walker",
-      "Lothar Grützner"
-    ],
-    [
-      "Monica",
-      "Hansi Jochmann"
-    ],
-    [
-      "Lady MacWeiden",
-      "Renate Pichler"
-    ],
-    [
-      "Mac George",
-      "Johann Schibli"
-    ],
-    [
-      "Chris",
-      "Daniel Kruth"
-    ],
-    [
-      "Campingwart",
-      "Helmut Ahner"
-    ],
-    [
-      "Frau des Campingwarts",
-      "Ingrid Weiß"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Walker",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Monica",
+      "sprecher" : "Hansi Jochmann"
+    },
+    {
+      "rolle" : "Lady MacWeiden",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Mac George",
+      "sprecher" : "Johann Schibli"
+    },
+    {
+      "rolle" : "Chris",
+      "sprecher" : "Daniel Kruth"
+    },
+    {
+      "rolle" : "Campingwart",
+      "sprecher" : "Helmut Ahner"
+    },
+    {
+      "rolle" : "Frau des Campingwarts",
+      "sprecher" : "Ingrid Weiß"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/085/metadata.json",

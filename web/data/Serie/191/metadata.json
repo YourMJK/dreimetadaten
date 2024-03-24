@@ -47,51 +47,51 @@
       "end" : 4266120
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Priscilla Sicktree",
-      "Marianne Bernhardt"
-    ],
-    [
-      "Hank",
-      "Henry König"
-    ],
-    [
-      "Brian",
-      "Patrick Mölleken"
-    ],
-    [
-      "Ashlyn",
-      "Julia Fölster"
-    ],
-    [
-      "Rosie Wrenwick",
-      "Gerlinde Dillge"
-    ],
-    [
-      "Sheriff Stone",
-      "Horst Stark"
-    ],
-    [
-      "Hilfssheriff Jonathan",
-      "Christian Rudolf"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Priscilla Sicktree",
+      "sprecher" : "Marianne Bernhardt"
+    },
+    {
+      "rolle" : "Hank",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Brian",
+      "sprecher" : "Patrick Mölleken"
+    },
+    {
+      "rolle" : "Ashlyn",
+      "sprecher" : "Julia Fölster"
+    },
+    {
+      "rolle" : "Rosie Wrenwick",
+      "sprecher" : "Gerlinde Dillge"
+    },
+    {
+      "rolle" : "Sheriff Stone",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Hilfssheriff Jonathan",
+      "sprecher" : "Christian Rudolf"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/191/metadata.json",

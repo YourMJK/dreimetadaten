@@ -47,75 +47,76 @@
       "end" : 3994440
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Andrews",
-      "Günter König"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mrs. Lu Kwan",
-      "Susanne von Loessel"
-    ],
-    [
-      "Jefferson",
-      "Christian Redl"
-    ],
-    [
-      "Dimitrios, Bankdirektor",
-      "Wilhelm Wieben"
-    ],
-    [
-      "Dan Jordan, Reporter",
-      "Michael Lott"
-    ],
-    [
-      "Olivia",
-      "Eva Weißmann"
-    ],
-    [
-      "Santoria",
-      "Holger Ohlendieck"
-    ],
-    [
-      "Pertier",
-      "Johann Herstermann"
-    ],
-    [
-      "Sergeant",
-      "Ingvar Jensen"
-    ],
-    [
-      "Irma",
-      "Konstanze Ulmer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Günter König"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mrs. Lu Kwan",
+      "sprecher" : "Susanne von Loessl"
+    },
+    {
+      "rolle" : "Jefferson",
+      "sprecher" : "Christian Redl"
+    },
+    {
+      "rolle" : "Dimitrios, Bankdirektor",
+      "sprecher" : "Wilhelm Wieben"
+    },
+    {
+      "rolle" : "Dan Jordan, Reporter",
+      "sprecher" : "Michael Lott"
+    },
+    {
+      "rolle" : "Olivia",
+      "sprecher" : "Eva Weissmann"
+    },
+    {
+      "rolle" : "Santoria",
+      "sprecher" : "Dieter Ohlendiek"
+    },
+    {
+      "rolle" : "Pertier",
+      "sprecher" : "Johann Herstermann"
+    },
+    {
+      "rolle" : "Sergeant",
+      "sprecher" : "Ingvar Jensen"
+    },
+    {
+      "rolle" : "Irma",
+      "sprecher" : "Konstanze Ullmer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/071/metadata.json",

@@ -72,39 +72,39 @@
       "end" : 3987133
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Davy Swann",
-      "Thorsten Sense"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Craig Holden",
-      "Gerhard Olschewski"
-    ],
-    [
-      "Löwenritter",
-      "Burghart Klaußner"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Davy Swann",
+      "sprecher" : "Torsten Sense"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Craig Holden",
+      "sprecher" : "Gerhard Olschewski"
+    },
+    {
+      "rolle" : "Löwenritter",
+      "sprecher" : "Burghart Klaußner"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/138/metadata.json",

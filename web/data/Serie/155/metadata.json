@@ -87,63 +87,63 @@
       "end" : 4055280
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Zack Martin",
-      "Christian Stark"
-    ],
-    [
-      "Mary-Ann Leigh",
-      "Manuela Bäcker"
-    ],
-    [
-      "Latona Johnson",
-      "Julia Hummer"
-    ],
-    [
-      "Frank Norman",
-      "Till Huster"
-    ],
-    [
-      "Mrs. Robinson",
-      "Heidi Berndt"
-    ],
-    [
-      "Angela Sciutto",
-      "Gisela Fritsch"
-    ],
-    [
-      "Federico Sciutto",
-      "Rainer Fritzsche"
-    ],
-    [
-      "Mr. Torrance",
-      "Ingo Feder"
-    ],
-    [
-      "Frau",
-      "Konstanze Ullmer"
-    ],
-    [
-      "Kind",
-      "Undine Ullmer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Zack Martin",
+      "sprecher" : "Christian Stark"
+    },
+    {
+      "rolle" : "Mary-Ann Leigh",
+      "sprecher" : "Manuela Eifrig"
+    },
+    {
+      "rolle" : "Latona Johnson",
+      "sprecher" : "Julia Hummer"
+    },
+    {
+      "rolle" : "Frank Norman",
+      "sprecher" : "Till Huster"
+    },
+    {
+      "rolle" : "Mrs. Robinson",
+      "sprecher" : "Heidi Berndt"
+    },
+    {
+      "rolle" : "Angela Sciutto",
+      "sprecher" : "Gisela Fritsch"
+    },
+    {
+      "rolle" : "Federico Sciutto",
+      "sprecher" : "Rainer Fritzsche"
+    },
+    {
+      "rolle" : "Mr. Torrance",
+      "sprecher" : "Ingo Feder"
+    },
+    {
+      "rolle" : "Frau",
+      "sprecher" : "Konstanze Ullmer"
+    },
+    {
+      "rolle" : "Kind",
+      "sprecher" : "Undine Ullmer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/155/metadata.json",

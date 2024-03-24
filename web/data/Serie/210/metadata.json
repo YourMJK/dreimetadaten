@@ -37,51 +37,51 @@
       "end" : 3627267
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Zach Cannings",
-      "Martin May"
-    ],
-    [
-      "Nicole",
-      "Saskia Weckler"
-    ],
-    [
-      "Mitarbeiter",
-      "Achim Funk"
-    ],
-    [
-      "Sara Roskin",
-      "Elke Reissert"
-    ],
-    [
-      "Caden Devlin",
-      "Werner Wilkening"
-    ],
-    [
-      "Offizier der Küstenwache (1)",
-      "Thorsten Laussch"
-    ],
-    [
-      "Offizier der Küstenwache (2)",
-      "Andreas Birnbaum"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Zach Cannings",
+      "sprecher" : "Martin May"
+    },
+    {
+      "rolle" : "Nicole",
+      "sprecher" : "Saskia Weckler"
+    },
+    {
+      "rolle" : "Mitarbeiter",
+      "sprecher" : "Achim Funk"
+    },
+    {
+      "rolle" : "Sara Roskin",
+      "sprecher" : "Elke Reissert"
+    },
+    {
+      "rolle" : "Caden Devlin",
+      "sprecher" : "Werner Wilkening"
+    },
+    {
+      "rolle" : "Offizier der Küstenwache 1",
+      "sprecher" : "Thorsten Laussch"
+    },
+    {
+      "rolle" : "Offizier der Küstenwache 2",
+      "sprecher" : "Andreas Birnbaum"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/210/metadata.json",

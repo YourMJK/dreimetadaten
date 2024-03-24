@@ -47,67 +47,70 @@
       "end" : 2547813
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mrs. Dalton",
-      "Heidi Schaffrath"
-    ],
-    [
-      "Christina Dalton",
-      "Karina Leising [Heikedine Körting]"
-    ],
-    [
-      "Frankie Bender",
-      "Oliver Mink"
-    ],
-    [
-      "H. P. Clay",
-      "Lothar Grützner"
-    ],
-    [
-      "Jim Clay",
-      "Marcus Meiering"
-    ],
-    [
-      "Walter Quail",
-      "Christian Mey"
-    ],
-    [
-      "Trödler Hummer",
-      "Joachim Richert"
-    ],
-    [
-      "Jason Wilkes",
-      "Joachim Rake"
-    ],
-    [
-      "Chiang",
-      "Tom Barrows [Hans Irle]"
-    ],
-    [
-      "Diakon Kastner",
-      "Hans Irle"
-    ],
-    [
-      "Butler",
-      "Hans Daniel"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mrs. Dalton",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Christina Dalton",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Karina Leising"
+    },
+    {
+      "rolle" : "Frankie Bender",
+      "sprecher" : "Oliver Mink"
+    },
+    {
+      "rolle" : "H. P. Clay",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Jim Clay",
+      "sprecher" : "Dieter B. Gerlach",
+      "pseudonym" : "Markus Meiering"
+    },
+    {
+      "rolle" : "Walter Quail",
+      "sprecher" : "Christian Mey"
+    },
+    {
+      "rolle" : "Trödler Hummer",
+      "sprecher" : "Joachim Richert"
+    },
+    {
+      "rolle" : "Jason Wilkes",
+      "sprecher" : "Joachim Rake"
+    },
+    {
+      "rolle" : "Chiang",
+      "sprecher" : "Jürgen Thormann",
+      "pseudonym" : "Tom Barrows"
+    },
+    {
+      "rolle" : "Diakon Kastner",
+      "sprecher" : "Hans Irle"
+    },
+    {
+      "rolle" : "Butler",
+      "sprecher" : "Hans Daniel"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/021/metadata.json",

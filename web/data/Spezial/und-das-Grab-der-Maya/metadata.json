@@ -226,67 +226,67 @@
       "end" : 6770387
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Skinny Norris",
-      "Tim Kreuer"
-    ],
-    [
-      "Sheryl",
-      "Merete Brettschneider"
-    ],
-    [
-      "Professor Burnham",
-      "Jürgen Thormann"
-    ],
-    [
-      "Salvador Pérez",
-      "Matthias Klimsa"
-    ],
-    [
-      "Tuyucim Florentino Ixmatá",
-      "Mario Ramos"
-    ],
-    [
-      "Tuyucim",
-      "Nicolas Klimsa"
-    ],
-    [
-      "Maria Pérez",
-      "Caroline Kiesewetter"
-    ],
-    [
-      "Zachary",
-      "Roman Rossa"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Conrad Williams",
-      "Peter Weis"
-    ],
-    [
-      "Nachrichtensprecher",
-      "André Schünke"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Sheryl",
+      "sprecher" : "Merete Brettschneider"
+    },
+    {
+      "rolle" : "Professor Burnham",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Salvador Pérez",
+      "sprecher" : "Matthias Klimsa"
+    },
+    {
+      "rolle" : "Tuyucim Florentino Ixmatá",
+      "sprecher" : "Mario Ramos"
+    },
+    {
+      "rolle" : "Tuyucim",
+      "sprecher" : "Nicolás Klimsa"
+    },
+    {
+      "rolle" : "Maria Pérez",
+      "sprecher" : "Caroline Kiesewetter"
+    },
+    {
+      "rolle" : "Zachary",
+      "sprecher" : "Roman Rossa"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Conrad Williams",
+      "sprecher" : "Peter Weis"
+    },
+    {
+      "rolle" : "Nachrichtensprecher",
+      "sprecher" : "André Schünke"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/metadata.json",

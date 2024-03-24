@@ -47,71 +47,71 @@
       "end" : 4356747
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Ben Peck",
-      "Wolfgang Völz"
-    ],
-    [
-      "Sandra",
-      "Maureen Havlena"
-    ],
-    [
-      "TV-Nachrichtensprecher",
-      "Holger Wemhoff"
-    ],
-    [
-      "Mr. Castro",
-      "Jürgen Thormann"
-    ],
-    [
-      "Doktor Burke",
-      "Hans Peter Korff"
-    ],
-    [
-      "Mrs. Penny",
-      "Herma Koehn"
-    ],
-    [
-      "Schwester Beatrice",
-      "Roswitha Völz"
-    ],
-    [
-      "Mr. Hooper",
-      "Günther Karl"
-    ],
-    [
-      "Ellyn Djawadi",
-      "Anika Pages"
-    ],
-    [
-      "Mr. Turner",
-      "Klaus Dittmann"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Goodween",
-      "André Minninger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Ben Peck",
+      "sprecher" : "Wolfgang Völz"
+    },
+    {
+      "rolle" : "Sandra",
+      "sprecher" : "Maureen Havlena"
+    },
+    {
+      "rolle" : "TV-Nachrichtensprecher",
+      "sprecher" : "Holger Wemhoff"
+    },
+    {
+      "rolle" : "Mr. Castro",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Doktor Burke",
+      "sprecher" : "Hans Peter Korff"
+    },
+    {
+      "rolle" : "Mrs. Penny",
+      "sprecher" : "Herma Koehn"
+    },
+    {
+      "rolle" : "Schwester Beatrice",
+      "sprecher" : "Roswitha Völz"
+    },
+    {
+      "rolle" : "Mr. Hooper",
+      "sprecher" : "Günther Karl"
+    },
+    {
+      "rolle" : "Ellyn Djawadi",
+      "sprecher" : "Annika Pages"
+    },
+    {
+      "rolle" : "Mr. Turner",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/186/metadata.json",

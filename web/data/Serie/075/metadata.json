@@ -47,51 +47,51 @@
       "end" : 3339600
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mrs. Shaw",
-      "Heikedine Körting"
-    ],
-    [
-      "Amanda Black",
-      "Beate Hasenau"
-    ],
-    [
-      "Detective Gregston",
-      "Wolf-Dietrich Berg"
-    ],
-    [
-      "Nora Sethons",
-      "Ursula Sieg"
-    ],
-    [
-      "Mrs. Aston",
-      "J.S."
-    ],
-    [
-      "Mr. Krieger",
-      "Jörg Gillner"
-    ],
-    [
-      "Lisa Manninger",
-      "Katja Stichel"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mrs. Shaw",
+      "sprecher" : "Heikedine Körting"
+    },
+    {
+      "rolle" : "Amanda Black",
+      "sprecher" : "Beate Hasenau"
+    },
+    {
+      "rolle" : "Detective Gregston",
+      "sprecher" : "Wolf-Dietrich Berg"
+    },
+    {
+      "rolle" : "Nora Sethons",
+      "sprecher" : "Ursula Sieg"
+    },
+    {
+      "rolle" : "Mrs. Aston",
+      "sprecher" : "Joyceline Schmidt"
+    },
+    {
+      "rolle" : "Mr. Krieger",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Lisa Manninger",
+      "sprecher" : "Katja Stichel"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/075/metadata.json",

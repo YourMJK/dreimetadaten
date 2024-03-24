@@ -47,71 +47,71 @@
       "end" : 3267773
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Brick",
-      "Rainer Schmitt"
-    ],
-    [
-      "Thanom",
-      "Peter Heinrich"
-    ],
-    [
-      "Prem",
-      "Lutz Mackensy"
-    ],
-    [
-      "Butler",
-      "Gerd Baltus"
-    ],
-    [
-      "Sax",
-      "Andreas Mannkopff"
-    ],
-    [
-      "Celeste",
-      "Michaela Gröger"
-    ],
-    [
-      "Lara",
-      "Gerlach Fiedler"
-    ],
-    [
-      "Rivers",
-      "Wolfgang Völz"
-    ],
-    [
-      "Hansen",
-      "Verena Wiet"
-    ],
-    [
-      "Maxi",
-      "Hildegard Krekel"
-    ],
-    [
-      "Quill",
-      "Matthias Bullach"
-    ],
-    [
-      "Tony",
-      "Michael Quiatkowsky"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Brick",
+      "sprecher" : "Rainer Schmitt"
+    },
+    {
+      "rolle" : "Thanom",
+      "sprecher" : "Peter Heinrich"
+    },
+    {
+      "rolle" : "Prem",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Butler",
+      "sprecher" : "Gerd Baltus"
+    },
+    {
+      "rolle" : "Sax Sandler",
+      "sprecher" : "Andreas Mannkopff"
+    },
+    {
+      "rolle" : "Celeste",
+      "sprecher" : "Michaela Gröger"
+    },
+    {
+      "rolle" : "Lara",
+      "sprecher" : "Gerlach Fiedler"
+    },
+    {
+      "rolle" : "Rivers",
+      "sprecher" : "Wolfgang Völz"
+    },
+    {
+      "rolle" : "Hansen",
+      "sprecher" : "Verena Wiet"
+    },
+    {
+      "rolle" : "Maxi",
+      "sprecher" : "Hildegard Krekel"
+    },
+    {
+      "rolle" : "Quill",
+      "sprecher" : "Matthias Bullach"
+    },
+    {
+      "rolle" : "Tony",
+      "sprecher" : "Michael Quiatkowsky"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/052/metadata.json",

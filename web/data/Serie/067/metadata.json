@@ -47,59 +47,59 @@
       "end" : 3799320
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Babette Eberle",
-      "M. Rospat"
-    ],
-    [
-      "Bruder Benedikt",
-      "Tassilo Jelde"
-    ],
-    [
-      "Mylná",
-      "Utz Richter"
-    ],
-    [
-      "Alexandra",
-      "Reinhilt Schneider"
-    ],
-    [
-      "Wirt",
-      "Hans Paetsch"
-    ],
-    [
-      "Wirtin",
-      "Ingeborg Ottmann"
-    ],
-    [
-      "Max",
-      "Lutz Schnell"
-    ],
-    [
-      "1. Polizist",
-      "Boris Sychowsky"
-    ],
-    [
-      "2. Polizist",
-      "Frank Meyer-Brockmann"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Babette Eberle",
+      "sprecher" : "Michael von Rospatt"
+    },
+    {
+      "rolle" : "Bruder Benedikt",
+      "sprecher" : "Tassilo Jelde"
+    },
+    {
+      "rolle" : "Mylná",
+      "sprecher" : "Utz Richter"
+    },
+    {
+      "rolle" : "Alexandra",
+      "sprecher" : "Reinhilt Schneider"
+    },
+    {
+      "rolle" : "Wirt",
+      "sprecher" : "Hans Paetsch"
+    },
+    {
+      "rolle" : "Wirtin",
+      "sprecher" : "Ingeborg Ottmann"
+    },
+    {
+      "rolle" : "Max",
+      "sprecher" : "Lutz Schnell"
+    },
+    {
+      "rolle" : "Polizist 1",
+      "sprecher" : "Boris von Sychowski"
+    },
+    {
+      "rolle" : "Polizist 2",
+      "sprecher" : "Frank Meyer-Brockmann"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/067/metadata.json",

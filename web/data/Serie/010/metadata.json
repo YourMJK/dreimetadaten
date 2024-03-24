@@ -47,63 +47,65 @@
       "end" : 3043693
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Patrick",
-      "Wolfgang Kubach"
-    ],
-    [
-      "Professor Yarborough",
-      "Karl Walter Diess"
-    ],
-    [
-      "Wilkins, sein Butler",
-      "Ulrich Matschoss"
-    ],
-    [
-      "Professor Freeman",
-      "Joachim Wolff [Klaus Stieringer]"
-    ],
-    [
-      "Achmed",
-      "Ali Branowitch [Joachim Wolff]"
-    ],
-    [
-      "Hamid",
-      "Alexander Körting"
-    ],
-    [
-      "Harry",
-      "Peter Buchholz"
-    ],
-    [
-      "Joe",
-      "Reiner Brönneke"
-    ],
-    [
-      "Uhrenmacher",
-      "Gernot Endemann"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Patrick",
+      "sprecher" : "Wolfgang Kubach"
+    },
+    {
+      "rolle" : "Professor Yarborough",
+      "sprecher" : "Karl Walter Diess"
+    },
+    {
+      "rolle" : "Wilkins, sein Butler",
+      "sprecher" : "Ulrich Matschoss"
+    },
+    {
+      "rolle" : "Professor Freeman",
+      "sprecher" : "Klaus Stieringer",
+      "pseudonym" : "Viktor Bramer"
+    },
+    {
+      "rolle" : "Achmed",
+      "sprecher" : "Joachim Wolff",
+      "pseudonym" : "Ali Branowitch"
+    },
+    {
+      "rolle" : "Hamid",
+      "sprecher" : "Alexander Körting"
+    },
+    {
+      "rolle" : "Harry",
+      "sprecher" : "Peter Buchholz"
+    },
+    {
+      "rolle" : "Joe",
+      "sprecher" : "Reiner Brönneke"
+    },
+    {
+      "rolle" : "Uhrenmacher",
+      "sprecher" : "Gernot Endemann"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/010/metadata.json",

@@ -51,75 +51,75 @@
       "end" : 3434200
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Taylor-Jackson",
-      "Jona Mues"
-    ],
-    [
-      "Samantha",
-      "Henrike Fehrs"
-    ],
-    [
-      "Jason",
-      "Woody Mues"
-    ],
-    [
-      "Mrs. Roalstad",
-      "Beate Rysopp"
-    ],
-    [
-      "Prof. Roalstad",
-      "Jürgen Thormann"
-    ],
-    [
-      "Corvy",
-      "Karen Suender"
-    ],
-    [
-      "Mrs. Fernandez",
-      "Anja Topf"
-    ],
-    [
-      "Lemuel Garvine",
-      "Tim Grobe"
-    ],
-    [
-      "Emery",
-      "Peter Weis"
-    ],
-    [
-      "Ginger",
-      "Heidi Schaffrath"
-    ],
-    [
-      "Sanitäter",
-      "Franzisko Löwe"
-    ],
-    [
-      "Schwester",
-      "Maike Nagel"
-    ],
-    [
-      "Menge",
-      "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Taylor-Jackson",
+      "sprecher" : "Jona Mues"
+    },
+    {
+      "rolle" : "Samantha",
+      "sprecher" : "Henrike Fehrs"
+    },
+    {
+      "rolle" : "Jason",
+      "sprecher" : "Woody Mues"
+    },
+    {
+      "rolle" : "Mrs. Roalstad",
+      "sprecher" : "Beate Rysopp"
+    },
+    {
+      "rolle" : "Prof. Roalstad",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Corvy",
+      "sprecher" : "Karen Suender"
+    },
+    {
+      "rolle" : "Mrs. Fernandez",
+      "sprecher" : "Anja Topf"
+    },
+    {
+      "rolle" : "Lemuel Garvine",
+      "sprecher" : "Tim Grobe"
+    },
+    {
+      "rolle" : "Emery",
+      "sprecher" : "Peter Weis"
+    },
+    {
+      "rolle" : "Ginger",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Sanitäter",
+      "sprecher" : "Franzisko Löwe"
+    },
+    {
+      "rolle" : "Schwester",
+      "sprecher" : "Maike Nagel"
+    },
+    {
+      "rolle" : "Menge",
+      "sprecher" : "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/175/2/metadata.json",

@@ -47,63 +47,63 @@
       "end" : 3310573
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Pablo",
-      "Kai Hendrik Möller"
-    ],
-    [
-      "Dr. Brolin",
-      "Karl-Friedrich Gerster"
-    ],
-    [
-      "Jenkins",
-      "Gustav-Adolph Artz"
-    ],
-    [
-      "Professor Clark",
-      "Thor W. Müller"
-    ],
-    [
-      "Bürgermeister Hoover",
-      "Michael Griem"
-    ],
-    [
-      "Margie",
-      "Susanne Leu"
-    ],
-    [
-      "Mike",
-      "Achim Schülke"
-    ],
-    [
-      "Clark",
-      "Wolf Rathjen"
-    ],
-    [
-      "Wachmann",
-      "Kristian Kretschmer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Pablo",
+      "sprecher" : "Kai Henrik Möller"
+    },
+    {
+      "rolle" : "Dr. Brolin",
+      "sprecher" : "Karl-Friedrich Gerster"
+    },
+    {
+      "rolle" : "Jenkins",
+      "sprecher" : "Gustav-Adolph Artz"
+    },
+    {
+      "rolle" : "Professor Clark",
+      "sprecher" : "Thor W. Müller"
+    },
+    {
+      "rolle" : "Bürgermeister Hoover",
+      "sprecher" : "Michael Griem"
+    },
+    {
+      "rolle" : "Margie",
+      "sprecher" : "Susanna Leu"
+    },
+    {
+      "rolle" : "Mike",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Clark",
+      "sprecher" : "Wolf Rahtjen"
+    },
+    {
+      "rolle" : "Wachmann",
+      "sprecher" : "Kristian Kretschmer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/110/metadata.json",

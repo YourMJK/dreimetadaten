@@ -77,63 +77,63 @@
       "end" : 4238493
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Greenwalt",
-      "Harald Dietl"
-    ],
-    [
-      "Brock",
-      "Guido A. Schick"
-    ],
-    [
-      "Deforge",
-      "Bruno F. Apitz"
-    ],
-    [
-      "Mrs. Kretchmer",
-      "Monika Werner"
-    ],
-    [
-      "Mrs. Espenson",
-      "Karin Eckhold"
-    ],
-    [
-      "Mrs. Wondratschek",
-      "Ela Nitzsche"
-    ],
-    [
-      "Mrs. Field",
-      "Celine Fontanges"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mr. Harris",
-      "Lutz Harder"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Greenwalt",
+      "sprecher" : "Harald Dietl"
+    },
+    {
+      "rolle" : "Brock",
+      "sprecher" : "Guido A. Schick"
+    },
+    {
+      "rolle" : "Deforge",
+      "sprecher" : "Bruno F. Apitz"
+    },
+    {
+      "rolle" : "Mrs. Kretchmer",
+      "sprecher" : "Monika Werner"
+    },
+    {
+      "rolle" : "Mrs. Espenson",
+      "sprecher" : "Karin Eckhold"
+    },
+    {
+      "rolle" : "Mrs. Wondratschek",
+      "sprecher" : "Ela Nitzsche"
+    },
+    {
+      "rolle" : "Mrs. Field",
+      "sprecher" : "Celine Fontanges"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mr. Harris",
+      "sprecher" : "Lutz Harder"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/161/metadata.json",

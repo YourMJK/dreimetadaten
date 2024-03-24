@@ -37,79 +37,79 @@
       "end" : 4496507
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Doe Dungeon, Programmierer",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Lili Buschfort",
-      "Christina Holsten"
-    ],
-    [
-      "Tom Beker",
-      "Wolfgang Hartmann"
-    ],
-    [
-      "Märchenerzähler",
-      "Hans Paetsch"
-    ],
-    [
-      "Königin Trulie",
-      "Hanna Reisch"
-    ],
-    [
-      "Vinton",
-      "Nils Noller"
-    ],
-    [
-      "Amme",
-      "Katharina Brauren"
-    ],
-    [
-      "Medusa",
-      "Marianne Kehlau"
-    ],
-    [
-      "Oinki Hinki",
-      "Niko Minninger"
-    ],
-    [
-      "Vampir-Frau",
-      "Julia von Spieß"
-    ],
-    [
-      "Hexe",
-      "Micaela Kreißler"
-    ],
-    [
-      "Oma",
-      "Beate Hasenau"
-    ],
-    [
-      "Wache",
-      "Michael Quiatkowsky"
-    ],
-    [
-      "Computerstimme",
-      "Sascha Gutzeit"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Doe Dungeon, Programmierer",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Lili Buschfort",
+      "sprecher" : "Christina Holsten"
+    },
+    {
+      "rolle" : "Tom Beker",
+      "sprecher" : "Wolfgang Hartmann"
+    },
+    {
+      "rolle" : "Märchenerzähler",
+      "sprecher" : "Hans Paetsch"
+    },
+    {
+      "rolle" : "Königin Trulie",
+      "sprecher" : "Hanna Reisch"
+    },
+    {
+      "rolle" : "Vinton",
+      "sprecher" : "Nils Noller"
+    },
+    {
+      "rolle" : "Amme",
+      "sprecher" : "Katharina Brauren"
+    },
+    {
+      "rolle" : "Medusa",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "Oinki Hinki",
+      "sprecher" : "Niko Minninger"
+    },
+    {
+      "rolle" : "Vampir-Frau",
+      "sprecher" : "Julia von Spieß"
+    },
+    {
+      "rolle" : "Hexe",
+      "sprecher" : "Micaëla Kreißler"
+    },
+    {
+      "rolle" : "Oma",
+      "sprecher" : "Beate Hasenau"
+    },
+    {
+      "rolle" : "Wache",
+      "sprecher" : "Michael Quiatkowsky"
+    },
+    {
+      "rolle" : "Computerstimme",
+      "sprecher" : "Sascha Gutzeit"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/088/metadata.json",

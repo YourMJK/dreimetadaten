@@ -37,47 +37,47 @@
       "end" : 3603800
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Jelena Charkov",
-      "Alexandra Doerk"
-    ],
-    [
-      "Mr. Charkov",
-      "Klaus Dittmann"
-    ],
-    [
-      "Dr. Arroway",
-      "Sona Cervena"
-    ],
-    [
-      "Janet, ihre Assistentin",
-      "Ute Rohrbeck"
-    ],
-    [
-      "Tom Gordon",
-      "Philip Hoier"
-    ],
-    [
-      "Dixon",
-      "Utz Richter"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Jelena Charkova",
+      "sprecher" : "Alexandra Doerk"
+    },
+    {
+      "rolle" : "Mr. Charkov",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Dr. Arroway",
+      "sprecher" : "Soňa Červená"
+    },
+    {
+      "rolle" : "Janet, ihre Assistentin",
+      "sprecher" : "Ute Rohrbeck"
+    },
+    {
+      "rolle" : "Tom Gordon",
+      "sprecher" : "Philip Hoier"
+    },
+    {
+      "rolle" : "Dixon",
+      "sprecher" : "Utz Richter"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/095/metadata.json",

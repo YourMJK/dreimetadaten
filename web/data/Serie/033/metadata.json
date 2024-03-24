@@ -47,63 +47,64 @@
       "end" : 2657067
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Patrick",
-      "Wolfgang Kubach"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Peter Kirchberger"
-    ],
-    [
-      "Mr. Barron",
-      "Pinkas Braun"
-    ],
-    [
-      "Mrs. Barron",
-      "Monika Peitsch"
-    ],
-    [
-      "Hank Detweiler",
-      "Siegfried Wald"
-    ],
-    [
-      "Elsie Spratt",
-      "Pia Werfel [Barbara Focke]"
-    ],
-    [
-      "Leutnant Ferrante",
-      "Volkert Kraeft"
-    ],
-    [
-      "Bones",
-      "Siegfried Meyerheim [Helmut Zierl]"
-    ],
-    [
-      "vermeintlicher US-Präsident",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Horst Frank"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Patrick",
+      "sprecher" : "Wolfgang Kubach"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Peter Kirchberger"
+    },
+    {
+      "rolle" : "Mr. Barron",
+      "sprecher" : "Pinkas Braun"
+    },
+    {
+      "rolle" : "Mrs. Barron",
+      "sprecher" : "Monika Peitsch"
+    },
+    {
+      "rolle" : "Hank Detweiler",
+      "sprecher" : "Siegfried Wald"
+    },
+    {
+      "rolle" : "Elsie Spratt",
+      "sprecher" : "Barbara Focke"
+    },
+    {
+      "rolle" : "Leutnant Ferrante",
+      "sprecher" : "Volkert Kraeft"
+    },
+    {
+      "rolle" : "Bones",
+      "sprecher" : "Helmut Zierl",
+      "pseudonym" : "Siegfried Meyerheim"
+    },
+    {
+      "rolle" : "vermeintlicher US-Präsident",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Horst Frank"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/033/metadata.json",

@@ -47,71 +47,74 @@
       "end" : 2662960
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Andy Carson",
-      "Stefan Schwade"
-    ],
-    [
-      "Mr. Carson",
-      "Reiner Brönneke"
-    ],
-    [
-      "Khan, der Kraftmensch",
-      "René Genesis"
-    ],
-    [
-      "Einzigartiger Gabbo",
-      "Iwan Raszinsky [Karl-Ulrich Meves]"
-    ],
-    [
-      "Iwan",
-      "Boris Stepin [Wolfgang Kubach]"
-    ],
-    [
-      "Junge",
-      "Philip Baader"
-    ],
-    [
-      "Hauptkommissar Reynolds",
-      "Horst Frank"
-    ],
-    [
-      "Der alte Mann",
-      "Lothar Grützner"
-    ],
-    [
-      "Wachmann",
-      "Peter Buchholz"
-    ],
-    [
-      "Jungen",
-      "Stefan Brönneke, Alexander Körting"
-    ],
-    [
-      "Jahrmarktfrau",
-      "Heikedine Körting"
-    ],
-    [
-      "Funksprecher",
-      "Gernot Endemann"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Andy Carson",
+      "sprecher" : "Stefan Schwade"
+    },
+    {
+      "rolle" : "Mr. Carson",
+      "sprecher" : "Reiner Brönneke"
+    },
+    {
+      "rolle" : "Khan, der Kraftmensch",
+      "sprecher" : "René Genesis"
+    },
+    {
+      "rolle" : "Einzigartiger Gabbo",
+      "sprecher" : "Karl-Ulrich Meves",
+      "pseudonym" : "Iwan Raszinsky"
+    },
+    {
+      "rolle" : "Iwan",
+      "sprecher" : "Wolfgang Kubach",
+      "pseudonym" : "Boris Stepin"
+    },
+    {
+      "rolle" : "Junge 1",
+      "sprecher" : "Stefan Brönneke",
+      "pseudonym" : "Philip Baader"
+    },
+    {
+      "rolle" : "Junge 2",
+      "sprecher" : "Alexander Körting"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Horst Frank"
+    },
+    {
+      "rolle" : "Der alte Mann",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Wachmann",
+      "sprecher" : "Peter Buchholz"
+    },
+    {
+      "rolle" : "Jahrmarktfrau",
+      "sprecher" : "Heikedine Körting"
+    },
+    {
+      "rolle" : "Funksprecher",
+      "sprecher" : "Gernot Endemann"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/004/metadata.json",

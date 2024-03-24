@@ -42,47 +42,47 @@
       "end" : 4568253
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Laurenne Duffy",
-      "Heidi Schaffrath"
-    ],
-    [
-      "Joe Patwin",
-      "Jürgen Uter"
-    ],
-    [
-      "Trevor Tompson",
-      "Marek Erhardt"
-    ],
-    [
-      "Bruce Osborne",
-      "Martin Paas"
-    ],
-    [
-      "Kelly",
-      "Henrike Fehrs"
-    ],
-    [
-      "Walt Duffy",
-      "Stephan Benson"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Laurenne Duffy",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Joe Patwin",
+      "sprecher" : "Jürgen Uter"
+    },
+    {
+      "rolle" : "Trevor Tompson",
+      "sprecher" : "Marek Erhardt"
+    },
+    {
+      "rolle" : "Bruce Osborne",
+      "sprecher" : "Martin Paas"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Henrike Fehrs"
+    },
+    {
+      "rolle" : "Walt Duffy",
+      "sprecher" : "Stephan Benson"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/202/metadata.json",

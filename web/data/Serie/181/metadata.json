@@ -47,75 +47,75 @@
       "end" : 4413560
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Quinn",
-      "Tobias Diakow"
-    ],
-    [
-      "Nightingale",
-      "Jürgen Thormann"
-    ],
-    [
-      "Pablo",
-      "Till Huster"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mrs. Thompson",
-      "Ingeborg Kallweit"
-    ],
-    [
-      "Mrs. Kato",
-      "Dorothea Hagena"
-    ],
-    [
-      "Sullivan",
-      "Jonas Hartmann"
-    ],
-    [
-      "Angelina",
-      "Norma Draeger"
-    ],
-    [
-      "Joshua",
-      "Hugo Richert"
-    ],
-    [
-      "1. Junge",
-      "Louis Körting"
-    ],
-    [
-      "2. Junge",
-      "Henrik Bichels"
-    ],
-    [
-      "Mädchen",
-      "Lilian Körting"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Quinn",
+      "sprecher" : "Tobias Diakow"
+    },
+    {
+      "rolle" : "Nightingale",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Pablo",
+      "sprecher" : "Till Huster"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mrs. Thompson",
+      "sprecher" : "Ingeborg Kallweit"
+    },
+    {
+      "rolle" : "Mrs. Kato",
+      "sprecher" : "Dorothea Hagena"
+    },
+    {
+      "rolle" : "Sullivan",
+      "sprecher" : "Jonas Hartmann"
+    },
+    {
+      "rolle" : "Angelina",
+      "sprecher" : "Norma Draeger"
+    },
+    {
+      "rolle" : "Joshua",
+      "sprecher" : "Hugo Richert"
+    },
+    {
+      "rolle" : "Junge 1",
+      "sprecher" : "Louis Körting"
+    },
+    {
+      "rolle" : "Junge 2",
+      "sprecher" : "Henrik Bichels"
+    },
+    {
+      "rolle" : "Mädchen",
+      "sprecher" : "Lilian Körting"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/181/metadata.json",

@@ -47,55 +47,55 @@
       "end" : 3555013
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Alberto Bergamelli, Fotograf",
-      "Holger Mahlich"
-    ],
-    [
-      "Alexandra",
-      "Reinhilt Schneider"
-    ],
-    [
-      "Ignazio, Pensionswirt",
-      "Leonardo Cuseneza"
-    ],
-    [
-      "Sofia, Pensionswirtin",
-      "Maria Chirivi"
-    ],
-    [
-      "Franca",
-      "Samira Chanfir"
-    ],
-    [
-      "Italienerin",
-      "Francesca Chiavon"
-    ],
-    [
-      "1. Italiener",
-      "Marcello Grassi"
-    ],
-    [
-      "2. Italiener",
-      "Luigi Pane"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Alberto Bergamelli, Fotograf",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Alexandra",
+      "sprecher" : "Reinhilt Schneider"
+    },
+    {
+      "rolle" : "Ignazio, Pensionswirt",
+      "sprecher" : "Leonardo Cusenza"
+    },
+    {
+      "rolle" : "Sofia, Pensionswirtin",
+      "sprecher" : "Maria Chirivi"
+    },
+    {
+      "rolle" : "Franca",
+      "sprecher" : "Samira Chanfir"
+    },
+    {
+      "rolle" : "Italienerin",
+      "sprecher" : "Francesca Chiavon"
+    },
+    {
+      "rolle" : "Italiener 1",
+      "sprecher" : "Marcello Grassi"
+    },
+    {
+      "rolle" : "Italiener 2",
+      "sprecher" : "Luigi Pane"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/066/metadata.json",

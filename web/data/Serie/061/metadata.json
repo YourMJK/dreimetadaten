@@ -47,63 +47,63 @@
       "end" : 3569320
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Milton Mitchell",
-      "Holger Mahlich"
-    ],
-    [
-      "Fred Hall",
-      "Thomas Thomé"
-    ],
-    [
-      "Anne",
-      "Janina Richter"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Kellner",
-      "Thomas Stein"
-    ],
-    [
-      "Portland",
-      "Wolfgang Völz"
-    ],
-    [
-      "Inspektor Cotta",
-      "Willem Fricke"
-    ],
-    [
-      "Charlie",
-      "Anne Marr"
-    ],
-    [
-      "Kundin",
-      "Ursula Sieg"
-    ],
-    [
-      "Adams",
-      "Hans Hessling"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Milton Mitchell",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Fred Hall",
+      "sprecher" : "Thomas Thomé"
+    },
+    {
+      "rolle" : "Anne",
+      "sprecher" : "Janina Richter"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Kellner",
+      "sprecher" : "Thomas M. Stein"
+    },
+    {
+      "rolle" : "Portland",
+      "sprecher" : "Wolfgang Völz"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Willem Fricke"
+    },
+    {
+      "rolle" : "Charlie",
+      "sprecher" : "Anne Marr"
+    },
+    {
+      "rolle" : "Kundin",
+      "sprecher" : "Ursula Sieg"
+    },
+    {
+      "rolle" : "Adams",
+      "sprecher" : "Hans Hessling"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/061/metadata.json",

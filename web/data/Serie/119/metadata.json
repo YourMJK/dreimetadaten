@@ -77,59 +77,60 @@
       "end" : 4063440
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Caitlin Kopperschmidt",
-      "Marion Martienzen"
-    ],
-    [
-      "Jeremy Kopperschmidt",
-      "Lutz Herkenrath"
-    ],
-    [
-      "Graig Kopperschmidt",
-      "Mario Grete"
-    ],
-    [
-      "George",
-      "Hendrik König"
-    ],
-    [
-      "Anthony Quinn",
-      "Franz-Joseph Steffens"
-    ],
-    [
-      "Martha",
-      "Sabine Falkenberg"
-    ],
-    [
-      "Felix Kopperschmidt",
-      "Herrmann Otto"
-    ],
-    [
-      "Mann",
-      "Frank Felicetti"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Caitlin Kopperschmidt",
+      "sprecher" : "Marion Martienzen"
+    },
+    {
+      "rolle" : "Jeremy Kopperschmidt",
+      "sprecher" : "Lutz Herkenrath"
+    },
+    {
+      "rolle" : "Graig Kopperschmidt",
+      "sprecher" : "Mario Grete"
+    },
+    {
+      "rolle" : "George",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Anthony Quinn",
+      "sprecher" : "Franz-Josef Steffens"
+    },
+    {
+      "rolle" : "Martha",
+      "sprecher" : "Sabine Falkenberg"
+    },
+    {
+      "rolle" : "Felix Kopperschmidt",
+      "sprecher" : "Hermann Otto"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Frank Felicetti"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/119/metadata.json",

@@ -47,59 +47,59 @@
       "end" : 2960987
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "August August, genannt Gus",
-      "Stephan Chreszinski"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Mr. Dwiggins",
-      "Joachim Wolff"
-    ],
-    [
-      "Mr. Rhandur",
-      "Gottfried Kramer"
-    ],
-    [
-      "Joe",
-      "Peter Buchholz"
-    ],
-    [
-      "Lisa",
-      "Madeleine Stolze"
-    ],
-    [
-      "Mutter",
-      "Renate Pichler"
-    ],
-    [
-      "Patrick Kenneth",
-      "Wolfgang Kubach"
-    ],
-    [
-      "Bauarbeiter",
-      "Gernot Endemann"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "August August, genannt Gus",
+      "sprecher" : "Stephan Chrzescinski"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Mr. Dwiggins",
+      "sprecher" : "Joachim Wolff"
+    },
+    {
+      "rolle" : "Mr. Rhandur",
+      "sprecher" : "Gottfried Kramer"
+    },
+    {
+      "rolle" : "Joe",
+      "sprecher" : "Peter Buchholz"
+    },
+    {
+      "rolle" : "Lisa",
+      "sprecher" : "Madeleine Stolze"
+    },
+    {
+      "rolle" : "Mutter",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Patrick Kenneth",
+      "sprecher" : "Wolfgang Kubach"
+    },
+    {
+      "rolle" : "Bauarbeiter",
+      "sprecher" : "Gernot Endemann"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/005/metadata.json",

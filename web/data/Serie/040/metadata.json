@@ -47,75 +47,75 @@
       "end" : 2821360
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Jacobs",
-      "Horst Naumann"
-    ],
-    [
-      "Paul Jacobs",
-      "Sascha Draeger"
-    ],
-    [
-      "Onkel Titus",
-      "Gottfried Kramer"
-    ],
-    [
-      "Tante Mathilda",
-      "Ingeborg Kallweit"
-    ],
-    [
-      "Mr. Temple",
-      "Jochen Sehrndt"
-    ],
-    [
-      "Sarah Temple",
-      "Svenja Pages"
-    ],
-    [
-      "Willard Temple",
-      "Ben Becker"
-    ],
-    [
-      "Polizeileutnant",
-      "Günter König"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Hauptkomm. Reynolds",
-      "Günter Flesch"
-    ],
-    [
-      "Margon",
-      "Henry Kielmann"
-    ],
-    [
-      "William Margon",
-      "Michael Grimm"
-    ],
-    [
-      "Passanten",
-      "Lothar Grützner, Hans Hessling"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Jacobs",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Paul Jacobs",
+      "sprecher" : "Sascha Draeger"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Gottfried Kramer"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingeborg Kallweit"
+    },
+    {
+      "rolle" : "Mr. Temple",
+      "sprecher" : "Jochen Sehrndt"
+    },
+    {
+      "rolle" : "Sarah Temple",
+      "sprecher" : "Svenja Pages"
+    },
+    {
+      "rolle" : "Willard Temple",
+      "sprecher" : "Ben Becker"
+    },
+    {
+      "rolle" : "Polizeileutnant",
+      "sprecher" : "Günter König"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Günther Flesch"
+    },
+    {
+      "rolle" : "Margon",
+      "sprecher" : "Henry Kielmann"
+    },
+    {
+      "rolle" : "William Margon",
+      "sprecher" : "Michael Grimm"
+    },
+    {
+      "rolle" : "Passanten",
+      "sprecher" : "Lothar Grützner, Hans Hessling"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/040/metadata.json",

@@ -37,43 +37,43 @@
       "end" : 4199867
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Milva Summer, Astrologin",
-      "Elizabeth Volkmann"
-    ],
-    [
-      "Professor Steed, Tiermediziner",
-      "Henning Schlüter"
-    ],
-    [
-      "Daniel Art, Bodyguard",
-      "Monty Arnold"
-    ],
-    [
-      "Mike Hanson, Reporter",
-      "Corny Littmann"
-    ],
-    [
-      "Nachrichtensprecher",
-      "Werner Pohlenz"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Milva Summer, Astrologin",
+      "sprecher" : "Elisabeth Volkmann"
+    },
+    {
+      "rolle" : "Professor Steed, Tiermediziner",
+      "sprecher" : "Henning Schlüter"
+    },
+    {
+      "rolle" : "Daniel Art, Bodyguard",
+      "sprecher" : "Monty Arnold"
+    },
+    {
+      "rolle" : "Mike Hanson, Reporter",
+      "sprecher" : "Corny Littmann"
+    },
+    {
+      "rolle" : "Nachrichtensprecher",
+      "sprecher" : "Werner Pohlenz"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/082/metadata.json",

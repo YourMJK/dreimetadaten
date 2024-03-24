@@ -47,47 +47,48 @@
       "end" : 2721773
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "H. H. Allen",
-      "Werner Cartano"
-    ],
-    [
-      "Mr. Shelby",
-      "Richard Lauffen"
-    ],
-    [
-      "Mr. Carter",
-      "F. J. Steffens"
-    ],
-    [
-      "Jack Morgan",
-      "Klaus Klein [Wolfgang Kubach]"
-    ],
-    [
-      "Harry Morgan",
-      "Reiner Brönneke"
-    ],
-    [
-      "Telephonistin",
-      "Reinhild Schneider"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "H. H. Allen",
+      "sprecher" : "Werner Cartano"
+    },
+    {
+      "rolle" : "Mr. Shelby",
+      "sprecher" : "Richard Lauffen"
+    },
+    {
+      "rolle" : "Mr. Carter",
+      "sprecher" : "Franz-Josef Steffens"
+    },
+    {
+      "rolle" : "Jack Morgan",
+      "sprecher" : "Wolfgang Kubach",
+      "pseudonym" : "Klaus Klein"
+    },
+    {
+      "rolle" : "Harry Morgan",
+      "sprecher" : "Reiner Brönneke"
+    },
+    {
+      "rolle" : "Telephonistin",
+      "sprecher" : "Reinhilt Schneider"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/007/metadata.json",

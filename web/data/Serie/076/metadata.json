@@ -47,59 +47,59 @@
       "end" : 4184827
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Abigail Holligan",
-      "Katharina Brauren"
-    ],
-    [
-      "Metzla Holligan",
-      "Beate Hasenau"
-    ],
-    [
-      "Dr. Franklin",
-      "Judy Winter"
-    ],
-    [
-      "Dr. Miller",
-      "Marianne Kehlau"
-    ],
-    [
-      "Mrs. Petersen",
-      "Victoria Voncampe"
-    ],
-    [
-      "Sekretariat",
-      "\"Fettes Brot\""
-    ],
-    [
-      "Mr. Brian",
-      "Peter Schubert"
-    ],
-    [
-      "Mrs. Dream",
-      "Petra Ehlers"
-    ],
-    [
-      "Jack Cliffwater",
-      "Thomas Schüler"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Abigail Holligan",
+      "sprecher" : "Katharina Brauren"
+    },
+    {
+      "rolle" : "Metzla Holligan",
+      "sprecher" : "Beate Hasenau"
+    },
+    {
+      "rolle" : "Clarissa Franklin",
+      "sprecher" : "Judy Winter"
+    },
+    {
+      "rolle" : "Dr. Miller",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "Mrs. Petersen",
+      "sprecher" : "Victoria Voncampe"
+    },
+    {
+      "rolle" : "Sekretariat",
+      "sprecher" : "\"Fettes Brot\""
+    },
+    {
+      "rolle" : "Mr. Brian",
+      "sprecher" : "Peter Schubert"
+    },
+    {
+      "rolle" : "Mrs. Dream",
+      "sprecher" : "Petra Ehlers"
+    },
+    {
+      "rolle" : "Jack Cliffwater",
+      "sprecher" : "Thomas Schüler"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/076/metadata.json",

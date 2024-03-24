@@ -52,55 +52,55 @@
       "end" : 4011933
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Allie Jamison",
-      "Katrin Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Ursula Burns",
-      "Birke Bruck"
-    ],
-    [
-      "Emerald Pendragon",
-      "Monty Arnold"
-    ],
-    [
-      "Carl Parsley",
-      "Peter Weis"
-    ],
-    [
-      "Sunshine",
-      "Dagmar Dreke"
-    ],
-    [
-      "1. Mann",
-      "Tetje Mierendorf"
-    ],
-    [
-      "2. Mann",
-      "Gosta Liptow"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Allie Jamison",
+      "sprecher" : "Katrin Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Ursula Burns",
+      "sprecher" : "Birke Bruck"
+    },
+    {
+      "rolle" : "Emerald Pendragon",
+      "sprecher" : "Monty Arnold"
+    },
+    {
+      "rolle" : "Carl Parsley",
+      "sprecher" : "Peter Weis"
+    },
+    {
+      "rolle" : "Sunshine",
+      "sprecher" : "Dagmar Dreke"
+    },
+    {
+      "rolle" : "Mann 1",
+      "sprecher" : "Tetje Mierendorf"
+    },
+    {
+      "rolle" : "Mann 2",
+      "sprecher" : "Gosta Liptow"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/148/metadata.json",

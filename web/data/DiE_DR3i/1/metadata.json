@@ -287,67 +287,67 @@
       "end" : 7993773
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Jupiter Jones",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Crenshaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Milton",
-      "Holger Mahlich"
-    ],
-    [
-      "Mrs. Ashby",
-      "Sabine Hahn"
-    ],
-    [
-      "Charles Prendergast",
-      "Rolf Nagel"
-    ],
-    [
-      "Richard Crandall",
-      "Konstantin Graudus"
-    ],
-    [
-      "Kirk Prendergast",
-      "Wolf Frass"
-    ],
-    [
-      "Blacky",
-      "Heikedine Körting"
-    ],
-    [
-      "Jonathan Godfrey",
-      "Eric Schäffler"
-    ],
-    [
-      "Carlos",
-      "Eduardo Garcia"
-    ],
-    [
-      "Garrett",
-      "Dietrich Adam"
-    ],
-    [
-      "Riteman",
-      "Till Demtrøder"
-    ],
-    [
-      "Stanley",
-      "Lutz Schnell"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Jupiter Jones",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Crenshaw",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Milton",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mrs. Ashby",
+      "sprecher" : "Sabine Hahn"
+    },
+    {
+      "rolle" : "Charles Prendergast",
+      "sprecher" : "Rolf Nagel"
+    },
+    {
+      "rolle" : "Richard Crandall",
+      "sprecher" : "Konstantin Graudus"
+    },
+    {
+      "rolle" : "Kirk Prendergast",
+      "sprecher" : "Wolf Frass"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    },
+    {
+      "rolle" : "Jonathan Godfrey",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Carlos",
+      "sprecher" : "Eduardo Garcia"
+    },
+    {
+      "rolle" : "Garrett",
+      "sprecher" : "Dietrich Adam"
+    },
+    {
+      "rolle" : "Riteman",
+      "sprecher" : "Till Demtrøder"
+    },
+    {
+      "rolle" : "Stanley",
+      "sprecher" : "Lutz Schnell"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/metadata.json",

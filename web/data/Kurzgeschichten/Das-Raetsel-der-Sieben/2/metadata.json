@@ -22,31 +22,32 @@
           "end" : 1574187
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Tante Mathilda Jonas",
-          "Karin Lieneweg"
-        ],
-        [
-          "Onkel Titus Jonas",
-          "Hans Meinhardt"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/metadata.json",
@@ -75,47 +76,47 @@
           "end" : 1174080
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Croupier",
-          "Gosta Liptow"
-        ],
-        [
-          "Carl Hopkins, Physiker",
-          "Ben Hecker"
-        ],
-        [
-          "Miller, Schiffsdetektiv",
-          "Michael Grimm"
-        ],
-        [
-          "Kapitän Sherwood",
-          "Horst Naumann"
-        ],
-        [
-          "Theodore Quaid",
-          "Dietrich Adam"
-        ],
-        [
-          "Jamie Peterson, Barmann",
-          "Patrick Bach"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Croupier",
+          "sprecher" : "Gosta Liptow"
+        },
+        {
+          "rolle" : "Carl Hopkins, Physiker",
+          "sprecher" : "Ben Hecker"
+        },
+        {
+          "rolle" : "Miller, Schiffsdetektiv",
+          "sprecher" : "Michael Grimm"
+        },
+        {
+          "rolle" : "Kapitän Sherwood",
+          "sprecher" : "Horst Naumann"
+        },
+        {
+          "rolle" : "Theodore Quaid",
+          "sprecher" : "Dietrich Adam"
+        },
+        {
+          "rolle" : "Jamie Peterson, Barmann",
+          "sprecher" : "Patrick Bach"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/4/metadata.json",

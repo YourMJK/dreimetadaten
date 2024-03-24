@@ -47,43 +47,44 @@
       "end" : 4066453
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Janet Hazelwood",
-      "Marianne Kehlau"
-    ],
-    [
-      "Laura Stryker",
-      "Regina Lemnitz"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Mrs. White",
-      "Brigitte Böttrich"
-    ],
-    [
-      "Mr. Collins",
-      "Daniel Eggers"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Janet Hazelwood",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "Laura Stryker",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Mrs. White",
+      "sprecher" : "Brigitte Böttrich"
+    },
+    {
+      "rolle" : "Mr. Collins",
+      "sprecher" : "Daniel Eggers"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/097/metadata.json",

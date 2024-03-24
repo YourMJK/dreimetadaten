@@ -57,67 +57,68 @@
       "end" : 3920920
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Jupiter Jones",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Crenshaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda Jones",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus Jones",
-      "Hans Meinhardt"
-    ],
-    [
-      "Marty Stevens",
-      "Lutz Harder"
-    ],
-    [
-      "Joshua Apeh",
-      "Achim Schülke"
-    ],
-    [
-      "Claudia Salazar",
-      "Marion Elskis"
-    ],
-    [
-      "Ralf Dempsey",
-      "Robin Brosch"
-    ],
-    [
-      "Marvin Cox",
-      "Jörg Gillner"
-    ],
-    [
-      "Anna",
-      "Micaela Kreissler"
-    ],
-    [
-      "George",
-      "Eric Schaeffler"
-    ],
-    [
-      "Hapa",
-      "Michael Weckler"
-    ],
-    [
-      "Lastwagenfahrer",
-      "Tim Wenderoth"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Jupiter Jones",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Crenshaw",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda Jones",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus Jones",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Marty Stevens",
+      "sprecher" : "Lutz Harder"
+    },
+    {
+      "rolle" : "Joshua Apeh",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Claudia Salazar",
+      "sprecher" : "Marion Elskis"
+    },
+    {
+      "rolle" : "Ralf Dempsey",
+      "sprecher" : "Robin Brosch"
+    },
+    {
+      "rolle" : "Marvin Cox",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Anna",
+      "sprecher" : "Micaëla Kreißler"
+    },
+    {
+      "rolle" : "George",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Hapa",
+      "sprecher" : "Michael Weckler"
+    },
+    {
+      "rolle" : "Lastwagenfahrer",
+      "sprecher" : "Tim Wenderoth"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/7/metadata.json",

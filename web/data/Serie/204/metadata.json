@@ -37,51 +37,51 @@
       "end" : 4144067
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mary",
-      "Marion Gretchen-Schmitz"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Potato-Fred",
-      "Peter Weis"
-    ],
-    [
-      "Mr. Pinches",
-      "Jürgen Uter"
-    ],
-    [
-      "Carter Bridou",
-      "Peter G. Dirmeier"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mary",
+      "sprecher" : "Marion Gretchen Schmitz"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Potato-Fred",
+      "sprecher" : "Peter Weis"
+    },
+    {
+      "rolle" : "Mr. Pinches",
+      "sprecher" : "Jürgen Uter"
+    },
+    {
+      "rolle" : "Carter Bridou",
+      "sprecher" : "Peter G. Dirmeier"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/204/metadata.json",

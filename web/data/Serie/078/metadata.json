@@ -37,63 +37,64 @@
       "end" : 3448987
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Albert Hitfield",
-      "Manfred Steffen"
-    ],
-    [
-      "Morton, Chauffeur",
-      "Andreas von der Meden"
-    ],
-    [
-      "Lys",
-      "Kerstin Draeger"
-    ],
-    [
-      "J.J.",
-      "Gregor Reisch"
-    ],
-    [
-      "Julius Jonas",
-      "Wolfgang Kaven"
-    ],
-    [
-      "Catherine Jonas",
-      "Anne Moll"
-    ],
-    [
-      "Arturo",
-      "Carlos Goiach"
-    ],
-    [
-      "Autovermieter",
-      "Richard Ems"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Albert Hitfield",
+      "sprecher" : "Manfred Steffen"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Lys",
+      "sprecher" : "Kerstin Draeger"
+    },
+    {
+      "rolle" : "J.J.",
+      "sprecher" : "Gregor Reisch"
+    },
+    {
+      "rolle" : "Julius Jonas",
+      "sprecher" : "Wolfgang Kaven"
+    },
+    {
+      "rolle" : "Catherine Jonas",
+      "sprecher" : "Anne Moll"
+    },
+    {
+      "rolle" : "Arturo",
+      "sprecher" : "Carlos Goiach"
+    },
+    {
+      "rolle" : "Autovermieter",
+      "sprecher" : "Richard Ems"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/078/metadata.json",

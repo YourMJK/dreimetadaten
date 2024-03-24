@@ -37,67 +37,68 @@
       "end" : 3559333
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Karen Sulzenberger",
-      "Kristina von Welzin"
-    ],
-    [
-      "Nicola",
-      "Maria Fuchs"
-    ],
-    [
-      "McMannoman",
-      "Wolfgang Noack"
-    ],
-    [
-      "Tony",
-      "Martin Lohmann"
-    ],
-    [
-      "Mrs. Seven",
-      "Eva Gelb"
-    ],
-    [
-      "Trainer",
-      "Hans Sievers"
-    ],
-    [
-      "Roger",
-      "H. P. Kaehler"
-    ],
-    [
-      "1. Mann",
-      "Helmut Ahner"
-    ],
-    [
-      "2. Mann",
-      "Richard Ems"
-    ],
-    [
-      "Kellnerin",
-      "Micaela Kreißler"
-    ],
-    [
-      "Uli",
-      "Norman Messer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Karen Sulzenberger",
+      "sprecher" : "Kristina von Weltzien"
+    },
+    {
+      "rolle" : "Nicola",
+      "sprecher" : "Maria Fuchs"
+    },
+    {
+      "rolle" : "McMannoman",
+      "sprecher" : "Wolfgang Noack"
+    },
+    {
+      "rolle" : "Tony",
+      "sprecher" : "Martin Lohmann"
+    },
+    {
+      "rolle" : "Mrs. Seven",
+      "sprecher" : "Eva Gelb"
+    },
+    {
+      "rolle" : "Trainer",
+      "sprecher" : "Hans Sievers"
+    },
+    {
+      "rolle" : "Roger",
+      "sprecher" : "Klaus-Peter Kaehler"
+    },
+    {
+      "rolle" : "Mann 1",
+      "sprecher" : "Helmut Ahner"
+    },
+    {
+      "rolle" : "Mann 2",
+      "sprecher" : "Richard Ems"
+    },
+    {
+      "rolle" : "Kellnerin",
+      "sprecher" : "Micaëla Kreißler"
+    },
+    {
+      "rolle" : "Uli",
+      "sprecher" : "André Minninger",
+      "pseudonym" : "Norman Messer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/077/metadata.json",

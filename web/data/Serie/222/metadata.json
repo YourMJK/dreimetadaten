@@ -47,67 +47,67 @@
       "end" : 4615480
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Amanda Blunt",
-      "Katy Karrenbauer"
-    ],
-    [
-      "Quinn",
-      "Till Hagen"
-    ],
-    [
-      "Lyn",
-      "Henrike Fehrs"
-    ],
-    [
-      "Opossum",
-      "Reinhold Kammerer"
-    ],
-    [
-      "Nancy",
-      "Britta Steffenhagen"
-    ],
-    [
-      "Odo",
-      "Sebastian König"
-    ],
-    [
-      "Dimwitt",
-      "Achim Schülke"
-    ],
-    [
-      "Telefonstimme",
-      "Nico König"
-    ],
-    [
-      "Colstone",
-      "Peter G. Dirmeier"
-    ],
-    [
-      "Moderatorin",
-      "Petra Kleinert"
-    ],
-    [
-      "Sheriff",
-      "Konstantin Graudus"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Amanda Blunt",
+      "sprecher" : "Katy Karrenbauer"
+    },
+    {
+      "rolle" : "Quinn",
+      "sprecher" : "Till Hagen"
+    },
+    {
+      "rolle" : "Lyn",
+      "sprecher" : "Henrike Fehrs"
+    },
+    {
+      "rolle" : "Opossum",
+      "sprecher" : "Reinhold Kammerer"
+    },
+    {
+      "rolle" : "Nancy",
+      "sprecher" : "Britta Steffenhagen"
+    },
+    {
+      "rolle" : "Odo",
+      "sprecher" : "Sebastian König"
+    },
+    {
+      "rolle" : "Dimwitt",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Telefonstimme",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Colstone",
+      "sprecher" : "Peter G. Dirmeier"
+    },
+    {
+      "rolle" : "Moderatorin",
+      "sprecher" : "Petra Kleinert"
+    },
+    {
+      "rolle" : "Sheriff",
+      "sprecher" : "Konstantin Graudus"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/222/metadata.json",

@@ -47,63 +47,63 @@
       "end" : 3954893
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Arnold Grasso",
-      "Patrick Berg"
-    ],
-    [
-      "Amalia",
-      "Verena Frost"
-    ],
-    [
-      "Sarah",
-      "Jana Schmidt"
-    ],
-    [
-      "Eric",
-      "Rasmus Borowski"
-    ],
-    [
-      "Nicolas",
-      "Lukas T. Sperber"
-    ],
-    [
-      "Dennis",
-      "Detlef Tams"
-    ],
-    [
-      "Dale Congden",
-      "Peter Kaempfe"
-    ],
-    [
-      "Professor Hogan",
-      "Hannes Hellmann"
-    ],
-    [
-      "Officer",
-      "Torsten Münchow"
-    ],
-    [
-      "Ansage",
-      "Anne Moll"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Arnold Grasso",
+      "sprecher" : "Patrick Berg"
+    },
+    {
+      "rolle" : "Amalia",
+      "sprecher" : "Verena Frost"
+    },
+    {
+      "rolle" : "Sarah",
+      "sprecher" : "Jana Catharina Schmidt"
+    },
+    {
+      "rolle" : "Eric",
+      "sprecher" : "Rasmus Borowski"
+    },
+    {
+      "rolle" : "Nicolas",
+      "sprecher" : "Lukas T. Sperber"
+    },
+    {
+      "rolle" : "Dennis",
+      "sprecher" : "Detlef Tams"
+    },
+    {
+      "rolle" : "Dale Congden",
+      "sprecher" : "Peter Kaempfe"
+    },
+    {
+      "rolle" : "Professor Hogan",
+      "sprecher" : "Hannes Hellmann"
+    },
+    {
+      "rolle" : "Officer",
+      "sprecher" : "Torsten Münchow"
+    },
+    {
+      "rolle" : "Ansage",
+      "sprecher" : "Anne Moll"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/215/metadata.json",

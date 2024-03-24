@@ -47,43 +47,43 @@
       "end" : 3560680
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "King",
-      "Wolfgang Condrus"
-    ],
-    [
-      "Jenny Collins",
-      "Anja Topf"
-    ],
-    [
-      "Tricia Wilson",
-      "Ursula Vogel"
-    ],
-    [
-      "Goodween",
-      "André Minninger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "King",
+      "sprecher" : "Wolfgang Condrus"
+    },
+    {
+      "rolle" : "Jenny Collins",
+      "sprecher" : "Anja Topf"
+    },
+    {
+      "rolle" : "Tricia Wilson",
+      "sprecher" : "Ursula Vogel"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/102/metadata.json",

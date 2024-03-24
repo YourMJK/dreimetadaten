@@ -47,59 +47,60 @@
       "end" : 3108893
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Horace Tremayne",
-      "Karl-Ulrich Meves"
-    ],
-    [
-      "William Tremayne",
-      "Günther Flesh"
-    ],
-    [
-      "Marvin Gray",
-      "Horst Stark"
-    ],
-    [
-      "Madeline Bainbridge",
-      "Ursula Vogel"
-    ],
-    [
-      "Mr. Thomas",
-      "Lothar Grützner"
-    ],
-    [
-      "Jefferson",
-      "Christian Rode"
-    ],
-    [
-      "Clara Adams",
-      "Ingeborg Kanstein"
-    ],
-    [
-      "Grean",
-      "Manuel Hümpel [Rüdiger Schulzki]"
-    ],
-    [
-      "Schrottplatzwart",
-      "Siegfried Wald"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Horace Tremayne",
+      "sprecher" : "Karl-Ulrich Meves"
+    },
+    {
+      "rolle" : "William Tremayne",
+      "sprecher" : "Günther Flesch"
+    },
+    {
+      "rolle" : "Marvin Gray",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Madeline Bainbridge",
+      "sprecher" : "Ursula Vogel"
+    },
+    {
+      "rolle" : "Mr. Thomas",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Jefferson",
+      "sprecher" : "Christian Rode"
+    },
+    {
+      "rolle" : "Clara Adams",
+      "sprecher" : "Ingeburg Kanstein"
+    },
+    {
+      "rolle" : "Grean",
+      "sprecher" : "Rüdiger Schulzki",
+      "pseudonym" : "Manuel Hümpel"
+    },
+    {
+      "rolle" : "Schrottplatzwart",
+      "sprecher" : "Siegfried Wald"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/027/metadata.json",

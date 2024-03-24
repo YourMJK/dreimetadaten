@@ -139,91 +139,91 @@
           "end" : 3498480
         }
       ],
-      "sprecher" : [
-        [
-          "Off-Stimme",
-          "Claudia Stocksieker"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Tony",
-          "Stefan Kaminski"
-        ],
-        [
-          "Joey",
-          "Tommaso Cacciapuoti"
-        ],
-        [
-          "Ansager in der Schlammringkampfarena",
-          "Christian Rudolf"
-        ],
-        [
-          "Margarine",
-          "Alma Clausen"
-        ],
-        [
-          "Lincolnfahrer",
-          "Mike Olsowski"
-        ],
-        [
-          "Freakshow-Jack",
-          "Peter Bänker"
-        ],
-        [
-          "Der unergründliche Mickey",
-          "Krystian Martinek"
-        ],
-        [
-          "Die bärtige Marilyn",
-          "Santiago Ziesmer"
-        ],
-        [
-          "Miss Luzzy",
-          "Katja Brügger"
-        ],
-        [
-          "Bubba Detroit",
-          "Klaus Dittmann"
-        ],
-        [
-          "Junge",
-          "Patrick Bach"
-        ],
-        [
-          "Burger-Verkäufer Arnie",
-          "Manou Lubowski"
-        ],
-        [
-          "Reporterin",
-          "Mara Bergmann"
-        ],
-        [
-          "Anna Millar",
-          "Christine Pappert"
-        ],
-        [
-          "Bombenattentäter Daniel",
-          "Tim Grobe"
-        ],
-        [
-          "Polizist",
-          "Wolfgang Kaven"
-        ],
-        [
-          "Papagei",
-          "Heikedine Körting"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Off-Stimme",
+          "sprecher" : "Claudia Stocksieker"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tony",
+          "sprecher" : "Stefan Kaminski"
+        },
+        {
+          "rolle" : "Joey",
+          "sprecher" : "Tommaso Cacciapuoti"
+        },
+        {
+          "rolle" : "Ansager in der Schlammringkampfarena",
+          "sprecher" : "Christian Rudolf"
+        },
+        {
+          "rolle" : "Margarine",
+          "sprecher" : "Alma Clausen"
+        },
+        {
+          "rolle" : "Lincolnfahrer",
+          "sprecher" : "Mike Olsowski"
+        },
+        {
+          "rolle" : "Freakshow-Jack",
+          "sprecher" : "Peter Bänker"
+        },
+        {
+          "rolle" : "Der unergründliche Mickey",
+          "sprecher" : "Krystian Martinek"
+        },
+        {
+          "rolle" : "Die bärtige Marilyn",
+          "sprecher" : "Santiago Ziesmer"
+        },
+        {
+          "rolle" : "Miss Luzzy",
+          "sprecher" : "Katja Brügger"
+        },
+        {
+          "rolle" : "Bubba Detroit",
+          "sprecher" : "Klaus Dittmann"
+        },
+        {
+          "rolle" : "Junge",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Burger-Verkäufer Arnie",
+          "sprecher" : "Manou Lubowski"
+        },
+        {
+          "rolle" : "Reporterin",
+          "sprecher" : "Mara Bergmann"
+        },
+        {
+          "rolle" : "Anna Millar",
+          "sprecher" : "Christine Pappert"
+        },
+        {
+          "rolle" : "Bombenattentäter Daniel",
+          "sprecher" : "Tim Grobe"
+        },
+        {
+          "rolle" : "Polizist",
+          "sprecher" : "Wolfgang Kaven"
+        },
+        {
+          "rolle" : "Blacky",
+          "sprecher" : "Heikedine Körting"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/metadata.json",
@@ -524,79 +524,79 @@
           "end" : 4497427
         }
       ],
-      "sprecher" : [
-        [
-          "Off-Stimme",
-          "Claudia Stocksieker"
-        ],
-        [
-          "Justus Jonas",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Shaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Tony",
-          "Stefan Kaminski"
-        ],
-        [
-          "Joey",
-          "Tommaso Cacciapuoti"
-        ],
-        [
-          "Anna Millar",
-          "Christine Pappert"
-        ],
-        [
-          "Lily",
-          "Verena Wolfien"
-        ],
-        [
-          "Max",
-          "Holger Umbreit"
-        ],
-        [
-          "Milli",
-          "Ulrike Knief"
-        ],
-        [
-          "Celeste Hummer",
-          "Maria Willer"
-        ],
-        [
-          "Anthem Hummer",
-          "Martin May"
-        ],
-        [
-          "Morton",
-          "Andreas von der Meden"
-        ],
-        [
-          "Papagei",
-          "Heikedine Körting"
-        ],
-        [
-          "Bruce Millar",
-          "Ben Hecker"
-        ],
-        [
-          "Kommissar Reynolds",
-          "Wolfgang Draeger"
-        ],
-        [
-          "Mr. Albert Hitfield",
-          "Volker Bogdan"
-        ],
-        [
-          "TV-Sprecher",
-          "Friedel Bott"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Off-Stimme",
+          "sprecher" : "Claudia Stocksieker"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tony",
+          "sprecher" : "Stefan Kaminski"
+        },
+        {
+          "rolle" : "Joey",
+          "sprecher" : "Tommaso Cacciapuoti"
+        },
+        {
+          "rolle" : "Anna Millar",
+          "sprecher" : "Christine Pappert"
+        },
+        {
+          "rolle" : "Lily",
+          "sprecher" : "Verena Wolfien"
+        },
+        {
+          "rolle" : "Max",
+          "sprecher" : "Holger Umbreit"
+        },
+        {
+          "rolle" : "Milli",
+          "sprecher" : "Ulrike Knief"
+        },
+        {
+          "rolle" : "Celeste Hummer",
+          "sprecher" : "Maria Willer"
+        },
+        {
+          "rolle" : "Anthem Hummer",
+          "sprecher" : "Martin May"
+        },
+        {
+          "rolle" : "Morton",
+          "sprecher" : "Andreas von der Meden"
+        },
+        {
+          "rolle" : "Blacky",
+          "sprecher" : "Heikedine Körting"
+        },
+        {
+          "rolle" : "Bruce Millar",
+          "sprecher" : "Ben Hecker"
+        },
+        {
+          "rolle" : "Kommissar Reynolds",
+          "sprecher" : "Wolfgang Draeger"
+        },
+        {
+          "rolle" : "Albert Hitfield",
+          "sprecher" : "Volker Bogdan"
+        },
+        {
+          "rolle" : "TV-Sprecher",
+          "sprecher" : "Friedel Bott"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/2/metadata.json",
@@ -901,131 +901,131 @@
       "end" : 7594170
     }
   ],
-  "sprecher" : [
-    [
-      "Off-Stimme",
-      "Claudia Stocksieker"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tony",
-      "Stefan Kaminski"
-    ],
-    [
-      "Joey",
-      "Tommaso Cacciapuoti"
-    ],
-    [
-      "Ansager in der Schlammringkampfarena",
-      "Christian Rudolf"
-    ],
-    [
-      "Margarine",
-      "Alma Clausen"
-    ],
-    [
-      "Lincolnfahrer",
-      "Mike Olsowski"
-    ],
-    [
-      "Freakshow-Jack",
-      "Peter Bänker"
-    ],
-    [
-      "Der unergründliche Mickey",
-      "Krystian Martinek"
-    ],
-    [
-      "Die bärtige Marilyn",
-      "Santiago Ziesmer"
-    ],
-    [
-      "Miss Luzzy",
-      "Katja Brügger"
-    ],
-    [
-      "Bubba Detroit",
-      "Klaus Dittmann"
-    ],
-    [
-      "Junge",
-      "Patrick Bach"
-    ],
-    [
-      "Burger-Verkäufer Arnie",
-      "Manou Lubowski"
-    ],
-    [
-      "Reporterin",
-      "Mara Bergmann"
-    ],
-    [
-      "Anna Millar",
-      "Christine Pappert"
-    ],
-    [
-      "Bombenattentäter Daniel",
-      "Tim Grobe"
-    ],
-    [
-      "Polizist",
-      "Wolfgang Kaven"
-    ],
-    [
-      "Lily",
-      "Verena Wolfien"
-    ],
-    [
-      "Max",
-      "Holger Umbreit"
-    ],
-    [
-      "Milli",
-      "Ulrike Knief"
-    ],
-    [
-      "Celeste Hummer",
-      "Maria Willer"
-    ],
-    [
-      "Anthem Hummer",
-      "Martin May"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Bruce Millar",
-      "Ben Hecker"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Mr. Albert Hitfield",
-      "Volker Bogdan"
-    ],
-    [
-      "TV-Sprecher",
-      "Friedel Bott"
-    ],
-    [
-      "Papagei",
-      "Heikedine Körting"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Off-Stimme",
+      "sprecher" : "Claudia Stocksieker"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tony",
+      "sprecher" : "Stefan Kaminski"
+    },
+    {
+      "rolle" : "Joey",
+      "sprecher" : "Tommaso Cacciapuoti"
+    },
+    {
+      "rolle" : "Ansager in der Schlammringkampfarena",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Margarine",
+      "sprecher" : "Alma Clausen"
+    },
+    {
+      "rolle" : "Lincolnfahrer",
+      "sprecher" : "Mike Olsowski"
+    },
+    {
+      "rolle" : "Freakshow-Jack",
+      "sprecher" : "Peter Bänker"
+    },
+    {
+      "rolle" : "Der unergründliche Mickey",
+      "sprecher" : "Krystian Martinek"
+    },
+    {
+      "rolle" : "Die bärtige Marilyn",
+      "sprecher" : "Santiago Ziesmer"
+    },
+    {
+      "rolle" : "Miss Luzzy",
+      "sprecher" : "Katja Brügger"
+    },
+    {
+      "rolle" : "Bubba Detroit",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Junge",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Burger-Verkäufer Arnie",
+      "sprecher" : "Manou Lubowski"
+    },
+    {
+      "rolle" : "Reporterin",
+      "sprecher" : "Mara Bergmann"
+    },
+    {
+      "rolle" : "Anna Millar",
+      "sprecher" : "Christine Pappert"
+    },
+    {
+      "rolle" : "Bombenattentäter Daniel",
+      "sprecher" : "Tim Grobe"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Wolfgang Kaven"
+    },
+    {
+      "rolle" : "Lily",
+      "sprecher" : "Verena Wolfien"
+    },
+    {
+      "rolle" : "Max",
+      "sprecher" : "Holger Umbreit"
+    },
+    {
+      "rolle" : "Milli",
+      "sprecher" : "Ulrike Knief"
+    },
+    {
+      "rolle" : "Celeste Hummer",
+      "sprecher" : "Maria Willer"
+    },
+    {
+      "rolle" : "Anthem Hummer",
+      "sprecher" : "Martin May"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Bruce Millar",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Albert Hitfield",
+      "sprecher" : "Volker Bogdan"
+    },
+    {
+      "rolle" : "TV-Sprecher",
+      "sprecher" : "Friedel Bott"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/metadata.json",

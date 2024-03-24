@@ -51,59 +51,59 @@
       "end" : 3170453
     }
   ],
-  "sprecher" : [
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Doktor Ax Me",
-      "Krystian Martinek"
-    ],
-    [
-      "Stinky Rossiter",
-      "Dustin Sattler-Semmelrogge"
-    ],
-    [
-      "Fear Crowther",
-      "Ingo Mommsen"
-    ],
-    [
-      "Mouth Crosby",
-      "Stefan Gabriel"
-    ],
-    [
-      "Mack Dolland",
-      "Mike Olsowski"
-    ],
-    [
-      "Eric Mukogawa",
-      "Marek Harloff"
-    ],
-    [
-      "Marilla",
-      "Saskia Mayerhoff"
-    ],
-    [
-      "Kelly",
-      "Juliane Szalay"
-    ],
-    [
-      "Rosie",
-      "Reinhilt Schneider"
-    ],
-    [
-      "Blacky",
-      "Heikedine Körting"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Doktor Ax Me",
+      "sprecher" : "Krystian Martinek"
+    },
+    {
+      "rolle" : "Stinky Rossiter",
+      "sprecher" : "Dustin Semmelrogge"
+    },
+    {
+      "rolle" : "Fear Crowther",
+      "sprecher" : "Ingo Nommsen"
+    },
+    {
+      "rolle" : "Mouth Crosby",
+      "sprecher" : "Stefan Gabriel"
+    },
+    {
+      "rolle" : "Mack Dolland",
+      "sprecher" : "Mike Olsowski"
+    },
+    {
+      "rolle" : "Eric Mukogawa",
+      "sprecher" : "Marek Harloff"
+    },
+    {
+      "rolle" : "Marilla",
+      "sprecher" : "Saskia Mayerhoff"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Rosie",
+      "sprecher" : "Reinhilt Schneider"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/metadata.json",

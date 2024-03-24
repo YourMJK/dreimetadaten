@@ -47,67 +47,68 @@
       "end" : 2606493
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Sam",
-      "Joachim Wolff"
-    ],
-    [
-      "Chris Markos",
-      "Stephan Chrzeszinski"
-    ],
-    [
-      "Kommissar Nostigon",
-      "Volker Brandt"
-    ],
-    [
-      "Mr. Shaw",
-      "Joachim Richert"
-    ],
-    [
-      "Denton",
-      "Karl-Heinz Gerdesmann"
-    ],
-    [
-      "Farraday",
-      "Gottfried Kramer"
-    ],
-    [
-      "Jeff",
-      "Harald Pages"
-    ],
-    [
-      "Bill Ballinger",
-      "Günter Flesh"
-    ],
-    [
-      "Jim Ballinger",
-      "Heinz Werder"
-    ],
-    [
-      "Mr. Norris",
-      "Horst Schick"
-    ],
-    [
-      "Mrs. Barton",
-      "Marianne Kehlau"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Sam",
+      "sprecher" : "Joachim Wolff"
+    },
+    {
+      "rolle" : "Chris Markos",
+      "sprecher" : "Stephan Chrzescinski"
+    },
+    {
+      "rolle" : "Kommissar Nostigon",
+      "sprecher" : "Volker Brandt"
+    },
+    {
+      "rolle" : "Mr. Shaw",
+      "sprecher" : "Joachim Richert"
+    },
+    {
+      "rolle" : "Denton",
+      "sprecher" : "Karl-Heinz Gerdesmann"
+    },
+    {
+      "rolle" : "Farraday",
+      "sprecher" : "Gottfried Kramer"
+    },
+    {
+      "rolle" : "Jeff",
+      "sprecher" : "Harald Pages"
+    },
+    {
+      "rolle" : "Bill Ballinger",
+      "sprecher" : "Günther Flesch"
+    },
+    {
+      "rolle" : "Jim Ballinger",
+      "sprecher" : "Hans Irle",
+      "pseudonym" : "Heinz Werder"
+    },
+    {
+      "rolle" : "Mr. Norris",
+      "sprecher" : "Horst Schick"
+    },
+    {
+      "rolle" : "Mrs. Barton",
+      "sprecher" : "Marianne Kehlau"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/018/metadata.json",

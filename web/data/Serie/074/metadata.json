@@ -47,71 +47,72 @@
       "end" : 4442107
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Mr. Whitehead",
-      "Uwe Friedrichsen"
-    ],
-    [
-      "Steven Robinshaw, Anwalt",
-      "Helmo Liebig"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mary",
-      "Victoria Voncampe"
-    ],
-    [
-      "Stan",
-      "Georg Tryphon"
-    ],
-    [
-      "Jeffrey",
-      "Michael Quiatkowsky"
-    ],
-    [
-      "John",
-      "Andreas Martens"
-    ],
-    [
-      "Dr. Wright",
-      "Dietmar Mues"
-    ],
-    [
-      "Carrie Hanson",
-      "Helga Osten-Sacken"
-    ],
-    [
-      "Tim Conrad",
-      "Moritz Gentsch"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Mr. Whitehead",
+      "sprecher" : "Uwe Friedrichsen"
+    },
+    {
+      "rolle" : "Steven Robinshaw, Anwalt",
+      "sprecher" : "Helgo Liebig"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mary",
+      "sprecher" : "Victoria Voncampe"
+    },
+    {
+      "rolle" : "Stan",
+      "sprecher" : "Georg Tryphon"
+    },
+    {
+      "rolle" : "Jeffrey",
+      "sprecher" : "Michael Quiatkowsky"
+    },
+    {
+      "rolle" : "John",
+      "sprecher" : "Andreas Martens"
+    },
+    {
+      "rolle" : "Dr. Wright",
+      "sprecher" : "Dietmar Mues"
+    },
+    {
+      "rolle" : "Carrie Hanson",
+      "sprecher" : "Hella von der Osten-Sacken"
+    },
+    {
+      "rolle" : "Tim Conrad",
+      "sprecher" : "Moritz Gentsch"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/074/metadata.json",

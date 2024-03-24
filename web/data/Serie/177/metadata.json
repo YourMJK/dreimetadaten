@@ -52,59 +52,59 @@
       "end" : 4121080
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Dusty Kirkpatrick",
-      "Hans Kahlert"
-    ],
-    [
-      "Miranda Kramer",
-      "Susanne Sternberg"
-    ],
-    [
-      "Barclay",
-      "Horst Stark"
-    ],
-    [
-      "Brian",
-      "Volker Hanisch"
-    ],
-    [
-      "Raven",
-      "Neda Rahmanian"
-    ],
-    [
-      "Dr. Hardwick",
-      "Till Huster"
-    ],
-    [
-      "Robert",
-      "Tim Kreuer"
-    ],
-    [
-      "Manolo",
-      "Wolfgang Berger"
-    ],
-    [
-      "Polizist",
-      "Kai-Hendrik Möller"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Dusty Kirkpatrick",
+      "sprecher" : "Hans Kahlert"
+    },
+    {
+      "rolle" : "Miranda Kramer",
+      "sprecher" : "Susanne Sternberg"
+    },
+    {
+      "rolle" : "Barclay",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Brian",
+      "sprecher" : "Volker Hanisch"
+    },
+    {
+      "rolle" : "Raven",
+      "sprecher" : "Neda Rahmanian"
+    },
+    {
+      "rolle" : "Dr. Hardwick",
+      "sprecher" : "Till Huster"
+    },
+    {
+      "rolle" : "Robert",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Manolo",
+      "sprecher" : "Wolfgang Berger"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Kai Henrik Möller"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/177/metadata.json",

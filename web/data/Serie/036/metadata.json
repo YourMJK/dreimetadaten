@@ -47,47 +47,47 @@
       "end" : 2896187
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Constance",
-      "Heidi Schaffrath"
-    ],
-    [
-      "Slater",
-      "Helmut Ahner"
-    ],
-    [
-      "Donner",
-      "Jürgen Thormann"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Horst Frank"
-    ],
-    [
-      "Fischer",
-      "F.-J. Steffens"
-    ],
-    [
-      "Ocean-World-Mitarbeiter",
-      "Peter Lakenmacher, Christian Rode"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Constance",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Slater",
+      "sprecher" : "Helmut Ahner"
+    },
+    {
+      "rolle" : "Donner",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Horst Frank"
+    },
+    {
+      "rolle" : "Fischer",
+      "sprecher" : "Franz-Josef Steffens"
+    },
+    {
+      "rolle" : "Ocean-World-Mitarbeiter",
+      "sprecher" : "Peter Lakenmacher, Christian Rode"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/036/metadata.json",

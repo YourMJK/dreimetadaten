@@ -71,99 +71,100 @@
       "end" : 4757160
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Officer Flann Doyle",
-      "Douglas Welbat"
-    ],
-    [
-      "Tanya Sullivan",
-      "Marion Elskis"
-    ],
-    [
-      "Sebastian Dawson",
-      "Bastian Pastewka"
-    ],
-    [
-      "Miss Tomkins",
-      "Steffi Kirchberger"
-    ],
-    [
-      "Mr. Foley",
-      "Dirk Bach"
-    ],
-    [
-      "John Gabbin",
-      "Tobias Schmidt"
-    ],
-    [
-      "Matthew Gabbin",
-      "Jürgen Thormann"
-    ],
-    [
-      "Georgina",
-      "Maud Ackermann"
-    ],
-    [
-      "Gil Renard",
-      "Udo Schenk"
-    ],
-    [
-      "Hedy Carlson",
-      "Luise Helm"
-    ],
-    [
-      "Steve",
-      "Sascha Draeger"
-    ],
-    [
-      "Jack",
-      "Hendrik Buchna"
-    ],
-    [
-      "Laury",
-      "Rhea Harder-Vennewald"
-    ],
-    [
-      "Gast 1",
-      "Christian Senger"
-    ],
-    [
-      "Fahrerin",
-      "Corinna Wodrich"
-    ],
-    [
-      "Radiosprecher",
-      "Tobias Meister"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Officer Flann Doyle",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Tanya Sullivan",
+      "sprecher" : "Marion Elskis"
+    },
+    {
+      "rolle" : "Sebastian Dawson",
+      "sprecher" : "Bastian Pastewka"
+    },
+    {
+      "rolle" : "Miss Tomkins",
+      "sprecher" : "Stephanie Damare"
+    },
+    {
+      "rolle" : "Mr. Foley",
+      "sprecher" : "Dirk Bach"
+    },
+    {
+      "rolle" : "John Gabbin",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Matthew Gabbin",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Georgina",
+      "sprecher" : "Maud Ackermann"
+    },
+    {
+      "rolle" : "Gil Renard",
+      "sprecher" : "Udo Schenk"
+    },
+    {
+      "rolle" : "Hedy Carlson",
+      "sprecher" : "Luise Helm"
+    },
+    {
+      "rolle" : "Steve",
+      "sprecher" : "Sascha Draeger"
+    },
+    {
+      "rolle" : "Jack",
+      "sprecher" : "Hendrik Buchna"
+    },
+    {
+      "rolle" : "Laury",
+      "sprecher" : "Rhea Harder-Vennewald"
+    },
+    {
+      "rolle" : "Gast 1",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Fahrerin",
+      "sprecher" : "Corinna Wodrich"
+    },
+    {
+      "rolle" : "Radiosprecher",
+      "sprecher" : "Tobias Meister"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/metadata.json",

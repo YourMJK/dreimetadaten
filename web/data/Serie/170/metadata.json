@@ -62,87 +62,87 @@
       "end" : 4816533
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Mitch Palmer",
-      "Michael Lott"
-    ],
-    [
-      "Dimitri",
-      "Manou Lubowski"
-    ],
-    [
-      "Roy",
-      "Gosta Liptow"
-    ],
-    [
-      "Boss",
-      "Henry König"
-    ],
-    [
-      "Cindy",
-      "Konstanze Ullmer"
-    ],
-    [
-      "Mike",
-      "Oliver Böttcher"
-    ],
-    [
-      "Wirt",
-      "Peter Lakenmacher"
-    ],
-    [
-      "Rockford",
-      "Christian Senger"
-    ],
-    [
-      "Casino-Besucher",
-      "Robin Bosch"
-    ],
-    [
-      "Casino-Besucherin",
-      "Brigitte Böttrich"
-    ],
-    [
-      "Rezeption 1",
-      "Dorothea Lott"
-    ],
-    [
-      "Rezeption 2",
-      "Marco Spina"
-    ],
-    [
-      "Fernfahrer",
-      "Tilman Madaus"
-    ],
-    [
-      "Putzfrau",
-      "Maria Baptista"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Mitch Palmer",
+      "sprecher" : "Michael Lott"
+    },
+    {
+      "rolle" : "Dimitri",
+      "sprecher" : "Manou Lubowski"
+    },
+    {
+      "rolle" : "Roy",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Boss",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Cindy",
+      "sprecher" : "Konstanze Ullmer"
+    },
+    {
+      "rolle" : "Mike",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Wirt",
+      "sprecher" : "Peter Lakenmacher"
+    },
+    {
+      "rolle" : "Rockford",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Casino-Besucher",
+      "sprecher" : "Robin Brosch"
+    },
+    {
+      "rolle" : "Casino-Besucherin",
+      "sprecher" : "Brigitte Böttrich"
+    },
+    {
+      "rolle" : "Rezeption 1",
+      "sprecher" : "Dorothea Lott"
+    },
+    {
+      "rolle" : "Rezeption 2",
+      "sprecher" : "Marco Spina"
+    },
+    {
+      "rolle" : "Fernfahrer",
+      "sprecher" : "Tilman Madaus"
+    },
+    {
+      "rolle" : "Putzfrau",
+      "sprecher" : "Maria Baptista"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/170/metadata.json",

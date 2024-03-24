@@ -47,59 +47,59 @@
       "end" : 2667307
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Ruth, Zeitungs-Journalistin",
-      "Hansi Jochmann"
-    ],
-    [
-      "Jean Baxter, TV-Journalistin",
-      "Heidrun von Goessel"
-    ],
-    [
-      "Van Well, Pressechef",
-      "Ulrich Faulhaber"
-    ],
-    [
-      "Sinagua, Indianerin",
-      "Samira Chanfir"
-    ],
-    [
-      "Chosmo, Journalist",
-      "Mathias Bullach"
-    ],
-    [
-      "Monsieur Jaubert",
-      "Michael Poelchau"
-    ],
-    [
-      "René Hancock",
-      "Thomas Schüler"
-    ],
-    [
-      "Joan Brown",
-      "Rebecca Völz"
-    ],
-    [
-      "Hendrik Walton, Fabrikant",
-      "Karl Michael Mechel"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Ruth, Zeitungs-Journalistin",
+      "sprecher" : "Hansi Jochmann"
+    },
+    {
+      "rolle" : "Jean Baxter, TV-Journalistin",
+      "sprecher" : "Heidrun von Goessel"
+    },
+    {
+      "rolle" : "Van Well, Pressechef",
+      "sprecher" : "Ulrich Faulhaber"
+    },
+    {
+      "rolle" : "Sinagua, Indianerin",
+      "sprecher" : "Samira Chanfir"
+    },
+    {
+      "rolle" : "Chosmo, Journalist",
+      "sprecher" : "Matthias Bullach"
+    },
+    {
+      "rolle" : "Monsieur Jaubert",
+      "sprecher" : "Michael Poelchau"
+    },
+    {
+      "rolle" : "René Hancock",
+      "sprecher" : "Thomas Schüler"
+    },
+    {
+      "rolle" : "Joan Brown",
+      "sprecher" : "Rebecca Völz"
+    },
+    {
+      "rolle" : "Hendrik Walton, Fabrikant",
+      "sprecher" : "Michael Mechel"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/059/metadata.json",

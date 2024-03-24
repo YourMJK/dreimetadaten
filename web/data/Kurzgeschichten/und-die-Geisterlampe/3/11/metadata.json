@@ -4,35 +4,35 @@
   "autor" : "Kari Erlhoff",
   "beschreibung" : "Kellys Tante wird erpresst und die drei ??? sollen bei der Übergabe des Geldes behilflich sein. Aber in dem Motel, in dem Peter und Kelly absteigen, passieren merkwürdige Dinge …",
   "veröffentlichungsdatum" : "2011-12-22",
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Kelly",
-      "Juliane Szalay"
-    ],
-    [
-      "Norman",
-      "Eckart Dux"
-    ],
-    [
-      "Frau",
-      "Anja Topf"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Norman",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Frau",
+      "sprecher" : "Anja Topf"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/11/metadata.json",

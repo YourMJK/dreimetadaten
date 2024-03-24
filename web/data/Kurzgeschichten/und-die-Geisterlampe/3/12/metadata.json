@@ -4,43 +4,43 @@
   "autor" : "Hendrik Buchna",
   "beschreibung" : "Rocky Beach versinkt im Schnee. Und zu allem Überfluss treibt gerade jetzt, wo die Polizei mehr oder weniger handlungsunfähig ist, ein krimineller Weihnachtsmann in der Stadt sein Unwesen …",
   "veröffentlichungsdatum" : "2011-12-24",
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mr. Darrow",
-      "Joachim Kappl"
-    ],
-    [
-      "1. Mann",
-      "Patrick Bach"
-    ],
-    [
-      "2. Mann",
-      "Frank Meyer-Brockmann"
-    ],
-    [
-      "3. Mann",
-      "Roy Martens"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mr. Darrow",
+      "sprecher" : "Joachim Kappl"
+    },
+    {
+      "rolle" : "Mann 1",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Mann 2",
+      "sprecher" : "Frank Meyer-Brockmann"
+    },
+    {
+      "rolle" : "Mann 3",
+      "sprecher" : "Roy Martens"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/12/metadata.json",

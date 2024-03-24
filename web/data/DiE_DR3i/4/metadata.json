@@ -62,63 +62,64 @@
       "end" : 4747133
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Jupiter Jones",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Crenshaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus Jones",
-      "Hans Meinhardt"
-    ],
-    [
-      "Tante Mathilda Jones",
-      "Karin Lieneweg"
-    ],
-    [
-      "Inspektor Milton",
-      "Holger Mahlich"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Mr. Walker",
-      "Gustav-Adolph Artz"
-    ],
-    [
-      "Donald Forthland",
-      "Günter Lüdke"
-    ],
-    [
-      "Shane Montana",
-      "Jürgen Thormann"
-    ],
-    [
-      "Jim",
-      "Wolfgang Berger"
-    ],
-    [
-      "Doc Brown",
-      "Tim Wenderoth"
-    ],
-    [
-      "Finnegan",
-      "Fabian Harloff"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Jupiter Jones",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Crenshaw",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus Jones",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda Jones",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Inspektor Milton",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Mr. Walker",
+      "sprecher" : "Gustav-Adolph Artz"
+    },
+    {
+      "rolle" : "Donald Forthland",
+      "sprecher" : "Günter Lüdke"
+    },
+    {
+      "rolle" : "Shane Montana",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Jim",
+      "sprecher" : "Wolfgang Berger"
+    },
+    {
+      "rolle" : "Doc Brown",
+      "sprecher" : "Tim Wenderoth"
+    },
+    {
+      "rolle" : "Finnegan",
+      "sprecher" : "Fabian Harloff"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/4/metadata.json",

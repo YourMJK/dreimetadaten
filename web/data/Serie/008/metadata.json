@@ -47,67 +47,69 @@
       "end" : 3203720
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Chang",
-      "Torsten Sense"
-    ],
-    [
-      "Patrick Kenneth",
-      "Wolfgang Kubach"
-    ],
-    [
-      "Miss Lydia Green",
-      "Marianne Kehlau"
-    ],
-    [
-      "Harold Carlson",
-      "Alexander Stubbe [Peter Kirchberger]"
-    ],
-    [
-      "Hauptkommissar Reynolds",
-      "Horst Frank"
-    ],
-    [
-      "Jensen",
-      "Rolf Mamero"
-    ],
-    [
-      "Won",
-      "Victor Bernard [Ernst von Klipstein]"
-    ],
-    [
-      "Wongs Diener",
-      "Karl-Ulrich Meves"
-    ],
-    [
-      "Li",
-      "Renate Pichler"
-    ],
-    [
-      "Männer bei Greens Haus",
-      "Reiner Brönneke, Gernot Endemann"
-    ],
-    [
-      "Polizist",
-      "Peter Buchholz"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Chang",
+      "sprecher" : "Torsten Sense"
+    },
+    {
+      "rolle" : "Patrick Kenneth",
+      "sprecher" : "Wolfgang Kubach"
+    },
+    {
+      "rolle" : "Miss Lydia Green",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "Harold Carlson",
+      "sprecher" : "Peter Kirchberger",
+      "pseudonym" : "Alexander Stubbe"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Horst Frank"
+    },
+    {
+      "rolle" : "Jensen",
+      "sprecher" : "Rolf Mamero"
+    },
+    {
+      "rolle" : "Won",
+      "sprecher" : "Ernst von Klipstein",
+      "pseudonym" : "Victor Bernard"
+    },
+    {
+      "rolle" : "Wongs Diener",
+      "sprecher" : "Karl-Ulrich Meves"
+    },
+    {
+      "rolle" : "Li",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Männer bei Greens Haus",
+      "sprecher" : "Reiner Brönneke, Gernot Endemann"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Peter Buchholz"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/008/metadata.json",

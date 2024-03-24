@@ -42,99 +42,99 @@
       "end" : 4546493
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mrs. Shaw",
-      "Heikedine Körting"
-    ],
-    [
-      "Randy Carlisle",
-      "Johannes Semm"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Godween",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Polizist",
-      "Christoph Meyer"
-    ],
-    [
-      "Mia",
-      "Elea Richert"
-    ],
-    [
-      "Mrs. Crouch",
-      "Pia Werfel"
-    ],
-    [
-      "Rosemarie Wohlbauer",
-      "Rosemarie Wohlbauer"
-    ],
-    [
-      "Shinefield, Edna",
-      "Edna Shinefield"
-    ],
-    [
-      "George",
-      "Gordon Piedesack"
-    ],
-    [
-      "Ronny",
-      "Anton Pleva"
-    ],
-    [
-      "Loreen",
-      "Barbara Schipper"
-    ],
-    [
-      "TV-Moderatorin",
-      "Dagmar Berghoff"
-    ],
-    [
-      "Daphne",
-      "Enie van de Meiklokjes"
-    ],
-    [
-      "Kiera",
-      "Isabella Grothe"
-    ],
-    [
-      "Luther Litti",
-      "Wolf Frass"
-    ],
-    [
-      "Kyle Caldwell",
-      "Joachim Kretzer"
-    ],
-    [
-      "Hay",
-      "Tobias Diakow"
-    ],
-    [
-      "Junge",
-      "Hugo Richert"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mrs. Shaw",
+      "sprecher" : "Heikedine Körting"
+    },
+    {
+      "rolle" : "Randy Carlisle",
+      "sprecher" : "Johannes Semm"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Busfahrer",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Christoph Meyer"
+    },
+    {
+      "rolle" : "Mia",
+      "sprecher" : "Elea Richert"
+    },
+    {
+      "rolle" : "Mrs. Crouch",
+      "sprecher" : "Pia Werfel"
+    },
+    {
+      "rolle" : "Edna Shinefield",
+      "sprecher" : "Rosemarie Wohlbauer"
+    },
+    {
+      "rolle" : "George",
+      "sprecher" : "Gordon Piedesack"
+    },
+    {
+      "rolle" : "Ronny",
+      "sprecher" : "Anton Pleva"
+    },
+    {
+      "rolle" : "Loreen",
+      "sprecher" : "Barbara Schipper"
+    },
+    {
+      "rolle" : "TV-Moderatorin",
+      "sprecher" : "Dagmar Berghoff"
+    },
+    {
+      "rolle" : "Daphne",
+      "sprecher" : "Enie van de Meiklokjes"
+    },
+    {
+      "rolle" : "Kiera",
+      "sprecher" : "Isabella Grothe"
+    },
+    {
+      "rolle" : "Luther Litti",
+      "sprecher" : "Wolf Frass"
+    },
+    {
+      "rolle" : "Kyle Caldwell",
+      "sprecher" : "Joachim Kretzer"
+    },
+    {
+      "rolle" : "Hay",
+      "sprecher" : "Tobias Diakow"
+    },
+    {
+      "rolle" : "Junge",
+      "sprecher" : "Hugo Richert"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/182/metadata.json",

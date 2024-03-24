@@ -47,67 +47,67 @@
       "end" : 2782427
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Allie Jamison",
-      "Katrin Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Asmodi",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Dr. Shaitan",
-      "Lutz Mackensy"
-    ],
-    [
-      "Noxworth",
-      "Christian Rode"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Prof. Barrister",
-      "F. J. Steffens"
-    ],
-    [
-      "Marie",
-      "Susanne Wulkow"
-    ],
-    [
-      "der \"Clochard\"",
-      "Karl-Heinz Gerdesmann"
-    ],
-    [
-      "Patricia Osborne",
-      "Barbara Focke"
-    ],
-    [
-      "Mann am Grundstück",
-      "Wolfgang Kaven"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Allie Jamison",
+      "sprecher" : "Katrin Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Asmodi",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Dr. Shaitan",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Noxworth",
+      "sprecher" : "Christian Rode"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Prof. Barrister",
+      "sprecher" : "Franz-Josef Steffens"
+    },
+    {
+      "rolle" : "Marie",
+      "sprecher" : "Susanne Wulkow"
+    },
+    {
+      "rolle" : "der \"Clochard\"",
+      "sprecher" : "Karl-Heinz Gerdesmann"
+    },
+    {
+      "rolle" : "Patricia Osborne",
+      "sprecher" : "Barbara Focke"
+    },
+    {
+      "rolle" : "Mann am Grundstück",
+      "sprecher" : "Wolfgang Kaven"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/025/metadata.json",

@@ -20,51 +20,52 @@
       "end" : 1748867
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Professor Selby",
-      "Claus Wilcke"
-    ],
-    [
-      "Oberpriesterin",
-      "Elga Schütz"
-    ],
-    [
-      "Kevin",
-      "Patrick Mölleken"
-    ],
-    [
-      "Mann in Kutte",
-      "Rüdiger Hellmann"
-    ],
-    [
-      "Radio",
-      "Wilhelm Wieben"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Professor Selby",
+      "sprecher" : "Claus Wilcke"
+    },
+    {
+      "rolle" : "Oberpriesterin",
+      "sprecher" : "Elga Schütz"
+    },
+    {
+      "rolle" : "Kevin",
+      "sprecher" : "Patrick Mölleken"
+    },
+    {
+      "rolle" : "Mann in Kutte",
+      "sprecher" : "Rüdiger Hellmann"
+    },
+    {
+      "rolle" : "Radio",
+      "sprecher" : "Wilhelm Wieben"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/4/metadata.json",

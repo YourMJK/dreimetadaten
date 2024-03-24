@@ -72,75 +72,75 @@
       "end" : 3396520
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Michelle",
-      "Ulrike Stürzbecher"
-    ],
-    [
-      "Ronald Pounder",
-      "Jürgen Kluckert"
-    ],
-    [
-      "Maurice Blight",
-      "Oliver Böttcher"
-    ],
-    [
-      "Betsy",
-      "Heidi Schaffrath"
-    ],
-    [
-      "Isabella",
-      "Isabel Navarro"
-    ],
-    [
-      "Vladas Abakulow",
-      "Eric Schäffler"
-    ],
-    [
-      "Moody Firthway",
-      "Peter Striebeck"
-    ],
-    [
-      "Polizist",
-      "Mike Olsowski"
-    ],
-    [
-      "Jenna",
-      "Konstanze Ullmer"
-    ],
-    [
-      "1. Mann",
-      "Olaf Kreutzenbeck"
-    ],
-    [
-      "2. Mann",
-      "Rainer Fritzsche"
-    ],
-    [
-      "3. Mann",
-      "Claus Fuchs"
-    ],
-    [
-      "4. Mann",
-      "Jannik Endemann"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Michelle",
+      "sprecher" : "Ulrike Stürzbecher"
+    },
+    {
+      "rolle" : "Ronald Pounder",
+      "sprecher" : "Jürgen Kluckert"
+    },
+    {
+      "rolle" : "Maurice Blight",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Betsy",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Isabella",
+      "sprecher" : "Isabel Navarro"
+    },
+    {
+      "rolle" : "Vladas Abakulow",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Moody Firthway",
+      "sprecher" : "Peter Striebeck"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Mike Olsowski"
+    },
+    {
+      "rolle" : "Jenna",
+      "sprecher" : "Konstanze Ullmer"
+    },
+    {
+      "rolle" : "Mann 1",
+      "sprecher" : "Olaf Kreutzenbeck"
+    },
+    {
+      "rolle" : "Mann 2",
+      "sprecher" : "Rainer Fritzsche"
+    },
+    {
+      "rolle" : "Mann 3",
+      "sprecher" : "Claus Fuchs"
+    },
+    {
+      "rolle" : "Mann 4",
+      "sprecher" : "Jannik Endemann"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/158/metadata.json",

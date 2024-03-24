@@ -52,47 +52,47 @@
       "end" : 3932520
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Professor Douglas Bancroft",
-      "Jürgen Thormann"
-    ],
-    [
-      "Butler Vernom",
-      "Jürgen Holdorf"
-    ],
-    [
-      "Miss Mortimer",
-      "Heidi Schaffrath"
-    ],
-    [
-      "Elwood Shoreland",
-      "Martin May"
-    ],
-    [
-      "Darian",
-      "Marc Zabinski"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Professor Douglas Bancroft",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Butler Vernom",
+      "sprecher" : "Jürgen Holdorf"
+    },
+    {
+      "rolle" : "Miss Mortimer",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Elwood Shoreland",
+      "sprecher" : "Martin May"
+    },
+    {
+      "rolle" : "Darian",
+      "sprecher" : "Marc Zabinski"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/221/metadata.json",

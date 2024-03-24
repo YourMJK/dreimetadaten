@@ -266,131 +266,132 @@
       "end" : 9154760
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Erik Schäffler"
-    ],
-    [
-      "Santa Claus",
-      "Claus Wilcke"
-    ],
-    [
-      "Fotograf",
-      "Stephan Schad"
-    ],
-    [
-      "Sandy",
-      "Angela Stresemann"
-    ],
-    [
-      "Mutter",
-      "Pamela Punti"
-    ],
-    [
-      "Mr. Puckle",
-      "Christian Rudolf"
-    ],
-    [
-      "Mrs. Hatchett",
-      "Petra Kleinert"
-    ],
-    [
-      "Matty",
-      "Joshua Rudolf"
-    ],
-    [
-      "1. Security",
-      "Patrick Berg"
-    ],
-    [
-      "2. Security",
-      "Philipp Stumpp"
-    ],
-    [
-      "3. Security",
-      "Max König"
-    ],
-    [
-      "4. Security",
-      "Tony Curting"
-    ],
-    [
-      "Pater",
-      "Achim Schülke"
-    ],
-    [
-      "Engel",
-      "Theresa Underberg"
-    ],
-    [
-      "1. Polizist",
-      "Patrick Baehr"
-    ],
-    [
-      "2. Polizist",
-      "Alexander Mettin"
-    ],
-    [
-      "3. Polizist",
-      "Douglas Welbat"
-    ],
-    [
-      "Angestellte",
-      "Katrin Decker"
-    ],
-    [
-      "Larry",
-      "Jan Langer"
-    ],
-    [
-      "Luke Bigelow",
-      "Harald Effenberg"
-    ],
-    [
-      "Molly",
-      "Regine Lamster"
-    ],
-    [
-      "Emmett",
-      "Reinhold Kammerer"
-    ],
-    [
-      "Durchsage",
-      "Andrea Lüdke"
-    ],
-    [
-      "Krankenschwester",
-      "Scarlett Lubowski"
-    ],
-    [
-      "Mann",
-      "Helge Halvé"
-    ],
-    [
-      "Bandenchef",
-      "Lars Schmidtke"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Santa Claus",
+      "sprecher" : "Claus Wilcke"
+    },
+    {
+      "rolle" : "Fotograf",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Sandy",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Mutter",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Pamela Punti"
+    },
+    {
+      "rolle" : "Mr. Puckle",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Mrs. Hatchett",
+      "sprecher" : "Petra Kleinert"
+    },
+    {
+      "rolle" : "Matty",
+      "sprecher" : "Joshua Rudolf Goralsky"
+    },
+    {
+      "rolle" : "Security 1",
+      "sprecher" : "Patrick Berg"
+    },
+    {
+      "rolle" : "Security 2",
+      "sprecher" : "Philipp Stumpp"
+    },
+    {
+      "rolle" : "Security 3",
+      "sprecher" : "Max König"
+    },
+    {
+      "rolle" : "Security 4",
+      "sprecher" : "Tony Curting"
+    },
+    {
+      "rolle" : "Pater",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Engel",
+      "sprecher" : "Theresa Underberg"
+    },
+    {
+      "rolle" : "Polizist 1",
+      "sprecher" : "Patrick Baehr"
+    },
+    {
+      "rolle" : "Polizist 2",
+      "sprecher" : "Alexander Mettin"
+    },
+    {
+      "rolle" : "Polizist 3",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Angestellte",
+      "sprecher" : "Katrin Decker"
+    },
+    {
+      "rolle" : "Larry",
+      "sprecher" : "Jan Langer"
+    },
+    {
+      "rolle" : "Luke Bigelow",
+      "sprecher" : "Harald Effenberg"
+    },
+    {
+      "rolle" : "Molly",
+      "sprecher" : "Regine Lamster"
+    },
+    {
+      "rolle" : "Emmett",
+      "sprecher" : "Reinhold Kammerer"
+    },
+    {
+      "rolle" : "Durchsage",
+      "sprecher" : "Andrea Lüdke"
+    },
+    {
+      "rolle" : "Krankenschwester",
+      "sprecher" : "Scarlet Cavadenti Lubowski"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Helge Halvé"
+    },
+    {
+      "rolle" : "Bandenchef",
+      "sprecher" : "Lars Schmidtke"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/metadata.json",

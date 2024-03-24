@@ -47,55 +47,55 @@
       "end" : 4363613
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Ian Carew",
-      "Sascha Draeger"
-    ],
-    [
-      "Mambo Mawu",
-      "Regina Lemnitz"
-    ],
-    [
-      "Kommissarin Martinez",
-      "Caroline Kiesewetter"
-    ],
-    [
-      "Larry",
-      "Stephan Schad"
-    ],
-    [
-      "Morton",
-      "Michael Prelle"
-    ],
-    [
-      "Thabani Mathoho",
-      "Tim Grobe"
-    ],
-    [
-      "Clayton Badu",
-      "Frank Roder"
-    ],
-    [
-      "Cumba Balewa",
-      "Heidi Berndt"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Ian Carew",
+      "sprecher" : "Sascha Draeger"
+    },
+    {
+      "rolle" : "Mambo Mawu",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Kommissarin Martinez",
+      "sprecher" : "Caroline Kiesewetter"
+    },
+    {
+      "rolle" : "Larry",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Michael Prelle"
+    },
+    {
+      "rolle" : "Thabani Mathoho",
+      "sprecher" : "Tim Grobe"
+    },
+    {
+      "rolle" : "Clayton Badu",
+      "sprecher" : "Frank Roder"
+    },
+    {
+      "rolle" : "Cumba Balewa",
+      "sprecher" : "Heidi Berndt"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/224/metadata.json",

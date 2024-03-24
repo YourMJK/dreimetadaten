@@ -47,63 +47,63 @@
       "end" : 4081427
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Zuko",
-      "Kostja Ullmann"
-    ],
-    [
-      "Katara",
-      "Mitsue Kono"
-    ],
-    [
-      "Xiang Than",
-      "Horst Naumann"
-    ],
-    [
-      "Fan Quoc",
-      "Christine Wilhelmi"
-    ],
-    [
-      "Fan Yuen",
-      "Frank Gustavus"
-    ],
-    [
-      "Dealerin",
-      "Barbara Schipper"
-    ],
-    [
-      "1. Chinese",
-      "Frank Richartz"
-    ],
-    [
-      "2. Chinese",
-      "Erik Schäffler"
-    ],
-    [
-      "Fan Hao",
-      "Gerd Baltus"
-    ],
-    [
-      "Einlass",
-      "Matti Schmidt-Schaller"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Zuko",
+      "sprecher" : "Kostja Ullmann"
+    },
+    {
+      "rolle" : "Katara",
+      "sprecher" : "Mitsue Kono"
+    },
+    {
+      "rolle" : "Xiang Than",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Fan Quoc",
+      "sprecher" : "Christine Wilhelmi"
+    },
+    {
+      "rolle" : "Fan Yuen",
+      "sprecher" : "Frank Gustavus"
+    },
+    {
+      "rolle" : "Dealerin",
+      "sprecher" : "Barbara Schipper"
+    },
+    {
+      "rolle" : "Chinese 1",
+      "sprecher" : "Frank Richartz"
+    },
+    {
+      "rolle" : "Chinese 2",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Fan Hao",
+      "sprecher" : "Gerd Baltus"
+    },
+    {
+      "rolle" : "Einlass",
+      "sprecher" : "Matti Schmidt-Schaller"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/192/metadata.json",

@@ -62,43 +62,43 @@
       "end" : 3528253
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Ken Parker, Beachball-Spieler",
-      "Jürgen Holdorf"
-    ],
-    [
-      "Dr. Robinson",
-      "Heinz Lieven"
-    ],
-    [
-      "Mickey McQuire",
-      "Marco Sand"
-    ],
-    [
-      "Mrs Bancroft",
-      "Ilka Kirsch"
-    ],
-    [
-      "Zuschauer",
-      "Alexander Mülle"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Ken Parker, Beachball-Spieler",
+      "sprecher" : "Jürgen Holdorf"
+    },
+    {
+      "rolle" : "Dr. Robinson",
+      "sprecher" : "Heinz Lieven"
+    },
+    {
+      "rolle" : "Mickey McQuire",
+      "sprecher" : "Marco Sand"
+    },
+    {
+      "rolle" : "Mrs. Bancroft",
+      "sprecher" : "Ilka Kirsch"
+    },
+    {
+      "rolle" : "Zuschauer",
+      "sprecher" : "Alexander Müller"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/120/metadata.json",

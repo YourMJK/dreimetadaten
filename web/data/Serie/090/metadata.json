@@ -37,35 +37,35 @@
       "end" : 3532947
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Aaron Moore",
-      "Reent Reins"
-    ],
-    [
-      "Roxanne",
-      "Regine Lamster"
-    ],
-    [
-      "Bruce Black",
-      "Til Demtröder"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Aaron Moore",
+      "sprecher" : "Reent Reins"
+    },
+    {
+      "rolle" : "Roxanne",
+      "sprecher" : "Regine Lamster"
+    },
+    {
+      "rolle" : "Bruce Black",
+      "sprecher" : "Till Demtrøder"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/090/metadata.json",

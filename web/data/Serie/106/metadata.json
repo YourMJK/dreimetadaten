@@ -47,75 +47,77 @@
       "end" : 4255213
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Amy Scream",
-      "Marianne Kehlau"
-    ],
-    [
-      "Monique Carrera",
-      "Amanda Lear"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Ellen",
-      "Celine Fontanges"
-    ],
-    [
-      "Pam",
-      "Enie van de Meiklokjes"
-    ],
-    [
-      "Jim Cowley",
-      "Cäsar"
-    ],
-    [
-      "Jeffrey",
-      "Kim Alexander Frank"
-    ],
-    [
-      "Mandy Robin",
-      "Manuela Dahm"
-    ],
-    [
-      "1. Sanitäter",
-      "Robert Missler"
-    ],
-    [
-      "2. Sanitäter",
-      "Hartmut Kollakowsky"
-    ],
-    [
-      "Bardame",
-      "Monique Carrera [Amanda Lear]"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Diskothekenbesucher",
-      "Echt"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Amy Scream",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "Monique Carrera",
+      "sprecher" : "Amanda Lear"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Ellen",
+      "sprecher" : "Celine Fontanges"
+    },
+    {
+      "rolle" : "Pam",
+      "sprecher" : "Enie van de Meiklokjes"
+    },
+    {
+      "rolle" : "Jim Cowley",
+      "sprecher" : "Marcus Kaiser",
+      "pseudonym" : "Cäsar"
+    },
+    {
+      "rolle" : "Jeffrey",
+      "sprecher" : "Kim Frank"
+    },
+    {
+      "rolle" : "Mandy Robin",
+      "sprecher" : "Manuela Dahm"
+    },
+    {
+      "rolle" : "Sanitäter 1",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Sanitäter 2",
+      "sprecher" : "Hartmut Kollakowsky"
+    },
+    {
+      "rolle" : "Bardame",
+      "sprecher" : "Amanda Lear",
+      "pseudonym" : "Monique Carrera"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Diskothekenbesucher",
+      "sprecher" : "Echt"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/106/metadata.json",

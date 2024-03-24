@@ -37,79 +37,79 @@
       "end" : 4139387
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Jesse",
-      "Jacob Weigert"
-    ],
-    [
-      "Trainer",
-      "Till Huster"
-    ],
-    [
-      "Jaden",
-      "Flemming Draeger"
-    ],
-    [
-      "Joshua",
-      "Louis Körting"
-    ],
-    [
-      "April",
-      "Lilli Körting"
-    ],
-    [
-      "Autumn",
-      "Sabrina Heuer-Diakow"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Charles Morland",
-      "Horst Stark"
-    ],
-    [
-      "Tanika Frost",
-      "Isabella Grothe"
-    ],
-    [
-      "Savannah Frost",
-      "Christiane Leuchtmann"
-    ],
-    [
-      "Dennis Frost",
-      "Sascha Oliver Bauer"
-    ],
-    [
-      "Jane Thompson",
-      "Maud Ackermann"
-    ],
-    [
-      "Tyler",
-      "Christian Rudolf"
-    ],
-    [
-      "Gardener",
-      "Christian Concilio"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Jesse",
+      "sprecher" : "Jacob Weigert"
+    },
+    {
+      "rolle" : "Trainer",
+      "sprecher" : "Till Huster"
+    },
+    {
+      "rolle" : "Jaden",
+      "sprecher" : "Flemming Draeger"
+    },
+    {
+      "rolle" : "Joshua",
+      "sprecher" : "Louis Körting"
+    },
+    {
+      "rolle" : "April",
+      "sprecher" : "Lilli Körting"
+    },
+    {
+      "rolle" : "Autumn",
+      "sprecher" : "Sabrina Heuer-Diakow"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Charles Morland",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Tanika Frost",
+      "sprecher" : "Isabella Grothe"
+    },
+    {
+      "rolle" : "Savannah Frost",
+      "sprecher" : "Christiane Leuchtmann"
+    },
+    {
+      "rolle" : "Dennis Frost",
+      "sprecher" : "Sascha Oliver Bauer"
+    },
+    {
+      "rolle" : "Jane Thompson",
+      "sprecher" : "Maud Ackermann"
+    },
+    {
+      "rolle" : "Tyler",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Gardener",
+      "sprecher" : "Christian Concilio"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/184/metadata.json",

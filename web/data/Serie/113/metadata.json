@@ -77,47 +77,47 @@
       "end" : 3607400
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Emily",
-      "Madeleine Weingart"
-    ],
-    [
-      "Mrs Silverstone",
-      "Katrin Wasow"
-    ],
-    [
-      "Dr. Wakefield",
-      "Hans Daniel"
-    ],
-    [
-      "Alruna",
-      "Gisela Trowe"
-    ],
-    [
-      "Marcus Lake",
-      "Thomas Karallus"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Emily",
+      "sprecher" : "Madeleine Weingart"
+    },
+    {
+      "rolle" : "Mrs. Silverstone",
+      "sprecher" : "Katrin Wasow"
+    },
+    {
+      "rolle" : "Dr. Wakefield",
+      "sprecher" : "Hans Daniel"
+    },
+    {
+      "rolle" : "Alruna",
+      "sprecher" : "Gisela Trowe"
+    },
+    {
+      "rolle" : "Marcus Lake",
+      "sprecher" : "Thomas Karallus"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/113/metadata.json",

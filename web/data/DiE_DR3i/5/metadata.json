@@ -62,47 +62,47 @@
       "end" : 4409520
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Jupiter Jones",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Crenshaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Jack Doolan",
-      "Eckart Dux"
-    ],
-    [
-      "Harold",
-      "Gernot Endemann"
-    ],
-    [
-      "Miss Lana",
-      "Sabine Schmidt-Kirchner"
-    ],
-    [
-      "Mademoiselle Nadine",
-      "Jennie Appel"
-    ],
-    [
-      "Toby Grissom",
-      "Lothar Grützner"
-    ],
-    [
-      "Frank Mortimer",
-      "Karl-Friedrich Gerster"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Jupiter Jones",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Crenshaw",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Jack Doolan",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Harold",
+      "sprecher" : "Gernot Endemann"
+    },
+    {
+      "rolle" : "Miss Lana",
+      "sprecher" : "Sabine Schmidt-Kirchner"
+    },
+    {
+      "rolle" : "Mademoiselle Nadine",
+      "sprecher" : "Jennie Appel"
+    },
+    {
+      "rolle" : "Toby Grissom",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Frank Mortimer",
+      "sprecher" : "Karl-Friedrich Gerster"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/5/metadata.json",

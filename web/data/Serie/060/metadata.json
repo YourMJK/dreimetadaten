@@ -47,63 +47,64 @@
       "end" : 2826880
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Andrews",
-      "Günter König"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Glenn Miles",
-      "Christian Stark"
-    ],
-    [
-      "Benny",
-      "Tobias Pauls"
-    ],
-    [
-      "Tom Descanso, Trainer",
-      "Prof. Justus Frantz"
-    ],
-    [
-      "Field, Lehrer",
-      "Michael Quiatkowsky"
-    ],
-    [
-      "Hutchins, Sport-Reporter",
-      "Uwe Büschken"
-    ],
-    [
-      "Dr. Landman, Schuldirektor",
-      "Gerd Duwner"
-    ],
-    [
-      "Stan",
-      "Tilman Madaus"
-    ],
-    [
-      "Eleonore Sharp",
-      "Margot Linde"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Günter König"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Glenn Miles",
+      "sprecher" : "Christian Stark"
+    },
+    {
+      "rolle" : "Benny",
+      "sprecher" : "Tobias Pauls"
+    },
+    {
+      "rolle" : "Tom Descanso, Trainer",
+      "sprecher" : "Prof. Justus Frantz"
+    },
+    {
+      "rolle" : "Field, Lehrer",
+      "sprecher" : "Michael Quiatkowsky"
+    },
+    {
+      "rolle" : "Hutchins, Sport-Reporter",
+      "sprecher" : "Uwe Büschken"
+    },
+    {
+      "rolle" : "Dr. Landman, Schuldirektor",
+      "sprecher" : "Gerd Duwner"
+    },
+    {
+      "rolle" : "Stan",
+      "sprecher" : "Tilman Madaus"
+    },
+    {
+      "rolle" : "Eleonore Sharp",
+      "sprecher" : "Eva Maria Bauer",
+      "pseudonym" : "Margot Linde"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/060/metadata.json",

@@ -47,55 +47,55 @@
       "end" : 3191000
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Detective Frank",
-      "Wolf Frass"
-    ],
-    [
-      "Dave Rawling",
-      "Helmut Gentsch"
-    ],
-    [
-      "Praktikantin Lesley",
-      "Ann Montenbruck"
-    ],
-    [
-      "Mrs. Shaw",
-      "Heikedine Körting"
-    ],
-    [
-      "Mr. Smith",
-      "Douglas Welbat"
-    ],
-    [
-      "Sheppard",
-      "Marius Kreissler"
-    ],
-    [
-      "Feuerwehrmann",
-      "Wolfgang Kaven"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Detective Frank",
+      "sprecher" : "Wolf Frass"
+    },
+    {
+      "rolle" : "Dave Rawling",
+      "sprecher" : "Helmut Gentsch"
+    },
+    {
+      "rolle" : "Praktikantin Lesley",
+      "sprecher" : "Ann Montenbruck"
+    },
+    {
+      "rolle" : "Mrs. Shaw",
+      "sprecher" : "Heikedine Körting"
+    },
+    {
+      "rolle" : "Mr. Smith",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Sheppard",
+      "sprecher" : "Marius Kreissler"
+    },
+    {
+      "rolle" : "Feuerwehrmann",
+      "sprecher" : "Wolfgang Kaven"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/096/metadata.json",

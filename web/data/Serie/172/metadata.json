@@ -62,63 +62,63 @@
       "end" : 4375213
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Drago Martinez",
-      "Konstantin Graudus"
-    ],
-    [
-      "Fred Osborne",
-      "Erik Schäffler"
-    ],
-    [
-      "Cecile Jezero",
-      "Sandra Quadflieg"
-    ],
-    [
-      "Deborah",
-      "Kornelia Lüdorff"
-    ],
-    [
-      "Short",
-      "Manfred Liptow"
-    ],
-    [
-      "Anthony",
-      "Lutz Harder"
-    ],
-    [
-      "Godween",
-      "André Minninger"
-    ],
-    [
-      "Heavy Metal",
-      "Iris Rufner"
-    ],
-    [
-      "Arthur Pepper",
-      "Frank Thannhäuser"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Drago Martinez",
+      "sprecher" : "Konstantin Graudus"
+    },
+    {
+      "rolle" : "Fred Osborne",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Cecile Jezero",
+      "sprecher" : "Sandra Quadflieg"
+    },
+    {
+      "rolle" : "Deborah",
+      "sprecher" : "Kornelia Lüdorff"
+    },
+    {
+      "rolle" : "Short",
+      "sprecher" : "Manfred Liptow"
+    },
+    {
+      "rolle" : "Anthony",
+      "sprecher" : "Lutz Harder"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Heavy Metal",
+      "sprecher" : "Iris Rufner"
+    },
+    {
+      "rolle" : "Arthur Pepper",
+      "sprecher" : "Frank Thannhäuser"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/172/metadata.json",

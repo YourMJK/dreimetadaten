@@ -47,67 +47,67 @@
       "end" : 4189547
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Detective Ella",
-      "Neda Rahmanian"
-    ],
-    [
-      "Officer James",
-      "Sascha Gutzeit"
-    ],
-    [
-      "Mr. Shaw",
-      "Michael Grimm"
-    ],
-    [
-      "Paul Forsters",
-      "Achim Buch"
-    ],
-    [
-      "Esprit",
-      "Matthias Keller"
-    ],
-    [
-      "Anthony Spring",
-      "Douglas Welbat"
-    ],
-    [
-      "Butch",
-      "Tom Pidde"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Blacky",
-      "Heikedine Körting"
-    ],
-    [
-      "Godween",
-      "André Minninger"
-    ],
-    [
-      "Polizist",
-      "Frank Meyer-Brockmann"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Detective Ella",
+      "sprecher" : "Neda Rahmanian"
+    },
+    {
+      "rolle" : "Officer James",
+      "sprecher" : "Sascha Gutzeit"
+    },
+    {
+      "rolle" : "Mr. Shaw",
+      "sprecher" : "Michael Grimm"
+    },
+    {
+      "rolle" : "Paul Forsters",
+      "sprecher" : "Achim Buch"
+    },
+    {
+      "rolle" : "Esprit",
+      "sprecher" : "Matthias Keller"
+    },
+    {
+      "rolle" : "Anthony Spring",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Butch",
+      "sprecher" : "Tom Pidde"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Frank Meyer-Brockmann"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/219/metadata.json",

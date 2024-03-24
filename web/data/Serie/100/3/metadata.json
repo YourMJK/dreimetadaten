@@ -35,55 +35,55 @@
       "end" : 3410493
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Jelena",
-      "Alexandra Doerk"
-    ],
-    [
-      "Professor Phoenix",
-      "Wilfried Glatzeder"
-    ],
-    [
-      "Dr. Svenson",
-      "Antje Roosch"
-    ],
-    [
-      "Mr. Schwarz",
-      "Erik Schäffler"
-    ],
-    [
-      "Mr. Olin",
-      "Uli Krohm"
-    ],
-    [
-      "Juan",
-      "Oliver Böttcher"
-    ],
-    [
-      "Al",
-      "Nico König"
-    ],
-    [
-      "Anne",
-      "Corinna Wodrich"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Jelena Charkova",
+      "sprecher" : "Alexandra Doerk"
+    },
+    {
+      "rolle" : "Professor Phoenix",
+      "sprecher" : "Winfried Glatzeder"
+    },
+    {
+      "rolle" : "Dr. Svenson",
+      "sprecher" : "Antje Roosch"
+    },
+    {
+      "rolle" : "Mr. Schwarz",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Mr. Olin",
+      "sprecher" : "Uli Krohm"
+    },
+    {
+      "rolle" : "Juan",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Al",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Anne",
+      "sprecher" : "Corinna Wodrich"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/100/3/metadata.json",

@@ -37,51 +37,51 @@
       "end" : 3558427
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Käptn Jason",
-      "F.J. Steffens"
-    ],
-    [
-      "Professor Clark",
-      "Erich Krieg"
-    ],
-    [
-      "Carol Ford, Fernsehjournalistin",
-      "Claudia Schermutzki"
-    ],
-    [
-      "Dr. Helprin, Wissenschaftler",
-      "Rudolf Herget"
-    ],
-    [
-      "Mr. Evans",
-      "Peter Groß"
-    ],
-    [
-      "Enrique Serra",
-      "Jörg Gillner"
-    ],
-    [
-      "Mr. Andrews",
-      "Roland Becker"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Käptn Jason",
+      "sprecher" : "Franz-Josef Steffens"
+    },
+    {
+      "rolle" : "Professor Clark",
+      "sprecher" : "Erich Krieg"
+    },
+    {
+      "rolle" : "Carol Ford, Fernsehjournalistin",
+      "sprecher" : "Claudia Schermutzki"
+    },
+    {
+      "rolle" : "Dr. Helprin, Wissenschaftler",
+      "sprecher" : "Rudolf H. Herget"
+    },
+    {
+      "rolle" : "Mr. Evans",
+      "sprecher" : "Peter Groß"
+    },
+    {
+      "rolle" : "Enrique Serra",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Roland Becker"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/083/metadata.json",

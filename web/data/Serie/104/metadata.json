@@ -47,51 +47,51 @@
       "end" : 4138120
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Dick Perry",
-      "Ernst Hilbich"
-    ],
-    [
-      "Mrs. Meg Baker",
-      "Lotti Krekel"
-    ],
-    [
-      "Mrs. Wood",
-      "Elga Schütz"
-    ],
-    [
-      "Jack Sharky",
-      "Stefan Babic"
-    ],
-    [
-      "Betty Shutton",
-      "Regina Pressler"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mrs. Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Dick Perry",
+      "sprecher" : "Ernst H. Hilbich"
+    },
+    {
+      "rolle" : "Mrs. Meg Baker",
+      "sprecher" : "Lotti Krekel"
+    },
+    {
+      "rolle" : "Mrs. Wood",
+      "sprecher" : "Elga Schütz"
+    },
+    {
+      "rolle" : "Jack Sharky",
+      "sprecher" : "Stefan Babic"
+    },
+    {
+      "rolle" : "Betty Shutton",
+      "sprecher" : "Regina Pressler"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/104/metadata.json",

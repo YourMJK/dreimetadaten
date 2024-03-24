@@ -57,91 +57,91 @@
       "end" : 4040853
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Harry Salas",
-      "Pat Murphy"
-    ],
-    [
-      "Vanessa Goodstein",
-      "Simone Ritscher"
-    ],
-    [
-      "Eliah Cristobal",
-      "Stephan Schwartz"
-    ],
-    [
-      "Albert Goodstein",
-      "Manfred Reddemann"
-    ],
-    [
-      "Ben Kramer",
-      "Jan-Christof Kick"
-    ],
-    [
-      "Fiona Kramer",
-      "Lilian Körting"
-    ],
-    [
-      "Wirt",
-      "Harald Halgardt"
-    ],
-    [
-      "Jimmy Blue Eye",
-      "Ulli Potofski"
-    ],
-    [
-      "1. Mann",
-      "Achim Schülke"
-    ],
-    [
-      "2. Mann",
-      "Fabian Harloff"
-    ],
-    [
-      "Frau",
-      "Saskia Weckler"
-    ],
-    [
-      "Rosaria",
-      "Gela del Este"
-    ],
-    [
-      "Silvie",
-      "Katharina von Keller"
-    ],
-    [
-      "Jessy",
-      "Manuela Bäcker"
-    ],
-    [
-      "Sergeant",
-      "Alexander Stamm"
-    ],
-    [
-      "Polizist",
-      "Gordon Piedesack"
-    ],
-    [
-      "Rikuo Yamamoto",
-      "Toru Takahashi"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Harry Salas",
+      "sprecher" : "Pat Murphy"
+    },
+    {
+      "rolle" : "Vanessa Goodstein",
+      "sprecher" : "Simone Ritscher"
+    },
+    {
+      "rolle" : "Eliah Cristobal",
+      "sprecher" : "Stephan Schwartz"
+    },
+    {
+      "rolle" : "Albert Goodstein",
+      "sprecher" : "Manfred Reddemann"
+    },
+    {
+      "rolle" : "Ben Kramer",
+      "sprecher" : "Jan-Christof Kick"
+    },
+    {
+      "rolle" : "Fiona Kramer",
+      "sprecher" : "Lilian Körting"
+    },
+    {
+      "rolle" : "Wirt",
+      "sprecher" : "Harald Halgardt"
+    },
+    {
+      "rolle" : "Jimmy Blue Eye",
+      "sprecher" : "Ulrich Potofski"
+    },
+    {
+      "rolle" : "Mann 1",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mann 2",
+      "sprecher" : "Fabian Harloff"
+    },
+    {
+      "rolle" : "Frau",
+      "sprecher" : "Saskia Weckler"
+    },
+    {
+      "rolle" : "Rosaria",
+      "sprecher" : "Gela del Este"
+    },
+    {
+      "rolle" : "Silvie",
+      "sprecher" : "Katharina von Keller"
+    },
+    {
+      "rolle" : "Jessy",
+      "sprecher" : "Manuela Eifrig"
+    },
+    {
+      "rolle" : "Sergeant",
+      "sprecher" : "Alexander Stamm"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Gordon Piedesack"
+    },
+    {
+      "rolle" : "Rikuo Yamamoto",
+      "sprecher" : "Toru Takahashi"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/171/metadata.json",

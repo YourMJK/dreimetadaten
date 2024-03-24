@@ -47,59 +47,60 @@
       "end" : 3048040
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Kelly",
-      "Juliane Szalay"
-    ],
-    [
-      "Buzz Newman",
-      "Manou Lubowski"
-    ],
-    [
-      "George Brandon",
-      "Fabian Harloff"
-    ],
-    [
-      "Jim Bernardie",
-      "Holger Mahlich"
-    ],
-    [
-      "Firestone",
-      "Peter Schiff"
-    ],
-    [
-      "Crocker",
-      "Lothar Grützner"
-    ],
-    [
-      "Lovell Madeira",
-      "Rainer Schmitt"
-    ],
-    [
-      "Vic Hammell",
-      "Ben Tappé"
-    ],
-    [
-      "Dan",
-      "Henry König"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Buzz Newman",
+      "sprecher" : "Manou Lubowski",
+      "pseudonym" : "Christian Weber"
+    },
+    {
+      "rolle" : "George Brandon",
+      "sprecher" : "Fabian Harloff"
+    },
+    {
+      "rolle" : "Jim Bernardie",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Firestone",
+      "sprecher" : "Peter Schiff"
+    },
+    {
+      "rolle" : "Crocker",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Lovell Madeira",
+      "sprecher" : "Rainer Schmitt"
+    },
+    {
+      "rolle" : "Vic Hammell",
+      "sprecher" : "Ben Tappé"
+    },
+    {
+      "rolle" : "Dan",
+      "sprecher" : "Henry König"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/054/metadata.json",

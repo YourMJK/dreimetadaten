@@ -82,63 +82,63 @@
       "end" : 4331240
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Ryan Holbrooke",
-      "Manfred Reddemann"
-    ],
-    [
-      "Sheriff Pickett",
-      "Gerhart Hinze"
-    ],
-    [
-      "Stephen Baron",
-      "Patrick Elias"
-    ],
-    [
-      "Zyklon",
-      "Wolfgang Berger"
-    ],
-    [
-      "Al Dahab",
-      "Neil Malik"
-    ],
-    [
-      "Frau",
-      "Regine Lamster"
-    ],
-    [
-      "Matthew",
-      "Mike Olsowski"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Zabriski",
-      "Volker Bogdan"
-    ],
-    [
-      "Fred",
-      "Oliver Mink"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Ryan Holbrooke",
+      "sprecher" : "Manfred Reddemann"
+    },
+    {
+      "rolle" : "Sheriff Pickett",
+      "sprecher" : "Gerhart Hinze"
+    },
+    {
+      "rolle" : "Stephen Baron",
+      "sprecher" : "Patrick Elias"
+    },
+    {
+      "rolle" : "Zyklon",
+      "sprecher" : "Wolfgang Berger"
+    },
+    {
+      "rolle" : "Al Dahab",
+      "sprecher" : "Neil Malik Abdullah"
+    },
+    {
+      "rolle" : "Frau",
+      "sprecher" : "Regine Lamster"
+    },
+    {
+      "rolle" : "Matthew",
+      "sprecher" : "Mike Olsowski"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Zabriski",
+      "sprecher" : "Volker Bogdan"
+    },
+    {
+      "rolle" : "Fred",
+      "sprecher" : "Oliver Mink"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/156/metadata.json",

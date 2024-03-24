@@ -85,75 +85,77 @@
       "end" : 4464547
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Brittany",
-      "Dorette Hugo"
-    ],
-    [
-      "Hugenay",
-      "Albert Giro"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Julianne Wallace",
-      "Marlen Diekhoff"
-    ],
-    [
-      "Charles Knox",
-      "Dirk Bach"
-    ],
-    [
-      "Moderator",
-      "Holger Wemhoff"
-    ],
-    [
-      "Polizist 2",
-      "Erik Schäffler"
-    ],
-    [
-      "Ansager",
-      "Bertram Hiese"
-    ],
-    [
-      "Mr. Myers",
-      "Eberhard Haar"
-    ],
-    [
-      "Nachtschatten",
-      "Frank Tannhäuser"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Mr. Baker",
-      "Wolf Pahls"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Brittany",
+      "sprecher" : "Dorette Hugo"
+    },
+    {
+      "rolle" : "Hugenay",
+      "sprecher" : "Wolfgang Kubach",
+      "pseudonym" : "Albert Giro"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Julianne Wallace",
+      "sprecher" : "Marlen Diekhoff"
+    },
+    {
+      "rolle" : "Charles Knox",
+      "sprecher" : "Dirk Bach"
+    },
+    {
+      "rolle" : "Moderator",
+      "sprecher" : "Holger Wemhoff"
+    },
+    {
+      "rolle" : "Polizist 2",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Ansager",
+      "sprecher" : "Bertram Hiese"
+    },
+    {
+      "rolle" : "Mr. Myers",
+      "sprecher" : "Eberhard Haar"
+    },
+    {
+      "rolle" : "Nachtschatten",
+      "sprecher" : "Frank Thannhäuser"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Mr. Baker",
+      "sprecher" : "Wolf Pahlke"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/125/3/metadata.json",

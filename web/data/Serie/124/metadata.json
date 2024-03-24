@@ -82,43 +82,43 @@
       "end" : 3990920
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. O'Sullivan",
-      "Eckard Dux"
-    ],
-    [
-      "Butler Paul",
-      "Volker Bogdan"
-    ],
-    [
-      "Dick Perry",
-      "Ernst Hilbich"
-    ],
-    [
-      "Polizist",
-      "Frank Thannhäuser"
-    ],
-    [
-      "Aufsicht",
-      "Patrick Bach"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. O'Sullivan",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Butler Paul",
+      "sprecher" : "Volker Bogdan"
+    },
+    {
+      "rolle" : "Dick Perry",
+      "sprecher" : "Ernst H. Hilbich"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Frank Thannhäuser"
+    },
+    {
+      "rolle" : "Aufsicht",
+      "sprecher" : "Patrick Bach"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/124/metadata.json",

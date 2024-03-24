@@ -47,63 +47,64 @@
       "end" : 3772307
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Ann Sullivan",
-      "Heidi Schaffrath"
-    ],
-    [
-      "Mr. Martin",
-      "Christian Mey"
-    ],
-    [
-      "Mr. Caddy",
-      "Helmut Gentsch"
-    ],
-    [
-      "Kellnerin",
-      "Anna Carlsson"
-    ],
-    [
-      "Lady Day",
-      "Reinhilt Schneider"
-    ],
-    [
-      "Henry",
-      "Wilhelm Wieben"
-    ],
-    [
-      "Mann aus der Wüste",
-      "Wilhelm Hornbostel"
-    ],
-    [
-      "Miller",
-      "Lutz Mackensy"
-    ],
-    [
-      "Debby",
-      "Roswitha Benda"
-    ],
-    [
-      "Joe",
-      "Jakob Lichtblau [Eberhard Haar]"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Ann Sullivan",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Mr. Martin",
+      "sprecher" : "Christian Mey"
+    },
+    {
+      "rolle" : "Mr. Caddy",
+      "sprecher" : "Helmut Gentsch"
+    },
+    {
+      "rolle" : "Kellnerin",
+      "sprecher" : "Anna Carlsson"
+    },
+    {
+      "rolle" : "Lady Day",
+      "sprecher" : "Reinhilt Schneider"
+    },
+    {
+      "rolle" : "Henry",
+      "sprecher" : "Wilhelm Wieben"
+    },
+    {
+      "rolle" : "Mann aus der Wüste",
+      "sprecher" : "Wilhelm Hornbostel"
+    },
+    {
+      "rolle" : "Miller",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Debby",
+      "sprecher" : "Roswitha Benda"
+    },
+    {
+      "rolle" : "Joe",
+      "sprecher" : "Fabian Harloff",
+      "pseudonym" : "Jakob Lichtblau"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/098/metadata.json",

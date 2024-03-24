@@ -47,55 +47,55 @@
       "end" : 2628080
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Allie Jamison",
-      "Katrin Fröhlich"
-    ],
-    [
-      "Harrison Osborne",
-      "F.J. Steffens"
-    ],
-    [
-      "Thurgood",
-      "Jürgen Thormann"
-    ],
-    [
-      "Sheriff",
-      "Gottfried Kramer"
-    ],
-    [
-      "Mrs. Macomber",
-      "Gisela Trowe"
-    ],
-    [
-      "Atkinson",
-      "Klaus Stieringer"
-    ],
-    [
-      "Manny",
-      "Lothar Grützner"
-    ],
-    [
-      "Gasper",
-      "Rolf Mamero"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Allie Jamison",
+      "sprecher" : "Katrin Fröhlich"
+    },
+    {
+      "rolle" : "Harrison Osborne",
+      "sprecher" : "Franz-Josef Steffens"
+    },
+    {
+      "rolle" : "Thurgood",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Sheriff",
+      "sprecher" : "Gottfried Kramer"
+    },
+    {
+      "rolle" : "Mrs. Macomber",
+      "sprecher" : "Gisela Trowe"
+    },
+    {
+      "rolle" : "Atkinson",
+      "sprecher" : "Klaus Stieringer"
+    },
+    {
+      "rolle" : "Manny",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Gasper",
+      "sprecher" : "Rolf Mamero"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/026/metadata.json",

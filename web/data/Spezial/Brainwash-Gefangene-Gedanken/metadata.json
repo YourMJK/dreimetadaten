@@ -66,99 +66,101 @@
       "end" : 3675453
     }
   ],
-  "sprecher" : [
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Ben",
-      "Fabian Harloff"
-    ],
-    [
-      "Silvia",
-      "Marion von Stengel"
-    ],
-    [
-      "Ralph",
-      "Wolfgang Kaven"
-    ],
-    [
-      "Spud",
-      "Rasmus Borowski"
-    ],
-    [
-      "O-Ian",
-      "Celine Fontanges"
-    ],
-    [
-      "Setch",
-      "Stefan Brönneke"
-    ],
-    [
-      "Hi-Top",
-      "Robin Brosch"
-    ],
-    [
-      "Car",
-      "Volker Hanisch"
-    ],
-    [
-      "Chip-Shape",
-      "Jens Wendland"
-    ],
-    [
-      "Carol",
-      "Alexandra Garcia"
-    ],
-    [
-      "Slide Terranova",
-      "Nico König"
-    ],
-    [
-      "P. \"Pejo\" Joseph McGaskill",
-      "Peter Kirchberger"
-    ],
-    [
-      "Sax Sendler",
-      "Christian Concillio"
-    ],
-    [
-      "Hausmeister",
-      "Edgar Bessen"
-    ],
-    [
-      "Bau-Kollege",
-      "Holger Umbreit"
-    ],
-    [
-      "Junge",
-      "Michael Lampe"
-    ],
-    [
-      "Mädchen",
-      "Pamela Punti"
-    ],
-    [
-      "Weibl. Offstimme",
-      "Susanne Wulkow"
-    ],
-    [
-      "Werbestimme",
-      "Enie van de Meiklokjes"
-    ],
-    [
-      "Menge",
-      "www.dreifragezeichen.de/www/menge-brainwash"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Ben",
+      "sprecher" : "Fabian Harloff"
+    },
+    {
+      "rolle" : "Silvia",
+      "sprecher" : "Marion von Stengel"
+    },
+    {
+      "rolle" : "Ralph",
+      "sprecher" : "Wolfgang Kaven"
+    },
+    {
+      "rolle" : "Spud",
+      "sprecher" : "Rasmus Borowski"
+    },
+    {
+      "rolle" : "O-Ian",
+      "sprecher" : "Celine Fontanges"
+    },
+    {
+      "rolle" : "Setch",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Hi-Top",
+      "sprecher" : "Robin Brosch"
+    },
+    {
+      "rolle" : "Car",
+      "sprecher" : "Volker Hanisch"
+    },
+    {
+      "rolle" : "Chip-Shape",
+      "sprecher" : "Jens Wendland"
+    },
+    {
+      "rolle" : "Carol",
+      "sprecher" : "Alexandra Garcia"
+    },
+    {
+      "rolle" : "Slide Terranova",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "P. \"Pejo\" Joseph McGaskill",
+      "sprecher" : "Peter Kirchberger"
+    },
+    {
+      "rolle" : "Sax Sandler",
+      "sprecher" : "Christian Concilio"
+    },
+    {
+      "rolle" : "Hausmeister",
+      "sprecher" : "Edgar Bessen"
+    },
+    {
+      "rolle" : "Bau-Kollege",
+      "sprecher" : "Holger Umbreit"
+    },
+    {
+      "rolle" : "Junge",
+      "sprecher" : "André Minninger",
+      "pseudonym" : "Michael Lampe"
+    },
+    {
+      "rolle" : "Mädchen",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Pamela Punti"
+    },
+    {
+      "rolle" : "Weibl. Offstimme",
+      "sprecher" : "Susanne Wulkow"
+    },
+    {
+      "rolle" : "Werbestimme",
+      "sprecher" : "Enie van de Meiklokjes"
+    },
+    {
+      "rolle" : "Menge",
+      "sprecher" : "Lauscherlounge-Zuschauer (www.dreifragezeichen.de/www/menge-brainwash)"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/metadata.json",

@@ -47,67 +47,67 @@
       "end" : 4520653
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mrs. Julia Scott",
-      "Stephanie Kirchberger"
-    ],
-    [
-      "Onkel Titus",
-      "Erik Schäffler"
-    ],
-    [
-      "Gwendolyn",
-      "Maud Ackermann"
-    ],
-    [
-      "Nicholas",
-      "Max König"
-    ],
-    [
-      "Raphael Luca",
-      "Achim Buch"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mrs. Bronkowitz",
-      "Angela Stresemann"
-    ],
-    [
-      "Lady",
-      "Eva Monar"
-    ],
-    [
-      "Dame",
-      "Carolyn Walsh"
-    ],
-    [
-      "Godween",
-      "André Minninger"
-    ],
-    [
-      "Hunter Scott",
-      "Hans-Jürgen Mende"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mrs. Julia Scott",
+      "sprecher" : "Stephanie Damare"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Gwendolyn",
+      "sprecher" : "Maud Ackermann"
+    },
+    {
+      "rolle" : "Nicholas",
+      "sprecher" : "Max König"
+    },
+    {
+      "rolle" : "Raphael Luca",
+      "sprecher" : "Achim Buch"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mrs. Bronkowitz",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Lady",
+      "sprecher" : "Eva Monar"
+    },
+    {
+      "rolle" : "Dame",
+      "sprecher" : "Carolyn Walsh"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Hunter Scott",
+      "sprecher" : "Hans-Jürgen Mende"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/217/metadata.json",

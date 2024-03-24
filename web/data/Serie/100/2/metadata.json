@@ -35,67 +35,67 @@
       "end" : 3376800
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Jelena",
-      "Alexandra Doerk"
-    ],
-    [
-      "Professor Phoenix",
-      "Wilfried Glatzeder"
-    ],
-    [
-      "Dr. Svenson",
-      "Antje Roosch"
-    ],
-    [
-      "Mr. Schwarz",
-      "Erik Schäffler"
-    ],
-    [
-      "Mr. Olin",
-      "Uli Krohm"
-    ],
-    [
-      "Juan",
-      "Oliver Böttcher"
-    ],
-    [
-      "Rachel Hadden",
-      "Anna Carlsson"
-    ],
-    [
-      "Al",
-      "Nico König"
-    ],
-    [
-      "Anne",
-      "Corinna Wodrich"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Jelena Charkova",
+      "sprecher" : "Alexandra Doerk"
+    },
+    {
+      "rolle" : "Professor Phoenix",
+      "sprecher" : "Winfried Glatzeder"
+    },
+    {
+      "rolle" : "Dr. Svenson",
+      "sprecher" : "Antje Roosch"
+    },
+    {
+      "rolle" : "Mr. Schwarz",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Mr. Olin",
+      "sprecher" : "Uli Krohm"
+    },
+    {
+      "rolle" : "Juan",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Rachel Hadden",
+      "sprecher" : "Anna Carlsson"
+    },
+    {
+      "rolle" : "Al",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Anne",
+      "sprecher" : "Corinna Wodrich"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/100/2/metadata.json",

@@ -67,59 +67,59 @@
       "end" : 4634013
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Jupiter Jones",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Crenshaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Sylvester Meyzel",
-      "Wolfgang Völz"
-    ],
-    [
-      "Dorothy Winter",
-      "Doris Kunstmann"
-    ],
-    [
-      "Mr. Hendrik",
-      "Utz Richter"
-    ],
-    [
-      "Kassiererin",
-      "Enie van de Meiklokjes"
-    ],
-    [
-      "Inspektor Milton",
-      "Holger Mahlich"
-    ],
-    [
-      "Inspektor Tomlin",
-      "Klaus Dittmann"
-    ],
-    [
-      "Mr. X",
-      "Dirk Eichhorn"
-    ],
-    [
-      "Tao",
-      "Tilman Maddaus"
-    ],
-    [
-      "Supermarkt-Durchsage",
-      "André Minninger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Jupiter Jones",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Crenshaw",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Sylvester Meyzel",
+      "sprecher" : "Wolfgang Völz"
+    },
+    {
+      "rolle" : "Dorothy Winter",
+      "sprecher" : "Doris Kunstmann"
+    },
+    {
+      "rolle" : "Mr. Hendrik",
+      "sprecher" : "Utz Richter"
+    },
+    {
+      "rolle" : "Kassiererin",
+      "sprecher" : "Enie van de Meiklokjes"
+    },
+    {
+      "rolle" : "Inspektor Milton",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Inspektor Tomlin",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Mr. X",
+      "sprecher" : "Dirk Eichhorn"
+    },
+    {
+      "rolle" : "Tao",
+      "sprecher" : "Tilman Madaus"
+    },
+    {
+      "rolle" : "Supermarkt-Durchsage",
+      "sprecher" : "André Minninger"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/2/metadata.json",

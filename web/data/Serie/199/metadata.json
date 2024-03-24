@@ -47,59 +47,59 @@
       "end" : 4506587
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Mr. Aaron Grover",
-      "Gernot Endemann"
-    ],
-    [
-      "Msr. Patricia Grover",
-      "Heidi Berndt"
-    ],
-    [
-      "Elodie Grover",
-      "Henrike Fehrs"
-    ],
-    [
-      "Desmond Cathpole",
-      "Martin Brücker"
-    ],
-    [
-      "Hausmeister Spencer",
-      "Werner Cartano"
-    ],
-    [
-      "Mr. Rubberwood",
-      "Udo Schenk"
-    ],
-    [
-      "Mr. Parker Mayfield",
-      "Holger Umbreit"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Mr. Aaron Grover",
+      "sprecher" : "Gernot Endemann"
+    },
+    {
+      "rolle" : "Msr. Patricia Grover",
+      "sprecher" : "Heidi Berndt"
+    },
+    {
+      "rolle" : "Elodie Grover",
+      "sprecher" : "Henrike Fehrs"
+    },
+    {
+      "rolle" : "Desmond Cathpole",
+      "sprecher" : "Martin Brücker"
+    },
+    {
+      "rolle" : "Hausmeister Spencer",
+      "sprecher" : "Werner Cartano"
+    },
+    {
+      "rolle" : "Mr. Rubberwood",
+      "sprecher" : "Udo Schenk"
+    },
+    {
+      "rolle" : "Mr. Parker Mayfield",
+      "sprecher" : "Holger Umbreit"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/199/metadata.json",

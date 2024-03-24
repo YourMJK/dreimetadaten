@@ -47,59 +47,59 @@
       "end" : 3203173
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Kelly",
-      "Juliane Szalay"
-    ],
-    [
-      "Ty Cassey",
-      "Stefan Brönneke"
-    ],
-    [
-      "Inspektor Cole",
-      "Wolfgang Schimmelpfennig [Günter König]"
-    ],
-    [
-      "Kommissar Maxim",
-      "Peter Matic"
-    ],
-    [
-      "Gilbar",
-      "Rolf Becker"
-    ],
-    [
-      "Torres",
-      "Douglas Welbat"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Jake Hatch",
-      "Hans Barein"
-    ],
-    [
-      "Tiburon",
-      "Michael Quiatkowsky"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Ty Cassey",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Inspektor Cole",
+      "sprecher" : "Wolfgang Schimmelpfennig"
+    },
+    {
+      "rolle" : "Kommissar Maxim",
+      "sprecher" : "Peter Matić"
+    },
+    {
+      "rolle" : "Gilbar",
+      "sprecher" : "Rolf Becker"
+    },
+    {
+      "rolle" : "Torres",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Jake Hatch",
+      "sprecher" : "Hans Barein"
+    },
+    {
+      "rolle" : "Tiburon",
+      "sprecher" : "Michael Quiatkowsky"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/053/metadata.json",

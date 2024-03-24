@@ -67,63 +67,63 @@
       "end" : 4390653
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Goodween",
-      "André Minninger"
-    ],
-    [
-      "José",
-      "Patrick Bach"
-    ],
-    [
-      "Steve Bright",
-      "Marek Erhardt"
-    ],
-    [
-      "Brian Smith",
-      "Christian Rode"
-    ],
-    [
-      "Martin",
-      "Jesse Grimm"
-    ],
-    [
-      "Wächter",
-      "Sven Dahlem"
-    ],
-    [
-      "Mrs. Osborne",
-      "Anja Nejarri"
-    ],
-    [
-      "Mr. Pentecost",
-      "Wolf Frass"
-    ],
-    [
-      "Senora Gonzalez",
-      "Susanne von Loessl"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "José",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Steve Bright",
+      "sprecher" : "Marek Erhardt"
+    },
+    {
+      "rolle" : "Brian Smith",
+      "sprecher" : "Christian Rode"
+    },
+    {
+      "rolle" : "Martin",
+      "sprecher" : "Jesse Grimm"
+    },
+    {
+      "rolle" : "Wächter",
+      "sprecher" : "Sven Dahlem"
+    },
+    {
+      "rolle" : "Mrs. Osborne",
+      "sprecher" : "Anja Nejarri"
+    },
+    {
+      "rolle" : "Mr. Pentecost",
+      "sprecher" : "Wolf Frass"
+    },
+    {
+      "rolle" : "Senora Gonzalez",
+      "sprecher" : "Susanne von Loessl"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/127/metadata.json",

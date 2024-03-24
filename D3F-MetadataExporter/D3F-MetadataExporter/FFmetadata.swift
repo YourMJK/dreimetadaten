@@ -105,8 +105,8 @@ extension FFmetadata {
 	private init(withBasicTagsFrom höreinheit: Höreinheit) {
 		// First sprecher as artist
 		let artist: String? = {
-			if let firstSprecher = höreinheit.sprecher?.first, firstSprecher.count >= 2 {
-				return firstSprecher[1]
+			if let firstSprechrolle = höreinheit.sprechrollen?.first {
+				return firstSprechrolle.sprecher
 			}
 			return nil
 		}()

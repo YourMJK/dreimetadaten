@@ -47,55 +47,56 @@
       "end" : 3012147
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Milton",
-      "Horst Naumann"
-    ],
-    [
-      "Bonehead",
-      "Sascha Draeger"
-    ],
-    [
-      "Peggy",
-      "Veronika Neugebauer"
-    ],
-    [
-      "Footsie",
-      "Niki Nowotny"
-    ],
-    [
-      "Bloodhound",
-      "Manou Lubowski"
-    ],
-    [
-      "Lomax",
-      "Peter Pantel [Wolf Rahtjen]"
-    ],
-    [
-      "Tante Mathilda",
-      "Dorothea Kaiser"
-    ],
-    [
-      "Gordon Harker",
-      "Stefan Brönneke"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Milton",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Bonehead",
+      "sprecher" : "Sascha Draeger"
+    },
+    {
+      "rolle" : "Peggy",
+      "sprecher" : "Veronika Neugebauer"
+    },
+    {
+      "rolle" : "Footsie",
+      "sprecher" : "Niki Nowotny"
+    },
+    {
+      "rolle" : "Bloodhound",
+      "sprecher" : "Manou Lubowski"
+    },
+    {
+      "rolle" : "Lomax",
+      "sprecher" : "Wolf Rahtjen",
+      "pseudonym" : "Peter Pantel"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Dorothea Kaiser"
+    },
+    {
+      "rolle" : "Gordon Harker",
+      "sprecher" : "Stefan Brönneke"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/044/metadata.json",

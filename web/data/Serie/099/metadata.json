@@ -47,67 +47,67 @@
       "end" : 4573053
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Kevin Anderson",
-      "Thomas Bug"
-    ],
-    [
-      "Clarissa Franklin",
-      "Judy Winter"
-    ],
-    [
-      "Dr. Freeman",
-      "Jürgen Thormann"
-    ],
-    [
-      "Mrs. Brighton",
-      "Monika Werner"
-    ],
-    [
-      "Mrs. Wheel",
-      "Ines Sawatzki"
-    ],
-    [
-      "Schwester Whitney",
-      "Andrea Lange"
-    ],
-    [
-      "Besucher",
-      "Eckart Dux"
-    ],
-    [
-      "Bote",
-      "Stefan Rütter"
-    ],
-    [
-      "Goodween",
-      "André Minninger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Kevin Anderson",
+      "sprecher" : "Thomas Bug"
+    },
+    {
+      "rolle" : "Clarissa Franklin",
+      "sprecher" : "Judy Winter"
+    },
+    {
+      "rolle" : "Dr. Freeman",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Mrs. Brighton",
+      "sprecher" : "Monika Werner"
+    },
+    {
+      "rolle" : "Mrs. Wheel",
+      "sprecher" : "Ines Sawatzki"
+    },
+    {
+      "rolle" : "Schwester Whitney",
+      "sprecher" : "Andrea Lange"
+    },
+    {
+      "rolle" : "Besucher",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Bote",
+      "sprecher" : "Stefan Rüter"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/099/metadata.json",

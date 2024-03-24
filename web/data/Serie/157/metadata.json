@@ -67,63 +67,64 @@
       "end" : 4461093
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Riese",
-      "Tilo Schmitz"
-    ],
-    [
-      "Hunnicutt",
-      "Heinz Lieven"
-    ],
-    [
-      "Sheila",
-      "Melanie Pukaß"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Felicity",
-      "Kari Erlhoff"
-    ],
-    [
-      "Chester",
-      "Mike Olsowski"
-    ],
-    [
-      "Godween",
-      "André Minninger"
-    ],
-    [
-      "Gizmo",
-      "Michael von Rospatt"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Riese",
+      "sprecher" : "Tilo Schmitz"
+    },
+    {
+      "rolle" : "Hunnicutt",
+      "sprecher" : "Heinz Lieven"
+    },
+    {
+      "rolle" : "Sheila",
+      "sprecher" : "Melanie Pukaß"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Felicity",
+      "sprecher" : "Kari Erlhoff"
+    },
+    {
+      "rolle" : "Chester",
+      "sprecher" : "Mike Olsowski"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Gizmo",
+      "sprecher" : "Michael von Rospatt"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/157/metadata.json",

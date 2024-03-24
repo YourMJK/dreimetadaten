@@ -57,51 +57,51 @@
       "end" : 3924760
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Jupiter Jones",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Crenshaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Ellen Maxell",
-      "Traudel Sperber"
-    ],
-    [
-      "Audrey Moonshadow",
-      "Judy Winter"
-    ],
-    [
-      "Sandy Stryker",
-      "Martina Regenhardt"
-    ],
-    [
-      "Mandy Honeyball",
-      "Celine Fontanges"
-    ],
-    [
-      "Mars Chaplin",
-      "Rainer Schmitt"
-    ],
-    [
-      "Inspektor Milton",
-      "Holger Mahlich"
-    ],
-    [
-      "Assistent",
-      "Dirk Bach"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Jupiter Jones",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Crenshaw",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Ellen Maxell",
+      "sprecher" : "Traudel Sperber"
+    },
+    {
+      "rolle" : "Audrey Moonshadow",
+      "sprecher" : "Judy Winter"
+    },
+    {
+      "rolle" : "Sandy Stryker",
+      "sprecher" : "Martina Regenhardt"
+    },
+    {
+      "rolle" : "Mandy Honeyball",
+      "sprecher" : "Celine Fontanges"
+    },
+    {
+      "rolle" : "Mars Chaplin",
+      "sprecher" : "Rainer Schmitt"
+    },
+    {
+      "rolle" : "Inspektor Milton",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Assistent",
+      "sprecher" : "Dirk Bach"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/6/metadata.json",

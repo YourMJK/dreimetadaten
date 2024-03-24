@@ -62,79 +62,79 @@
       "end" : 3243960
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Sean O'Donnell",
-      "Till Demtrøder"
-    ],
-    [
-      "Alexander Chilton",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Mann im Stadion",
-      "Eric Förster"
-    ],
-    [
-      "Ordner",
-      "Matthias Treder"
-    ],
-    [
-      "Frau im Police Department",
-      "Corinna Wodrich"
-    ],
-    [
-      "Mrs. Gardiner",
-      "Elisa Linnemann"
-    ],
-    [
-      "Sekretärin",
-      "Susan Jarling"
-    ],
-    [
-      "Inspektor Craig",
-      "Gustav-Adolph Artz"
-    ],
-    [
-      "Tom Chilton",
-      "Christopher Arndt"
-    ],
-    [
-      "Junger Mann auf der Pier",
-      "Christian Senger"
-    ],
-    [
-      "Junge im Stadion",
-      "Johann Gutjahr"
-    ],
-    [
-      "Live-Kommentator",
-      "Ulli Potofski"
-    ],
-    [
-      "Ansager",
-      "Frank Wintjen"
-    ],
-    [
-      "Frau auf dem Pier",
-      "Katinka Körting"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Sean O'Donnell",
+      "sprecher" : "Till Demtrøder"
+    },
+    {
+      "rolle" : "Alexander Chilton",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Mann im Stadion",
+      "sprecher" : "Eric Förster"
+    },
+    {
+      "rolle" : "Ordner",
+      "sprecher" : "Matthias Treder"
+    },
+    {
+      "rolle" : "Frau im Police Department",
+      "sprecher" : "Corinna Wodrich"
+    },
+    {
+      "rolle" : "Mrs. Gardiner",
+      "sprecher" : "Elisa Linnemann"
+    },
+    {
+      "rolle" : "Sekretärin",
+      "sprecher" : "Susan Jarling"
+    },
+    {
+      "rolle" : "Inspektor Craig",
+      "sprecher" : "Gustav-Adolph Artz"
+    },
+    {
+      "rolle" : "Tom Chilton",
+      "sprecher" : "Christopher Arndt"
+    },
+    {
+      "rolle" : "Junger Mann auf der Pier",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Junge im Stadion",
+      "sprecher" : "Johann Gutjahr"
+    },
+    {
+      "rolle" : "Live-Kommentator",
+      "sprecher" : "Ulrich Potofski"
+    },
+    {
+      "rolle" : "Ansager",
+      "sprecher" : "Frank Wintjen"
+    },
+    {
+      "rolle" : "Frau auf dem Pier",
+      "sprecher" : "Katinka Körting"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/153/metadata.json",

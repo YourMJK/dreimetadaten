@@ -20,55 +20,55 @@
       "end" : 2256800
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tasha",
-      "Victoria Zöller"
-    ],
-    [
-      "Domino Laverna",
-      "Sabine Hahn"
-    ],
-    [
-      "Biff Rodgers, Reporter",
-      "Daniel Schütter"
-    ],
-    [
-      "Lesley Dimple",
-      "Ann Montenbruck"
-    ],
-    [
-      "Zeus Zenon Johnson",
-      "Michael Prelle"
-    ],
-    [
-      "Computer",
-      "Peter Bayer"
-    ],
-    [
-      "Off-Sprecher",
-      "Frank Roder"
-    ],
-    [
-      "Sprecher",
-      "Andreas Birnbaum"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tasha",
+      "sprecher" : "Victoria Zöller"
+    },
+    {
+      "rolle" : "Domino Laverna",
+      "sprecher" : "Sabine Hahn"
+    },
+    {
+      "rolle" : "Biff Rodgers, Reporter",
+      "sprecher" : "Daniel Schütter"
+    },
+    {
+      "rolle" : "Lesley Dimple",
+      "sprecher" : "Ann Montenbruck"
+    },
+    {
+      "rolle" : "Zeus Zenon Johnson",
+      "sprecher" : "Michael Prelle"
+    },
+    {
+      "rolle" : "Computer",
+      "sprecher" : "Peter Bayer"
+    },
+    {
+      "rolle" : "Off-Sprecher",
+      "sprecher" : "Frank Roder"
+    },
+    {
+      "rolle" : "Sprecher",
+      "sprecher" : "Andreas Birnbaum"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/metadata.json",

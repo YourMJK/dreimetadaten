@@ -136,115 +136,116 @@
       "end" : 5066480
     }
   ],
-  "sprecher" : [
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Zachary Collister",
-      "Stephan Benson"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Mrs. Hilton",
-      "Katja Brügger"
-    ],
-    [
-      "Mr. Warren",
-      "Stephan Schwartz"
-    ],
-    [
-      "Luke Havering",
-      "Santiago Ziesmer"
-    ],
-    [
-      "Colin Havering",
-      "Santiago Ziesmer"
-    ],
-    [
-      "MacKenzie",
-      "Traudel Sperber"
-    ],
-    [
-      "Erial",
-      "Robert Missler"
-    ],
-    [
-      "Andy",
-      "Tim Grobe"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Francine",
-      "Merete Brettschneider"
-    ],
-    [
-      "Matrose",
-      "Eberhard Haar"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mrs. Watson",
-      "Corinna Wodrich"
-    ],
-    [
-      "Betrunkener",
-      "Patrick Bach"
-    ],
-    [
-      "Kind 1",
-      "Malon Stahlhuth"
-    ],
-    [
-      "Kind 2",
-      "Julia Fölster"
-    ],
-    [
-      "Taxifahrer",
-      "Tillmann Madaus"
-    ],
-    [
-      "Kartenspieler",
-      "Robin Brosch"
-    ],
-    [
-      "Tochter von Erial",
-      "Zelda Jahreis"
-    ],
-    [
-      "AB-Ansage-Stimme",
-      "Susan Jarling"
-    ],
-    [
-      "Reporter",
-      "Ivo Möller"
-    ],
-    [
-      "Journalistin",
-      "Birte Kretschmer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Zachary Collister",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Mrs. Hilton",
+      "sprecher" : "Katja Brügger"
+    },
+    {
+      "rolle" : "Mr. Warren",
+      "sprecher" : "Stephan Schwartz"
+    },
+    {
+      "rolle" : "Luke Havering",
+      "sprecher" : "Santiago Ziesmer"
+    },
+    {
+      "rolle" : "Colin Havering",
+      "sprecher" : "Santiago Ziesmer"
+    },
+    {
+      "rolle" : "MacKenzie",
+      "sprecher" : "Traudel Sperber"
+    },
+    {
+      "rolle" : "Erial",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Andy",
+      "sprecher" : "Tim Grobe"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Francine",
+      "sprecher" : "Merete Brettschneider"
+    },
+    {
+      "rolle" : "Matrose",
+      "sprecher" : "Eberhard Haar"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mrs. Watson",
+      "sprecher" : "Corinna Wodrich"
+    },
+    {
+      "rolle" : "Betrunkener",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Kind 1",
+      "sprecher" : "Malon Stahlhuth"
+    },
+    {
+      "rolle" : "Kind 2",
+      "sprecher" : "Julia Fölster"
+    },
+    {
+      "rolle" : "Taxifahrer",
+      "sprecher" : "Tilman Madaus"
+    },
+    {
+      "rolle" : "Kartenspieler",
+      "sprecher" : "Robin Brosch"
+    },
+    {
+      "rolle" : "Tochter von Erial",
+      "sprecher" : "Zelda Jahreis"
+    },
+    {
+      "rolle" : "AB-Ansage-Stimme",
+      "sprecher" : "Susan Jarling"
+    },
+    {
+      "rolle" : "Reporter",
+      "sprecher" : "Ivo Möller"
+    },
+    {
+      "rolle" : "Journalistin",
+      "sprecher" : "Birte Kretschmer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/metadata.json",

@@ -47,51 +47,52 @@
       "end" : 3810187
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Brittany",
-      "Dorette Hugo"
-    ],
-    [
-      "Victor Hugenay",
-      "Albert Giro [Wolfgang Kubach]"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Wilbur Graham",
-      "Thomas Bammer"
-    ],
-    [
-      "Bruder Raphael",
-      "Siegfried Kernen"
-    ],
-    [
-      "Inspektor Berger",
-      "Jan Buchwald"
-    ],
-    [
-      "Baldwin",
-      "Gerhart Hinze"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Brittany",
+      "sprecher" : "Dorette Hugo"
+    },
+    {
+      "rolle" : "Hugenay",
+      "sprecher" : "Wolfgang Kubach",
+      "pseudonym" : "Albert Giro"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Wilbur Graham",
+      "sprecher" : "Thomas Bammer"
+    },
+    {
+      "rolle" : "Bruder Raphael",
+      "sprecher" : "Siegfried W. Kernen"
+    },
+    {
+      "rolle" : "Inspektor Berger",
+      "sprecher" : "Jan Buchwald"
+    },
+    {
+      "rolle" : "Baldwin",
+      "sprecher" : "Gerhart Hinze"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/103/metadata.json",

@@ -47,55 +47,55 @@
       "end" : 3214520
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Brewster",
-      "Horst Naumann"
-    ],
-    [
-      "Clifford",
-      "Douglas Welbat"
-    ],
-    [
-      "Marie",
-      "Svenja Pages"
-    ],
-    [
-      "Zindler",
-      "Karl Walter Diess"
-    ],
-    [
-      "Pamir",
-      "Manfred Steffen"
-    ],
-    [
-      "Martin",
-      "Frank-Dieter Tausch"
-    ],
-    [
-      "Botin",
-      "Beate Hasenau"
-    ],
-    [
-      "Kellner",
-      "Helmut Ahner"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Brewster",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Clifford",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Marie",
+      "sprecher" : "Svenja Pages"
+    },
+    {
+      "rolle" : "Zindler",
+      "sprecher" : "Karl Walter Diess"
+    },
+    {
+      "rolle" : "Pamir",
+      "sprecher" : "Manfred Steffen"
+    },
+    {
+      "rolle" : "Martin",
+      "sprecher" : "Frank-Dieter Tausch"
+    },
+    {
+      "rolle" : "Botin",
+      "sprecher" : "Beate Hasenau"
+    },
+    {
+      "rolle" : "Kellner",
+      "sprecher" : "Helmut Ahner"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/041/metadata.json",

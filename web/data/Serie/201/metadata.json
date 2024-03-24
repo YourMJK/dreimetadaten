@@ -52,59 +52,59 @@
       "end" : 4703027
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Ben Hustler",
-      "Christian Brückner"
-    ],
-    [
-      "Loomy",
-      "Achim Schülke"
-    ],
-    [
-      "Angie",
-      "Angelika Bartsch"
-    ],
-    [
-      "Lesley",
-      "Ann Montenbruck"
-    ],
-    [
-      "Buchhändlerin",
-      "Victoria Fleer"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mrs. Andrews",
-      "Heidrun von Goessel"
-    ],
-    [
-      "Kathy",
-      "Celine Fontanges"
-    ],
-    [
-      "Harry",
-      "Woody Mues"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Ben Hustler",
+      "sprecher" : "Christian Brückner"
+    },
+    {
+      "rolle" : "Loomy",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Angie",
+      "sprecher" : "Angelika Bartsch"
+    },
+    {
+      "rolle" : "Lesley",
+      "sprecher" : "Ann Montenbruck"
+    },
+    {
+      "rolle" : "Buchhändlerin",
+      "sprecher" : "Victoria Fleer"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mrs. Andrews",
+      "sprecher" : "Heidrun von Goessel"
+    },
+    {
+      "rolle" : "Kathy",
+      "sprecher" : "Celine Fontanges"
+    },
+    {
+      "rolle" : "Harry",
+      "sprecher" : "Woody Mues"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/201/metadata.json",

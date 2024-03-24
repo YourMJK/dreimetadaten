@@ -275,79 +275,79 @@
       "end" : 12210266
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Erik Schäffler"
-    ],
-    [
-      "Emily",
-      "Gerlinde Dillge"
-    ],
-    [
-      "Glenda",
-      "Saskia Haisch"
-    ],
-    [
-      "Mrs. Kirk",
-      "Suzanne von Borsody"
-    ],
-    [
-      "Desmond",
-      "Patrick Baehr"
-    ],
-    [
-      "Megan",
-      "Henrike Fehrs"
-    ],
-    [
-      "Samuel Leech",
-      "Achim Buch"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Kathy Hiller",
-      "Lucia Angelina Mahler"
-    ],
-    [
-      "Violet Bell",
-      "Andrea Lüdke"
-    ],
-    [
-      "Jack",
-      "Manou Lubowski"
-    ],
-    [
-      "Daniel",
-      "Sebastian König"
-    ],
-    [
-      "Blacky",
-      "Heikedine Körting"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Emily",
+      "sprecher" : "Gerlinde Dillge"
+    },
+    {
+      "rolle" : "Glenda",
+      "sprecher" : "Saskia Haisch"
+    },
+    {
+      "rolle" : "Mrs. Kirk",
+      "sprecher" : "Suzanne von Borsody"
+    },
+    {
+      "rolle" : "Desmond",
+      "sprecher" : "Patrick Baehr"
+    },
+    {
+      "rolle" : "Megan",
+      "sprecher" : "Henrike Fehrs"
+    },
+    {
+      "rolle" : "Samuel Leech",
+      "sprecher" : "Achim Buch"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Kathy Hiller",
+      "sprecher" : "Lucia-Angelina Mahler"
+    },
+    {
+      "rolle" : "Violet Bell",
+      "sprecher" : "Andrea Lüdke"
+    },
+    {
+      "rolle" : "Jack",
+      "sprecher" : "Manou Lubowski"
+    },
+    {
+      "rolle" : "Daniel",
+      "sprecher" : "Sebastian König"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/metadata.json",

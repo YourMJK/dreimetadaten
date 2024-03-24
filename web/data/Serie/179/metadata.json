@@ -47,71 +47,71 @@
       "end" : 4297960
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Evander Whiteside",
-      "Claus Wilcke"
-    ],
-    [
-      "Wendy Brown",
-      "Catrin Owerfeldt"
-    ],
-    [
-      "Christopher Barclay",
-      "Martin Paas"
-    ],
-    [
-      "Edgar Bristol",
-      "Sascha Gutzeit"
-    ],
-    [
-      "Carter Godfrey",
-      "Nicolas König"
-    ],
-    [
-      "Chuck Foster",
-      "Heiko Wohlgemuth"
-    ],
-    [
-      "Busfahrer Sam",
-      "Achim Schülke"
-    ],
-    [
-      "Officer Ossietzky",
-      "Romanus Fuhrmann"
-    ],
-    [
-      "Matt",
-      "Mike Olsowski"
-    ],
-    [
-      "Stephen",
-      "Alexander Kruuse-Mettin"
-    ],
-    [
-      "Billy",
-      "Tom Pidde"
-    ],
-    [
-      "Polizist Jerry",
-      "Stefan Weißenburger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Evander Whiteside",
+      "sprecher" : "Claus Wilcke"
+    },
+    {
+      "rolle" : "Wendy Brown",
+      "sprecher" : "Catrin Owerfeldt"
+    },
+    {
+      "rolle" : "Christopher Barclay",
+      "sprecher" : "Martin Paas"
+    },
+    {
+      "rolle" : "Edgar Bristol",
+      "sprecher" : "Sascha Gutzeit"
+    },
+    {
+      "rolle" : "Carter Godfrey",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Chuck Foster",
+      "sprecher" : "Heiko Wohlgemuth"
+    },
+    {
+      "rolle" : "Busfahrer Sam",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Officer Ossietzky",
+      "sprecher" : "Romanus Fuhrmann"
+    },
+    {
+      "rolle" : "Matt",
+      "sprecher" : "Mike Olsowski"
+    },
+    {
+      "rolle" : "Stephen",
+      "sprecher" : "Alexander Mettin"
+    },
+    {
+      "rolle" : "Billy",
+      "sprecher" : "Tom Pidde"
+    },
+    {
+      "rolle" : "Polizist Jerry",
+      "sprecher" : "Stefan Weißenburger"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/179/metadata.json",

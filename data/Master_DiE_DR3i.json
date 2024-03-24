@@ -283,71 +283,71 @@
       "hörspielskriptautor" : "Ivar Leon Menger",
       "beschreibung" : "Eine Nacht in einem Luxushotel, direkt an der malerischen Steilküste Nordkaliforniens? Normalerweise ein Grund zur Freude. Doch nicht für Jupiter, Peter und Bob! Denn Die Dr3i müssen um ihr Leben fürchten! Und das, obwohl das unheimliche Hotel vollkommen menschenleer ist …\nErlebe das erste interaktive Hörspiel mit Jupiter Jones, Peter Crenshaw und Bob Andrews! Mit einem Knopfdruck auf deinem CD-Player kannst du mitbestimmen, welche Lösungswege die drei Detektive bei diesem mysteriösen Abenteuer einschlagen sollen.\nAuf 2 CDs erwarten dich viele ungelöste Rätsel und Geheimnisse, sowie 16 alternative Enden!",
       "veröffentlichungsdatum" : "2006-11-24",
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Jupiter Jones",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Crenshaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Tante Mathilda Jones",
-          "Karin Lieneweg"
-        ],
-        [
-          "Mr. Overlook",
-          "Joachim Kerzel"
-        ],
-        [
-          "Portier Stanley",
-          "Lutz Mackensy"
-        ],
-        [
-          "Liftboy Jack",
-          "Jan-David Rönfeldt"
-        ],
-        [
-          "Barkeeper Lloyd",
-          "Roman Kretschmer"
-        ],
-        [
-          "Mr. Torrance",
-          "Holger Löwenberg"
-        ],
-        [
-          "Mrs. Torrance",
-          "Katja Brügger"
-        ],
-        [
-          "Shelley Torrance",
-          "Saskia Weckler"
-        ],
-        [
-          "Stuart",
-          "Nicolas König"
-        ],
-        [
-          "Danny",
-          "Patrick Bach"
-        ],
-        [
-          "Police Officer",
-          "Jürgen Thormann"
-        ],
-        [
-          "Nachrichtensprecher",
-          "Bernd Klose"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Jupiter Jones",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Crenshaw",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda Jones",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Mr. Overlook",
+          "sprecher" : "Joachim Kerzel"
+        },
+        {
+          "rolle" : "Portier Stanley",
+          "sprecher" : "Lutz Mackensy"
+        },
+        {
+          "rolle" : "Liftboy Jack",
+          "sprecher" : "Jan-David Rönfeldt"
+        },
+        {
+          "rolle" : "Barkeeper Lloyd",
+          "sprecher" : "Roman Kretschmer"
+        },
+        {
+          "rolle" : "Mr. Torrance",
+          "sprecher" : "Holger Löwenberg"
+        },
+        {
+          "rolle" : "Mrs. Torrance",
+          "sprecher" : "Katja Brügger"
+        },
+        {
+          "rolle" : "Shelley Torrance",
+          "sprecher" : "Saskia Weckler"
+        },
+        {
+          "rolle" : "Stuart",
+          "sprecher" : "Nicolas König"
+        },
+        {
+          "rolle" : "Danny",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Police Officer",
+          "sprecher" : "Jürgen Thormann"
+        },
+        {
+          "rolle" : "Nachrichtensprecher",
+          "sprecher" : "Bernd Klose"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/metadata.json",
@@ -643,67 +643,67 @@
           "end" : 7993773
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Jupiter Jones",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Crenshaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Inspektor Milton",
-          "Holger Mahlich"
-        ],
-        [
-          "Mrs. Ashby",
-          "Sabine Hahn"
-        ],
-        [
-          "Charles Prendergast",
-          "Rolf Nagel"
-        ],
-        [
-          "Richard Crandall",
-          "Konstantin Graudus"
-        ],
-        [
-          "Kirk Prendergast",
-          "Wolf Frass"
-        ],
-        [
-          "Blacky",
-          "Heikedine Körting"
-        ],
-        [
-          "Jonathan Godfrey",
-          "Erik Schäffler"
-        ],
-        [
-          "Carlos",
-          "Eduardo Garcia"
-        ],
-        [
-          "Garrett",
-          "Dietrich Adam"
-        ],
-        [
-          "Riteman",
-          "Till Demtrøder"
-        ],
-        [
-          "Stanley",
-          "Lutz Schnell"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Jupiter Jones",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Crenshaw",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Inspektor Milton",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Mrs. Ashby",
+          "sprecher" : "Sabine Hahn"
+        },
+        {
+          "rolle" : "Charles Prendergast",
+          "sprecher" : "Rolf Nagel"
+        },
+        {
+          "rolle" : "Richard Crandall",
+          "sprecher" : "Konstantin Graudus"
+        },
+        {
+          "rolle" : "Kirk Prendergast",
+          "sprecher" : "Wolf Frass"
+        },
+        {
+          "rolle" : "Blacky",
+          "sprecher" : "Heikedine Körting"
+        },
+        {
+          "rolle" : "Jonathan Godfrey",
+          "sprecher" : "Erik Schäffler"
+        },
+        {
+          "rolle" : "Carlos",
+          "sprecher" : "Eduardo Garcia"
+        },
+        {
+          "rolle" : "Garrett",
+          "sprecher" : "Dietrich Adam"
+        },
+        {
+          "rolle" : "Riteman",
+          "sprecher" : "Till Demtrøder"
+        },
+        {
+          "rolle" : "Stanley",
+          "sprecher" : "Lutz Schnell"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/metadata.json",
@@ -780,59 +780,59 @@
           "end" : 4634013
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Jupiter Jones",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Crenshaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Sylvester Meyzel",
-          "Wolfgang Völz"
-        ],
-        [
-          "Dorothy Winter",
-          "Doris Kunstmann"
-        ],
-        [
-          "Mr. Hendrik",
-          "Utz Richter"
-        ],
-        [
-          "Kassiererin",
-          "Enie van de Meiklokjes"
-        ],
-        [
-          "Inspektor Milton",
-          "Holger Mahlich"
-        ],
-        [
-          "Inspektor Tomlin",
-          "Klaus Dittmann"
-        ],
-        [
-          "Mr. X",
-          "Dirk Eichhorn"
-        ],
-        [
-          "Tao",
-          "Tilman Madaus"
-        ],
-        [
-          "Supermarkt-Durchsage",
-          "André Minninger"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Jupiter Jones",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Crenshaw",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Sylvester Meyzel",
+          "sprecher" : "Wolfgang Völz"
+        },
+        {
+          "rolle" : "Dorothy Winter",
+          "sprecher" : "Doris Kunstmann"
+        },
+        {
+          "rolle" : "Mr. Hendrik",
+          "sprecher" : "Utz Richter"
+        },
+        {
+          "rolle" : "Kassiererin",
+          "sprecher" : "Enie van de Meiklokjes"
+        },
+        {
+          "rolle" : "Inspektor Milton",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Inspektor Tomlin",
+          "sprecher" : "Klaus Dittmann"
+        },
+        {
+          "rolle" : "Mr. X",
+          "sprecher" : "Dirk Eichhorn"
+        },
+        {
+          "rolle" : "Tao",
+          "sprecher" : "Tilman Madaus"
+        },
+        {
+          "rolle" : "Supermarkt-Durchsage",
+          "sprecher" : "André Minninger"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/2/metadata.json",
@@ -915,51 +915,51 @@
           "end" : 4113813
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Jupiter Jones",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Crenshaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "James Taylor",
-          "Wanja Mues"
-        ],
-        [
-          "Ray Wells",
-          "Dietrich Adam"
-        ],
-        [
-          "Frank Caspian",
-          "Christian Redl"
-        ],
-        [
-          "Jonathan Grant",
-          "Bernd Stephan"
-        ],
-        [
-          "Christy Grant",
-          "Anja Topf"
-        ],
-        [
-          "George Drummond",
-          "Eberhard Haar"
-        ],
-        [
-          "Tom Drummond",
-          "Patrick Bach"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Jupiter Jones",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Crenshaw",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "James Taylor",
+          "sprecher" : "Wanja Mues"
+        },
+        {
+          "rolle" : "Ray Wells",
+          "sprecher" : "Dietrich Adam"
+        },
+        {
+          "rolle" : "Frank Caspian",
+          "sprecher" : "Christian Redl"
+        },
+        {
+          "rolle" : "Jonathan Grant",
+          "sprecher" : "Bernd Stephan"
+        },
+        {
+          "rolle" : "Christy Grant",
+          "sprecher" : "Anja Topf"
+        },
+        {
+          "rolle" : "George Drummond",
+          "sprecher" : "Eberhard Haar"
+        },
+        {
+          "rolle" : "Tom Drummond",
+          "sprecher" : "Patrick Bach"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/3/metadata.json",
@@ -1032,63 +1032,64 @@
           "end" : 4747133
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Jupiter Jones",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Crenshaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Onkel Titus Jones",
-          "Hans Meinhardt [Andreas E. Beurmann]"
-        ],
-        [
-          "Tante Mathilda Jones",
-          "Karin Lieneweg"
-        ],
-        [
-          "Inspektor Milton",
-          "Holger Mahlich"
-        ],
-        [
-          "Kommissar Reynolds",
-          "Wolfgang Draeger"
-        ],
-        [
-          "Mr. Walker",
-          "Gustav-Adolph Artz"
-        ],
-        [
-          "Donald Forthland",
-          "Günter Lüdke"
-        ],
-        [
-          "Shane Montana",
-          "Jürgen Thormann"
-        ],
-        [
-          "Jim",
-          "Wolfgang Berger"
-        ],
-        [
-          "Doc Brown",
-          "Tim Wenderoth"
-        ],
-        [
-          "Finnegan",
-          "Fabian Harloff"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Jupiter Jones",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Crenshaw",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Onkel Titus Jones",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Tante Mathilda Jones",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Inspektor Milton",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Kommissar Reynolds",
+          "sprecher" : "Wolfgang Draeger"
+        },
+        {
+          "rolle" : "Mr. Walker",
+          "sprecher" : "Gustav-Adolph Artz"
+        },
+        {
+          "rolle" : "Donald Forthland",
+          "sprecher" : "Günter Lüdke"
+        },
+        {
+          "rolle" : "Shane Montana",
+          "sprecher" : "Jürgen Thormann"
+        },
+        {
+          "rolle" : "Jim",
+          "sprecher" : "Wolfgang Berger"
+        },
+        {
+          "rolle" : "Doc Brown",
+          "sprecher" : "Tim Wenderoth"
+        },
+        {
+          "rolle" : "Finnegan",
+          "sprecher" : "Fabian Harloff"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/4/metadata.json",
@@ -1161,47 +1162,47 @@
           "end" : 4409520
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Jupiter Jones",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Crenshaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Jack Doolan",
-          "Eckart Dux"
-        ],
-        [
-          "Harold",
-          "Gernot Endemann"
-        ],
-        [
-          "Miss Lana",
-          "Sabine Schmidt-Kirchner"
-        ],
-        [
-          "Mademoiselle Nadine",
-          "Jennie Appel"
-        ],
-        [
-          "Toby Grissom",
-          "Lothar Grützner"
-        ],
-        [
-          "Frank Mortimer",
-          "Karl-Friedrich Gerster"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Jupiter Jones",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Crenshaw",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Jack Doolan",
+          "sprecher" : "Eckart Dux"
+        },
+        {
+          "rolle" : "Harold",
+          "sprecher" : "Gernot Endemann"
+        },
+        {
+          "rolle" : "Miss Lana",
+          "sprecher" : "Sabine Schmidt-Kirchner"
+        },
+        {
+          "rolle" : "Mademoiselle Nadine",
+          "sprecher" : "Jennie Appel"
+        },
+        {
+          "rolle" : "Toby Grissom",
+          "sprecher" : "Lothar Grützner"
+        },
+        {
+          "rolle" : "Frank Mortimer",
+          "sprecher" : "Karl-Friedrich Gerster"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/5/metadata.json",
@@ -1269,51 +1270,51 @@
           "end" : 3924760
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Jupiter Jones",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Crenshaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Ellen Maxell",
-          "Traudel Sperber"
-        ],
-        [
-          "Audrey Moonshadow",
-          "Judy Winter"
-        ],
-        [
-          "Sandy Stryker",
-          "Martina Regenhardt"
-        ],
-        [
-          "Mandy Honeyball",
-          "Celine Fontanges"
-        ],
-        [
-          "Mars Chaplin",
-          "Rainer Schmitt"
-        ],
-        [
-          "Inspektor Milton",
-          "Holger Mahlich"
-        ],
-        [
-          "Assistent",
-          "Dirk Bach"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Jupiter Jones",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Crenshaw",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Ellen Maxell",
+          "sprecher" : "Traudel Sperber"
+        },
+        {
+          "rolle" : "Audrey Moonshadow",
+          "sprecher" : "Judy Winter"
+        },
+        {
+          "rolle" : "Sandy Stryker",
+          "sprecher" : "Martina Regenhardt"
+        },
+        {
+          "rolle" : "Mandy Honeyball",
+          "sprecher" : "Celine Fontanges"
+        },
+        {
+          "rolle" : "Mars Chaplin",
+          "sprecher" : "Rainer Schmitt"
+        },
+        {
+          "rolle" : "Inspektor Milton",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Assistent",
+          "sprecher" : "Dirk Bach"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/6/metadata.json",
@@ -1381,67 +1382,68 @@
           "end" : 3920920
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Jupiter Jones",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Crenshaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Tante Mathilda Jones",
-          "Karin Lieneweg"
-        ],
-        [
-          "Onkel Titus Jones",
-          "Hans Meinhardt [Andreas E. Beurmann]"
-        ],
-        [
-          "Marty Stevens",
-          "Lutz Harder"
-        ],
-        [
-          "Joshua Apeh",
-          "Achim Schülke"
-        ],
-        [
-          "Claudia Salazar",
-          "Marion Elskis"
-        ],
-        [
-          "Ralf Dempsey",
-          "Robin Brosch"
-        ],
-        [
-          "Marvin Cox",
-          "Jörg Gillner"
-        ],
-        [
-          "Anna",
-          "Micaëla Kreißler"
-        ],
-        [
-          "George",
-          "Erik Schäffler"
-        ],
-        [
-          "Hapa",
-          "Michael Weckler"
-        ],
-        [
-          "Lastwagenfahrer",
-          "Tim Wenderoth"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Jupiter Jones",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Crenshaw",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda Jones",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Onkel Titus Jones",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Marty Stevens",
+          "sprecher" : "Lutz Harder"
+        },
+        {
+          "rolle" : "Joshua Apeh",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Claudia Salazar",
+          "sprecher" : "Marion Elskis"
+        },
+        {
+          "rolle" : "Ralf Dempsey",
+          "sprecher" : "Robin Brosch"
+        },
+        {
+          "rolle" : "Marvin Cox",
+          "sprecher" : "Jörg Gillner"
+        },
+        {
+          "rolle" : "Anna",
+          "sprecher" : "Micaëla Kreißler"
+        },
+        {
+          "rolle" : "George",
+          "sprecher" : "Erik Schäffler"
+        },
+        {
+          "rolle" : "Hapa",
+          "sprecher" : "Michael Weckler"
+        },
+        {
+          "rolle" : "Lastwagenfahrer",
+          "sprecher" : "Tim Wenderoth"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/7/metadata.json",
@@ -1499,67 +1501,67 @@
           "end" : 4627360
         }
       ],
-      "sprecher" : [
-        [
-          "Erzähler",
-          "Thomas Fritsch"
-        ],
-        [
-          "Jupiter Jones",
-          "Oliver Rohrbeck"
-        ],
-        [
-          "Peter Crenshaw",
-          "Jens Wawrczeck"
-        ],
-        [
-          "Bob Andrews",
-          "Andreas Fröhlich"
-        ],
-        [
-          "Taro Togati",
-          "Stefan Brönneke"
-        ],
-        [
-          "Officer Hunter",
-          "Jürgen Kluckert"
-        ],
-        [
-          "Türsteher",
-          "Arndt Schmöle"
-        ],
-        [
-          "Motelangestellter",
-          "Jelko von Tiele-Winckler"
-        ],
-        [
-          "Museumsdirektor",
-          "Rainer Schmitt"
-        ],
-        [
-          "Tante Mathilda Jones",
-          "Karin Lieneweg"
-        ],
-        [
-          "Harvey Denton",
-          "Klaus Herm"
-        ],
-        [
-          "Mrs. Fox",
-          "Nana Spier"
-        ],
-        [
-          "Inspektor Milton",
-          "Holger Mahlich"
-        ],
-        [
-          "Arthur Heatherly",
-          "Rainer Brandt"
-        ],
-        [
-          "Melissa Heatherly",
-          "Stephanie Damare"
-        ]
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Jupiter Jones",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Crenshaw",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Taro Togati",
+          "sprecher" : "Stefan Brönneke"
+        },
+        {
+          "rolle" : "Officer Hunter",
+          "sprecher" : "Jürgen Kluckert"
+        },
+        {
+          "rolle" : "Türsteher",
+          "sprecher" : "Arndt Schmöle"
+        },
+        {
+          "rolle" : "Motelangestellter",
+          "sprecher" : "Jelko von Tiele-Winckler"
+        },
+        {
+          "rolle" : "Museumsdirektor",
+          "sprecher" : "Rainer Schmitt"
+        },
+        {
+          "rolle" : "Tante Mathilda Jones",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Harvey Denton",
+          "sprecher" : "Klaus Herm"
+        },
+        {
+          "rolle" : "Mrs. Fox",
+          "sprecher" : "Nana Spier"
+        },
+        {
+          "rolle" : "Inspektor Milton",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Arthur Heatherly",
+          "sprecher" : "Rainer Brandt"
+        },
+        {
+          "rolle" : "Melissa Heatherly",
+          "sprecher" : "Stephanie Damare"
+        }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/8/metadata.json",

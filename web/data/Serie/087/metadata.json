@@ -37,59 +37,59 @@
       "end" : 3294627
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mrs. Harding, Polizeipsychologin",
-      "Katrin Wasow"
-    ],
-    [
-      "Mr. Ambler, Assistent",
-      "Rainer Schmitt"
-    ],
-    [
-      "Rodder, das Wolfsgesicht",
-      "Andreas Martens"
-    ],
-    [
-      "Mr. Laurent, Ladenbesitzer",
-      "Lutz Lukasz"
-    ],
-    [
-      "Mr. Stepelton, Ladenbesitzer",
-      "Harald Pages"
-    ],
-    [
-      "Ray, Praktikant",
-      "Marcel Rinkenauer"
-    ],
-    [
-      "Sandy, Verkäuferin",
-      "Kathi Robens"
-    ],
-    [
-      "Kundin",
-      "Cornelia Meinhardt"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mrs. Harding, Polizeipsychologin",
+      "sprecher" : "Katrin Wasow"
+    },
+    {
+      "rolle" : "Mr. Ambler, Assistent",
+      "sprecher" : "Rainer Schmitt"
+    },
+    {
+      "rolle" : "Rodder, das Wolfsgesicht",
+      "sprecher" : "Andreas Martens"
+    },
+    {
+      "rolle" : "Mr. Laurent, Ladenbesitzer",
+      "sprecher" : "Lutz Lukasz"
+    },
+    {
+      "rolle" : "Mr. Stepelton, Ladenbesitzer",
+      "sprecher" : "Harald Pages"
+    },
+    {
+      "rolle" : "Ray, Praktikant",
+      "sprecher" : "Marcel Rinkenauer"
+    },
+    {
+      "rolle" : "Sandy, Verkäuferin",
+      "sprecher" : "Cornelia Meinhardt"
+    },
+    {
+      "rolle" : "Kundin",
+      "sprecher" : "Kathi Robens"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/087/metadata.json",

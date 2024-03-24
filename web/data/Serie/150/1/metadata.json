@@ -75,79 +75,79 @@
       "end" : 4055093
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Frank Mason",
-      "Wolfgang Condrus"
-    ],
-    [
-      "Miles Dempster",
-      "Stephan Benson"
-    ],
-    [
-      "Mr. Sapchevsky",
-      "Andreas Schmidt-Schaller"
-    ],
-    [
-      "Gerry",
-      "Kostja Ullmann"
-    ],
-    [
-      "Ismael",
-      "Stephan Schad"
-    ],
-    [
-      "Carla Fenton",
-      "Natalie O'Hara"
-    ],
-    [
-      "Mrs. Maruthers",
-      "Ulrike Johannson"
-    ],
-    [
-      "Inspektor Havilland",
-      "Oliver Kalkofe"
-    ],
-    [
-      "Taylor",
-      "Bernhard Hoecker"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Angelica",
-      "Anna Thalbach"
-    ],
-    [
-      "Schwester 1",
-      "Manuela Becker"
-    ],
-    [
-      "Schwester 2",
-      "Traudel Sperber"
-    ],
-    [
-      "Pfleger",
-      "Sven Dahlem"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Frank Mason",
+      "sprecher" : "Wolfgang Condrus"
+    },
+    {
+      "rolle" : "Miles Dempster",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Mr. Sapchevsky",
+      "sprecher" : "Andreas Schmidt-Schaller"
+    },
+    {
+      "rolle" : "Gerry",
+      "sprecher" : "Kostja Ullmann"
+    },
+    {
+      "rolle" : "Ismael",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Carla Fenton",
+      "sprecher" : "Natalie O'Hara"
+    },
+    {
+      "rolle" : "Mrs. Maruthers",
+      "sprecher" : "Ulrike Johannson"
+    },
+    {
+      "rolle" : "Inspektor Havilland",
+      "sprecher" : "Oliver Kalkofe"
+    },
+    {
+      "rolle" : "Taylor",
+      "sprecher" : "Bernhard Hoëcker"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Angelica",
+      "sprecher" : "Anna Thalbach"
+    },
+    {
+      "rolle" : "Schwester 1",
+      "sprecher" : "Manuela Becker"
+    },
+    {
+      "rolle" : "Schwester 2",
+      "sprecher" : "Traudel Sperber"
+    },
+    {
+      "rolle" : "Pfleger",
+      "sprecher" : "Sven Dahlem"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/150/1/metadata.json",

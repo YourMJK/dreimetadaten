@@ -47,67 +47,69 @@
       "end" : 2984573
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Shelby Tuckerman",
-      "Pinkas Braun"
-    ],
-    [
-      "Mr. Hitfield",
-      "Christian Riege [Manfred Steffen]"
-    ],
-    [
-      "Mr. Bonestell",
-      "Joachim Richert"
-    ],
-    [
-      "Mrs. Denicola",
-      "Katharina Brauren"
-    ],
-    [
-      "Eileen",
-      "Ruth Niehaus"
-    ],
-    [
-      "Ernie",
-      "Helmut Zierl"
-    ],
-    [
-      "Polizist",
-      "Harald Pages"
-    ],
-    [
-      "Hoang Van Dong",
-      "Chen Lung Chung [Volker Brandt]"
-    ],
-    [
-      "Frau an der Bushaltestelle",
-      "Ursula Vogel"
-    ],
-    [
-      "Nachrichtensprecher",
-      "Joachim Wolff"
-    ],
-    [
-      "Patrick",
-      "Joachim Richert"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Shelby Tuckerman",
+      "sprecher" : "Pinkas Braun"
+    },
+    {
+      "rolle" : "Mr. Hitfield",
+      "sprecher" : "Manfred Steffen",
+      "pseudonym" : "Christian Riege"
+    },
+    {
+      "rolle" : "Mr. Bonestell",
+      "sprecher" : "Joachim Richert"
+    },
+    {
+      "rolle" : "Mrs. Denicola",
+      "sprecher" : "Katharina Brauren"
+    },
+    {
+      "rolle" : "Eileen",
+      "sprecher" : "Ruth Niehaus"
+    },
+    {
+      "rolle" : "Ernie",
+      "sprecher" : "Helmut Zierl"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Harald Pages"
+    },
+    {
+      "rolle" : "Hoang Van Dong",
+      "sprecher" : "Volker Brandt",
+      "pseudonym" : "Chen Lung Chung"
+    },
+    {
+      "rolle" : "Frau an der Bushaltestelle",
+      "sprecher" : "Ursula Vogel"
+    },
+    {
+      "rolle" : "Nachrichtensprecher",
+      "sprecher" : "Joachim Wolff"
+    },
+    {
+      "rolle" : "Patrick",
+      "sprecher" : "Joachim Richert"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/031/metadata.json",

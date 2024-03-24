@@ -47,59 +47,59 @@
       "end" : 2676573
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Dalton",
-      "Jürgen Thormann"
-    ],
-    [
-      "Mrs. Dalton",
-      "Helga Bammert"
-    ],
-    [
-      "Hardin",
-      "Christian Mey"
-    ],
-    [
-      "Prof. Walsh",
-      "Joachim Rake"
-    ],
-    [
-      "Ben Jackson",
-      "Günter Flesh"
-    ],
-    [
-      "Wreston",
-      "Ulrich Benthin"
-    ],
-    [
-      "Cardigo",
-      "Harald Pages"
-    ],
-    [
-      "Waldo Turner",
-      "Lothar Grützner"
-    ],
-    [
-      "Taucher",
-      "Joachim Richert"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Dalton",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Mrs. Dalton",
+      "sprecher" : "Helga Bammert"
+    },
+    {
+      "rolle" : "Hardin",
+      "sprecher" : "Christian Mey"
+    },
+    {
+      "rolle" : "Prof. Walsh",
+      "sprecher" : "Joachim Rake"
+    },
+    {
+      "rolle" : "Ben Jackson",
+      "sprecher" : "Günther Flesch"
+    },
+    {
+      "rolle" : "Wreston",
+      "sprecher" : "Ulrich Benthien"
+    },
+    {
+      "rolle" : "Cardigo",
+      "sprecher" : "Harald Pages"
+    },
+    {
+      "rolle" : "Waldo Turner",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Taucher",
+      "sprecher" : "Joachim Richert"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/019/metadata.json",

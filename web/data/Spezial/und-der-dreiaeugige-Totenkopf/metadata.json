@@ -126,95 +126,87 @@
       "end" : 5753347
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczek"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Roger Kind",
-      "Holger Mahlich"
-    ],
-    [
-      "R. Kind als Regisseur Kushing",
-      "Holger Mahlich"
-    ],
-    [
-      "R. Kind als Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Regisseur Kushing",
-      "Tim Grobe"
-    ],
-    [
-      "Melanie Shepard",
-      "Christiane Leuchtmann"
-    ],
-    [
-      "Laura",
-      "Henrike Fehrs"
-    ],
-    [
-      "Lara Bix",
-      "Ursula Sieg"
-    ],
-    [
-      "Jason Frost",
-      "Robert Missler"
-    ],
-    [
-      "Kellnerin",
-      "Simona Pahl"
-    ],
-    [
-      "Museumsdame",
-      "Rhea Harder"
-    ],
-    [
-      "Monsterpuppe",
-      "Kerstin Draeger"
-    ],
-    [
-      "Betty Frost",
-      "Rosemarie Wohlbauer"
-    ],
-    [
-      "Wachmann",
-      "Markus Schäfer"
-    ],
-    [
-      "Kameramann",
-      "Helgé Halvé"
-    ],
-    [
-      "Tonmann",
-      "Timo Alexander Wenzel"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Roger Kind",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Regisseur Kushing",
+      "sprecher" : "Tim Grobe"
+    },
+    {
+      "rolle" : "Melanie Shepard",
+      "sprecher" : "Christiane Leuchtmann"
+    },
+    {
+      "rolle" : "Laura",
+      "sprecher" : "Henrike Fehrs"
+    },
+    {
+      "rolle" : "Lara Bix",
+      "sprecher" : "Ursula Sieg"
+    },
+    {
+      "rolle" : "Jason Frost",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Kellnerin",
+      "sprecher" : "Simona Pahl"
+    },
+    {
+      "rolle" : "Museumsdame",
+      "sprecher" : "Rhea Harder-Vennewald"
+    },
+    {
+      "rolle" : "Monsterpuppe",
+      "sprecher" : "Kerstin Draeger"
+    },
+    {
+      "rolle" : "Betty Frost",
+      "sprecher" : "Rosemarie Wohlbauer"
+    },
+    {
+      "rolle" : "Wachmann",
+      "sprecher" : "Markus Schäfer"
+    },
+    {
+      "rolle" : "Kameramann",
+      "sprecher" : "Helge Halvé"
+    },
+    {
+      "rolle" : "Tonmann",
+      "sprecher" : "Timo Alexander Wenzel"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/metadata.json",

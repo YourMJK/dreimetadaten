@@ -293,127 +293,127 @@
       "end" : 17712107
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Off-Sprecher",
-      "Udo Schenk"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Timothy",
-      "Peter Buchholz"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Inspector Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Goodween",
-      "André Minninger"
-    ],
-    [
-      "Rubbish George",
-      "Hans Peter Korff"
-    ],
-    [
-      "Vikram",
-      "Michael Deffert"
-    ],
-    [
-      "Bonnie Newman",
-      "Carla Becker"
-    ],
-    [
-      "Mr. August",
-      "Carlo von Tiedemann"
-    ],
-    [
-      "Gus August",
-      "Stephan Chrzescinski"
-    ],
-    [
-      "Helena",
-      "Neda Rahmanian"
-    ],
-    [
-      "Mr. Anderson",
-      "Hubertus Meyer-Burckhardt"
-    ],
-    [
-      "Gabriel White",
-      "Till Hagen"
-    ],
-    [
-      "Solomon Charles",
-      "Jürgen Thormann"
-    ],
-    [
-      "Mr. Dwiggins",
-      "Hanns Jörg Krumpholz"
-    ],
-    [
-      "Mr. Randur",
-      "Eckart Dux"
-    ],
-    [
-      "Beaver",
-      "Peter Franke"
-    ],
-    [
-      "Jariwala",
-      "Till Demtrøder"
-    ],
-    [
-      "Shakrabati",
-      "Sonny Pathak"
-    ],
-    [
-      "Shekinah",
-      "Madeleine Weingart"
-    ],
-    [
-      "Nachtwächter",
-      "Wolfgang Häntsch"
-    ],
-    [
-      "Maria",
-      "Caroline Kiesewetter"
-    ],
-    [
-      "Bruce",
-      "Michael Lott"
-    ],
-    [
-      "Polizist",
-      "Mars Saibert"
-    ],
-    [
-      "Officer",
-      "Helge Halvé"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Off-Sprecher",
+      "sprecher" : "Udo Schenk"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Timothy",
+      "sprecher" : "Peter Buchholz"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Rubbish George",
+      "sprecher" : "Hans Peter Korff"
+    },
+    {
+      "rolle" : "Vikram",
+      "sprecher" : "Michael Deffert"
+    },
+    {
+      "rolle" : "Bonnie Newman",
+      "sprecher" : "Carla Becker"
+    },
+    {
+      "rolle" : "Mr. August",
+      "sprecher" : "Carlo von Tiedemann"
+    },
+    {
+      "rolle" : "Gus August",
+      "sprecher" : "Stephan Chrzescinski"
+    },
+    {
+      "rolle" : "Helena",
+      "sprecher" : "Neda Rahmanian"
+    },
+    {
+      "rolle" : "Mr. Anderson",
+      "sprecher" : "Hubertus Meyer-Burckhardt"
+    },
+    {
+      "rolle" : "Gabriel White",
+      "sprecher" : "Till Hagen"
+    },
+    {
+      "rolle" : "Solomon Charles",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Mr. Dwiggins",
+      "sprecher" : "Hanns Jörg Krumpholz"
+    },
+    {
+      "rolle" : "Mr. Randur",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Beaver",
+      "sprecher" : "Peter Franke"
+    },
+    {
+      "rolle" : "Jariwala",
+      "sprecher" : "Till Demtrøder"
+    },
+    {
+      "rolle" : "Shakrabati",
+      "sprecher" : "Sonny Pathak"
+    },
+    {
+      "rolle" : "Shekinah",
+      "sprecher" : "Madeleine Weingart"
+    },
+    {
+      "rolle" : "Nachtwächter",
+      "sprecher" : "Wolfgang Häntsch"
+    },
+    {
+      "rolle" : "Maria",
+      "sprecher" : "Caroline Kiesewetter"
+    },
+    {
+      "rolle" : "Bruce",
+      "sprecher" : "Michael Lott"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Marcel Saibert"
+    },
+    {
+      "rolle" : "Officer",
+      "sprecher" : "Helge Halvé"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/200/metadata.json",

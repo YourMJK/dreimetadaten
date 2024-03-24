@@ -52,59 +52,59 @@
       "end" : 3494760
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Fred Jenkins",
-      "Nick Seidensticker"
-    ],
-    [
-      "Mr Campbell",
-      "Gerhart Hinze"
-    ],
-    [
-      "Sam Reilly",
-      "Jürgen Strube"
-    ],
-    [
-      "Carl Sheehan",
-      "Michael Weckler"
-    ],
-    [
-      "Collins",
-      "Thorsten Weber"
-    ],
-    [
-      "Mr Kingsley",
-      "Herbert Tennigkeit"
-    ],
-    [
-      "Mrs Kingsley",
-      "Tina Rehfeld-Wildmann"
-    ],
-    [
-      "Devlin Reno",
-      "Jörg Pleva"
-    ],
-    [
-      "Dr. Long",
-      "Lou Wong"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Fred Jenkins",
+      "sprecher" : "Nick Seidensticker"
+    },
+    {
+      "rolle" : "Mr. Campbell",
+      "sprecher" : "Gerhart Hinze"
+    },
+    {
+      "rolle" : "Sam Reilly",
+      "sprecher" : "Jürgen Strube"
+    },
+    {
+      "rolle" : "Carl Sheehan",
+      "sprecher" : "Michael Weckler"
+    },
+    {
+      "rolle" : "Collins",
+      "sprecher" : "Thorsten Weber"
+    },
+    {
+      "rolle" : "Mr. Kingsley",
+      "sprecher" : "Herbert Tennigkeit"
+    },
+    {
+      "rolle" : "Mrs. Kingsley",
+      "sprecher" : "Tina Rehfeld-Wildmann"
+    },
+    {
+      "rolle" : "Devlin Reno",
+      "sprecher" : "Jörg Pleva"
+    },
+    {
+      "rolle" : "Dr. Long",
+      "sprecher" : "Lou Wong"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/122/metadata.json",

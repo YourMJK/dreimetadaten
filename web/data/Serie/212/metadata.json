@@ -42,59 +42,59 @@
       "end" : 4395213
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Larry Conklin",
-      "Helmut Zierl"
-    ],
-    [
-      "Fairfax",
-      "Wolfgang Pampel"
-    ],
-    [
-      "Zachary",
-      "Nicolas König"
-    ],
-    [
-      "Butler Francis",
-      "Bruno F. Apitz"
-    ],
-    [
-      "Mrs. Dutton",
-      "Monika Werner"
-    ],
-    [
-      "Noreen",
-      "Simona Pahl"
-    ],
-    [
-      "Mrs. Mobray",
-      "Eva Weissmann"
-    ],
-    [
-      "Polizist",
-      "Holger Wemhoff"
-    ],
-    [
-      "Miyazawa",
-      "Achim Schülke"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Larry Conklin",
+      "sprecher" : "Helmut Zierl"
+    },
+    {
+      "rolle" : "Fairfax",
+      "sprecher" : "Wolfgang Pampel"
+    },
+    {
+      "rolle" : "Zachary",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Butler Francis",
+      "sprecher" : "Bruno F. Apitz"
+    },
+    {
+      "rolle" : "Mrs. Dutton",
+      "sprecher" : "Monika Werner"
+    },
+    {
+      "rolle" : "Noreen",
+      "sprecher" : "Simona Pahl"
+    },
+    {
+      "rolle" : "Mrs. Mobray",
+      "sprecher" : "Eva Weissmann"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Holger Wemhoff"
+    },
+    {
+      "rolle" : "Miyazawa",
+      "sprecher" : "Achim Schülke"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/212/metadata.json",

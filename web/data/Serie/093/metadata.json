@@ -37,43 +37,44 @@
       "end" : 3592133
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Quin",
-      "Rasmus Borowski"
-    ],
-    [
-      "Mr. Conrad Farnham",
-      "Lothar Grützner"
-    ],
-    [
-      "Mrs. Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Deborah Snell",
-      "Anja Topf"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Quin",
+      "sprecher" : "Rasmus Borowski"
+    },
+    {
+      "rolle" : "Mr. Conrad Farnham",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Deborah Snell",
+      "sprecher" : "Anja Topf"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/093/metadata.json",

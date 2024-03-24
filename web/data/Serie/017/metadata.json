@@ -47,59 +47,60 @@
       "end" : 2524840
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Hauptkommissar Reynolds",
-      "Horst Frank"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Nelly Towne",
-      "Pamela Punti [Heikedine Körting]"
-    ],
-    [
-      "Billy Towne",
-      "Peer Siegel"
-    ],
-    [
-      "Ordner",
-      "Lothar Grützner"
-    ],
-    [
-      "Lopez",
-      "Hans Irle"
-    ],
-    [
-      "Dillon",
-      "Gottfried Kramer"
-    ],
-    [
-      "Roger Callow",
-      "Hans Daniel"
-    ],
-    [
-      "Kellnerin",
-      "Heidi Schaffrath"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Horst Frank"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Nelly Towne",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Pamela Punti"
+    },
+    {
+      "rolle" : "Billy Towne",
+      "sprecher" : "Peer Siegel"
+    },
+    {
+      "rolle" : "Ordner",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Lopez",
+      "sprecher" : "Hans Irle"
+    },
+    {
+      "rolle" : "Dillon",
+      "sprecher" : "Gottfried Kramer"
+    },
+    {
+      "rolle" : "Roger Callow",
+      "sprecher" : "Hans Daniel"
+    },
+    {
+      "rolle" : "Kellnerin",
+      "sprecher" : "Heidi Schaffrath"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/017/metadata.json",

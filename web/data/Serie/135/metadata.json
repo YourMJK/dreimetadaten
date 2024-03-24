@@ -92,47 +92,47 @@
       "end" : 4271013
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Pilot",
-      "Gerhart Hinze"
-    ],
-    [
-      "Max",
-      "Traudel Sperber"
-    ],
-    [
-      "Liolotta",
-      "Peter Striebeck"
-    ],
-    [
-      "Althena",
-      "Steffi Kirchberger"
-    ],
-    [
-      "Sarah Livingston",
-      "Rosemarie Wohlbauer"
-    ],
-    [
-      "Elvira Zuckerman",
-      "Konstanze Ullmer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Pilot",
+      "sprecher" : "Gerhart Hinze"
+    },
+    {
+      "rolle" : "Max",
+      "sprecher" : "Traudel Sperber"
+    },
+    {
+      "rolle" : "Liolotta",
+      "sprecher" : "Peter Striebeck"
+    },
+    {
+      "rolle" : "Althena",
+      "sprecher" : "Stephanie Damare"
+    },
+    {
+      "rolle" : "Sarah Livingston",
+      "sprecher" : "Rosemarie Wohlbauer"
+    },
+    {
+      "rolle" : "Elvira Zuckerman",
+      "sprecher" : "Konstanze Ullmer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/135/metadata.json",

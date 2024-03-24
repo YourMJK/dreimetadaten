@@ -47,67 +47,67 @@
       "end" : 4372133
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Olivia",
-      "Uschi Hugo"
-    ],
-    [
-      "Pamela Parker, Olivias Mutter",
-      "Katrin Decker"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Eudora Kretschmer",
-      "Monika Werner"
-    ],
-    [
-      "Barbara",
-      "Carolyn Walsh"
-    ],
-    [
-      "Canyon Brookside",
-      "Marek Erhardt"
-    ],
-    [
-      "Owens",
-      "Jan Langer"
-    ],
-    [
-      "Bernie Walters",
-      "Vadim Goldfeld"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Edgar Mulligan",
-      "Karsten Haase"
-    ],
-    [
-      "Swift",
-      "Tim Grobe"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Olivia",
+      "sprecher" : "Uschi Hugo"
+    },
+    {
+      "rolle" : "Pamela Parker, Olivias Mutter",
+      "sprecher" : "Katrin Decker"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Eudora Kretschmer",
+      "sprecher" : "Monika Werner"
+    },
+    {
+      "rolle" : "Barbara",
+      "sprecher" : "Carolyn Walsh"
+    },
+    {
+      "rolle" : "Canyon Brookside",
+      "sprecher" : "Marek Erhardt"
+    },
+    {
+      "rolle" : "Owens",
+      "sprecher" : "Jan Langer"
+    },
+    {
+      "rolle" : "Bernie Walters",
+      "sprecher" : "Vadim Goldfeld"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Edgar Mulligan",
+      "sprecher" : "Karsten Haase"
+    },
+    {
+      "rolle" : "Swift",
+      "sprecher" : "Tim Grobe"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/218/metadata.json",

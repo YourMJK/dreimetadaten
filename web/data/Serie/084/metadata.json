@@ -37,43 +37,43 @@
       "end" : 3603107
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Jelena",
-      "Alexandra Doerk"
-    ],
-    [
-      "Mr. Charkov, Jelenas Vater",
-      "Klaus Dittmann"
-    ],
-    [
-      "Vanderhell, Teufelsgeiger",
-      "Lutz Mackensy"
-    ],
-    [
-      "Mr. Andrews",
-      "Roland Becker"
-    ],
-    [
-      "Mrs. Andrews",
-      "Carola Lange"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Jelena Charkova",
+      "sprecher" : "Alexandra Doerk"
+    },
+    {
+      "rolle" : "Mr. Charkov",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Vanderhell, Teufelsgeiger",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Roland Becker"
+    },
+    {
+      "rolle" : "Mrs. Andrews",
+      "sprecher" : "Carola Lange"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/084/metadata.json",

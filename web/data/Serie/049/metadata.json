@@ -47,51 +47,52 @@
       "end" : 2670120
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Axel Griswold",
-      "Helgo Liebig"
-    ],
-    [
-      "Purvis",
-      "Heiner Kramm"
-    ],
-    [
-      "Dan DeMento",
-      "Peter Heinrich"
-    ],
-    [
-      "Leo Rottweiler",
-      "Rainer Brönneke"
-    ],
-    [
-      "Steve Trash",
-      "Thomas Naumann"
-    ],
-    [
-      "Rainey Fields",
-      "Xenia Hey"
-    ],
-    [
-      "Junge",
-      "Leonhard Mahlich"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Axel Griswold",
+      "sprecher" : "Helgo Liebig"
+    },
+    {
+      "rolle" : "Purvis",
+      "sprecher" : "Michael Quiatkowsky",
+      "pseudonym" : "Heiner Kramm"
+    },
+    {
+      "rolle" : "Dan DeMento",
+      "sprecher" : "Peter Heinrich"
+    },
+    {
+      "rolle" : "Leo Rottweiler",
+      "sprecher" : "Reiner Brönneke"
+    },
+    {
+      "rolle" : "Steve Trash",
+      "sprecher" : "Michael Griem"
+    },
+    {
+      "rolle" : "Rainey Fields",
+      "sprecher" : "Xenia Hey"
+    },
+    {
+      "rolle" : "Junge",
+      "sprecher" : "Leonhard Mahlich"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/049/metadata.json",

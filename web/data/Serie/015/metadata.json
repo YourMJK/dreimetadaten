@@ -47,67 +47,68 @@
       "end" : 2385253
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Miss Larson",
-      "Reinhilt Schneider"
-    ],
-    [
-      "Jim Hall",
-      "Horst Stark"
-    ],
-    [
-      "Mike Hall",
-      "Mathias Lorenz"
-    ],
-    [
-      "Eastland",
-      "Karl Walter Diess"
-    ],
-    [
-      "Olsen",
-      "Karl-Ulrich Meves"
-    ],
-    [
-      "Hank Murphy",
-      "Harald Pages"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Doc Dawson",
-      "Wolfgang Jürgen"
-    ],
-    [
-      "Dobbsie",
-      "Joachim Wolff"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Miss Larson",
+      "sprecher" : "Reinhilt Schneider"
+    },
+    {
+      "rolle" : "Jim Hall",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Mike Hall",
+      "sprecher" : "Mathias Lorenz"
+    },
+    {
+      "rolle" : "Eastland",
+      "sprecher" : "Karl Walter Diess"
+    },
+    {
+      "rolle" : "Olsen",
+      "sprecher" : "Karl-Ulrich Meves"
+    },
+    {
+      "rolle" : "Hank Murphy",
+      "sprecher" : "Harald Pages"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Doc Dawson",
+      "sprecher" : "Wolfgang Jürgen"
+    },
+    {
+      "rolle" : "Dobbsie",
+      "sprecher" : "Joachim Wolff"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/015/metadata.json",

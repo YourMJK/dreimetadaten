@@ -37,39 +37,39 @@
       "end" : 3569347
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Gregstone",
-      "Wolf Rathjen"
-    ],
-    [
-      "Butch",
-      "Frank Felicetti"
-    ],
-    [
-      "Ramirez",
-      "Tobias Schmidt"
-    ],
-    [
-      "Radiosprecher",
-      "Hubertus Borck"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Gregstone",
+      "sprecher" : "Wolf Rahtjen"
+    },
+    {
+      "rolle" : "Butch",
+      "sprecher" : "Frank Felicetti"
+    },
+    {
+      "rolle" : "Ramirez",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Radiosprecher",
+      "sprecher" : "Hubertus Borck"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/092/metadata.json",

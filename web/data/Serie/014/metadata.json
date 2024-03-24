@@ -47,63 +47,63 @@
       "end" : 2550187
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Smathers",
-      "Josef Dahmen"
-    ],
-    [
-      "Mr. Jensen",
-      "Wolf Rahtjen"
-    ],
-    [
-      "Patrick",
-      "Wolfgang Kubach"
-    ],
-    [
-      "Kenneth",
-      "Lutz Mackensy"
-    ],
-    [
-      "Kathleen",
-      "Brigitte Alexis"
-    ],
-    [
-      "Mr. Joe Hammond",
-      "Volker Brandt"
-    ],
-    [
-      "Mrs. Hammond",
-      "Hanni Vanhaiden"
-    ],
-    [
-      "Richardsen",
-      "Joachim Wolff"
-    ],
-    [
-      "Polizist",
-      "Horst Stark"
-    ],
-    [
-      "Lieferant",
-      "F.-J. Steffens"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Smathers",
+      "sprecher" : "Josef Dahmen"
+    },
+    {
+      "rolle" : "Mr. Jensen",
+      "sprecher" : "Wolf Rahtjen"
+    },
+    {
+      "rolle" : "Patrick",
+      "sprecher" : "Wolfgang Kubach"
+    },
+    {
+      "rolle" : "Kenneth",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Kathleen",
+      "sprecher" : "Brigitte Alexis"
+    },
+    {
+      "rolle" : "Mr. Joe Hammond",
+      "sprecher" : "Volker Brandt"
+    },
+    {
+      "rolle" : "Mrs. Hammond",
+      "sprecher" : "Hanni Vanhaiden"
+    },
+    {
+      "rolle" : "Richardsen",
+      "sprecher" : "Joachim Wolff"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Lieferant",
+      "sprecher" : "Franz-Josef Steffens"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/014/metadata.json",

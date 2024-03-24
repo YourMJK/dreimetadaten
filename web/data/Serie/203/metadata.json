@@ -47,47 +47,47 @@
       "end" : 4610333
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Jorunn",
-      "Lilith Gebauer"
-    ],
-    [
-      "Mrs. Planter",
-      "Angela Quast"
-    ],
-    [
-      "Deidre",
-      "Gabriele Libbach"
-    ],
-    [
-      "Special Agent Ross",
-      "Udo Schenk"
-    ],
-    [
-      "Special Agent Wright",
-      "Astrid Kollex"
-    ],
-    [
-      "Fischer",
-      "Peter Franke"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Jorunn",
+      "sprecher" : "Lilith Gebauer"
+    },
+    {
+      "rolle" : "Mrs. Planter",
+      "sprecher" : "Angela Quast"
+    },
+    {
+      "rolle" : "Deidre",
+      "sprecher" : "Gabriele Libbach"
+    },
+    {
+      "rolle" : "Special Agent Ross",
+      "sprecher" : "Udo Schenk"
+    },
+    {
+      "rolle" : "Special Agent Wright",
+      "sprecher" : "Astrid Kollex"
+    },
+    {
+      "rolle" : "Fischer",
+      "sprecher" : "Peter Franke"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/203/metadata.json",

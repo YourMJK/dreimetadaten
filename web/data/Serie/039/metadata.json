@@ -47,35 +47,35 @@
       "end" : 2873960
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Blinky",
-      "Günter König"
-    ],
-    [
-      "Miss Melody",
-      "Gisela Trowe"
-    ],
-    [
-      "Frisbee",
-      "Hans Paetsch"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Blinky",
+      "sprecher" : "Günter König"
+    },
+    {
+      "rolle" : "Miss Melody",
+      "sprecher" : "Gisela Trowe"
+    },
+    {
+      "rolle" : "Frisbee",
+      "sprecher" : "Hans Paetsch"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/039/metadata.json",

@@ -47,55 +47,56 @@
       "end" : 2551347
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mrs. Darnley",
-      "Gisela Trowe"
-    ],
-    [
-      "Jeff Darnley",
-      "Mike Henning"
-    ],
-    [
-      "Jenny Darnley",
-      "Marlen Krause"
-    ],
-    [
-      "Senior Santora",
-      "Jürgen Thormann"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Gomez",
-      "Karl-Heinz Gerdesmann"
-    ],
-    [
-      "Brotverkäufer",
-      "Harald Pages"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mrs. Darnley",
+      "sprecher" : "Gisela Trowe"
+    },
+    {
+      "rolle" : "Jeff Darnley",
+      "sprecher" : "Mike Henning"
+    },
+    {
+      "rolle" : "Jenny Darnley",
+      "sprecher" : "Marlen Krause"
+    },
+    {
+      "rolle" : "Senior Santora",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Gomez",
+      "sprecher" : "Karl-Heinz Gerdesmann"
+    },
+    {
+      "rolle" : "Brotverkäufer",
+      "sprecher" : "Harald Pages"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/016/metadata.json",

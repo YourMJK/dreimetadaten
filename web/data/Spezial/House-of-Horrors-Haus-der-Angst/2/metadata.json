@@ -292,79 +292,79 @@
       "end" : 4497427
     }
   ],
-  "sprecher" : [
-    [
-      "Off-Stimme",
-      "Claudia Stocksieker"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tony",
-      "Stefan Kaminski"
-    ],
-    [
-      "Joey",
-      "Tommaso Cacciapuoti"
-    ],
-    [
-      "Anna Millar",
-      "Christine Pappert"
-    ],
-    [
-      "Lily",
-      "Verena Wolfien"
-    ],
-    [
-      "Max",
-      "Holger Umbreit"
-    ],
-    [
-      "Milli",
-      "Ulrike Knief"
-    ],
-    [
-      "Celeste Hummer",
-      "Maria Willer"
-    ],
-    [
-      "Anthem Hummer",
-      "Martin May"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Papagei",
-      "Heikedine Körting"
-    ],
-    [
-      "Bruce Millar",
-      "Ben Hecker"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Mr. Albert Hitfield",
-      "Volker Bogdan"
-    ],
-    [
-      "TV-Sprecher",
-      "Friedel Bott"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Off-Stimme",
+      "sprecher" : "Claudia Stocksieker"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tony",
+      "sprecher" : "Stefan Kaminski"
+    },
+    {
+      "rolle" : "Joey",
+      "sprecher" : "Tommaso Cacciapuoti"
+    },
+    {
+      "rolle" : "Anna Millar",
+      "sprecher" : "Christine Pappert"
+    },
+    {
+      "rolle" : "Lily",
+      "sprecher" : "Verena Wolfien"
+    },
+    {
+      "rolle" : "Max",
+      "sprecher" : "Holger Umbreit"
+    },
+    {
+      "rolle" : "Milli",
+      "sprecher" : "Ulrike Knief"
+    },
+    {
+      "rolle" : "Celeste Hummer",
+      "sprecher" : "Maria Willer"
+    },
+    {
+      "rolle" : "Anthem Hummer",
+      "sprecher" : "Martin May"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    },
+    {
+      "rolle" : "Bruce Millar",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Albert Hitfield",
+      "sprecher" : "Volker Bogdan"
+    },
+    {
+      "rolle" : "TV-Sprecher",
+      "sprecher" : "Friedel Bott"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/2/metadata.json",

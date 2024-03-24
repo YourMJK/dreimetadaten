@@ -47,59 +47,62 @@
       "end" : 2827347
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Ingmar Ragnarson",
-      "Rolf E. Schenker"
-    ],
-    [
-      "Karl Ragnarson",
-      "Utz Richter"
-    ],
-    [
-      "Sam Ragnarson",
-      "Marco Kröger"
-    ],
-    [
-      "Mr. Manning",
-      "Achim Schülke"
-    ],
-    [
-      "Mrs. Manning",
-      "Julia Mahnkopf"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Mrs. Andrews",
-      "Renate Pichler"
-    ],
-    [
-      "Mr. Andrews",
-      "Manfred Bendixen"
-    ],
-    [
-      "Mathilda",
-      "Ursula Vogel"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Ingmar Ragnarson",
+      "sprecher" : "Rolf E. Schenker"
+    },
+    {
+      "rolle" : "Karl Ragnarson",
+      "sprecher" : "Utz Richter"
+    },
+    {
+      "rolle" : "Sam Ragnarson",
+      "sprecher" : "Lutz Harder",
+      "pseudonym" : "Marco Kröger"
+    },
+    {
+      "rolle" : "Mr. Manning",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mrs. Manning",
+      "sprecher" : "Micaëla Kreißler",
+      "pseudonym" : "Julia Mahnkopf"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Mrs. Andrews",
+      "sprecher" : "Anne Schermutzki"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Günter König",
+      "pseudonym" : "Manfred Bendixen"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ursula Vogel"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/045/metadata.json",

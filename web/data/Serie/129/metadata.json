@@ -92,79 +92,79 @@
       "end" : 4734387
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Layla",
-      "Saskia Weckler"
-    ],
-    [
-      "Alaa Edine",
-      "Robert Missler"
-    ],
-    [
-      "Abazza",
-      "Abdul Kader-Diab"
-    ],
-    [
-      "Kamelhändler",
-      "Wolf Frass"
-    ],
-    [
-      "Kamelführer",
-      "Fathi Farnazmatis"
-    ],
-    [
-      "Wärter",
-      "Gosta Liptow"
-    ],
-    [
-      "Ägypter",
-      "Lothar Grützner"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Rubbish George",
-      "Utz Richter"
-    ],
-    [
-      "Kommissar",
-      "Klaus Dittmann"
-    ],
-    [
-      "Aisha",
-      "Susanne von Loessl"
-    ],
-    [
-      "Verkäufer",
-      "Farhat Al Yhi"
-    ],
-    [
-      "Dick Vincent",
-      "Holger Löwenberg"
-    ],
-    [
-      "Taxifahrer",
-      "Wolf Pahlke"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Layla",
+      "sprecher" : "Saskia Weckler"
+    },
+    {
+      "rolle" : "Alaa Edine",
+      "sprecher" : "Abdul Kader-Diab"
+    },
+    {
+      "rolle" : "Abazza",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Kamelhändler",
+      "sprecher" : "Wolf Frass"
+    },
+    {
+      "rolle" : "Kamelführer",
+      "sprecher" : "Fathi Farnazmatis"
+    },
+    {
+      "rolle" : "Wärter",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Ägypter",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Rubbish George",
+      "sprecher" : "Utz Richter"
+    },
+    {
+      "rolle" : "Kommissar",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Aisha",
+      "sprecher" : "Susanne von Loessl"
+    },
+    {
+      "rolle" : "Verkäufer",
+      "sprecher" : "Farhat Al Yhi"
+    },
+    {
+      "rolle" : "Dick Vincent",
+      "sprecher" : "Holger Löwenberg"
+    },
+    {
+      "rolle" : "Taxifahrer",
+      "sprecher" : "Wolf Pahlke"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/129/metadata.json",

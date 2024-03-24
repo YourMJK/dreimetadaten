@@ -52,51 +52,51 @@
       "end" : 3724893
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mr. Applegate",
-      "Stephan Benson"
-    ],
-    [
-      "Julia Applegate",
-      "Sophie Lechtenbrink"
-    ],
-    [
-      "Teddy Applegate",
-      "Jona Mues"
-    ],
-    [
-      "Rafter",
-      "Volker Bogdan"
-    ],
-    [
-      "Archie",
-      "Bertram Hiese"
-    ],
-    [
-      "Jenny Collins",
-      "Anja Topf"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mr. Applegate",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Julia Applegate",
+      "sprecher" : "Sophie Lechtenbrink"
+    },
+    {
+      "rolle" : "Teddy Applegate",
+      "sprecher" : "Jona Mues"
+    },
+    {
+      "rolle" : "Rafter",
+      "sprecher" : "Volker Bogdan"
+    },
+    {
+      "rolle" : "Archie",
+      "sprecher" : "Bertram Hiese"
+    },
+    {
+      "rolle" : "Jenny Collins",
+      "sprecher" : "Anja Topf"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/116/metadata.json",

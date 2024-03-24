@@ -62,59 +62,59 @@
       "end" : 4658533
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Josy McDonaghough",
-      "Lili Draeger"
-    ],
-    [
-      "Homer Diesel",
-      "Christian Senger"
-    ],
-    [
-      "Mary Stamper",
-      "Annabelle Krieg"
-    ],
-    [
-      "Otis Stamper",
-      "Klaus Dittman"
-    ],
-    [
-      "Jonathan Black",
-      "Eckart Dux"
-    ],
-    [
-      "Miles Black",
-      "Sascha Rotermund"
-    ],
-    [
-      "Klara Kowalski",
-      "Steffi Kirchberger"
-    ],
-    [
-      "Silvester Proud",
-      "Gustav A. Artz"
-    ],
-    [
-      "Pfarrer Clark",
-      "Gerd Baltus"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Josy McDonaghough",
+      "sprecher" : "Lili Draeger"
+    },
+    {
+      "rolle" : "Homer Diesel",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Mary Stamper",
+      "sprecher" : "Annabelle Krieg"
+    },
+    {
+      "rolle" : "Otis Stamper",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Jonathan Black",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Miles Black",
+      "sprecher" : "Sascha Rotermund"
+    },
+    {
+      "rolle" : "Klara Kowalski",
+      "sprecher" : "Stephanie Damare"
+    },
+    {
+      "rolle" : "Silvester Proud",
+      "sprecher" : "Gustav Adolph Artz"
+    },
+    {
+      "rolle" : "Pfarrer Clark",
+      "sprecher" : "Gerd Baltus"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/140/metadata.json",

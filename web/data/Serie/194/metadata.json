@@ -47,79 +47,79 @@
       "end" : 4616840
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Gladys Pixie",
-      "Rosemarie Wohlbauer"
-    ],
-    [
-      "Frank Firhouse",
-      "Lutz Mackensy"
-    ],
-    [
-      "Maggie Smith",
-      "Susanne Wulkow"
-    ],
-    [
-      "Aurora",
-      "Andreja Schneider"
-    ],
-    [
-      "Angela",
-      "Lucia Mahler"
-    ],
-    [
-      "Conchita Dominguez",
-      "Katja Brügger"
-    ],
-    [
-      "Reporter",
-      "Jörgpeter von Clarenau"
-    ],
-    [
-      "Putzfrau",
-      "Clarissa Börner"
-    ],
-    [
-      "Heather",
-      "Enie van de Meiklokjes"
-    ],
-    [
-      "Folder",
-      "Harald Weiler"
-    ],
-    [
-      "Hopper",
-      "Achim Schülke"
-    ],
-    [
-      "Rezeptionist",
-      "Christopher Hoseit"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Gladys Pixie",
+      "sprecher" : "Rosemarie Wohlbauer"
+    },
+    {
+      "rolle" : "Frank Firhouse",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Maggie Smith",
+      "sprecher" : "Susanne Wulkow"
+    },
+    {
+      "rolle" : "Aurora",
+      "sprecher" : "Andreja Schneider"
+    },
+    {
+      "rolle" : "Angela",
+      "sprecher" : "Lucia-Angelina Mahler"
+    },
+    {
+      "rolle" : "Conchita Dominguez",
+      "sprecher" : "Katja Brügger"
+    },
+    {
+      "rolle" : "Reporter",
+      "sprecher" : "Jörgpeter Ahlers"
+    },
+    {
+      "rolle" : "Putzfrau",
+      "sprecher" : "Clarissa Börner"
+    },
+    {
+      "rolle" : "Heather",
+      "sprecher" : "Enie van de Meiklokjes"
+    },
+    {
+      "rolle" : "Folder",
+      "sprecher" : "Harald Weiler"
+    },
+    {
+      "rolle" : "Hopper",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Rezeptionist",
+      "sprecher" : "Christopher Hoseit"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/194/metadata.json",

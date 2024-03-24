@@ -14,7 +14,7 @@ class Höreinheit {
 	var beschreibung: String?
 	var veröffentlichungsdatum: String?
 	var kapitel: [Kapitel]?
-	var sprecher: [[String]]?
+	var sprechrollen: [Sprechrolle]?
 	var links: Links?
 	var unvollständig: Bool?
 }
@@ -33,6 +33,12 @@ class Kapitel {
 	let titel: String
 	var start: Int?
 	var end: Int?
+}
+
+class Sprechrolle {
+	var rolle: String
+	var sprecher: String
+	var pseudonym: String?
 }
 
 class Links {

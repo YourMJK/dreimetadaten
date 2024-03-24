@@ -67,51 +67,51 @@
       "end" : 4412907
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mrs Bennett",
-      "Renate Pichler"
-    ],
-    [
-      "Wächter",
-      "Marek Erhardt"
-    ],
-    [
-      "Crowle",
-      "Christian Rudolf"
-    ],
-    [
-      "Casey Wye",
-      "Gisela Trowe"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Oliver Taper",
-      "Gosta Liptow"
-    ],
-    [
-      "Godween",
-      "André Minninger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mrs. Bennett",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Wächter",
+      "sprecher" : "Marek Erhardt"
+    },
+    {
+      "rolle" : "Crowle",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Casey Wye",
+      "sprecher" : "Gisela Trowe"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Oliver Taper",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/128/metadata.json",

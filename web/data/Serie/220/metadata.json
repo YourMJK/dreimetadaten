@@ -57,59 +57,59 @@
       "end" : 4446747
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Bill Greyfield",
-      "Gordon Piedesack"
-    ],
-    [
-      "Karen Greyfield",
-      "Beate Rysopp"
-    ],
-    [
-      "Ralph Sanders",
-      "Jens Böttcher"
-    ],
-    [
-      "Dylan Reid",
-      "Matthias Keller"
-    ],
-    [
-      "Zoe",
-      "Marion Martienzen"
-    ],
-    [
-      "Simon Cobby",
-      "Pat Murphy"
-    ],
-    [
-      "Angela van Limbeek",
-      "Malin Steffen"
-    ],
-    [
-      "John Addington",
-      "Andreas Birnbaum"
-    ],
-    [
-      "Doktor Williams",
-      "Holger Wemhoff"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Bill Greyfield",
+      "sprecher" : "Gordon Piedesack"
+    },
+    {
+      "rolle" : "Karen Greyfield",
+      "sprecher" : "Beate Rysopp"
+    },
+    {
+      "rolle" : "Ralph Sanders",
+      "sprecher" : "Jens Böttcher"
+    },
+    {
+      "rolle" : "Dylan Reid",
+      "sprecher" : "Matthias Keller"
+    },
+    {
+      "rolle" : "Zoe",
+      "sprecher" : "Marion Martienzen"
+    },
+    {
+      "rolle" : "Simon Cobby",
+      "sprecher" : "Pat Murphy"
+    },
+    {
+      "rolle" : "Angela van Limbeek",
+      "sprecher" : "Malin Steffen"
+    },
+    {
+      "rolle" : "John Addington",
+      "sprecher" : "Andreas Birnbaum"
+    },
+    {
+      "rolle" : "Doktor Williams",
+      "sprecher" : "Holger Wemhoff"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/220/metadata.json",

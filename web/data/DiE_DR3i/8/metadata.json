@@ -47,67 +47,67 @@
       "end" : 4627360
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Jupiter Jones",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Crenshaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Taro Togati",
-      "Stefan Brönneke"
-    ],
-    [
-      "Officer Hunter",
-      "Jürgen Kluckert"
-    ],
-    [
-      "Türsteher",
-      "Arndt Schmöle"
-    ],
-    [
-      "Motelangestellter",
-      "Jelko von Tiele-Winckler"
-    ],
-    [
-      "Museumsdirektor",
-      "Rainer Schmitt"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Harvey Denton",
-      "Klaus Herm"
-    ],
-    [
-      "Mrs. Fox",
-      "Nana Spier"
-    ],
-    [
-      "Inspektor Milton",
-      "Holger Mahlich"
-    ],
-    [
-      "Arthur Heatherly",
-      "Rainer Brandt"
-    ],
-    [
-      "Melissa Heatherly",
-      "Stephanie Kirchberger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Jupiter Jones",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Crenshaw",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Taro Togati",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Officer Hunter",
+      "sprecher" : "Jürgen Kluckert"
+    },
+    {
+      "rolle" : "Türsteher",
+      "sprecher" : "Arndt Schmöle"
+    },
+    {
+      "rolle" : "Motelangestellter",
+      "sprecher" : "Jelko von Tiele-Winckler"
+    },
+    {
+      "rolle" : "Museumsdirektor",
+      "sprecher" : "Rainer Schmitt"
+    },
+    {
+      "rolle" : "Tante Mathilda Jones",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Harvey Denton",
+      "sprecher" : "Klaus Herm"
+    },
+    {
+      "rolle" : "Mrs. Fox",
+      "sprecher" : "Nana Spier"
+    },
+    {
+      "rolle" : "Inspektor Milton",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Arthur Heatherly",
+      "sprecher" : "Rainer Brandt"
+    },
+    {
+      "rolle" : "Melissa Heatherly",
+      "sprecher" : "Stephanie Damare"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/8/metadata.json",

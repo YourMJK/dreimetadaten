@@ -77,71 +77,71 @@
       "end" : 3717773
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Cynthia McGowan",
-      "Luise Lunow"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mr. Andrews",
-      "Henry König"
-    ],
-    [
-      "Mrs. Andrews",
-      "Konstanze Ullmer"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Mina Parker",
-      "Annabelle Krieg"
-    ],
-    [
-      "Brandon Fraser",
-      "Tim Grobe"
-    ],
-    [
-      "Beatrix Fraser",
-      "Sophie Lechtenbrink"
-    ],
-    [
-      "Roxy",
-      "Julia Fölster"
-    ],
-    [
-      "Josh",
-      "Volker Hanisch"
-    ],
-    [
-      "Paul",
-      "Tim Kreuer"
-    ],
-    [
-      "Davis",
-      "Frank Meyer-Brockmann"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Cynthia McGowan",
+      "sprecher" : "Luise Lunow"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Mrs. Andrews",
+      "sprecher" : "Konstanze Ullmer"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Mina Parker",
+      "sprecher" : "Annabelle Krieg"
+    },
+    {
+      "rolle" : "Brandon Fraser",
+      "sprecher" : "Tim Grobe"
+    },
+    {
+      "rolle" : "Beatrix Fraser",
+      "sprecher" : "Sophie Lechtenbrink"
+    },
+    {
+      "rolle" : "Roxy",
+      "sprecher" : "Julia Fölster"
+    },
+    {
+      "rolle" : "Josh",
+      "sprecher" : "Volker Hanisch"
+    },
+    {
+      "rolle" : "Paul",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Davis",
+      "sprecher" : "Frank Meyer-Brockmann"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/149/metadata.json",

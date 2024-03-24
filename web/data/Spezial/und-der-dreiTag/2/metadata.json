@@ -66,95 +66,95 @@
       "end" : 3904933
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Officer Flann Doyle",
-      "Douglas Welbat"
-    ],
-    [
-      "Gil Renard",
-      "Udo Schenk"
-    ],
-    [
-      "Hedy Carlson",
-      "Luise Helm"
-    ],
-    [
-      "Peter Foster",
-      "Gerrit Schmidt-Foss"
-    ],
-    [
-      "Mrs. Shaw",
-      "Isabella Grote"
-    ],
-    [
-      "Sebastian Dawson",
-      "Bastian Pastewka"
-    ],
-    [
-      "Annie Wilkes",
-      "Regina Lemnitz"
-    ],
-    [
-      "Mädchen 1",
-      "Katinka Körting"
-    ],
-    [
-      "Mädchen 2",
-      "Jacqueline Meybauer"
-    ],
-    [
-      "Georgina",
-      "Maud Ackermann"
-    ],
-    [
-      "Alter Mann",
-      "Jörg Gillner"
-    ],
-    [
-      "Junger Mann",
-      "Patrick Bach"
-    ],
-    [
-      "Dick Perry",
-      "Ernst H. Hilbich"
-    ],
-    [
-      "Matthew Gabbin",
-      "Jürgen Thormann"
-    ],
-    [
-      "Steve",
-      "Sascha Draeger"
-    ],
-    [
-      "Radiosprecher",
-      "Tobias Meister"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Officer Flann Doyle",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Gil Renard",
+      "sprecher" : "Udo Schenk"
+    },
+    {
+      "rolle" : "Hedy Carlson",
+      "sprecher" : "Luise Helm"
+    },
+    {
+      "rolle" : "Peter Foster",
+      "sprecher" : "Gerrit Schmidt-Foß"
+    },
+    {
+      "rolle" : "Mrs. Shaw",
+      "sprecher" : "Isabella Grothe"
+    },
+    {
+      "rolle" : "Sebastian Dawson",
+      "sprecher" : "Bastian Pastewka"
+    },
+    {
+      "rolle" : "Annie Wilkes",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Mädchen 1",
+      "sprecher" : "Katinka Körting"
+    },
+    {
+      "rolle" : "Mädchen 2",
+      "sprecher" : "Jacqueline Meybauer"
+    },
+    {
+      "rolle" : "Georgina",
+      "sprecher" : "Maud Ackermann"
+    },
+    {
+      "rolle" : "Alter Mann",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Junger Mann",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Dick Perry",
+      "sprecher" : "Ernst H. Hilbich"
+    },
+    {
+      "rolle" : "Matthew Gabbin",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Steve",
+      "sprecher" : "Sascha Draeger"
+    },
+    {
+      "rolle" : "Radiosprecher",
+      "sprecher" : "Tobias Meister"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",

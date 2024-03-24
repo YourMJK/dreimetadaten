@@ -47,71 +47,72 @@
       "end" : 4799880
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Erik Schäffler"
-    ],
-    [
-      "Trenton",
-      "Marco Steeger"
-    ],
-    [
-      "Buzzy",
-      "Merete Brettschneider"
-    ],
-    [
-      "Harold",
-      "Leonhard Mahlich"
-    ],
-    [
-      "George",
-      "Robin Brosch"
-    ],
-    [
-      "Roberta",
-      "Pamela Punti"
-    ],
-    [
-      "Evander Prettyman",
-      "Nicolas Böll"
-    ],
-    [
-      "Liam",
-      "Stefan Brönneke"
-    ],
-    [
-      "Lincoln",
-      "Hans Peter Korff"
-    ],
-    [
-      "Maya",
-      "Manuela Eifrig"
-    ],
-    [
-      "Haylie",
-      "Barbara Schipper"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Trenton",
+      "sprecher" : "Marco Steeger"
+    },
+    {
+      "rolle" : "Buzzy",
+      "sprecher" : "Merete Brettschneider"
+    },
+    {
+      "rolle" : "Harold",
+      "sprecher" : "Leonhard Mahlich"
+    },
+    {
+      "rolle" : "George",
+      "sprecher" : "Robin Brosch"
+    },
+    {
+      "rolle" : "Roberta",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Pamela Punti"
+    },
+    {
+      "rolle" : "Evander Prettyman",
+      "sprecher" : "Nicolas Böll"
+    },
+    {
+      "rolle" : "Liam",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Lincoln",
+      "sprecher" : "Hans Peter Korff"
+    },
+    {
+      "rolle" : "Maya",
+      "sprecher" : "Manuela Eifrig"
+    },
+    {
+      "rolle" : "Haylie",
+      "sprecher" : "Barbara Schipper"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/223/metadata.json",

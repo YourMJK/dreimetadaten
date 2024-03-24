@@ -62,51 +62,51 @@
       "end" : 3992933
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Dr. Chandler",
-      "Wolf Pahlke"
-    ],
-    [
-      "Max",
-      "Sven Dahlem"
-    ],
-    [
-      "Austin",
-      "Patrick Bach"
-    ],
-    [
-      "Dwain",
-      "Tim Knauer"
-    ],
-    [
-      "Mr. Monroe",
-      "Jochen Regelin"
-    ],
-    [
-      "Professor Rosenberg",
-      "Lothar Grützner"
-    ],
-    [
-      "Papagei",
-      "Heikedine Körting"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Dr. Chandler",
+      "sprecher" : "Wolf Pahlke"
+    },
+    {
+      "rolle" : "Max",
+      "sprecher" : "Sven Dahlem"
+    },
+    {
+      "rolle" : "Austin",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Dwain",
+      "sprecher" : "Tim Knauer"
+    },
+    {
+      "rolle" : "Mr. Monroe",
+      "sprecher" : "Joachim Regelien"
+    },
+    {
+      "rolle" : "Professor Rosenberg",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/126/metadata.json",

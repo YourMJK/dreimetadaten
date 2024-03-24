@@ -46,67 +46,67 @@
       "end" : 4166493
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Taylor-Jackson",
-      "Jona Mues"
-    ],
-    [
-      "Jason",
-      "Woody Mues"
-    ],
-    [
-      "Ivy",
-      "Leonie Lander"
-    ],
-    [
-      "Prof. Haynthorb",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Mrs. Fernandez",
-      "Anja Topf"
-    ],
-    [
-      "Samantha",
-      "Henrike Fehrs"
-    ],
-    [
-      "Francine Breckenridge",
-      "Elga Schütz"
-    ],
-    [
-      "Dr. Wilcomb",
-      "Heinz Lieven"
-    ],
-    [
-      "3. Polizist",
-      "Wolfgang Kaven"
-    ],
-    [
-      "Mr. Andrews",
-      "Henry König"
-    ],
-    [
-      "Menge",
-      "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Taylor-Jackson",
+      "sprecher" : "Jona Mues"
+    },
+    {
+      "rolle" : "Jason",
+      "sprecher" : "Woody Mues"
+    },
+    {
+      "rolle" : "Ivy",
+      "sprecher" : "Leonie Landa"
+    },
+    {
+      "rolle" : "Prof. Haynthorb",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Mrs. Fernandez",
+      "sprecher" : "Anja Topf"
+    },
+    {
+      "rolle" : "Samantha",
+      "sprecher" : "Henrike Fehrs"
+    },
+    {
+      "rolle" : "Francine Breckenridge",
+      "sprecher" : "Elga Schütz"
+    },
+    {
+      "rolle" : "Dr. Wilcomb",
+      "sprecher" : "Heinz Lieven"
+    },
+    {
+      "rolle" : "Polizist 3",
+      "sprecher" : "Wolfgang Kaven"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Menge",
+      "sprecher" : "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/175/3/metadata.json",

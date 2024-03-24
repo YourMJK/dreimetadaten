@@ -20,51 +20,51 @@
       "end" : 1198507
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Nancy McMonigal",
-      "Gerlinde Dilge"
-    ],
-    [
-      "Tom",
-      "Wolfgang Rositzka"
-    ],
-    [
-      "Rod",
-      "Herbert Tennigkeit"
-    ],
-    [
-      "Joe",
-      "Oliver Reichmann"
-    ],
-    [
-      "Ben",
-      "Stephan Chrzescinski"
-    ],
-    [
-      "Mariann",
-      "Simone Ritscher"
-    ],
-    [
-      "TV-Sprecher",
-      "Holger Wemhoff"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Nancy McMonigal",
+      "sprecher" : "Gerlinde Dillge"
+    },
+    {
+      "rolle" : "Tom",
+      "sprecher" : "Wolfgang Rositzka"
+    },
+    {
+      "rolle" : "Rod",
+      "sprecher" : "Herbert Tennigkeit"
+    },
+    {
+      "rolle" : "Joe",
+      "sprecher" : "Olaf Reichmann"
+    },
+    {
+      "rolle" : "Ben",
+      "sprecher" : "Stephan Chrzescinski"
+    },
+    {
+      "rolle" : "Mariann",
+      "sprecher" : "Simone Ritscher"
+    },
+    {
+      "rolle" : "TV-Sprecher",
+      "sprecher" : "Holger Wemhoff"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/2/metadata.json",

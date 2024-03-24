@@ -47,67 +47,67 @@
       "end" : 3917560
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Whitty",
-      "Claus Wilcke"
-    ],
-    [
-      "Hank",
-      "Robert Missler"
-    ],
-    [
-      "Cowboy Dick",
-      "Wolfgang Kaven"
-    ],
-    [
-      "Mr. Arbuthnott",
-      "Eckart Dux"
-    ],
-    [
-      "Mrs. Lockwood",
-      "Ingeborg Kallweit"
-    ],
-    [
-      "Linda",
-      "Svenja Pages"
-    ],
-    [
-      "Roger",
-      "Christian Stark"
-    ],
-    [
-      "Mann",
-      "Gernot Endemann"
-    ],
-    [
-      "Einsatzleiter",
-      "Achim Schülke"
-    ],
-    [
-      "Polizist",
-      "Alexander Mettin"
-    ],
-    [
-      "Mechaniker",
-      "Joachim Kretzer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Whitty",
+      "sprecher" : "Claus Wilcke"
+    },
+    {
+      "rolle" : "Hank",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Cowboy Dick",
+      "sprecher" : "Wolfgang Kaven"
+    },
+    {
+      "rolle" : "Mr. Arbuthnott",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Mrs. Lockwood",
+      "sprecher" : "Ingeborg Kallweit"
+    },
+    {
+      "rolle" : "Linda",
+      "sprecher" : "Svenja Pages"
+    },
+    {
+      "rolle" : "Roger",
+      "sprecher" : "Christian Stark"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Gernot Endemann"
+    },
+    {
+      "rolle" : "Einsatzleiter",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Alexander Mettin"
+    },
+    {
+      "rolle" : "Mechaniker",
+      "sprecher" : "Joachim Kretzer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/189/metadata.json",

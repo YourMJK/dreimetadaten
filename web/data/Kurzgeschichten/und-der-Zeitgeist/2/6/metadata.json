@@ -25,51 +25,51 @@
       "end" : 1684120
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Weise Frau",
-      "Dorothea Hagena"
-    ],
-    [
-      "Kelly",
-      "Juliane Szalay-Pracht"
-    ],
-    [
-      "Patrick",
-      "Nicolas König"
-    ],
-    [
-      "Samuel",
-      "Johannes Semm"
-    ],
-    [
-      "Kenneth",
-      "Olaf Reichmann"
-    ],
-    [
-      "Liz Zapata",
-      "Merete Brettschneider"
-    ],
-    [
-      "Skinny Norris",
-      "Michael Harck"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Weise Frau",
+      "sprecher" : "Dorothea Hagena"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Patrick",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Samuel",
+      "sprecher" : "Johannes Semm"
+    },
+    {
+      "rolle" : "Kenneth",
+      "sprecher" : "Olaf Reichmann"
+    },
+    {
+      "rolle" : "Liz Zapata",
+      "sprecher" : "Merete Brettschneider"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Michael Harck"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/6/metadata.json",

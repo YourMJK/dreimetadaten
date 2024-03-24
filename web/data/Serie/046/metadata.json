@@ -47,63 +47,63 @@
       "end" : 2853253
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Harry Burnside",
-      "Thomas Naumann"
-    ],
-    [
-      "Millionär Pilcher",
-      "Michael von Raspatt"
-    ],
-    [
-      "Marilyn Pilcher",
-      "Gabi Libbach"
-    ],
-    [
-      "Sekretär Sanchez",
-      "Walter Eltz"
-    ],
-    [
-      "Harald Durham",
-      "Ernst A. Frantz"
-    ],
-    [
-      "Frau Durham",
-      "Micaela Kreißler"
-    ],
-    [
-      "Jim Westerbrook",
-      "Michael Quiatkowski"
-    ],
-    [
-      "Mrs. Westerbrook",
-      "Gerlinde Dillge"
-    ],
-    [
-      "Dr. Gonzaga",
-      "Michael Liptow"
-    ],
-    [
-      "Ramon Navarro",
-      "Norbert Lange"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Harry Burnside",
+      "sprecher" : "Thomas Naumann"
+    },
+    {
+      "rolle" : "Millionär Pilcher",
+      "sprecher" : "Michael von Rospatt"
+    },
+    {
+      "rolle" : "Marilyn Pilcher",
+      "sprecher" : "Gabriele Libbach"
+    },
+    {
+      "rolle" : "Sekretär Sanchez",
+      "sprecher" : "Walter Eltz"
+    },
+    {
+      "rolle" : "Harald Durham",
+      "sprecher" : "Ernst A. Frantz"
+    },
+    {
+      "rolle" : "Frau Durham",
+      "sprecher" : "Micaëla Kreißler"
+    },
+    {
+      "rolle" : "Jim Westerbrook",
+      "sprecher" : "Michael Quiatkowsky"
+    },
+    {
+      "rolle" : "Mrs. Westerbrook",
+      "sprecher" : "Gerlinde Dillge"
+    },
+    {
+      "rolle" : "Dr. Gonzaga",
+      "sprecher" : "Manfred Liptow"
+    },
+    {
+      "rolle" : "Ramon Navarro",
+      "sprecher" : "Norbert Lange"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/046/metadata.json",

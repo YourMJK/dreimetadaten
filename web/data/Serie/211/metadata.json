@@ -37,59 +37,59 @@
       "end" : 4321973
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Jock",
-      "Christian Stark"
-    ],
-    [
-      "Gavin Sterling",
-      "Stephan Benson"
-    ],
-    [
-      "Judith Sterling",
-      "Hedi Kriegeskotte"
-    ],
-    [
-      "Leopold Nelson",
-      "Oliver Kalkofe"
-    ],
-    [
-      "Marlow",
-      "Janis Zaurins"
-    ],
-    [
-      "Rick",
-      "Daniel Welbat"
-    ],
-    [
-      "Mrs. Torres",
-      "Heidi Berndt"
-    ],
-    [
-      "Dark Blue D",
-      "Ivo Möller"
-    ],
-    [
-      "Busfahrerin",
-      "Rosemarie Wohlbauer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Jock",
+      "sprecher" : "Christian Stark"
+    },
+    {
+      "rolle" : "Gavin Sterling",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Judith Sterling",
+      "sprecher" : "Hedi Kriegeskotte"
+    },
+    {
+      "rolle" : "Leopold Nelson",
+      "sprecher" : "Oliver Kalkofe"
+    },
+    {
+      "rolle" : "Marlow",
+      "sprecher" : "Janis Zaurins"
+    },
+    {
+      "rolle" : "Rick",
+      "sprecher" : "Daniel Welbat"
+    },
+    {
+      "rolle" : "Mrs. Torres",
+      "sprecher" : "Heidi Berndt"
+    },
+    {
+      "rolle" : "Dark Blue D",
+      "sprecher" : "Ivo Möller"
+    },
+    {
+      "rolle" : "Busfahrerin",
+      "sprecher" : "Rosemarie Wohlbauer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/211/metadata.json",

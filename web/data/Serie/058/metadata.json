@@ -47,59 +47,60 @@
       "end" : 2711893
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "William Ashley",
-      "Franz Rudnick"
-    ],
-    [
-      "Burt Ashley",
-      "Knut Basewitz"
-    ],
-    [
-      "Pecker, Angestellter",
-      "Lutz Büschken"
-    ],
-    [
-      "Axel",
-      "Tobias Pauls"
-    ],
-    [
-      "Lys",
-      "Kerstin Draeger"
-    ],
-    [
-      "Mrs. Bloomingdale",
-      "Eva Zlomitzky"
-    ],
-    [
-      "Stella",
-      "Rebecca Völz"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "William Ashley",
+      "sprecher" : "Franz Rudnick"
+    },
+    {
+      "rolle" : "Burt Ashley",
+      "sprecher" : "Knut Basewitz"
+    },
+    {
+      "rolle" : "Pecker, Angestellter",
+      "sprecher" : "Lutz Büschken"
+    },
+    {
+      "rolle" : "Axel",
+      "sprecher" : "Tobias Pauls"
+    },
+    {
+      "rolle" : "Lys",
+      "sprecher" : "Kerstin Draeger"
+    },
+    {
+      "rolle" : "Mrs. Bloomingdale",
+      "sprecher" : "Eva Zlonitzky"
+    },
+    {
+      "rolle" : "Stella",
+      "sprecher" : "Rebecca Völz"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/058/metadata.json",

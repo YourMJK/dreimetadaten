@@ -47,71 +47,74 @@
       "end" : 2635960
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Rawley",
-      "Horst Stark"
-    ],
-    [
-      "Mr. Frank",
-      "Siegfried Wald"
-    ],
-    [
-      "Mr. Togati",
-      "Reiner Brönnecke"
-    ],
-    [
-      "Taro",
-      "Stefan Brönnecke"
-    ],
-    [
-      "Patrick",
-      "Wolfgang Kubach"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Miss Agawam",
-      "Ursula Vogel"
-    ],
-    [
-      "Jordan",
-      "Hans Meinhardt [Franz Josef Steffens]"
-    ],
-    [
-      "Chuck",
-      "Roland Fabricius [Edgar Bessen?]"
-    ],
-    [
-      "Liliputaner",
-      "Erich Büttner [Joachim Wolff]"
-    ],
-    [
-      "Wachmann im Museum",
-      "Gottfried Kramer"
-    ],
-    [
-      "Hafenpolizist",
-      "Peter Kirchberger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Rawley",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Mr. Frank",
+      "sprecher" : "Siegfried Wald"
+    },
+    {
+      "rolle" : "Mr. Togati",
+      "sprecher" : "Reiner Brönneke"
+    },
+    {
+      "rolle" : "Taro",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Patrick",
+      "sprecher" : "Wolfgang Kubach"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Miss Agawam",
+      "sprecher" : "Ursula Vogel"
+    },
+    {
+      "rolle" : "Jordan",
+      "sprecher" : "Franz-Josef Steffens",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Chuck",
+      "sprecher" : "Wolfgang Kaven",
+      "pseudonym" : "Roland Fabricius"
+    },
+    {
+      "rolle" : "Liliputaner",
+      "sprecher" : "Joachim Wolff",
+      "pseudonym" : "Erich Büttner"
+    },
+    {
+      "rolle" : "Wachmann im Museum",
+      "sprecher" : "Gottfried Kramer"
+    },
+    {
+      "rolle" : "Hafenpolizist",
+      "sprecher" : "Peter Kirchberger"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/022/metadata.json",

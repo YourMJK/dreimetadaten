@@ -52,71 +52,71 @@
       "end" : 3685613
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Adam Quinn",
-      "Romanus Fuhrmann"
-    ],
-    [
-      "Mr. Carrington",
-      "Martin May"
-    ],
-    [
-      "Mrs. Carrington",
-      "Manuela Dahm-Mauerhofer"
-    ],
-    [
-      "Liza Hawkins",
-      "Lucia Angela Mahler"
-    ],
-    [
-      "Mr. Hawkins",
-      "Achim Schülke"
-    ],
-    [
-      "Mrs. Hawkins",
-      "Birte Kretschmer"
-    ],
-    [
-      "Leslie Logue-Smith",
-      "Uschi Hugo"
-    ],
-    [
-      "Schauspieler",
-      "Erik Schäffler"
-    ],
-    [
-      "Britney Rogers",
-      "Theresa Berlage"
-    ],
-    [
-      "Sanitäter",
-      "Oliver Böttcher"
-    ],
-    [
-      "Mr. Sisko",
-      "Daniel Welbat"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Adam Quinn",
+      "sprecher" : "Romanus Fuhrmann"
+    },
+    {
+      "rolle" : "Mr. Carrington",
+      "sprecher" : "Martin May"
+    },
+    {
+      "rolle" : "Mrs. Carrington",
+      "sprecher" : "Manuela Dahm"
+    },
+    {
+      "rolle" : "Liza Hawkins",
+      "sprecher" : "Lucia-Angelina Mahler"
+    },
+    {
+      "rolle" : "Mr. Hawkins",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mrs. Hawkins",
+      "sprecher" : "Birte Kretschmer"
+    },
+    {
+      "rolle" : "Leslie Logue-Smith",
+      "sprecher" : "Uschi Hugo"
+    },
+    {
+      "rolle" : "Schauspieler",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Britney Rogers",
+      "sprecher" : "Theresa Berlage"
+    },
+    {
+      "rolle" : "Sanitäter",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Mr. Sisko",
+      "sprecher" : "Daniel Welbat"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/185/metadata.json",

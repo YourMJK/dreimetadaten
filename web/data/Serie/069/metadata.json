@@ -47,71 +47,72 @@
       "end" : 3942387
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Erna Fiedler",
-      "Ursula Gompf"
-    ],
-    [
-      "Dr. Ferguson",
-      "Antje Cornelius"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Kelly",
-      "Juliane Szalay"
-    ],
-    [
-      "John Brady",
-      "Dirk Anton"
-    ],
-    [
-      "Matt Brady",
-      "Volker Bogdan"
-    ],
-    [
-      "Mr. Andrews",
-      "Günter König"
-    ],
-    [
-      "Mr. Shaw",
-      "Eberhard Haar"
-    ],
-    [
-      "Mrs. Shaw",
-      "Heikedine Körting"
-    ],
-    [
-      "Godween",
-      "André Minninger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Erna Fiedler",
+      "sprecher" : "Ursula Gompf"
+    },
+    {
+      "rolle" : "Dr. Ferguson",
+      "sprecher" : "Antje Cornelius"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "John Brady",
+      "sprecher" : "Dirk Anton"
+    },
+    {
+      "rolle" : "Matt Brady",
+      "sprecher" : "Volker Bogdan"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Günter König"
+    },
+    {
+      "rolle" : "Mr. Shaw",
+      "sprecher" : "Eberhard Haar"
+    },
+    {
+      "rolle" : "Mrs. Shaw",
+      "sprecher" : "Heikedine Körting"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/069/metadata.json",

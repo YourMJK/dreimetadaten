@@ -47,67 +47,73 @@
       "end" : 2565680
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Skinny",
-      "Andreas von der Meden"
-    ],
-    [
-      "Cody",
-      "Simon Schuchadt [Wolfgang Kaven]"
-    ],
-    [
-      "Diego Alvaro",
-      "Jan Odle"
-    ],
-    [
-      "Pico Alvaro",
-      "Mathias Lorenz"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Assistent",
-      "Claes Holmcrantz [Gernot Endemann]"
-    ],
-    [
-      "Sheriff",
-      "F.J. Steffens"
-    ],
-    [
-      "Tulsa",
-      "Klaus Klein [F.J. Steffens]"
-    ],
-    [
-      "Cap",
-      "Fritz Wegely [Siegfried Wald]"
-    ],
-    [
-      "Pike",
-      "Philip Mehringer [Joachim Wolff]"
-    ],
-    [
-      "Mr. Shaw",
-      "F.J. Steffens"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Cody",
+      "sprecher" : "Wolfgang Kaven",
+      "pseudonym" : "Simon Schuchardt"
+    },
+    {
+      "rolle" : "Diego Alvaro",
+      "sprecher" : "Jan Odle"
+    },
+    {
+      "rolle" : "Pico Alvaro",
+      "sprecher" : "Mathias Lorenz"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Assistent",
+      "sprecher" : "Gernot Endemann",
+      "pseudonym" : "Claes Holmcrantz"
+    },
+    {
+      "rolle" : "Sheriff",
+      "sprecher" : "Franz-Josef Steffens"
+    },
+    {
+      "rolle" : "Tulsa",
+      "sprecher" : "Siegfried Wald",
+      "pseudonym" : "Klaus Klein"
+    },
+    {
+      "rolle" : "Cap",
+      "sprecher" : "Joachim Wolff",
+      "pseudonym" : "Fritz Wegely"
+    },
+    {
+      "rolle" : "Pike",
+      "sprecher" : "Franz-Josef Steffens",
+      "pseudonym" : "Philip Mehringer"
+    },
+    {
+      "rolle" : "Mr. Shaw",
+      "sprecher" : "Franz-Josef Steffens"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/023/metadata.json",

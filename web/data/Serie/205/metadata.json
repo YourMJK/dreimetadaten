@@ -37,75 +37,75 @@
       "end" : 4255120
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Trish",
-      "Katrin Decker"
-    ],
-    [
-      "Giovanni",
-      "Stephan Schad"
-    ],
-    [
-      "Rosaly",
-      "Gertie Honeck"
-    ],
-    [
-      "Matteo",
-      "Roman Rossa"
-    ],
-    [
-      "Caroline",
-      "Marianne Bernhardt"
-    ],
-    [
-      "Butler",
-      "Ivo Möller"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Charles Stapleton",
-      "Romanus Fuhrmann"
-    ],
-    [
-      "Direktor Greenwalt",
-      "Jürgen Uter"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Angestellter",
-      "Oliver Böttcher"
-    ],
-    [
-      "Polizist",
-      "Carlo von Tiedemann"
-    ],
-    [
-      "Papagei",
-      "Merete Brettschneider"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Trish",
+      "sprecher" : "Katrin Decker"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Rosaly",
+      "sprecher" : "Gertie Honeck"
+    },
+    {
+      "rolle" : "Matteo",
+      "sprecher" : "Roman Rossa"
+    },
+    {
+      "rolle" : "Caroline",
+      "sprecher" : "Marianne Bernhardt"
+    },
+    {
+      "rolle" : "Butler",
+      "sprecher" : "Ivo Möller"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Charles Stapleton",
+      "sprecher" : "Romanus Fuhrmann"
+    },
+    {
+      "rolle" : "Direktor Greenwalt",
+      "sprecher" : "Jürgen Uter"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Angestellter",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Carlo von Tiedemann"
+    },
+    {
+      "rolle" : "Papagei",
+      "sprecher" : "Merete Brettschneider"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/205/metadata.json",

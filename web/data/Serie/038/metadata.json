@@ -47,47 +47,47 @@
       "end" : 2552053
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mrs. Shaw",
-      "Marianne Kehlau"
-    ],
-    [
-      "Mr. Peck",
-      "Wolfgang Völz"
-    ],
-    [
-      "Ed Snabel",
-      "Horst Naumann"
-    ],
-    [
-      "Bartlett",
-      "Jochen Sehrndt"
-    ],
-    [
-      "FBI-Agent Anderson",
-      "Lutz Mackensy"
-    ],
-    [
-      "Passantin",
-      "Ingrid Andree"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mrs. Shaw",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "Mr. Peck",
+      "sprecher" : "Wolfgang Völz"
+    },
+    {
+      "rolle" : "Ed Snabel",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Bartlett",
+      "sprecher" : "Jochen Sehrndt"
+    },
+    {
+      "rolle" : "FBI-Agent Anderson",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Passantin",
+      "sprecher" : "Ingrid Andree"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/038/metadata.json",

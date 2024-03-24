@@ -37,35 +37,36 @@
       "end" : 3560667
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Cosma",
-      "Elke Reissert"
-    ],
-    [
-      "Vladimir Contreras",
-      "Gerhart Hinze"
-    ],
-    [
-      "Roger Carpenter",
-      "Igmar Frentzen"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Cosma",
+      "sprecher" : "Elke Reissert"
+    },
+    {
+      "rolle" : "Vladimir Contreras",
+      "sprecher" : "Gerhart Hinze"
+    },
+    {
+      "rolle" : "Roger Carpenter",
+      "sprecher" : "Gustav-Adolph Artz",
+      "pseudonym" : "Igmar Frenzen"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/080/metadata.json",

@@ -20,43 +20,47 @@
       "end" : 1889653
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda Jonas",
-      "Karin Lieneweg"
-    ],
-    [
-      "Skinny Norris",
-      "Michael Harck"
-    ],
-    [
-      "Marc Kingstone",
-      "Rainer Brandt"
-    ],
-    [
-      "Aaron Kingstone",
-      "Tommi Piper"
-    ],
-    [
-      "Sarah",
-      "Christiane Leuchtmann"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Michael Harck"
+    },
+    {
+      "rolle" : "Marc Kingstone",
+      "sprecher" : "Rainer Brandt"
+    },
+    {
+      "rolle" : "Aaron Kingstone",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Sarah",
+      "sprecher" : "Christiane Leuchtmann"
+    },
+    {
+      "rolle" : "Albert",
+      "sprecher" : "Franzisko Löwe"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/metadata.json",

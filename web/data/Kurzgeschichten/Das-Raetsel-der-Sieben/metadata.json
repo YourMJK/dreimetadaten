@@ -24,51 +24,52 @@
               "end" : 1596747
             }
           ],
-          "sprecher" : [
-            [
-              "Erzähler",
-              "Thomas Fritsch"
-            ],
-            [
-              "Justus Jonas",
-              "Oliver Rohrbeck"
-            ],
-            [
-              "Peter Shaw",
-              "Jens Wawrczeck"
-            ],
-            [
-              "Bob Andrews",
-              "Andreas Fröhlich"
-            ],
-            [
-              "Emily White",
-              "Sabine Hahn"
-            ],
-            [
-              "Judy Fradkin",
-              "Ursula Heyer"
-            ],
-            [
-              "Aladin",
-              "Heidi Schaffrath"
-            ],
-            [
-              "Aschenputtel",
-              "Regina Lemnitz"
-            ],
-            [
-              "Prinzessin",
-              "Renate Pichler"
-            ],
-            [
-              "Rotkäppchen",
-              "Angela Stresemann"
-            ],
-            [
-              "Meerjungfrau",
-              "Pamela Punti"
-            ]
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Emily White",
+              "sprecher" : "Sabine Hahn"
+            },
+            {
+              "rolle" : "Judy Fradkin",
+              "sprecher" : "Ursula Heyer"
+            },
+            {
+              "rolle" : "Aladin",
+              "sprecher" : "Heidi Schaffrath"
+            },
+            {
+              "rolle" : "Aschenputtel",
+              "sprecher" : "Regina Lemnitz"
+            },
+            {
+              "rolle" : "Prinzessin",
+              "sprecher" : "Renate Pichler"
+            },
+            {
+              "rolle" : "Rotkäppchen",
+              "sprecher" : "Angela Stresemann"
+            },
+            {
+              "rolle" : "Meerjungfrau",
+              "sprecher" : "Heikedine Körting",
+              "pseudonym" : "Pamela Punti"
+            }
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/metadata.json",
@@ -97,43 +98,43 @@
               "end" : 1477173
             }
           ],
-          "sprecher" : [
-            [
-              "Erzähler",
-              "Thomas Fritsch"
-            ],
-            [
-              "Justus Jonas",
-              "Oliver Rohrbeck"
-            ],
-            [
-              "Peter Shaw",
-              "Jens Wawrczeck"
-            ],
-            [
-              "Bob Andrews",
-              "Andreas Fröhlich"
-            ],
-            [
-              "Mr. Andrews",
-              "Henry König"
-            ],
-            [
-              "Mrs. Andrews",
-              "Konstanze Ullmer"
-            ],
-            [
-              "Arzt",
-              "Erik Schäffler"
-            ],
-            [
-              "Mrs. Wallace",
-              "Angela Stresemann"
-            ],
-            [
-              "Bobby",
-              "Merete Brettschneider"
-            ]
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Mr. Andrews",
+              "sprecher" : "Henry König"
+            },
+            {
+              "rolle" : "Mrs. Andrews",
+              "sprecher" : "Konstanze Ullmer"
+            },
+            {
+              "rolle" : "Arzt",
+              "sprecher" : "Erik Schäffler"
+            },
+            {
+              "rolle" : "Mrs. Wallace",
+              "sprecher" : "Angela Stresemann"
+            },
+            {
+              "rolle" : "Bobby",
+              "sprecher" : "Merete Brettschneider"
+            }
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/metadata.json",
@@ -203,31 +204,32 @@
               "end" : 1574187
             }
           ],
-          "sprecher" : [
-            [
-              "Erzähler",
-              "Thomas Fritsch"
-            ],
-            [
-              "Justus Jonas",
-              "Oliver Rohrbeck"
-            ],
-            [
-              "Peter Shaw",
-              "Jens Wawrczeck"
-            ],
-            [
-              "Bob Andrews",
-              "Andreas Fröhlich"
-            ],
-            [
-              "Tante Mathilda Jonas",
-              "Karin Lieneweg"
-            ],
-            [
-              "Onkel Titus Jonas",
-              "Hans Meinhardt"
-            ]
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Tante Mathilda",
+              "sprecher" : "Karin Lieneweg"
+            },
+            {
+              "rolle" : "Onkel Titus",
+              "sprecher" : "Andreas E. Beurmann",
+              "pseudonym" : "Hans Meinhardt"
+            }
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/metadata.json",
@@ -256,47 +258,47 @@
               "end" : 1174080
             }
           ],
-          "sprecher" : [
-            [
-              "Erzähler",
-              "Thomas Fritsch"
-            ],
-            [
-              "Justus Jonas",
-              "Oliver Rohrbeck"
-            ],
-            [
-              "Peter Shaw",
-              "Jens Wawrczeck"
-            ],
-            [
-              "Bob Andrews",
-              "Andreas Fröhlich"
-            ],
-            [
-              "Croupier",
-              "Gosta Liptow"
-            ],
-            [
-              "Carl Hopkins, Physiker",
-              "Ben Hecker"
-            ],
-            [
-              "Miller, Schiffsdetektiv",
-              "Michael Grimm"
-            ],
-            [
-              "Kapitän Sherwood",
-              "Horst Naumann"
-            ],
-            [
-              "Theodore Quaid",
-              "Dietrich Adam"
-            ],
-            [
-              "Jamie Peterson, Barmann",
-              "Patrick Bach"
-            ]
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Croupier",
+              "sprecher" : "Gosta Liptow"
+            },
+            {
+              "rolle" : "Carl Hopkins, Physiker",
+              "sprecher" : "Ben Hecker"
+            },
+            {
+              "rolle" : "Miller, Schiffsdetektiv",
+              "sprecher" : "Michael Grimm"
+            },
+            {
+              "rolle" : "Kapitän Sherwood",
+              "sprecher" : "Horst Naumann"
+            },
+            {
+              "rolle" : "Theodore Quaid",
+              "sprecher" : "Dietrich Adam"
+            },
+            {
+              "rolle" : "Jamie Peterson, Barmann",
+              "sprecher" : "Patrick Bach"
+            }
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/4/metadata.json",
@@ -366,43 +368,45 @@
               "end" : 1389800
             }
           ],
-          "sprecher" : [
-            [
-              "Erzähler",
-              "Thomas Fritsch"
-            ],
-            [
-              "Justus Jonas",
-              "Oliver Rohrbeck"
-            ],
-            [
-              "Peter Shaw",
-              "Jens Wawrczeck"
-            ],
-            [
-              "Bob Andrews",
-              "Andreas Fröhlich"
-            ],
-            [
-              "Onkel Titus Jonas",
-              "Hans Meinhardt"
-            ],
-            [
-              "Tante Mathilda Jonas",
-              "Karin Lieneweg"
-            ],
-            [
-              "Handerson",
-              "Wolfgang Rositzka"
-            ],
-            [
-              "Diego",
-              "Stefan Benson"
-            ],
-            [
-              "Mercedes",
-              "Wanda Osten"
-            ]
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Onkel Titus",
+              "sprecher" : "Andreas E. Beurmann",
+              "pseudonym" : "Hans Meinhardt"
+            },
+            {
+              "rolle" : "Tante Mathilda",
+              "sprecher" : "Karin Lieneweg"
+            },
+            {
+              "rolle" : "Handerson",
+              "sprecher" : "Wolfgang Rositzka"
+            },
+            {
+              "rolle" : "Diego",
+              "sprecher" : "Stephan Benson"
+            },
+            {
+              "rolle" : "Mercedes",
+              "sprecher" : "Hella von der Osten-Sacken",
+              "pseudonym" : "Wanda Osten"
+            }
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/metadata.json",
@@ -431,39 +435,40 @@
               "end" : 1409027
             }
           ],
-          "sprecher" : [
-            [
-              "Erzähler",
-              "Thomas Fritsch"
-            ],
-            [
-              "Justus Jonas",
-              "Oliver Rohrbeck"
-            ],
-            [
-              "Peter Shaw",
-              "Jens Wawrczeck"
-            ],
-            [
-              "Bob Andrews",
-              "Andreas Fröhlich"
-            ],
-            [
-              "Nayeli",
-              "Stefan Brönneke"
-            ],
-            [
-              "Barker",
-              "Ben Hecker"
-            ],
-            [
-              "Onkel Titus Jonas",
-              "Hans Meinhardt"
-            ],
-            [
-              "Off-Sprecherin",
-              "Claudia Stocksieker"
-            ]
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Nayeli",
+              "sprecher" : "Stefan Brönneke"
+            },
+            {
+              "rolle" : "Barker",
+              "sprecher" : "Ben Hecker"
+            },
+            {
+              "rolle" : "Onkel Titus",
+              "sprecher" : "Andreas E. Beurmann",
+              "pseudonym" : "Hans Meinhardt"
+            },
+            {
+              "rolle" : "Off-Sprecherin",
+              "sprecher" : "Claudia Stocksieker"
+            }
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/6/metadata.json",
@@ -492,35 +497,36 @@
               "end" : 1099640
             }
           ],
-          "sprecher" : [
-            [
-              "Erzähler",
-              "Thomas Fritsch"
-            ],
-            [
-              "Justus Jonas",
-              "Oliver Rohrbeck"
-            ],
-            [
-              "Peter Shaw",
-              "Jens Wawrczeck"
-            ],
-            [
-              "Bob Andrews",
-              "Andreas Fröhlich"
-            ],
-            [
-              "Tante Mathilda Jonas",
-              "Karin Lieneweg"
-            ],
-            [
-              "Onkel Titus Jonas",
-              "Hans Meinhardt"
-            ],
-            [
-              "Ian Carew",
-              "Sascha Draeger"
-            ]
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Tante Mathilda",
+              "sprecher" : "Karin Lieneweg"
+            },
+            {
+              "rolle" : "Onkel Titus",
+              "sprecher" : "Andreas E. Beurmann",
+              "pseudonym" : "Hans Meinhardt"
+            },
+            {
+              "rolle" : "Ian Carew",
+              "sprecher" : "Sascha Draeger"
+            }
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/7/metadata.json",

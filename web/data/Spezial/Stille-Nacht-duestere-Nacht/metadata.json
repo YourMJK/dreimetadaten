@@ -275,75 +275,79 @@
       "end" : 9893400
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mr. Nostigan",
-      "Volker Brandt"
-    ],
-    [
-      "Beastor",
-      "Michael Grimm"
-    ],
-    [
-      "Freeman",
-      "Helgo Liebig"
-    ],
-    [
-      "Skulldor",
-      "Herbert Tennigkeit"
-    ],
-    [
-      "Desmond Calbourne",
-      "Martin May"
-    ],
-    [
-      "Charlton Hogart",
-      "Christian Rode"
-    ],
-    [
-      "Santa Claus",
-      "Klaus Dittmann"
-    ],
-    [
-      "Mason Wachinsk",
-      "Achim Schülke"
-    ],
-    [
-      "Elfe",
-      "Linda Fölster"
-    ],
-    [
-      "Elfenbeinfrau",
-      "Heidi Berndt"
-    ],
-    [
-      "Milhouse",
-      "Hans-Joachim Dethlof"
-    ],
-    [
-      "Cafelyn McBryde",
-      "Marianne Bernhardt"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mr. Nostigan",
+      "sprecher" : "Volker Brandt"
+    },
+    {
+      "rolle" : "Beastor",
+      "sprecher" : "Michael Grimm"
+    },
+    {
+      "rolle" : "Freeman",
+      "sprecher" : "Helgo Liebig"
+    },
+    {
+      "rolle" : "Skulldor",
+      "sprecher" : "Herbert Tennigkeit"
+    },
+    {
+      "rolle" : "Desmond Calbourne",
+      "sprecher" : "Monty Arnold"
+    },
+    {
+      "rolle" : "Frederic Barnes",
+      "sprecher" : "Martin May"
+    },
+    {
+      "rolle" : "Charlton Hogart",
+      "sprecher" : "Christian Rode"
+    },
+    {
+      "rolle" : "Santa Claus",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Mason Wachinsk",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Elfe",
+      "sprecher" : "Linda Fölster"
+    },
+    {
+      "rolle" : "Elfenbeinfrau",
+      "sprecher" : "Heidi Berndt"
+    },
+    {
+      "rolle" : "Milhouse",
+      "sprecher" : "Hans-Joachim Dethlof"
+    },
+    {
+      "rolle" : "Cafelyn McBryde",
+      "sprecher" : "Marianne Bernhardt"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/metadata.json",

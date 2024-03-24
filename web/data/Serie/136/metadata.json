@@ -72,63 +72,63 @@
       "end" : 4117027
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Darren Duff",
-      "Jesse Grimm"
-    ],
-    [
-      "Taucher Carl",
-      "Oliver Böttcher"
-    ],
-    [
-      "Taucherin Joan",
-      "Christine Pappert"
-    ],
-    [
-      "Paul Brooks",
-      "Heinz Lieven"
-    ],
-    [
-      "Joe Wilcox",
-      "Rolf Becker"
-    ],
-    [
-      "Cassandra Wilcox",
-      "Elke Reissert"
-    ],
-    [
-      "Daniel",
-      "Jochen Baumert"
-    ],
-    [
-      "Henry",
-      "Frank Felicetti"
-    ],
-    [
-      "Doktor Holloway",
-      "Barbara Focke"
-    ],
-    [
-      "Cedric Duff",
-      "Rolf E. Schenker"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Darren Duff",
+      "sprecher" : "Jesse Grimm"
+    },
+    {
+      "rolle" : "Taucher Carl",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Taucherin Joan",
+      "sprecher" : "Christine Pappert"
+    },
+    {
+      "rolle" : "Paul Brooks",
+      "sprecher" : "Heinz Lieven"
+    },
+    {
+      "rolle" : "Joe Wilcox",
+      "sprecher" : "Rolf Becker"
+    },
+    {
+      "rolle" : "Cassandra Wilcox",
+      "sprecher" : "Elke Reissert"
+    },
+    {
+      "rolle" : "Daniel",
+      "sprecher" : "Jochen Baumert"
+    },
+    {
+      "rolle" : "Henry",
+      "sprecher" : "Frank Felicetti"
+    },
+    {
+      "rolle" : "Doktor Holloway",
+      "sprecher" : "Barbara Focke"
+    },
+    {
+      "rolle" : "Cedric Duff",
+      "sprecher" : "Rolf E. Schenker"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/136/metadata.json",

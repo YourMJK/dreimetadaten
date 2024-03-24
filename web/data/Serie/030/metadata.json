@@ -47,63 +47,64 @@
       "end" : 2522293
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Andrews",
-      "Joachim Richert"
-    ],
-    [
-      "Crowe",
-      "Henry Kielmann"
-    ],
-    [
-      "Käptn Jason",
-      "Karl Walter Diess"
-    ],
-    [
-      "MacGruder",
-      "Siegfried Wald"
-    ],
-    [
-      "Hanley",
-      "Lothar Grützner"
-    ],
-    [
-      "Torao",
-      "Joko Talmann [Rüdiger Schulzki]"
-    ],
-    [
-      "Berg",
-      "Andreas Beurmann / Wolfgang Draeger"
-    ],
-    [
-      "Yamura",
-      "Hubert Mittendorf"
-    ],
-    [
-      "Die Gebrüder Connors",
-      "Nicolas Körting, Lothar Grützner"
-    ],
-    [
-      "Weston",
-      "Joachim Richert"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Joachim Richert"
+    },
+    {
+      "rolle" : "Crowe",
+      "sprecher" : "Henry Kielmann"
+    },
+    {
+      "rolle" : "Käptn Jason",
+      "sprecher" : "Karl Walter Diess"
+    },
+    {
+      "rolle" : "MacGruder",
+      "sprecher" : "Siegfried Wald"
+    },
+    {
+      "rolle" : "Hanley",
+      "sprecher" : "Lothar Grützner"
+    },
+    {
+      "rolle" : "Torao",
+      "sprecher" : "Rüdiger Schulzki",
+      "pseudonym" : "Joko Talmann"
+    },
+    {
+      "rolle" : "Berg",
+      "sprecher" : "Andreas E. Beurmann / Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Yamura",
+      "sprecher" : "Hubert Mittendorf"
+    },
+    {
+      "rolle" : "Die Gebrüder Connors",
+      "sprecher" : "Nicolas Körting, Lothar Grützner"
+    },
+    {
+      "rolle" : "Weston",
+      "sprecher" : "Joachim Richert"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/030/metadata.json",

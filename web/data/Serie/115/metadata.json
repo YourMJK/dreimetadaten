@@ -82,63 +82,64 @@
       "end" : 4200627
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Escovedo",
-      "Ignacio Descalzo"
-    ],
-    [
-      "Anita Caballero",
-      "Isabell Navarro"
-    ],
-    [
-      "Lesley Dimple",
-      "Rica Blunck"
-    ],
-    [
-      "Regina Pearson",
-      "Ingeborg Kallweit"
-    ],
-    [
-      "Mr Horowitz",
-      "Rolf Jülich"
-    ],
-    [
-      "Mr Rothman",
-      "Peter Weis"
-    ],
-    [
-      "Mrs O'Rien",
-      "Victoria von Trautmannsdorff"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Escovedo",
+      "sprecher" : "Ignacio Descalzo"
+    },
+    {
+      "rolle" : "Anita Caballero",
+      "sprecher" : "Isabel Navarro"
+    },
+    {
+      "rolle" : "Lesley Dimple",
+      "sprecher" : "Rica Blunck"
+    },
+    {
+      "rolle" : "Regina Pearson",
+      "sprecher" : "Ingeborg Kallweit"
+    },
+    {
+      "rolle" : "Mr. Horowitz",
+      "sprecher" : "Rolf Jülich"
+    },
+    {
+      "rolle" : "Mr. Rothman",
+      "sprecher" : "Peter Weis"
+    },
+    {
+      "rolle" : "Mrs. O'Rien",
+      "sprecher" : "Victoria Trauttmansdorff"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/115/metadata.json",

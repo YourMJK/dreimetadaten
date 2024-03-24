@@ -87,63 +87,64 @@
       "end" : 4112560
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Beverly Leung",
-      "Susanne Stangl"
-    ],
-    [
-      "Thomas Johnson",
-      "Lutz Herkenrath"
-    ],
-    [
-      "1. Polizist",
-      "Robert Missler"
-    ],
-    [
-      "2. Polizist",
-      "Edgar Hoppe"
-    ],
-    [
-      "James",
-      "Sönke Städtler"
-    ],
-    [
-      "Daniel Baker",
-      "Sascha Rotermund"
-    ],
-    [
-      "Mr. Grogan",
-      "Günter Flesch"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Beverly Leung",
+      "sprecher" : "Susanne Stangl"
+    },
+    {
+      "rolle" : "Thomas Johnson",
+      "sprecher" : "Lutz Herkenrath"
+    },
+    {
+      "rolle" : "Polizist 1",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Polizist 2",
+      "sprecher" : "Edgar Hoppe"
+    },
+    {
+      "rolle" : "James",
+      "sprecher" : "Sönke Städtler"
+    },
+    {
+      "rolle" : "Daniel Baker",
+      "sprecher" : "Sascha Rotermund"
+    },
+    {
+      "rolle" : "Mr. Grogan",
+      "sprecher" : "Günther Flesch"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/130/metadata.json",

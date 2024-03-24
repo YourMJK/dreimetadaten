@@ -75,75 +75,77 @@
       "end" : 4166213
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Brittany",
-      "Dorette Hugo"
-    ],
-    [
-      "Hugenay",
-      "Albert Giro"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Graham, Reporter",
-      "Thomas Bammer"
-    ],
-    [
-      "Julianne Wallace",
-      "Marlen Diekhoff"
-    ],
-    [
-      "Sharon Lockwood",
-      "Nova Meierhenrich"
-    ],
-    [
-      "Moderator",
-      "Holger Wemhoff"
-    ],
-    [
-      "Polizist 1",
-      "Fabian Harloff"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ],
-    [
-      "Mrs. Albright",
-      "Lotti Krekel"
-    ],
-    [
-      "Mr. Myers",
-      "Eberhard Haar"
-    ],
-    [
-      "LKW-Fahrer",
-      "Nick Heidfeld"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Brittany",
+      "sprecher" : "Dorette Hugo"
+    },
+    {
+      "rolle" : "Hugenay",
+      "sprecher" : "Wolfgang Kubach",
+      "pseudonym" : "Albert Giro"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Graham, Reporter",
+      "sprecher" : "Thomas Bammer"
+    },
+    {
+      "rolle" : "Julianne Wallace",
+      "sprecher" : "Marlen Diekhoff"
+    },
+    {
+      "rolle" : "Sharon Lockwood",
+      "sprecher" : "Nova Meierhenrich"
+    },
+    {
+      "rolle" : "Moderator",
+      "sprecher" : "Holger Wemhoff"
+    },
+    {
+      "rolle" : "Polizist 1",
+      "sprecher" : "Fabian Harloff"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Mrs. Albright",
+      "sprecher" : "Lotti Krekel"
+    },
+    {
+      "rolle" : "Mr. Myers",
+      "sprecher" : "Eberhard Haar"
+    },
+    {
+      "rolle" : "LKW-Fahrer",
+      "sprecher" : "Nick Heidfeld"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/125/2/metadata.json",

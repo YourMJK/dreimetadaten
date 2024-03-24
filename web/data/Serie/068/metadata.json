@@ -47,39 +47,39 @@
       "end" : 3581227
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Matthias Fuchs"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Jerzy",
-      "Michael Bideller"
-    ],
-    [
-      "Mariana",
-      "Antje Roosch"
-    ],
-    [
-      "1. Mann",
-      "Nico König"
-    ],
-    [
-      "2. Mann",
-      "Lutz Schnell"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Jerzy",
+      "sprecher" : "Michael Bideller"
+    },
+    {
+      "rolle" : "Mariana",
+      "sprecher" : "Antje Roosch"
+    },
+    {
+      "rolle" : "Mann 1",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Mann 2",
+      "sprecher" : "Lutz Schnell"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/068/metadata.json",

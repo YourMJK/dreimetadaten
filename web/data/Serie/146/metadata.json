@@ -87,79 +87,80 @@
       "end" : 3430360
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Quentin Wadleigh",
-      "Christian Rudolf"
-    ],
-    [
-      "Dr. Winston Wadleigh",
-      "Mathias Münster"
-    ],
-    [
-      "Dr. John Frears",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Jamie",
-      "Philipp Draeger"
-    ],
-    [
-      "Sammy",
-      "Jacob Mayerhoff"
-    ],
-    [
-      "Mrs. Pitkätossu",
-      "Ingeborg Kallweit"
-    ],
-    [
-      "Jackall Madson",
-      "Ingo Nommsen"
-    ],
-    [
-      "Tiger Madson",
-      "Dieter Dücker"
-    ],
-    [
-      "Vivian",
-      "Saskia Mayerhoff"
-    ],
-    [
-      "Fitzwilliam Waterfield",
-      "Wolfgang Völz"
-    ],
-    [
-      "Sanitäter",
-      "Robin Brosch"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Quentin Wadleigh",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Dr. Winston Wadleigh",
+      "sprecher" : "Mathias Münster"
+    },
+    {
+      "rolle" : "Dr. John Frears",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Jamie",
+      "sprecher" : "Philipp Draeger"
+    },
+    {
+      "rolle" : "Sammy",
+      "sprecher" : "Jacob Mayerhoff"
+    },
+    {
+      "rolle" : "Mrs. Pitkätossu",
+      "sprecher" : "Ingeborg Kallweit"
+    },
+    {
+      "rolle" : "Jackall Madson",
+      "sprecher" : "Ingo Nommsen"
+    },
+    {
+      "rolle" : "Tiger Madson",
+      "sprecher" : "Dieter Dücker"
+    },
+    {
+      "rolle" : "Vivian",
+      "sprecher" : "Saskia Mayerhoff"
+    },
+    {
+      "rolle" : "Fitzwilliam Waterfield",
+      "sprecher" : "Wolfgang Völz"
+    },
+    {
+      "rolle" : "Sanitäter",
+      "sprecher" : "Robin Brosch"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/146/metadata.json",

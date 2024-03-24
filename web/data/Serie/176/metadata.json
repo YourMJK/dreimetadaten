@@ -67,59 +67,59 @@
       "end" : 4064107
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Sidney",
-      "Dorothee Sturz"
-    ],
-    [
-      "Tiffany",
-      "Maureen Havlena"
-    ],
-    [
-      "Salma Hutchinson",
-      "Tina Eschmann"
-    ],
-    [
-      "Trevor Pomery",
-      "Ben Hecker"
-    ],
-    [
-      "Beatrice",
-      "Ursula Sieg"
-    ],
-    [
-      "Claire",
-      "Karin Eckhold"
-    ],
-    [
-      "Pflegerin",
-      "Susanne Wulkow"
-    ],
-    [
-      "Roger Wolf",
-      "Stephan Schad"
-    ],
-    [
-      "Menge Fußballstadion",
-      "Die Gäste der Record-Release-Party am 22.02.2015 in Dortmund. (Wir danken euch für's Mitmachen!)"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Sidney",
+      "sprecher" : "Dorothee Sturz"
+    },
+    {
+      "rolle" : "Tiffany",
+      "sprecher" : "Maureen Havlena"
+    },
+    {
+      "rolle" : "Salma Hutchinson",
+      "sprecher" : "Tina Eschmann"
+    },
+    {
+      "rolle" : "Trevor Pomery",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Beatrice",
+      "sprecher" : "Ursula Sieg"
+    },
+    {
+      "rolle" : "Claire",
+      "sprecher" : "Karin Eckhold"
+    },
+    {
+      "rolle" : "Pflegerin",
+      "sprecher" : "Susanne Wulkow"
+    },
+    {
+      "rolle" : "Roger Wolf",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Menge Fußballstadion",
+      "sprecher" : "Die Gäste der Record-Release-Party am 22.02.2015 in Dortmund. (Wir danken euch für's Mitmachen!)"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/176/metadata.json",

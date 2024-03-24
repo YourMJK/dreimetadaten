@@ -72,51 +72,51 @@
       "end" : 4113813
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Jupiter Jones",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Crenshaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "James Taylor",
-      "Wanja Mues"
-    ],
-    [
-      "Ray Wells",
-      "Dietrich Adam"
-    ],
-    [
-      "Frank Caspian",
-      "Christian Redl"
-    ],
-    [
-      "Jonathan Grant",
-      "Bernd Stephan"
-    ],
-    [
-      "Christy Grant",
-      "Anja Topf"
-    ],
-    [
-      "George Drummond",
-      "Eberhard Haar"
-    ],
-    [
-      "Tom Drummond",
-      "Patrick Bach"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Jupiter Jones",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Crenshaw",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "James Taylor",
+      "sprecher" : "Wanja Mues"
+    },
+    {
+      "rolle" : "Ray Wells",
+      "sprecher" : "Dietrich Adam"
+    },
+    {
+      "rolle" : "Frank Caspian",
+      "sprecher" : "Christian Redl"
+    },
+    {
+      "rolle" : "Jonathan Grant",
+      "sprecher" : "Bernd Stephan"
+    },
+    {
+      "rolle" : "Christy Grant",
+      "sprecher" : "Anja Topf"
+    },
+    {
+      "rolle" : "George Drummond",
+      "sprecher" : "Eberhard Haar"
+    },
+    {
+      "rolle" : "Tom Drummond",
+      "sprecher" : "Patrick Bach"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/3/metadata.json",

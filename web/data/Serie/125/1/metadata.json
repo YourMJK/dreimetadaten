@@ -65,55 +65,56 @@
       "end" : 4488347
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Brittany",
-      "Dorette Hugo"
-    ],
-    [
-      "Hugenay",
-      "Albert Giro"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Jaccard (Off-Stimme)",
-      "Douglas Welbat"
-    ],
-    [
-      "Andy Miller",
-      "Jannik Endemann"
-    ],
-    [
-      "Sharon Lockwood",
-      "Nova Meierhenrich"
-    ],
-    [
-      "Moderator",
-      "Holger Wemhoff"
-    ],
-    [
-      "Rubbish George",
-      "Utz Richter"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Brittany",
+      "sprecher" : "Dorette Hugo"
+    },
+    {
+      "rolle" : "Hugenay",
+      "sprecher" : "Wolfgang Kubach",
+      "pseudonym" : "Albert Giro"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Jaccard (Off-Stimme)",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Andy Miller",
+      "sprecher" : "Jannik Endemann"
+    },
+    {
+      "rolle" : "Sharon Lockwood",
+      "sprecher" : "Nova Meierhenrich"
+    },
+    {
+      "rolle" : "Moderator",
+      "sprecher" : "Holger Wemhoff"
+    },
+    {
+      "rolle" : "Rubbish George",
+      "sprecher" : "Utz Richter"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/125/1/metadata.json",

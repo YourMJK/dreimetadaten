@@ -72,79 +72,79 @@
       "end" : 3437227
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Carol Ford",
-      "Claudia Schermutzki"
-    ],
-    [
-      "Francis Studstill",
-      "Elena Wilms"
-    ],
-    [
-      "Baxter Norsworthy",
-      "Udo Schenk"
-    ],
-    [
-      "Gordon Hoke",
-      "Holger Löwenberg"
-    ],
-    [
-      "Jared Fox",
-      "Meik Spallek"
-    ],
-    [
-      "Candace Duskin",
-      "Andrea Linau"
-    ],
-    [
-      "George Bennet",
-      "Urs Affolter"
-    ],
-    [
-      "Greg Harper",
-      "Robert Missler"
-    ],
-    [
-      "Woodland",
-      "Jürgen Thormann"
-    ],
-    [
-      "Reporterin",
-      "Jamie Leaves"
-    ],
-    [
-      "Reporter",
-      "Glenn Goltz"
-    ],
-    [
-      "Wellford",
-      "Oliver Geilhardt"
-    ],
-    [
-      "Pilot",
-      "Achim Schülke"
-    ],
-    [
-      "Lautsprecherstimme",
-      "Sascha Draeger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Carol Ford",
+      "sprecher" : "Claudia Schermutzki"
+    },
+    {
+      "rolle" : "Francis Studstill",
+      "sprecher" : "Elena Wilms"
+    },
+    {
+      "rolle" : "Baxter Norsworthy",
+      "sprecher" : "Udo Schenk"
+    },
+    {
+      "rolle" : "Gordon Hoke",
+      "sprecher" : "Holger Löwenberg"
+    },
+    {
+      "rolle" : "Jared Fox",
+      "sprecher" : "Meik Spallek"
+    },
+    {
+      "rolle" : "Candace Duskin",
+      "sprecher" : "Andrea Lienau"
+    },
+    {
+      "rolle" : "George Bennet",
+      "sprecher" : "Urs Affolter"
+    },
+    {
+      "rolle" : "Greg Harper",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Woodland",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Reporterin",
+      "sprecher" : "Jamie Leaves"
+    },
+    {
+      "rolle" : "Reporter",
+      "sprecher" : "Glenn Goltz"
+    },
+    {
+      "rolle" : "Wellford",
+      "sprecher" : "Oliver Geilhardt"
+    },
+    {
+      "rolle" : "Pilot",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Lautsprecherstimme",
+      "sprecher" : "Sascha Draeger"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/142/metadata.json",

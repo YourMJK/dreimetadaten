@@ -57,63 +57,65 @@
       "end" : 4125760
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Lenni",
-      "Tim Kreuer"
-    ],
-    [
-      "John Greyfox",
-      "Douglas Welbat"
-    ],
-    [
-      "Clay Carson",
-      "Krystian Martinek"
-    ],
-    [
-      "Walter",
-      "Achim Schülke"
-    ],
-    [
-      "Freddy Hays",
-      "Woody Mues"
-    ],
-    [
-      "Trainer",
-      "Bruno F. Apitz"
-    ],
-    [
-      "Mann",
-      "Wolfram Winfried"
-    ],
-    [
-      "Junge",
-      "Francesco Nieheim"
-    ],
-    [
-      "Spieler",
-      "Carsten Kausse"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Lenni",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "John Greyfox",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Clay Carson",
+      "sprecher" : "Krystian Martinek"
+    },
+    {
+      "rolle" : "Walter",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Freddy Hays",
+      "sprecher" : "Bruno F. Apitz"
+    },
+    {
+      "rolle" : "Trainer",
+      "sprecher" : "Woody Mues"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Wolfram Damerius",
+      "pseudonym" : "Wolfram Winfried"
+    },
+    {
+      "rolle" : "Junge",
+      "sprecher" : "Frank Boldewin",
+      "pseudonym" : "Francesco Nieheim"
+    },
+    {
+      "rolle" : "Spieler",
+      "sprecher" : "Carsten Kausse"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/164/metadata.json",

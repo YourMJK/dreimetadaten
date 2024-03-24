@@ -47,63 +47,63 @@
       "end" : 3056533
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Kommissar Reynolds",
-      "Wolfgang Draeger"
-    ],
-    [
-      "Kelly",
-      "Juliane Szalay"
-    ],
-    [
-      "Trainer Tong",
-      "Michael Hark"
-    ],
-    [
-      "Trainer Duggan",
-      "Douglas Welbat"
-    ],
-    [
-      "Präsident Harper",
-      "Eric Vaessen"
-    ],
-    [
-      "Jerri",
-      "Samira Chanfir"
-    ],
-    [
-      "Nora",
-      "Ann Montenbruck"
-    ],
-    [
-      "Cory",
-      "Ben Tappé"
-    ],
-    [
-      "Norman",
-      "Henry König"
-    ],
-    [
-      "Powers",
-      "Hans Clarin"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Wolfgang Draeger"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Trainer Tong",
+      "sprecher" : "Michael Harck"
+    },
+    {
+      "rolle" : "Trainer Duggan",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Präsident Harper",
+      "sprecher" : "Eric Vaessen"
+    },
+    {
+      "rolle" : "Jerri",
+      "sprecher" : "Samira Chanfir"
+    },
+    {
+      "rolle" : "Nora",
+      "sprecher" : "Ann Montenbruck"
+    },
+    {
+      "rolle" : "Cory",
+      "sprecher" : "Ben Tappé"
+    },
+    {
+      "rolle" : "Norman",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Powers",
+      "sprecher" : "Hans Clarin"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/055/metadata.json",

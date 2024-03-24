@@ -47,71 +47,73 @@
       "end" : 2537893
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Bengt",
-      "Charles Regnier"
-    ],
-    [
-      "Britta",
-      "Ingeborg Kanstein"
-    ],
-    [
-      "Lars Holmqvist",
-      "Gernot Endemann"
-    ],
-    [
-      "Young",
-      "Horst Stark"
-    ],
-    [
-      "Forsborg",
-      "Richard Heelel [F.J. Steffens]"
-    ],
-    [
-      "Mann",
-      "Siegfried Wald"
-    ],
-    [
-      "Frau",
-      "Brigitte Alexis"
-    ],
-    [
-      "Köhler",
-      "Hans Meinhardt [Reiner Brönneke]"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Wärter",
-      "Joachim Wolff"
-    ],
-    [
-      "Kellner",
-      "Peter Kirchberger"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Bengt",
+      "sprecher" : "Charles Regnier"
+    },
+    {
+      "rolle" : "Britta",
+      "sprecher" : "Ingeburg Kanstein"
+    },
+    {
+      "rolle" : "Lars Holmqvist",
+      "sprecher" : "Gernot Endemann"
+    },
+    {
+      "rolle" : "Young",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Forsborg",
+      "sprecher" : "Franz-Josef Steffens",
+      "pseudonym" : "Richard Heelel"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Siegfried Wald"
+    },
+    {
+      "rolle" : "Frau",
+      "sprecher" : "Brigitte Alexis"
+    },
+    {
+      "rolle" : "Köhler",
+      "sprecher" : "Reiner Brönneke",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Wärter",
+      "sprecher" : "Joachim Wolff"
+    },
+    {
+      "rolle" : "Kellner",
+      "sprecher" : "Peter Kirchberger"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/024/metadata.json",

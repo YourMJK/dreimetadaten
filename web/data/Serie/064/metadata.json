@@ -47,63 +47,64 @@
       "end" : 3969547
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Morton, Chauffeur",
-      "Andreas von der Meden"
-    ],
-    [
-      "Inspektor Capistrano",
-      "Hans Sievers"
-    ],
-    [
-      "Sergeant Hawthrone",
-      "Jürgen Kopp"
-    ],
-    [
-      "Simon Oames",
-      "Peter Kirchberger"
-    ],
-    [
-      "Silvie Oames",
-      "Edith Hancke"
-    ],
-    [
-      "Michael Julius Oames",
-      "Günther Jerschke"
-    ],
-    [
-      "Mandy Taylor",
-      "Micaela Kreißler"
-    ],
-    [
-      "Deborah Street",
-      "Astrid Kollex"
-    ],
-    [
-      "Greenwater",
-      "Norman Messer"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Inspektor Capistrano",
+      "sprecher" : "Hans Sievers"
+    },
+    {
+      "rolle" : "Sergeant Hawthrone",
+      "sprecher" : "Jürgen Kopp"
+    },
+    {
+      "rolle" : "Simon Oames",
+      "sprecher" : "Peter Kirchberger"
+    },
+    {
+      "rolle" : "Silvie Oames",
+      "sprecher" : "Edith Hancke"
+    },
+    {
+      "rolle" : "Michael Julius Oames",
+      "sprecher" : "Günther Jerschke"
+    },
+    {
+      "rolle" : "Mandy Taylor",
+      "sprecher" : "Micaëla Kreißler"
+    },
+    {
+      "rolle" : "Deborah Street",
+      "sprecher" : "Astrid Kollex"
+    },
+    {
+      "rolle" : "Greenwater",
+      "sprecher" : "André Minninger",
+      "pseudonym" : "Norman Messer"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/064/metadata.json",

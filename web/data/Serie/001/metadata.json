@@ -47,55 +47,57 @@
       "end" : 3144160
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Fentriss, Schriftsteller",
-      "Richard Lauffen"
-    ],
-    [
-      "Mr. Claudius, Kunsthändler",
-      "Gerlach Fiedler"
-    ],
-    [
-      "Mrs. Claudius",
-      "Ingrid Andree"
-    ],
-    [
-      "Miss Waggoner",
-      "Katharina Brauren"
-    ],
-    [
-      "Carlos",
-      "Stefan Brönneke"
-    ],
-    [
-      "Onkel Ramos",
-      "Juan Perez [Karl-Ulrich Meves]"
-    ],
-    [
-      "Hugenay",
-      "Albert Giro [Wolfgang Kubach]"
-    ],
-    [
-      "Morton",
-      "Andreas von der Meden"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Fentriss, Schriftsteller",
+      "sprecher" : "Richard Lauffen"
+    },
+    {
+      "rolle" : "Mr. Claudius, Kunsthändler",
+      "sprecher" : "Gerlach Fiedler"
+    },
+    {
+      "rolle" : "Mrs. Claudius",
+      "sprecher" : "Ingrid Andree"
+    },
+    {
+      "rolle" : "Miss Waggoner",
+      "sprecher" : "Katharina Brauren"
+    },
+    {
+      "rolle" : "Carlos",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Onkel Ramos",
+      "sprecher" : "Karl-Ulrich Meves",
+      "pseudonym" : "Juan Perez"
+    },
+    {
+      "rolle" : "Hugenay",
+      "sprecher" : "Wolfgang Kubach",
+      "pseudonym" : "Albert Giro"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/001/metadata.json",

@@ -57,59 +57,59 @@
       "end" : 4225213
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Rupert",
-      "Udo Schenk"
-    ],
-    [
-      "Luke",
-      "Daniel Kirchberger"
-    ],
-    [
-      "Gwendolyn Pembroke",
-      "Aranka Mamero"
-    ],
-    [
-      "Lance Vaughn",
-      "Rainer Schmitt"
-    ],
-    [
-      "'The Destroyer'",
-      "Stephan Schad"
-    ],
-    [
-      "Darby Farnham",
-      "Christine Jensen"
-    ],
-    [
-      "Earl Forrester",
-      "Tobias Schmidt"
-    ],
-    [
-      "Alvin Cray",
-      "Michael Bideller"
-    ],
-    [
-      "Mr. Lloyd",
-      "Lutz Mackensy"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Rupert",
+      "sprecher" : "Udo Schenk"
+    },
+    {
+      "rolle" : "Luke",
+      "sprecher" : "Daniel Kirchberger"
+    },
+    {
+      "rolle" : "Gwendolyn Pembroke",
+      "sprecher" : "Aranka Jaenke-Mamero"
+    },
+    {
+      "rolle" : "Lance Vaughn",
+      "sprecher" : "Rainer Schmitt"
+    },
+    {
+      "rolle" : "'The Destroyer'",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Darby Farnham",
+      "sprecher" : "Christine Jensen"
+    },
+    {
+      "rolle" : "Earl Forrester",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Alvin Cray",
+      "sprecher" : "Michael Bideller"
+    },
+    {
+      "rolle" : "Mr. Lloyd",
+      "sprecher" : "Lutz Mackensy"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/173/metadata.json",

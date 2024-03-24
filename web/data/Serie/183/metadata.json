@@ -47,83 +47,83 @@
       "end" : 4566333
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Lenny The Rock",
-      "Peter Kirchberger"
-    ],
-    [
-      "Sue Tamara",
-      "Maria Hartmann"
-    ],
-    [
-      "Sax Sandler",
-      "Christian Concilio"
-    ],
-    [
-      "Tim Durnell",
-      "Douglas Welbat"
-    ],
-    [
-      "Ron",
-      "Gosta Liptow"
-    ],
-    [
-      "Keith",
-      "Tobias Schmidt"
-    ],
-    [
-      "Debbie Peterson",
-      "Maud Ackermann"
-    ],
-    [
-      "Frank Wheeler",
-      "Timo Wenzel"
-    ],
-    [
-      "Joe",
-      "Stefan Brönneke"
-    ],
-    [
-      "Clayton",
-      "Gordon Piedesack"
-    ],
-    [
-      "Kellnerin",
-      "Simona Pahl"
-    ],
-    [
-      "Partygäste",
-      "Die Gäste der Record-Release-Party am 8. Mai 2016 in Hasselburg. (Wir danken euch für's Mitmachen!)"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Lenny The Rock",
+      "sprecher" : "Peter Kirchberger"
+    },
+    {
+      "rolle" : "Sue Tamara",
+      "sprecher" : "Maria Hartmann"
+    },
+    {
+      "rolle" : "Sax Sandler",
+      "sprecher" : "Christian Concilio"
+    },
+    {
+      "rolle" : "Tim Durnell",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Ron",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Keith",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Debbie Peterson",
+      "sprecher" : "Maud Ackermann"
+    },
+    {
+      "rolle" : "Frank Wheeler",
+      "sprecher" : "Timo Alexander Wenzel"
+    },
+    {
+      "rolle" : "Joe",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Clayton",
+      "sprecher" : "Gordon Piedesack"
+    },
+    {
+      "rolle" : "Kellnerin",
+      "sprecher" : "Simona Pahl"
+    },
+    {
+      "rolle" : "Partygäste",
+      "sprecher" : "Die Gäste der Record-Release-Party am 08.05.2016 in Hasselburg. (Wir danken euch für's Mitmachen!)"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/183/metadata.json",

@@ -37,51 +37,51 @@
       "end" : 3762867
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Mason Huntington",
-      "Wolfgang Häntsch"
-    ],
-    [
-      "Mrs. Brankle",
-      "Mignon Remé"
-    ],
-    [
-      "Xeni",
-      "Lina Maria Millat"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mrs. Seymore-Wrightson",
-      "Rosemarie Wohlbauer"
-    ],
-    [
-      "Franklyn Seymore",
-      "Achim Schülke"
-    ],
-    [
-      "Liane Shore",
-      "Sadra Keck"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Mason Huntington",
+      "sprecher" : "Wolfgang Häntsch"
+    },
+    {
+      "rolle" : "Mrs. Brankle",
+      "sprecher" : "Mignon Remé"
+    },
+    {
+      "rolle" : "Xeni",
+      "sprecher" : "Lina Maria Millat"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mrs. Seymore-Wrightson",
+      "sprecher" : "Rosemarie Wohlbauer"
+    },
+    {
+      "rolle" : "Franklyn Seymore",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Liane Shore",
+      "sprecher" : "Sandra Keck"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/206/metadata.json",

@@ -47,59 +47,59 @@
       "end" : 4728400
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Patricia Osborne",
-      "Barbara Focke"
-    ],
-    [
-      "Osiris",
-      "Wolfgang Kaven"
-    ],
-    [
-      "Sunshine",
-      "Dagmar Dreke"
-    ],
-    [
-      "Vandaan",
-      "Andreas Birnbaum"
-    ],
-    [
-      "Frank Corman /Mr Giggles",
-      "Lutz Mackensy"
-    ],
-    [
-      "Trixie Stiles",
-      "Anne Moll"
-    ],
-    [
-      "Bryan Bonfanti",
-      "Frank Roder"
-    ],
-    [
-      "Miller",
-      "Birte Kretschmer"
-    ],
-    [
-      "Henson",
-      "Constantin Stahlberg"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Patricia Osborne",
+      "sprecher" : "Barbara Focke"
+    },
+    {
+      "rolle" : "Osiris",
+      "sprecher" : "Wolfgang Kaven"
+    },
+    {
+      "rolle" : "Sunshine",
+      "sprecher" : "Dagmar Dreke"
+    },
+    {
+      "rolle" : "Vandaan",
+      "sprecher" : "Andreas Birnbaum"
+    },
+    {
+      "rolle" : "Frank Corman / Mr Giggles",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Trixie Stiles",
+      "sprecher" : "Anne Moll"
+    },
+    {
+      "rolle" : "Bryan Bonfanti",
+      "sprecher" : "Frank Roder"
+    },
+    {
+      "rolle" : "Miller",
+      "sprecher" : "Birte Kretschmer"
+    },
+    {
+      "rolle" : "Henson",
+      "sprecher" : "Constantin Stahlberg"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/196/metadata.json",

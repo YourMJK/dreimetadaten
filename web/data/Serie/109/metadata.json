@@ -47,59 +47,59 @@
       "end" : 4027533
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Nick Nobel",
-      "Ilja Richter"
-    ],
-    [
-      "Sandy",
-      "Micaela Kreissler"
-    ],
-    [
-      "Bill",
-      "Achim Schülke"
-    ],
-    [
-      "Mike Pherson",
-      "Wolf-Dietrich Berg"
-    ],
-    [
-      "Assistent",
-      "Martin Meyer"
-    ],
-    [
-      "Clarissa",
-      "Theresa Underberg"
-    ],
-    [
-      "Veronica",
-      "Saskia Weckler"
-    ],
-    [
-      "Joe",
-      "Jan-David Rönfeldt"
-    ],
-    [
-      "Sekretärin",
-      "Traudel Sperber"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Nick Nobel",
+      "sprecher" : "Ilja Richter"
+    },
+    {
+      "rolle" : "Sandy",
+      "sprecher" : "Micaëla Kreißler"
+    },
+    {
+      "rolle" : "Bill",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mike Pherson",
+      "sprecher" : "Wolf-Dietrich Berg"
+    },
+    {
+      "rolle" : "Assistent",
+      "sprecher" : "Martin Meyer"
+    },
+    {
+      "rolle" : "Clarissa",
+      "sprecher" : "Theresa Underberg"
+    },
+    {
+      "rolle" : "Veronica",
+      "sprecher" : "Saskia Weckler"
+    },
+    {
+      "rolle" : "Joe",
+      "sprecher" : "Jan-David Rönfeldt"
+    },
+    {
+      "rolle" : "Sekretärin",
+      "sprecher" : "Traudel Sperber"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/109/metadata.json",

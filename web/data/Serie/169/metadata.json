@@ -57,71 +57,72 @@
       "end" : 4910587
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Bradley",
-      "Nico König"
-    ],
-    [
-      "Bishop Blake",
-      "Wolf Frass"
-    ],
-    [
-      "Junge Frau",
-      "Heikedine Körting"
-    ],
-    [
-      "Derek",
-      "Tim Helssen"
-    ],
-    [
-      "Mrs. Kretschmer",
-      "Monika Werner"
-    ],
-    [
-      "Chastity",
-      "Undine Ullmer"
-    ],
-    [
-      "Charity",
-      "Kassandra Ullmer"
-    ],
-    [
-      "Sam Chiccarelli",
-      "Astrid Kollex"
-    ],
-    [
-      "Griffin Silverman",
-      "Stephan Schad"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Bradley",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Bishop Blake",
+      "sprecher" : "Wolf Frass"
+    },
+    {
+      "rolle" : "Junge Frau",
+      "sprecher" : "Heikedine Körting"
+    },
+    {
+      "rolle" : "Derek",
+      "sprecher" : "Tim Helssen"
+    },
+    {
+      "rolle" : "Mrs. Kretschmer",
+      "sprecher" : "Monika Werner"
+    },
+    {
+      "rolle" : "Chastity",
+      "sprecher" : "Undine Ullmer"
+    },
+    {
+      "rolle" : "Charity",
+      "sprecher" : "Kassandra Ullmer"
+    },
+    {
+      "rolle" : "Sam Chiccarelli",
+      "sprecher" : "Astrid Kollex"
+    },
+    {
+      "rolle" : "Griffin Silverman",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/169/metadata.json",

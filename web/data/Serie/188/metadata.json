@@ -57,71 +57,71 @@
       "end" : 4807547
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Clarissa Franklin",
-      "Judy Winter"
-    ],
-    [
-      "Laura Stryker",
-      "Regina Lemnitz"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Onkel Titus",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Anruferin",
-      "Topsy Küppers"
-    ],
-    [
-      "Anrufer",
-      "Oliver Kalkofe"
-    ],
-    [
-      "Regisseur",
-      "Nikolas Tantsoukes"
-    ],
-    [
-      "Stephen",
-      "Timo Hempel"
-    ],
-    [
-      "Redakteurin",
-      "Reinhilt Schneider"
-    ],
-    [
-      "Godween",
-      "André Minninger"
-    ],
-    [
-      "Sax Sandler",
-      "Christian Concilio"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Clarissa Franklin",
+      "sprecher" : "Judy Winter"
+    },
+    {
+      "rolle" : "Laura Stryker",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Anruferin",
+      "sprecher" : "Topsy Küppers"
+    },
+    {
+      "rolle" : "Anrufer",
+      "sprecher" : "Oliver Kalkofe"
+    },
+    {
+      "rolle" : "Regisseur",
+      "sprecher" : "Nikolas Tantsoukes"
+    },
+    {
+      "rolle" : "Stephen",
+      "sprecher" : "Timo Hempel"
+    },
+    {
+      "rolle" : "Redakteurin",
+      "sprecher" : "Reinhilt Schneider"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Sax Sandler",
+      "sprecher" : "Christian Concilio"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/188/metadata.json",

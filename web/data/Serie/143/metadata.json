@@ -62,55 +62,55 @@
       "end" : 3621920
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Richie Hanson",
-      "Dennis Schmidt-Foß"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Goodween",
-      "André Minninger"
-    ],
-    [
-      "Benni",
-      "Ivo Möller"
-    ],
-    [
-      "Jacki Jin",
-      "Robert Missler"
-    ],
-    [
-      "Kellnerin",
-      "Corinna Wodrich"
-    ],
-    [
-      "Croupier",
-      "Dirk Bach"
-    ],
-    [
-      "Mann",
-      "Arndt Schmöle"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Richie Hanson",
+      "sprecher" : "Dennis Schmidt-Foß"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Benni",
+      "sprecher" : "Ivo Möller"
+    },
+    {
+      "rolle" : "Jacki Jin",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Kellnerin",
+      "sprecher" : "Corinna Wodrich"
+    },
+    {
+      "rolle" : "Croupier",
+      "sprecher" : "Dirk Bach"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Arndt Schmöle"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/143/metadata.json",

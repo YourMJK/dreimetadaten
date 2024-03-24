@@ -66,99 +66,99 @@
       "end" : 3648933
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Mr. Andrews",
-      "Henry König"
-    ],
-    [
-      "Jeremy Bright",
-      "Stephan Schad"
-    ],
-    [
-      "Taylor-Jackson",
-      "Jona Mues"
-    ],
-    [
-      "Francine Breckenridge",
-      "Elga Schütz"
-    ],
-    [
-      "A.C. Berany",
-      "Hanni Vanhaiden"
-    ],
-    [
-      "Samantha",
-      "Henrike Fehrs"
-    ],
-    [
-      "Corvy",
-      "Karen Suender"
-    ],
-    [
-      "Lemuel Garvine",
-      "Tim Grobe"
-    ],
-    [
-      "Prof. Roalstad",
-      "Jürgen Thormann"
-    ],
-    [
-      "Chris",
-      "Soi Anifantis"
-    ],
-    [
-      "Gamma",
-      "Wolfram Grandezka"
-    ],
-    [
-      "Barfrau",
-      "Rhesi Underberg"
-    ],
-    [
-      "John",
-      "Stephan Benson"
-    ],
-    [
-      "Walker",
-      "Rüdiger Schulzki"
-    ],
-    [
-      "Lederhose",
-      "Klaus Krückemeyer"
-    ],
-    [
-      "1. Polizist",
-      "Tim Kreuer"
-    ],
-    [
-      "2. Polizist",
-      "Jesse Grimm"
-    ],
-    [
-      "Telefonstimme",
-      "Wolfgang Völz"
-    ],
-    [
-      "Menge",
-      "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Jeremy Bright",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Taylor-Jackson",
+      "sprecher" : "Jona Mues"
+    },
+    {
+      "rolle" : "Francine Breckenridge",
+      "sprecher" : "Elga Schütz"
+    },
+    {
+      "rolle" : "A.C. Berany",
+      "sprecher" : "Hanni Vanhaiden"
+    },
+    {
+      "rolle" : "Samantha",
+      "sprecher" : "Henrike Fehrs"
+    },
+    {
+      "rolle" : "Corvy",
+      "sprecher" : "Karen Suender"
+    },
+    {
+      "rolle" : "Lemuel Garvine",
+      "sprecher" : "Tim Grobe"
+    },
+    {
+      "rolle" : "Prof. Roalstad",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Chris",
+      "sprecher" : "Soi Anifantis"
+    },
+    {
+      "rolle" : "Gamma",
+      "sprecher" : "Wolfram Grandezka"
+    },
+    {
+      "rolle" : "Barfrau",
+      "sprecher" : "Theresa Underberg"
+    },
+    {
+      "rolle" : "John",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Walker",
+      "sprecher" : "Rüdiger Schulzki"
+    },
+    {
+      "rolle" : "Lederhose",
+      "sprecher" : "Klaus Krückemeyer"
+    },
+    {
+      "rolle" : "Polizist 1",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Polizist 2",
+      "sprecher" : "Jesse Grimm"
+    },
+    {
+      "rolle" : "Telefonstimme",
+      "sprecher" : "Wolfgang Völz"
+    },
+    {
+      "rolle" : "Menge",
+      "sprecher" : "Die Gäste der Record-Release-Party am 14.01.2015 in Berlin. (Wir danken euch für's Mitmachen!)"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/175/1/metadata.json",

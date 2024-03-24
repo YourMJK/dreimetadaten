@@ -10,51 +10,51 @@
               "autor" : "Kari Erlhoff",
               "beschreibung" : "Mr. Vancura ist Schauspieler und sammelt alles, was mit dem Orient zu tun hat. Sein ganzer Stolz ist eine Wunderlampe, in der ein richtiger Dschinn lebt. Aber der Dschinn ist verschwunden …",
               "veröffentlichungsdatum" : "2011-12-02",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Mr. Vancura",
-                  "Lutz Herkenrath"
-                ],
-                [
-                  "Mrs. Fox",
-                  "Susan Jarling"
-                ],
-                [
-                  "Inspektor Cotta",
-                  "Holger Mahlich"
-                ],
-                [
-                  "Mr. Shaw",
-                  "Rasmus Borowski"
-                ],
-                [
-                  "Shannon",
-                  "Kerstin Draeger"
-                ],
-                [
-                  "Mr. Mosley",
-                  "Neil Malik Abdullah"
-                ],
-                [
-                  "Mann",
-                  "Thor W. Müller"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Mr. Vancura",
+                  "sprecher" : "Lutz Herkenrath"
+                },
+                {
+                  "rolle" : "Mrs. Fox",
+                  "sprecher" : "Susan Jarling"
+                },
+                {
+                  "rolle" : "Inspektor Cotta",
+                  "sprecher" : "Holger Mahlich"
+                },
+                {
+                  "rolle" : "Mr. Shaw",
+                  "sprecher" : "Rasmus Borowski"
+                },
+                {
+                  "rolle" : "Shannon",
+                  "sprecher" : "Kerstin Draeger"
+                },
+                {
+                  "rolle" : "Mr. Mosley",
+                  "sprecher" : "Neil Malik Abdullah"
+                },
+                {
+                  "rolle" : "Mann",
+                  "sprecher" : "Thor W. Müller"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/1/metadata.json",
@@ -67,27 +67,27 @@
               "autor" : "Marco Sonnleitner",
               "beschreibung" : "Das neuste Hobby von Justus Jonas ist die Ahnenforschung.\nUnd dabei macht er eines Tages eine unglaubliche Entdeckung …",
               "veröffentlichungsdatum" : "2011-12-04",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Cowboy",
-                  "Achim Schülke"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Cowboy",
+                  "sprecher" : "Achim Schülke"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/2/metadata.json",
@@ -100,35 +100,35 @@
               "autor" : "Marco Sonnleitner",
               "beschreibung" : "Peter erhält eine E-Mail: Kelly ist entführt worden! Den drei ??? bleibt weniger als eine Stunde Zeit, sie zu finden und zu befreien …",
               "veröffentlichungsdatum" : "2011-12-06",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Patricia",
-                  "Rhea Harder"
-                ],
-                [
-                  "Peter Shawn",
-                  "Leonhard Mahlich"
-                ],
-                [
-                  "Mann",
-                  "Helgo Liebig"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Patricia",
+                  "sprecher" : "Rhea Harder-Vennewald"
+                },
+                {
+                  "rolle" : "Peter Shawn",
+                  "sprecher" : "Leonhard Mahlich"
+                },
+                {
+                  "rolle" : "Mann",
+                  "sprecher" : "Helgo Liebig"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/3/metadata.json",
@@ -141,11 +141,11 @@
               "autor" : "Hendrik Buchna",
               "beschreibung" : "Auf dem Autorasthof \"Eagle Ranch\" geschehen merkwürdige Dinge und die drei ??? erhalten den Auftrag, herauszufinden, was es damit auf sich hat …",
               "veröffentlichungsdatum" : "2011-12-08",
-              "sprecher" : [
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/4/metadata.json",
@@ -190,39 +190,39 @@
               "autor" : "Marco Sonnleitner",
               "beschreibung" : "Als die drei ??? vom Strand kommen und auf dem Weg nach Hause sind, sehen sie ein SOS-Signal, das aus einem Haus gesendet wird. Eigentlich steht das Haus leer …",
               "veröffentlichungsdatum" : "2011-12-10",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Marty",
-                  "Philipp Draeger"
-                ],
-                [
-                  "Fred",
-                  "Guido Bernadotte"
-                ],
-                [
-                  "1. Mann",
-                  "Rasmus Rakete"
-                ],
-                [
-                  "2. Mann",
-                  "Patrick Perales"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Marty",
+                  "sprecher" : "Philipp Draeger"
+                },
+                {
+                  "rolle" : "Fred",
+                  "sprecher" : "Guido Bernadotte"
+                },
+                {
+                  "rolle" : "Mann 1",
+                  "sprecher" : "Rasmus Rakete"
+                },
+                {
+                  "rolle" : "Mann 2",
+                  "sprecher" : "Patrick Perales"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/5/metadata.json",
@@ -235,11 +235,11 @@
               "autor" : "Hendrik Buchna",
               "beschreibung" : "Auf dem Weg nach Hause wird Peter plötzlich von einem unheimlichen, grauen Dämon verfolgt. Ihm bleibt nur noch ein Ausweg: Die Flucht …",
               "veröffentlichungsdatum" : "2011-12-12",
-              "sprecher" : [
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/6/metadata.json",
@@ -252,27 +252,27 @@
               "autor" : "Kari Erlhoff",
               "beschreibung" : "Peters ehemalige Klavierlehrerin, Mrs. Floyd, engagiert die drei ???, um herauszufinden, wo ihre verstorbene Mutter ihr Erbe versteckt haben könnte …",
               "veröffentlichungsdatum" : "2011-12-14",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Mrs. Floyd",
-                  "Gabriele Libbach"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Mrs. Floyd",
+                  "sprecher" : "Gabriele Libbach"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/7/metadata.json",
@@ -285,31 +285,31 @@
               "autor" : "Hendrik Buchna",
               "beschreibung" : "Die drei ??? erhalten den Auftrag, bei der Übergabe einer schwarzen Nadel dabei zu sein. Aber geht es dabei wirklich nur um das Schmuckstück?",
               "veröffentlichungsdatum" : "2011-12-16",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Tante Mathilda Jonas",
-                  "Karin Lieneweg"
-                ],
-                [
-                  "Vincent Grimes",
-                  "Konstantin Graudus"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Tante Mathilda",
+                  "sprecher" : "Karin Lieneweg"
+                },
+                {
+                  "rolle" : "Vincent Grimes",
+                  "sprecher" : "Konstantin Graudus"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/8/metadata.json",
@@ -354,43 +354,44 @@
               "autor" : "Kari Erlhoff",
               "beschreibung" : "Blacky, der Papagei der drei ???, benimmt sich seit ein paar Tagen höchst sonderbar.\nWas ist der Grund für die merkwürdigen Sprüche, die der Vogel plötzlich zitiert …",
               "veröffentlichungsdatum" : "2011-12-18",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Tante Mathilda Jonas",
-                  "Karin Lieneweg"
-                ],
-                [
-                  "Blacky/Mynah",
-                  "Heikedine Körting"
-                ],
-                [
-                  "Juliet",
-                  "Anne Moll"
-                ],
-                [
-                  "Scott",
-                  "Tommaso Cacciapuoti"
-                ],
-                [
-                  "John",
-                  "Martin Sichel"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Tante Mathilda",
+                  "sprecher" : "Karin Lieneweg"
+                },
+                {
+                  "rolle" : "Blacky",
+                  "sprecher" : "Heikedine Körting"
+                },
+                {
+                  "rolle" : "Juliet",
+                  "sprecher" : "Anne Moll"
+                },
+                {
+                  "rolle" : "Scott",
+                  "sprecher" : "Tommaso Cacciapuoti"
+                },
+                {
+                  "rolle" : "John",
+                  "sprecher" : "Sascha Draeger",
+                  "pseudonym" : "Martin Sichel"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/9/metadata.json",
@@ -403,11 +404,11 @@
               "autor" : "Marco Sonnleitner",
               "beschreibung" : "Die drei ??? sollen von der Stadt Rocky Beach für ihr Lebenswerk geehrt werden. Und prompt sitzen sie gleich wieder mitten in einem neuen Fall …",
               "veröffentlichungsdatum" : "2011-12-20",
-              "sprecher" : [
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/10/metadata.json",
@@ -420,35 +421,35 @@
               "autor" : "Kari Erlhoff",
               "beschreibung" : "Kellys Tante wird erpresst und die drei ??? sollen bei der Übergabe des Geldes behilflich sein. Aber in dem Motel, in dem Peter und Kelly absteigen, passieren merkwürdige Dinge …",
               "veröffentlichungsdatum" : "2011-12-22",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Kelly",
-                  "Juliane Szalay"
-                ],
-                [
-                  "Norman",
-                  "Eckart Dux"
-                ],
-                [
-                  "Frau",
-                  "Anja Topf"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Kelly",
+                  "sprecher" : "Juliane Szalay"
+                },
+                {
+                  "rolle" : "Norman",
+                  "sprecher" : "Eckart Dux"
+                },
+                {
+                  "rolle" : "Frau",
+                  "sprecher" : "Anja Topf"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/11/metadata.json",
@@ -461,43 +462,43 @@
               "autor" : "Hendrik Buchna",
               "beschreibung" : "Rocky Beach versinkt im Schnee. Und zu allem Überfluss treibt gerade jetzt, wo die Polizei mehr oder weniger handlungsunfähig ist, ein krimineller Weihnachtsmann in der Stadt sein Unwesen …",
               "veröffentlichungsdatum" : "2011-12-24",
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Inspektor Cotta",
-                  "Holger Mahlich"
-                ],
-                [
-                  "Mr. Darrow",
-                  "Joachim Kappl"
-                ],
-                [
-                  "1. Mann",
-                  "Patrick Bach"
-                ],
-                [
-                  "2. Mann",
-                  "Frank Meyer-Brockmann"
-                ],
-                [
-                  "3. Mann",
-                  "Roy Martens"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Inspektor Cotta",
+                  "sprecher" : "Holger Mahlich"
+                },
+                {
+                  "rolle" : "Mr. Darrow",
+                  "sprecher" : "Joachim Kappl"
+                },
+                {
+                  "rolle" : "Mann 1",
+                  "sprecher" : "Patrick Bach"
+                },
+                {
+                  "rolle" : "Mann 2",
+                  "sprecher" : "Frank Meyer-Brockmann"
+                },
+                {
+                  "rolle" : "Mann 3",
+                  "sprecher" : "Roy Martens"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/12/metadata.json",
@@ -570,51 +571,52 @@
                   "end" : 1596747
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Emily White",
-                  "Sabine Hahn"
-                ],
-                [
-                  "Judy Fradkin",
-                  "Ursula Heyer"
-                ],
-                [
-                  "Aladin",
-                  "Heidi Schaffrath"
-                ],
-                [
-                  "Aschenputtel",
-                  "Regina Lemnitz"
-                ],
-                [
-                  "Prinzessin",
-                  "Renate Pichler"
-                ],
-                [
-                  "Rotkäppchen",
-                  "Angela Stresemann"
-                ],
-                [
-                  "Meerjungfrau",
-                  "Pamela Punti"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Emily White",
+                  "sprecher" : "Sabine Hahn"
+                },
+                {
+                  "rolle" : "Judy Fradkin",
+                  "sprecher" : "Ursula Heyer"
+                },
+                {
+                  "rolle" : "Aladin",
+                  "sprecher" : "Heidi Schaffrath"
+                },
+                {
+                  "rolle" : "Aschenputtel",
+                  "sprecher" : "Regina Lemnitz"
+                },
+                {
+                  "rolle" : "Prinzessin",
+                  "sprecher" : "Renate Pichler"
+                },
+                {
+                  "rolle" : "Rotkäppchen",
+                  "sprecher" : "Angela Stresemann"
+                },
+                {
+                  "rolle" : "Meerjungfrau",
+                  "sprecher" : "Heikedine Körting",
+                  "pseudonym" : "Pamela Punti"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/metadata.json",
@@ -643,43 +645,43 @@
                   "end" : 1477173
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Mr. Andrews",
-                  "Henry König"
-                ],
-                [
-                  "Mrs. Andrews",
-                  "Konstanze Ullmer"
-                ],
-                [
-                  "Arzt",
-                  "Erik Schäffler"
-                ],
-                [
-                  "Mrs. Wallace",
-                  "Angela Stresemann"
-                ],
-                [
-                  "Bobby",
-                  "Merete Brettschneider"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Mr. Andrews",
+                  "sprecher" : "Henry König"
+                },
+                {
+                  "rolle" : "Mrs. Andrews",
+                  "sprecher" : "Konstanze Ullmer"
+                },
+                {
+                  "rolle" : "Arzt",
+                  "sprecher" : "Erik Schäffler"
+                },
+                {
+                  "rolle" : "Mrs. Wallace",
+                  "sprecher" : "Angela Stresemann"
+                },
+                {
+                  "rolle" : "Bobby",
+                  "sprecher" : "Merete Brettschneider"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/metadata.json",
@@ -749,31 +751,32 @@
                   "end" : 1574187
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Tante Mathilda Jonas",
-                  "Karin Lieneweg"
-                ],
-                [
-                  "Onkel Titus Jonas",
-                  "Hans Meinhardt"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Tante Mathilda",
+                  "sprecher" : "Karin Lieneweg"
+                },
+                {
+                  "rolle" : "Onkel Titus",
+                  "sprecher" : "Andreas E. Beurmann",
+                  "pseudonym" : "Hans Meinhardt"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/metadata.json",
@@ -802,47 +805,47 @@
                   "end" : 1174080
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Croupier",
-                  "Gosta Liptow"
-                ],
-                [
-                  "Carl Hopkins, Physiker",
-                  "Ben Hecker"
-                ],
-                [
-                  "Miller, Schiffsdetektiv",
-                  "Michael Grimm"
-                ],
-                [
-                  "Kapitän Sherwood",
-                  "Horst Naumann"
-                ],
-                [
-                  "Theodore Quaid",
-                  "Dietrich Adam"
-                ],
-                [
-                  "Jamie Peterson, Barmann",
-                  "Patrick Bach"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Croupier",
+                  "sprecher" : "Gosta Liptow"
+                },
+                {
+                  "rolle" : "Carl Hopkins, Physiker",
+                  "sprecher" : "Ben Hecker"
+                },
+                {
+                  "rolle" : "Miller, Schiffsdetektiv",
+                  "sprecher" : "Michael Grimm"
+                },
+                {
+                  "rolle" : "Kapitän Sherwood",
+                  "sprecher" : "Horst Naumann"
+                },
+                {
+                  "rolle" : "Theodore Quaid",
+                  "sprecher" : "Dietrich Adam"
+                },
+                {
+                  "rolle" : "Jamie Peterson, Barmann",
+                  "sprecher" : "Patrick Bach"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/4/metadata.json",
@@ -912,43 +915,45 @@
                   "end" : 1389800
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Onkel Titus Jonas",
-                  "Hans Meinhardt"
-                ],
-                [
-                  "Tante Mathilda Jonas",
-                  "Karin Lieneweg"
-                ],
-                [
-                  "Handerson",
-                  "Wolfgang Rositzka"
-                ],
-                [
-                  "Diego",
-                  "Stefan Benson"
-                ],
-                [
-                  "Mercedes",
-                  "Wanda Osten"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Onkel Titus",
+                  "sprecher" : "Andreas E. Beurmann",
+                  "pseudonym" : "Hans Meinhardt"
+                },
+                {
+                  "rolle" : "Tante Mathilda",
+                  "sprecher" : "Karin Lieneweg"
+                },
+                {
+                  "rolle" : "Handerson",
+                  "sprecher" : "Wolfgang Rositzka"
+                },
+                {
+                  "rolle" : "Diego",
+                  "sprecher" : "Stephan Benson"
+                },
+                {
+                  "rolle" : "Mercedes",
+                  "sprecher" : "Hella von der Osten-Sacken",
+                  "pseudonym" : "Wanda Osten"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/metadata.json",
@@ -977,39 +982,40 @@
                   "end" : 1409027
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Nayeli",
-                  "Stefan Brönneke"
-                ],
-                [
-                  "Barker",
-                  "Ben Hecker"
-                ],
-                [
-                  "Onkel Titus Jonas",
-                  "Hans Meinhardt"
-                ],
-                [
-                  "Off-Sprecherin",
-                  "Claudia Stocksieker"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Nayeli",
+                  "sprecher" : "Stefan Brönneke"
+                },
+                {
+                  "rolle" : "Barker",
+                  "sprecher" : "Ben Hecker"
+                },
+                {
+                  "rolle" : "Onkel Titus",
+                  "sprecher" : "Andreas E. Beurmann",
+                  "pseudonym" : "Hans Meinhardt"
+                },
+                {
+                  "rolle" : "Off-Sprecherin",
+                  "sprecher" : "Claudia Stocksieker"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/6/metadata.json",
@@ -1038,35 +1044,36 @@
                   "end" : 1099640
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Tante Mathilda Jonas",
-                  "Karin Lieneweg"
-                ],
-                [
-                  "Onkel Titus Jonas",
-                  "Hans Meinhardt"
-                ],
-                [
-                  "Ian Carew",
-                  "Sascha Draeger"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Tante Mathilda",
+                  "sprecher" : "Karin Lieneweg"
+                },
+                {
+                  "rolle" : "Onkel Titus",
+                  "sprecher" : "Andreas E. Beurmann",
+                  "pseudonym" : "Hans Meinhardt"
+                },
+                {
+                  "rolle" : "Ian Carew",
+                  "sprecher" : "Sascha Draeger"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/7/metadata.json",
@@ -1163,31 +1170,31 @@
                   "end" : 950800
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Hüne",
-                  "Johannes Semm"
-                ],
-                [
-                  "Marvin Gray",
-                  "Horst Stark"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Hüne",
+                  "sprecher" : "Johannes Semm"
+                },
+                {
+                  "rolle" : "Marvin Gray",
+                  "sprecher" : "Horst Stark"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/1/metadata.json",
@@ -1216,51 +1223,51 @@
                   "end" : 1198507
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Nancy McMonigal",
-                  "Gerlinde Dilge"
-                ],
-                [
-                  "Tom",
-                  "Wolfgang Rositzka"
-                ],
-                [
-                  "Rod",
-                  "Herbert Tennigkeit"
-                ],
-                [
-                  "Joe",
-                  "Oliver Reichmann"
-                ],
-                [
-                  "Ben",
-                  "Stephan Chrzescinski"
-                ],
-                [
-                  "Mariann",
-                  "Simone Ritscher"
-                ],
-                [
-                  "TV-Sprecher",
-                  "Holger Wemhoff"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Nancy McMonigal",
+                  "sprecher" : "Gerlinde Dillge"
+                },
+                {
+                  "rolle" : "Tom",
+                  "sprecher" : "Wolfgang Rositzka"
+                },
+                {
+                  "rolle" : "Rod",
+                  "sprecher" : "Herbert Tennigkeit"
+                },
+                {
+                  "rolle" : "Joe",
+                  "sprecher" : "Olaf Reichmann"
+                },
+                {
+                  "rolle" : "Ben",
+                  "sprecher" : "Stephan Chrzescinski"
+                },
+                {
+                  "rolle" : "Mariann",
+                  "sprecher" : "Simone Ritscher"
+                },
+                {
+                  "rolle" : "TV-Sprecher",
+                  "sprecher" : "Holger Wemhoff"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/2/metadata.json",
@@ -1284,31 +1291,31 @@
                   "end" : 1502960
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Malcolm Fever",
-                  "Tilo Schmitz"
-                ],
-                [
-                  "Lucy Hopkins",
-                  "Topsy Küppers"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Malcolm Fever",
+                  "sprecher" : "Tilo Schmitz"
+                },
+                {
+                  "rolle" : "Lucy Hopkins",
+                  "sprecher" : "Topsy Küppers"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/3/metadata.json",
@@ -1388,51 +1395,52 @@
                   "end" : 1748867
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Onkel Titus Jonas",
-                  "Hans Meinhardt"
-                ],
-                [
-                  "Tante Mathilda Jonas",
-                  "Karin Lieneweg"
-                ],
-                [
-                  "Professor Selby",
-                  "Claus Wilcke"
-                ],
-                [
-                  "Oberpriesterin",
-                  "Elga Schütz"
-                ],
-                [
-                  "Kevin",
-                  "Patrick Mölleken"
-                ],
-                [
-                  "Mann in Kutte",
-                  "Rüdiger Hellmann"
-                ],
-                [
-                  "Radio",
-                  "Wilhelm Wieben"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Onkel Titus",
+                  "sprecher" : "Andreas E. Beurmann",
+                  "pseudonym" : "Hans Meinhardt"
+                },
+                {
+                  "rolle" : "Tante Mathilda",
+                  "sprecher" : "Karin Lieneweg"
+                },
+                {
+                  "rolle" : "Professor Selby",
+                  "sprecher" : "Claus Wilcke"
+                },
+                {
+                  "rolle" : "Oberpriesterin",
+                  "sprecher" : "Elga Schütz"
+                },
+                {
+                  "rolle" : "Kevin",
+                  "sprecher" : "Patrick Mölleken"
+                },
+                {
+                  "rolle" : "Mann in Kutte",
+                  "sprecher" : "Rüdiger Hellmann"
+                },
+                {
+                  "rolle" : "Radio",
+                  "sprecher" : "Wilhelm Wieben"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/4/metadata.json",
@@ -1461,31 +1469,31 @@
                   "end" : 1136386
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Mr. Tilton",
-                  "Christian Senger"
-                ],
-                [
-                  "Mr. Walsh",
-                  "Christian Rudolf"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Mr. Tilton",
+                  "sprecher" : "Christian Senger"
+                },
+                {
+                  "rolle" : "Mr. Walsh",
+                  "sprecher" : "Christian Rudolf"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/5/metadata.json",
@@ -1519,51 +1527,51 @@
                   "end" : 1684120
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Thomas Fritsch"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Weise Frau",
-                  "Dorothea Hagena"
-                ],
-                [
-                  "Kelly",
-                  "Juliane Szalay-Pracht"
-                ],
-                [
-                  "Patrick",
-                  "Nicolas König"
-                ],
-                [
-                  "Samuel",
-                  "Johannes Semm"
-                ],
-                [
-                  "Kenneth",
-                  "Olaf Reichmann"
-                ],
-                [
-                  "Liz Zapata",
-                  "Merete Brettschneider"
-                ],
-                [
-                  "Skinny Norris",
-                  "Michael Harck"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Thomas Fritsch"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Weise Frau",
+                  "sprecher" : "Dorothea Hagena"
+                },
+                {
+                  "rolle" : "Kelly",
+                  "sprecher" : "Juliane Szalay"
+                },
+                {
+                  "rolle" : "Patrick",
+                  "sprecher" : "Nicolas König"
+                },
+                {
+                  "rolle" : "Samuel",
+                  "sprecher" : "Johannes Semm"
+                },
+                {
+                  "rolle" : "Kenneth",
+                  "sprecher" : "Olaf Reichmann"
+                },
+                {
+                  "rolle" : "Liz Zapata",
+                  "sprecher" : "Merete Brettschneider"
+                },
+                {
+                  "rolle" : "Skinny Norris",
+                  "sprecher" : "Michael Harck"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/6/metadata.json",
@@ -1665,19 +1673,19 @@
                   "end" : 2240920
                 }
               ],
-              "sprecher" : [
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/1/metadata.json",
@@ -1706,35 +1714,36 @@
                   "end" : 1855920
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Axel Milberg"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Helen",
-                  "Balancinha Blanc (Dorette Hugo)"
-                ],
-                [
-                  "Ellen",
-                  "Dorette Hugo"
-                ],
-                [
-                  "Vater",
-                  "Douglas Welbat"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Axel Milberg"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Helen",
+                  "sprecher" : "Dorette Hugo",
+                  "pseudonym" : "Balancinha Blanc"
+                },
+                {
+                  "rolle" : "Ellen",
+                  "sprecher" : "Dorette Hugo"
+                },
+                {
+                  "rolle" : "Vater",
+                  "sprecher" : "Douglas Welbat"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/2/metadata.json",
@@ -1804,43 +1813,47 @@
                   "end" : 1889653
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Axel Milberg"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Tante Mathilda Jonas",
-                  "Karin Lieneweg"
-                ],
-                [
-                  "Skinny Norris",
-                  "Michael Harck"
-                ],
-                [
-                  "Marc Kingstone",
-                  "Rainer Brandt"
-                ],
-                [
-                  "Aaron Kingstone",
-                  "Tommi Piper"
-                ],
-                [
-                  "Sarah",
-                  "Christiane Leuchtmann"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Axel Milberg"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Tante Mathilda",
+                  "sprecher" : "Karin Lieneweg"
+                },
+                {
+                  "rolle" : "Skinny Norris",
+                  "sprecher" : "Michael Harck"
+                },
+                {
+                  "rolle" : "Marc Kingstone",
+                  "sprecher" : "Rainer Brandt"
+                },
+                {
+                  "rolle" : "Aaron Kingstone",
+                  "sprecher" : "Tommi Piper"
+                },
+                {
+                  "rolle" : "Sarah",
+                  "sprecher" : "Christiane Leuchtmann"
+                },
+                {
+                  "rolle" : "Albert",
+                  "sprecher" : "Franzisko Löwe"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/metadata.json",
@@ -1869,59 +1882,59 @@
                   "end" : 1767387
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Axel Milberg"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Kelly Madigan",
-                  "Juliane Szalay"
-                ],
-                [
-                  "Mrs. McGee",
-                  "Alice Krimmel"
-                ],
-                [
-                  "Toby",
-                  "A. Stengelin"
-                ],
-                [
-                  "Mrs. Wells",
-                  "Heidi Schaffrath"
-                ],
-                [
-                  "Junge",
-                  "Linus Tauber"
-                ],
-                [
-                  "Mädchen",
-                  "Katinka Jaekel"
-                ],
-                [
-                  "Ericsson",
-                  "Detlev Tams"
-                ],
-                [
-                  "Sprecher/Moderator",
-                  "Oliver Böttcher"
-                ],
-                [
-                  "Tarek Shabana",
-                  "Werner Wilkening"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Axel Milberg"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Kelly Madigan",
+                  "sprecher" : "Juliane Szalay"
+                },
+                {
+                  "rolle" : "Mrs. McGee",
+                  "sprecher" : "Alice Krimmel"
+                },
+                {
+                  "rolle" : "Toby",
+                  "sprecher" : "A. Stengelin"
+                },
+                {
+                  "rolle" : "Mrs. Wells",
+                  "sprecher" : "Heidi Schaffrath"
+                },
+                {
+                  "rolle" : "Junge",
+                  "sprecher" : "Linus Tauber"
+                },
+                {
+                  "rolle" : "Mädchen",
+                  "sprecher" : "Katinka Jaekel"
+                },
+                {
+                  "rolle" : "Ericsson",
+                  "sprecher" : "Detlef Tams"
+                },
+                {
+                  "rolle" : "Sprecher/Moderator",
+                  "sprecher" : "Oliver Böttcher"
+                },
+                {
+                  "rolle" : "Tarek Shabana",
+                  "sprecher" : "Werner Wilkening"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/4/metadata.json",
@@ -1991,55 +2004,55 @@
                   "end" : 2256800
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Axel Milberg"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Tasha",
-                  "Victoria Zöller"
-                ],
-                [
-                  "Domino Laverna",
-                  "Sabine Hahn"
-                ],
-                [
-                  "Biff Rodgers, Reporter",
-                  "Daniel Schütter"
-                ],
-                [
-                  "Lesley Dimple",
-                  "Ann Montenbruck"
-                ],
-                [
-                  "Zeus Zenon Johnson",
-                  "Michael Prelle"
-                ],
-                [
-                  "Computer",
-                  "Peter Bayer"
-                ],
-                [
-                  "Off-Sprecher",
-                  "Frank Roder"
-                ],
-                [
-                  "Sprecher",
-                  "Andreas Birnbaum"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Axel Milberg"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Tasha",
+                  "sprecher" : "Victoria Zöller"
+                },
+                {
+                  "rolle" : "Domino Laverna",
+                  "sprecher" : "Sabine Hahn"
+                },
+                {
+                  "rolle" : "Biff Rodgers, Reporter",
+                  "sprecher" : "Daniel Schütter"
+                },
+                {
+                  "rolle" : "Lesley Dimple",
+                  "sprecher" : "Ann Montenbruck"
+                },
+                {
+                  "rolle" : "Zeus Zenon Johnson",
+                  "sprecher" : "Michael Prelle"
+                },
+                {
+                  "rolle" : "Computer",
+                  "sprecher" : "Peter Bayer"
+                },
+                {
+                  "rolle" : "Off-Sprecher",
+                  "sprecher" : "Frank Roder"
+                },
+                {
+                  "rolle" : "Sprecher",
+                  "sprecher" : "Andreas Birnbaum"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/metadata.json",
@@ -2068,35 +2081,36 @@
                   "end" : 1718507
                 }
               ],
-              "sprecher" : [
-                [
-                  "Erzähler",
-                  "Axel Milberg"
-                ],
-                [
-                  "Justus Jonas",
-                  "Oliver Rohrbeck"
-                ],
-                [
-                  "Peter Shaw",
-                  "Jens Wawrczeck"
-                ],
-                [
-                  "Bob Andrews",
-                  "Andreas Fröhlich"
-                ],
-                [
-                  "Blacky",
-                  "Pamela Punti"
-                ],
-                [
-                  "Kassiererin",
-                  "Angela Stresemann"
-                ],
-                [
-                  "Inspektor Cotta",
-                  "Holger Mahlich"
-                ]
+              "sprechrollen" : [
+                {
+                  "rolle" : "Erzähler",
+                  "sprecher" : "Axel Milberg"
+                },
+                {
+                  "rolle" : "Justus Jonas, Erster Detektiv",
+                  "sprecher" : "Oliver Rohrbeck"
+                },
+                {
+                  "rolle" : "Peter Shaw, Zweiter Detektiv",
+                  "sprecher" : "Jens Wawrczeck"
+                },
+                {
+                  "rolle" : "Bob Andrews, Recherchen und Archiv",
+                  "sprecher" : "Andreas Fröhlich"
+                },
+                {
+                  "rolle" : "Blacky",
+                  "sprecher" : "Heikedine Körting",
+                  "pseudonym" : "Pamela Punti"
+                },
+                {
+                  "rolle" : "Kassiererin",
+                  "sprecher" : "Angela Stresemann"
+                },
+                {
+                  "rolle" : "Inspektor Cotta",
+                  "sprecher" : "Holger Mahlich"
+                }
               ],
               "links" : {
                 "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/metadata.json",

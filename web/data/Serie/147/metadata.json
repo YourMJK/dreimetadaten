@@ -52,71 +52,71 @@
       "end" : 3770533
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Adam Campbell",
-      "Santiago Ziesmer"
-    ],
-    [
-      "Henry Campbell",
-      "Christian Rudolf"
-    ],
-    [
-      "John Taylor",
-      "Holger Umbreit"
-    ],
-    [
-      "Edward Crockett",
-      "Ben Hecker"
-    ],
-    [
-      "Mrs. Harkort",
-      "Katja Brügger"
-    ],
-    [
-      "Mr. Prescott",
-      "Stefan Kaminski"
-    ],
-    [
-      "Skinny Norris",
-      "Andreas von der Meden"
-    ],
-    [
-      "Jack Leech",
-      "Volker Bogdan"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Godween",
-      "André Minninger"
-    ],
-    [
-      "Einbrecher",
-      "Patrick Bach"
-    ],
-    [
-      "Max",
-      "Tommaso Cacciapuoti"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Adam Campbell",
+      "sprecher" : "Santiago Ziesmer"
+    },
+    {
+      "rolle" : "Henry Campbell",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "John Taylor",
+      "sprecher" : "Holger Umbreit"
+    },
+    {
+      "rolle" : "Edward Crockett",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Mrs. Harkort",
+      "sprecher" : "Katja Brügger"
+    },
+    {
+      "rolle" : "Mr. Prescott",
+      "sprecher" : "Stefan Kaminski"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Jack Leech",
+      "sprecher" : "Volker Bogdan"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Einbrecher",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Max",
+      "sprecher" : "Tommaso Cacciapuoti"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/147/metadata.json",

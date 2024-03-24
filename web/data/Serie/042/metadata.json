@@ -47,71 +47,71 @@
       "end" : 2869227
     }
   ],
-  "sprecher" : [
-    [
-      "Hitchcock, Erzähler",
-      "Peter Pasetti"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Michael Cross",
-      "Matthias Klimser"
-    ],
-    [
-      "Mrs. Cross",
-      "Marianne Kehlau"
-    ],
-    [
-      "Mr. Cross",
-      "Horst Naumann"
-    ],
-    [
-      "Grady Markels",
-      "Gerd Baltus"
-    ],
-    [
-      "Brackmann",
-      "F. J. Steffens"
-    ],
-    [
-      "Margie",
-      "Monika Gabriel"
-    ],
-    [
-      "Nachrichtensprecher",
-      "Diess Günter Flesh"
-    ],
-    [
-      "Sawyer",
-      "Jürgen Thormann"
-    ],
-    [
-      "Museumsbesucherin",
-      "Beate Hasenau"
-    ],
-    [
-      "Gärtner",
-      "Günter Dockerill"
-    ],
-    [
-      "Mr. Rossing",
-      "Eric Vaessen"
-    ],
-    [
-      "Rossings Assistentin",
-      "Claudia Schermutzki"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Hitchcock, Erzähler",
+      "sprecher" : "Peter Pasetti"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Michael Cross",
+      "sprecher" : "Matthias Klimsa"
+    },
+    {
+      "rolle" : "Mrs. Cross",
+      "sprecher" : "Marianne Kehlau"
+    },
+    {
+      "rolle" : "Mr. Cross",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Grady Markels",
+      "sprecher" : "Gerd Baltus"
+    },
+    {
+      "rolle" : "Brackmann",
+      "sprecher" : "Franz-Josef Steffens"
+    },
+    {
+      "rolle" : "Margie",
+      "sprecher" : "Monika Gabriel"
+    },
+    {
+      "rolle" : "Nachrichtensprecher",
+      "sprecher" : "Günther Flesch"
+    },
+    {
+      "rolle" : "Sawyer",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Museumsbesucherin",
+      "sprecher" : "Beate Hasenau"
+    },
+    {
+      "rolle" : "Gärtner",
+      "sprecher" : "Günther Dockerill"
+    },
+    {
+      "rolle" : "Mr. Rossing",
+      "sprecher" : "Eric Vaessen"
+    },
+    {
+      "rolle" : "Rossings Assistentin",
+      "sprecher" : "Claudia Schermutzki"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/042/metadata.json",

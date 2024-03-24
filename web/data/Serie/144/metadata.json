@@ -72,55 +72,56 @@
       "end" : 4256000
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Arthur Sinclair",
-      "Joachim Pukaß"
-    ],
-    [
-      "Mr. Peastone",
-      "Eberhard Haar"
-    ],
-    [
-      "Jeremy Witherspoon",
-      "Martin Semmelrogge"
-    ],
-    [
-      "Barnaby Witherspoon",
-      "Achim Schülke"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Godwin",
-      "André Minninger"
-    ],
-    [
-      "Mann",
-      "Holger Löwenberg"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Arthur Sinclair",
+      "sprecher" : "Joachim Pukaß"
+    },
+    {
+      "rolle" : "Mr. Peastone",
+      "sprecher" : "Eberhard Haar"
+    },
+    {
+      "rolle" : "Jeremy Witherspoon",
+      "sprecher" : "Martin Semmelrogge"
+    },
+    {
+      "rolle" : "Barnaby Witherspoon",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Holger Löwenberg"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/144/metadata.json",

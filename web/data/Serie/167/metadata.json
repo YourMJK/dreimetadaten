@@ -82,79 +82,84 @@
       "end" : 4324213
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Andy Carson",
-      "Stefan Schwade"
-    ],
-    [
-      "Mrs. Hampton",
-      "Celine Fontanges"
-    ],
-    [
-      "Nicky DeLores",
-      "Morgens von Gadow"
-    ],
-    [
-      "Miss Woodrow",
-      "Karin Abicht"
-    ],
-    [
-      "Judy Nigel",
-      "Angela Stresemann"
-    ],
-    [
-      "Direktor Grayston",
-      "Jörg Gillner"
-    ],
-    [
-      "Gregory Katic",
-      "Oliver Böttcher"
-    ],
-    [
-      "Mr. Clark",
-      "Stefan Brentle"
-    ],
-    [
-      "Tarzan",
-      "Sascha Draeger"
-    ],
-    [
-      "Mädchen",
-      "Nicola Melissian"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Mr. Callister",
-      "Ingo Feder"
-    ],
-    [
-      "Lionel Pengrim",
-      "Robert Missler"
-    ],
-    [
-      "Ned",
-      "Bruno Ploeger"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Andy Carson",
+      "sprecher" : "Stefan Schwade"
+    },
+    {
+      "rolle" : "Mrs. Hampton",
+      "sprecher" : "Celine Fontanges"
+    },
+    {
+      "rolle" : "Nicky DeLores",
+      "sprecher" : "Mogens von Gadow"
+    },
+    {
+      "rolle" : "Mrs. Woodrow",
+      "sprecher" : "Carin Abicht"
+    },
+    {
+      "rolle" : "Judy Nigel",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Direktor Grayston",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Gregory Katic",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Mr. Clark",
+      "sprecher" : "Stefan Brentle"
+    },
+    {
+      "rolle" : "Tarzan",
+      "sprecher" : "Sascha Draeger"
+    },
+    {
+      "rolle" : "Mädchen 1",
+      "sprecher" : "Julia Fölster"
+    },
+    {
+      "rolle" : "Mädchen 2",
+      "sprecher" : "Saskia Weckler"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mr. Callister",
+      "sprecher" : "Ingo Feder"
+    },
+    {
+      "rolle" : "Lionel Pengrim",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Ned",
+      "sprecher" : "Charles Rettinghaus",
+      "pseudonym" : "Bruno Ploeger"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/167/metadata.json",

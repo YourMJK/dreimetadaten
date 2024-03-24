@@ -57,83 +57,83 @@
       "end" : 4675973
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Deborah",
-      "Gabi Libbach"
-    ],
-    [
-      "Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Samuel Rodman",
-      "Christian Concillio"
-    ],
-    [
-      "Benjamin Rodman",
-      "Henning Karge"
-    ],
-    [
-      "Vallery Flockheart",
-      "Caroline Kiesewetter"
-    ],
-    [
-      "Nigel Tillerman",
-      "Lutz Mackensy"
-    ],
-    [
-      "Josh Reilly",
-      "Nicholas Müller"
-    ],
-    [
-      "Lexington",
-      "Sascha Eigner"
-    ],
-    [
-      "Reporter",
-      "Rasmus Borowski"
-    ],
-    [
-      "Journalistin",
-      "Nicola Melissian"
-    ],
-    [
-      "Prescott",
-      "Rolf Becker"
-    ],
-    [
-      "Sergeant Morales",
-      "Peter Weis"
-    ],
-    [
-      "Mr. Arvidson",
-      "Gosta Liptow"
-    ],
-    [
-      "Mrs. Arvidson",
-      "Hedy Haase"
-    ],
-    [
-      "Mann",
-      "Andreas Becker"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Deborah",
+      "sprecher" : "Gabriele Libbach"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Samuel Rodman",
+      "sprecher" : "Christian Concilio"
+    },
+    {
+      "rolle" : "Benjamin Rodman",
+      "sprecher" : "Henning Karge"
+    },
+    {
+      "rolle" : "Vallery Flockheart",
+      "sprecher" : "Caroline Kiesewetter"
+    },
+    {
+      "rolle" : "Nigel Tillerman",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Josh Reilly",
+      "sprecher" : "Nicholas Müller"
+    },
+    {
+      "rolle" : "Lexington",
+      "sprecher" : "Sascha Eigner"
+    },
+    {
+      "rolle" : "Reporter",
+      "sprecher" : "Rasmus Borowski"
+    },
+    {
+      "rolle" : "Journalistin",
+      "sprecher" : "Nicolá Melissian"
+    },
+    {
+      "rolle" : "Prescott",
+      "sprecher" : "Rolf Becker"
+    },
+    {
+      "rolle" : "Sergeant Morales",
+      "sprecher" : "Peter Weis"
+    },
+    {
+      "rolle" : "Mr. Arvidson",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Mrs. Arvidson",
+      "sprecher" : "Hedy Haase"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Andreas Becker"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/168/metadata.json",

@@ -72,71 +72,72 @@
       "end" : 3562347
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Onkel Titus Jonas",
-      "Hans Meinhardt"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Jeffrey Seaman",
-      "Daniel Welbat"
-    ],
-    [
-      "Steven",
-      "Oliver Böttcher"
-    ],
-    [
-      "Eric",
-      "Patrick Bach"
-    ],
-    [
-      "Mr. Settler",
-      "Christian Senger"
-    ],
-    [
-      "Auktionator",
-      "Achim Schülke"
-    ],
-    [
-      "Frau",
-      "Hilla Fitzen"
-    ],
-    [
-      "Patrick O'Brian",
-      "Wolfgang Riehm"
-    ],
-    [
-      "William de Haas",
-      "Jörg Gillner"
-    ],
-    [
-      "Theodor Brewster",
-      "Tobias Meister"
-    ],
-    [
-      "Butler",
-      "Olaf Kreuzenbeck"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Jeffrey Seaman",
+      "sprecher" : "Daniel Welbat"
+    },
+    {
+      "rolle" : "Steven",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Eric",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Mr. Settler",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Auktionator",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Frau",
+      "sprecher" : "Hilla Fitzen"
+    },
+    {
+      "rolle" : "Patrick O'Brian",
+      "sprecher" : "Wolfgang Riehm"
+    },
+    {
+      "rolle" : "William de Haas",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Theodor Brewster",
+      "sprecher" : "Tobias Meister"
+    },
+    {
+      "rolle" : "Butler",
+      "sprecher" : "Olaf Kreutzenbeck"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/141/metadata.json",

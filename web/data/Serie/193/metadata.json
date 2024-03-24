@@ -47,83 +47,83 @@
       "end" : 4183227
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Axel Milberg"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Inspektor Cotta",
-      "Holger Mahlich"
-    ],
-    [
-      "Angler",
-      "Stephan Chrzescinski"
-    ],
-    [
-      "Mac Anderson",
-      "Achim Buch"
-    ],
-    [
-      "Reporterin",
-      "Marion Gretchen Schmitz"
-    ],
-    [
-      "Mann",
-      "Sven Dahlem"
-    ],
-    [
-      "Grady",
-      "Werner Wilkening"
-    ],
-    [
-      "Pettengill",
-      "Peter Kirchberger"
-    ],
-    [
-      "Sheriff Rolins",
-      "Tommi Piper"
-    ],
-    [
-      "Farragut",
-      "Hanns Jörg Krumpholz"
-    ],
-    [
-      "Leah",
-      "Antje Birnbaum"
-    ],
-    [
-      "Cynthia Wetmore",
-      "Dorothea Hagena"
-    ],
-    [
-      "Hotelier",
-      "Gordon Piedesack"
-    ],
-    [
-      "Frau",
-      "Maud Ackermann"
-    ],
-    [
-      "Junge",
-      "Tim Heuer"
-    ],
-    [
-      "Daniel",
-      "Jannik Schümann"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Angler",
+      "sprecher" : "Stephan Chrzescinski"
+    },
+    {
+      "rolle" : "Mac Anderson",
+      "sprecher" : "Achim Buch"
+    },
+    {
+      "rolle" : "Reporterin",
+      "sprecher" : "Marion Gretchen Schmitz"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Sven Dahlem"
+    },
+    {
+      "rolle" : "Grady",
+      "sprecher" : "Werner Wilkening"
+    },
+    {
+      "rolle" : "Pettengill",
+      "sprecher" : "Peter Kirchberger"
+    },
+    {
+      "rolle" : "Sheriff Rolins",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Farragut",
+      "sprecher" : "Hanns Jörg Krumpholz"
+    },
+    {
+      "rolle" : "Leah",
+      "sprecher" : "Antje Birnbaum"
+    },
+    {
+      "rolle" : "Cynthia Wetmore",
+      "sprecher" : "Dorothea Hagena"
+    },
+    {
+      "rolle" : "Hotelier",
+      "sprecher" : "Gordon Piedesack"
+    },
+    {
+      "rolle" : "Frau",
+      "sprecher" : "Maud Ackermann"
+    },
+    {
+      "rolle" : "Junge",
+      "sprecher" : "Tim Heuer"
+    },
+    {
+      "rolle" : "Daniel",
+      "sprecher" : "Jannik Schümann"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/193/metadata.json",

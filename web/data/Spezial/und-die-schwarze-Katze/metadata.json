@@ -166,95 +166,96 @@
       "end" : 5317587
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas, Erster Detektiv",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw, Zweiter Detektiv",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews, Recherchen und Archiv",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Andy Carson",
-      "Stefan Schwade"
-    ],
-    [
-      "Carson, Andys Vater",
-      "Hans Kahlert"
-    ],
-    [
-      "Onkel Titus",
-      "Hans Meinhardt"
-    ],
-    [
-      "Tante Mathilda",
-      "Karin Lieneweg"
-    ],
-    [
-      "Gabbo",
-      "Manfred Reddemann"
-    ],
-    [
-      "Wachmann",
-      "Till Huster"
-    ],
-    [
-      "Iwan",
-      "Urs Affolter"
-    ],
-    [
-      "Reynolds",
-      "Christian Redl"
-    ],
-    [
-      "Khan",
-      "Klaus Dittmann"
-    ],
-    [
-      "Schaustellerin",
-      "Ursula Sieg"
-    ],
-    [
-      "Vermieter",
-      "Stephan Benson"
-    ],
-    [
-      "Polizist 1",
-      "Jürgen Holdorf"
-    ],
-    [
-      "Polizist 2 (Prolog)",
-      "Daniel Welbat"
-    ],
-    [
-      "Polizist 3 (Prolog)",
-      "Matthias Krauße"
-    ],
-    [
-      "Losverkäufer",
-      "Joachim Kretzer"
-    ],
-    [
-      "Kassiererin",
-      "Birte Kretschmer"
-    ],
-    [
-      "Feuerschlucker",
-      "Robert Missler"
-    ],
-    [
-      "Jack",
-      "Timo Alexander Wenzel"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Andy Carson",
+      "sprecher" : "Stefan Schwade"
+    },
+    {
+      "rolle" : "Carson, Andys Vater",
+      "sprecher" : "Hans Kahlert"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Gabbo",
+      "sprecher" : "Manfred Reddemann"
+    },
+    {
+      "rolle" : "Wachmann",
+      "sprecher" : "Till Huster"
+    },
+    {
+      "rolle" : "Iwan",
+      "sprecher" : "Urs Affolter"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Christian Redl"
+    },
+    {
+      "rolle" : "Khan",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Schaustellerin",
+      "sprecher" : "Ursula Sieg"
+    },
+    {
+      "rolle" : "Vermieter",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Polizist 1",
+      "sprecher" : "Jürgen Holdorf"
+    },
+    {
+      "rolle" : "Polizist 2 (Prolog)",
+      "sprecher" : "Daniel Welbat"
+    },
+    {
+      "rolle" : "Polizist 3 (Prolog)",
+      "sprecher" : "Matthias Krauße"
+    },
+    {
+      "rolle" : "Losverkäufer",
+      "sprecher" : "Joachim Kretzer"
+    },
+    {
+      "rolle" : "Kassiererin",
+      "sprecher" : "Birte Kretschmer"
+    },
+    {
+      "rolle" : "Feuerschlucker",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Jack",
+      "sprecher" : "Timo Alexander Wenzel"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/metadata.json",

@@ -20,51 +20,52 @@
       "end" : 1596747
     }
   ],
-  "sprecher" : [
-    [
-      "Erzähler",
-      "Thomas Fritsch"
-    ],
-    [
-      "Justus Jonas",
-      "Oliver Rohrbeck"
-    ],
-    [
-      "Peter Shaw",
-      "Jens Wawrczeck"
-    ],
-    [
-      "Bob Andrews",
-      "Andreas Fröhlich"
-    ],
-    [
-      "Emily White",
-      "Sabine Hahn"
-    ],
-    [
-      "Judy Fradkin",
-      "Ursula Heyer"
-    ],
-    [
-      "Aladin",
-      "Heidi Schaffrath"
-    ],
-    [
-      "Aschenputtel",
-      "Regina Lemnitz"
-    ],
-    [
-      "Prinzessin",
-      "Renate Pichler"
-    ],
-    [
-      "Rotkäppchen",
-      "Angela Stresemann"
-    ],
-    [
-      "Meerjungfrau",
-      "Pamela Punti"
-    ]
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Emily White",
+      "sprecher" : "Sabine Hahn"
+    },
+    {
+      "rolle" : "Judy Fradkin",
+      "sprecher" : "Ursula Heyer"
+    },
+    {
+      "rolle" : "Aladin",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Aschenputtel",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Prinzessin",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Rotkäppchen",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Meerjungfrau",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Pamela Punti"
+    }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/metadata.json",
