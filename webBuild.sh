@@ -4,22 +4,22 @@ if [ $# -ge 1 ]
 then
 	case $1 in
 		serie)
-			data="Master_Serie.json"
+			json="Serie.json"
 			web="index.html"
 			;;
 		
 		spezial)
-			data="Master_Spezial.json"
+			json="Spezial.json"
 			web="spezial.html"
 			;;
 		
 		kurzgeschichten)
-			data="Master_Kurzgeschichten.json"
+			json="Kurzgeschichten.json"
 			web="kurzgeschichten.html"
 			;;
 		
 		die_dr3i)
-			data="Master_DiE_DR3i.json"
+			json="DiE_DR3i.json"
 			web="die_dr3i.html"
 			;;
 			
@@ -30,7 +30,7 @@ then
 	esac
 	
 	cd $(dirname "$0")
-	bin/D3F-WebGenerator -c data/"$data" -o "$1" -i web_templates/"$web" > web/"$web"
+	bin/D3F-WebGenerator -c metadata/json/"$json" -o "$1" -i web_templates/"$web" > web/"$web"
 else
 	echo "Usage:  $(basename "$0") (serie | spezial | kurzgeschichten | die_dr3i)"
 	exit 1
