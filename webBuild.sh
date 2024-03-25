@@ -30,7 +30,7 @@ then
 	esac
 	
 	cd $(dirname "$0")
-	builds/D3F-WebGenerator -c data/"$data" -o "$1" -i web_templates/"$web" > web/"$web"
+	bin/D3F-WebGenerator -c data/"$data" -o "$1" -i web_templates/"$web" > web/"$web"
 else
 	echo "Usage:  $(basename "$0") (serie | spezial | kurzgeschichten | die_dr3i)"
 	exit 1

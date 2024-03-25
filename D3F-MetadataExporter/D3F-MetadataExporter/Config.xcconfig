@@ -9,5 +9,5 @@
 // Configuration settings file format documentation can be found at:
 // https://help.apple.com/xcode/#/dev745c5c974
 
-CONFIGURATION_BUILD_DIR = $(SRCROOT)/../builds/
-BUILT_PRODUCTS_DIR = $(SRCROOT)/../builds/
+CONFIGURATION_BUILD_DIR = $(SRCROOT)/../bin/
+BUILT_PRODUCTS_DIR = $(SRCROOT)/../bin/
