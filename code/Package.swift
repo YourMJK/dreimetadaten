@@ -1,0 +1,22 @@
+// swift-tools-version: 5.7
+
+import PackageDescription
+
+let package = Package(
+	name: "dreimetadaten",
+	products: [
+		.executable(name: "dreimetadaten", targets: ["dreimetadaten"]),
+	],
+	dependencies: [
+		.package(url: "https://github.com/YourMJK/CommandLineTool", from: "1.1.0"),
+	],
+	targets: [
+		.executableTarget(
+			name: "dreimetadaten",
+			dependencies: [
+				"CommandLineTool",
+			],
+			path: "dreimetadaten"
+		)
+	]
+)
