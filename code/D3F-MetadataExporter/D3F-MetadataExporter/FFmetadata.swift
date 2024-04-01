@@ -80,7 +80,7 @@ extension FFmetadata {
 		addTag(key: "track", value: trackString, escape: false)
 		
 		// Add chapters
-		if let chapters = chapters {
+		if let chapters = chapters, chapters.count > 1 {
 			addLine()
 			for chapter in chapters {
 				addLine("[CHAPTER]")
