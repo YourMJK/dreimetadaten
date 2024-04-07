@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import CodableCSV
 
 
 struct MetadataRelationalModel {
@@ -143,4 +144,89 @@ extension MetadataRelationalModel {
 		var skriptautor: Person.ID
 	}
 	
+}
+
+
+// MARK: - TSV Encoding
+
+extension MetadataRelationalModel {
+	
+	enum TSVError: LocalizedError {
+		case encodingError(tableName: String, error: Error)
+		case fileError(url: URL, error: Error)
+		
+		var errorDescription: String? {
+			switch self {
+				case .encodingError(let tableName, let error):
+					return "Couldn't encode TSV for table \"\(tableName)\": \(error.localizedDescription)"
+				case .fileError(let url, let error):
+					return "Couldn't write file \"\(url.relativePath)\": \(error.localizedDescription)"
+			}
+		}
+	}
+	
+	
+	static func tsvString<T: Encodable>(of table: [T]) throws -> String {
+		let rowDelimiter: StringLiteralType = "¶"
+		let encoder = CSVEncoder() {
+			$0.headers = Mirror(reflecting: table.first!).children.map { $0.label! }
+			$0.delimiters = (field: "\t", row: .init(stringLiteral: rowDelimiter))
+			$0.escapingStrategy = .none
+			$0.nilStrategy = .empty
+			$0.encoding = .utf8
+		}
+		var string = try encoder.encode(table, into: String.self)
+		
+		// Escape newlines in records and replace temporary row delimiter with actual newline
+		string = string.replacingOccurrences(of: "\n", with: "\\n")
+		string = string.replacingOccurrences(of: rowDelimiter, with: "\n")
+		
+		return string
+	}
+	
+	func tsvStrings() throws -> [(tableName: String, content: String)] {
+		var result: [(tableName: String, content: String)] = []
+		
+		func encodeTable<T: Encodable>(_ name: String, _ keyPath: KeyPath<Self, [T]>) throws {
+			let table = self[keyPath: keyPath]
+			let tsv: String
+			do {
+				tsv = try Self.tsvString(of: table)
+			}
+			catch {
+				throw TSVError.encodingError(tableName: name, error: error)
+			}
+			result.append((name, tsv))
+		}
+		try encodeTable("serie", \.serie)
+		try encodeTable("spezial", \.spezial)
+		try encodeTable("kurzgeschichten", \.kurzgeschichten)
+		try encodeTable("dieDr3i", \.dieDr3i)
+		try encodeTable("hörspiel", \.hörspiel)
+		try encodeTable("hörspielTeil", \.hörspielTeil)
+		try encodeTable("medium", \.medium)
+		try encodeTable("track", \.track)
+		try encodeTable("kapitel", \.kapitel)
+		try encodeTable("person", \.person)
+		try encodeTable("pseudonym", \.pseudonym)
+		try encodeTable("rolle", \.rolle)
+		try encodeTable("sprechrolle", \.sprechrolle)
+		try encodeTable("spricht", \.spricht)
+		try encodeTable("hörspielBuchautor", \.hörspielBuchautor)
+		try encodeTable("hörspielSkriptautor", \.hörspielSkriptautor)
+		
+		return result
+	}
+	
+	func writeTSVFiles(to directory: URL) throws {
+		for (tableName, content) in try tsvStrings() {
+			let file = directory.appendingPathComponent("\(tableName).tsv", isDirectory: false)
+			do {
+				try content.write(to: file, atomically: false, encoding: .utf8)
+			}
+			catch {
+				throw TSVError.fileError(url: file, error: error)
+			}
+		}
+	}
 }
