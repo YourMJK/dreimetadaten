@@ -9,12 +9,14 @@ let package = Package(
 	],
 	dependencies: [
 		.package(url: "https://github.com/YourMJK/CommandLineTool", from: "1.1.0"),
+		.package(url: "https://github.com/dehesa/CodableCSV", from: "0.6.0"),
 	],
 	targets: [
 		.executableTarget(
 			name: "dreimetadaten",
 			dependencies: [
 				"CommandLineTool",
+				"CodableCSV",
 			],
 			path: "dreimetadaten"
 		)
