@@ -6,9 +6,10 @@
 //
 
 import Foundation
+import CommandLineTool
 
 
-enum CollectionType: String, CaseIterable {
+enum CollectionType: String, ArgumentEnum {
 	case serie = "serie"
 	case spezial = "spezial"
 	case kurzgeschichten = "kurzgeschichten"
@@ -54,5 +55,22 @@ enum CollectionType: String, CaseIterable {
 			case .kurzgeschichten: return \.kurzgeschichten
 			case .die_dr3i: return \.die_dr3i
 		}
+	}
+	
+	var jsonFilePath: String {
+		"metadata/json/\(fileName).json"
+	}
+	
+	private var htmlFileName: String {
+		switch self {
+			case .serie: return "index"
+			default: return rawValue
+		}
+	}
+	var htmlFilePath: String {
+		"web/\(htmlFileName).html"
+	}
+	var htmlTemplateFilePath: String {
+		"web_templates/\(htmlFileName).html"
 	}
 }
