@@ -46,4 +46,13 @@ enum CollectionType: String, CaseIterable {
 			default: return nil
 		}
 	}
+	
+	var objectModelKeyPath: PartialKeyPath<MetadataObjectModel> {
+		switch self {
+			case .serie: return \.serie
+			case .spezial: return \.spezial
+			case .kurzgeschichten: return \.kurzgeschichten
+			case .die_dr3i: return \.die_dr3i
+		}
+	}
 }
