@@ -52,6 +52,7 @@ extension MetadataRelationalModel {
 		
 		var titel: String?
 		var beschreibung: String?
+		var metabeschreibung: String?
 		var veröffentlichungsdatum: String?
 		var unvollständig: Bool
 		var cover: Bool

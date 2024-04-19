@@ -97,6 +97,7 @@ class Migrator {
 				hörspielID: newID,
 				titel: objectItem.titel,
 				beschreibung: objectItem.beschreibung,
+				metabeschreibung: objectItem.metabeschreibung,
 				veröffentlichungsdatum: objectItem.veröffentlichungsdatum,
 				unvollständig: objectItem.unvollständig ?? false,
 				cover: objectItem.links?.cover != nil,

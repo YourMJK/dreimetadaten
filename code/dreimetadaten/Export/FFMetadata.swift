@@ -140,7 +140,7 @@ extension FFmetadata {
 			artist: artist,
 			album_artist: hörspiel.hörspielskriptautor,
 			composer: hörspiel.autor,
-			description: hörspiel.beschreibung,
+			description: hörspiel.beschreibung ?? hörspiel.metabeschreibung,
 			genre: "Krimi",
 			date: date,
 			track: nil,
