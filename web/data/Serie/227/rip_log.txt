@@ -1,0 +1,121 @@
+X Lossless Decoder version 20240310 (157.0)
+
+XLD extraction logfile from 2024-05-10 17:36:11 +0200
+
+ / Die drei ??? - Folge 227: Melodie der Rache
+
+Used drive : ASUS BW-16D1HT (revision 3.01)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 10:37:50 |         0    |    47824   
+        2  | 10:37:50 | 10:26:35 |     47825    |    94809   
+        3  | 21:04:10 | 06:48:18 |     94810    |   125427   
+        4  | 27:52:28 | 09:53:59 |    125428    |   169961   
+        5  | 37:46:12 | 12:17:66 |    169962    |   225302   
+        6  | 50:04:03 | 14:26:14 |    225303    |   290266   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : ~/Projects/Audiobooks/_temp/Die drei ??? - Folge 227： Melodie der Rache.m4a
+    CRC32 hash               : 47CC5DA4
+    CRC32 hash (skip zero)   : 06DBD263
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : FE20D252
+    CRC32 hash (skip zero)   : 28184191
+    AccurateRip v1 signature : BA3E797D
+    AccurateRip v2 signature : 2308966A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 97845527
+    CRC32 hash (skip zero)   : 1EA39F15
+    AccurateRip v1 signature : 69F7006F
+    AccurateRip v2 signature : B21A95C7
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 65615E68
+    CRC32 hash (skip zero)   : A3D37B94
+    AccurateRip v1 signature : 68D9E152
+    AccurateRip v2 signature : 51F5E27F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 8AA4280C
+    CRC32 hash (skip zero)   : 15457ADC
+    AccurateRip v1 signature : 623C5166
+    AccurateRip v2 signature : A7243F1A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : F64C101D
+    CRC32 hash (skip zero)   : 3255A64D
+    AccurateRip v1 signature : 56BF9852
+    AccurateRip v2 signature : 2704A01C
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : AF7B7133
+    CRC32 hash (skip zero)   : 2F6E7B72
+    AccurateRip v1 signature : 9264567D
+    AccurateRip v2 signature : 18F83F16
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
