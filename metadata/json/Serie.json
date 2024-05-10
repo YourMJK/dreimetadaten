@@ -28964,11 +28964,112 @@
       "titel" : "Melodie der Rache",
       "autor" : "Christoph Dittert",
       "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Die drei ??? ermitteln für einen berühmten Rockstar und lauschen der Melodie der Rache. Können die Detektive Licht ins Dunkel bringen?\nAls Peter Journey die drei ??? um Hilfe bittet, sind die Detektive hellauf begeistert, denn PJ ist eine echte Rocklegende. In der Ferienanlage des Musikers herrscht Chaos: Eine wertvolle Bassgitarre wurde gestohlen und ein Gast brutal niedergeschlagen. Justus, Peter und Bob buchen sich kurzerhand selbst ein Zimmer im Hotel und stoßen auf ein dunkles Geheimnis der Vergangenheit.",
       "veröffentlichungsdatum" : "2024-05-10",
+      "kapitel" : [
+        {
+          "titel" : "PJs Bassgitarre",
+          "start" : 0,
+          "end" : 637667
+        },
+        {
+          "titel" : "Sprungtuchdiebstahl",
+          "start" : 637667,
+          "end" : 1264133
+        },
+        {
+          "titel" : "Terminar em pizza",
+          "start" : 1264133,
+          "end" : 1672373
+        },
+        {
+          "titel" : "Monster-Alarm",
+          "start" : 1672373,
+          "end" : 2266160
+        },
+        {
+          "titel" : "Neue Spuren",
+          "start" : 2266160,
+          "end" : 3004040
+        },
+        {
+          "titel" : "Konfrontation mit der Wahrheit",
+          "start" : 3004040,
+          "end" : 3870227
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "PJ",
+          "sprecher" : "Hannes Hellmann"
+        },
+        {
+          "rolle" : "Liam",
+          "sprecher" : "Nic Romm"
+        },
+        {
+          "rolle" : "Finn",
+          "sprecher" : "John Wesley Zielmann"
+        },
+        {
+          "rolle" : "Beatriz",
+          "sprecher" : "Alexandra Wilcke"
+        },
+        {
+          "rolle" : "Mrs. Haynes",
+          "sprecher" : "Sandra Keck"
+        },
+        {
+          "rolle" : "Mr. Haynes",
+          "sprecher" : "York Asche"
+        },
+        {
+          "rolle" : "Chloe",
+          "sprecher" : "Clara Körting"
+        },
+        {
+          "rolle" : "Wilfred",
+          "sprecher" : "Michael Lott"
+        },
+        {
+          "rolle" : "Daniel",
+          "sprecher" : "Stefan Zinkgraf"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/227/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/227/ffmetadata.txt",
+        "xld_log" : "http://dreimetadaten.de/data/Serie/227/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/227/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music122/v4/aa/a3/a1/aaa3a16c-3d3c-a164-c8e7-feaa43a0c0ba/196871288071.jpg"
+      }
+    },
+    {
+      "nummer" : 228,
+      "titel" : "Der Ruf der Krähen",
+      "autor" : "André Minninger",
+      "hörspielskriptautor" : "André Minninger",
+      "veröffentlichungsdatum" : "2024-07-12",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/228/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Serie/228/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/7f/23/a3/7f23a3ac-e70d-a666-2e33-44fe787debd9/196871288170.jpg"
       },
       "unvollständig" : true
     }
