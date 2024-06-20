@@ -109,6 +109,11 @@ extension FFmetadata {
 			}
 			return nil
 		}()
+		
+		// Kurzbeschreibung + beschreibung as description, or metabeschreibung if both are nil
+		let descriptionComponents = [hörspiel.kurzbeschreibung, hörspiel.beschreibung].compactMap { $0 }
+		let description = descriptionComponents.isEmpty ? hörspiel.metabeschreibung : descriptionComponents.joined(separator: "\n")
+		
 		// Veröffentlichungsdatum as date, assuming yyyy-MM-dd format
 		let date: DateComponents? = {
 			guard let stringComponents = hörspiel.veröffentlichungsdatum?.split(separator: "-") else {
@@ -119,6 +124,7 @@ extension FFmetadata {
 			}
 			return DateComponents(year: component(0), month: component(1), day: component(2))
 		}()
+		
 		// Kapitel as chapters, assuming times in milliseconds. Chapters are nil if any Kapitel is missing a start or end time
 		let chapters: [Chapter]? = {
 			guard let kapitels = hörspiel.kapitel, !kapitels.isEmpty else {
@@ -140,7 +146,7 @@ extension FFmetadata {
 			artist: artist,
 			album_artist: hörspiel.hörspielskriptautor,
 			composer: hörspiel.autor,
-			description: hörspiel.beschreibung ?? hörspiel.metabeschreibung,
+			description: description,
 			genre: "Krimi",
 			date: date,
 			track: nil,

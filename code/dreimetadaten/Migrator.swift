@@ -96,6 +96,7 @@ class Migrator {
 			relationalItem = MetadataRelationalModel.Hörspiel(
 				hörspielID: newID,
 				titel: objectItem.titel,
+				kurzbeschreibung: objectItem.kurzbeschreibung,
 				beschreibung: objectItem.beschreibung,
 				metabeschreibung: objectItem.metabeschreibung,
 				veröffentlichungsdatum: objectItem.veröffentlichungsdatum,

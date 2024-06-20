@@ -23,6 +23,7 @@ extension MetadataObjectModel {
 		var titel: String?
 		var autor: String?
 		var hörspielskriptautor: String?
+		var kurzbeschreibung: String?
 		var beschreibung: String?
 		var metabeschreibung: String?
 		var veröffentlichungsdatum: String?
@@ -133,6 +134,7 @@ extension MetadataObjectModel {
 			"titel",
 			"autor",
 			"hörspielskriptautor",
+			"kurzbeschreibung",
 			"beschreibung",
 			"metabeschreibung",
 			"veröffentlichungsdatum",

@@ -51,6 +51,7 @@ extension MetadataRelationalModel {
 		var hörspielID: ID
 		
 		var titel: String?
+		var kurzbeschreibung: String?
 		var beschreibung: String?
 		var metabeschreibung: String?
 		var veröffentlichungsdatum: String?
