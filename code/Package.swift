@@ -10,6 +10,7 @@ let package = Package(
 	dependencies: [
 		.package(url: "https://github.com/YourMJK/CommandLineTool", from: "1.1.0"),
 		.package(url: "https://github.com/dehesa/CodableCSV", from: "0.6.0"),
+		.package(url: "https://github.com/groue/GRDB.swift", from: "6.27.0"),
 	],
 	targets: [
 		.executableTarget(
@@ -17,6 +18,7 @@ let package = Package(
 			dependencies: [
 				"CommandLineTool",
 				"CodableCSV",
+				.product(name: "GRDB", package: "GRDB.swift"),
 			],
 			path: "dreimetadaten"
 		)
