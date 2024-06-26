@@ -21,9 +21,6 @@ extension Command {
 		@Argument(help: ArgumentHelp("The path to the JSON dataset input file.", valueName: "json file"))
 		var jsonFilePath: String
 		
-		@Argument(help: ArgumentHelp("The path to the TSV output directory.", valueName: "output directory"))
-		var tsvDirectoryPath: String = Command.tsvDir.relativePath
-		
 		@Argument(help: ArgumentHelp("The path to the SQLite database output file.", valueName: "sqlite file"))
 		var databaseFilePath: String = Command.databaseFile.relativePath
 		
@@ -35,18 +32,11 @@ extension Command {
 		
 		func run() throws {
 			let jsonFileURL = URL(fileURLWithPath: jsonFilePath, isDirectory: false)
-			let tsvDirectoryURL = URL(fileURLWithPath: tsvDirectoryPath, isDirectory: true)
-			
-			if !FileManager.default.fileExists(atPath: tsvDirectoryURL.path) {
-				try FileManager.default.createDirectory(at: tsvDirectoryURL, withIntermediateDirectories: false)
-			}
 			
 			let objectModel = try MetadataObjectModel(fromJSON: jsonFileURL)
 			let migrator = Migrator(objectModel: objectModel)
 			try migrator.migrate()
 			let relationalModel = migrator.relationalModel
-			
-			try relationalModel.writeTSVFiles(to: tsvDirectoryURL)
 			
 			let dbQueue = try DatabaseQueue(path: databaseFilePath)
 			try dbQueue.write { db in
