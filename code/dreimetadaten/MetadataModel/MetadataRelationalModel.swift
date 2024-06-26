@@ -62,9 +62,9 @@ extension MetadataRelationalModel {
 	}
 	
 	struct HörspielTeil: Codable {
-		var hörspiel: Hörspiel.ID
 		var teil: Hörspiel.ID
 		
+		var hörspiel: Hörspiel.ID
 		var position: UInt
 		var buchstabe: String?
 	}

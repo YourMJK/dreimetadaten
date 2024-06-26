@@ -127,8 +127,8 @@ class Migrator {
 			if let objectTeil = objectItem as? MetadataObjectModel.Teil {
 				// Teil
 				relationalModel.hörspielTeil.append(.init(
-					hörspiel: rootHörspielID!,
 					teil: newID,
+					hörspiel: rootHörspielID!,
 					position: objectTeil.teilNummer,
 					buchstabe: objectTeil.buchstabe
 				))
