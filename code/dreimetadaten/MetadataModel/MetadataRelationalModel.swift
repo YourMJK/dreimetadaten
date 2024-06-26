@@ -11,10 +11,10 @@ import GRDB
 
 
 struct MetadataRelationalModel {
-	var serie: [Folge]
-	var spezial: [HörspielRef]
-	var kurzgeschichten: [HörspielRef]
-	var dieDr3i: [Folge]
+	var serie: [SerieFolge]
+	var spezial: [SpezialFolge]
+	var kurzgeschichten: [KurzgeschichtenFolge]
+	var dieDr3i: [DieDr3iFolge]
 	
 	var hörspiel: [Hörspiel]
 	var hörspielTeil: [HörspielTeil]
@@ -36,13 +36,23 @@ struct MetadataRelationalModel {
 
 extension MetadataRelationalModel {
 	
-	struct Folge: Codable {
+	struct SerieFolge: Codable {
 		var nummer: Int
 		
 		var hörspielID: Hörspiel.ID
 	}
 	
-	struct HörspielRef: Codable {
+	struct SpezialFolge: Codable {
+		var hörspielID: Hörspiel.ID
+	}
+	
+	struct KurzgeschichtenFolge: Codable {
+		var hörspielID: Hörspiel.ID
+	}
+	
+	struct DieDr3iFolge: Codable {
+		var nummer: Int
+		
 		var hörspielID: Hörspiel.ID
 	}
 	
