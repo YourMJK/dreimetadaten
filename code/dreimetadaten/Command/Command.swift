@@ -23,6 +23,10 @@ struct Command: ParsableCommand {
 		.deletingLastPathComponent()
 		.appendingPathComponent("..")
 	
+	static let metadataDir = url(projectRelativePath: "metadata")
+	static let databaseFile = metadataDir.appendingPathComponent("db.sqlite")
+	static let tsvDir = metadataDir.appendingPathComponent("tsv")
+	
 	static func url(projectRelativePath projectDirRelativePath: String) -> URL {
 		let dest = URL(fileURLWithPath: projectDirRelativePath, relativeTo: projectDir)
 		let base = workingDir

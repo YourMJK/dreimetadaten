@@ -8,6 +8,7 @@
 import Foundation
 import CommandLineTool
 import ArgumentParser
+import GRDB
 
 
 extension Command {
@@ -21,7 +22,16 @@ extension Command {
 		var jsonFilePath: String
 		
 		@Argument(help: ArgumentHelp("The path to the TSV output directory.", valueName: "output directory"))
-		var tsvDirectoryPath: String
+		var tsvDirectoryPath: String = Command.tsvDir.relativePath
+		
+		@Argument(help: ArgumentHelp("The path to the SQLite database output file.", valueName: "sqlite file"))
+		var databaseFilePath: String = Command.databaseFile.relativePath
+		
+		@Flag(help: ArgumentHelp("Only create schema."))
+		var noValues: Bool = false
+		
+		@Flag(help: ArgumentHelp("Assume schema is already present in database and only insert values into tables."))
+		var noSchema: Bool = false
 		
 		func run() throws {
 			let jsonFileURL = URL(fileURLWithPath: jsonFilePath, isDirectory: false)
@@ -37,6 +47,16 @@ extension Command {
 			let relationalModel = migrator.relationalModel
 			
 			try relationalModel.writeTSVFiles(to: tsvDirectoryURL)
+			
+			let dbQueue = try DatabaseQueue(path: databaseFilePath)
+			try dbQueue.write { db in
+				if !noSchema {
+					try MetadataRelationalModel.createSchema(db: db)
+				}
+				if !noValues {
+					try relationalModel.insertValues(db: db)
+				}
+			}
 		}
 	}
 }
