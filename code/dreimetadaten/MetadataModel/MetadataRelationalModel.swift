@@ -11,26 +11,26 @@ import GRDB
 
 
 struct MetadataRelationalModel {
-	var serie: [SerieFolge]
-	var spezial: [SpezialFolge]
-	var kurzgeschichten: [KurzgeschichtenFolge]
-	var dieDr3i: [DieDr3iFolge]
+	var serie: [SerieFolge] = []
+	var spezial: [SpezialFolge] = []
+	var kurzgeschichten: [KurzgeschichtenFolge] = []
+	var dieDr3i: [DieDr3iFolge] = []
 	
-	var hörspiel: [Hörspiel]
-	var hörspielTeil: [HörspielTeil]
+	var hörspiel: [Hörspiel] = []
+	var hörspielTeil: [HörspielTeil] = []
 	
-	var medium: [Medium]
-	var track: [Track]
-	var kapitel: [Kapitel]
+	var medium: [Medium] = []
+	var track: [Track] = []
+	var kapitel: [Kapitel] = []
 	
-	var person: [Person]
-	var pseudonym: [Pseudonym]
-	var rolle: [Rolle]
-	var sprechrolle: [Sprechrolle]
-	var spricht: [Spricht]
+	var person: [Person] = []
+	var pseudonym: [Pseudonym] = []
+	var rolle: [Rolle] = []
+	var sprechrolle: [Sprechrolle] = []
+	var spricht: [Spricht] = []
 	
-	var hörspielBuchautor: [HörspielBuchautor]
-	var hörspielSkriptautor: [HörspielSkriptautor]
+	var hörspielBuchautor: [HörspielBuchautor] = []
+	var hörspielSkriptautor: [HörspielSkriptautor] = []
 }
 
 
@@ -426,6 +426,36 @@ extension MetadataRelationalModel {
 		try insertAll(spricht)
 		try insertAll(hörspielBuchautor)
 		try insertAll(hörspielSkriptautor)
+	}
+	
+}
+
+
+// MARK: - Database Reading
+
+extension MetadataRelationalModel {
+	
+	init(fromDatabase db: Database) throws {
+		self.init()
+		func fetchAll<T: FetchableRecord & TableRecord>(_ keyPath: WritableKeyPath<Self, [T]>) throws {
+			self[keyPath: keyPath] = try T.fetchAll(db)
+		}
+		try fetchAll(\.hörspiel)
+		try fetchAll(\.hörspielTeil)
+		try fetchAll(\.serie)
+		try fetchAll(\.spezial)
+		try fetchAll(\.kurzgeschichten)
+		try fetchAll(\.dieDr3i)
+		try fetchAll(\.medium)
+		try fetchAll(\.track)
+		try fetchAll(\.kapitel)
+		try fetchAll(\.person)
+		try fetchAll(\.pseudonym)
+		try fetchAll(\.rolle)
+		try fetchAll(\.sprechrolle)
+		try fetchAll(\.spricht)
+		try fetchAll(\.hörspielBuchautor)
+		try fetchAll(\.hörspielSkriptautor)
 	}
 	
 }

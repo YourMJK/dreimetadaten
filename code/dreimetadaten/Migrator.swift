@@ -21,24 +21,7 @@ class Migrator {
 	
 	init(objectModel: MetadataObjectModel) {
 		self.objectModel = objectModel
-		self.relationalModel = .init(
-			serie: [],
-			spezial: [],
-			kurzgeschichten: [],
-			dieDr3i: [],
-			hörspiel: [],
-			hörspielTeil: [],
-			medium: [],
-			track: [],
-			kapitel: [],
-			person: [],
-			pseudonym: [],
-			rolle: [],
-			sprechrolle: [],
-			spricht: [],
-			hörspielBuchautor: [],
-			hörspielSkriptautor: []
-		)
+		self.relationalModel = .init()
 	}
 	
 	
