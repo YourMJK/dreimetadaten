@@ -25,6 +25,7 @@ struct Command: ParsableCommand {
 	
 	static let metadataDir = url(projectRelativePath: "metadata")
 	static let databaseFile = metadataDir.appendingPathComponent("db.sqlite")
+	static let sqlFile = metadataDir.appendingPathComponent("db.sql")
 	static let tsvDir = metadataDir.appendingPathComponent("tsv")
 	
 	static func url(projectRelativePath projectDirRelativePath: String) -> URL {
