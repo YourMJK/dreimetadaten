@@ -7,6 +7,7 @@
 
 import Foundation
 import CommandLineTool
+import GRDB
 
 
 class Migrator {
@@ -103,7 +104,7 @@ class Migrator {
 				kurzbeschreibung: objectItem.kurzbeschreibung,
 				beschreibung: objectItem.beschreibung,
 				metabeschreibung: objectItem.metabeschreibung,
-				veröffentlichungsdatum: objectItem.veröffentlichungsdatum,
+				veröffentlichungsdatum: try objectItem.veröffentlichungsdatum.map(dateComponents(from:)),
 				unvollständig: objectItem.unvollständig ?? false,
 				cover: objectItem.links?.cover != nil,
 				urlCoverApple: objectItem.links?.cover_itunes,
@@ -309,12 +310,25 @@ class Migrator {
 		}
 	}
 	
+	private func dateComponents(from string: String) throws -> DatabaseDateComponents {
+		let stringComponents = string.split(separator: "-")
+		func component(_ index: Int) -> Int? {
+			Int(stringComponents[index])
+		}
+		guard stringComponents.count == 3, let year = component(0), let month = component(1), let day = component(2) else {
+			throw MigrationError.invalidVeröffentlichungsdatum(string: string)
+		}
+		let dateComponents = DateComponents(year: year, month: month, day: day)
+		return DatabaseDateComponents(dateComponents, format: .YMD)
+	}
+	
 }
 
 
 extension Migrator {
 	enum MigrationError: LocalizedError {
 		case missingTitel(hörspiel: MetadataObjectModel.Hörspiel)
+		case invalidVeröffentlichungsdatum(string: String)
 		case missingOrMultipleTracks(kapitel: MetadataObjectModel.Kapitel)
 		case pseudonymWithMultiPerson(sprechrolle: MetadataObjectModel.Sprechrolle)
 		
@@ -324,6 +338,8 @@ extension Migrator {
 					var hörspielDump = String()
 					dump(hörspiel, to: &hörspielDump, maxDepth: 2)
 					return "Hörspiel has no titel:\n\(hörspielDump)"
+				case .invalidVeröffentlichungsdatum(let string):
+					return "Invalid veröffentlichungsdatum: \"\(string)\""
 				case .missingOrMultipleTracks(let kapitel):
 					return "Found no or multiple tracks for kapitel: \(kapitel)"
 				case .pseudonymWithMultiPerson(let sprechrolle):

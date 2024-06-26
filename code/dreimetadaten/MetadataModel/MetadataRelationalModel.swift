@@ -7,6 +7,7 @@
 
 import Foundation
 import CodableCSV
+import GRDB
 
 
 struct MetadataRelationalModel {
@@ -54,7 +55,7 @@ extension MetadataRelationalModel {
 		var kurzbeschreibung: String?
 		var beschreibung: String?
 		var metabeschreibung: String?
-		var veröffentlichungsdatum: String?
+		var veröffentlichungsdatum: DatabaseDateComponents?
 		var unvollständig: Bool
 		var cover: Bool
 		var urlCoverApple: String?
