@@ -1,5 +1,5 @@
 //
-//  SQLExporter.swift
+//  SQLPorter.swift
 //  dreimetadaten
 //
 //  Created by YourMJK on 26.06.24.
@@ -9,9 +9,12 @@ import Foundation
 import GRDB
 
 
-struct SQLExporter {
+struct SQLPorter {
 	let databaseFile: URL
 	let sqliteBinary: URL
+	
+	static let defaultSqliteBinaryPath = "/usr/bin/sqlite3"
+	
 	
 	func export(to sqlFile: URL) throws {
 		let start = "PRAGMA foreign_keys=ON;\nBEGIN TRANSACTION;\n"
@@ -40,6 +43,13 @@ struct SQLExporter {
 		handle.seekToEndOfFile()
 		handle.write(end)
 	}
+	
+	func `import`(from sqlFile: URL) throws {
+		try sqliteCommand(arguments: [
+			".read \"\(sqlFile.relativePath)\""
+		])
+	}
+	
 	
 	private func sqliteCommand(arguments sqliteArgs: [String], output: FileHandle = .standardOutput) throws {
 		var arguments = [databaseFile.relativePath]
@@ -73,7 +83,7 @@ struct SQLExporter {
 }
 
 
-extension SQLExporter {
+extension SQLPorter {
 	enum ExporterError: LocalizedError {
 		case fileWritingFailed(url: URL, error: Error)
 		
