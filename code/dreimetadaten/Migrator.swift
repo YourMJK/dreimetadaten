@@ -92,10 +92,14 @@ class Migrator {
 		var relationalItem: MetadataRelationalModel.Hörspiel?
 		if !isMediumOnly {
 			// Hörspiel
+			guard let titel = objectItem.titel else {
+				throw MigrationError.missingTitel(hörspiel: objectItem)
+			}
+			
 			let newID = (relationalModel.hörspiel.last?.hörspielID ?? 0) + 1
 			relationalItem = MetadataRelationalModel.Hörspiel(
 				hörspielID: newID,
-				titel: objectItem.titel,
+				titel: titel,
 				kurzbeschreibung: objectItem.kurzbeschreibung,
 				beschreibung: objectItem.beschreibung,
 				metabeschreibung: objectItem.metabeschreibung,
@@ -309,11 +313,16 @@ class Migrator {
 
 extension Migrator {
 	enum MigrationError: LocalizedError {
+		case missingTitel(hörspiel: MetadataObjectModel.Hörspiel)
 		case missingOrMultipleTracks(kapitel: MetadataObjectModel.Kapitel)
 		case pseudonymWithMultiPerson(sprechrolle: MetadataObjectModel.Sprechrolle)
 		
 		var errorDescription: String? {
 			switch self {
+				case .missingTitel(let hörspiel):
+					var hörspielDump = String()
+					dump(hörspiel, to: &hörspielDump, maxDepth: 2)
+					return "Hörspiel has no titel:\n\(hörspielDump)"
 				case .missingOrMultipleTracks(let kapitel):
 					return "Found no or multiple tracks for kapitel: \(kapitel)"
 				case .pseudonymWithMultiPerson(let sprechrolle):
