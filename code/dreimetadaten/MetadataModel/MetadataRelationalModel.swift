@@ -160,6 +160,277 @@ extension MetadataRelationalModel {
 }
 
 
+// MARK: - Database Protocols Conformance
+
+typealias PersistableFetchableTableRecord = TableRecord & FetchableRecord & PersistableRecord
+
+protocol UniquePrimaryKeyName {
+	static var primaryKeyName: String { get }
+}
+
+extension MetadataRelationalModel.SerieFolge: PersistableFetchableTableRecord, Identifiable {
+	static let databaseTableName = "serie"
+	var id: Int { nummer }
+}
+extension MetadataRelationalModel.SpezialFolge: PersistableFetchableTableRecord, Identifiable {
+	static let databaseTableName = "spezial"
+	var id: MetadataRelationalModel.Hörspiel.ID { hörspielID }
+}
+extension MetadataRelationalModel.KurzgeschichtenFolge: PersistableFetchableTableRecord, Identifiable {
+	static let databaseTableName = "kurzgeschichten"
+	var id: MetadataRelationalModel.Hörspiel.ID { hörspielID }
+}
+extension MetadataRelationalModel.DieDr3iFolge: PersistableFetchableTableRecord, Identifiable {
+	static let databaseTableName = "dieDr3i"
+	var id: MetadataRelationalModel.Hörspiel.ID { hörspielID }
+}
+extension MetadataRelationalModel.Hörspiel: PersistableFetchableTableRecord, UniquePrimaryKeyName, Identifiable {
+	static let primaryKeyName = "hörspielID"
+	var id: ID { hörspielID }
+}
+extension MetadataRelationalModel.HörspielTeil: PersistableFetchableTableRecord { }
+extension MetadataRelationalModel.Medium: PersistableFetchableTableRecord, UniquePrimaryKeyName, Identifiable {
+	static let primaryKeyName = "mediumID"
+	var id: ID { mediumID }
+}
+extension MetadataRelationalModel.Track: PersistableFetchableTableRecord, UniquePrimaryKeyName, Identifiable {
+	static let primaryKeyName = "trackID"
+	var id: ID { trackID }
+}
+extension MetadataRelationalModel.Kapitel: PersistableFetchableTableRecord, Identifiable {
+	var id: MetadataRelationalModel.Track.ID { trackID }
+}
+extension MetadataRelationalModel.Person: PersistableFetchableTableRecord, UniquePrimaryKeyName, Identifiable {
+	static let primaryKeyName = "personID"
+	var id: ID { personID }
+}
+extension MetadataRelationalModel.Pseudonym: PersistableFetchableTableRecord, UniquePrimaryKeyName, Identifiable {
+	static let primaryKeyName = "pseudonymID"
+	var id: ID { pseudonymID }
+}
+extension MetadataRelationalModel.Rolle: PersistableFetchableTableRecord, UniquePrimaryKeyName, Identifiable {
+	static let primaryKeyName = "rolleID"
+	var id: ID { rolleID }
+}
+extension MetadataRelationalModel.Sprechrolle: PersistableFetchableTableRecord, UniquePrimaryKeyName, Identifiable {
+	static let primaryKeyName = "sprechrolleID"
+	var id: ID { sprechrolleID }
+}
+extension MetadataRelationalModel.Spricht: PersistableFetchableTableRecord { }
+extension MetadataRelationalModel.HörspielBuchautor: PersistableFetchableTableRecord { }
+extension MetadataRelationalModel.HörspielSkriptautor: PersistableFetchableTableRecord { }
+
+
+// MARK: - Database Writing
+
+extension MetadataRelationalModel {
+	
+	static func createSchema(db: Database) throws {
+		@discardableResult
+		func foreignKeyReference<T: UniquePrimaryKeyName & TableRecord>(
+			_ t: TableDefinition,
+			to tableType: T.Type,
+			name: String? = nil,
+			type: Database.ColumnType? = .integer,
+			onDelete deleteAction: Database.ForeignKeyAction? = .cascade,
+			onUpdate updateAction: Database.ForeignKeyAction? = .cascade
+		) -> ColumnDefinition {
+			t.column(name ?? tableType.primaryKeyName, type)
+				.references(
+					tableType.databaseTableName,
+					onDelete: deleteAction,
+					onUpdate: updateAction
+				)
+				.notNull()
+		}
+		
+		// Hörspiel
+		try db.create(table: Hörspiel.databaseTableName) { t in
+			t.autoIncrementedPrimaryKey(Hörspiel.primaryKeyName)
+				.notNull()
+			t.column("titel", .text)
+				.notNull()
+			t.column("kurzbeschreibung", .text)
+			t.column("beschreibung", .text)
+			t.column("metabeschreibung", .text)
+			t.column("veröffentlichungsdatum", .date)
+			t.column("unvollständig", .boolean)
+				.notNull()
+			t.column("cover", .boolean)
+				.notNull()
+			t.column("urlCoverApple", .text)
+			t.column("urlCoverKosmos", .text)
+		}
+		// HörspielTeil
+		try db.create(table: HörspielTeil.databaseTableName) { t in
+			foreignKeyReference(t, to: Hörspiel.self, name: "teil")
+				.primaryKey()
+			foreignKeyReference(t, to: Hörspiel.self, name: "hörspiel")
+			t.column("position", .integer)
+				.check { $0 > 0 }
+				.notNull()
+			t.column("buchstabe", .text)
+				.check { length($0) == 1 }
+			t.uniqueKey(["hörspiel", "position"])
+			t.uniqueKey(["hörspiel", "buchstabe"])
+		}
+		
+		// SerieFolge
+		try db.create(table: SerieFolge.databaseTableName) { t in
+			t.primaryKey("nummer", .integer)
+				.notNull()
+			foreignKeyReference(t, to: Hörspiel.self)
+				.unique()
+		}
+		// SpezialFolge
+		try db.create(table: SpezialFolge.databaseTableName) { t in
+			foreignKeyReference(t, to: Hörspiel.self)
+				.primaryKey()
+		}
+		// KurzgeschichtenFolge
+		try db.create(table: KurzgeschichtenFolge.databaseTableName) { t in
+			foreignKeyReference(t, to: Hörspiel.self)
+				.primaryKey()
+		}
+		// DieDr3iFolge
+		try db.create(table: DieDr3iFolge.databaseTableName) { t in
+			t.primaryKey("nummer", .integer)
+				.notNull()
+			foreignKeyReference(t, to: Hörspiel.self)
+				.unique()
+		}
+		
+		// Medium
+		try db.create(table: Medium.databaseTableName) { t in
+			t.autoIncrementedPrimaryKey(Medium.primaryKeyName)
+				.notNull()
+			foreignKeyReference(t, to: Hörspiel.self)
+			t.column("position", .integer)
+				.check { $0 > 0 }
+				.notNull()
+			t.column("xldLog", .boolean)
+				.notNull()
+			t.uniqueKey([Hörspiel.primaryKeyName, "position"])
+		}
+		// Track
+		try db.create(table: Track.databaseTableName) { t in
+			t.autoIncrementedPrimaryKey(Track.primaryKeyName)
+				.notNull()
+			foreignKeyReference(t, to: Medium.self)
+			t.column("position", .integer)
+				.check { $0 > 0 }
+				.notNull()
+			t.column("titel", .text)
+				.notNull()
+			t.column("dauer", .integer)
+				.check { $0 > 0 }
+				.notNull()
+			t.uniqueKey([Medium.primaryKeyName, "position"])
+		}
+		// Kapitel
+		try db.create(table: Kapitel.databaseTableName) { t in
+			foreignKeyReference(t, to: Track.self)
+				.primaryKey()
+			foreignKeyReference(t, to: Hörspiel.self)
+			t.column("position", .integer)
+				.check { $0 > 0 }
+				.notNull()
+			t.column("abweichenderTitel", .text)
+			t.uniqueKey([Hörspiel.primaryKeyName, "position"])
+		}
+		
+		// Person
+		try db.create(table: Person.databaseTableName) { t in
+			t.autoIncrementedPrimaryKey(Person.primaryKeyName)
+				.notNull()
+			t.column("name", .text)
+				.notNull()
+				.unique()
+		}
+		// Pseudonym
+		try db.create(table: Pseudonym.databaseTableName) { t in
+			t.autoIncrementedPrimaryKey(Pseudonym.primaryKeyName)
+				.notNull()
+			t.column("name", .text)
+				.notNull()
+				.unique()
+		}
+		// Rolle
+		try db.create(table: Rolle.databaseTableName) { t in
+			t.autoIncrementedPrimaryKey(Rolle.primaryKeyName)
+				.notNull()
+			t.column("name", .text)
+				.notNull()
+				.unique()
+		}
+		// Sprechrolle
+		try db.create(table: Sprechrolle.databaseTableName) { t in
+			t.autoIncrementedPrimaryKey(Sprechrolle.primaryKeyName)
+				.notNull()
+			foreignKeyReference(t, to: Hörspiel.self)
+			foreignKeyReference(t, to: Rolle.self)
+			t.column("position", .integer)
+				.check { $0 > 0 }
+				.notNull()
+			t.uniqueKey([Hörspiel.primaryKeyName, Rolle.primaryKeyName])
+			t.uniqueKey([Hörspiel.primaryKeyName, "position"])
+		}
+		// Spricht
+		try db.create(table: Spricht.databaseTableName) { t in
+			t.primaryKey {
+				foreignKeyReference(t, to: Sprechrolle.self)
+				foreignKeyReference(t, to: Person.self)
+			}
+			
+			t.column(Pseudonym.primaryKeyName, .integer)
+				.references(
+					Pseudonym.databaseTableName,
+					onDelete: .setNull,
+					onUpdate: .cascade
+				)
+		}
+		
+		// HörspielBuchautor
+		try db.create(table: HörspielBuchautor.databaseTableName) { t in
+			t.primaryKey {
+				foreignKeyReference(t, to: Hörspiel.self)
+				foreignKeyReference(t, to: Person.self, name: "buchautor")
+			}
+		}
+		// HörspielSkriptautor
+		try db.create(table: HörspielSkriptautor.databaseTableName) { t in
+			t.primaryKey {
+				foreignKeyReference(t, to: Hörspiel.self)
+				foreignKeyReference(t, to: Person.self, name: "skriptautor")
+			}
+		}
+	}
+	
+	func insertValues(db: Database) throws {
+		func insertAll<T: PersistableRecord>(_ collection: [T]) throws {
+			try collection.forEach { try $0.insert(db) }
+		}
+		try insertAll(hörspiel)
+		try insertAll(hörspielTeil)
+		try insertAll(serie)
+		try insertAll(spezial)
+		try insertAll(kurzgeschichten)
+		try insertAll(dieDr3i)
+		try insertAll(medium)
+		try insertAll(track)
+		try insertAll(kapitel)
+		try insertAll(person)
+		try insertAll(pseudonym)
+		try insertAll(rolle)
+		try insertAll(sprechrolle)
+		try insertAll(spricht)
+		try insertAll(hörspielBuchautor)
+		try insertAll(hörspielSkriptautor)
+	}
+	
+}
+
+
 // MARK: - TSV Encoding
 
 extension MetadataRelationalModel {
