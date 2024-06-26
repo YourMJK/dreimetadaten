@@ -471,8 +471,8 @@ extension MetadataRelationalModel {
 	func tsvStrings() throws -> [(tableName: String, content: String)] {
 		var result: [(tableName: String, content: String)] = []
 		
-		func encodeTable<T: Encodable>(_ name: String, _ keyPath: KeyPath<Self, [T]>) throws {
-			let table = self[keyPath: keyPath]
+		func encodeTable<T: Encodable & TableRecord>(_ table: [T]) throws {
+			let name = T.databaseTableName
 			let tsv: String
 			do {
 				tsv = try Self.tsvString(of: table)
@@ -482,22 +482,22 @@ extension MetadataRelationalModel {
 			}
 			result.append((name, tsv))
 		}
-		try encodeTable("serie", \.serie)
-		try encodeTable("spezial", \.spezial)
-		try encodeTable("kurzgeschichten", \.kurzgeschichten)
-		try encodeTable("dieDr3i", \.dieDr3i)
-		try encodeTable("hörspiel", \.hörspiel)
-		try encodeTable("hörspielTeil", \.hörspielTeil)
-		try encodeTable("medium", \.medium)
-		try encodeTable("track", \.track)
-		try encodeTable("kapitel", \.kapitel)
-		try encodeTable("person", \.person)
-		try encodeTable("pseudonym", \.pseudonym)
-		try encodeTable("rolle", \.rolle)
-		try encodeTable("sprechrolle", \.sprechrolle)
-		try encodeTable("spricht", \.spricht)
-		try encodeTable("hörspielBuchautor", \.hörspielBuchautor)
-		try encodeTable("hörspielSkriptautor", \.hörspielSkriptautor)
+		try encodeTable(serie)
+		try encodeTable(spezial)
+		try encodeTable(kurzgeschichten)
+		try encodeTable(dieDr3i)
+		try encodeTable(hörspiel)
+		try encodeTable(hörspielTeil)
+		try encodeTable(medium)
+		try encodeTable(track)
+		try encodeTable(kapitel)
+		try encodeTable(person)
+		try encodeTable(pseudonym)
+		try encodeTable(rolle)
+		try encodeTable(sprechrolle)
+		try encodeTable(spricht)
+		try encodeTable(hörspielBuchautor)
+		try encodeTable(hörspielSkriptautor)
 		
 		return result
 	}
