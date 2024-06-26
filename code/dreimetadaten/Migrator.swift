@@ -87,7 +87,7 @@ class Migrator {
 	private func migrate(hörspiel objectItem: MetadataObjectModel.Hörspiel, rootHörspielID: MetadataRelationalModel.Hörspiel.ID? = nil) throws -> MetadataRelationalModel.Hörspiel.ID? {
 		let isSingle = objectItem.teile == nil && rootHörspielID == nil
 		let isMedium = objectItem.links?.xld_log != nil || (isSingle && !(objectItem.unvollständig ?? false))
-		let isMediumOnly = isMedium && rootHörspielID != nil
+		let isMediumOnly = isMedium && rootHörspielID != nil && objectItem.titel == nil
 		
 		var relationalItem: MetadataRelationalModel.Hörspiel?
 		if !isMediumOnly {
@@ -123,20 +123,21 @@ class Migrator {
 					skriptautor: $0
 				))
 			}
+			
+			if let objectTeil = objectItem as? MetadataObjectModel.Teil {
+				// Teil
+				relationalModel.hörspielTeil.append(.init(
+					hörspiel: rootHörspielID!,
+					teil: newID,
+					position: objectTeil.teilNummer,
+					buchstabe: objectTeil.buchstabe
+				))
+			}
 		}
 		
 		if isMedium {
 			// Medium
 			migrate(medium: objectItem, hörspielID: relationalItem?.hörspielID, rootHörspielID: rootHörspielID)
-		}
-		else if let objectTeil = objectItem as? MetadataObjectModel.Teil {
-			// Teil
-			relationalModel.hörspielTeil.append(.init(
-				hörspiel: rootHörspielID!,
-				teil: relationalItem!.hörspielID,
-				position: objectTeil.teilNummer,
-				buchstabe: objectTeil.buchstabe
-			))
 		}
 		
 		// Recursive teile
