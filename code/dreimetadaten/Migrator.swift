@@ -98,13 +98,13 @@ class Migrator {
 			objectItem.autor.map(migrate(multiPerson:))?.forEach {
 				relationalModel.hörspielBuchautor.append(.init(
 					hörspielID: newID,
-					buchautor: $0
+					personID: $0
 				))
 			}
 			objectItem.hörspielskriptautor.map(migrate(multiPerson:))?.forEach {
 				relationalModel.hörspielSkriptautor.append(.init(
 					hörspielID: newID,
-					skriptautor: $0
+					personID: $0
 				))
 			}
 			

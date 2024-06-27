@@ -84,13 +84,13 @@ CREATE TABLE IF NOT EXISTS "spricht"(
 );
 CREATE TABLE IF NOT EXISTS "hörspielBuchautor"(
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "buchautor" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
-  PRIMARY KEY("hörspielID", "buchautor")
+  "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
+  PRIMARY KEY("hörspielID", "personID")
 );
 CREATE TABLE IF NOT EXISTS "hörspielSkriptautor"(
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "skriptautor" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
-  PRIMARY KEY("hörspielID", "skriptautor")
+  "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
+  PRIMARY KEY("hörspielID", "personID")
 );
 INSERT INTO "hörspiel" VALUES(1,'und der Super-Papagei',NULL,replace('Der Auftrag an die drei Detektive hört sich recht harmlos an: Sie sollen einen entflogenen Papagei suchen. Doch kaum beginnen sie mit ihren Nachforschungen, da scheinen sich plötzlich noch einige andere Leute sehr für diesen Papagei zu interessieren. Vielleicht deshalb, weil er lateinische Sprüche zitieren kann? Aber bald geht es nicht mehr nur um einen, sondern um sieben Papageien – und alle sieben führen höchst seltsame Reden. Ob da nicht eine geheime Botschaft dahintersteckt? Jedenfalls sind auch ein jähzorniger Kunsthändler und ein berüchtigter Meisterdieb hinter den Vögeln her.\nDie drei ??? müssen sich ganz schön die hellen Köpfe zerbrechen, ehe sie diesen abenteuerlichen Fall aufklären und eine wohlverdiente Belohnung einheimsen …','\n',char(10)),NULL,'1979-10-12',0,1,'http://a1.mzstatic.com/us/r30/Music41/v4/c9/3f/e4/c93fe4aa-c385-ed18-2cb3-e4eeff284f5a/source','http://web.archive.org/web/20220115152728if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f1/48/5f/0743213880129.jpg');
 INSERT INTO "hörspiel" VALUES(2,'und der Phantomsee',NULL,'Welches Geheimnis verbirgt sich in einem vergilbten Brief und in den nach langer Zeit wieder aufgetauchten Aufzeichnungen des Seemanns Angus Gunn? Wurde tatsächlich in einer lange vergangenen Sturmnacht ein Piratenschatz von einem sinkenden Schiff gestohlen? Das möchten die drei Detektive Justus, Peter und Bob ebenfalls gerne wissen. Den Nachkommen von Gunn ist es bisher nicht gelungen, das Versteck des Schatzes ausfindig zu machen. Professor Shay, den diese Sache für seine Arbeit am Historischen Forschungsinstitut interessiert, hatte bislang auch kein Glück. Immer mehr Personen tauchen auf und machen sich verdächtig. Auch Java-Jim, ein undurchsichtiger Seemann, versucht den drei ??? zuvorzukommen. Und welche Rolle spielt Stebins, der wegen Unterschlagung im Gefängnis war und auf Bewährung frei ist? Der Professor vermutet, dass er und Java-Jim zusammenarbeiten …',NULL,'1979-10-13',0,1,'http://a1.mzstatic.com/us/r30/Music62/v4/87/1c/7f/871c7f1c-fdf1-bed9-bf1b-eb7ab73ec448/source','http://web.archive.org/web/20211227022703if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/36/60/e9/0743213880228.jpg');

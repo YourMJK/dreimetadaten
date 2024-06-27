@@ -149,12 +149,12 @@ extension MetadataRelationalModel {
 	
 	struct HörspielBuchautor: Codable {
 		var hörspielID: Hörspiel.ID
-		var buchautor: Person.ID
+		var personID: Person.ID
 	}
 	
 	struct HörspielSkriptautor: Codable {
 		var hörspielID: Hörspiel.ID
-		var skriptautor: Person.ID
+		var personID: Person.ID
 	}
 	
 }
@@ -394,14 +394,14 @@ extension MetadataRelationalModel {
 		try db.create(table: HörspielBuchautor.databaseTableName) { t in
 			t.primaryKey {
 				foreignKeyReference(t, to: Hörspiel.self)
-				foreignKeyReference(t, to: Person.self, name: "buchautor")
+				foreignKeyReference(t, to: Person.self)
 			}
 		}
 		// HörspielSkriptautor
 		try db.create(table: HörspielSkriptautor.databaseTableName) { t in
 			t.primaryKey {
 				foreignKeyReference(t, to: Hörspiel.self)
-				foreignKeyReference(t, to: Person.self, name: "skriptautor")
+				foreignKeyReference(t, to: Person.self)
 			}
 		}
 	}
