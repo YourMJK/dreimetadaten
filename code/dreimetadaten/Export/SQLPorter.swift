@@ -26,7 +26,7 @@ struct SQLPorter {
 			handle = try FileHandle(forWritingTo: sqlFile)
 		}
 		catch {
-			throw ExporterError.fileWritingFailed(url: sqlFile, error: error)
+			throw IOError.fileWritingFailed(url: sqlFile, error: error)
 		}
 		defer { handle.closeFile() }
 		
@@ -42,25 +42,34 @@ struct SQLPorter {
 		// Append `end`
 		handle.seekToEndOfFile()
 		handle.write(end)
+		handle.closeFile()
+		
+		// Normalize
+		let contents = try Self.readAndNormalize(contentsOf: sqlFile)
+		do {
+			try contents.write(to: sqlFile, atomically: false, encoding: .utf8)
+		}
+		catch {
+			throw IOError.fileWritingFailed(url: sqlFile, error: error)
+		}
 	}
 	
 	func `import`(from sqlFile: URL) throws {
-		try sqliteCommand(arguments: [
-			".read \"\(sqlFile.relativePath)\""
-		])
+		let contents = try Self.readAndNormalize(contentsOf: sqlFile)
+		try sqliteCommand(arguments: [], input: contents)
 	}
 	
 	
-	private func sqliteCommand(arguments sqliteArgs: [String], output: FileHandle = .standardOutput) throws {
+	private func sqliteCommand(arguments sqliteArgs: [String], output: FileHandle = .standardOutput, input: String? = nil) throws {
 		var arguments = [databaseFile.relativePath]
 		arguments.append(contentsOf: sqliteArgs)
 		
-		let stderrPipe = Pipe()
+		let stdinPipe = Pipe()
 		let proc = Process()
 		proc.executableURL = sqliteBinary
 		proc.arguments = arguments
-		proc.standardError = stderrPipe
 		proc.standardOutput = output
+		proc.standardInput = stdinPipe
 		proc.environment = ProcessInfo.processInfo.environment
 		
 		do {
@@ -69,42 +78,55 @@ struct SQLPorter {
 		catch {
 			throw SQLiteError.processFailed(error: error)
 		}
+		if let input {
+			stdinPipe.fileHandleForWriting.write(input)
+			stdinPipe.fileHandleForWriting.closeFile()
+		}
 		proc.waitUntilExit()
 		
-		let stderrData = stderrPipe.fileHandleForReading.readDataToEndOfFile()
-		stderrPipe.fileHandleForReading.closeFile()
-		
 		guard proc.terminationStatus == 0 else {
-			let stderrString = String(data: stderrData, encoding: .utf8)?.trimmingCharacters(in: .newlines)
-			let error = stderrString.map { $0.isEmpty ? nil : $0 } ?? nil
-			throw SQLiteError.commandFailed(arguments: sqliteArgs, error: error)
+			throw SQLiteError.commandFailed(arguments: sqliteArgs)
+		}
+	}
+	
+	private static func readAndNormalize(contentsOf url: URL) throws -> String {
+		do {
+			// Normalize Unicode characters into NFC, e.g. replacing "\u{0061}\u{0308}" (LATIN SMALL LETTER A + COMBINING DIAERESIS) with "\u{00E4}" (LATIN SMALL LETTER A WITH DIAERESIS)
+			let contents = try String(contentsOfFile: url.path, encoding: .utf8)
+			return contents.precomposedStringWithCanonicalMapping
+		}
+		catch {
+			throw IOError.fileReadingFailed(url: url, error: error)
 		}
 	}
 }
 
 
 extension SQLPorter {
-	enum ExporterError: LocalizedError {
+	enum IOError: LocalizedError {
 		case fileWritingFailed(url: URL, error: Error)
+		case fileReadingFailed(url: URL, error: Error)
 		
 		var errorDescription: String? {
 			switch self {
 				case .fileWritingFailed(let url, let error):
 					return "Couldn't write to file \"\(url.relativePath)\": \(error.localizedDescription)"
+				case .fileReadingFailed(let url, let error):
+					return "Couldn't read file \"\(url.relativePath)\": \(error.localizedDescription)"
 			}
 		}
 	}
 	
 	enum SQLiteError: LocalizedError {
 		case processFailed(error: Error)
-		case commandFailed(arguments: [String], error: String?)
+		case commandFailed(arguments: [String])
 		
 		var errorDescription: String? {
 			switch self {
 				case .processFailed(let error):
 					return "Process execution failed: \(error.localizedDescription)"
-				case .commandFailed(let arguments, let error):
-					return "SQLite command with arguments \(arguments) failed\(error.map { ":\n\($0)" } ?? "")"
+				case .commandFailed(let arguments):
+					return "SQLite command with arguments \(arguments) failed"
 			}
 		}
 	}
