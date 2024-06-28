@@ -13,7 +13,7 @@ import ArgumentParser
 struct Command: ParsableCommand {
 	static let configuration = CommandConfiguration(
 		commandName: executableName,
-		version: "1.0.0",
+		version: "1.1.0",
 		subcommands: [Migrate.self, Export.self, WebBuild.self, Load.self],
 		helpMessageLabelColumnWidth: 20
 	)
