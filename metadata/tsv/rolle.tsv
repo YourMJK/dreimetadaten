@@ -813,1002 +813,1186 @@ rolleID	name
 812	Charly
 813	Turnbull
 814	Dizzy
-815	Caitlin Kopperschmidt
-816	Jeremy Kopperschmidt
-817	Graig Kopperschmidt
-818	George
-819	Anthony Quinn
-820	Martha
-821	Felix Kopperschmidt
-822	Ken Parker, Beachball-Spieler
-823	Dr. Robinson
-824	Mickey McQuire
-825	Mrs. Bancroft
-826	Zuschauer
-827	Jupiter Jones
-828	Peter Crenshaw
-829	Bob Andrews
-830	Sylvester Meyzel
-831	Dorothy Winter
-832	Mr. Hendrik
-833	Kassiererin
-834	Inspektor Milton
-835	Inspektor Tomlin
-836	Mr. X
-837	Tao
-838	Supermarkt-Durchsage
-839	James Taylor
-840	Ray Wells
-841	Frank Caspian
-842	Jonathan Grant
-843	Christy Grant
-844	George Drummond
-845	Tom Drummond
-846	Onkel Titus Jones
-847	Tante Mathilda Jones
-848	Mr. Walker
-849	Donald Forthland
-850	Shane Montana
-851	Jim
-852	Doc Brown
-853	Finnegan
-854	Jack Doolan
-855	Miss Lana
-856	Mademoiselle Nadine
-857	Toby Grissom
-858	Frank Mortimer
-859	Ellen Maxell
-860	Audrey Moonshadow
-861	Sandy Stryker
-862	Mandy Honeyball
-863	Mars Chaplin
-864	Marty Stevens
-865	Joshua Apeh
-866	Claudia Salazar
-867	Ralf Dempsey
-868	Marvin Cox
-869	Anna
-870	Hapa
-871	Lastwagenfahrer
-872	Taro Togati
-873	Officer Hunter
-874	Türsteher
-875	Motelangestellter
-876	Museumsdirektor
-877	Harvey Denton
-878	Mrs. Fox
-879	Arthur Heatherly
-880	Melissa Heatherly
-881	Shawn
-882	Jolene
-883	Leah
-884	Sue
-885	Kimberly Lloyd
-886	William Boyd
-887	Thorndike
-888	Fred Jenkins
-889	Mr. Campbell
-890	Sam Reilly
-891	Carl Sheehan
-892	Collins
-893	Mr. Kingsley
-894	Mrs. Kingsley
-895	Devlin Reno
-896	Dr. Long
-897	Emiliano
-898	Pancho
-899	Esperanza
-900	Pedro
-901	Abelardo
-902	Mr. O'Sullivan
-903	Butler Paul
-904	Aufsicht
-905	Jaccard (Off-Stimme)
-906	Andy Miller
-907	Sharon Lockwood
-908	Moderator
-909	Rubbish George
-910	Graham, Reporter
-911	Julianne Wallace
-912	Mrs. Albright
-913	Mr. Myers
-914	Charles Knox
-915	Ansager
-916	Nachtschatten
-917	Mr. Baker
-918	Dr. Chandler
-919	Austin
-920	Dwain
-921	Mr. Monroe
-922	Professor Rosenberg
-923	José
-924	Steve Bright
-925	Brian Smith
-926	Wächter
-927	Mrs. Osborne
-928	Mr. Pentecost
-929	Senora Gonzalez
-930	Mrs. Bennett
-931	Crowle
-932	Casey Wye
-933	Oliver Taper
-934	Layla
-935	Alaa Edine
-936	Abazza
-937	Kamelhändler
-938	Kamelführer
-939	Ägypter
-940	Kommissar
-941	Aisha
-942	Verkäufer
-943	Dick Vincent
-944	Taxifahrer
-945	Beverly Leung
-946	Thomas Johnson
-947	James
-948	Daniel Baker
-949	Mr. Grogan
-950	Lloyd Scavenger
-951	Jack Lowell
-952	Alexander Nolan
-953	Jaqueline Williams
-954	Ian Parsley
-955	Mary Parsley
-956	Jasper Kittle
-957	Shawne Davison
-958	Officer Wood
-959	Miss Bennett
-960	Karen
-961	Becky
-962	Felicia Sparing
-963	Mrs. Amelia Sparing
-964	Mr. Sparing
-965	Professor Alkurah
-966	Eroll
-967	Mrs. Featherstone
-968	Sergeant Ludlow
-969	Banden-Chef
-970	Eddy Reardon
-971	Spanier
-972	Italiener
-973	Gauner
-974	Gehilfe
-975	Christine
-976	Mr. Bambridge
-977	Lo Wang
-978	Anthony Hearst
-979	Truck-Fahrer
-980	Avercromby
-981	Pilot
-982	Liolotta
-983	Sarah Livingston
-984	Elvira Zuckerman
-985	Darren Duff
-986	Taucher Carl
-987	Taucherin Joan
-988	Paul Brooks
-989	Joe Wilcox
-990	Cassandra Wilcox
-991	Doktor Holloway
-992	Cedric Duff
-993	Winston Granville
-994	Matthew Granville
-995	Smithy
-996	Mr. Jackmore
-997	Professor Frazier
-998	Davy Swann
-999	Craig Holden
-1000	Löwenritter
-1001	Helena Darraz
-1002	Pritchard
-1003	Sid
-1004	Caroline
-1005	Steven
-1006	Ernest
-1007	Radioansagerin
-1008	Harvey Griscom
-1009	John Dellcourt
-1010	Miss Darraz
-1011	Josy McDonaghough
-1012	Homer Diesel
-1013	Mary Stamper
-1014	Otis Stamper
-1015	Jonathan Black
-1016	Miles Black
-1017	Klara Kowalski
-1018	Silvester Proud
-1019	Pfarrer Clark
-1020	Jeffrey Seaman
-1021	Eric
-1022	Mr. Settler
-1023	Patrick O'Brian
-1024	William de Haas
-1025	Theodor Brewster
-1026	Officer Flann Doyle
-1027	Tanya Sullivan
-1028	Sebastian Dawson
-1029	Miss Tomkins
-1030	Mr. Foley
-1031	John Gabbin
-1032	Matthew Gabbin
-1033	Georgina
-1034	Gil Renard
-1035	Hedy Carlson
-1036	Steve
-1037	Laury
-1038	Gast 1
-1039	Fahrerin
-1040	Peter Foster
-1041	Annie Wilkes
-1042	Mädchen 1
-1043	Mädchen 2
-1044	Alter Mann
-1045	Junger Mann
-1046	Walter Bush
-1047	Ian Bush
-1048	Jimmy Sinclair
-1049	Charlie Parker
-1050	Brianna Jackson
-1051	Chloe Smathers
-1052	Joseph Quick
-1053	Mr. Raynes
-1054	Jeff White
-1055	Bedienung
-1056	Gast
-1057	Carol Ford
-1058	Francis Studstill
-1059	Baxter Norsworthy
-1060	Gordon Hoke
-1061	Jared Fox
-1062	Candace Duskin
-1063	George Bennet
-1064	Greg Harper
-1065	Woodland
-1066	Reporterin
-1067	Wellford
-1068	Lautsprecherstimme
-1069	Richie Hanson
-1070	Benni
-1071	Jacki Jin
-1072	Croupier
-1073	Arthur Sinclair
-1074	Mr. Peastone
-1075	Jeremy Witherspoon
-1076	Barnaby Witherspoon
-1077	Takasi Yukawa
-1078	Frank Hektor
-1079	Sean Doherty
-1080	Mandy
-1081	Zeno Daniels
-1082	Percy
-1083	Keko
-1084	Anthony Fender
-1085	Ben
-1086	Silvia
-1087	Spud
-1088	O-Ian
-1089	Setch
-1090	Hi-Top
-1091	Car
-1092	Chip-Shape
-1093	Carol
-1094	Slide Terranova
-1095	P. "Pejo" Joseph McGaskill
-1096	Hausmeister
-1097	Bau-Kollege
-1098	Weibl. Offstimme
-1099	Werbestimme
-1100	Menge
-1101	Quentin Wadleigh
-1102	Dr. Winston Wadleigh
-1103	Dr. John Frears
-1104	Jamie
-1105	Sammy
-1106	Mrs. Pitkätossu
-1107	Jackall Madson
-1108	Tiger Madson
-1109	Vivian
-1110	Fitzwilliam Waterfield
-1111	Sanitäter
-1112	Adam Campbell
-1113	Henry Campbell
-1114	John Taylor
-1115	Edward Crockett
-1116	Mrs. Harkort
-1117	Mr. Prescott
-1118	Jack Leech
-1119	Einbrecher
-1120	Ursula Burns
-1121	Emerald Pendragon
-1122	Carl Parsley
-1123	Sunshine
-1124	Cynthia McGowan
-1125	Mina Parker
-1126	Brandon Fraser
-1127	Beatrix Fraser
-1128	Roxy
-1129	Josh
-1130	Paul
-1131	Davis
-1132	Frank Mason
-1133	Miles Dempster
-1134	Mr. Sapchevsky
-1135	Gerry
-1136	Ismael
-1137	Carla Fenton
-1138	Mrs. Maruthers
-1139	Inspektor Havilland
-1140	Taylor
-1141	Angelica
-1142	Schwester 1
-1143	Schwester 2
-1144	Pfleger
-1145	Curtis Fisher
-1146	Amrita Chakyar
-1147	Sergeant Madhu
-1148	Mr. Raffer
-1149	Kapitän
-1150	John Fisher
-1151	Mr. Castro
-1152	Anudhara
-1153	Ruth
-1154	Doktor Ax Me
-1155	Stinky Rossiter
-1156	Fear Crowther
-1157	Mouth Crosby
-1158	Mack Dolland
-1159	Eric Mukogawa
-1160	Marilla
-1161	Rosie
-1162	Laurence Seinfeld
-1163	Denzel Hopkins
-1164	Goldie Hopkins
-1165	Neil Rockwell
-1166	Mrs. Summer Hopkins
-1167	Brooks, Galerist
-1168	Mr. Elroy Follister
-1169	Wayne
-1170	Gefängniswärter
-1171	Greis
-1172	Beamter
-1173	Bert Young
-1174	Mrs. Johnson
-1175	Chapman
-1176	Blake
-1177	Sunny
-1178	Fernsehe-Sprecher
-1179	Francesco
-1180	Sean O'Donnell
-1181	Alexander Chilton
-1182	Mann im Stadion
-1183	Frau im Police Department
-1184	Mrs. Gardiner
-1185	Inspektor Craig
-1186	Tom Chilton
-1187	Junger Mann auf der Pier
-1188	Junge im Stadion
-1189	Live-Kommentator
-1190	Frau auf dem Pier
-1191	Prof. Jane Heathcliff
-1192	Mr. Grey
-1193	Lester Price
-1194	Cinelly
-1195	Miss Deborah Cassidy
-1196	Mr. Burke
-1197	Miss Trimble
-1198	Mr. Weston
-1199	Nachbarin
-1200	Michael Kowalski
-1201	Zack Martin
-1202	Mary-Ann Leigh
-1203	Latona Johnson
-1204	Frank Norman
-1205	Mrs. Robinson
-1206	Angela Sciutto
-1207	Federico Sciutto
-1208	Mr. Torrance
-1209	Kind
-1210	Ryan Holbrooke
-1211	Sheriff Pickett
-1212	Stephen Baron
-1213	Zyklon
-1214	Al Dahab
-1215	Matthew
-1216	Zabriski
-1217	Fred
-1218	Riese
-1219	Hunnicutt
-1220	Sheila
-1221	Felicity
-1222	Chester
-1223	Gizmo
-1224	Mr. Vancura
-1225	Shannon
-1226	Mr. Mosley
-1227	Patricia
-1228	Peter Shawn
-1229	Marty
-1230	Mrs. Floyd
-1231	Vincent Grimes
-1232	Juliet
-1233	Scott
-1234	Mr. Darrow
-1235	Mann 3
-1236	Michelle
-1237	Ronald Pounder
-1238	Maurice Blight
-1239	Betsy
-1240	Isabella
-1241	Vladas Abakulow
-1242	Moody Firthway
-1243	Jenna
-1244	Mann 4
-1245	Caroline Cotta
-1246	Sergeant Donatelli
-1247	Barbara
-1248	Professor Mathewson
-1249	Arthur
-1250	Alan Jones
-1251	Shu Liin
-1252	Stadtverwalter
-1253	Feuerschlucker
-1254	Greenwalt
-1255	Brock
-1256	Deforge
-1257	Mrs. Kretchmer
-1258	Mrs. Espenson
-1259	Mrs. Wondratschek
-1260	Mrs. Field
-1261	Prof. Arnold Brewster
-1262	Miss Daggett
-1263	Hold
-1264	Hank Tornby
-1265	Mike Cobble
-1266	Martin Ishniak
-1267	Samuel Cobble
-1268	William Prescott
-1269	Jim Sesto
-1270	Fynch
-1271	Lenni
-1272	John Greyfox
-1273	Clay Carson
-1274	Walter
-1275	Freddy Hays
-1276	Spieler
-1277	Randy
-1278	Jeanne
-1279	Ginette
-1280	Tara
-1281	Ranger Thornton
-1282	Mr. Louis
-1283	Busfahrer
-1284	Lindsey
-1285	Mr. Bennet
-1286	Mrs. Dearing
-1287	Conrad Nash
-1288	Mrs. Hampton
-1289	Nicky DeLores
-1290	Mrs. Woodrow
-1291	Judy Nigel
-1292	Direktor Grayston
-1293	Gregory Katic
-1294	Mr. Clark
-1295	Tarzan
-1296	Mr. Callister
-1297	Lionel Pengrim
-1298	Ned
-1299	Emily White
-1300	Judy Fradkin
-1301	Aladin
-1302	Aschenputtel
-1303	Prinzessin
-1304	Rotkäppchen
-1305	Meerjungfrau
-1306	Arzt
-1307	Mrs. Wallace
-1308	Bobby
-1309	Carl Hopkins, Physiker
-1310	Miller, Schiffsdetektiv
-1311	Kapitän Sherwood
-1312	Theodore Quaid
-1313	Jamie Peterson, Barmann
-1314	Handerson
-1315	Diego
-1316	Nayeli
-1317	Barker
-1318	Off-Sprecherin
-1319	Deborah
-1320	Samuel Rodman
-1321	Benjamin Rodman
-1322	Vallery Flockheart
-1323	Nigel Tillerman
-1324	Josh Reilly
-1325	Lexington
-1326	Journalistin
-1327	Prescott
-1328	Sergeant Morales
-1329	Mr. Arvidson
-1330	Mrs. Arvidson
-1331	Bradley
-1332	Bishop Blake
-1333	Junge Frau
-1334	Derek
-1335	Mrs. Kretschmer
-1336	Chastity
-1337	Charity
-1338	Sam Chiccarelli
-1339	Griffin Silverman
-1340	Mitch Palmer
-1341	Dimitri
-1342	Roy
-1343	Boss
-1344	Cindy
-1345	Rockford
-1346	Casino-Besucher
-1347	Casino-Besucherin
-1348	Rezeption 1
-1349	Rezeption 2
-1350	Fernfahrer
-1351	Putzfrau
-1352	Harry Salas
-1353	Vanessa Goodstein
-1354	Eliah Cristobal
-1355	Albert Goodstein
-1356	Ben Kramer
-1357	Fiona Kramer
-1358	Jimmy Blue Eye
-1359	Rosaria
-1360	Silvie
-1361	Jessy
-1362	Rikuo Yamamoto
-1363	Drago Martinez
-1364	Fred Osborne
-1365	Cecile Jezero
-1366	Short
-1367	Anthony
-1368	Heavy Metal
-1369	Arthur Pepper
-1370	Rupert
-1371	Gwendolyn Pembroke
-1372	Lance Vaughn
-1373	'The Destroyer'
-1374	Darby Farnham
-1375	Earl Forrester
-1376	Alvin Cray
-1377	Mr. Lloyd
-1378	Guillermo
-1379	Stanley Morgan
-1380	Grace Powell
-1381	Angus
-1382	Baxter
-1383	Kranführer
-1384	Jeremy Bright
-1385	Taylor-Jackson
-1386	Francine Breckenridge
-1387	A.C. Berany
-1388	Samantha
-1389	Corvy
-1390	Lemuel Garvine
-1391	Prof. Roalstad
-1392	Gamma
-1393	Barfrau
-1394	Lederhose
-1395	Telefonstimme
-1396	Jason
-1397	Mrs. Roalstad
-1398	Mrs. Fernandez
-1399	Emery
-1400	Ginger
-1401	Ivy
-1402	Prof. Haynthorb
-1403	Dr. Wilcomb
-1404	Polizist 3
-1405	Sidney
-1406	Tiffany
-1407	Salma Hutchinson
-1408	Trevor Pomery
-1409	Beatrice
-1410	Claire
-1411	Pflegerin
-1412	Roger Wolf
-1413	Menge Fußballstadion
-1414	Dusty Kirkpatrick
-1415	Miranda Kramer
-1416	Barclay
-1417	Brian
-1418	Raven
-1419	Dr. Hardwick
-1420	Robert
-1421	Manolo
-1422	Barbara Mathewson
-1423	Zacharias Faring
-1424	Malone
-1425	Ben Crane
-1426	Timothy Jackson
-1427	Reginald
-1428	Evander Whiteside
-1429	Wendy Brown
-1430	Christopher Barclay
-1431	Edgar Bristol
-1432	Carter Godfrey
-1433	Chuck Foster
-1434	Busfahrer Sam
-1435	Officer Ossietzky
-1436	Matt
-1437	Stephen
-1438	Polizist Jerry
-1439	Michael Rompa
-1440	Afton
-1441	Chef
-1442	Ron
-1443	Ansage
-1444	Hüne
-1445	Nancy McMonigal
-1446	Tom
-1447	Rod
-1448	Mariann
-1449	TV-Sprecher
-1450	Malcolm Fever
-1451	Lucy Hopkins
-1452	Professor Selby
-1453	Oberpriesterin
-1454	Mann in Kutte
-1455	Radio
-1456	Mr. Tilton
-1457	Mr. Walsh
-1458	Weise Frau
-1459	Samuel
-1460	Liz Zapata
-1461	Quinn
-1462	Nightingale
-1463	Mrs. Thompson
-1464	Mrs. Kato
-1465	Sullivan
-1466	Angelina
-1467	Joshua
-1468	Randy Carlisle
-1469	Mia
-1470	Mrs. Crouch
-1471	Edna Shinefield
-1472	Ronny
-1473	Loreen
-1474	TV-Moderatorin
-1475	Daphne
-1476	Kiera
-1477	Luther Litti
-1478	Kyle Caldwell
-1479	Hay
-1480	Lenny The Rock
-1481	Sue Tamara
-1482	Tim Durnell
-1483	Keith
-1484	Debbie Peterson
-1485	Frank Wheeler
-1486	Clayton
-1487	Partygäste
-1488	Jesse
-1489	Jaden
-1490	April
-1491	Autumn
-1492	Charles Morland
-1493	Tanika Frost
-1494	Savannah Frost
-1495	Dennis Frost
-1496	Jane Thompson
-1497	Tyler
-1498	Gardener
-1499	Adam Quinn
-1500	Mr. Carrington
-1501	Mrs. Carrington
-1502	Liza Hawkins
-1503	Mr. Hawkins
-1504	Mrs. Hawkins
-1505	Leslie Logue-Smith
-1506	Schauspieler
-1507	Britney Rogers
-1508	Mr. Sisko
-1509	Ben Peck
-1510	Sandra
-1511	TV-Nachrichtensprecher
-1512	Doktor Burke
-1513	Mrs. Penny
-1514	Schwester Beatrice
-1515	Mr. Hooper
-1516	Ellyn Djawadi
-1517	Mr. Turner
-1518	Kramer
-1519	Emma Bailey
-1520	Lewis Geriwell
-1521	Henry Appleton
-1522	Amber
-1523	Laura
-1524	Gerald
-1525	Nat
-1526	Nader Rope
-1527	Dylan Harvey
-1528	Mrs. Violet Conroy
-1529	Mr. Alex Scott
-1530	Myriel
-1531	Zimmermädchen
-1532	Zimmerjunge
-1533	Mutter im Stadtpark
-1534	Klein Peter
-1535	Kellnerin im Hotel
-1536	Handwerker im Hotel 1
-1537	Handwerker im Hotel 2
-1538	Internetcafébesitzer
-1539	Vortragsbesucher, Parkbesucher, Frühstücksgäste, Nachbarn
-1540	Anruferin
-1541	Anrufer
-1542	Regisseur
-1543	Redakteurin
-1544	Mr. Whitty
-1545	Cowboy Dick
-1546	Mr. Arbuthnott
-1547	Mrs. Lockwood
-1548	Einsatzleiter
-1549	Mechaniker
-1550	Jeff Ranaldo
-1551	Mr. McBrandon
-1552	Roboter
-1553	Bruce Torino
-1554	Priscilla Sicktree
-1555	Ashlyn
-1556	Rosie Wrenwick
-1557	Sheriff Stone
-1558	Hilfssheriff Jonathan
-1559	Zuko
-1560	Katara
-1561	Xiang Than
-1562	Fan Quoc
-1563	Fan Yuen
-1564	Dealerin
-1565	Chinese 1
-1566	Chinese 2
-1567	Fan Hao
-1568	Einlass
-1569	Angler
-1570	Mac Anderson
-1571	Grady
-1572	Pettengill
-1573	Sheriff Rolins
-1574	Farragut
-1575	Cynthia Wetmore
-1576	Hotelier
-1577	Gladys Pixie
-1578	Frank Firhouse
-1579	Maggie Smith
-1580	Aurora
-1581	Angela
-1582	Conchita Dominguez
-1583	Heather
-1584	Folder
-1585	Hopper
-1586	Rezeptionist
-1587	Wally Robertson
-1588	Charmayne Robertson
-1589	Dwaight Hayward
-1590	Mrs. Flagstaff
-1591	Helen
-1592	Vater
-1593	Marc Kingstone
-1594	Aaron Kingstone
-1595	Sarah
-1596	Mrs. McGee
-1597	Toby
-1598	Mrs. Wells
-1599	Ericsson
-1600	Sprecher/Moderator
-1601	Tarek Shabana
-1602	Tasha
-1603	Domino Laverna
-1604	Biff Rodgers, Reporter
-1605	Zeus Zenon Johnson
-1606	Computer
-1607	Off-Sprecher
-1608	Sprecher
-1609	Osiris
-1610	Vandaan
-1611	Frank Corman / Mr Giggles
-1612	Trixie Stiles
-1613	Bryan Bonfanti
-1614	Henson
-1615	Matthew Kooning
-1616	Doktor Kooning
-1617	Mrs. Kooning
-1618	Finnley Stenseth
-1619	Farryn Stenseth
-1620	Mrs. Stenseth
-1621	Stacey Warren
-1622	Surferin
-1623	Surfer
-1624	Dylan
-1625	M. Keen
-1626	Elliot Littlehorn
-1627	Tobin Muller
-1628	Amalia
-1629	Zauberer Miller
-1630	Kelvin Mitchell
-1631	Leigh
-1632	Zoey
-1633	Mabel
-1634	Glatzkopf
-1635	Dustin Cooper
-1636	Wahrsagerin Susannah
-1637	Dr. Benchfield
-1638	Mr. Aaron Grover
-1639	Msr. Patricia Grover
-1640	Elodie Grover
-1641	Desmond Cathpole
-1642	Hausmeister Spencer
-1643	Mr. Rubberwood
-1644	Mr. Parker Mayfield
-1645	Ben Hustler
-1646	Loomy
-1647	Angie
-1648	Lesley
-1649	Buchhändlerin
-1650	Kathy
-1651	Laurenne Duffy
-1652	Joe Patwin
-1653	Trevor Tompson
-1654	Bruce Osborne
-1655	Walt Duffy
-1656	Jorunn
-1657	Mrs. Planter
-1658	Deidre
-1659	Special Agent Ross
-1660	Special Agent Wright
-1661	Potato-Fred
-1662	Mr. Pinches
-1663	Carter Bridou
-1664	Trish
-1665	Giovanni
-1666	Rosaly
-1667	Matteo
-1668	Charles Stapleton
-1669	Direktor Greenwalt
-1670	Papagei
-1671	Mr. Mason Huntington
-1672	Mrs. Brankle
-1673	Xeni
-1674	Mrs. Seymore-Wrightson
-1675	Franklyn Seymore
-1676	Liane Shore
-1677	Minh
-1678	Mark
-1679	Stéphane Mertens
-1680	Ron Baxter
-1681	Mrs. Willard
-1682	Tilan
-1683	Bootsie Washington
-1684	Majorie Dever
-1685	Leland Hanson
-1686	Perceval
-1687	Mercury
-1688	Coldfield
-1689	Urs
-1690	Nicolas
-1691	Carver
-1692	Oisin Murphy
-1693	Lelia Murphy
-1694	Virgil
-1695	Wanda Waffle
-1696	Smiddie
-1697	Clown
-1698	Zamora
-1699	Easly
-1700	Zach Cannings
-1701	Nicole
-1702	Mitarbeiter
-1703	Sara Roskin
-1704	Caden Devlin
-1705	Offizier der Küstenwache 1
-1706	Offizier der Küstenwache 2
-1707	Jock
-1708	Gavin Sterling
-1709	Judith Sterling
-1710	Leopold Nelson
-1711	Marlow
-1712	Rick
-1713	Mrs. Torres
-1714	Dark Blue D
-1715	Busfahrerin
-1716	Fairfax
-1717	Zachary
-1718	Butler Francis
-1719	Mrs. Dutton
-1720	Noreen
-1721	Mrs. Mobray
-1722	Miyazawa
-1723	Jojo
-1724	Mrs. Carmichael
-1725	Mr. Jeremiah Carmichael
-1726	Gravedigger
-1727	Kruger
-1728	Annabelle Delaney
-1729	Claire Delaney
-1730	Ace Hall
-1731	Vince Buchanan
-1732	Neal Buchanan
-1733	Pearson
-1734	Kommissarin Lisa Merryweather
-1735	Elena Fleckenstein
-1736	Roderick Sanders
-1737	Officer Brown
-1738	Angestellte im Altenheim
-1739	Arnold Grasso
-1740	Dale Congden
-1741	Professor Hogan
-1742	Officer
-1743	Kendra Bowman
-1744	Huxley, Sittich
-1745	Trevor
-1746	Mrs. Julia Scott
-1747	Gwendolyn
-1748	Nicholas
-1749	Raphael Luca
-1750	Mrs. Bronkowitz
-1751	Lady
-1752	Dame
-1753	Hunter Scott
-1754	Pamela Parker, Olivias Mutter
-1755	Eudora Kretschmer
-1756	Canyon Brookside
-1757	Owens
-1758	Bernie Walters
-1759	Edgar Mulligan
-1760	Swift
-1761	Detective Ella
-1762	Officer James
-1763	Paul Forsters
-1764	Esprit
-1765	Anthony Spring
-1766	Bill Greyfield
-1767	Karen Greyfield
-1768	Ralph Sanders
-1769	Dylan Reid
-1770	Zoe
-1771	Simon Cobby
-1772	Angela van Limbeek
-1773	John Addington
-1774	Doktor Williams
-1775	Professor Douglas Bancroft
-1776	Butler Vernom
-1777	Miss Mortimer
-1778	Elwood Shoreland
-1779	Darian
-1780	Amanda Blunt
-1781	Lyn
-1782	Opossum
-1783	Nancy
-1784	Odo
-1785	Dimwitt
-1786	Colstone
-1787	Moderatorin
-1788	Trenton
-1789	Buzzy
-1790	Roberta
-1791	Evander Prettyman
-1792	Liam
-1793	Lincoln
-1794	Maya
-1795	Haylie
-1796	Mambo Mawu
-1797	Kommissarin Martinez
-1798	Larry
-1799	Thabani Mathoho
-1800	Clayton Badu
-1801	Cumba Balewa
-1802	Mr. Bumblebee
-1803	Mrs. Evans
-1804	Mr. Powers
-1805	Meyer
-1806	Polizistin
-1807	PJ
-1808	Finn
-1809	Beatriz
-1810	Mrs. Haynes
-1811	Mr. Haynes
-1812	Chloe
-1813	Wilfred
+815	Opa
+816	Senora
+817	Caitlin Kopperschmidt
+818	Jeremy Kopperschmidt
+819	Graig Kopperschmidt
+820	George
+821	Anthony Quinn
+822	Martha
+823	Felix Kopperschmidt
+824	Ken Parker, Beachball-Spieler
+825	Dr. Robinson
+826	Mickey McQuire
+827	Mrs. Bancroft
+828	Zuschauer
+829	Jupiter Jones
+830	Peter Crenshaw
+831	Bob Andrews
+832	Inspektor Milton
+833	Mrs. Ashby
+834	Charles Prendergast
+835	Richard Crandall
+836	Kirk Prendergast
+837	Jonathan Godfrey
+838	Garrett
+839	Riteman
+840	Stanley
+841	Sylvester Meyzel
+842	Dorothy Winter
+843	Mr. Hendrik
+844	Kassiererin
+845	Inspektor Tomlin
+846	Mr. X
+847	Tao
+848	Supermarkt-Durchsage
+849	James Taylor
+850	Ray Wells
+851	Frank Caspian
+852	Jonathan Grant
+853	Christy Grant
+854	George Drummond
+855	Tom Drummond
+856	Tante Mathilda Jones
+857	Mr. Overlook
+858	Portier Stanley
+859	Liftboy Jack
+860	Barkeeper Lloyd
+861	Mr. Torrance
+862	Mrs. Torrance
+863	Shelley Torrance
+864	Stuart
+865	Danny
+866	Police Officer
+867	Onkel Titus Jones
+868	Mr. Walker
+869	Donald Forthland
+870	Shane Montana
+871	Jim
+872	Doc Brown
+873	Finnegan
+874	Jack Doolan
+875	Miss Lana
+876	Mademoiselle Nadine
+877	Toby Grissom
+878	Frank Mortimer
+879	Ellen Maxell
+880	Audrey Moonshadow
+881	Sandy Stryker
+882	Mandy Honeyball
+883	Mars Chaplin
+884	Marty Stevens
+885	Joshua Apeh
+886	Claudia Salazar
+887	Ralf Dempsey
+888	Marvin Cox
+889	Anna
+890	Hapa
+891	Lastwagenfahrer
+892	Taro Togati
+893	Officer Hunter
+894	Türsteher
+895	Motelangestellter
+896	Museumsdirektor
+897	Harvey Denton
+898	Mrs. Fox
+899	Arthur Heatherly
+900	Melissa Heatherly
+901	Shawn
+902	Jolene
+903	Leah
+904	Sue
+905	Kimberly Lloyd
+906	William Boyd
+907	Thorndike
+908	Fred Jenkins
+909	Mr. Campbell
+910	Sam Reilly
+911	Carl Sheehan
+912	Collins
+913	Mr. Kingsley
+914	Mrs. Kingsley
+915	Devlin Reno
+916	Dr. Long
+917	Emiliano
+918	Pancho
+919	Esperanza
+920	Pedro
+921	Abelardo
+922	Mr. O'Sullivan
+923	Butler Paul
+924	Aufsicht
+925	Andy Miller
+926	Ansager
+927	Graham, Reporter
+928	Julianne Wallace
+929	Moderator
+930	Charles Knox
+931	Mr. Myers
+932	Nachtschatten
+933	Sharon Lockwood
+934	Mrs. Albright
+935	Jaccard (Off-Stimme)
+936	Rubbish George
+937	Mr. Baker
+938	Dr. Chandler
+939	Austin
+940	Dwain
+941	Mr. Monroe
+942	Professor Rosenberg
+943	José
+944	Steve Bright
+945	Brian Smith
+946	Wächter
+947	Mrs. Osborne
+948	Mr. Pentecost
+949	Senora Gonzalez
+950	Mrs. Bennett
+951	Crowle
+952	Casey Wye
+953	Oliver Taper
+954	Layla
+955	Alaa Edine
+956	Abazza
+957	Kamelhändler
+958	Kamelführer
+959	Ägypter
+960	Kommissar
+961	Aisha
+962	Verkäufer
+963	Dick Vincent
+964	Taxifahrer
+965	Beverly Leung
+966	Thomas Johnson
+967	James
+968	Daniel Baker
+969	Mr. Grogan
+970	Lloyd Scavenger
+971	Jack Lowell
+972	Alexander Nolan
+973	Jaqueline Williams
+974	Ian Parsley
+975	Mary Parsley
+976	Jasper Kittle
+977	Shawne Davison
+978	Officer Wood
+979	Miss Bennett
+980	Karen
+981	Becky
+982	Felicia Sparing
+983	Mrs. Amelia Sparing
+984	Mr. Sparing
+985	Professor Alkurah
+986	Eroll
+987	Mrs. Featherstone
+988	Sergeant Ludlow
+989	Banden-Chef
+990	Eddy Reardon
+991	Spanier
+992	Italiener
+993	Gauner
+994	Gehilfe
+995	Christine
+996	Mr. Bambridge
+997	Lo Wang
+998	Anthony Hearst
+999	Truck-Fahrer
+1000	Avercromby
+1001	Pilot
+1002	Liolotta
+1003	Sarah Livingston
+1004	Elvira Zuckerman
+1005	Darren Duff
+1006	Taucher Carl
+1007	Taucherin Joan
+1008	Paul Brooks
+1009	Joe Wilcox
+1010	Cassandra Wilcox
+1011	Doktor Holloway
+1012	Cedric Duff
+1013	Winston Granville
+1014	Matthew Granville
+1015	Smithy
+1016	Mr. Jackmore
+1017	Professor Frazier
+1018	Davy Swann
+1019	Craig Holden
+1020	Löwenritter
+1021	Helena Darraz
+1022	Pritchard
+1023	Sid
+1024	Caroline
+1025	Steven
+1026	Ernest
+1027	Radioansagerin
+1028	Harvey Griscom
+1029	John Dellcourt
+1030	Miss Darraz
+1031	Josy McDonaghough
+1032	Homer Diesel
+1033	Mary Stamper
+1034	Otis Stamper
+1035	Jonathan Black
+1036	Miles Black
+1037	Klara Kowalski
+1038	Silvester Proud
+1039	Pfarrer Clark
+1040	Jeffrey Seaman
+1041	Eric
+1042	Mr. Settler
+1043	Patrick O'Brian
+1044	William de Haas
+1045	Theodor Brewster
+1046	Officer Flann Doyle
+1047	Tanya Sullivan
+1048	Sebastian Dawson
+1049	Miss Tomkins
+1050	Mr. Foley
+1051	John Gabbin
+1052	Matthew Gabbin
+1053	Georgina
+1054	Gil Renard
+1055	Hedy Carlson
+1056	Steve
+1057	Laury
+1058	Gast 1
+1059	Fahrerin
+1060	Peter Foster
+1061	Annie Wilkes
+1062	Mädchen 1
+1063	Mädchen 2
+1064	Alter Mann
+1065	Junger Mann
+1066	Walter Bush
+1067	Ian Bush
+1068	Jimmy Sinclair
+1069	Charlie Parker
+1070	Brianna Jackson
+1071	Chloe Smathers
+1072	Joseph Quick
+1073	Mr. Raynes
+1074	Jeff White
+1075	Bedienung
+1076	Gast 2
+1077	Carol Ford
+1078	Francis Studstill
+1079	Baxter Norsworthy
+1080	Gordon Hoke
+1081	Jared Fox
+1082	Candace Duskin
+1083	George Bennet
+1084	Greg Harper
+1085	Woodland
+1086	Reporterin
+1087	Wellford
+1088	Lautsprecherstimme
+1089	Richie Hanson
+1090	Benni
+1091	Jacki Jin
+1092	Croupier
+1093	Arthur Sinclair
+1094	Mr. Peastone
+1095	Jeremy Witherspoon
+1096	Barnaby Witherspoon
+1097	Takasi Yukawa
+1098	Frank Hektor
+1099	Sean Doherty
+1100	Mandy
+1101	Zeno Daniels
+1102	Percy
+1103	Keko
+1104	Anthony Fender
+1105	Ben
+1106	Silvia
+1107	Spud
+1108	O-Ian
+1109	Setch
+1110	Hi-Top
+1111	Car
+1112	Chip-Shape
+1113	Carol
+1114	Slide Terranova
+1115	P. "Pejo" Joseph McGaskill
+1116	Hausmeister
+1117	Bau-Kollege
+1118	Weibl. Offstimme
+1119	Werbestimme
+1120	Menge
+1121	Quentin Wadleigh
+1122	Dr. Winston Wadleigh
+1123	Dr. John Frears
+1124	Jamie
+1125	Sammy
+1126	Mrs. Pitkätossu
+1127	Jackall Madson
+1128	Tiger Madson
+1129	Vivian
+1130	Fitzwilliam Waterfield
+1131	Sanitäter
+1132	Adam Campbell
+1133	Henry Campbell
+1134	John Taylor
+1135	Edward Crockett
+1136	Mrs. Harkort
+1137	Mr. Prescott
+1138	Jack Leech
+1139	Einbrecher
+1140	Ursula Burns
+1141	Emerald Pendragon
+1142	Carl Parsley
+1143	Sunshine
+1144	Off-Stimme
+1145	Joey
+1146	Ansager in der Schlammringkampfarena
+1147	Margarine
+1148	Lincolnfahrer
+1149	Freakshow-Jack
+1150	Der unergründliche Mickey
+1151	Die bärtige Marilyn
+1152	Miss Luzzy
+1153	Bubba Detroit
+1154	Burger-Verkäufer Arnie
+1155	Anna Millar
+1156	Bombenattentäter Daniel
+1157	Lily
+1158	Milli
+1159	Celeste Hummer
+1160	Anthem Hummer
+1161	Bruce Millar
+1162	TV-Sprecher
+1163	Cynthia McGowan
+1164	Mina Parker
+1165	Brandon Fraser
+1166	Beatrix Fraser
+1167	Roxy
+1168	Josh
+1169	Paul
+1170	Davis
+1171	Frank Mason
+1172	Miles Dempster
+1173	Mr. Sapchevsky
+1174	Gerry
+1175	Ismael
+1176	Carla Fenton
+1177	Mrs. Maruthers
+1178	Inspektor Havilland
+1179	Taylor
+1180	Angelica
+1181	Schwester 1
+1182	Schwester 2
+1183	Pfleger
+1184	Curtis Fisher
+1185	Amrita Chakyar
+1186	Sergeant Madhu
+1187	Mr. Raffer
+1188	Kapitän
+1189	John Fisher
+1190	Mr. Castro
+1191	Anudhara
+1192	Ruth
+1193	Doktor Ax Me
+1194	Stinky Rossiter
+1195	Fear Crowther
+1196	Mouth Crosby
+1197	Mack Dolland
+1198	Eric Mukogawa
+1199	Marilla
+1200	Rosie
+1201	Laurence Seinfeld
+1202	Denzel Hopkins
+1203	Goldie Hopkins
+1204	Neil Rockwell
+1205	Mrs. Summer Hopkins
+1206	Brooks, Galerist
+1207	Mr. Elroy Follister
+1208	Wayne
+1209	Gefängniswärter
+1210	Greis
+1211	Beamter
+1212	Bert Young
+1213	Mrs. Johnson
+1214	Chapman
+1215	Blake
+1216	Sunny
+1217	Fernsehe-Sprecher
+1218	Francesco
+1219	Sean O'Donnell
+1220	Alexander Chilton
+1221	Mann im Stadion
+1222	Frau im Police Department
+1223	Mrs. Gardiner
+1224	Inspektor Craig
+1225	Tom Chilton
+1226	Junger Mann auf der Pier
+1227	Junge im Stadion
+1228	Live-Kommentator
+1229	Frau auf dem Pier
+1230	Prof. Jane Heathcliff
+1231	Mr. Grey
+1232	Lester Price
+1233	Cinelly
+1234	Miss Deborah Cassidy
+1235	Mr. Burke
+1236	Miss Trimble
+1237	Mr. Weston
+1238	Nachbarin
+1239	Michael Kowalski
+1240	Zack Martin
+1241	Mary-Ann Leigh
+1242	Latona Johnson
+1243	Frank Norman
+1244	Mrs. Robinson
+1245	Angela Sciutto
+1246	Federico Sciutto
+1247	Kind
+1248	Ryan Holbrooke
+1249	Sheriff Pickett
+1250	Stephen Baron
+1251	Zyklon
+1252	Al Dahab
+1253	Matthew
+1254	Zabriski
+1255	Fred
+1256	Riese
+1257	Hunnicutt
+1258	Sheila
+1259	Felicity
+1260	Chester
+1261	Gizmo
+1262	Mr. Vancura
+1263	Shannon
+1264	Mr. Mosley
+1265	Patricia
+1266	Peter Shawn
+1267	Marty
+1268	Mrs. Floyd
+1269	Vincent Grimes
+1270	Juliet
+1271	Scott
+1272	Mr. Darrow
+1273	Mann 3
+1274	Mann 4
+1275	Mann 5
+1276	Mann 6
+1277	Mann 7
+1278	Michelle
+1279	Ronald Pounder
+1280	Maurice Blight
+1281	Betsy
+1282	Isabella
+1283	Vladas Abakulow
+1284	Moody Firthway
+1285	Jenna
+1286	Caroline Cotta
+1287	Sergeant Donatelli
+1288	Barbara
+1289	Professor Mathewson
+1290	Arthur
+1291	Alan Jones
+1292	Shu Liin
+1293	Stadtverwalter
+1294	Feuerschlucker
+1295	Greenwalt
+1296	Brock
+1297	Deforge
+1298	Mrs. Kretchmer
+1299	Mrs. Espenson
+1300	Mrs. Wondratschek
+1301	Mrs. Field
+1302	Prof. Arnold Brewster
+1303	Miss Daggett
+1304	Hold
+1305	Hank Tornby
+1306	Mike Cobble
+1307	Martin Ishniak
+1308	Samuel Cobble
+1309	William Prescott
+1310	Jim Sesto
+1311	Fynch
+1312	Lenni
+1313	John Greyfox
+1314	Clay Carson
+1315	Walter
+1316	Freddy Hays
+1317	Spieler
+1318	Mrs. Lydia Candle
+1319	Jeremias Howard
+1320	Empfangsdame
+1321	Radiosprecherin
+1322	Patricia Handerson
+1323	Polizistin
+1324	Schausteller
+1325	Edward Candle
+1326	Randy
+1327	Jeanne
+1328	Ginette
+1329	Tara
+1330	Ranger Thornton
+1331	Mr. Louis
+1332	Busfahrer
+1333	Lindsey
+1334	Mr. Bennet
+1335	Mrs. Dearing
+1336	Conrad Nash
+1337	Mrs. Hampton
+1338	Nicky DeLores
+1339	Mrs. Woodrow
+1340	Judy Nigel
+1341	Direktor Grayston
+1342	Gregory Katic
+1343	Mr. Clark
+1344	Tarzan
+1345	Mr. Callister
+1346	Lionel Pengrim
+1347	Ned
+1348	Emily White
+1349	Judy Fradkin
+1350	Aladin
+1351	Aschenputtel
+1352	Prinzessin
+1353	Rotkäppchen
+1354	Meerjungfrau
+1355	Arzt
+1356	Mrs. Wallace
+1357	Bobby
+1358	Carl Hopkins, Physiker
+1359	Miller, Schiffsdetektiv
+1360	Kapitän Sherwood
+1361	Theodore Quaid
+1362	Jamie Peterson, Barmann
+1363	Handerson
+1364	Diego
+1365	Nayeli
+1366	Barker
+1367	Off-Sprecherin
+1368	Deborah
+1369	Samuel Rodman
+1370	Benjamin Rodman
+1371	Vallery Flockheart
+1372	Nigel Tillerman
+1373	Josh Reilly
+1374	Lexington
+1375	Journalistin
+1376	Prescott
+1377	Sergeant Morales
+1378	Mr. Arvidson
+1379	Mrs. Arvidson
+1380	Bradley
+1381	Bishop Blake
+1382	Junge Frau
+1383	Derek
+1384	Mrs. Kretschmer
+1385	Chastity
+1386	Charity
+1387	Sam Chiccarelli
+1388	Griffin Silverman
+1389	Mitch Palmer
+1390	Dimitri
+1391	Roy
+1392	Boss
+1393	Cindy
+1394	Rockford
+1395	Casino-Besucher
+1396	Casino-Besucherin
+1397	Rezeption 1
+1398	Rezeption 2
+1399	Fernfahrer
+1400	Putzfrau
+1401	Harry Salas
+1402	Vanessa Goodstein
+1403	Eliah Cristobal
+1404	Albert Goodstein
+1405	Ben Kramer
+1406	Fiona Kramer
+1407	Jimmy Blue Eye
+1408	Rosaria
+1409	Silvie
+1410	Jessy
+1411	Rikuo Yamamoto
+1412	Drago Martinez
+1413	Fred Osborne
+1414	Cecile Jezero
+1415	Short
+1416	Anthony
+1417	Heavy Metal
+1418	Arthur Pepper
+1419	Rupert
+1420	Gwendolyn Pembroke
+1421	Lance Vaughn
+1422	'The Destroyer'
+1423	Darby Farnham
+1424	Earl Forrester
+1425	Alvin Cray
+1426	Mr. Lloyd
+1427	Guillermo
+1428	Stanley Morgan
+1429	Grace Powell
+1430	Angus
+1431	Baxter
+1432	Kranführer
+1433	Jeremy Bright
+1434	Taylor-Jackson
+1435	Francine Breckenridge
+1436	A.C. Berany
+1437	Samantha
+1438	Corvy
+1439	Lemuel Garvine
+1440	Prof. Roalstad
+1441	Gamma
+1442	Barfrau
+1443	Lederhose
+1444	Telefonstimme
+1445	Jason
+1446	Mrs. Roalstad
+1447	Mrs. Fernandez
+1448	Emery
+1449	Ginger
+1450	Ivy
+1451	Prof. Haynthorb
+1452	Dr. Wilcomb
+1453	Polizist 3
+1454	Sidney
+1455	Tiffany
+1456	Salma Hutchinson
+1457	Trevor Pomery
+1458	Beatrice
+1459	Claire
+1460	Pflegerin
+1461	Roger Wolf
+1462	Menge Fußballstadion
+1463	Dusty Kirkpatrick
+1464	Miranda Kramer
+1465	Barclay
+1466	Brian
+1467	Raven
+1468	Dr. Hardwick
+1469	Robert
+1470	Manolo
+1471	Barbara Mathewson
+1472	Zacharias Faring
+1473	Malone
+1474	Ben Crane
+1475	Timothy Jackson
+1476	Reginald
+1477	Evander Whiteside
+1478	Wendy Brown
+1479	Christopher Barclay
+1480	Edgar Bristol
+1481	Carter Godfrey
+1482	Chuck Foster
+1483	Busfahrer Sam
+1484	Officer Ossietzky
+1485	Matt
+1486	Stephen
+1487	Polizist Jerry
+1488	Michael Rompa
+1489	Afton
+1490	Chef
+1491	Ron
+1492	Ansage
+1493	Hüne
+1494	Nancy McMonigal
+1495	Tom
+1496	Rod
+1497	Mariann
+1498	Malcolm Fever
+1499	Lucy Hopkins
+1500	Professor Selby
+1501	Oberpriesterin
+1502	Mann in Kutte
+1503	Radio
+1504	Mr. Tilton
+1505	Mr. Walsh
+1506	Weise Frau
+1507	Samuel
+1508	Liz Zapata
+1509	Quinn
+1510	Nightingale
+1511	Mrs. Thompson
+1512	Mrs. Kato
+1513	Sullivan
+1514	Angelina
+1515	Joshua
+1516	Randy Carlisle
+1517	Mia
+1518	Mrs. Crouch
+1519	Edna Shinefield
+1520	Ronny
+1521	Loreen
+1522	TV-Moderatorin
+1523	Daphne
+1524	Kiera
+1525	Luther Litti
+1526	Kyle Caldwell
+1527	Hay
+1528	Lenny The Rock
+1529	Sue Tamara
+1530	Tim Durnell
+1531	Keith
+1532	Debbie Peterson
+1533	Frank Wheeler
+1534	Clayton
+1535	Partygäste
+1536	Mr. Nostigan
+1537	Beastor
+1538	Freeman
+1539	Skulldor
+1540	Desmond Calbourne
+1541	Frederic Barnes
+1542	Charlton Hogart
+1543	Santa Claus
+1544	Mason Wachinsk
+1545	Elfe
+1546	Elfenbeinfrau
+1547	Milhouse
+1548	Cafelyn McBryde
+1549	Jesse
+1550	Jaden
+1551	April
+1552	Autumn
+1553	Charles Morland
+1554	Tanika Frost
+1555	Savannah Frost
+1556	Dennis Frost
+1557	Jane Thompson
+1558	Tyler
+1559	Gardener
+1560	Adam Quinn
+1561	Mr. Carrington
+1562	Mrs. Carrington
+1563	Liza Hawkins
+1564	Mr. Hawkins
+1565	Mrs. Hawkins
+1566	Leslie Logue-Smith
+1567	Schauspieler
+1568	Britney Rogers
+1569	Mr. Sisko
+1570	Ben Peck
+1571	Sandra
+1572	TV-Nachrichtensprecher
+1573	Doktor Burke
+1574	Mrs. Penny
+1575	Schwester Beatrice
+1576	Mr. Hooper
+1577	Ellyn Djawadi
+1578	Mr. Turner
+1579	Nayra Paredes
+1580	Andrés Paredes
+1581	Mr. Gabriel Paredes
+1582	Quentin Montgrove
+1583	Emma Miller
+1584	Der Einzige Inka
+1585	Kassiererin im Museum
+1586	Ansagerin im Museum
+1587	Eisdielen-Besitzer
+1588	Alte Frau
+1589	Frau 1
+1590	Frau 2
+1591	Frau 3
+1592	Frau 4
+1593	Kind 1
+1594	Kind 2
+1595	Kramer
+1596	Emma Bailey
+1597	Lewis Geriwell
+1598	Henry Appleton
+1599	Amber
+1600	Laura
+1601	Gerald
+1602	Nat
+1603	Nader Rope
+1604	Dylan Harvey
+1605	Mrs. Violet Conroy
+1606	Mr. Alex Scott
+1607	Myriel
+1608	Zimmermädchen
+1609	Zimmerjunge
+1610	Mutter im Stadtpark
+1611	Klein Peter
+1612	Kellnerin im Hotel
+1613	Handwerker im Hotel 1
+1614	Handwerker im Hotel 2
+1615	Internetcafébesitzer
+1616	Vortragsbesucher, Parkbesucher, Frühstücksgäste, Nachbarn
+1617	Anruferin
+1618	Anrufer
+1619	Regisseur
+1620	Redakteurin
+1621	Zachary Collister
+1622	Mrs. Hilton
+1623	Mr. Warren
+1624	Luke Havering
+1625	Colin Havering
+1626	MacKenzie
+1627	Erial
+1628	Andy
+1629	Francine
+1630	Matrose
+1631	Mrs. Watson
+1632	Betrunkener
+1633	Kartenspieler
+1634	Tochter von Erial
+1635	AB-Ansage-Stimme
+1636	Mr. Whitty
+1637	Cowboy Dick
+1638	Mr. Arbuthnott
+1639	Mrs. Lockwood
+1640	Einsatzleiter
+1641	Mechaniker
+1642	Jeff Ranaldo
+1643	Mr. McBrandon
+1644	Roboter
+1645	Bruce Torino
+1646	Priscilla Sicktree
+1647	Ashlyn
+1648	Rosie Wrenwick
+1649	Sheriff Stone
+1650	Hilfssheriff Jonathan
+1651	Zuko
+1652	Katara
+1653	Xiang Than
+1654	Fan Quoc
+1655	Fan Yuen
+1656	Dealerin
+1657	Chinese 1
+1658	Chinese 2
+1659	Fan Hao
+1660	Einlass
+1661	Angler
+1662	Mac Anderson
+1663	Grady
+1664	Pettengill
+1665	Sheriff Rolins
+1666	Farragut
+1667	Cynthia Wetmore
+1668	Hotelier
+1669	Gladys Pixie
+1670	Frank Firhouse
+1671	Maggie Smith
+1672	Aurora
+1673	Angela
+1674	Conchita Dominguez
+1675	Heather
+1676	Folder
+1677	Hopper
+1678	Rezeptionist
+1679	Wally Robertson
+1680	Charmayne Robertson
+1681	Dwaight Hayward
+1682	Mrs. Flagstaff
+1683	Helen
+1684	Vater
+1685	Marc Kingstone
+1686	Aaron Kingstone
+1687	Sarah
+1688	Mrs. McGee
+1689	Toby
+1690	Mrs. Wells
+1691	Ericsson
+1692	Sprecher/Moderator
+1693	Tarek Shabana
+1694	Tasha
+1695	Domino Laverna
+1696	Biff Rodgers, Reporter
+1697	Zeus Zenon Johnson
+1698	Computer
+1699	Off-Sprecher
+1700	Sprecher
+1701	Osiris
+1702	Vandaan
+1703	Frank Corman / Mr Giggles
+1704	Trixie Stiles
+1705	Bryan Bonfanti
+1706	Henson
+1707	Matthew Kooning
+1708	Doktor Kooning
+1709	Mrs. Kooning
+1710	Finnley Stenseth
+1711	Farryn Stenseth
+1712	Mrs. Stenseth
+1713	Stacey Warren
+1714	Surferin
+1715	Surfer
+1716	Dylan
+1717	M. Keen
+1718	Carson, Andys Vater
+1719	Gabbo
+1720	Khan
+1721	Schaustellerin
+1722	Vermieter
+1723	Polizist 2 (Prolog)
+1724	Polizist 3 (Prolog)
+1725	Losverkäufer
+1726	Elliot Littlehorn
+1727	Tobin Muller
+1728	Amalia
+1729	Zauberer Miller
+1730	Kelvin Mitchell
+1731	Leigh
+1732	Zoey
+1733	Mabel
+1734	Glatzkopf
+1735	Dustin Cooper
+1736	Wahrsagerin Susannah
+1737	Dr. Benchfield
+1738	Mr. Aaron Grover
+1739	Msr. Patricia Grover
+1740	Elodie Grover
+1741	Desmond Cathpole
+1742	Hausmeister Spencer
+1743	Mr. Rubberwood
+1744	Mr. Parker Mayfield
+1745	Timothy
+1746	Vikram
+1747	Bonnie Newman
+1748	Mr. August
+1749	Gus August
+1750	Helena
+1751	Mr. Anderson
+1752	Gabriel White
+1753	Solomon Charles
+1754	Mr. Randur
+1755	Beaver
+1756	Jariwala
+1757	Shakrabati
+1758	Shekinah
+1759	Nachtwächter
+1760	Maria
+1761	Bruce
+1762	Officer
+1763	Ben Hustler
+1764	Loomy
+1765	Angie
+1766	Lesley
+1767	Buchhändlerin
+1768	Kathy
+1769	Amanda Ellis
+1770	Jo
+1771	Steve Young
+1772	Ford Follows
+1773	Eric Ellis
+1774	Ricardo Yarbrough
+1775	Mr. Friedman
+1776	Mann in der Bibliothek
+1777	Jackson Cooper
+1778	Mr. Miller
+1779	Laurenne Duffy
+1780	Joe Patwin
+1781	Trevor Tompson
+1782	Bruce Osborne
+1783	Walt Duffy
+1784	Jorunn
+1785	Mrs. Planter
+1786	Deidre
+1787	Special Agent Ross
+1788	Special Agent Wright
+1789	Roger Kind
+1790	Regisseur Kushing
+1791	Melanie Shepard
+1792	Lara Bix
+1793	Jason Frost
+1794	Museumsdame
+1795	Monsterpuppe
+1796	Betty Frost
+1797	Kameramann
+1798	Tonmann
+1799	Potato-Fred
+1800	Mr. Pinches
+1801	Carter Bridou
+1802	Trish
+1803	Giovanni
+1804	Rosaly
+1805	Matteo
+1806	Charles Stapleton
+1807	Direktor Greenwalt
+1808	Papagei
+1809	Mr. Mason Huntington
+1810	Mrs. Brankle
+1811	Xeni
+1812	Mrs. Seymore-Wrightson
+1813	Franklyn Seymore
+1814	Liane Shore
+1815	Minh
+1816	Mark
+1817	Stéphane Mertens
+1818	Ron Baxter
+1819	Mrs. Willard
+1820	Tilan
+1821	Gianna
+1822	Lance
+1823	Debra
+1824	Audrey
+1825	Bellins
+1826	Jerry
+1827	Corey
+1828	Mr. Allister Frain
+1829	Sheryl
+1830	Professor Burnham
+1831	Salvador Pérez
+1832	Tuyucim Florentino Ixmatá
+1833	Tuyucim
+1834	Maria Pérez
+1835	Zachary
+1836	Conrad Williams
+1837	Bootsie Washington
+1838	Majorie Dever
+1839	Leland Hanson
+1840	Perceval
+1841	Mercury
+1842	Coldfield
+1843	Urs
+1844	Nicolas
+1845	Carver
+1846	Oisin Murphy
+1847	Lelia Murphy
+1848	Virgil
+1849	Wanda Waffle
+1850	Smiddie
+1851	Clown
+1852	Zamora
+1853	Easly
+1854	Zach Cannings
+1855	Nicole
+1856	Mitarbeiter
+1857	Sara Roskin
+1858	Caden Devlin
+1859	Offizier der Küstenwache 1
+1860	Offizier der Küstenwache 2
+1861	Jock
+1862	Gavin Sterling
+1863	Judith Sterling
+1864	Leopold Nelson
+1865	Marlow
+1866	Rick
+1867	Mrs. Torres
+1868	Dark Blue D
+1869	Busfahrerin
+1870	Fairfax
+1871	Butler Francis
+1872	Mrs. Dutton
+1873	Noreen
+1874	Mrs. Mobray
+1875	Miyazawa
+1876	Jojo
+1877	Mrs. Carmichael
+1878	Mr. Jeremiah Carmichael
+1879	Gravedigger
+1880	Kruger
+1881	Annabelle Delaney
+1882	Claire Delaney
+1883	Ace Hall
+1884	Vince Buchanan
+1885	Neal Buchanan
+1886	Pearson
+1887	Kommissarin Lisa Merryweather
+1888	Elena Fleckenstein
+1889	Roderick Sanders
+1890	Officer Brown
+1891	Angestellte im Altenheim
+1892	Arnold Grasso
+1893	Dale Congden
+1894	Professor Hogan
+1895	Kendra Bowman
+1896	Huxley, Sittich
+1897	Trevor
+1898	Mrs. Julia Scott
+1899	Gwendolyn
+1900	Nicholas
+1901	Raphael Luca
+1902	Mrs. Bronkowitz
+1903	Lady
+1904	Dame
+1905	Hunter Scott
+1906	Pamela Parker, Olivias Mutter
+1907	Eudora Kretschmer
+1908	Canyon Brookside
+1909	Owens
+1910	Bernie Walters
+1911	Edgar Mulligan
+1912	Swift
+1913	Fotograf
+1914	Mr. Puckle
+1915	Mrs. Hatchett
+1916	Matty
+1917	Security 1
+1918	Security 2
+1919	Security 3
+1920	Security 4
+1921	Pater
+1922	Engel
+1923	Angestellte
+1924	Larry
+1925	Luke Bigelow
+1926	Molly
+1927	Emmett
+1928	Durchsage
+1929	Krankenschwester
+1930	Bandenchef
+1931	Detective Ella
+1932	Officer James
+1933	Paul Forsters
+1934	Esprit
+1935	Anthony Spring
+1936	Bill Greyfield
+1937	Karen Greyfield
+1938	Ralph Sanders
+1939	Dylan Reid
+1940	Zoe
+1941	Simon Cobby
+1942	Angela van Limbeek
+1943	John Addington
+1944	Doktor Williams
+1945	Professor Douglas Bancroft
+1946	Butler Vernom
+1947	Miss Mortimer
+1948	Elwood Shoreland
+1949	Darian
+1950	Amanda Blunt
+1951	Lyn
+1952	Opossum
+1953	Nancy
+1954	Odo
+1955	Dimwitt
+1956	Colstone
+1957	Moderatorin
+1958	Trenton
+1959	Buzzy
+1960	Roberta
+1961	Evander Prettyman
+1962	Liam
+1963	Lincoln
+1964	Maya
+1965	Haylie
+1966	Glenda
+1967	Mrs. Kirk
+1968	Desmond
+1969	Megan
+1970	Samuel Leech
+1971	Kathy Hiller
+1972	Violet Bell
+1973	Mambo Mawu
+1974	Kommissarin Martinez
+1975	Thabani Mathoho
+1976	Clayton Badu
+1977	Cumba Balewa
+1978	Chief Householder
+1979	Tricia Cooper
+1980	Mr. Rice
+1981	Katee
+1982	Sergeant Murray
+1983	Johnson
+1984	Nigel
+1985	Dolly Craig
+1986	Mrs. Cooper
+1987	Mr. Bumblebee
+1988	Mrs. Evans
+1989	Mr. Powers
+1990	Meyer
+1991	PJ
+1992	Finn
+1993	Beatriz
+1994	Mrs. Haynes
+1995	Mr. Haynes
+1996	Chloe
+1997	Wilfred
