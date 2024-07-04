@@ -152,6 +152,7 @@ extension MetadataRelationalModel {
 		var personID: Person.ID
 		
 		var pseudonymID: Pseudonym.ID?
+		var position: UInt
 	}
 	
 	
@@ -402,6 +403,8 @@ extension MetadataRelationalModel {
 					onDelete: .setNull,
 					onUpdate: .cascade
 				)
+			positionColumn(t)
+			t.uniqueKey([Sprechrolle.primaryKeyName, "position"])
 		}
 		
 		// HörspielBuchautor

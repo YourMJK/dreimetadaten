@@ -292,11 +292,12 @@ class Migrator {
 				throw MigrationError.pseudonymWithMultiPerson(sprechrolle: objectItem)
 			}
 		}
-		for personID in personIDs {
+		for (index, personID) in personIDs.enumerated() {
 			relationalModel.spricht.append(.init(
 				sprechrolleID: newID,
 				personID: personID,
-				pseudonymID: pseudonymID
+				pseudonymID: pseudonymID,
+				position: UInt(index+1)
 			))
 		}
 	}
