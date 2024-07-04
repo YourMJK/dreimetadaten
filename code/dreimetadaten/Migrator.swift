@@ -17,6 +17,7 @@ class Migrator {
 	private var personDict = [String: Int]()
 	private var pseudonymDict = [String: Int]()
 	private var rolleDict = [String: Int]()
+	private var sprechrolleDict = [MetadataRelationalModel.Hörspiel.ID: [String: (MetadataRelationalModel.Sprechrolle.ID, MetadataObjectModel.Sprechrolle)]]()
 	private var tracksDict = [MetadataRelationalModel.Hörspiel.ID: [Int]]()
 	
 	init(objectModel: MetadataObjectModel) {
@@ -124,6 +125,13 @@ class Migrator {
 			migrate(medium: objectItem, hörspielID: relationalItem?.hörspielID, rootHörspielID: rootHörspielID)
 		}
 		
+		// Sprechrollen
+		if let objectSprechrollen = objectItem.sprechrollen, let relationalItem {
+			for (index, objectSprechrolle) in objectSprechrollen.enumerated() {
+				try migrate(sprechrolle: objectSprechrolle, hörspielID: relationalItem.hörspielID, position: UInt(index+1), rootHörspielID: rootHörspielID, saveInDict: !isSingle)
+			}
+		}
+		
 		// Recursive teile
 		if let teile = objectItem.teile {
 			for teil in teile {
@@ -134,13 +142,6 @@ class Migrator {
 		// Kapitel
 		if let objectKapitels = objectItem.kapitel, let relationalItem {
 			try migrate(kapitels: objectKapitels, hörspielID: relationalItem.hörspielID, rootHörspielID: rootHörspielID)
-		}
-		
-		// Sprechrollen
-		if let objectSprechrollen = objectItem.sprechrollen, (isSingle || rootHörspielID != nil), let relationalItem {
-			for (index, objectSprechrolle) in objectSprechrollen.enumerated() {
-				try migrate(sprechrolle: objectSprechrolle, hörspielID: relationalItem.hörspielID, position: UInt(index+1))
-			}
 		}
 		
 		return relationalItem?.hörspielID
@@ -266,7 +267,11 @@ class Migrator {
 		)
 	}
 	
-	private func migrate(sprechrolle objectItem: MetadataObjectModel.Sprechrolle, hörspielID: MetadataRelationalModel.Hörspiel.ID, position: UInt) throws {
+	private func migrate(sprechrolle objectItem: MetadataObjectModel.Sprechrolle, hörspielID: MetadataRelationalModel.Hörspiel.ID, position: UInt, rootHörspielID: MetadataRelationalModel.Hörspiel.ID?, saveInDict: Bool) throws {
+		if let rootHörspielID {
+			try migrate(sprechrolleTeil: objectItem, hörspielID: hörspielID, position: position, rootHörspielID: rootHörspielID)
+			return
+		}
 		let rolleID = migrate(rolle: objectItem.rolle)
 		let personIDs = migrate(multiPerson: objectItem.sprecher)
 		let pseudonymID = objectItem.pseudonym.map(migrate(pseudonym:))
@@ -278,6 +283,9 @@ class Migrator {
 			position: position
 		)
 		relationalModel.sprechrolle.append(relationalItem)
+		if saveInDict {
+			sprechrolleDict[hörspielID, default: [:]][objectItem.rolle] = (newID, objectItem)
+		}
 		precondition(!personIDs.isEmpty, "Empty sprecher after migration")
 		if personIDs.count > 1 {
 			guard pseudonymID == nil else {
@@ -291,6 +299,26 @@ class Migrator {
 				pseudonymID: pseudonymID
 			))
 		}
+	}
+	private func migrate(sprechrolleTeil objectItem: MetadataObjectModel.Sprechrolle, hörspielID: MetadataRelationalModel.Hörspiel.ID, position: UInt, rootHörspielID: MetadataRelationalModel.Hörspiel.ID) throws {
+		let rootHörspielSprechrolleDict = sprechrolleDict[rootHörspielID, default: [:]]
+		guard let (sprechrolleID, rootHörspielSprechrolle) = rootHörspielSprechrolleDict[objectItem.rolle] else {
+			throw MigrationError.missingSprechrolle(sprechrolle: objectItem)
+		}
+		func areEqual(a: MetadataObjectModel.Sprechrolle, b: MetadataObjectModel.Sprechrolle) -> Bool {
+			a.rolle == b.rolle &&
+			a.sprecher == b.sprecher &&
+			a.pseudonym == b.pseudonym
+		}
+		guard areEqual(a: rootHörspielSprechrolle, b: objectItem) else {
+			throw MigrationError.nonMatchingSprechrolle(sprechrolle: objectItem, rootHörspielSprechrolle: rootHörspielSprechrolle)
+		}
+		let relationalItem = MetadataRelationalModel.SprechrolleTeil(
+			sprechrolleID: sprechrolleID,
+			hörspielID: hörspielID,
+			position: position
+		)
+		relationalModel.sprechrolleTeil.append(relationalItem)
 	}
 	
 	private func dateComponents(from string: String) throws -> DatabaseDateComponents {
@@ -314,6 +342,8 @@ extension Migrator {
 		case invalidVeröffentlichungsdatum(string: String)
 		case missingOrMultipleTracks(kapitel: MetadataObjectModel.Kapitel)
 		case pseudonymWithMultiPerson(sprechrolle: MetadataObjectModel.Sprechrolle)
+		case missingSprechrolle(sprechrolle: MetadataObjectModel.Sprechrolle)
+		case nonMatchingSprechrolle(sprechrolle: MetadataObjectModel.Sprechrolle, rootHörspielSprechrolle: MetadataObjectModel.Sprechrolle)
 		
 		var errorDescription: String? {
 			switch self {
@@ -327,6 +357,10 @@ extension Migrator {
 					return "Found no or multiple tracks for kapitel: \(kapitel)"
 				case .pseudonymWithMultiPerson(let sprechrolle):
 					return "Sprechrolle contains pseudonym with multiple sprecher: \(sprechrolle)"
+				case .missingSprechrolle(let sprechrolle):
+					return "Couldn't find sprechrolle from teil in root hörspiel: \(sprechrolle)"
+				case .nonMatchingSprechrolle(let sprechrolle, let rootHörspielSprechrolle):
+					return "Sprechrolle from teil doesn't match sprechrolle in root hörspiel: \(sprechrolle) vs. \(rootHörspielSprechrolle)"
 			}
 		}
 	}
