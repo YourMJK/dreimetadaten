@@ -27,6 +27,7 @@ struct MetadataRelationalModel {
 	var pseudonym: [Pseudonym] = []
 	var rolle: [Rolle] = []
 	var sprechrolle: [Sprechrolle] = []
+	var sprechrolleTeil: [SprechrolleTeil] = []
 	var spricht: [Spricht] = []
 	
 	var hörspielBuchautor: [HörspielBuchautor] = []
@@ -139,6 +140,13 @@ extension MetadataRelationalModel {
 		var position: UInt
 	}
 	
+	struct SprechrolleTeil: Codable {
+		var sprechrolleID: Sprechrolle.ID
+		var hörspielID: Hörspiel.ID
+		
+		var position: UInt
+	}
+	
 	struct Spricht: Codable {
 		var sprechrolleID: Sprechrolle.ID
 		var personID: Person.ID
@@ -216,6 +224,7 @@ extension MetadataRelationalModel.Sprechrolle: PersistableFetchableTableRecord, 
 	static let primaryKeyName = "sprechrolleID"
 	var id: ID { sprechrolleID }
 }
+extension MetadataRelationalModel.SprechrolleTeil: PersistableFetchableTableRecord { }
 extension MetadataRelationalModel.Spricht: PersistableFetchableTableRecord { }
 extension MetadataRelationalModel.HörspielBuchautor: PersistableFetchableTableRecord { }
 extension MetadataRelationalModel.HörspielSkriptautor: PersistableFetchableTableRecord { }
@@ -243,6 +252,12 @@ extension MetadataRelationalModel {
 				)
 				.notNull()
 		}
+		@discardableResult
+		func positionColumn(_ t: TableDefinition) -> ColumnDefinition {
+			t.column("position", .integer)
+				.check { $0 > 0 }
+				.notNull()
+		}
 		
 		// Hörspiel
 		try db.create(table: Hörspiel.databaseTableName) { t in
@@ -266,9 +281,7 @@ extension MetadataRelationalModel {
 			foreignKeyReference(t, to: Hörspiel.self, name: "teil")
 				.primaryKey()
 			foreignKeyReference(t, to: Hörspiel.self, name: "hörspiel")
-			t.column("position", .integer)
-				.check { $0 > 0 }
-				.notNull()
+			positionColumn(t)
 			t.column("buchstabe", .text)
 				.check { length($0) == 1 }
 			t.uniqueKey(["hörspiel", "position"])
@@ -305,9 +318,7 @@ extension MetadataRelationalModel {
 			t.autoIncrementedPrimaryKey(Medium.primaryKeyName)
 				.notNull()
 			foreignKeyReference(t, to: Hörspiel.self)
-			t.column("position", .integer)
-				.check { $0 > 0 }
-				.notNull()
+			positionColumn(t)
 			t.column("xldLog", .boolean)
 				.notNull()
 			t.uniqueKey([Hörspiel.primaryKeyName, "position"])
@@ -317,9 +328,7 @@ extension MetadataRelationalModel {
 			t.autoIncrementedPrimaryKey(Track.primaryKeyName)
 				.notNull()
 			foreignKeyReference(t, to: Medium.self)
-			t.column("position", .integer)
-				.check { $0 > 0 }
-				.notNull()
+			positionColumn(t)
 			t.column("titel", .text)
 				.notNull()
 			t.column("dauer", .integer)
@@ -332,9 +341,7 @@ extension MetadataRelationalModel {
 			foreignKeyReference(t, to: Track.self)
 				.primaryKey()
 			foreignKeyReference(t, to: Hörspiel.self)
-			t.column("position", .integer)
-				.check { $0 > 0 }
-				.notNull()
+			positionColumn(t)
 			t.column("abweichenderTitel", .text)
 			t.uniqueKey([Hörspiel.primaryKeyName, "position"])
 		}
@@ -369,10 +376,17 @@ extension MetadataRelationalModel {
 				.notNull()
 			foreignKeyReference(t, to: Hörspiel.self)
 			foreignKeyReference(t, to: Rolle.self)
-			t.column("position", .integer)
-				.check { $0 > 0 }
-				.notNull()
+			positionColumn(t)
 			t.uniqueKey([Hörspiel.primaryKeyName, Rolle.primaryKeyName])
+			t.uniqueKey([Hörspiel.primaryKeyName, "position"])
+		}
+		// SprechrolleTeil
+		try db.create(table: SprechrolleTeil.databaseTableName) { t in
+			t.primaryKey {
+				foreignKeyReference(t, to: Sprechrolle.self)
+				foreignKeyReference(t, to: Hörspiel.self)
+			}
+			positionColumn(t)
 			t.uniqueKey([Hörspiel.primaryKeyName, "position"])
 		}
 		// Spricht
@@ -423,6 +437,7 @@ extension MetadataRelationalModel {
 		try insertAll(pseudonym)
 		try insertAll(rolle)
 		try insertAll(sprechrolle)
+		try insertAll(sprechrolleTeil)
 		try insertAll(spricht)
 		try insertAll(hörspielBuchautor)
 		try insertAll(hörspielSkriptautor)
@@ -453,6 +468,7 @@ extension MetadataRelationalModel {
 		try fetchAll(\.pseudonym)
 		try fetchAll(\.rolle)
 		try fetchAll(\.sprechrolle)
+		try fetchAll(\.sprechrolleTeil)
 		try fetchAll(\.spricht)
 		try fetchAll(\.hörspielBuchautor)
 		try fetchAll(\.hörspielSkriptautor)
@@ -525,6 +541,7 @@ extension MetadataRelationalModel {
 		try encodeTable(pseudonym)
 		try encodeTable(rolle)
 		try encodeTable(sprechrolle)
+		try encodeTable(sprechrolleTeil)
 		try encodeTable(spricht)
 		try encodeTable(hörspielBuchautor)
 		try encodeTable(hörspielSkriptautor)
