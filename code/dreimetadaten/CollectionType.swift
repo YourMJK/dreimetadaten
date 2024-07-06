@@ -40,10 +40,13 @@ enum CollectionType: String, ArgumentEnum {
 		}
 	}
 	
+	var titleNummerFormat: String? {
+		nummerFormat.map { "Nr. \($0)" }
+	}
 	var nummerFormat: String? {
 		switch self {
-			case .serie: return "Nr. %03d"
-			case .die_dr3i: return "Nr. %d"
+			case .serie: return "%03d"
+			case .die_dr3i: return "%d"
 			default: return nil
 		}
 	}

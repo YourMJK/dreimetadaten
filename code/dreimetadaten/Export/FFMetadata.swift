@@ -157,7 +157,7 @@ extension FFmetadata {
 	
 	/// Create the FFmetadata for a collection item of type `type` with `Self.init(withBasicTagsFrom:)` and using the type's specific `titlePrefix` (e.g. "Die drei ???") and `nummerFormat` (e.g. "Nr. %03d") to form a title.
 	static func create(forCollectionItem hörspiel: MetadataObjectModel.Hörspiel, type: CollectionType) -> Self {
-		create(forCollectionItem: hörspiel, titlePrefix: type.titlePrefix, nummerFormat: type.nummerFormat)
+		create(forCollectionItem: hörspiel, titlePrefix: type.titlePrefix, nummerFormat: type.titleNummerFormat)
 	}
 	
 	/// Create the FFmetadata for a generic collection item with `Self.init(withBasicTagsFrom:)` and using the specified `titlePrefix` (e.g. "Die drei ???") and `nummerFormat` (e.g. "Nr. %03d") to form a title.

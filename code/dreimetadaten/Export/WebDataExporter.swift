@@ -38,37 +38,9 @@ struct WebDataExporter {
 			let collectionURL = outputDir.appendingPathComponent(collectionType.fileName, isDirectory: true)
 			try Self.createDirectoryIfNeccessary(at: collectionURL)
 			
-			let numberOfDigts: UInt = {
-				var number = collection.count
-				var orderOfMagnitude: UInt = 0
-				while number != 0 {
-					orderOfMagnitude += 1
-					number /= 10
-				}
-				return orderOfMagnitude
-			}()
-			
 			for hörspiel in collection {
 				// Generate directory name for hörspiel
-				let name: String = try {
-					if let folge = hörspiel as? MetadataObjectModel.Folge, folge.nummer >= 0 {
-						return String(format: "%0\(numberOfDigts)d", folge.nummer)
-					}
-					
-					guard let titel = hörspiel.titel else {
-						throw ExporterError.missingTitel(hörspiel: hörspiel)
-					}
-					var name = ""
-					for character in titel {
-						if character.unicodeScalars.allSatisfy(Self.filenameAllowed.contains(_:)) {
-							name.append(character)
-						}
-						else if let replacement = Self.filenameReplacements[character] {
-							name.append(replacement)
-						}
-					}
-					return name
-				}()
+				let name = try Self.dirname(for: hörspiel, nummerFormat: collectionType.nummerFormat)
 				let url = collectionURL.appendingPathComponent(name, isDirectory: true)
 				
 				// Export metadata of hörspiel
@@ -101,6 +73,26 @@ struct WebDataExporter {
 				throw ExporterError.collectionExportFailed(collectionType: collectionType, error: error)
 			}
 		}
+	}
+	
+	static func dirname(for hörspiel: MetadataObjectModel.Hörspiel, nummerFormat: String? = nil) throws -> String {
+		if let folge = hörspiel as? MetadataObjectModel.Folge, folge.nummer >= 0 {
+			return String(format: nummerFormat ?? "", folge.nummer)
+		}
+		
+		guard let titel = hörspiel.titel else {
+			throw ExporterError.missingTitel(hörspiel: hörspiel)
+		}
+		var name = ""
+		for character in titel {
+			if character.unicodeScalars.allSatisfy(Self.filenameAllowed.contains(_:)) {
+				name.append(character)
+			}
+			else if let replacement = Self.filenameReplacements[character] {
+				name.append(replacement)
+			}
+		}
+		return name
 	}
 	
 	
