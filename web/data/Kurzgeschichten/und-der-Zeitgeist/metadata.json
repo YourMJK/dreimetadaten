@@ -497,6 +497,133 @@
   "beschreibung" : "Die drei ??? übernehmen jeden Fall. Da gibt's immer Überraschungen, ungeahnte Wendungen – und manchmal kommt alles wirklich ganz anders als gedacht! So wie in diesen kurzen Fällen, bei denen die Welt von Justus, Peter und Bob manchmal ganz schön auf den Kopf gestellt wird. Da ist vorwärts dann plötzlich doch rückwärts und vorn ist hinten und gleich nochmal von vorn …",
   "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
   "veröffentlichungsdatum" : "2016-03-04",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Hüne",
+      "sprecher" : "Johannes Semm"
+    },
+    {
+      "rolle" : "Marvin Gray",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Nancy McMonigal",
+      "sprecher" : "Gerlinde Dillge"
+    },
+    {
+      "rolle" : "Tom",
+      "sprecher" : "Wolfgang Rositzka"
+    },
+    {
+      "rolle" : "Rod",
+      "sprecher" : "Herbert Tennigkeit"
+    },
+    {
+      "rolle" : "Joe",
+      "sprecher" : "Olaf Reichmann"
+    },
+    {
+      "rolle" : "Ben",
+      "sprecher" : "Stephan Chrzescinski"
+    },
+    {
+      "rolle" : "Mariann",
+      "sprecher" : "Simone Ritscher"
+    },
+    {
+      "rolle" : "TV-Sprecher",
+      "sprecher" : "Holger Wemhoff"
+    },
+    {
+      "rolle" : "Malcolm Fever",
+      "sprecher" : "Tilo Schmitz"
+    },
+    {
+      "rolle" : "Lucy Hopkins",
+      "sprecher" : "Topsy Küppers"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Professor Selby",
+      "sprecher" : "Claus Wilcke"
+    },
+    {
+      "rolle" : "Oberpriesterin",
+      "sprecher" : "Elga Schütz"
+    },
+    {
+      "rolle" : "Kevin",
+      "sprecher" : "Patrick Mölleken"
+    },
+    {
+      "rolle" : "Mann in Kutte",
+      "sprecher" : "Rüdiger Hellmann"
+    },
+    {
+      "rolle" : "Radio",
+      "sprecher" : "Wilhelm Wieben"
+    },
+    {
+      "rolle" : "Mr. Tilton",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Mr. Walsh",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Weise Frau",
+      "sprecher" : "Dorothea Hagena"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Patrick",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Samuel",
+      "sprecher" : "Johannes Semm"
+    },
+    {
+      "rolle" : "Kenneth",
+      "sprecher" : "Olaf Reichmann"
+    },
+    {
+      "rolle" : "Liz Zapata",
+      "sprecher" : "Merete Brettschneider"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Michael Harck"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/metadata.json",
     "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/cover.png"

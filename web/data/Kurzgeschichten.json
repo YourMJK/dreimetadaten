@@ -59,7 +59,7 @@
                   "sprecher" : "Neil Malik Abdullah"
                 },
                 {
-                  "rolle" : "Mann",
+                  "rolle" : "Mann 1",
                   "sprecher" : "Thor W. Müller"
                 }
               ],
@@ -147,7 +147,7 @@
                   "sprecher" : "Leonhard Mahlich"
                 },
                 {
-                  "rolle" : "Mann",
+                  "rolle" : "Mann 2",
                   "sprecher" : "Helgo Liebig"
                 }
               ],
@@ -251,11 +251,11 @@
                   "sprecher" : "Guido Bernadotte"
                 },
                 {
-                  "rolle" : "Mann 1",
+                  "rolle" : "Mann 3",
                   "sprecher" : "Rasmus Rakete"
                 },
                 {
-                  "rolle" : "Mann 2",
+                  "rolle" : "Mann 4",
                   "sprecher" : "Patrick Perales"
                 }
               ],
@@ -572,15 +572,15 @@
                   "sprecher" : "Joachim Kappl"
                 },
                 {
-                  "rolle" : "Mann 1",
+                  "rolle" : "Mann 5",
                   "sprecher" : "Patrick Bach"
                 },
                 {
-                  "rolle" : "Mann 2",
+                  "rolle" : "Mann 6",
                   "sprecher" : "Frank Meyer-Brockmann"
                 },
                 {
-                  "rolle" : "Mann 3",
+                  "rolle" : "Mann 7",
                   "sprecher" : "Roy Martens"
                 }
               ],
@@ -624,6 +624,141 @@
       "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Das gab es noch nie:\n12 Mini-Fälle der drei ???.\nDie drei Autoren Kari Erlhoff, Hendrik Buchna und Marco Sonnleitner erzählen 12 kurze Geschichten, die die drei jungen Detektive aus Rocky Beach teilweise auch mal von ein paar ganz anderen Seiten zeigen.",
       "veröffentlichungsdatum" : "2012-09-28",
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Mr. Vancura",
+          "sprecher" : "Lutz Herkenrath"
+        },
+        {
+          "rolle" : "Mrs. Fox",
+          "sprecher" : "Susan Jarling"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Mr. Shaw",
+          "sprecher" : "Rasmus Borowski"
+        },
+        {
+          "rolle" : "Shannon",
+          "sprecher" : "Kerstin Draeger"
+        },
+        {
+          "rolle" : "Mr. Mosley",
+          "sprecher" : "Neil Malik Abdullah"
+        },
+        {
+          "rolle" : "Cowboy",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Patricia",
+          "sprecher" : "Rhea Harder-Vennewald"
+        },
+        {
+          "rolle" : "Peter Shawn",
+          "sprecher" : "Leonhard Mahlich"
+        },
+        {
+          "rolle" : "Marty",
+          "sprecher" : "Philipp Draeger"
+        },
+        {
+          "rolle" : "Fred",
+          "sprecher" : "Guido Bernadotte"
+        },
+        {
+          "rolle" : "Mrs. Floyd",
+          "sprecher" : "Gabriele Libbach"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Vincent Grimes",
+          "sprecher" : "Konstantin Graudus"
+        },
+        {
+          "rolle" : "Blacky",
+          "sprecher" : "Heikedine Körting"
+        },
+        {
+          "rolle" : "Juliet",
+          "sprecher" : "Anne Moll"
+        },
+        {
+          "rolle" : "Scott",
+          "sprecher" : "Tommaso Cacciapuoti"
+        },
+        {
+          "rolle" : "John",
+          "sprecher" : "Sascha Draeger",
+          "pseudonym" : "Martin Sichel"
+        },
+        {
+          "rolle" : "Kelly",
+          "sprecher" : "Juliane Szalay"
+        },
+        {
+          "rolle" : "Norman",
+          "sprecher" : "Eckart Dux"
+        },
+        {
+          "rolle" : "Mr. Darrow",
+          "sprecher" : "Joachim Kappl"
+        },
+        {
+          "rolle" : "Frau",
+          "sprecher" : "Anja Topf"
+        },
+        {
+          "rolle" : "Mann 1",
+          "sprecher" : "Thor W. Müller"
+        },
+        {
+          "rolle" : "Mann 2",
+          "sprecher" : "Helgo Liebig"
+        },
+        {
+          "rolle" : "Mann 3",
+          "sprecher" : "Rasmus Rakete"
+        },
+        {
+          "rolle" : "Mann 4",
+          "sprecher" : "Patrick Perales"
+        },
+        {
+          "rolle" : "Mann 5",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Mann 6",
+          "sprecher" : "Frank Meyer-Brockmann"
+        },
+        {
+          "rolle" : "Mann 7",
+          "sprecher" : "Roy Martens"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/metadata.json",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/cover.png"
@@ -1223,6 +1358,135 @@
       "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Sieben Kurzgeschichten von sieben Autoren in einer Hörspiel-Box: Bei diesen Fällen wird so rasant ermittelt, dass die Lösungen nur knapp entfernt sind!\nMysteriös, abenteuerlich, gespenstisch, experimentell, witzig, unheimlich und verflixt: Siebenmal knackig-kurzer Hör-Spaß ist garantiert!",
       "veröffentlichungsdatum" : "2014-02-21",
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Emily White",
+          "sprecher" : "Sabine Hahn"
+        },
+        {
+          "rolle" : "Judy Fradkin",
+          "sprecher" : "Ursula Heyer"
+        },
+        {
+          "rolle" : "Aladin",
+          "sprecher" : "Heidi Schaffrath"
+        },
+        {
+          "rolle" : "Aschenputtel",
+          "sprecher" : "Regina Lemnitz"
+        },
+        {
+          "rolle" : "Prinzessin",
+          "sprecher" : "Renate Pichler"
+        },
+        {
+          "rolle" : "Rotkäppchen",
+          "sprecher" : "Angela Stresemann"
+        },
+        {
+          "rolle" : "Meerjungfrau",
+          "sprecher" : "Heikedine Körting",
+          "pseudonym" : "Pamela Punti"
+        },
+        {
+          "rolle" : "Mr. Andrews",
+          "sprecher" : "Henry König"
+        },
+        {
+          "rolle" : "Mrs. Andrews",
+          "sprecher" : "Konstanze Ullmer"
+        },
+        {
+          "rolle" : "Arzt",
+          "sprecher" : "Erik Schäffler"
+        },
+        {
+          "rolle" : "Mrs. Wallace",
+          "sprecher" : "Angela Stresemann"
+        },
+        {
+          "rolle" : "Bobby",
+          "sprecher" : "Merete Brettschneider"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Croupier",
+          "sprecher" : "Gosta Liptow"
+        },
+        {
+          "rolle" : "Carl Hopkins, Physiker",
+          "sprecher" : "Ben Hecker"
+        },
+        {
+          "rolle" : "Miller, Schiffsdetektiv",
+          "sprecher" : "Michael Grimm"
+        },
+        {
+          "rolle" : "Kapitän Sherwood",
+          "sprecher" : "Horst Naumann"
+        },
+        {
+          "rolle" : "Theodore Quaid",
+          "sprecher" : "Dietrich Adam"
+        },
+        {
+          "rolle" : "Jamie Peterson, Barmann",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Handerson",
+          "sprecher" : "Wolfgang Rositzka"
+        },
+        {
+          "rolle" : "Diego",
+          "sprecher" : "Stephan Benson"
+        },
+        {
+          "rolle" : "Mercedes",
+          "sprecher" : "Hella von der Osten-Sacken",
+          "pseudonym" : "Wanda Osten"
+        },
+        {
+          "rolle" : "Nayeli",
+          "sprecher" : "Stefan Brönneke"
+        },
+        {
+          "rolle" : "Barker",
+          "sprecher" : "Ben Hecker"
+        },
+        {
+          "rolle" : "Off-Sprecherin",
+          "sprecher" : "Claudia Stocksieker"
+        },
+        {
+          "rolle" : "Ian Carew",
+          "sprecher" : "Sascha Draeger"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/cover.png"
@@ -1727,6 +1991,133 @@
       "beschreibung" : "Die drei ??? übernehmen jeden Fall. Da gibt's immer Überraschungen, ungeahnte Wendungen – und manchmal kommt alles wirklich ganz anders als gedacht! So wie in diesen kurzen Fällen, bei denen die Welt von Justus, Peter und Bob manchmal ganz schön auf den Kopf gestellt wird. Da ist vorwärts dann plötzlich doch rückwärts und vorn ist hinten und gleich nochmal von vorn …",
       "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
       "veröffentlichungsdatum" : "2016-03-04",
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Hüne",
+          "sprecher" : "Johannes Semm"
+        },
+        {
+          "rolle" : "Marvin Gray",
+          "sprecher" : "Horst Stark"
+        },
+        {
+          "rolle" : "Nancy McMonigal",
+          "sprecher" : "Gerlinde Dillge"
+        },
+        {
+          "rolle" : "Tom",
+          "sprecher" : "Wolfgang Rositzka"
+        },
+        {
+          "rolle" : "Rod",
+          "sprecher" : "Herbert Tennigkeit"
+        },
+        {
+          "rolle" : "Joe",
+          "sprecher" : "Olaf Reichmann"
+        },
+        {
+          "rolle" : "Ben",
+          "sprecher" : "Stephan Chrzescinski"
+        },
+        {
+          "rolle" : "Mariann",
+          "sprecher" : "Simone Ritscher"
+        },
+        {
+          "rolle" : "TV-Sprecher",
+          "sprecher" : "Holger Wemhoff"
+        },
+        {
+          "rolle" : "Malcolm Fever",
+          "sprecher" : "Tilo Schmitz"
+        },
+        {
+          "rolle" : "Lucy Hopkins",
+          "sprecher" : "Topsy Küppers"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Professor Selby",
+          "sprecher" : "Claus Wilcke"
+        },
+        {
+          "rolle" : "Oberpriesterin",
+          "sprecher" : "Elga Schütz"
+        },
+        {
+          "rolle" : "Kevin",
+          "sprecher" : "Patrick Mölleken"
+        },
+        {
+          "rolle" : "Mann in Kutte",
+          "sprecher" : "Rüdiger Hellmann"
+        },
+        {
+          "rolle" : "Radio",
+          "sprecher" : "Wilhelm Wieben"
+        },
+        {
+          "rolle" : "Mr. Tilton",
+          "sprecher" : "Christian Senger"
+        },
+        {
+          "rolle" : "Mr. Walsh",
+          "sprecher" : "Christian Rudolf"
+        },
+        {
+          "rolle" : "Weise Frau",
+          "sprecher" : "Dorothea Hagena"
+        },
+        {
+          "rolle" : "Kelly",
+          "sprecher" : "Juliane Szalay"
+        },
+        {
+          "rolle" : "Patrick",
+          "sprecher" : "Nicolas König"
+        },
+        {
+          "rolle" : "Samuel",
+          "sprecher" : "Johannes Semm"
+        },
+        {
+          "rolle" : "Kenneth",
+          "sprecher" : "Olaf Reichmann"
+        },
+        {
+          "rolle" : "Liz Zapata",
+          "sprecher" : "Merete Brettschneider"
+        },
+        {
+          "rolle" : "Skinny Norris",
+          "sprecher" : "Michael Harck"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/metadata.json",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/cover.png"
@@ -2247,6 +2638,142 @@
       "beschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.",
       "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
       "veröffentlichungsdatum" : "2018-10-28",
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Helen",
+          "sprecher" : "Dorette Hugo",
+          "pseudonym" : "Balancinha Blanc"
+        },
+        {
+          "rolle" : "Ellen",
+          "sprecher" : "Dorette Hugo"
+        },
+        {
+          "rolle" : "Vater",
+          "sprecher" : "Douglas Welbat"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Skinny Norris",
+          "sprecher" : "Michael Harck"
+        },
+        {
+          "rolle" : "Marc Kingstone",
+          "sprecher" : "Rainer Brandt"
+        },
+        {
+          "rolle" : "Aaron Kingstone",
+          "sprecher" : "Tommi Piper"
+        },
+        {
+          "rolle" : "Sarah",
+          "sprecher" : "Christiane Leuchtmann"
+        },
+        {
+          "rolle" : "Albert",
+          "sprecher" : "Franzisko Löwe"
+        },
+        {
+          "rolle" : "Kelly Madigan",
+          "sprecher" : "Juliane Szalay"
+        },
+        {
+          "rolle" : "Mrs. McGee",
+          "sprecher" : "Alice Krimmel"
+        },
+        {
+          "rolle" : "Toby",
+          "sprecher" : "A. Stengelin"
+        },
+        {
+          "rolle" : "Mrs. Wells",
+          "sprecher" : "Heidi Schaffrath"
+        },
+        {
+          "rolle" : "Junge",
+          "sprecher" : "Linus Tauber"
+        },
+        {
+          "rolle" : "Mädchen",
+          "sprecher" : "Katinka Jaekel"
+        },
+        {
+          "rolle" : "Ericsson",
+          "sprecher" : "Detlef Tams"
+        },
+        {
+          "rolle" : "Sprecher/Moderator",
+          "sprecher" : "Oliver Böttcher"
+        },
+        {
+          "rolle" : "Tarek Shabana",
+          "sprecher" : "Werner Wilkening"
+        },
+        {
+          "rolle" : "Tasha",
+          "sprecher" : "Victoria Zöller"
+        },
+        {
+          "rolle" : "Domino Laverna",
+          "sprecher" : "Sabine Hahn"
+        },
+        {
+          "rolle" : "Biff Rodgers, Reporter",
+          "sprecher" : "Daniel Schütter"
+        },
+        {
+          "rolle" : "Lesley Dimple",
+          "sprecher" : "Ann Montenbruck"
+        },
+        {
+          "rolle" : "Zeus Zenon Johnson",
+          "sprecher" : "Michael Prelle"
+        },
+        {
+          "rolle" : "Computer",
+          "sprecher" : "Peter Bayer"
+        },
+        {
+          "rolle" : "Off-Sprecher",
+          "sprecher" : "Frank Roder"
+        },
+        {
+          "rolle" : "Sprecher",
+          "sprecher" : "Andreas Birnbaum"
+        },
+        {
+          "rolle" : "Blacky",
+          "sprecher" : "Heikedine Körting",
+          "pseudonym" : "Pamela Punti"
+        },
+        {
+          "rolle" : "Kassiererin",
+          "sprecher" : "Angela Stresemann"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/metadata.json",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/cover.png"

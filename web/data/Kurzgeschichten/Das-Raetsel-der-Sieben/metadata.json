@@ -592,6 +592,135 @@
   "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Sieben Kurzgeschichten von sieben Autoren in einer Hörspiel-Box: Bei diesen Fällen wird so rasant ermittelt, dass die Lösungen nur knapp entfernt sind!\nMysteriös, abenteuerlich, gespenstisch, experimentell, witzig, unheimlich und verflixt: Siebenmal knackig-kurzer Hör-Spaß ist garantiert!",
   "veröffentlichungsdatum" : "2014-02-21",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Emily White",
+      "sprecher" : "Sabine Hahn"
+    },
+    {
+      "rolle" : "Judy Fradkin",
+      "sprecher" : "Ursula Heyer"
+    },
+    {
+      "rolle" : "Aladin",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Aschenputtel",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Prinzessin",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Rotkäppchen",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Meerjungfrau",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Pamela Punti"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Mrs. Andrews",
+      "sprecher" : "Konstanze Ullmer"
+    },
+    {
+      "rolle" : "Arzt",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Mrs. Wallace",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Bobby",
+      "sprecher" : "Merete Brettschneider"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Croupier",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Carl Hopkins, Physiker",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Miller, Schiffsdetektiv",
+      "sprecher" : "Michael Grimm"
+    },
+    {
+      "rolle" : "Kapitän Sherwood",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Theodore Quaid",
+      "sprecher" : "Dietrich Adam"
+    },
+    {
+      "rolle" : "Jamie Peterson, Barmann",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Handerson",
+      "sprecher" : "Wolfgang Rositzka"
+    },
+    {
+      "rolle" : "Diego",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Mercedes",
+      "sprecher" : "Hella von der Osten-Sacken",
+      "pseudonym" : "Wanda Osten"
+    },
+    {
+      "rolle" : "Nayeli",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Barker",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Off-Sprecherin",
+      "sprecher" : "Claudia Stocksieker"
+    },
+    {
+      "rolle" : "Ian Carew",
+      "sprecher" : "Sascha Draeger"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json",
     "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/cover.png"
