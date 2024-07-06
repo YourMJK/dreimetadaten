@@ -13,7 +13,7 @@ import ArgumentParser
 struct Command: ParsableCommand {
 	static let configuration = CommandConfiguration(
 		commandName: executableName,
-		version: "1.1.0",
+		version: "1.2.0",
 		subcommands: [Migrate.self, Export.self, WebBuild.self, Load.self],
 		helpMessageLabelColumnWidth: 20
 	)
@@ -27,6 +27,13 @@ struct Command: ParsableCommand {
 	static let databaseFile = metadataDir.appendingPathComponent("db.sqlite")
 	static let sqlFile = metadataDir.appendingPathComponent("db.sql")
 	static let tsvDir = metadataDir.appendingPathComponent("tsv")
+	static let jsonDir = metadataDir.appendingPathComponent("json")
+	
+	static let webURL = URL(string: "http://dreimetadaten.de")!
+	static let webDir = url(projectRelativePath: "web")
+	private static let webDataDirRelativePath = "data"
+	static var webDataURL: URL { webURL.appendingPathComponent(webDataDirRelativePath) }
+	static var webDataDir: URL { webDir.appendingPathComponent(webDataDirRelativePath) }
 	
 	static func url(projectRelativePath projectDirRelativePath: String) -> URL {
 		let dest = URL(fileURLWithPath: projectDirRelativePath, relativeTo: projectDir)

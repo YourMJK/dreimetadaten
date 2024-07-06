@@ -14,7 +14,7 @@ extension Command {
 	struct Export: ParsableCommand {
 		static let configuration = CommandConfiguration(
 			abstract: "Export dataset into various (more convenient) formats.",
-			subcommands: [Web.self, SQL.self, TSV.self],
+			subcommands: [SQL.self, TSV.self, JSON.self, Web.self],
 			helpMessageLabelColumnWidth: 20,
 			alwaysCompactUsageOptions: true
 		)
