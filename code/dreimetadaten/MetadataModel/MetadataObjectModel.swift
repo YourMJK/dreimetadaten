@@ -29,12 +29,18 @@ extension MetadataObjectModel {
 		var veröffentlichungsdatum: String?
 		var kapitel: [Kapitel]?
 		var sprechrollen: [Sprechrolle]?
+		var medien: [Medium]?
 		var links: Links?
 		var unvollständig: Bool?
 	}
 	
 	class Folge: Hörspiel {
 		var nummer: Int
+		
+		init(nummer: Int) {
+			self.nummer = nummer
+			super.init()
+		}
 		
 		// Codable
 		enum CodingKeys: CodingKey {
@@ -55,6 +61,11 @@ extension MetadataObjectModel {
 	class Teil: Hörspiel {
 		var teilNummer: UInt
 		var buchstabe: String?
+		
+		init(teilNummer: UInt) {
+			self.teilNummer = teilNummer
+			super.init()
+		}
 		
 		// Codable
 		enum CodingKeys: CodingKey {
@@ -87,10 +98,15 @@ extension MetadataObjectModel {
 		var pseudonym: String?
 	}
 	
+	struct Medium: Codable {
+		var tracks: [Kapitel]
+		var xld_log: String?
+	}
+	
 	struct Links: Codable {
 		var json: String?
 		var ffmetadata: String?
-		var xld_log: String?
+		var xld_log: String?  // Only kept for backwards-compatibility
 		var cover: String?
 		var cover_itunes: String?
 		var cover_kosmos: String?
@@ -140,6 +156,7 @@ extension MetadataObjectModel {
 			"veröffentlichungsdatum",
 			"kapitel",
 			"sprechrollen",
+			"medien",
 			"links",
 			"unvollständig",
 			
@@ -151,9 +168,11 @@ extension MetadataObjectModel {
 			"sprecher",
 			"pseudonym",
 			
+			"tracks",
+			"xld_log",
+			
 			"json",
 			"ffmetadata",
-			"xld_log",
 			"cover",
 			"cover_itunes",
 			"cover_kosmos"
