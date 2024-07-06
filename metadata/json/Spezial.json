@@ -1,96 +1,6 @@
 {
   "spezial" : [
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Ein Hilferuf",
-              "start" : 0,
-              "end" : 557187
-            },
-            {
-              "titel" : "Errare humanum est",
-              "start" : 557187,
-              "end" : 1134733
-            },
-            {
-              "titel" : "Ist Sherlock Holmes zuhause?",
-              "start" : 1134733,
-              "end" : 1352707
-            },
-            {
-              "titel" : "Die Telefonlawine",
-              "start" : 1352707,
-              "end" : 2080920
-            },
-            {
-              "titel" : "Blackbeard",
-              "start" : 2080920,
-              "end" : 2426173
-            },
-            {
-              "titel" : "Ein spezial gelagerter Sonderfall",
-              "start" : 2426173,
-              "end" : 2677653
-            },
-            {
-              "titel" : "Sterbenskrank",
-              "start" : 2677653,
-              "end" : 2921387
-            },
-            {
-              "titel" : "Skinny Norris",
-              "start" : 2921387,
-              "end" : 3178987
-            },
-            {
-              "titel" : "Robin Hood",
-              "start" : 3178987,
-              "end" : 3418440
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Ein gerissener Kunstdieb",
-              "start" : 0,
-              "end" : 692667
-            },
-            {
-              "titel" : "Al Capone",
-              "start" : 692667,
-              "end" : 978747
-            },
-            {
-              "titel" : "Baker Street in London",
-              "start" : 978747,
-              "end" : 1177880
-            },
-            {
-              "titel" : "Auf dem Friedhof",
-              "start" : 1177880,
-              "end" : 1809400
-            },
-            {
-              "titel" : "Wo sind die Papageien?",
-              "start" : 1809400,
-              "end" : 1981684
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "und der Super-Papagei 2004",
       "autor" : "Robert Arthur",
       "hörspielskriptautor" : "André Minninger",
@@ -231,6 +141,88 @@
           "sprecher" : "Barbara Benuel"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Ein Hilferuf",
+              "start" : 0,
+              "end" : 557187
+            },
+            {
+              "titel" : "Errare humanum est",
+              "start" : 557187,
+              "end" : 1134733
+            },
+            {
+              "titel" : "Ist Sherlock Holmes zuhause?",
+              "start" : 1134733,
+              "end" : 1352707
+            },
+            {
+              "titel" : "Die Telefonlawine",
+              "start" : 1352707,
+              "end" : 2080920
+            },
+            {
+              "titel" : "Blackbeard",
+              "start" : 2080920,
+              "end" : 2426173
+            },
+            {
+              "titel" : "Ein spezial gelagerter Sonderfall",
+              "start" : 2426173,
+              "end" : 2677653
+            },
+            {
+              "titel" : "Sterbenskrank",
+              "start" : 2677653,
+              "end" : 2921387
+            },
+            {
+              "titel" : "Skinny Norris",
+              "start" : 2921387,
+              "end" : 3178987
+            },
+            {
+              "titel" : "Robin Hood",
+              "start" : 3178987,
+              "end" : 3418440
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Ein gerissener Kunstdieb",
+              "start" : 0,
+              "end" : 692667
+            },
+            {
+              "titel" : "Al Capone",
+              "start" : 692667,
+              "end" : 978747
+            },
+            {
+              "titel" : "Baker Street in London",
+              "start" : 978747,
+              "end" : 1177880
+            },
+            {
+              "titel" : "Auf dem Friedhof",
+              "start" : 1177880,
+              "end" : 1809400
+            },
+            {
+              "titel" : "Wo sind die Papageien?",
+              "start" : 1809400,
+              "end" : 1981684
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/rip_log2.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/ffmetadata.txt",
@@ -244,7 +236,9 @@
           "buchstabe" : "J",
           "titel" : "Sicht J: Der Fluch der Sheldon Street",
           "autor" : "Hendrik Buchna",
+          "hörspielskriptautor" : "André Minninger",
           "beschreibung" : "Alles beginnt mit dem Kauf eines alten Projektors und der Entdeckung einer schmalen Super-8-Filmrolle. Als die drei Detektive das Fundstück begutachten, entdecken sie die verstörende Aufnahme einer albtraumhaften Gestalt. Schnell stellen die drei ??? fest, dass es um weit mehr geht, als sie zunächst ahnen: Eine ganze Straße scheint unter dem Bann eines düsteren Geheimnisses zu stehen. Doch kaum beginnen Justus, Peter und Bob mit ihren Nachforschungen, da tauchen plötzlich Gegner auf, die ihnen mit allen Mitteln zuvorkommen wollen …",
+          "veröffentlichungsdatum" : "2010-10-01",
           "kapitel" : [
             {
               "titel" : "Die Cola",
@@ -409,8 +403,7 @@
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/rip_log.txt"
+            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt"
           }
         },
         {
@@ -418,7 +411,9 @@
           "buchstabe" : "B",
           "titel" : "Sicht B: Im Zeichen der Ritter",
           "autor" : "Tim Wenderoth",
+          "hörspielskriptautor" : "André Minninger",
           "beschreibung" : "Geheimnisvolle Symbole beunruhigen die Bewohner von Rocky Beach. Was steckt hinter den kryptischen Zeichen, die von einer geisterhaften Gestalt nachts an die Häuser gemalt werden? Und warum verhalten sich einige Bewohner der kleinen Küstenstadt so merkwürdig? Ihre ersten Nachforschungen bringen Justus, Peter und vor allem Bob auf die Spur einer mittelalterlichen Ritterlegende. Je intensiver sie sich mit dem Fall beschäftigen, umso klarer scheint, dass ihnen nur wenige Stunden bleiben, um am unheilvollen Freitag den 13. Schlimmeres zu verhindern …",
+          "veröffentlichungsdatum" : "2010-10-01",
           "kapitel" : [
             {
               "titel" : "Die Cola",
@@ -573,8 +568,7 @@
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/rip_log.txt"
+            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt"
           }
         },
         {
@@ -582,7 +576,9 @@
           "buchstabe" : "P",
           "titel" : "Sicht P: Fremder Freund",
           "autor" : "Ivar Leon Menger",
+          "hörspielskriptautor" : "André Minninger",
           "beschreibung" : "Peter schwebt im siebten Himmel, denn er hat in einem Café Bekanntschaft mit einem großen Fan der drei ??? gemacht. Er wird sogar um ein Autogramm gebeten. Stolz und gut gelaunt verbringt Peter einen tollen Tag mit seinen Freunden, und alles wäre einfach perfekt, wenn er nicht plötzlich diese seltsamen Telefonanrufe und mysteriösen Briefe erhalten würde. Die drei Detektive werden heimlich beobachtet und sogar von einem Unbekannten fotografiert! Was soll das alles? Wer ist dieser seltsame Verfolger? Ist Peters Leben in Gefahr?",
+          "veröffentlichungsdatum" : "2010-10-01",
           "kapitel" : [
             {
               "titel" : "Die Cola",
@@ -707,19 +703,19 @@
             },
             {
               "rolle" : "Ian Bush",
-              "sprecher" : "Sky du Mont / Lukas T. Sperber"
+              "sprecher" : "Sky du Mont, Lukas T. Sperber"
             },
             {
               "rolle" : "Jimmy Sinclair",
-              "sprecher" : "Siegfried W. Kernen / Nils Noller"
+              "sprecher" : "Siegfried W. Kernen, Nils Noller"
             },
             {
               "rolle" : "Charlie Parker",
-              "sprecher" : "Oliver Böttcher / Laurence Kalaidjian"
+              "sprecher" : "Oliver Böttcher, Laurence Kalaidjian"
             },
             {
               "rolle" : "Brianna Jackson",
-              "sprecher" : "Hansi Jochmann / Natalie Demtrøder"
+              "sprecher" : "Hansi Jochmann, Natalie Demtrøder"
             },
             {
               "rolle" : "Chloe Smathers",
@@ -788,8 +784,7 @@
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/rip_log.txt"
+            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt"
           }
         }
       ],
@@ -937,19 +932,19 @@
         },
         {
           "rolle" : "Ian Bush",
-          "sprecher" : "Sky du Mont / Lukas T. Sperber"
+          "sprecher" : "Sky du Mont, Lukas T. Sperber"
         },
         {
           "rolle" : "Jimmy Sinclair",
-          "sprecher" : "Siegfried W. Kernen / Nils Noller"
+          "sprecher" : "Siegfried W. Kernen, Nils Noller"
         },
         {
           "rolle" : "Charlie Parker",
-          "sprecher" : "Oliver Böttcher / Laurence Kalaidjian"
+          "sprecher" : "Oliver Böttcher, Laurence Kalaidjian"
         },
         {
           "rolle" : "Brianna Jackson",
-          "sprecher" : "Hansi Jochmann / Natalie Demtrøder"
+          "sprecher" : "Hansi Jochmann, Natalie Demtrøder"
         },
         {
           "rolle" : "Chloe Smathers",
@@ -978,6 +973,223 @@
         {
           "rolle" : "Sekretärin",
           "sprecher" : "Corinna Wodrich"
+        }
+      ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Die Cola",
+              "start" : 0,
+              "end" : 249733
+            },
+            {
+              "titel" : "Bleiche Fratze",
+              "start" : 249733,
+              "end" : 518160
+            },
+            {
+              "titel" : "Sammlerstück",
+              "start" : 518160,
+              "end" : 743333
+            },
+            {
+              "titel" : "Dunkle Erinnerung",
+              "start" : 743333,
+              "end" : 1150133
+            },
+            {
+              "titel" : "Eine Straße in Angst",
+              "start" : 1150133,
+              "end" : 1828053
+            },
+            {
+              "titel" : "Verfolgt",
+              "start" : 1828053,
+              "end" : 2374027
+            },
+            {
+              "titel" : "Kriegsrat",
+              "start" : 2374027,
+              "end" : 2635387
+            },
+            {
+              "titel" : "Unheimliche Begegnungen",
+              "start" : 2635387,
+              "end" : 3167667
+            },
+            {
+              "titel" : "Sturm",
+              "start" : 3167667,
+              "end" : 3467800
+            },
+            {
+              "titel" : "Eine heiße Spur",
+              "start" : 3467800,
+              "end" : 3850653
+            },
+            {
+              "titel" : "Wendepunkt",
+              "start" : 3850653,
+              "end" : 4188920
+            },
+            {
+              "titel" : "Der Fluch der Sheldon Street",
+              "start" : 4188920,
+              "end" : 4589640
+            },
+            {
+              "titel" : "Triumph",
+              "start" : 4589640,
+              "end" : 4757160
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Die Cola",
+              "start" : 0,
+              "end" : 262987
+            },
+            {
+              "titel" : "Papierdrachen",
+              "start" : 262987,
+              "end" : 490387
+            },
+            {
+              "titel" : "Außerirdische",
+              "start" : 490387,
+              "end" : 801680
+            },
+            {
+              "titel" : "Der Heilige Gral",
+              "start" : 801680,
+              "end" : 1008107
+            },
+            {
+              "titel" : "Freitag, der 13.",
+              "start" : 1008107,
+              "end" : 1488693
+            },
+            {
+              "titel" : "3 × 9 = 27",
+              "start" : 1488693,
+              "end" : 1719373
+            },
+            {
+              "titel" : "Blamiert",
+              "start" : 1719373,
+              "end" : 1958373
+            },
+            {
+              "titel" : "Jesper",
+              "start" : 1958373,
+              "end" : 2380533
+            },
+            {
+              "titel" : "Exklusivrechte",
+              "start" : 2380533,
+              "end" : 2786640
+            },
+            {
+              "titel" : "Cliffhanger",
+              "start" : 2786640,
+              "end" : 3126560
+            },
+            {
+              "titel" : "Film ab!",
+              "start" : 3126560,
+              "end" : 3353253
+            },
+            {
+              "titel" : "Rote Farbe",
+              "start" : 3353253,
+              "end" : 3904933
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log2.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Die Cola",
+              "start" : 0,
+              "end" : 231413
+            },
+            {
+              "titel" : "Du hast noch nicht einmal gefragt!",
+              "start" : 231413,
+              "end" : 560493
+            },
+            {
+              "titel" : "Du bist doch verliebt, Peter!",
+              "start" : 560493,
+              "end" : 750533
+            },
+            {
+              "titel" : "Das Geschäft des Monats!",
+              "start" : 750533,
+              "end" : 1009533
+            },
+            {
+              "titel" : "Mein Name ist Peter!",
+              "start" : 1009533,
+              "end" : 1371053
+            },
+            {
+              "titel" : "Der Brief wurde abgegeben!",
+              "start" : 1371053,
+              "end" : 1580600
+            },
+            {
+              "titel" : "Auf den Novalux-Projektor!",
+              "start" : 1580600,
+              "end" : 1942960
+            },
+            {
+              "titel" : "Das bin ich dir schuldig!",
+              "start" : 1942960,
+              "end" : 2201400
+            },
+            {
+              "titel" : "Warum sollte ich das tun?",
+              "start" : 2201400,
+              "end" : 2382760
+            },
+            {
+              "titel" : "Hört ihr das nicht?",
+              "start" : 2382760,
+              "end" : 2814560
+            },
+            {
+              "titel" : "Nein, Bob! Die mag mich doch!",
+              "start" : 2814560,
+              "end" : 3104720
+            },
+            {
+              "titel" : "Aber genau das ist doch sehr seltsam!",
+              "start" : 3104720,
+              "end" : 3363200
+            },
+            {
+              "titel" : "Ein Zeichen?",
+              "start" : 3363200,
+              "end" : 3675013
+            },
+            {
+              "titel" : "Hier eine Sondermeldung!",
+              "start" : 3675013,
+              "end" : 3978200
+            },
+            {
+              "titel" : "Darf ich reinkommen?",
+              "start" : 3978200,
+              "end" : 4416000
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log3.txt"
         }
       ],
       "links" : {
@@ -1151,620 +1363,81 @@
           "sprecher" : "Lauscherlounge-Zuschauer (www.dreifragezeichen.de/www/menge-brainwash)"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Band-Probe",
+              "start" : 0,
+              "end" : 240240
+            },
+            {
+              "titel" : "Verschwunden",
+              "start" : 240240,
+              "end" : 764587
+            },
+            {
+              "titel" : "Zwischen den Stühlen",
+              "start" : 764587,
+              "end" : 911680
+            },
+            {
+              "titel" : "Depressionen?",
+              "start" : 911680,
+              "end" : 1175453
+            },
+            {
+              "titel" : "Ausreißer",
+              "start" : 1175453,
+              "end" : 1661507
+            },
+            {
+              "titel" : "SynRea",
+              "start" : 1661507,
+              "end" : 1812533
+            },
+            {
+              "titel" : "Neue Energie",
+              "start" : 1812533,
+              "end" : 2010333
+            },
+            {
+              "titel" : "Elite-Einheiten",
+              "start" : 2010333,
+              "end" : 2307147
+            },
+            {
+              "titel" : "Ertappt",
+              "start" : 2307147,
+              "end" : 2921373
+            },
+            {
+              "titel" : "Der Meister",
+              "start" : 2921373,
+              "end" : 3390173
+            },
+            {
+              "titel" : "Am Ende des Weges",
+              "start" : 3390173,
+              "end" : 3565613
+            },
+            {
+              "titel" : "Alles vergessen",
+              "start" : 3565613,
+              "end" : 3675453
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/rip_log.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music49/v4/b9/f2/a8/b9f2a801-34a1-4d5d-c745-5ef921fba6cb/886445749403.jpg"
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Die Geisterbahn",
-              "start" : 0,
-              "end" : 418747
-            },
-            {
-              "titel" : "Paket dem Gouverneur übergeben",
-              "start" : 418747,
-              "end" : 494627
-            },
-            {
-              "titel" : "Werbeanzeigen lesen",
-              "start" : 494627,
-              "end" : 644347
-            },
-            {
-              "titel" : "Vor Bubba verstecken",
-              "start" : 644347,
-              "end" : 748173
-            },
-            {
-              "titel" : "Geisterbahn beobachten",
-              "start" : 748173,
-              "end" : 798067
-            },
-            {
-              "titel" : "Paket selbst öffnen",
-              "start" : 798067,
-              "end" : 844267
-            },
-            {
-              "titel" : "Bei Bubba bleiben",
-              "start" : 844267,
-              "end" : 913187
-            },
-            {
-              "titel" : "Mit Joey sprechen",
-              "start" : 913187,
-              "end" : 1143093
-            },
-            {
-              "titel" : "Flucht zu den drei ???",
-              "start" : 1143093,
-              "end" : 1214400
-            },
-            {
-              "titel" : "Mit Bubba Detroit sprechen",
-              "start" : 1214400,
-              "end" : 1282880
-            },
-            {
-              "titel" : "Joey verfolgen",
-              "start" : 1282880,
-              "end" : 1425973
-            },
-            {
-              "titel" : "Justus hinterher rennen",
-              "start" : 1425973,
-              "end" : 1474547
-            },
-            {
-              "titel" : "Bei den drei ??? bleiben",
-              "start" : 1474547,
-              "end" : 1574467
-            },
-            {
-              "titel" : "Ich habe viel Geld",
-              "start" : 1574467,
-              "end" : 1649973
-            },
-            {
-              "titel" : "Bubba abschütteln",
-              "start" : 1649973,
-              "end" : 1767320
-            },
-            {
-              "titel" : "Geisterbahn von innen untersuchen",
-              "start" : 1767320,
-              "end" : 1916067
-            },
-            {
-              "titel" : "Verstecken in der Achterbahn",
-              "start" : 1916067,
-              "end" : 2045960
-            },
-            {
-              "titel" : "Geisterbahn von außen untersuchen",
-              "start" : 2045960,
-              "end" : 2190267
-            },
-            {
-              "titel" : "Die Zaubershow besuchen",
-              "start" : 2190267,
-              "end" : 2334773
-            },
-            {
-              "titel" : "Ich habe wenig Geld",
-              "start" : 2334773,
-              "end" : 2451360
-            },
-            {
-              "titel" : "Mit Marilyn sprechen",
-              "start" : 2451360,
-              "end" : 2654120
-            },
-            {
-              "titel" : "Verstecken in der Geisterbahn",
-              "start" : 2654120,
-              "end" : 2995320
-            },
-            {
-              "titel" : "Die Frau mit der Flugtasche befragen",
-              "start" : 2995320,
-              "end" : 3132573
-            },
-            {
-              "titel" : "Zu Margarine schleichen",
-              "start" : 3132573,
-              "end" : 3249360
-            },
-            {
-              "titel" : "Flucht über die Grenze nach Süden",
-              "start" : 3249360,
-              "end" : 3330787
-            },
-            {
-              "titel" : "Der nimmt mir alles weg",
-              "start" : 3330787,
-              "end" : 3430867
-            },
-            {
-              "titel" : "Den Verfolger verfolgen",
-              "start" : 3430867,
-              "end" : 3498480
-            }
-          ],
-          "sprechrollen" : [
-            {
-              "rolle" : "Off-Stimme",
-              "sprecher" : "Claudia Stocksieker"
-            },
-            {
-              "rolle" : "Justus Jonas, Erster Detektiv",
-              "sprecher" : "Oliver Rohrbeck"
-            },
-            {
-              "rolle" : "Peter Shaw, Zweiter Detektiv",
-              "sprecher" : "Jens Wawrczeck"
-            },
-            {
-              "rolle" : "Bob Andrews, Recherchen und Archiv",
-              "sprecher" : "Andreas Fröhlich"
-            },
-            {
-              "rolle" : "Tony",
-              "sprecher" : "Stefan Kaminski"
-            },
-            {
-              "rolle" : "Joey",
-              "sprecher" : "Tommaso Cacciapuoti"
-            },
-            {
-              "rolle" : "Ansager in der Schlammringkampfarena",
-              "sprecher" : "Christian Rudolf"
-            },
-            {
-              "rolle" : "Margarine",
-              "sprecher" : "Alma Clausen"
-            },
-            {
-              "rolle" : "Lincolnfahrer",
-              "sprecher" : "Mike Olsowski"
-            },
-            {
-              "rolle" : "Freakshow-Jack",
-              "sprecher" : "Peter Bänker"
-            },
-            {
-              "rolle" : "Der unergründliche Mickey",
-              "sprecher" : "Krystian Martinek"
-            },
-            {
-              "rolle" : "Die bärtige Marilyn",
-              "sprecher" : "Santiago Ziesmer"
-            },
-            {
-              "rolle" : "Miss Luzzy",
-              "sprecher" : "Katja Brügger"
-            },
-            {
-              "rolle" : "Bubba Detroit",
-              "sprecher" : "Klaus Dittmann"
-            },
-            {
-              "rolle" : "Junge",
-              "sprecher" : "Patrick Bach"
-            },
-            {
-              "rolle" : "Burger-Verkäufer Arnie",
-              "sprecher" : "Manou Lubowski"
-            },
-            {
-              "rolle" : "Reporterin",
-              "sprecher" : "Mara Bergmann"
-            },
-            {
-              "rolle" : "Anna Millar",
-              "sprecher" : "Christine Pappert"
-            },
-            {
-              "rolle" : "Bombenattentäter Daniel",
-              "sprecher" : "Tim Grobe"
-            },
-            {
-              "rolle" : "Polizist",
-              "sprecher" : "Wolfgang Kaven"
-            },
-            {
-              "rolle" : "Blacky",
-              "sprecher" : "Heikedine Körting"
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 0,
-              "end" : 15467
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 15467,
-              "end" : 30707
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 30707,
-              "end" : 45947
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 45947,
-              "end" : 61187
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 61187,
-              "end" : 76427
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 76427,
-              "end" : 91667
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 91667,
-              "end" : 106907
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 106907,
-              "end" : 122147
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 122147,
-              "end" : 137387
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 137387,
-              "end" : 152627
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 152627,
-              "end" : 167867
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 167867,
-              "end" : 183107
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 183107,
-              "end" : 198347
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 198347,
-              "end" : 213587
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 213587,
-              "end" : 228827
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 228827,
-              "end" : 244067
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 244067,
-              "end" : 259307
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 259307,
-              "end" : 274547
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 274547,
-              "end" : 289787
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 289787,
-              "end" : 305027
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 305027,
-              "end" : 320267
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 320267,
-              "end" : 335507
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 335507,
-              "end" : 350747
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 350747,
-              "end" : 365987
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 365987,
-              "end" : 381227
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 381227,
-              "end" : 396467
-            },
-            {
-              "titel" : "weiter mit Track 28",
-              "start" : 396467,
-              "end" : 411707
-            },
-            {
-              "titel" : "Die Frau mit der Flugtasche verfolgen",
-              "start" : 411707,
-              "end" : 537960
-            },
-            {
-              "titel" : "Wir warten auf Mrs. Millar",
-              "start" : 537960,
-              "end" : 653493
-            },
-            {
-              "titel" : "Wir wollen bleiben",
-              "start" : 653493,
-              "end" : 893067
-            },
-            {
-              "titel" : "Die Tür öffnen",
-              "start" : 893067,
-              "end" : 1104507
-            },
-            {
-              "titel" : "Wir wollen die Belohnung",
-              "start" : 1104507,
-              "end" : 1264053
-            },
-            {
-              "titel" : "Eine Autofahrt",
-              "start" : 1264053,
-              "end" : 1508440
-            },
-            {
-              "titel" : "Ich helfe Justus bei der Arbeit",
-              "start" : 1508440,
-              "end" : 1682947
-            },
-            {
-              "titel" : "Mrs. Millar nicht treffen",
-              "start" : 1682947,
-              "end" : 1777307
-            },
-            {
-              "titel" : "Die Popcorntüte stehlen",
-              "start" : 1777307,
-              "end" : 1889027
-            },
-            {
-              "titel" : "Jemand soll mich umprogrammieren",
-              "start" : 1889027,
-              "end" : 1992520
-            },
-            {
-              "titel" : "Die Krebs-Anzeige ist wichtig",
-              "start" : 1992520,
-              "end" : 2141507
-            },
-            {
-              "titel" : "Joey an der Flucht hindern",
-              "start" : 2141507,
-              "end" : 2218093
-            },
-            {
-              "titel" : "$100 auftreiben",
-              "start" : 2218093,
-              "end" : 2338853
-            },
-            {
-              "titel" : "Mit einem Schuh werfen",
-              "start" : 2338853,
-              "end" : 2457427
-            },
-            {
-              "titel" : "In der Geisterbahn nachsehen",
-              "start" : 2457427,
-              "end" : 2837493
-            },
-            {
-              "titel" : "Um eine Mitfahrgelegenheit bitten",
-              "start" : 2837493,
-              "end" : 2913627
-            },
-            {
-              "titel" : "Die Popcorn-Anzeige ist wichtig",
-              "start" : 2913627,
-              "end" : 2997907
-            },
-            {
-              "titel" : "Postfächer überwachen",
-              "start" : 2997907,
-              "end" : 3203520
-            },
-            {
-              "titel" : "Wir wollen gehen",
-              "start" : 3203520,
-              "end" : 3289667
-            },
-            {
-              "titel" : "Mehr als vier Mal \"Ja!\" geantwortet",
-              "start" : 3289667,
-              "end" : 3402813
-            },
-            {
-              "titel" : "Weniger als vier Mal \"Ja!\" geantwortet",
-              "start" : 3402813,
-              "end" : 3480800
-            },
-            {
-              "titel" : "Ich will für immer bleiben",
-              "start" : 3480800,
-              "end" : 3570440
-            },
-            {
-              "titel" : "Durch das Fenster fliehen",
-              "start" : 3570440,
-              "end" : 3762907
-            },
-            {
-              "titel" : "Wir wollen die Belohnung nicht",
-              "start" : 3762907,
-              "end" : 3830293
-            },
-            {
-              "titel" : "Justus arbeitet alleine",
-              "start" : 3830293,
-              "end" : 3955293
-            },
-            {
-              "titel" : "Um Hilfe rufen",
-              "start" : 3955293,
-              "end" : 4017853
-            },
-            {
-              "titel" : "Etwas Einmaliges tun",
-              "start" : 4017853,
-              "end" : 4146813
-            },
-            {
-              "titel" : "Mrs. Millar treffen",
-              "start" : 4146813,
-              "end" : 4220507
-            },
-            {
-              "titel" : "Auf dem Riesenrad",
-              "start" : 4220507,
-              "end" : 4326973
-            },
-            {
-              "titel" : "Wir gehen hinein",
-              "start" : 4326973,
-              "end" : 4409547
-            },
-            {
-              "titel" : "Mortons zweite Chance",
-              "start" : 4409547,
-              "end" : 4497427
-            }
-          ],
-          "sprechrollen" : [
-            {
-              "rolle" : "Off-Stimme",
-              "sprecher" : "Claudia Stocksieker"
-            },
-            {
-              "rolle" : "Justus Jonas, Erster Detektiv",
-              "sprecher" : "Oliver Rohrbeck"
-            },
-            {
-              "rolle" : "Peter Shaw, Zweiter Detektiv",
-              "sprecher" : "Jens Wawrczeck"
-            },
-            {
-              "rolle" : "Bob Andrews, Recherchen und Archiv",
-              "sprecher" : "Andreas Fröhlich"
-            },
-            {
-              "rolle" : "Tony",
-              "sprecher" : "Stefan Kaminski"
-            },
-            {
-              "rolle" : "Joey",
-              "sprecher" : "Tommaso Cacciapuoti"
-            },
-            {
-              "rolle" : "Anna Millar",
-              "sprecher" : "Christine Pappert"
-            },
-            {
-              "rolle" : "Lily",
-              "sprecher" : "Verena Wolfien"
-            },
-            {
-              "rolle" : "Max",
-              "sprecher" : "Holger Umbreit"
-            },
-            {
-              "rolle" : "Milli",
-              "sprecher" : "Ulrike Knief"
-            },
-            {
-              "rolle" : "Celeste Hummer",
-              "sprecher" : "Maria Willer"
-            },
-            {
-              "rolle" : "Anthem Hummer",
-              "sprecher" : "Martin May"
-            },
-            {
-              "rolle" : "Morton",
-              "sprecher" : "Andreas von der Meden"
-            },
-            {
-              "rolle" : "Blacky",
-              "sprecher" : "Heikedine Körting"
-            },
-            {
-              "rolle" : "Bruce Millar",
-              "sprecher" : "Ben Hecker"
-            },
-            {
-              "rolle" : "Kommissar Reynolds",
-              "sprecher" : "Wolfgang Draeger"
-            },
-            {
-              "rolle" : "Albert Hitfield",
-              "sprecher" : "Volker Bogdan"
-            },
-            {
-              "rolle" : "TV-Sprecher",
-              "sprecher" : "Friedel Bott"
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/2/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "House of Horrors: Haus der Angst",
       "autor" : "Megan & H. William Stine",
       "hörspielskriptautor" : "André Minninger",
@@ -2189,6 +1862,443 @@
           "sprecher" : "Heikedine Körting"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Die Geisterbahn",
+              "start" : 0,
+              "end" : 418747
+            },
+            {
+              "titel" : "Paket dem Gouverneur übergeben",
+              "start" : 418747,
+              "end" : 494627
+            },
+            {
+              "titel" : "Werbeanzeigen lesen",
+              "start" : 494627,
+              "end" : 644347
+            },
+            {
+              "titel" : "Vor Bubba verstecken",
+              "start" : 644347,
+              "end" : 748173
+            },
+            {
+              "titel" : "Geisterbahn beobachten",
+              "start" : 748173,
+              "end" : 798067
+            },
+            {
+              "titel" : "Paket selbst öffnen",
+              "start" : 798067,
+              "end" : 844267
+            },
+            {
+              "titel" : "Bei Bubba bleiben",
+              "start" : 844267,
+              "end" : 913187
+            },
+            {
+              "titel" : "Mit Joey sprechen",
+              "start" : 913187,
+              "end" : 1143093
+            },
+            {
+              "titel" : "Flucht zu den drei ???",
+              "start" : 1143093,
+              "end" : 1214400
+            },
+            {
+              "titel" : "Mit Bubba Detroit sprechen",
+              "start" : 1214400,
+              "end" : 1282880
+            },
+            {
+              "titel" : "Joey verfolgen",
+              "start" : 1282880,
+              "end" : 1425973
+            },
+            {
+              "titel" : "Justus hinterher rennen",
+              "start" : 1425973,
+              "end" : 1474547
+            },
+            {
+              "titel" : "Bei den drei ??? bleiben",
+              "start" : 1474547,
+              "end" : 1574467
+            },
+            {
+              "titel" : "Ich habe viel Geld",
+              "start" : 1574467,
+              "end" : 1649973
+            },
+            {
+              "titel" : "Bubba abschütteln",
+              "start" : 1649973,
+              "end" : 1767320
+            },
+            {
+              "titel" : "Geisterbahn von innen untersuchen",
+              "start" : 1767320,
+              "end" : 1916067
+            },
+            {
+              "titel" : "Verstecken in der Achterbahn",
+              "start" : 1916067,
+              "end" : 2045960
+            },
+            {
+              "titel" : "Geisterbahn von außen untersuchen",
+              "start" : 2045960,
+              "end" : 2190267
+            },
+            {
+              "titel" : "Die Zaubershow besuchen",
+              "start" : 2190267,
+              "end" : 2334773
+            },
+            {
+              "titel" : "Ich habe wenig Geld",
+              "start" : 2334773,
+              "end" : 2451360
+            },
+            {
+              "titel" : "Mit Marilyn sprechen",
+              "start" : 2451360,
+              "end" : 2654120
+            },
+            {
+              "titel" : "Verstecken in der Geisterbahn",
+              "start" : 2654120,
+              "end" : 2995320
+            },
+            {
+              "titel" : "Die Frau mit der Flugtasche befragen",
+              "start" : 2995320,
+              "end" : 3132573
+            },
+            {
+              "titel" : "Zu Margarine schleichen",
+              "start" : 3132573,
+              "end" : 3249360
+            },
+            {
+              "titel" : "Flucht über die Grenze nach Süden",
+              "start" : 3249360,
+              "end" : 3330787
+            },
+            {
+              "titel" : "Der nimmt mir alles weg",
+              "start" : 3330787,
+              "end" : 3430867
+            },
+            {
+              "titel" : "Den Verfolger verfolgen",
+              "start" : 3430867,
+              "end" : 3498480
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 0,
+              "end" : 15467
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 15467,
+              "end" : 30707
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 30707,
+              "end" : 45947
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 45947,
+              "end" : 61187
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 61187,
+              "end" : 76427
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 76427,
+              "end" : 91667
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 91667,
+              "end" : 106907
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 106907,
+              "end" : 122147
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 122147,
+              "end" : 137387
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 137387,
+              "end" : 152627
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 152627,
+              "end" : 167867
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 167867,
+              "end" : 183107
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 183107,
+              "end" : 198347
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 198347,
+              "end" : 213587
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 213587,
+              "end" : 228827
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 228827,
+              "end" : 244067
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 244067,
+              "end" : 259307
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 259307,
+              "end" : 274547
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 274547,
+              "end" : 289787
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 289787,
+              "end" : 305027
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 305027,
+              "end" : 320267
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 320267,
+              "end" : 335507
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 335507,
+              "end" : 350747
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 350747,
+              "end" : 365987
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 365987,
+              "end" : 381227
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 381227,
+              "end" : 396467
+            },
+            {
+              "titel" : "weiter mit Track 28",
+              "start" : 396467,
+              "end" : 411707
+            },
+            {
+              "titel" : "Die Frau mit der Flugtasche verfolgen",
+              "start" : 411707,
+              "end" : 537960
+            },
+            {
+              "titel" : "Wir warten auf Mrs. Millar",
+              "start" : 537960,
+              "end" : 653493
+            },
+            {
+              "titel" : "Wir wollen bleiben",
+              "start" : 653493,
+              "end" : 893067
+            },
+            {
+              "titel" : "Die Tür öffnen",
+              "start" : 893067,
+              "end" : 1104507
+            },
+            {
+              "titel" : "Wir wollen die Belohnung",
+              "start" : 1104507,
+              "end" : 1264053
+            },
+            {
+              "titel" : "Eine Autofahrt",
+              "start" : 1264053,
+              "end" : 1508440
+            },
+            {
+              "titel" : "Ich helfe Justus bei der Arbeit",
+              "start" : 1508440,
+              "end" : 1682947
+            },
+            {
+              "titel" : "Mrs. Millar nicht treffen",
+              "start" : 1682947,
+              "end" : 1777307
+            },
+            {
+              "titel" : "Die Popcorntüte stehlen",
+              "start" : 1777307,
+              "end" : 1889027
+            },
+            {
+              "titel" : "Jemand soll mich umprogrammieren",
+              "start" : 1889027,
+              "end" : 1992520
+            },
+            {
+              "titel" : "Die Krebs-Anzeige ist wichtig",
+              "start" : 1992520,
+              "end" : 2141507
+            },
+            {
+              "titel" : "Joey an der Flucht hindern",
+              "start" : 2141507,
+              "end" : 2218093
+            },
+            {
+              "titel" : "$100 auftreiben",
+              "start" : 2218093,
+              "end" : 2338853
+            },
+            {
+              "titel" : "Mit einem Schuh werfen",
+              "start" : 2338853,
+              "end" : 2457427
+            },
+            {
+              "titel" : "In der Geisterbahn nachsehen",
+              "start" : 2457427,
+              "end" : 2837493
+            },
+            {
+              "titel" : "Um eine Mitfahrgelegenheit bitten",
+              "start" : 2837493,
+              "end" : 2913627
+            },
+            {
+              "titel" : "Die Popcorn-Anzeige ist wichtig",
+              "start" : 2913627,
+              "end" : 2997907
+            },
+            {
+              "titel" : "Postfächer überwachen",
+              "start" : 2997907,
+              "end" : 3203520
+            },
+            {
+              "titel" : "Wir wollen gehen",
+              "start" : 3203520,
+              "end" : 3289667
+            },
+            {
+              "titel" : "Mehr als vier Mal \"Ja!\" geantwortet",
+              "start" : 3289667,
+              "end" : 3402813
+            },
+            {
+              "titel" : "Weniger als vier Mal \"Ja!\" geantwortet",
+              "start" : 3402813,
+              "end" : 3480800
+            },
+            {
+              "titel" : "Ich will für immer bleiben",
+              "start" : 3480800,
+              "end" : 3570440
+            },
+            {
+              "titel" : "Durch das Fenster fliehen",
+              "start" : 3570440,
+              "end" : 3762907
+            },
+            {
+              "titel" : "Wir wollen die Belohnung nicht",
+              "start" : 3762907,
+              "end" : 3830293
+            },
+            {
+              "titel" : "Justus arbeitet alleine",
+              "start" : 3830293,
+              "end" : 3955293
+            },
+            {
+              "titel" : "Um Hilfe rufen",
+              "start" : 3955293,
+              "end" : 4017853
+            },
+            {
+              "titel" : "Etwas Einmaliges tun",
+              "start" : 4017853,
+              "end" : 4146813
+            },
+            {
+              "titel" : "Mrs. Millar treffen",
+              "start" : 4146813,
+              "end" : 4220507
+            },
+            {
+              "titel" : "Auf dem Riesenrad",
+              "start" : 4220507,
+              "end" : 4326973
+            },
+            {
+              "titel" : "Wir gehen hinein",
+              "start" : 4326973,
+              "end" : 4409547
+            },
+            {
+              "titel" : "Mortons zweite Chance",
+              "start" : 4409547,
+              "end" : 4497427
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/rip_log2.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/ffmetadata.txt",
@@ -2304,164 +2414,66 @@
           "sprecher" : "Heikedine Körting"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Guten Morgen, Rocky Beach",
+              "start" : 0,
+              "end" : 404573
+            },
+            {
+              "titel" : "Haltet den Dieb!",
+              "start" : 404573,
+              "end" : 942667
+            },
+            {
+              "titel" : "Alarm!",
+              "start" : 942667,
+              "end" : 1209693
+            },
+            {
+              "titel" : "Überfall",
+              "start" : 1209693,
+              "end" : 1369080
+            },
+            {
+              "titel" : "Aufgekauft",
+              "start" : 1369080,
+              "end" : 1568280
+            },
+            {
+              "titel" : "Vorsicht, Schlange!",
+              "start" : 1568280,
+              "end" : 2410227
+            },
+            {
+              "titel" : "Weiße Weihnacht",
+              "start" : 2410227,
+              "end" : 2536653
+            },
+            {
+              "titel" : "Was fehlt denn da?",
+              "start" : 2536653,
+              "end" : 2972787
+            },
+            {
+              "titel" : "Jailhouse Rock",
+              "start" : 2972787,
+              "end" : 3170453
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music49/v4/30/a3/5b/30a35bd3-ae05-4a15-cd1b-674753aee0e2/886445749465.jpg"
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "1. Dezember",
-              "start" : 0,
-              "end" : 528880
-            },
-            {
-              "titel" : "2. Dezember",
-              "start" : 528880,
-              "end" : 1052733
-            },
-            {
-              "titel" : "3. Dezember",
-              "start" : 1052733,
-              "end" : 1392027
-            },
-            {
-              "titel" : "4. Dezember",
-              "start" : 1392027,
-              "end" : 1723400
-            },
-            {
-              "titel" : "5. Dezember",
-              "start" : 1723400,
-              "end" : 2275853
-            },
-            {
-              "titel" : "6. Dezember",
-              "start" : 2275853,
-              "end" : 2536933
-            },
-            {
-              "titel" : "7. Dezember",
-              "start" : 2536933,
-              "end" : 3046067
-            },
-            {
-              "titel" : "8. Dezember",
-              "start" : 3046067,
-              "end" : 3369320
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "9. Dezember",
-              "start" : 0,
-              "end" : 418440
-            },
-            {
-              "titel" : "10. Dezember",
-              "start" : 418440,
-              "end" : 808827
-            },
-            {
-              "titel" : "11. Dezember",
-              "start" : 808827,
-              "end" : 1281680
-            },
-            {
-              "titel" : "12. Dezember",
-              "start" : 1281680,
-              "end" : 1650720
-            },
-            {
-              "titel" : "13. Dezember",
-              "start" : 1650720,
-              "end" : 2057747
-            },
-            {
-              "titel" : "14. Dezember",
-              "start" : 2057747,
-              "end" : 2301000
-            },
-            {
-              "titel" : "15. Dezember",
-              "start" : 2301000,
-              "end" : 2676493
-            },
-            {
-              "titel" : "16. Dezember",
-              "start" : 2676493,
-              "end" : 2843747
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/2/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 3,
-          "kapitel" : [
-            {
-              "titel" : "17. Dezember",
-              "start" : 0,
-              "end" : 435120
-            },
-            {
-              "titel" : "18. Dezember",
-              "start" : 435120,
-              "end" : 682693
-            },
-            {
-              "titel" : "19. Dezember",
-              "start" : 682693,
-              "end" : 1369906
-            },
-            {
-              "titel" : "20. Dezember",
-              "start" : 1369906,
-              "end" : 1597800
-            },
-            {
-              "titel" : "21. Dezember",
-              "start" : 1597800,
-              "end" : 1897186
-            },
-            {
-              "titel" : "22. Dezember",
-              "start" : 1897186,
-              "end" : 2452800
-            },
-            {
-              "titel" : "23. Dezember",
-              "start" : 2452800,
-              "end" : 3054146
-            },
-            {
-              "titel" : "24. Dezember",
-              "start" : 3054146,
-              "end" : 4068240
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/3/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/3/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "und der 5. Advent",
       "autor" : "André Minninger",
       "hörspielskriptautor" : "André Minninger",
@@ -2651,6 +2663,143 @@
           "sprecher" : "Heikedine Körting"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "1. Dezember",
+              "start" : 0,
+              "end" : 528880
+            },
+            {
+              "titel" : "2. Dezember",
+              "start" : 528880,
+              "end" : 1052733
+            },
+            {
+              "titel" : "3. Dezember",
+              "start" : 1052733,
+              "end" : 1392027
+            },
+            {
+              "titel" : "4. Dezember",
+              "start" : 1392027,
+              "end" : 1723400
+            },
+            {
+              "titel" : "5. Dezember",
+              "start" : 1723400,
+              "end" : 2275853
+            },
+            {
+              "titel" : "6. Dezember",
+              "start" : 2275853,
+              "end" : 2536933
+            },
+            {
+              "titel" : "7. Dezember",
+              "start" : 2536933,
+              "end" : 3046067
+            },
+            {
+              "titel" : "8. Dezember",
+              "start" : 3046067,
+              "end" : 3369320
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "9. Dezember",
+              "start" : 0,
+              "end" : 418440
+            },
+            {
+              "titel" : "10. Dezember",
+              "start" : 418440,
+              "end" : 808827
+            },
+            {
+              "titel" : "11. Dezember",
+              "start" : 808827,
+              "end" : 1281680
+            },
+            {
+              "titel" : "12. Dezember",
+              "start" : 1281680,
+              "end" : 1650720
+            },
+            {
+              "titel" : "13. Dezember",
+              "start" : 1650720,
+              "end" : 2057747
+            },
+            {
+              "titel" : "14. Dezember",
+              "start" : 2057747,
+              "end" : 2301000
+            },
+            {
+              "titel" : "15. Dezember",
+              "start" : 2301000,
+              "end" : 2676493
+            },
+            {
+              "titel" : "16. Dezember",
+              "start" : 2676493,
+              "end" : 2843747
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/rip_log2.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "17. Dezember",
+              "start" : 0,
+              "end" : 435120
+            },
+            {
+              "titel" : "18. Dezember",
+              "start" : 435120,
+              "end" : 682693
+            },
+            {
+              "titel" : "19. Dezember",
+              "start" : 682693,
+              "end" : 1369906
+            },
+            {
+              "titel" : "20. Dezember",
+              "start" : 1369906,
+              "end" : 1597800
+            },
+            {
+              "titel" : "21. Dezember",
+              "start" : 1597800,
+              "end" : 1897186
+            },
+            {
+              "titel" : "22. Dezember",
+              "start" : 1897186,
+              "end" : 2452800
+            },
+            {
+              "titel" : "23. Dezember",
+              "start" : 2452800,
+              "end" : 3054146
+            },
+            {
+              "titel" : "24. Dezember",
+              "start" : 3054146,
+              "end" : 4068240
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/rip_log3.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/ffmetadata.txt",
@@ -2659,155 +2808,6 @@
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Noch 24 Stunden – 23. Dezember, zwölf Uhr mittags",
-              "start" : 0,
-              "end" : 432200
-            },
-            {
-              "titel" : "Noch 23 Stunden – 23. Dezember, ein Uhr mittags",
-              "start" : 432200,
-              "end" : 887973
-            },
-            {
-              "titel" : "Noch 22 Stunden – 23. Dezember, zwei Uhr mittags",
-              "start" : 887973,
-              "end" : 1325493
-            },
-            {
-              "titel" : "Noch 21 Stunden – 23 Dezember, drei Uhr nachmittags",
-              "start" : 1325493,
-              "end" : 1808987
-            },
-            {
-              "titel" : "Noch 20 Stunden – 23 Dezember, vier Uhr nachmittags",
-              "start" : 1808987,
-              "end" : 2128173
-            },
-            {
-              "titel" : "Noch 19 Stunden – 23 Dezember, fünf Uhr nachmittags",
-              "start" : 2128173,
-              "end" : 2676680
-            },
-            {
-              "titel" : "Noch 18 Stunden – 23 Dezember, sechs Uhr abends",
-              "start" : 2676680,
-              "end" : 3123987
-            },
-            {
-              "titel" : "Noch 17 Stunden – 23 Dezember, sieben Uhr abends",
-              "start" : 3123987,
-              "end" : 3650720
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Noch 16 Stunden – 23. Dezember, acht Uhr abends",
-              "start" : 0,
-              "end" : 452653
-            },
-            {
-              "titel" : "Noch 15 Stunden – 23. Dezember, neun Uhr abends",
-              "start" : 452653,
-              "end" : 952880
-            },
-            {
-              "titel" : "Noch 14 Stunden – 23. Dezember, zehn Uhr abends",
-              "start" : 952880,
-              "end" : 1339000
-            },
-            {
-              "titel" : "Noch 13 Stunden – 23. Dezember, elf Uhr abends",
-              "start" : 1339000,
-              "end" : 1731893
-            },
-            {
-              "titel" : "Noch 12 Stunden – 24. Dezember, Mitternacht",
-              "start" : 1731893,
-              "end" : 2041880
-            },
-            {
-              "titel" : "Noch 11 Stunden – 24. Dezember, ein Uhr nachts",
-              "start" : 2041880,
-              "end" : 2370413
-            },
-            {
-              "titel" : "Noch 10 Stunden – 24. Dezember, zwei Uhr nachts",
-              "start" : 2370413,
-              "end" : 2694627
-            },
-            {
-              "titel" : "Noch 9 Stunden – 24. Dezember, drei Uhr nachts",
-              "start" : 2694627,
-              "end" : 2881880
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/2/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 3,
-          "kapitel" : [
-            {
-              "titel" : "Noch 8 Stunden – 24. Dezember, vier Uhr morgens",
-              "start" : 0,
-              "end" : 228467
-            },
-            {
-              "titel" : "Noch 7 Stunden – 24. Dezember, fünf Uhr morgens",
-              "start" : 228467,
-              "end" : 460160
-            },
-            {
-              "titel" : "Noch 6 Stunden – 24. Dezember, sechs Uhr morgens",
-              "start" : 460160,
-              "end" : 727147
-            },
-            {
-              "titel" : "Noch 5 Stunden – 24. Dezember, sieben Uhr morgens",
-              "start" : 727147,
-              "end" : 984053
-            },
-            {
-              "titel" : "Noch 4 Stunden – 24. Dezember, acht Uhr morgens",
-              "start" : 984053,
-              "end" : 1260013
-            },
-            {
-              "titel" : "Noch 3 Stunden – 24. Dezember, neun Uhr morgens",
-              "start" : 1260013,
-              "end" : 1819947
-            },
-            {
-              "titel" : "Noch 2 Stunden – 24. Dezember, zehn Uhr vormittags",
-              "start" : 1819947,
-              "end" : 2827160
-            },
-            {
-              "titel" : "Noch 1 Stunde – 24. Dezember, elf Uhr vormittags",
-              "start" : 2827160,
-              "end" : 3360800
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/3/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/3/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "Stille Nacht, düstere Nacht",
       "autor" : "Hendrik Buchna",
       "hörspielskriptautor" : "André Minninger",
@@ -3009,6 +3009,143 @@
           "sprecher" : "Marianne Bernhardt"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Noch 24 Stunden – 23. Dezember, zwölf Uhr mittags",
+              "start" : 0,
+              "end" : 432200
+            },
+            {
+              "titel" : "Noch 23 Stunden – 23. Dezember, ein Uhr mittags",
+              "start" : 432200,
+              "end" : 887973
+            },
+            {
+              "titel" : "Noch 22 Stunden – 23. Dezember, zwei Uhr mittags",
+              "start" : 887973,
+              "end" : 1325493
+            },
+            {
+              "titel" : "Noch 21 Stunden – 23 Dezember, drei Uhr nachmittags",
+              "start" : 1325493,
+              "end" : 1808987
+            },
+            {
+              "titel" : "Noch 20 Stunden – 23 Dezember, vier Uhr nachmittags",
+              "start" : 1808987,
+              "end" : 2128173
+            },
+            {
+              "titel" : "Noch 19 Stunden – 23 Dezember, fünf Uhr nachmittags",
+              "start" : 2128173,
+              "end" : 2676680
+            },
+            {
+              "titel" : "Noch 18 Stunden – 23 Dezember, sechs Uhr abends",
+              "start" : 2676680,
+              "end" : 3123987
+            },
+            {
+              "titel" : "Noch 17 Stunden – 23 Dezember, sieben Uhr abends",
+              "start" : 3123987,
+              "end" : 3650720
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Noch 16 Stunden – 23. Dezember, acht Uhr abends",
+              "start" : 0,
+              "end" : 452653
+            },
+            {
+              "titel" : "Noch 15 Stunden – 23. Dezember, neun Uhr abends",
+              "start" : 452653,
+              "end" : 952880
+            },
+            {
+              "titel" : "Noch 14 Stunden – 23. Dezember, zehn Uhr abends",
+              "start" : 952880,
+              "end" : 1339000
+            },
+            {
+              "titel" : "Noch 13 Stunden – 23. Dezember, elf Uhr abends",
+              "start" : 1339000,
+              "end" : 1731893
+            },
+            {
+              "titel" : "Noch 12 Stunden – 24. Dezember, Mitternacht",
+              "start" : 1731893,
+              "end" : 2041880
+            },
+            {
+              "titel" : "Noch 11 Stunden – 24. Dezember, ein Uhr nachts",
+              "start" : 2041880,
+              "end" : 2370413
+            },
+            {
+              "titel" : "Noch 10 Stunden – 24. Dezember, zwei Uhr nachts",
+              "start" : 2370413,
+              "end" : 2694627
+            },
+            {
+              "titel" : "Noch 9 Stunden – 24. Dezember, drei Uhr nachts",
+              "start" : 2694627,
+              "end" : 2881880
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/rip_log2.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Noch 8 Stunden – 24. Dezember, vier Uhr morgens",
+              "start" : 0,
+              "end" : 228467
+            },
+            {
+              "titel" : "Noch 7 Stunden – 24. Dezember, fünf Uhr morgens",
+              "start" : 228467,
+              "end" : 460160
+            },
+            {
+              "titel" : "Noch 6 Stunden – 24. Dezember, sechs Uhr morgens",
+              "start" : 460160,
+              "end" : 727147
+            },
+            {
+              "titel" : "Noch 5 Stunden – 24. Dezember, sieben Uhr morgens",
+              "start" : 727147,
+              "end" : 984053
+            },
+            {
+              "titel" : "Noch 4 Stunden – 24. Dezember, acht Uhr morgens",
+              "start" : 984053,
+              "end" : 1260013
+            },
+            {
+              "titel" : "Noch 3 Stunden – 24. Dezember, neun Uhr morgens",
+              "start" : 1260013,
+              "end" : 1819947
+            },
+            {
+              "titel" : "Noch 2 Stunden – 24. Dezember, zehn Uhr vormittags",
+              "start" : 1819947,
+              "end" : 2827160
+            },
+            {
+              "titel" : "Noch 1 Stunde – 24. Dezember, elf Uhr vormittags",
+              "start" : 2827160,
+              "end" : 3360800
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/rip_log3.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Stille-Nacht-duestere-Nacht/ffmetadata.txt",
@@ -3017,155 +3154,6 @@
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "1. Dezember: Auf ins Winterwunderland",
-              "start" : 0,
-              "end" : 466467
-            },
-            {
-              "titel" : "2. Dezember: Tief in den Wäldern",
-              "start" : 466467,
-              "end" : 777480
-            },
-            {
-              "titel" : "3. Dezember: Licht im Dunkel",
-              "start" : 777480,
-              "end" : 1297787
-            },
-            {
-              "titel" : "4. Dezember: Böse Erinnerungen",
-              "start" : 1297787,
-              "end" : 1720960
-            },
-            {
-              "titel" : "5. Dezember: Gruß vom Krampus!",
-              "start" : 1720960,
-              "end" : 2074240
-            },
-            {
-              "titel" : "6. Dezember: Keine stille Nacht",
-              "start" : 2074240,
-              "end" : 2519587
-            },
-            {
-              "titel" : "7. Dezember: Abreisen oder bleiben",
-              "start" : 2519587,
-              "end" : 2873680
-            },
-            {
-              "titel" : "8. Dezember: (K)ein Fall für die drei ???",
-              "start" : 2873680,
-              "end" : 3271667
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "9. Dezember: Adventsdämon und Geisterkind",
-              "start" : 0,
-              "end" : 304906
-            },
-            {
-              "titel" : "10. Dezember: Ein unglaublicher Verdacht",
-              "start" : 304906,
-              "end" : 721200
-            },
-            {
-              "titel" : "11. Dezember: Bär gegen Teufel",
-              "start" : 721200,
-              "end" : 1233560
-            },
-            {
-              "titel" : "12. Dezember: Der Sessellift",
-              "start" : 1233560,
-              "end" : 1606146
-            },
-            {
-              "titel" : "13. Dezember: Gefangen im Nichts",
-              "start" : 1606146,
-              "end" : 2001853
-            },
-            {
-              "titel" : "14. Dezember: Eisnebel",
-              "start" : 2001853,
-              "end" : 2484173
-            },
-            {
-              "titel" : "15. Dezember: Überraschende Erkenntnisse",
-              "start" : 2484173,
-              "end" : 2748786
-            },
-            {
-              "titel" : "16. Dezember: Gekränkte Liebe",
-              "start" : 2748786,
-              "end" : 3143893
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/2/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 3,
-          "kapitel" : [
-            {
-              "titel" : "17. Dezember: Bitterböser Schneemann",
-              "start" : 0,
-              "end" : 384427
-            },
-            {
-              "titel" : "18. Dezember: Schatten der Vergangenheit",
-              "start" : 384427,
-              "end" : 776427
-            },
-            {
-              "titel" : "19. Dezember: Unerwartete Wendung",
-              "start" : 776427,
-              "end" : 1218773
-            },
-            {
-              "titel" : "20. Dezember: Neustart",
-              "start" : 1218773,
-              "end" : 1767920
-            },
-            {
-              "titel" : "21. Dezember: Ein Albtraum wird wahr!",
-              "start" : 1767920,
-              "end" : 2100453
-            },
-            {
-              "titel" : "22. Dezember: Die Masken fallen",
-              "start" : 2100453,
-              "end" : 2618627
-            },
-            {
-              "titel" : "23. Dezember: Auge in Auge mit dem Feind",
-              "start" : 2618627,
-              "end" : 3110867
-            },
-            {
-              "titel" : "24. Dezember: O Tannenbaum",
-              "start" : 3110867,
-              "end" : 3533293
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/3/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/3/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "O du finstere",
       "autor" : "Hendrik Buchna",
       "hörspielskriptautor" : "André Minninger",
@@ -3356,6 +3344,143 @@
           "sprecher" : "Fabian Harloff"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "1. Dezember: Auf ins Winterwunderland",
+              "start" : 0,
+              "end" : 466467
+            },
+            {
+              "titel" : "2. Dezember: Tief in den Wäldern",
+              "start" : 466467,
+              "end" : 777480
+            },
+            {
+              "titel" : "3. Dezember: Licht im Dunkel",
+              "start" : 777480,
+              "end" : 1297787
+            },
+            {
+              "titel" : "4. Dezember: Böse Erinnerungen",
+              "start" : 1297787,
+              "end" : 1720960
+            },
+            {
+              "titel" : "5. Dezember: Gruß vom Krampus!",
+              "start" : 1720960,
+              "end" : 2074240
+            },
+            {
+              "titel" : "6. Dezember: Keine stille Nacht",
+              "start" : 2074240,
+              "end" : 2519587
+            },
+            {
+              "titel" : "7. Dezember: Abreisen oder bleiben",
+              "start" : 2519587,
+              "end" : 2873680
+            },
+            {
+              "titel" : "8. Dezember: (K)ein Fall für die drei ???",
+              "start" : 2873680,
+              "end" : 3271667
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "9. Dezember: Adventsdämon und Geisterkind",
+              "start" : 0,
+              "end" : 304906
+            },
+            {
+              "titel" : "10. Dezember: Ein unglaublicher Verdacht",
+              "start" : 304906,
+              "end" : 721200
+            },
+            {
+              "titel" : "11. Dezember: Bär gegen Teufel",
+              "start" : 721200,
+              "end" : 1233560
+            },
+            {
+              "titel" : "12. Dezember: Der Sessellift",
+              "start" : 1233560,
+              "end" : 1606146
+            },
+            {
+              "titel" : "13. Dezember: Gefangen im Nichts",
+              "start" : 1606146,
+              "end" : 2001853
+            },
+            {
+              "titel" : "14. Dezember: Eisnebel",
+              "start" : 2001853,
+              "end" : 2484173
+            },
+            {
+              "titel" : "15. Dezember: Überraschende Erkenntnisse",
+              "start" : 2484173,
+              "end" : 2748786
+            },
+            {
+              "titel" : "16. Dezember: Gekränkte Liebe",
+              "start" : 2748786,
+              "end" : 3143893
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/rip_log2.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "17. Dezember: Bitterböser Schneemann",
+              "start" : 0,
+              "end" : 384427
+            },
+            {
+              "titel" : "18. Dezember: Schatten der Vergangenheit",
+              "start" : 384427,
+              "end" : 776427
+            },
+            {
+              "titel" : "19. Dezember: Unerwartete Wendung",
+              "start" : 776427,
+              "end" : 1218773
+            },
+            {
+              "titel" : "20. Dezember: Neustart",
+              "start" : 1218773,
+              "end" : 1767920
+            },
+            {
+              "titel" : "21. Dezember: Ein Albtraum wird wahr!",
+              "start" : 1767920,
+              "end" : 2100453
+            },
+            {
+              "titel" : "22. Dezember: Die Masken fallen",
+              "start" : 2100453,
+              "end" : 2618627
+            },
+            {
+              "titel" : "23. Dezember: Auge in Auge mit dem Feind",
+              "start" : 2618627,
+              "end" : 3110867
+            },
+            {
+              "titel" : "24. Dezember: O Tannenbaum",
+              "start" : 3110867,
+              "end" : 3533293
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/rip_log3.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/O-du-finstere/ffmetadata.txt",
@@ -3364,146 +3489,6 @@
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Tag 01: Winterwunderland",
-              "start" : 0,
-              "end" : 483987
-            },
-            {
-              "titel" : "Tag 02: Angriff auf Santa Claus",
-              "start" : 483987,
-              "end" : 634960
-            },
-            {
-              "titel" : "Tag 03: Sabotage",
-              "start" : 634960,
-              "end" : 950920
-            },
-            {
-              "titel" : "Tag 04: Ein Sack voller Geheimnisse",
-              "start" : 950920,
-              "end" : 1342133
-            },
-            {
-              "titel" : "Tag 05: 36 x Elf",
-              "start" : 1342133,
-              "end" : 1805067
-            },
-            {
-              "titel" : "Tag 06: Bruder Justus",
-              "start" : 1805067,
-              "end" : 2202560
-            },
-            {
-              "titel" : "Tag 07: Elf gegen drei",
-              "start" : 2202560,
-              "end" : 2448800
-            },
-            {
-              "titel" : "Tag 08: Märchenstunde",
-              "start" : 2448800,
-              "end" : 2705213
-            },
-            {
-              "titel" : "Tag 09: Köder mit Schleife",
-              "start" : 2705213,
-              "end" : 3227933
-            },
-            {
-              "titel" : "Tag 10: Auf frischer Tat",
-              "start" : 3227933,
-              "end" : 3552400
-            },
-            {
-              "titel" : "Tag 11: Kurzfinger",
-              "start" : 3552400,
-              "end" : 3785267
-            },
-            {
-              "titel" : "Tag 12: Der Alligator",
-              "start" : 3785267,
-              "end" : 4156227
-            },
-            {
-              "titel" : "Tag 13: Eine schräge Nachtmusik",
-              "start" : 4156227,
-              "end" : 4545373
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Tag 14: Die magische Laterne",
-              "start" : 0,
-              "end" : 396960
-            },
-            {
-              "titel" : "Tag 15: 96930 Arctic Circle",
-              "start" : 396960,
-              "end" : 810973
-            },
-            {
-              "titel" : "Tag 16: Die Übergabe",
-              "start" : 810973,
-              "end" : 1187973
-            },
-            {
-              "titel" : "Tag 17: Schritte im Dunkeln",
-              "start" : 1187973,
-              "end" : 1566493
-            },
-            {
-              "titel" : "Tag 18: Eine schreckliche Überraschung",
-              "start" : 1566493,
-              "end" : 2015493
-            },
-            {
-              "titel" : "Tag 19: Die Frau vom Polarkreis",
-              "start" : 2015493,
-              "end" : 2446413
-            },
-            {
-              "titel" : "Tag 20: Elf auf der Flucht",
-              "start" : 2446413,
-              "end" : 2969680
-            },
-            {
-              "titel" : "Tag 21: Verfolgte Verbrecher",
-              "start" : 2969680,
-              "end" : 3329387
-            },
-            {
-              "titel" : "Tag 22: Im Würgegriff der Rentiere",
-              "start" : 3329387,
-              "end" : 3695293
-            },
-            {
-              "titel" : "Tag 23: Nächstes Weihnachten",
-              "start" : 3695293,
-              "end" : 4101187
-            },
-            {
-              "titel" : "Tag 24: Mitarbeiter des Monats",
-              "start" : 4101187,
-              "end" : 4609387
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/2/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "Eine schreckliche Bescherung",
       "autor" : "Marco Sonnleitner",
       "hörspielskriptautor" : "André Minninger",
@@ -3760,6 +3745,138 @@
           "sprecher" : "Lars Schmidtke"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 01: Winterwunderland",
+              "start" : 0,
+              "end" : 483987
+            },
+            {
+              "titel" : "Tag 02: Angriff auf Santa Claus",
+              "start" : 483987,
+              "end" : 634960
+            },
+            {
+              "titel" : "Tag 03: Sabotage",
+              "start" : 634960,
+              "end" : 950920
+            },
+            {
+              "titel" : "Tag 04: Ein Sack voller Geheimnisse",
+              "start" : 950920,
+              "end" : 1342133
+            },
+            {
+              "titel" : "Tag 05: 36 x Elf",
+              "start" : 1342133,
+              "end" : 1805067
+            },
+            {
+              "titel" : "Tag 06: Bruder Justus",
+              "start" : 1805067,
+              "end" : 2202560
+            },
+            {
+              "titel" : "Tag 07: Elf gegen drei",
+              "start" : 2202560,
+              "end" : 2448800
+            },
+            {
+              "titel" : "Tag 08: Märchenstunde",
+              "start" : 2448800,
+              "end" : 2705213
+            },
+            {
+              "titel" : "Tag 09: Köder mit Schleife",
+              "start" : 2705213,
+              "end" : 3227933
+            },
+            {
+              "titel" : "Tag 10: Auf frischer Tat",
+              "start" : 3227933,
+              "end" : 3552400
+            },
+            {
+              "titel" : "Tag 11: Kurzfinger",
+              "start" : 3552400,
+              "end" : 3785267
+            },
+            {
+              "titel" : "Tag 12: Der Alligator",
+              "start" : 3785267,
+              "end" : 4156227
+            },
+            {
+              "titel" : "Tag 13: Eine schräge Nachtmusik",
+              "start" : 4156227,
+              "end" : 4545373
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 14: Die magische Laterne",
+              "start" : 0,
+              "end" : 396960
+            },
+            {
+              "titel" : "Tag 15: 96930 Arctic Circle",
+              "start" : 396960,
+              "end" : 810973
+            },
+            {
+              "titel" : "Tag 16: Die Übergabe",
+              "start" : 810973,
+              "end" : 1187973
+            },
+            {
+              "titel" : "Tag 17: Schritte im Dunkeln",
+              "start" : 1187973,
+              "end" : 1566493
+            },
+            {
+              "titel" : "Tag 18: Eine schreckliche Überraschung",
+              "start" : 1566493,
+              "end" : 2015493
+            },
+            {
+              "titel" : "Tag 19: Die Frau vom Polarkreis",
+              "start" : 2015493,
+              "end" : 2446413
+            },
+            {
+              "titel" : "Tag 20: Elf auf der Flucht",
+              "start" : 2446413,
+              "end" : 2969680
+            },
+            {
+              "titel" : "Tag 21: Verfolgte Verbrecher",
+              "start" : 2969680,
+              "end" : 3329387
+            },
+            {
+              "titel" : "Tag 22: Im Würgegriff der Rentiere",
+              "start" : 3329387,
+              "end" : 3695293
+            },
+            {
+              "titel" : "Tag 23: Nächstes Weihnachten",
+              "start" : 3695293,
+              "end" : 4101187
+            },
+            {
+              "titel" : "Tag 24: Mitarbeiter des Monats",
+              "start" : 4101187,
+              "end" : 4609387
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/rip_log2.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/ffmetadata.txt",
@@ -3768,155 +3885,6 @@
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Tag 01 – Unbekannter Herkunft",
-              "start" : 0,
-              "end" : 569440
-            },
-            {
-              "titel" : "Tag 02 – Alarm",
-              "start" : 569440,
-              "end" : 1208960
-            },
-            {
-              "titel" : "Tag 03 – Tante Mathildas beste Freundin",
-              "start" : 1208960,
-              "end" : 1561053
-            },
-            {
-              "titel" : "Tag 04 – Ein viertes Fragezeichen",
-              "start" : 1561053,
-              "end" : 1862027
-            },
-            {
-              "titel" : "Tag 05 – Fairer Deal",
-              "start" : 1862027,
-              "end" : 2481240
-            },
-            {
-              "titel" : "Tag 06 – Auf in den Kampf",
-              "start" : 2481240,
-              "end" : 2910240
-            },
-            {
-              "titel" : "Tag 07 – Zimmer 7",
-              "start" : 2910240,
-              "end" : 3594720
-            },
-            {
-              "titel" : "Tag 08 – Erwischt!",
-              "start" : 3594720,
-              "end" : 4319693
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Tag 09 – Heftiger Streit",
-              "start" : 0,
-              "end" : 425360
-            },
-            {
-              "titel" : "Tag 10 – Dicht auf der Spur",
-              "start" : 425360,
-              "end" : 908480
-            },
-            {
-              "titel" : "Tag 11 – Hausdurchsuchung",
-              "start" : 908480,
-              "end" : 1438067
-            },
-            {
-              "titel" : "Tag 12 – Observation",
-              "start" : 1438067,
-              "end" : 1705520
-            },
-            {
-              "titel" : "Tag 13 – Bittere Realität",
-              "start" : 1705520,
-              "end" : 2078467
-            },
-            {
-              "titel" : "Tag 14 – Razzia",
-              "start" : 2078467,
-              "end" : 2353653
-            },
-            {
-              "titel" : "Tag 15 – Stich ins Wespennest",
-              "start" : 2353653,
-              "end" : 2752413
-            },
-            {
-              "titel" : "Tag 16 – Effektive Strategie",
-              "start" : 2752413,
-              "end" : 2885320
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/2/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 3,
-          "kapitel" : [
-            {
-              "titel" : "Tag 17 - Der Verzweiflung nah",
-              "start" : 0,
-              "end" : 394947
-            },
-            {
-              "titel" : "Tag 18 - Heißes Eisen",
-              "start" : 394947,
-              "end" : 1121147
-            },
-            {
-              "titel" : "Tag 19 - Wie im Märchen",
-              "start" : 1121147,
-              "end" : 1892680
-            },
-            {
-              "titel" : "Tag 20 - Verzweiflungstat",
-              "start" : 1892680,
-              "end" : 3169320
-            },
-            {
-              "titel" : "Tag 21 - Polizeieinsatz",
-              "start" : 3169320,
-              "end" : 3433040
-            },
-            {
-              "titel" : "Tag 22 - Verdacht",
-              "start" : 3433040,
-              "end" : 3810627
-            },
-            {
-              "titel" : "Tag 23 - Stockender Atem",
-              "start" : 3810627,
-              "end" : 4527920
-            },
-            {
-              "titel" : "Tag 24 - Beichte",
-              "start" : 4527920,
-              "end" : 5005253
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/3/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/3/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "Böser die Glocken nie klingen",
       "autor" : "André Minninger",
       "hörspielskriptautor" : "André Minninger",
@@ -4120,6 +4088,143 @@
           "sprecher" : "Heikedine Körting"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 01 – Unbekannter Herkunft",
+              "start" : 0,
+              "end" : 569440
+            },
+            {
+              "titel" : "Tag 02 – Alarm",
+              "start" : 569440,
+              "end" : 1208960
+            },
+            {
+              "titel" : "Tag 03 – Tante Mathildas beste Freundin",
+              "start" : 1208960,
+              "end" : 1561053
+            },
+            {
+              "titel" : "Tag 04 – Ein viertes Fragezeichen",
+              "start" : 1561053,
+              "end" : 1862027
+            },
+            {
+              "titel" : "Tag 05 – Fairer Deal",
+              "start" : 1862027,
+              "end" : 2481240
+            },
+            {
+              "titel" : "Tag 06 – Auf in den Kampf",
+              "start" : 2481240,
+              "end" : 2910240
+            },
+            {
+              "titel" : "Tag 07 – Zimmer 7",
+              "start" : 2910240,
+              "end" : 3594720
+            },
+            {
+              "titel" : "Tag 08 – Erwischt!",
+              "start" : 3594720,
+              "end" : 4319693
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 09 – Heftiger Streit",
+              "start" : 0,
+              "end" : 425360
+            },
+            {
+              "titel" : "Tag 10 – Dicht auf der Spur",
+              "start" : 425360,
+              "end" : 908480
+            },
+            {
+              "titel" : "Tag 11 – Hausdurchsuchung",
+              "start" : 908480,
+              "end" : 1438067
+            },
+            {
+              "titel" : "Tag 12 – Observation",
+              "start" : 1438067,
+              "end" : 1705520
+            },
+            {
+              "titel" : "Tag 13 – Bittere Realität",
+              "start" : 1705520,
+              "end" : 2078467
+            },
+            {
+              "titel" : "Tag 14 – Razzia",
+              "start" : 2078467,
+              "end" : 2353653
+            },
+            {
+              "titel" : "Tag 15 – Stich ins Wespennest",
+              "start" : 2353653,
+              "end" : 2752413
+            },
+            {
+              "titel" : "Tag 16 – Effektive Strategie",
+              "start" : 2752413,
+              "end" : 2885320
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/rip_log2.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 17 - Der Verzweiflung nah",
+              "start" : 0,
+              "end" : 394947
+            },
+            {
+              "titel" : "Tag 18 - Heißes Eisen",
+              "start" : 394947,
+              "end" : 1121147
+            },
+            {
+              "titel" : "Tag 19 - Wie im Märchen",
+              "start" : 1121147,
+              "end" : 1892680
+            },
+            {
+              "titel" : "Tag 20 - Verzweiflungstat",
+              "start" : 1892680,
+              "end" : 3169320
+            },
+            {
+              "titel" : "Tag 21 - Polizeieinsatz",
+              "start" : 3169320,
+              "end" : 3433040
+            },
+            {
+              "titel" : "Tag 22 - Verdacht",
+              "start" : 3433040,
+              "end" : 3810627
+            },
+            {
+              "titel" : "Tag 23 - Stockender Atem",
+              "start" : 3810627,
+              "end" : 4527920
+            },
+            {
+              "titel" : "Tag 24 - Beichte",
+              "start" : 4527920,
+              "end" : 5005253
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/rip_log3.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/ffmetadata.txt",
@@ -4128,86 +4233,6 @@
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Ein Mumienschrein in Rocky Beach",
-              "start" : 0,
-              "end" : 517133
-            },
-            {
-              "titel" : "Doch ein Auftrag",
-              "start" : 517133,
-              "end" : 766627
-            },
-            {
-              "titel" : "Ein halber Inka",
-              "start" : 766627,
-              "end" : 1054493
-            },
-            {
-              "titel" : "Frauengeschichten",
-              "start" : 1054493,
-              "end" : 1278067
-            },
-            {
-              "titel" : "Kein Entkommen",
-              "start" : 1278067,
-              "end" : 1533707
-            },
-            {
-              "titel" : "Einbruch ins Dunkel",
-              "start" : 1533707,
-              "end" : 2322920
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Eine Mumie im Luxusbad",
-              "start" : 0,
-              "end" : 701947
-            },
-            {
-              "titel" : "Willkommen daheim",
-              "start" : 701947,
-              "end" : 871147
-            },
-            {
-              "titel" : "Der Einzige Inka",
-              "start" : 871147,
-              "end" : 1402027
-            },
-            {
-              "titel" : "Stadt, Land, Fluss",
-              "start" : 1402027,
-              "end" : 1901187
-            },
-            {
-              "titel" : "Sommersonnenwendabenteuer",
-              "start" : 1901187,
-              "end" : 2237160
-            },
-            {
-              "titel" : "Tränen des Mondes",
-              "start" : 2237160,
-              "end" : 3059627
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/2/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "Das Grab der Inka-Mumie",
       "autor" : "Christoph Dittert",
       "hörspielskriptautor" : "Yona Franke",
@@ -4371,6 +4396,78 @@
           "sprecher" : "Julia Fölster"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Ein Mumienschrein in Rocky Beach",
+              "start" : 0,
+              "end" : 517133
+            },
+            {
+              "titel" : "Doch ein Auftrag",
+              "start" : 517133,
+              "end" : 766627
+            },
+            {
+              "titel" : "Ein halber Inka",
+              "start" : 766627,
+              "end" : 1054493
+            },
+            {
+              "titel" : "Frauengeschichten",
+              "start" : 1054493,
+              "end" : 1278067
+            },
+            {
+              "titel" : "Kein Entkommen",
+              "start" : 1278067,
+              "end" : 1533707
+            },
+            {
+              "titel" : "Einbruch ins Dunkel",
+              "start" : 1533707,
+              "end" : 2322920
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Eine Mumie im Luxusbad",
+              "start" : 0,
+              "end" : 701947
+            },
+            {
+              "titel" : "Willkommen daheim",
+              "start" : 701947,
+              "end" : 871147
+            },
+            {
+              "titel" : "Der Einzige Inka",
+              "start" : 871147,
+              "end" : 1402027
+            },
+            {
+              "titel" : "Stadt, Land, Fluss",
+              "start" : 1402027,
+              "end" : 1901187
+            },
+            {
+              "titel" : "Sommersonnenwendabenteuer",
+              "start" : 1901187,
+              "end" : 2237160
+            },
+            {
+              "titel" : "Tränen des Mondes",
+              "start" : 2237160,
+              "end" : 3059627
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/rip_log2.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/ffmetadata.txt",
@@ -4513,90 +4610,81 @@
           "sprecher" : "Susan Jarling, Hilla Fitzen, Nina Minninger, Marine Endemann, Zelda Jahreis, Maud Ackermann, Heikedine Körting, Stephanie Damare, Ingeborg Christiansen, Micaëla Kreißler, Theresa Underberg, Kerstin Draeger, Lennardt Krüger, Kjell Wenzel, Norma Draeger, Florian Herkenrath, Jannik Endemann, Dirk Eichhorn, Stephan Benson"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Eine rasante Flucht",
+              "start" : 0,
+              "end" : 318187
+            },
+            {
+              "titel" : "Superhelden der besonderen Art",
+              "start" : 318187,
+              "end" : 741440
+            },
+            {
+              "titel" : "Die Lauscherin",
+              "start" : 741440,
+              "end" : 1025947
+            },
+            {
+              "titel" : "Überraschende Enthüllungen",
+              "start" : 1025947,
+              "end" : 1323813
+            },
+            {
+              "titel" : "Auf Rachefeldzug",
+              "start" : 1323813,
+              "end" : 1848493
+            },
+            {
+              "titel" : "Intrigen überall",
+              "start" : 1848493,
+              "end" : 2262707
+            },
+            {
+              "titel" : "Entführt!",
+              "start" : 2262707,
+              "end" : 2755507
+            },
+            {
+              "titel" : "Schlussfolgerungen",
+              "start" : 2755507,
+              "end" : 2884867
+            },
+            {
+              "titel" : "Schein und Sein",
+              "start" : 2884867,
+              "end" : 3224013
+            },
+            {
+              "titel" : "Licht ins Dunkel",
+              "start" : 3224013,
+              "end" : 3761333
+            },
+            {
+              "titel" : "Ein Paar",
+              "start" : 3761333,
+              "end" : 4068907
+            },
+            {
+              "titel" : "Sonnenklar",
+              "start" : 4068907,
+              "end" : 4300133
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/rip_log.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music127/v4/5c/bd/e2/5cbde282-7308-b942-a2d6-e7fd717b9f47/886444438681.jpg"
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Doppelter Diebstahl",
-              "start" : 0,
-              "end" : 326533
-            },
-            {
-              "titel" : "Mystik und Mythos",
-              "start" : 326533,
-              "end" : 1045907
-            },
-            {
-              "titel" : "Der Indianer",
-              "start" : 1045907,
-              "end" : 1500400
-            },
-            {
-              "titel" : "Die Zauberzwillinge",
-              "start" : 1500400,
-              "end" : 1989427
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Auftritt: Skinny!",
-              "start" : 0,
-              "end" : 421893
-            },
-            {
-              "titel" : "Der Fall Norris",
-              "start" : 421893,
-              "end" : 814973
-            },
-            {
-              "titel" : "Das Phantom, der Diebstahl und die Katze",
-              "start" : 814973,
-              "end" : 1457520
-            },
-            {
-              "titel" : "Zitrone, Minze oder Birne?",
-              "start" : 1457520,
-              "end" : 1950506
-            },
-            {
-              "titel" : "Auf der richtigen Spur?",
-              "start" : 1950506,
-              "end" : 2293880
-            },
-            {
-              "titel" : "Ohne Hindernisse?",
-              "start" : 2293880,
-              "end" : 2619760
-            },
-            {
-              "titel" : "Der einzige Gewinner",
-              "start" : 2619760,
-              "end" : 3077053
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/2/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "und das kalte Auge",
       "autor" : "Christoph Dittert",
       "hörspielskriptautor" : "Yona Franke",
@@ -4771,6 +4859,73 @@
           "sprecher" : "Birte Kretschmer"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Doppelter Diebstahl",
+              "start" : 0,
+              "end" : 326533
+            },
+            {
+              "titel" : "Mystik und Mythos",
+              "start" : 326533,
+              "end" : 1045907
+            },
+            {
+              "titel" : "Der Indianer",
+              "start" : 1045907,
+              "end" : 1500400
+            },
+            {
+              "titel" : "Die Zauberzwillinge",
+              "start" : 1500400,
+              "end" : 1989427
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Auftritt: Skinny!",
+              "start" : 0,
+              "end" : 421893
+            },
+            {
+              "titel" : "Der Fall Norris",
+              "start" : 421893,
+              "end" : 814973
+            },
+            {
+              "titel" : "Das Phantom, der Diebstahl und die Katze",
+              "start" : 814973,
+              "end" : 1457520
+            },
+            {
+              "titel" : "Zitrone, Minze oder Birne?",
+              "start" : 1457520,
+              "end" : 1950506
+            },
+            {
+              "titel" : "Auf der richtigen Spur?",
+              "start" : 1950506,
+              "end" : 2293880
+            },
+            {
+              "titel" : "Ohne Hindernisse?",
+              "start" : 2293880,
+              "end" : 2619760
+            },
+            {
+              "titel" : "Der einzige Gewinner",
+              "start" : 2619760,
+              "end" : 3077053
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/rip_log2.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/ffmetadata.txt",
@@ -4779,96 +4934,6 @@
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Prolog",
-              "start" : 0,
-              "end" : 112213
-            },
-            {
-              "titel" : "Auf zum Zirkus",
-              "start" : 112213,
-              "end" : 307867
-            },
-            {
-              "titel" : "Haltet den Dieb",
-              "start" : 307867,
-              "end" : 828760
-            },
-            {
-              "titel" : "Fünf Schuss — fünf Treffer",
-              "start" : 828760,
-              "end" : 1086160
-            },
-            {
-              "titel" : "Der Löwe ist los",
-              "start" : 1086160,
-              "end" : 1351960
-            },
-            {
-              "titel" : "Eine Pechsträhne",
-              "start" : 1351960,
-              "end" : 1659760
-            },
-            {
-              "titel" : "Andy wundert sich",
-              "start" : 1659760,
-              "end" : 2349640
-            },
-            {
-              "titel" : "Der Mann mit der Tätowierung",
-              "start" : 2349640,
-              "end" : 2641800
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "In der Falle",
-              "start" : 0,
-              "end" : 557093
-            },
-            {
-              "titel" : "Justus kombiniert",
-              "start" : 557093,
-              "end" : 1192707
-            },
-            {
-              "titel" : "Nächtliche Jagd",
-              "start" : 1192707,
-              "end" : 1558400
-            },
-            {
-              "titel" : "Bart ab!",
-              "start" : 1558400,
-              "end" : 1774000
-            },
-            {
-              "titel" : "Ein seltsamer Anblick",
-              "start" : 1774000,
-              "end" : 2213840
-            },
-            {
-              "titel" : "Der Räuber wird entlarvt",
-              "start" : 2213840,
-              "end" : 2675787
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/2/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "und die schwarze Katze",
       "autor" : "William Arden",
       "hörspielskriptautor" : "André Minninger",
@@ -5038,6 +5103,88 @@
           "sprecher" : "Timo Alexander Wenzel"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Prolog",
+              "start" : 0,
+              "end" : 112213
+            },
+            {
+              "titel" : "Auf zum Zirkus",
+              "start" : 112213,
+              "end" : 307867
+            },
+            {
+              "titel" : "Haltet den Dieb",
+              "start" : 307867,
+              "end" : 828760
+            },
+            {
+              "titel" : "Fünf Schuss — fünf Treffer",
+              "start" : 828760,
+              "end" : 1086160
+            },
+            {
+              "titel" : "Der Löwe ist los",
+              "start" : 1086160,
+              "end" : 1351960
+            },
+            {
+              "titel" : "Eine Pechsträhne",
+              "start" : 1351960,
+              "end" : 1659760
+            },
+            {
+              "titel" : "Andy wundert sich",
+              "start" : 1659760,
+              "end" : 2349640
+            },
+            {
+              "titel" : "Der Mann mit der Tätowierung",
+              "start" : 2349640,
+              "end" : 2641800
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "In der Falle",
+              "start" : 0,
+              "end" : 557093
+            },
+            {
+              "titel" : "Justus kombiniert",
+              "start" : 557093,
+              "end" : 1192707
+            },
+            {
+              "titel" : "Nächtliche Jagd",
+              "start" : 1192707,
+              "end" : 1558400
+            },
+            {
+              "titel" : "Bart ab!",
+              "start" : 1558400,
+              "end" : 1774000
+            },
+            {
+              "titel" : "Ein seltsamer Anblick",
+              "start" : 1774000,
+              "end" : 2213840
+            },
+            {
+              "titel" : "Der Räuber wird entlarvt",
+              "start" : 2213840,
+              "end" : 2675787
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/rip_log2.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/ffmetadata.txt",
@@ -5046,106 +5193,6 @@
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Prolog",
-              "start" : 0,
-              "end" : 68400
-            },
-            {
-              "titel" : "Sandfield",
-              "start" : 68400,
-              "end" : 317720
-            },
-            {
-              "titel" : "Brother Jonathan",
-              "start" : 317720,
-              "end" : 1169600
-            },
-            {
-              "titel" : "Tauchgang",
-              "start" : 1169600,
-              "end" : 1466533
-            },
-            {
-              "titel" : "Hai-Alarm",
-              "start" : 1466533,
-              "end" : 1729467
-            },
-            {
-              "titel" : "Pläne für Sandfield",
-              "start" : 1729467,
-              "end" : 2182733
-            },
-            {
-              "titel" : "Schatzsuche!",
-              "start" : 2182733,
-              "end" : 2513693
-            },
-            {
-              "titel" : "Paprika",
-              "start" : 2513693,
-              "end" : 2852240
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Am Abgrund",
-              "start" : 0,
-              "end" : 471347
-            },
-            {
-              "titel" : "Afrika",
-              "start" : 471347,
-              "end" : 737973
-            },
-            {
-              "titel" : "Abbruchgefährdet",
-              "start" : 737973,
-              "end" : 1350440
-            },
-            {
-              "titel" : "Goldrausch",
-              "start" : 1350440,
-              "end" : 1531307
-            },
-            {
-              "titel" : "Verdacht",
-              "start" : 1531307,
-              "end" : 2102547
-            },
-            {
-              "titel" : "Elaine",
-              "start" : 2102547,
-              "end" : 2621133
-            },
-            {
-              "titel" : "Countdown",
-              "start" : 2621133,
-              "end" : 3035933
-            },
-            {
-              "titel" : "Glück im Unglück",
-              "start" : 3035933,
-              "end" : 3273800
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "und das versunkene Schiff",
       "autor" : "André Marx",
       "hörspielskriptautor" : "Kai Schwind",
@@ -5300,6 +5347,98 @@
           "sprecher" : "Pierre Brand"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Prolog",
+              "start" : 0,
+              "end" : 68400
+            },
+            {
+              "titel" : "Sandfield",
+              "start" : 68400,
+              "end" : 317720
+            },
+            {
+              "titel" : "Brother Jonathan",
+              "start" : 317720,
+              "end" : 1169600
+            },
+            {
+              "titel" : "Tauchgang",
+              "start" : 1169600,
+              "end" : 1466533
+            },
+            {
+              "titel" : "Hai-Alarm",
+              "start" : 1466533,
+              "end" : 1729467
+            },
+            {
+              "titel" : "Pläne für Sandfield",
+              "start" : 1729467,
+              "end" : 2182733
+            },
+            {
+              "titel" : "Schatzsuche!",
+              "start" : 2182733,
+              "end" : 2513693
+            },
+            {
+              "titel" : "Paprika",
+              "start" : 2513693,
+              "end" : 2852240
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Am Abgrund",
+              "start" : 0,
+              "end" : 471347
+            },
+            {
+              "titel" : "Afrika",
+              "start" : 471347,
+              "end" : 737973
+            },
+            {
+              "titel" : "Abbruchgefährdet",
+              "start" : 737973,
+              "end" : 1350440
+            },
+            {
+              "titel" : "Goldrausch",
+              "start" : 1350440,
+              "end" : 1531307
+            },
+            {
+              "titel" : "Verdacht",
+              "start" : 1531307,
+              "end" : 2102547
+            },
+            {
+              "titel" : "Elaine",
+              "start" : 2102547,
+              "end" : 2621133
+            },
+            {
+              "titel" : "Countdown",
+              "start" : 2621133,
+              "end" : 3035933
+            },
+            {
+              "titel" : "Glück im Unglück",
+              "start" : 3035933,
+              "end" : 3273800
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/rip_log2.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/ffmetadata.txt",
@@ -5308,76 +5447,6 @@
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Prolog",
-              "start" : 0,
-              "end" : 70560
-            },
-            {
-              "titel" : "Anruf aus Hollywood",
-              "start" : 70560,
-              "end" : 342933
-            },
-            {
-              "titel" : "Ein echter Smaragd?",
-              "start" : 342933,
-              "end" : 1343907
-            },
-            {
-              "titel" : "Wiedersehen am Set",
-              "start" : 1343907,
-              "end" : 1959800
-            },
-            {
-              "titel" : "Monsterpuppen",
-              "start" : 1959800,
-              "end" : 2444173
-            },
-            {
-              "titel" : "Gerald liebt Besuch",
-              "start" : 2444173,
-              "end" : 3019707
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Ein wunder Punkt",
-              "start" : 0,
-              "end" : 565146
-            },
-            {
-              "titel" : "Das Strandhaus",
-              "start" : 565146,
-              "end" : 1324360
-            },
-            {
-              "titel" : "Im Horrormuseum",
-              "start" : 1324360,
-              "end" : 1848946
-            },
-            {
-              "titel" : "Neuigkeiten für Mr. Kushing",
-              "start" : 1848946,
-              "end" : 2733640
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/2/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "und der dreiäugige Totenkopf",
       "autor" : "Ivar Leon Menger, John Beckmann",
       "hörspielskriptautor" : "Ivar Leon Menger, John Beckmann",
@@ -5518,6 +5587,68 @@
           "sprecher" : "Timo Alexander Wenzel"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Prolog",
+              "start" : 0,
+              "end" : 70560
+            },
+            {
+              "titel" : "Anruf aus Hollywood",
+              "start" : 70560,
+              "end" : 342933
+            },
+            {
+              "titel" : "Ein echter Smaragd?",
+              "start" : 342933,
+              "end" : 1343907
+            },
+            {
+              "titel" : "Wiedersehen am Set",
+              "start" : 1343907,
+              "end" : 1959800
+            },
+            {
+              "titel" : "Monsterpuppen",
+              "start" : 1959800,
+              "end" : 2444173
+            },
+            {
+              "titel" : "Gerald liebt Besuch",
+              "start" : 2444173,
+              "end" : 3019707
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Ein wunder Punkt",
+              "start" : 0,
+              "end" : 565146
+            },
+            {
+              "titel" : "Das Strandhaus",
+              "start" : 565146,
+              "end" : 1324360
+            },
+            {
+              "titel" : "Im Horrormuseum",
+              "start" : 1324360,
+              "end" : 1848946
+            },
+            {
+              "titel" : "Neuigkeiten für Mr. Kushing",
+              "start" : 1848946,
+              "end" : 2733640
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/rip_log2.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/ffmetadata.txt",
@@ -5526,126 +5657,6 @@
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Prolog",
-              "start" : 0,
-              "end" : 105067
-            },
-            {
-              "titel" : "Maya-Kunst",
-              "start" : 105067,
-              "end" : 470347
-            },
-            {
-              "titel" : "Zufall oder Missverständnis?",
-              "start" : 470347,
-              "end" : 676293
-            },
-            {
-              "titel" : "Ein krasser Typ",
-              "start" : 676293,
-              "end" : 1079867
-            },
-            {
-              "titel" : "Tunchan",
-              "start" : 1079867,
-              "end" : 1460320
-            },
-            {
-              "titel" : "Yaxché",
-              "start" : 1460320,
-              "end" : 2107547
-            },
-            {
-              "titel" : "Schriftzeichen",
-              "start" : 2107547,
-              "end" : 2522907
-            },
-            {
-              "titel" : "Das kalte Tor",
-              "start" : 2522907,
-              "end" : 2836227
-            },
-            {
-              "titel" : "Sheryl",
-              "start" : 2836227,
-              "end" : 3120467
-            },
-            {
-              "titel" : "Zachary",
-              "start" : 3120467,
-              "end" : 3351587
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Sunset Motel",
-              "start" : 0,
-              "end" : 376546
-            },
-            {
-              "titel" : "Die Drei-Teile-Theorie",
-              "start" : 376546,
-              "end" : 820146
-            },
-            {
-              "titel" : "Tuyuchim",
-              "start" : 820146,
-              "end" : 1080946
-            },
-            {
-              "titel" : "Alle für einen?",
-              "start" : 1080946,
-              "end" : 1441440
-            },
-            {
-              "titel" : "Zum Clubhaus",
-              "start" : 1441440,
-              "end" : 1676626
-            },
-            {
-              "titel" : "Überraschender Besuch",
-              "start" : 1676626,
-              "end" : 1846146
-            },
-            {
-              "titel" : "Im Urwald?",
-              "start" : 1846146,
-              "end" : 2136546
-            },
-            {
-              "titel" : "Nach Mexiko",
-              "start" : 2136546,
-              "end" : 2487226
-            },
-            {
-              "titel" : "Blaue Wolke",
-              "start" : 2487226,
-              "end" : 2844960
-            },
-            {
-              "titel" : "Das große Geheimnis",
-              "start" : 2844960,
-              "end" : 3418800
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/2/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "und das Grab der Maya",
       "autor" : "André Marx",
       "hörspielskriptautor" : "Kai Schwind",
@@ -5814,6 +5825,118 @@
         {
           "rolle" : "Nachrichtensprecher",
           "sprecher" : "André Schünke"
+        }
+      ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Prolog",
+              "start" : 0,
+              "end" : 105067
+            },
+            {
+              "titel" : "Maya-Kunst",
+              "start" : 105067,
+              "end" : 470347
+            },
+            {
+              "titel" : "Zufall oder Missverständnis?",
+              "start" : 470347,
+              "end" : 676293
+            },
+            {
+              "titel" : "Ein krasser Typ",
+              "start" : 676293,
+              "end" : 1079867
+            },
+            {
+              "titel" : "Tunchan",
+              "start" : 1079867,
+              "end" : 1460320
+            },
+            {
+              "titel" : "Yaxché",
+              "start" : 1460320,
+              "end" : 2107547
+            },
+            {
+              "titel" : "Schriftzeichen",
+              "start" : 2107547,
+              "end" : 2522907
+            },
+            {
+              "titel" : "Das kalte Tor",
+              "start" : 2522907,
+              "end" : 2836227
+            },
+            {
+              "titel" : "Sheryl",
+              "start" : 2836227,
+              "end" : 3120467
+            },
+            {
+              "titel" : "Zachary",
+              "start" : 3120467,
+              "end" : 3351587
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Sunset Motel",
+              "start" : 0,
+              "end" : 376546
+            },
+            {
+              "titel" : "Die Drei-Teile-Theorie",
+              "start" : 376546,
+              "end" : 820146
+            },
+            {
+              "titel" : "Tuyuchim",
+              "start" : 820146,
+              "end" : 1080946
+            },
+            {
+              "titel" : "Alle für einen?",
+              "start" : 1080946,
+              "end" : 1441440
+            },
+            {
+              "titel" : "Zum Clubhaus",
+              "start" : 1441440,
+              "end" : 1676626
+            },
+            {
+              "titel" : "Überraschender Besuch",
+              "start" : 1676626,
+              "end" : 1846146
+            },
+            {
+              "titel" : "Im Urwald?",
+              "start" : 1846146,
+              "end" : 2136546
+            },
+            {
+              "titel" : "Nach Mexiko",
+              "start" : 2136546,
+              "end" : 2487226
+            },
+            {
+              "titel" : "Blaue Wolke",
+              "start" : 2487226,
+              "end" : 2844960
+            },
+            {
+              "titel" : "Das große Geheimnis",
+              "start" : 2844960,
+              "end" : 3418800
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-Grab-der-Maya/rip_log2.txt"
         }
       ],
       "links" : {

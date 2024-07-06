@@ -6,6 +6,9 @@
         {
           "teilNummer" : 1,
           "titel" : "Zimmer",
+          "autor" : "Ivar Leon Menger",
+          "hörspielskriptautor" : "Ivar Leon Menger",
+          "veröffentlichungsdatum" : "2006-11-24",
           "kapitel" : [
             {
               "titel" : "Intro",
@@ -136,13 +139,15 @@
           "links" : {
             "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/metadata.json",
             "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/ffmetadata.txt",
-            "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/rip_log.txt",
             "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/cover.png"
           }
         },
         {
           "teilNummer" : 2,
           "titel" : "Restaurant",
+          "autor" : "Ivar Leon Menger",
+          "hörspielskriptautor" : "Ivar Leon Menger",
+          "veröffentlichungsdatum" : "2006-11-24",
           "kapitel" : [
             {
               "titel" : "Intro",
@@ -273,7 +278,6 @@
           "links" : {
             "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/metadata.json",
             "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/ffmetadata.txt",
-            "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/rip_log.txt",
             "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/cover.png"
           }
         }
@@ -350,6 +354,268 @@
           "sprecher" : "Bernd Klose"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Intro",
+              "start" : 0,
+              "end" : 127747
+            },
+            {
+              "titel" : "Ankunft Hotel",
+              "start" : 127747,
+              "end" : 680947
+            },
+            {
+              "titel" : "Entscheidung: Zimmer oder Restaurant",
+              "start" : 680947,
+              "end" : 744707
+            },
+            {
+              "titel" : "Zimmer",
+              "start" : 744707,
+              "end" : 932960
+            },
+            {
+              "titel" : "Entscheidung: Tür offen oder Klimaanlage",
+              "start" : 932960,
+              "end" : 1007760
+            },
+            {
+              "titel" : "Tür offen",
+              "start" : 1007760,
+              "end" : 1165333
+            },
+            {
+              "titel" : "Entscheidung: Tür schließen oder Flur",
+              "start" : 1165333,
+              "end" : 1211827
+            },
+            {
+              "titel" : "Tür schließen",
+              "start" : 1211827,
+              "end" : 1412120
+            },
+            {
+              "titel" : "Entscheidung: Mr. Stanley oder Auto holen",
+              "start" : 1412120,
+              "end" : 1457520
+            },
+            {
+              "titel" : "Mr. Stanley",
+              "start" : 1457520,
+              "end" : 1694933
+            },
+            {
+              "titel" : "Auto holen",
+              "start" : 1694933,
+              "end" : 1915213
+            },
+            {
+              "titel" : "Flur",
+              "start" : 1915213,
+              "end" : 2061227
+            },
+            {
+              "titel" : "Entscheidung: Flucht oder Ausrede",
+              "start" : 2061227,
+              "end" : 2104347
+            },
+            {
+              "titel" : "Flucht",
+              "start" : 2104347,
+              "end" : 2354680
+            },
+            {
+              "titel" : "Ausrede",
+              "start" : 2354680,
+              "end" : 2578267
+            },
+            {
+              "titel" : "Klimaanlage",
+              "start" : 2578267,
+              "end" : 2864440
+            },
+            {
+              "titel" : "Entscheidung: Annehmen oder Ablehnen",
+              "start" : 2864440,
+              "end" : 2916507
+            },
+            {
+              "titel" : "Annehmen",
+              "start" : 2916507,
+              "end" : 3054173
+            },
+            {
+              "titel" : "Entscheidung: Essen oder Auflegen",
+              "start" : 3054173,
+              "end" : 3127520
+            },
+            {
+              "titel" : "Essen",
+              "start" : 3127520,
+              "end" : 3315400
+            },
+            {
+              "titel" : "Auflegen",
+              "start" : 3315400,
+              "end" : 3603307
+            },
+            {
+              "titel" : "Ablehnen",
+              "start" : 3603307,
+              "end" : 3721707
+            },
+            {
+              "titel" : "Entscheidung: Befreien oder Fragen stellen",
+              "start" : 3721707,
+              "end" : 3806013
+            },
+            {
+              "titel" : "Befreien",
+              "start" : 3806013,
+              "end" : 4062120
+            },
+            {
+              "titel" : "Fragen stellen",
+              "start" : 4062120,
+              "end" : 4302080
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Intro",
+              "start" : 0,
+              "end" : 118600
+            },
+            {
+              "titel" : "Ankunft Hotel",
+              "start" : 118600,
+              "end" : 630147
+            },
+            {
+              "titel" : "Entscheidung: Zimmer oder Restaurant",
+              "start" : 630147,
+              "end" : 690733
+            },
+            {
+              "titel" : "Restaurant",
+              "start" : 690733,
+              "end" : 932747
+            },
+            {
+              "titel" : "Entscheidung: Gästebuch oder Sachen holen",
+              "start" : 932747,
+              "end" : 1024293
+            },
+            {
+              "titel" : "Gästebuch",
+              "start" : 1024293,
+              "end" : 1166507
+            },
+            {
+              "titel" : "Entscheidung: Zimmer 113 oder Flucht",
+              "start" : 1166507,
+              "end" : 1233293
+            },
+            {
+              "titel" : "Zimmer 113",
+              "start" : 1233293,
+              "end" : 1458520
+            },
+            {
+              "titel" : "Entscheidung: Verstecken oder Polizei",
+              "start" : 1458520,
+              "end" : 1523587
+            },
+            {
+              "titel" : "Verstecken",
+              "start" : 1523587,
+              "end" : 1716960
+            },
+            {
+              "titel" : "Polizei",
+              "start" : 1716960,
+              "end" : 1917160
+            },
+            {
+              "titel" : "Flucht",
+              "start" : 1917160,
+              "end" : 2191253
+            },
+            {
+              "titel" : "Entscheidung: Laufen oder Ausleihen",
+              "start" : 2191253,
+              "end" : 2239787
+            },
+            {
+              "titel" : "Laufen",
+              "start" : 2239787,
+              "end" : 2462373
+            },
+            {
+              "titel" : "Ausleihen",
+              "start" : 2462373,
+              "end" : 2759013
+            },
+            {
+              "titel" : "Sachen holen",
+              "start" : 2759013,
+              "end" : 2967867
+            },
+            {
+              "titel" : "Entscheidung: 7. Stock oder Zimmer",
+              "start" : 2967867,
+              "end" : 3029867
+            },
+            {
+              "titel" : "7. Stock",
+              "start" : 3029867,
+              "end" : 3107373
+            },
+            {
+              "titel" : "Entscheidung: Hilferuf oder Autoschlüssel",
+              "start" : 3107373,
+              "end" : 3169533
+            },
+            {
+              "titel" : "Hilferuf",
+              "start" : 3169533,
+              "end" : 3486840
+            },
+            {
+              "titel" : "Autoschlüssel",
+              "start" : 3486840,
+              "end" : 3694973
+            },
+            {
+              "titel" : "Zimmer",
+              "start" : 3694973,
+              "end" : 4080360
+            },
+            {
+              "titel" : "Entscheidung: Wecken oder KO schlagen",
+              "start" : 4080360,
+              "end" : 4179547
+            },
+            {
+              "titel" : "Wecken",
+              "start" : 4179547,
+              "end" : 4638867
+            },
+            {
+              "titel" : "KO schlagen",
+              "start" : 4638867,
+              "end" : 4828320
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/rip_log2.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/metadata.json",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/cover.png"
@@ -357,156 +623,6 @@
     },
     {
       "nummer" : 1,
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "kapitel" : [
-            {
-              "titel" : "Der Phantom-Anwalt",
-              "start" : 0,
-              "end" : 553040
-            },
-            {
-              "titel" : "Der Untergang der Liberty Bell",
-              "start" : 553040,
-              "end" : 915680
-            },
-            {
-              "titel" : "Erfolgreiche Recherche",
-              "start" : 915680,
-              "end" : 1283907
-            },
-            {
-              "titel" : "Folgenschwerer Anruf",
-              "start" : 1283907,
-              "end" : 1404987
-            },
-            {
-              "titel" : "Mysteriöses Testament",
-              "start" : 1404987,
-              "end" : 1795267
-            },
-            {
-              "titel" : "Held ohne Ehre",
-              "start" : 1795267,
-              "end" : 2091800
-            },
-            {
-              "titel" : "Beschattet",
-              "start" : 2091800,
-              "end" : 2317507
-            },
-            {
-              "titel" : "O'Malley's Rock",
-              "start" : 2317507,
-              "end" : 2563667
-            },
-            {
-              "titel" : "Der zweite Fall",
-              "start" : 2563667,
-              "end" : 2916627
-            },
-            {
-              "titel" : "Leviathan",
-              "start" : 2916627,
-              "end" : 3377427
-            },
-            {
-              "titel" : "Das Geisterhaus am Meer",
-              "start" : 3377427,
-              "end" : 3602520
-            },
-            {
-              "titel" : "Ein schreckliches Geheimnis",
-              "start" : 3602520,
-              "end" : 3767440
-            },
-            {
-              "titel" : "Jagd auf den Unbekannten",
-              "start" : 3767440,
-              "end" : 3918160
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/1/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/1/rip_log.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "kapitel" : [
-            {
-              "titel" : "Feindbesuch",
-              "start" : 0,
-              "end" : 327707
-            },
-            {
-              "titel" : "Die Geliebte des Globetrotters",
-              "start" : 327707,
-              "end" : 575827
-            },
-            {
-              "titel" : "Apelles post tabulam",
-              "start" : 575827,
-              "end" : 784987
-            },
-            {
-              "titel" : "Monsterbesuche",
-              "start" : 784987,
-              "end" : 1390253
-            },
-            {
-              "titel" : "Einbruch in der Zentrale!",
-              "start" : 1390253,
-              "end" : 1611853
-            },
-            {
-              "titel" : "Der Mikrochip",
-              "start" : 1611853,
-              "end" : 2069920
-            },
-            {
-              "titel" : "Die Zeit läuft ab",
-              "start" : 2069920,
-              "end" : 2471813
-            },
-            {
-              "titel" : "Das Seeungeheuer",
-              "start" : 2471813,
-              "end" : 2652533
-            },
-            {
-              "titel" : "Versteck in den Felsen",
-              "start" : 2652533,
-              "end" : 2825280
-            },
-            {
-              "titel" : "Die Falle schnappt zu",
-              "start" : 2825280,
-              "end" : 3305600
-            },
-            {
-              "titel" : "Tödliche Fluten",
-              "start" : 3305600,
-              "end" : 3496547
-            },
-            {
-              "titel" : "Alle vereint",
-              "start" : 3496547,
-              "end" : 3907093
-            },
-            {
-              "titel" : "Das Rätsel aller Rätsel",
-              "start" : 3907093,
-              "end" : 4075613
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/2/metadata.json",
-            "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/2/rip_log.txt"
-          }
-        }
-      ],
       "titel" : "Das Seeungeheuer",
       "autor" : "Hendrik Buchna",
       "hörspielskriptautor" : "André Minninger",
@@ -706,6 +822,148 @@
           "sprecher" : "Lutz Schnell"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Der Phantom-Anwalt",
+              "start" : 0,
+              "end" : 553040
+            },
+            {
+              "titel" : "Der Untergang der Liberty Bell",
+              "start" : 553040,
+              "end" : 915680
+            },
+            {
+              "titel" : "Erfolgreiche Recherche",
+              "start" : 915680,
+              "end" : 1283907
+            },
+            {
+              "titel" : "Folgenschwerer Anruf",
+              "start" : 1283907,
+              "end" : 1404987
+            },
+            {
+              "titel" : "Mysteriöses Testament",
+              "start" : 1404987,
+              "end" : 1795267
+            },
+            {
+              "titel" : "Held ohne Ehre",
+              "start" : 1795267,
+              "end" : 2091800
+            },
+            {
+              "titel" : "Beschattet",
+              "start" : 2091800,
+              "end" : 2317507
+            },
+            {
+              "titel" : "O'Malley's Rock",
+              "start" : 2317507,
+              "end" : 2563667
+            },
+            {
+              "titel" : "Der zweite Fall",
+              "start" : 2563667,
+              "end" : 2916627
+            },
+            {
+              "titel" : "Leviathan",
+              "start" : 2916627,
+              "end" : 3377427
+            },
+            {
+              "titel" : "Das Geisterhaus am Meer",
+              "start" : 3377427,
+              "end" : 3602520
+            },
+            {
+              "titel" : "Ein schreckliches Geheimnis",
+              "start" : 3602520,
+              "end" : 3767440
+            },
+            {
+              "titel" : "Jagd auf den Unbekannten",
+              "start" : 3767440,
+              "end" : 3918160
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Feindbesuch",
+              "start" : 0,
+              "end" : 327707
+            },
+            {
+              "titel" : "Die Geliebte des Globetrotters",
+              "start" : 327707,
+              "end" : 575827
+            },
+            {
+              "titel" : "Apelles post tabulam",
+              "start" : 575827,
+              "end" : 784987
+            },
+            {
+              "titel" : "Monsterbesuche",
+              "start" : 784987,
+              "end" : 1390253
+            },
+            {
+              "titel" : "Einbruch in der Zentrale!",
+              "start" : 1390253,
+              "end" : 1611853
+            },
+            {
+              "titel" : "Der Mikrochip",
+              "start" : 1611853,
+              "end" : 2069920
+            },
+            {
+              "titel" : "Die Zeit läuft ab",
+              "start" : 2069920,
+              "end" : 2471813
+            },
+            {
+              "titel" : "Das Seeungeheuer",
+              "start" : 2471813,
+              "end" : 2652533
+            },
+            {
+              "titel" : "Versteck in den Felsen",
+              "start" : 2652533,
+              "end" : 2825280
+            },
+            {
+              "titel" : "Die Falle schnappt zu",
+              "start" : 2825280,
+              "end" : 3305600
+            },
+            {
+              "titel" : "Tödliche Fluten",
+              "start" : 3305600,
+              "end" : 3496547
+            },
+            {
+              "titel" : "Alle vereint",
+              "start" : 3496547,
+              "end" : 3907093
+            },
+            {
+              "titel" : "Das Rätsel aller Rätsel",
+              "start" : 3907093,
+              "end" : 4075613
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/rip_log2.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/1/ffmetadata.txt",
@@ -835,10 +1093,76 @@
           "sprecher" : "André Minninger"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Aus den Träumen gerissen",
+              "start" : 0,
+              "end" : 186960
+            },
+            {
+              "titel" : "Vom Blitz getroffen!",
+              "start" : 186960,
+              "end" : 878600
+            },
+            {
+              "titel" : "Tödliche Bowle",
+              "start" : 878600,
+              "end" : 1274613
+            },
+            {
+              "titel" : "Unsichtbarer Mitbewohner",
+              "start" : 1274613,
+              "end" : 1803653
+            },
+            {
+              "titel" : "Spielverderber",
+              "start" : 1803653,
+              "end" : 2099720
+            },
+            {
+              "titel" : "Abgelehnt",
+              "start" : 2099720,
+              "end" : 2202013
+            },
+            {
+              "titel" : "Albtraum",
+              "start" : 2202013,
+              "end" : 2778973
+            },
+            {
+              "titel" : "Schlachtplan",
+              "start" : 2778973,
+              "end" : 2962547
+            },
+            {
+              "titel" : "Film ab!",
+              "start" : 2962547,
+              "end" : 3428947
+            },
+            {
+              "titel" : "Überreagiert",
+              "start" : 3428947,
+              "end" : 3740907
+            },
+            {
+              "titel" : "Erstens kommt es anders …",
+              "start" : 3740907,
+              "end" : 4502293
+            },
+            {
+              "titel" : "… und zweitens, als man denkt",
+              "start" : 4502293,
+              "end" : 4634013
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/2/rip_log.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/2/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/2/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/2/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/2/cover.png"
       }
     },
@@ -962,10 +1286,81 @@
           "sprecher" : "Patrick Bach"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Start in den Traumurlaub",
+              "start" : 0,
+              "end" : 219400
+            },
+            {
+              "titel" : "Unsanftes Erwachen",
+              "start" : 219400,
+              "end" : 731040
+            },
+            {
+              "titel" : "Notlandung im Nirgendwo",
+              "start" : 731040,
+              "end" : 940187
+            },
+            {
+              "titel" : "Das Bermuda-Dreieck",
+              "start" : 940187,
+              "end" : 1337333
+            },
+            {
+              "titel" : "Ein unheimliches Haus",
+              "start" : 1337333,
+              "end" : 1609173
+            },
+            {
+              "titel" : "Schockierende Erkenntnis",
+              "start" : 1609173,
+              "end" : 1922800
+            },
+            {
+              "titel" : "Verschollen in der Zeit",
+              "start" : 1922800,
+              "end" : 2104307
+            },
+            {
+              "titel" : "Flucht in den Dschungel",
+              "start" : 2104307,
+              "end" : 2338080
+            },
+            {
+              "titel" : "Die rätselhafte Uniform",
+              "start" : 2338080,
+              "end" : 2882627
+            },
+            {
+              "titel" : "Triumph der Logik",
+              "start" : 2882627,
+              "end" : 3025933
+            },
+            {
+              "titel" : "Der Hinterhalt",
+              "start" : 3025933,
+              "end" : 3369253
+            },
+            {
+              "titel" : "Die Maske fällt",
+              "start" : 3369253,
+              "end" : 3933893
+            },
+            {
+              "titel" : "Zurück in der Gegenwart",
+              "start" : 3933893,
+              "end" : 4113813
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/3/rip_log.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/3/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/3/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/3/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/3/cover.png"
       }
     },
@@ -973,7 +1368,7 @@
       "nummer" : 4,
       "titel" : "Zug um Zug",
       "autor" : "Tim Wenderoth",
-      "hörspielskriptautor" : "Tim Wenderoth, Yona Franke, Moritz von Fulmenstöcker",
+      "hörspielskriptautor" : "Moritz von Fulmenstöcker, Tim Wenderoth, Yona Franke",
       "beschreibung" : "Ein alter Zeitungsartikel weckt die Neugier des ersten Detektivs. Wo sind die $500.000 aus dem Überfall auf den Postzug geblieben? Was geschah wirklich vor 12 Jahren am alten Bahnhof von Rocky Beach? Was wusste die verstorbene Ellie Sparrow und inwieweit war die ehemalige Postangestellte in den Raubüberfall verwickelt? Ein leeres Blatt Papier und eine wirre Buchstabenkombination sind nur zwei der zahlreichen kleinen Puzzleteile, die zusammengefügt werden müssen. Als sich auch noch andere Gestalten für das verschollene Geld zu interessieren scheinen, wird es erst recht Zeit für Die Dr3i sich mit dem Fall zu beschäftigen.\nZug um Zug suchen sie nach den Antworten auf die vielen Fragen, die sich ihnen stellen …",
       "veröffentlichungsdatum" : "2006-11-24",
       "kapitel" : [
@@ -1092,10 +1487,71 @@
           "sprecher" : "Fabian Harloff"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Der gelöste Kriminalfall",
+              "start" : 0,
+              "end" : 234067
+            },
+            {
+              "titel" : "Neue Spuren?",
+              "start" : 234067,
+              "end" : 693853
+            },
+            {
+              "titel" : "Besuch bei Mr. Walker",
+              "start" : 693853,
+              "end" : 1389773
+            },
+            {
+              "titel" : "Ein leeres Blatt Papier",
+              "start" : 1389773,
+              "end" : 1720627
+            },
+            {
+              "titel" : "Der alte Bahnhofsvorsteher",
+              "start" : 1720627,
+              "end" : 2434187
+            },
+            {
+              "titel" : "Unter den Gleisen",
+              "start" : 2434187,
+              "end" : 2824720
+            },
+            {
+              "titel" : "Der unbekannte Sohn",
+              "start" : 2824720,
+              "end" : 3283893
+            },
+            {
+              "titel" : "CC-DC-DC-OA 14, AAH-CI-CA-EC 23",
+              "start" : 3283893,
+              "end" : 3590640
+            },
+            {
+              "titel" : "Doc Brown",
+              "start" : 3590640,
+              "end" : 3972893
+            },
+            {
+              "titel" : "Lebenslänglich für drei Detektive",
+              "start" : 3972893,
+              "end" : 4297867
+            },
+            {
+              "titel" : "Jeden Tag eine gute Tat",
+              "start" : 4297867,
+              "end" : 4747133
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/4/rip_log.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/4/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/4/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/4/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/4/cover.png"
       }
     },
@@ -1205,10 +1661,71 @@
           "sprecher" : "Karl-Friedrich Gerster"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Ein Star braucht Hilfe",
+              "start" : 0,
+              "end" : 232867
+            },
+            {
+              "titel" : "Gürtel, Karte, Taste",
+              "start" : 232867,
+              "end" : 601240
+            },
+            {
+              "titel" : "Die Fährte nach Marokko",
+              "start" : 601240,
+              "end" : 1232173
+            },
+            {
+              "titel" : "Eine legendäre Bar",
+              "start" : 1232173,
+              "end" : 1720267
+            },
+            {
+              "titel" : "Der rätselhafte Drink",
+              "start" : 1720267,
+              "end" : 2217320
+            },
+            {
+              "titel" : "Salon Moskva",
+              "start" : 2217320,
+              "end" : 2669573
+            },
+            {
+              "titel" : "Mademoiselle Nadine",
+              "start" : 2669573,
+              "end" : 3015507
+            },
+            {
+              "titel" : "Bobs Frisuren-Trauma",
+              "start" : 3015507,
+              "end" : 3338973
+            },
+            {
+              "titel" : "Smith & Wesson weisen den Weg",
+              "start" : 3338973,
+              "end" : 3587240
+            },
+            {
+              "titel" : "Showdown in der Finsternis",
+              "start" : 3587240,
+              "end" : 3871573
+            },
+            {
+              "titel" : "Lektion für den Meisterdetektiv",
+              "start" : 3871573,
+              "end" : 4409520
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/5/rip_log.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/5/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/5/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/5/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/5/cover.png"
       }
     },
@@ -1317,10 +1834,66 @@
           "sprecher" : "Dirk Bach"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Gewonnen!",
+              "start" : 0,
+              "end" : 231600
+            },
+            {
+              "titel" : "Attentat",
+              "start" : 231600,
+              "end" : 891573
+            },
+            {
+              "titel" : "Kreidebleich",
+              "start" : 891573,
+              "end" : 1035507
+            },
+            {
+              "titel" : "Spiegel der Seele",
+              "start" : 1035507,
+              "end" : 1561547
+            },
+            {
+              "titel" : "Attacke",
+              "start" : 1561547,
+              "end" : 1735040
+            },
+            {
+              "titel" : "Vollgas",
+              "start" : 1735040,
+              "end" : 2439600
+            },
+            {
+              "titel" : "Gage",
+              "start" : 2439600,
+              "end" : 2573720
+            },
+            {
+              "titel" : "Überwacht",
+              "start" : 2573720,
+              "end" : 2731053
+            },
+            {
+              "titel" : "Verhaftet",
+              "start" : 2731053,
+              "end" : 2941027
+            },
+            {
+              "titel" : "Endspiel",
+              "start" : 2941027,
+              "end" : 3924760
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/6/rip_log.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/6/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/6/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/6/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/6/cover.png"
       }
     },
@@ -1446,10 +2019,66 @@
           "sprecher" : "Tim Wenderoth"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Nebel",
+              "start" : 0,
+              "end" : 387347
+            },
+            {
+              "titel" : "Ashoona",
+              "start" : 387347,
+              "end" : 777520
+            },
+            {
+              "titel" : "Geisterstunde",
+              "start" : 777520,
+              "end" : 1259467
+            },
+            {
+              "titel" : "Erdbeben",
+              "start" : 1259467,
+              "end" : 1668467
+            },
+            {
+              "titel" : "Treffen im Wald",
+              "start" : 1668467,
+              "end" : 2098133
+            },
+            {
+              "titel" : "Fehlende Seiten",
+              "start" : 2098133,
+              "end" : 2703173
+            },
+            {
+              "titel" : "Im Filmstudio",
+              "start" : 2703173,
+              "end" : 3014480
+            },
+            {
+              "titel" : "Der Plan",
+              "start" : 3014480,
+              "end" : 3301640
+            },
+            {
+              "titel" : "Explosion",
+              "start" : 3301640,
+              "end" : 3724440
+            },
+            {
+              "titel" : "Ashoonas Schatz",
+              "start" : 3724440,
+              "end" : 3920920
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/7/rip_log.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/7/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/7/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/7/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/7/cover.png"
       }
     },
@@ -1564,10 +2193,56 @@
           "sprecher" : "Stephanie Damare"
         }
       ],
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Nächtliche Begegnung",
+              "start" : 0,
+              "end" : 415427
+            },
+            {
+              "titel" : "Ein Geist in der Zentrale",
+              "start" : 415427,
+              "end" : 997027
+            },
+            {
+              "titel" : "Gut versichert!",
+              "start" : 997027,
+              "end" : 1698120
+            },
+            {
+              "titel" : "Les Centuries",
+              "start" : 1698120,
+              "end" : 2367280
+            },
+            {
+              "titel" : "Dunkle Vorahnungen",
+              "start" : 2367280,
+              "end" : 2943987
+            },
+            {
+              "titel" : "Ausgetrickst",
+              "start" : 2943987,
+              "end" : 3620293
+            },
+            {
+              "titel" : "Erklärungen",
+              "start" : 3620293,
+              "end" : 4009120
+            },
+            {
+              "titel" : "Blick in die Zukunft",
+              "start" : 4009120,
+              "end" : 4627360
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/8/rip_log.txt"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/8/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/8/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/8/rip_log.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/8/cover.png"
       }
     }
