@@ -264,6 +264,24 @@ extension MetadataObjectModel {
 		}
 	}
 	
+	
+	// MARK: - Collection Type Masking
+	
+	func separateByCollectionType() -> [(objectModel: Self, collectionType: CollectionType)] {
+		CollectionType.allCases.map { collectionType in
+			var maskedObjectModel = Self()
+			switch collectionType.objectModelKeyPath {
+				case let keyPath as WritableKeyPath<Self, [Folge]?>:
+					maskedObjectModel[keyPath: keyPath] = self[keyPath: keyPath]
+				case let keyPath as WritableKeyPath<Self, [Hörspiel]?>:
+					maskedObjectModel[keyPath: keyPath] = self[keyPath: keyPath]
+				default:
+					fatalError("Unrecognized type for CollectionType.objectModelKeyPath")
+			}
+			return (maskedObjectModel, collectionType)
+		}
+	}
+	
 }
 
 
