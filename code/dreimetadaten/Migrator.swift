@@ -27,9 +27,9 @@ class Migrator {
 	
 	
 	func migrate() throws {
-		var objectHörspiele = [(hörspiel: MetadataObjectModel.Hörspiel, collection: CollectionType)]()
+		var objectHörspiele = [(hörspiel: MetadataObjectModel.Hörspiel, collection: CollectionType, index: Int)]()
 		func add(collection: [MetadataObjectModel.Hörspiel]?, type: CollectionType) {
-			objectHörspiele.append(contentsOf: collection?.map { ($0, type) } ?? [])
+			objectHörspiele.append(contentsOf: collection?.enumerated().map { ($0.element, type, $0.offset) } ?? [])
 		}
 		
 		add(collection: objectModel.serie, type: .serie)
@@ -53,7 +53,10 @@ class Migrator {
 					))
 				
 				case .spezial:
-					relationalModel.spezial.append(.init(hörspielID: hörspielID))
+					relationalModel.spezial.append(.init(
+						hörspielID: hörspielID,
+						position: UInt($0.index+1)
+					))
 				
 				case .kurzgeschichten:
 					relationalModel.kurzgeschichten.append(.init(hörspielID: hörspielID))

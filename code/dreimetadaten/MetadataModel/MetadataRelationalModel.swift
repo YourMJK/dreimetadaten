@@ -45,6 +45,8 @@ extension MetadataRelationalModel {
 	
 	struct SpezialFolge: Codable {
 		var hörspielID: Hörspiel.ID
+		
+		var position: UInt
 	}
 	
 	struct KurzgeschichtenFolge: Codable {
@@ -300,6 +302,8 @@ extension MetadataRelationalModel {
 		try db.create(table: SpezialFolge.databaseTableName) { t in
 			foreignKeyReference(t, to: Hörspiel.self)
 				.primaryKey()
+			positionColumn(t)
+				.unique()
 		}
 		// KurzgeschichtenFolge
 		try db.create(table: KurzgeschichtenFolge.databaseTableName) { t in
