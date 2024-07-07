@@ -7,10 +7,13 @@
 
 import Foundation
 import CommandLineTool
+import GRDB
 
 
 struct WebDataExporter {
-	let objectModel: MetadataObjectModel
+	let db: Database
+	let webDataURL: URL
+	let webDir: URL
 	
 	private static let filenameAllowed =
 		CharacterSet(charactersIn: "a"..."z")
@@ -30,22 +33,19 @@ struct WebDataExporter {
 	
 	
 	func export(to outputDir: URL) throws {
-		for collectionType in CollectionType.allCases {
+		let objectModels = try MetadataObjectModel(fromDatabase: db, withBaseURL: webDataURL).separateByCollectionType()
+		var referencedFilePaths = Set<String>()
+		
+		for (objectModel, collectionType) in objectModels {
 			guard let collection = objectModel[keyPath: collectionType.objectModelKeyPath] as? [MetadataObjectModel.Hörspiel] else {
 				continue
 			}
 			
-			let collectionURL = outputDir.appendingPathComponent(collectionType.fileName, isDirectory: true)
-			try Self.createDirectoryIfNeccessary(at: collectionURL)
-			
 			for hörspiel in collection {
-				// Generate directory name for hörspiel
-				let name = try Self.dirname(for: hörspiel, nummerFormat: collectionType.nummerFormat)
-				let url = collectionURL.appendingPathComponent(name, isDirectory: true)
-				
 				// Export metadata of hörspiel
 				do {
-					try Self.export(hörspiel: hörspiel, type: collectionType, to: url)
+					let referencedFiles = try Self.export(hörspiel: hörspiel, type: collectionType, in: outputDir, localWebDir: webDir)
+					referencedFilePaths.formUnion(referencedFiles.map(\.relativePath))
 				}
 				catch {
 					throw ExporterError.hörspielExportFailed(hörspiel: hörspiel, error: error)
@@ -54,24 +54,36 @@ struct WebDataExporter {
 			
 			// Export metadata of collection as JSON
 			do {
-				var maskedObjectModel = MetadataObjectModel()
-				switch collectionType.objectModelKeyPath {
-					case let keyPath as WritableKeyPath<MetadataObjectModel, [MetadataObjectModel.Folge]?>:
-						maskedObjectModel[keyPath: keyPath] = objectModel[keyPath: keyPath]
-					case let keyPath as WritableKeyPath<MetadataObjectModel, [MetadataObjectModel.Hörspiel]?>:
-						maskedObjectModel[keyPath: keyPath] = objectModel[keyPath: keyPath]
-					default:
-						fatalError("Unrecognized type for CollectionType.objectModelKeyPath")
-				}
-				
 				let jsonURL = outputDir.appendingPathComponent("\(collectionType.fileName).json")
-				stderr("> \(jsonURL.relativePath)")
-				let jsonString = try maskedObjectModel.jsonString()
+				referencedFilePaths.insert(jsonURL.relativePath)
+				let jsonString = try objectModel.jsonString()
 				try jsonString.write(to: jsonURL, atomically: true, encoding: .utf8)
 			}
 			catch {
 				throw ExporterError.collectionExportFailed(collectionType: collectionType, error: error)
 			}
+		}
+		
+		// Check referenced files and existing files
+		var existingFilePaths = Set<String>()
+		guard let enumerator = FileManager.default.enumerator(at: outputDir, includingPropertiesForKeys: [.isRegularFileKey], options: [.skipsHiddenFiles, .producesRelativePathURLs]) else {
+			throw ExporterError.directoryEnumerationFailed(url: outputDir)
+		}
+		for case let url as URL in enumerator {
+			let attributes = try url.resourceValues(forKeys:[.isRegularFileKey])
+			guard attributes.isRegularFile! else {
+				continue
+			}
+			existingFilePaths.append(outputDir.relativePath + "/" + url.relativePath)
+		}
+		
+		let missingFiles = referencedFilePaths.subtracting(existingFilePaths)
+		let extraFiles = existingFilePaths.subtracting(referencedFilePaths)
+		missingFiles.forEach {
+			stderr("Missing file: \($0)")
+		}
+		extraFiles.forEach {
+			stderr("Extra file: \($0)")
 		}
 	}
 	
@@ -96,58 +108,75 @@ struct WebDataExporter {
 	}
 	
 	
-	private static func export(hörspiel: MetadataObjectModel.Hörspiel, type: CollectionType, to baseDirectory: URL) throws {
-		var teileByDepth: [Int: [(teil: MetadataObjectModel.Teil, url: URL)]] = [:]
+	private static func export(hörspiel: MetadataObjectModel.Hörspiel, type: CollectionType, in outputDir: URL, localWebDir webDir: URL) throws -> [URL] {
+		var referencedFiles = [URL]()
 		
-		func recursive(_ hörspiel: MetadataObjectModel.Hörspiel, to baseDirectory: URL, depth: Int = 0) throws {
-			stderr("> \(baseDirectory.relativePath)")
-			try Self.createDirectoryIfNeccessary(at: baseDirectory)
-			
-			func writeFile(filename: String, content: String) throws {
-				let fileURL = baseDirectory.appendingPathComponent(filename)
-				try content.write(to: fileURL, atomically: true, encoding: .utf8)
+		func fileURL(for urlString: String) throws -> URL {
+			// Replace base URL with local directory path
+			guard let url = URL(string: urlString) else {
+				throw ExporterError.invalidURL(string: urlString)
+			}
+			var fileURL = webDir
+			url.pathComponents.dropFirst().forEach {
+				fileURL = fileURL.appendingPathComponent($0)
+			}
+			// Check and remember file path
+			guard fileURL.path.hasPrefix(outputDir.path) else {
+				throw ExporterError.filePathOutsideOfOutputDirectory(file: fileURL, outputDir: outputDir)
+			}
+			referencedFiles.append(fileURL)
+			// Create intermediate directories for file
+			let dirURL = fileURL.deletingLastPathComponent()
+			try createDirectoryIfNeccessary(at: dirURL)
+			return fileURL
+		}
+		
+		func recursive(_ hörspiel: MetadataObjectModel.Hörspiel) throws {
+			// Create metadata.json file
+			if let jsonURLString = hörspiel.links?.json {
+				let jsonURL = try fileURL(for: jsonURLString)
+				let jsonString = try MetadataObjectModel.jsonString(of: hörspiel)
+				try jsonString.write(to: jsonURL, atomically: true, encoding: .utf8)
 			}
 			
-			// Create metadata.json file
-			let jsonString = try MetadataObjectModel.jsonString(of: hörspiel)
-			try writeFile(filename: "metadata.json", content: jsonString)
+			// Check cover file
+			_ = try hörspiel.links?.cover.map(fileURL(for:))
+			
+			// Check XLD log file
+			try hörspiel.medien?.forEach {
+				_ = try $0.xld_log.map(fileURL(for:))
+			}
 			
 			// Teile
-			if let teile = hörspiel.teile {
-				for teil in teile {
-					let teilURL = baseDirectory.appendingPathComponent(String(teil.teilNummer))
-					teileByDepth[depth, default: []].append((teil, teilURL))
-					try recursive(teil, to: teilURL, depth: depth+1)
-				}
-			}
+			try hörspiel.teile?.forEach(recursive)
 		}
-		try recursive(hörspiel, to: baseDirectory)
+		try recursive(hörspiel)
 		let ffmetadataBase = FFmetadata.create(forCollectionItem: hörspiel, type: type)
 		
 		// Create ffmetadata.txt file if links.ffmetadata exists
-		func writeFile(ffmetadata: FFmetadata, at url: URL, for hörspiel: MetadataObjectModel.Hörspiel) throws {
-			guard hörspiel.links?.ffmetadata != nil else {
-				return
-			}
-			let content = ffmetadata.formattedContent
-			let filename = "ffmetadata.txt"
-			let fileURL = url.appendingPathComponent(filename)
-			try content.write(to: fileURL, atomically: true, encoding: .utf8)
+		func write(ffmetadata: FFmetadata, for hörspiel: MetadataObjectModel.Hörspiel) throws {
+			guard let urlString = hörspiel.links?.ffmetadata else { return }
+			let url = try fileURL(for: urlString)
+			try ffmetadata.formattedContent.write(to: url, atomically: true, encoding: .utf8)
 		}
 		
 		// Base
-		try writeFile(ffmetadata: ffmetadataBase, at: baseDirectory, for: hörspiel)
+		try write(ffmetadata: ffmetadataBase, for: hörspiel)
 		
 		// Teile
-		for teile in teileByDepth.values {
-			let teileWithFFmetadata = teile.filter { $0.teil.links?.ffmetadata != nil }
-			guard !teileWithFFmetadata.isEmpty else { continue }
-			let teileFFmetadata = FFmetadata.create(forTeile: teileWithFFmetadata.map { $0.teil }, ofBase: ffmetadataBase)
-			
-			try zip(teileWithFFmetadata, teileFFmetadata).forEach { (teilTuple, ffmetadata) in
-				try writeFile(ffmetadata: ffmetadata, at: teilTuple.url, for: teilTuple.teil)
+		if let teile = hörspiel.teile {
+			let hasNestedTeile = teile.contains { !($0.teile ?? []).isEmpty }
+			guard !hasNestedTeile else {
+				throw ExporterError.unsupportedTeileNesting
+			}
+			let teileWithFFmetadata = teile.filter { $0.links?.ffmetadata != nil }
+			let teileFFmetadata = FFmetadata.create(forTeile: teileWithFFmetadata, ofBase: ffmetadataBase)
+			try zip(teileWithFFmetadata, teileFFmetadata).forEach { (teil, ffmetadata) in
+				try write(ffmetadata: ffmetadata, for: teil)
 			}
 		}
+		
+		return referencedFiles
 	}
 	
 	private static func createDirectoryIfNeccessary(at url: URL) throws {
@@ -163,15 +192,27 @@ struct WebDataExporter {
 
 extension WebDataExporter {
 	enum ExporterError: LocalizedError {
+		case invalidURL(string: String)
+		case filePathOutsideOfOutputDirectory(file: URL, outputDir: URL)
 		case directoryCreationFailed(url: URL, error: Error)
+		case directoryEnumerationFailed(url: URL)
+		case unsupportedTeileNesting
 		case missingTitel(hörspiel: MetadataObjectModel.Hörspiel)
 		case hörspielExportFailed(hörspiel: MetadataObjectModel.Hörspiel, error: Error)
 		case collectionExportFailed(collectionType: CollectionType, error: Error)
 		
 		var errorDescription: String? {
 			switch self {
+				case .invalidURL(let string):
+					return "Invalid URL \"\(string)\""
+				case .filePathOutsideOfOutputDirectory(let file, let outputDir):
+					return "File path \"\(file.path)\" derived from object model points outside of specified output directory \"\(outputDir.path)\""
 				case .directoryCreationFailed(let url, let error):
 					return "Couldn't create directory at \"\(url.relativePath)\": \(error.localizedDescription)"
+				case .directoryEnumerationFailed(let url):
+					return "Couldn't enumerate contents of directory \"\(url.relativePath)\""
+				case .unsupportedTeileNesting:
+					return "Unsupported nesting of teile (maximum allowed depth: 1)"
 				case .missingTitel(let hörspiel):
 					var hörspielDump = String()
 					dump(hörspiel, to: &hörspielDump, maxDepth: 2)
