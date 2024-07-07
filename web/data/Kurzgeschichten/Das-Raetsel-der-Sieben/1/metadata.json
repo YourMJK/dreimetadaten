@@ -1,180 +1,76 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "titel" : "Der siebte Gast",
-      "autor" : "André Minninger",
-      "beschreibung" : "Mrs. Emily White spürt instinktiv, dass an dem Schreiben von ihrer Freundin Judy Fradkin etwas faul ist. Warum wurde die alte Dame von dem Jahrestreffen der Märchenfiguren so urplötzlich ausgeladen? Um der Sache auf den Grund zu gehen, holt sich Mrs White die Unterstützung der drei ???.",
-      "kapitel" : [
-        {
-          "titel" : "Inszenierung neuer Geschichten",
-          "start" : 0,
-          "end" : 439267
-        },
-        {
-          "titel" : "Die Worte einer Lügenhexe",
-          "start" : 439267,
-          "end" : 774387
-        },
-        {
-          "titel" : "Prinzessin in Champagnerlaune",
-          "start" : 774387,
-          "end" : 1596747
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Emily White",
-          "sprecher" : "Sabine Hahn"
-        },
-        {
-          "rolle" : "Judy Fradkin",
-          "sprecher" : "Ursula Heyer"
-        },
-        {
-          "rolle" : "Aladin",
-          "sprecher" : "Heidi Schaffrath"
-        },
-        {
-          "rolle" : "Aschenputtel",
-          "sprecher" : "Regina Lemnitz"
-        },
-        {
-          "rolle" : "Prinzessin",
-          "sprecher" : "Renate Pichler"
-        },
-        {
-          "rolle" : "Rotkäppchen",
-          "sprecher" : "Angela Stresemann"
-        },
-        {
-          "rolle" : "Meerjungfrau",
-          "sprecher" : "Heikedine Körting",
-          "pseudonym" : "Pamela Punti"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "titel" : "Bis um sieben zurück",
-      "autor" : "Kari Erlhoff",
-      "beschreibung" : "Bob Andrews rutscht auf dem glitschigen Boden des Schuppens aus und wird ohnmächtig. Als er kurze Zeit später erwacht, scheinen einige Dinge plötzlich recht merkwürdig zu sein … Doch nicht nur für ihn; denn auch seine Eltern scheinen ihn kaum wiederzuerkennen und machen sich die größten Sorgen um ihren Sohn. In ihrer Angst ziehen sie einen Arzt hinzu …",
-      "kapitel" : [
-        {
-          "titel" : "Kopfschmerzen",
-          "start" : 0,
-          "end" : 694933
-        },
-        {
-          "titel" : "Erwischt!",
-          "start" : 694933,
-          "end" : 1199813
-        },
-        {
-          "titel" : "Bobby",
-          "start" : 1199813,
-          "end" : 1477173
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Mr. Andrews",
-          "sprecher" : "Henry König"
-        },
-        {
-          "rolle" : "Mrs. Andrews",
-          "sprecher" : "Konstanze Ullmer"
-        },
-        {
-          "rolle" : "Arzt",
-          "sprecher" : "Erik Schäffler"
-        },
-        {
-          "rolle" : "Mrs. Wallace",
-          "sprecher" : "Angela Stresemann"
-        },
-        {
-          "rolle" : "Bobby",
-          "sprecher" : "Merete Brettschneider"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/ffmetadata.txt"
-      }
-    }
-  ],
   "teilNummer" : 1,
+  "titel" : "Der siebte Gast",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Mrs. Emily White spürt instinktiv, dass an dem Schreiben von ihrer Freundin Judy Fradkin etwas faul ist. Warum wurde die alte Dame von dem Jahrestreffen der Märchenfiguren so urplötzlich ausgeladen? Um der Sache auf den Grund zu gehen, holt sich Mrs White die Unterstützung der drei ???.",
+  "veröffentlichungsdatum" : "2014-02-21",
   "kapitel" : [
     {
-      "titel" : "Der siebte Gast – Inszenierung neuer Geschichten",
+      "titel" : "Inszenierung neuer Geschichten",
       "start" : 0,
       "end" : 439267
     },
     {
-      "titel" : "Der siebte Gast – Die Worte einer Lügenhexe",
+      "titel" : "Die Worte einer Lügenhexe",
       "start" : 439267,
       "end" : 774387
     },
     {
-      "titel" : "Der siebte Gast – Prinzessin in Champagnerlaune",
+      "titel" : "Prinzessin in Champagnerlaune",
       "start" : 774387,
       "end" : 1596747
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
     },
     {
-      "titel" : "Bis um sieben zurück – Kopfschmerzen",
-      "start" : 1596747,
-      "end" : 2291680
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
     },
     {
-      "titel" : "Bis um sieben zurück – Erwischt!",
-      "start" : 2291680,
-      "end" : 2796560
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
     },
     {
-      "titel" : "Bis um sieben zurück – Bobby",
-      "start" : 2796560,
-      "end" : 3073920
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Emily White",
+      "sprecher" : "Sabine Hahn"
+    },
+    {
+      "rolle" : "Judy Fradkin",
+      "sprecher" : "Ursula Heyer"
+    },
+    {
+      "rolle" : "Aladin",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Aschenputtel",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Prinzessin",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Rotkäppchen",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Meerjungfrau",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Pamela Punti"
     }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/metadata.json",
-    "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/ffmetadata.txt"
   }
 }

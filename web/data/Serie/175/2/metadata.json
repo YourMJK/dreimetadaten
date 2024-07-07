@@ -3,7 +3,9 @@
   "buchstabe" : "B",
   "titel" : "Angriff in der Nacht",
   "autor" : "Kari Erlhoff",
+  "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Ihre Ermittlungen führen die drei ??? immer weiter in einen Sumpf aus Lügen und dunklen Machenschaften. Doch wer steckt hinter alldem? Justus, Peter und Bob sind dem Teumessischen Fuchs auf der Spur, der überall und nirgends zu sein scheint. Doch haben die drei Detektive den richtigen Riecher? Eines Nachts schlägt ihr unbekannter Gegner plötzlich zu …",
+  "veröffentlichungsdatum" : "2015-05-15",
   "kapitel" : [
     {
       "titel" : "Kleinkriminelle mit Größenwahn",
@@ -123,7 +125,6 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/175/2/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/2/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/175/2/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/2/ffmetadata.txt"
   }
 }

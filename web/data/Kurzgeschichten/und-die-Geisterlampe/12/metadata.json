@@ -1,0 +1,57 @@
+{
+  "teilNummer" : 12,
+  "titel" : "Jagd auf den Weihnachtsmann",
+  "autor" : "Hendrik Buchna",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Rocky Beach versinkt im Schnee. Und zu allem Überfluss treibt gerade jetzt, wo die Polizei mehr oder weniger handlungsunfähig ist, ein krimineller Weihnachtsmann in der Stadt sein Unwesen …",
+  "veröffentlichungsdatum" : "2011-12-24",
+  "kapitel" : [
+    {
+      "titel" : "Jagd auf den Weihnachtsmann",
+      "start" : 0,
+      "end" : 921440
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Mr. Darrow",
+      "sprecher" : "Joachim Kappl"
+    },
+    {
+      "rolle" : "Mann 5",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Mann 6",
+      "sprecher" : "Frank Meyer-Brockmann"
+    },
+    {
+      "rolle" : "Mann 7",
+      "sprecher" : "Roy Martens"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/12/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/12/ffmetadata.txt"
+  }
+}

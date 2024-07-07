@@ -111,10 +111,46 @@
       "sprecher" : "Christian Concilio"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Böse Blumen",
+          "start" : 0,
+          "end" : 675133
+        },
+        {
+          "titel" : "Gewächse der Nacht",
+          "start" : 675133,
+          "end" : 1273240
+        },
+        {
+          "titel" : "Den Morlands auf der Spur",
+          "start" : 1273240,
+          "end" : 1827893
+        },
+        {
+          "titel" : "Nachteinsatz",
+          "start" : 1827893,
+          "end" : 2458413
+        },
+        {
+          "titel" : "Im Haus der Mitternacht",
+          "start" : 2458413,
+          "end" : 3555213
+        },
+        {
+          "titel" : "Letzte Fragen und ein neuer Fall",
+          "start" : 3555213,
+          "end" : 4139387
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/184/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/184/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/184/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/184/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/184/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/af/66/01/af66014f-2a7e-36c0-3ca9-3fbea1a7e3a6/source",
     "cover_kosmos" : "http://web.archive.org/web/20220104131531if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/13/e9/32/0888751319929.jpg"

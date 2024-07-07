@@ -114,10 +114,61 @@
       "sprecher" : "Bertram Hiese"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Pergamentmacher",
+          "start" : 0,
+          "end" : 303573
+        },
+        {
+          "titel" : "Geschick und Verstand",
+          "start" : 303573,
+          "end" : 646293
+        },
+        {
+          "titel" : "Volltreffer!",
+          "start" : 646293,
+          "end" : 802640
+        },
+        {
+          "titel" : "Einbruch in die Suite",
+          "start" : 802640,
+          "end" : 1332533
+        },
+        {
+          "titel" : "Einstiche",
+          "start" : 1332533,
+          "end" : 1562627
+        },
+        {
+          "titel" : "Der Text über dem Text",
+          "start" : 1562627,
+          "end" : 2074107
+        },
+        {
+          "titel" : "Die erste Station",
+          "start" : 2074107,
+          "end" : 2533760
+        },
+        {
+          "titel" : "Gartenzaun",
+          "start" : 2533760,
+          "end" : 3210840
+        },
+        {
+          "titel" : "Die Gruft",
+          "start" : 3210840,
+          "end" : 3820387
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/160/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/160/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/160/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/160/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/160/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/02/d2/42/02d2428d-46c6-88ae-9840-bb6bac345d83/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180112if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/22/c2/6b/0886979233027.jpg"

@@ -101,10 +101,56 @@
       "sprecher" : "Constantin Stahlberg"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Magisches Ritual",
+          "start" : 0,
+          "end" : 626973
+        },
+        {
+          "titel" : "Die verfluchte Puppe",
+          "start" : 626973,
+          "end" : 1237760
+        },
+        {
+          "titel" : "Grüße von Giggles",
+          "start" : 1237760,
+          "end" : 1954253
+        },
+        {
+          "titel" : "Mission Fingerabdruck",
+          "start" : 1954253,
+          "end" : 2358880
+        },
+        {
+          "titel" : "Stars und Stiles",
+          "start" : 2358880,
+          "end" : 2998360
+        },
+        {
+          "titel" : "Das Haus am Ende der Straße",
+          "start" : 2998360,
+          "end" : 3667813
+        },
+        {
+          "titel" : "Miss Osborne unter Druck",
+          "start" : 3667813,
+          "end" : 4408320
+        },
+        {
+          "titel" : "Mit eigenen Augen",
+          "start" : 4408320,
+          "end" : 4728400
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/196/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/196/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/196/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/196/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/196/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music128/v4/2a/2a/52/2a2a5295-56ca-a27a-df67-494d1c340cdb/source"
   }

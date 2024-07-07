@@ -117,6 +117,52 @@
       "sprecher" : "Lothar Zibell"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Schrei aus dem Wecker",
+          "start" : 0,
+          "end" : 340360
+        },
+        {
+          "titel" : "Das Zimmer der Uhren",
+          "start" : 340360,
+          "end" : 779387
+        },
+        {
+          "titel" : "Wer ist Rex?",
+          "start" : 779387,
+          "end" : 1168693
+        },
+        {
+          "titel" : "Rätsel über Rätsel",
+          "start" : 1168693,
+          "end" : 1780667
+        },
+        {
+          "titel" : "Der arme Gerald",
+          "start" : 1780667,
+          "end" : 2065293
+        },
+        {
+          "titel" : "Fragen ohne Antwort",
+          "start" : 2065293,
+          "end" : 2260053
+        },
+        {
+          "titel" : "Der Gegner hat die Oberhand",
+          "start" : 2260053,
+          "end" : 2513507
+        },
+        {
+          "titel" : "Überraschende Enthüllungen",
+          "start" : 2513507,
+          "end" : 2736347
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/012/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/012/ffmetadata.txt",

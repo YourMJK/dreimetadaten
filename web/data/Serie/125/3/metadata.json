@@ -2,7 +2,10 @@
   "teilNummer" : 3,
   "buchstabe" : "C",
   "titel" : "Die Nacht der Schatten",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Auf einer kleinen Insel vor Rocky Beach treffen die drei ??? in nächtlicher Finsternis erneut auf den Meisterdieb Hugenay. Die Jagd nach \"Feuermond\" beginnt. Und schnell zeigt sich, dass es die drei Detektive mit mehr als einem Widersacher zu tun haben.\nWem wird es gelingen, das Gemälde zu finden und das große Geheimnis um \"Feuermond\" zu lüften?",
+  "veröffentlichungsdatum" : "2008-10-10",
   "kapitel" : [
     {
       "titel" : "Blanker Unsinn",
@@ -159,7 +162,6 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/125/3/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/3/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/125/3/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/3/ffmetadata.txt"
   }
 }

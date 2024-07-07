@@ -101,10 +101,56 @@
       "sprecher" : "Traudel Sperber"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "\"Wer knackt die Nuss?\"",
+          "start" : 0,
+          "end" : 843213
+        },
+        {
+          "titel" : "Auf Sendung",
+          "start" : 843213,
+          "end" : 1436867
+        },
+        {
+          "titel" : "24 Stunden Galgenfrist",
+          "start" : 1436867,
+          "end" : 1777947
+        },
+        {
+          "titel" : "Rätsel-Leichen",
+          "start" : 1777947,
+          "end" : 2206960
+        },
+        {
+          "titel" : "\"Jack, the Riddler\"",
+          "start" : 2206960,
+          "end" : 2617560
+        },
+        {
+          "titel" : "Namen und Symbole",
+          "start" : 2617560,
+          "end" : 2994160
+        },
+        {
+          "titel" : "Von den Toten auferstanden",
+          "start" : 2994160,
+          "end" : 3474133
+        },
+        {
+          "titel" : "Wer zuletzt lacht …",
+          "start" : 3474133,
+          "end" : 4027533
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/109/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/109/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/109/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/109/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/109/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/99/ef/53/99ef53fd-cac8-923d-5e58-a83e9cfed484/source",
     "cover_kosmos" : "http://web.archive.org/web/20211227022643if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f4/14/a3/0743219432827.jpg"

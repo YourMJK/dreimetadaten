@@ -75,8 +75,85 @@
       "end" : 2980667
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Titelsong",
+          "start" : 0,
+          "end" : 189893
+        },
+        {
+          "titel" : "Der heimliche Hehler",
+          "start" : 189893,
+          "end" : 374400
+        },
+        {
+          "titel" : "Tatort Zirkus",
+          "start" : 374400,
+          "end" : 540800
+        },
+        {
+          "titel" : "Geisterinsel",
+          "start" : 540800,
+          "end" : 656827
+        },
+        {
+          "titel" : "Musikpiraten",
+          "start" : 656827,
+          "end" : 859400
+        },
+        {
+          "titel" : "Schüsse aus dem Dunkel",
+          "start" : 859400,
+          "end" : 1060493
+        },
+        {
+          "titel" : "Drei ??? Rap",
+          "start" : 1060493,
+          "end" : 1395067
+        },
+        {
+          "titel" : "Der riskante Ritt",
+          "start" : 1395067,
+          "end" : 1641000
+        },
+        {
+          "titel" : "Der lachende Schatten",
+          "start" : 1641000,
+          "end" : 1776467
+        },
+        {
+          "titel" : "Stimmen aus dem Nichts",
+          "start" : 1776467,
+          "end" : 2115693
+        },
+        {
+          "titel" : "Die verschwundene Seglerin",
+          "start" : 2115693,
+          "end" : 2318027
+        },
+        {
+          "titel" : "Die bedrohte Ranch",
+          "start" : 2318027,
+          "end" : 2488627
+        },
+        {
+          "titel" : "Diamantenschmuggel",
+          "start" : 2488627,
+          "end" : 2695893
+        },
+        {
+          "titel" : "Titelsong",
+          "start" : 2695893,
+          "end" : 2980667
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/029/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/029/ffmetadata.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/029/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music69/v4/db/7c/27/db7c27d4-f4e5-378a-188a-5ab6b5d17220/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111023020if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/9f/12/d1/0743213882925.jpg"

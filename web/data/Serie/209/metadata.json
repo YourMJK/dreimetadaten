@@ -96,10 +96,51 @@
       "sprecher" : "Paul Michaeli"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "FMTM",
+          "start" : 0,
+          "end" : 480307
+        },
+        {
+          "titel" : "Dem Tod auf der Spur",
+          "start" : 480307,
+          "end" : 1091640
+        },
+        {
+          "titel" : "Backstage",
+          "start" : 1091640,
+          "end" : 1526053
+        },
+        {
+          "titel" : "TB 34F-42",
+          "start" : 1526053,
+          "end" : 1766573
+        },
+        {
+          "titel" : "Überfall",
+          "start" : 1766573,
+          "end" : 2392480
+        },
+        {
+          "titel" : "Geisterstunde",
+          "start" : 2392480,
+          "end" : 2991520
+        },
+        {
+          "titel" : "Kreaturen der Nacht",
+          "start" : 2991520,
+          "end" : 3596773
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/209/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/209/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/209/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/209/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/209/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music114/v4/c8/c9/90/c8c99025-0e8b-1ffd-12f3-f664fb75e124/source"
   }

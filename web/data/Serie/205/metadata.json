@@ -107,10 +107,46 @@
       "sprecher" : "Merete Brettschneider"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Hände hoch, oder es knallt!",
+          "start" : 0,
+          "end" : 198507
+        },
+        {
+          "titel" : "Der letzte Wille",
+          "start" : 198507,
+          "end" : 778467
+        },
+        {
+          "titel" : "Mann ohne Gesicht",
+          "start" : 778467,
+          "end" : 1767080
+        },
+        {
+          "titel" : "Eine stille Bewunderin",
+          "start" : 1767080,
+          "end" : 2446760
+        },
+        {
+          "titel" : "Blutige Zeichen",
+          "start" : 2446760,
+          "end" : 3076320
+        },
+        {
+          "titel" : "Das Geheimnis der Familie di Santo",
+          "start" : 3076320,
+          "end" : 4255120
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/205/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/205/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/205/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/205/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/205/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music114/v4/45/cb/d4/45cbd478-3077-4d72-55e0-91ddf1a83aa1/source"
   }

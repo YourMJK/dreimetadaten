@@ -124,10 +124,71 @@
       "sprecher" : "Daniel Welbat"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Zwischen Himmel und Erde",
+          "start" : 0,
+          "end" : 337187
+        },
+        {
+          "titel" : "Das Tal der Unfälle",
+          "start" : 337187,
+          "end" : 477067
+        },
+        {
+          "titel" : "Im Schatten der Berge",
+          "start" : 477067,
+          "end" : 901987
+        },
+        {
+          "titel" : "\"Jene, die töten\"",
+          "start" : 901987,
+          "end" : 1260480
+        },
+        {
+          "titel" : "Getroffen!",
+          "start" : 1260480,
+          "end" : 1465107
+        },
+        {
+          "titel" : "Schlaflos im Yosemite Valley",
+          "start" : 1465107,
+          "end" : 1687787
+        },
+        {
+          "titel" : "Ein rätselhafter Anruf",
+          "start" : 1687787,
+          "end" : 2022933
+        },
+        {
+          "titel" : "Der Wahrheit auf der Spur",
+          "start" : 2022933,
+          "end" : 2244893
+        },
+        {
+          "titel" : "Ein grauenhafter Fund",
+          "start" : 2244893,
+          "end" : 3537587
+        },
+        {
+          "titel" : "In Lebensgefahr",
+          "start" : 3537587,
+          "end" : 3803453
+        },
+        {
+          "titel" : "Betrug am Berg",
+          "start" : 3803453,
+          "end" : 4217360
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/165/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/165/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/165/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/165/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/165/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/e3/44/2b/e3442bfa-54ba-5906-6898-5b2054c2ca12/source",
     "cover_kosmos" : "http://web.archive.org/web/20211227022638if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c7/9d/13/0887254003526.jpg"

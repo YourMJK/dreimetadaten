@@ -131,10 +131,61 @@
       "pseudonym" : "Gunnar Bergmann"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Wind und Blut",
+          "start" : 0,
+          "end" : 526680
+        },
+        {
+          "titel" : "Wipe Out",
+          "start" : 526680,
+          "end" : 938120
+        },
+        {
+          "titel" : "Das Geheimnis der Gezeiten",
+          "start" : 938120,
+          "end" : 1223827
+        },
+        {
+          "titel" : "Tag, Uhrzeit, Ort",
+          "start" : 1223827,
+          "end" : 1741640
+        },
+        {
+          "titel" : "Endstation Las Tunas",
+          "start" : 1741640,
+          "end" : 2528240
+        },
+        {
+          "titel" : "Pikante Details",
+          "start" : 2528240,
+          "end" : 3190467
+        },
+        {
+          "titel" : "Kredithai",
+          "start" : 3190467,
+          "end" : 3543040
+        },
+        {
+          "titel" : "Im Auge des Sturms",
+          "start" : 3543040,
+          "end" : 4013173
+        },
+        {
+          "titel" : "Der Held von Rocky Beach",
+          "start" : 4013173,
+          "end" : 4190827
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/197/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/197/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/197/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/197/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/197/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music128/v4/8c/9a/4d/8c9a4d8e-6a2c-8686-1806-ab9ad03dc8a9/source"
   }

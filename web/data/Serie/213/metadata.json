@@ -112,10 +112,51 @@
       "sprecher" : "Till Huster"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "An Messers Schneide",
+          "start" : 0,
+          "end" : 586013
+        },
+        {
+          "titel" : "Weiskopfadlr",
+          "start" : 586013,
+          "end" : 1335907
+        },
+        {
+          "titel" : "Das Auge des Außerirdischen",
+          "start" : 1335907,
+          "end" : 2011347
+        },
+        {
+          "titel" : "Naknek",
+          "start" : 2011347,
+          "end" : 2498373
+        },
+        {
+          "titel" : "Zombie-Alarm",
+          "start" : 2498373,
+          "end" : 2919427
+        },
+        {
+          "titel" : "Verstellte Stimme",
+          "start" : 2919427,
+          "end" : 3345640
+        },
+        {
+          "titel" : "Das Geheimnis der Medusa",
+          "start" : 3345640,
+          "end" : 4378267
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/213/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/213/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/213/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/213/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/213/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music125/v4/aa/93/82/aa938236-7558-e880-fe67-d2992bb3ae21/source"
   }

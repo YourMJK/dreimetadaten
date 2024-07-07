@@ -95,10 +95,46 @@
       "sprecher" : "Caroline Kiesewetter"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Geistergeschichten",
+          "start" : 0,
+          "end" : 658667
+        },
+        {
+          "titel" : "Ein Papier voller Rätsel",
+          "start" : 658667,
+          "end" : 1397013
+        },
+        {
+          "titel" : "Der Totentisch",
+          "start" : 1397013,
+          "end" : 1679360
+        },
+        {
+          "titel" : "Beschattung",
+          "start" : 1679360,
+          "end" : 2204293
+        },
+        {
+          "titel" : "Der Geist erscheint",
+          "start" : 2204293,
+          "end" : 2959080
+        },
+        {
+          "titel" : "Die Masken fallen",
+          "start" : 2959080,
+          "end" : 3725680
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/207/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/207/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/207/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/207/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/207/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music123/v4/7e/90/93/7e9093a9-d9c9-0fd7-aca4-06c49b65d10e/source"
   }

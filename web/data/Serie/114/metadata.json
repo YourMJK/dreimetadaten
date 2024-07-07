@@ -113,10 +113,76 @@
       "sprecher" : "Christian Niehues"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Problem",
+          "start" : 0,
+          "end" : 234147
+        },
+        {
+          "titel" : "Besuch im Märchenschloss",
+          "start" : 234147,
+          "end" : 850707
+        },
+        {
+          "titel" : "Tante Mathildas Versprechen",
+          "start" : 850707,
+          "end" : 960493
+        },
+        {
+          "titel" : "Séance",
+          "start" : 960493,
+          "end" : 1315747
+        },
+        {
+          "titel" : "In Luft aufgelöst",
+          "start" : 1315747,
+          "end" : 1786267
+        },
+        {
+          "titel" : "Die Sache stinkt",
+          "start" : 1786267,
+          "end" : 2167507
+        },
+        {
+          "titel" : "Sodom und Gomorrha",
+          "start" : 2167507,
+          "end" : 2437107
+        },
+        {
+          "titel" : "Phantomstimmen",
+          "start" : 2437107,
+          "end" : 2707453
+        },
+        {
+          "titel" : "Und der Mörder ist …",
+          "start" : 2707453,
+          "end" : 2977680
+        },
+        {
+          "titel" : "Das Testament",
+          "start" : 2977680,
+          "end" : 3121520
+        },
+        {
+          "titel" : "Im Keller eines Fans",
+          "start" : 3121520,
+          "end" : 3431360
+        },
+        {
+          "titel" : "Cinderella",
+          "start" : 3431360,
+          "end" : 4150480
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/114/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/114/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/114/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/114/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/114/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/fd/c0/fb/fdc0fb3e-b9c4-c89c-646d-480d0d8a0f00/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111023006if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/ac/2f/81/0743219911421.jpg"

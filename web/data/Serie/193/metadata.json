@@ -125,10 +125,56 @@
       "sprecher" : "Jannik Schümann"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ausnahmezustand",
+          "start" : 0,
+          "end" : 475760
+        },
+        {
+          "titel" : "Die Ermittlungen beginnen",
+          "start" : 475760,
+          "end" : 841120
+        },
+        {
+          "titel" : "Gespräch der Lichter",
+          "start" : 841120,
+          "end" : 1464960
+        },
+        {
+          "titel" : "Große Fische im Netz",
+          "start" : 1464960,
+          "end" : 1877600
+        },
+        {
+          "titel" : "Beutemeute",
+          "start" : 1877600,
+          "end" : 2354467
+        },
+        {
+          "titel" : "Peanuts in Gouda",
+          "start" : 2354467,
+          "end" : 2809173
+        },
+        {
+          "titel" : "Tauchgang mit Folgen",
+          "start" : 2809173,
+          "end" : 3207547
+        },
+        {
+          "titel" : "Verräterische Angst",
+          "start" : 3207547,
+          "end" : 4183227
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/193/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/193/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/193/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/193/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/193/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/ed/a3/a1/eda3a179-4e94-e74a-bca0-fa72a742cad9/source"
   }

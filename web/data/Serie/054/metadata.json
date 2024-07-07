@@ -102,10 +102,56 @@
       "sprecher" : "Henry König"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein denkenswerter Auftritt",
+          "start" : 0,
+          "end" : 390120
+        },
+        {
+          "titel" : "Gefahr im Verzug",
+          "start" : 390120,
+          "end" : 711920
+        },
+        {
+          "titel" : "Hinter den Kulissen",
+          "start" : 711920,
+          "end" : 954000
+        },
+        {
+          "titel" : "Geisterbeschwörung",
+          "start" : 954000,
+          "end" : 1520760
+        },
+        {
+          "titel" : "Eine klebrige Angelegenheit",
+          "start" : 1520760,
+          "end" : 1852587
+        },
+        {
+          "titel" : "Ausverkauft",
+          "start" : 1852587,
+          "end" : 2188827
+        },
+        {
+          "titel" : "Verfolgungsjagd",
+          "start" : 2188827,
+          "end" : 2724867
+        },
+        {
+          "titel" : "Autogrammjäger",
+          "start" : 2724867,
+          "end" : 3048040
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/054/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/054/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/054/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/054/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/054/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/aa/32/4e/aa324e0b-7353-6a32-9fba-1ae05bd79312/source",
     "cover_kosmos" : "http://web.archive.org/web/20220124230940if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/82/19/6a/0743213885421.jpg"

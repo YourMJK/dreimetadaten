@@ -94,10 +94,56 @@
       "sprecher" : "Leonhard Mahlich"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Großer Qualm – kleines Feuer",
+          "start" : 0,
+          "end" : 363133
+        },
+        {
+          "titel" : "Spannendes aus der Szene",
+          "start" : 363133,
+          "end" : 667613
+        },
+        {
+          "titel" : "Kunst und Kommerz",
+          "start" : 667613,
+          "end" : 1086667
+        },
+        {
+          "titel" : "Das interstellare Interview",
+          "start" : 1086667,
+          "end" : 1333040
+        },
+        {
+          "titel" : "Getäuscht",
+          "start" : 1333040,
+          "end" : 1619493
+        },
+        {
+          "titel" : "Handzeichen",
+          "start" : 1619493,
+          "end" : 2033547
+        },
+        {
+          "titel" : "Schwarze Kunst im Keller",
+          "start" : 2033547,
+          "end" : 2418440
+        },
+        {
+          "titel" : "Hart erkämpfter Sieg",
+          "start" : 2418440,
+          "end" : 2670120
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/049/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/049/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/049/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/049/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/049/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/42/06/a6/4206a643-9994-b4a3-8bb1-05911a76dbed/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180157if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/44/f2/0f/0743213884929.jpg"

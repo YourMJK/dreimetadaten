@@ -105,10 +105,56 @@
       "sprecher" : "Hans Clarin"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Durch die Hintertür",
+          "start" : 0,
+          "end" : 484507
+        },
+        {
+          "titel" : "Ganz cool",
+          "start" : 484507,
+          "end" : 903667
+        },
+        {
+          "titel" : "Ein Haufen Geld",
+          "start" : 903667,
+          "end" : 1198307
+        },
+        {
+          "titel" : "Eine Bombenparty",
+          "start" : 1198307,
+          "end" : 1812520
+        },
+        {
+          "titel" : "Verhörmethoden",
+          "start" : 1812520,
+          "end" : 2218707
+        },
+        {
+          "titel" : "Die Falle",
+          "start" : 2218707,
+          "end" : 2530613
+        },
+        {
+          "titel" : "Volltreffer",
+          "start" : 2530613,
+          "end" : 2795867
+        },
+        {
+          "titel" : "VIP",
+          "start" : 2795867,
+          "end" : 3056533
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/055/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/055/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/055/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/055/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/055/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/52/03/bf/5203bf9b-f1a0-b8d5-94ab-4ba2df90c4b0/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111023028if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/33/69/b0/0743213885520.jpg"

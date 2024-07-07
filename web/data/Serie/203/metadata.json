@@ -89,10 +89,56 @@
       "sprecher" : "Peter Franke"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Jorunn",
+          "start" : 0,
+          "end" : 384933
+        },
+        {
+          "titel" : "Gegenverkehr",
+          "start" : 384933,
+          "end" : 813400
+        },
+        {
+          "titel" : "Aus dem Meer",
+          "start" : 813400,
+          "end" : 1259853
+        },
+        {
+          "titel" : "Gefangen",
+          "start" : 1259853,
+          "end" : 1651000
+        },
+        {
+          "titel" : "Unter Wasser",
+          "start" : 1651000,
+          "end" : 2425533
+        },
+        {
+          "titel" : "Sandy Miller",
+          "start" : 2425533,
+          "end" : 2970080
+        },
+        {
+          "titel" : "Tiefschlaf",
+          "start" : 2970080,
+          "end" : 3942533
+        },
+        {
+          "titel" : "Die Wahrheit",
+          "start" : 3942533,
+          "end" : 4610333
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/203/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/203/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/203/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/203/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/203/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music123/v4/3d/d6/a7/3dd6a76e-c5f4-4587-1251-a0c38790399d/source"
   }

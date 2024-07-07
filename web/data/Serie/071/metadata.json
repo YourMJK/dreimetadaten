@@ -118,10 +118,56 @@
       "sprecher" : "Konstanze Ullmer"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Onkel Titus sitzt in der Patsche",
+          "start" : 0,
+          "end" : 736827
+        },
+        {
+          "titel" : "Ein tragischer Segelunfall",
+          "start" : 736827,
+          "end" : 1304667
+        },
+        {
+          "titel" : "Im Reich der Mitte",
+          "start" : 1304667,
+          "end" : 1666187
+        },
+        {
+          "titel" : "1:0 für Santoria",
+          "start" : 1666187,
+          "end" : 1996960
+        },
+        {
+          "titel" : "Auf Leben und Tod",
+          "start" : 1996960,
+          "end" : 2409933
+        },
+        {
+          "titel" : "Lu Kwan schweigt",
+          "start" : 2409933,
+          "end" : 2928840
+        },
+        {
+          "titel" : "Bobs Theorie",
+          "start" : 2928840,
+          "end" : 3501547
+        },
+        {
+          "titel" : "Zweitausend $ zum Ersten",
+          "start" : 3501547,
+          "end" : 3994440
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/071/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/071/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/071/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/071/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/071/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/9d/97/2e/9d972eb9-f718-b639-4865-98057d99bb23/source",
     "cover_kosmos" : "http://web.archive.org/web/20220706182607if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/3c/1f/38/0743213849621.jpg"

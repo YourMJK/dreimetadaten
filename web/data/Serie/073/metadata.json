@@ -97,10 +97,56 @@
       "sprecher" : "Marianne Kehlau"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Doppelte Abfuhr",
+          "start" : 0,
+          "end" : 578787
+        },
+        {
+          "titel" : "Miss Madigans Medaillon",
+          "start" : 578787,
+          "end" : 998120
+        },
+        {
+          "titel" : "Hilferuf in der Nacht",
+          "start" : 998120,
+          "end" : 1676827
+        },
+        {
+          "titel" : "Poltergeister",
+          "start" : 1676827,
+          "end" : 1998627
+        },
+        {
+          "titel" : "Terror hinter verschlossener Tür",
+          "start" : 1998627,
+          "end" : 2831720
+        },
+        {
+          "titel" : "Schwebendes Geschirr",
+          "start" : 2831720,
+          "end" : 3177613
+        },
+        {
+          "titel" : "Der Geistesblitz",
+          "start" : 3177613,
+          "end" : 3602987
+        },
+        {
+          "titel" : "Ein alter Bekannter",
+          "start" : 3602987,
+          "end" : 3997320
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/073/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/073/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/073/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/073/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/073/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/09/a6/03/09a60380-38a0-05ce-3cd7-97a5f5047863/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115045339if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/ea/56/0a/0743214284728.jpg"

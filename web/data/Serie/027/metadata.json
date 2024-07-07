@@ -102,6 +102,52 @@
       "sprecher" : "Siegfried Wald"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Feuer!",
+          "start" : 0,
+          "end" : 404307
+        },
+        {
+          "titel" : "Ein Unglück kommt selten allein",
+          "start" : 404307,
+          "end" : 794467
+        },
+        {
+          "titel" : "Ist Hexerei im Spiel?",
+          "start" : 794467,
+          "end" : 1096667
+        },
+        {
+          "titel" : "Der magische Kreis",
+          "start" : 1096667,
+          "end" : 1555480
+        },
+        {
+          "titel" : "Endstation Kofferraum",
+          "start" : 1555480,
+          "end" : 1978227
+        },
+        {
+          "titel" : "Dornröschen",
+          "start" : 1978227,
+          "end" : 2297867
+        },
+        {
+          "titel" : "Eine Verschwörung",
+          "start" : 2297867,
+          "end" : 2662400
+        },
+        {
+          "titel" : "Party mit Überraschungseffekt",
+          "start" : 2662400,
+          "end" : 3108893
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/027/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/027/ffmetadata.txt",

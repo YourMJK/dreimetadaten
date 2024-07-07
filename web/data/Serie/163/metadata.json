@@ -88,10 +88,71 @@
       "sprecher" : "Holger Mahlich"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Begegnung im Nebel",
+          "start" : 0,
+          "end" : 519093
+        },
+        {
+          "titel" : "Hässliche Fratze",
+          "start" : 519093,
+          "end" : 1034760
+        },
+        {
+          "titel" : "Ein üblicher Klassiker",
+          "start" : 1034760,
+          "end" : 1225760
+        },
+        {
+          "titel" : "Steinschlag",
+          "start" : 1225760,
+          "end" : 1582640
+        },
+        {
+          "titel" : "Harte Rätselnuss",
+          "start" : 1582640,
+          "end" : 1885467
+        },
+        {
+          "titel" : "Katzenmaske",
+          "start" : 1885467,
+          "end" : 2052000
+        },
+        {
+          "titel" : "Glatt gelogen",
+          "start" : 2052000,
+          "end" : 2626187
+        },
+        {
+          "titel" : "Die Gleichung geht auf",
+          "start" : 2626187,
+          "end" : 3009160
+        },
+        {
+          "titel" : "Platt",
+          "start" : 3009160,
+          "end" : 3373267
+        },
+        {
+          "titel" : "Auf der Flucht",
+          "start" : 3373267,
+          "end" : 4264013
+        },
+        {
+          "titel" : "Ein Rätsel aus der Kindheit",
+          "start" : 4264013,
+          "end" : 4468413
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/163/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/163/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/163/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/163/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/163/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/64/c5/5b/64c55bab-6657-1761-b0e0-775082869537/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115152701if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/bd/16/24/0887254003328.jpg"

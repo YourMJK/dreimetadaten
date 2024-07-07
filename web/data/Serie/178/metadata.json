@@ -98,10 +98,61 @@
       "sprecher" : "Holger Mahlich"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine alte Bekannte",
+          "start" : 0,
+          "end" : 315320
+        },
+        {
+          "titel" : "Meeresgetierrettungsaktion",
+          "start" : 315320,
+          "end" : 672373
+        },
+        {
+          "titel" : "Überwacht",
+          "start" : 672373,
+          "end" : 871867
+        },
+        {
+          "titel" : "Ornithologie der besonderen Art",
+          "start" : 871867,
+          "end" : 1593400
+        },
+        {
+          "titel" : "Erpressung",
+          "start" : 1593400,
+          "end" : 1860600
+        },
+        {
+          "titel" : "Blutige Federn",
+          "start" : 1860600,
+          "end" : 2474333
+        },
+        {
+          "titel" : "Aus eins mach zwei",
+          "start" : 2474333,
+          "end" : 2990413
+        },
+        {
+          "titel" : "In der Falle",
+          "start" : 2990413,
+          "end" : 3283293
+        },
+        {
+          "titel" : "Die Federn fallen",
+          "start" : 3283293,
+          "end" : 3955933
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/178/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/178/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/178/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/178/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/178/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music19/v4/6b/f2/73/6bf27389-03bd-4df6-30d8-a3bc066ece4b/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115152700if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/7b/28/f7/0888430093720.jpg"

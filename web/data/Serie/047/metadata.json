@@ -97,6 +97,52 @@
       "sprecher" : "Ernst von Klipstein"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Albtraum",
+          "start" : 0,
+          "end" : 321613
+        },
+        {
+          "titel" : "Mr. Sweetness",
+          "start" : 321613,
+          "end" : 617587
+        },
+        {
+          "titel" : "Dr. Jonas am Apparat",
+          "start" : 617587,
+          "end" : 1098027
+        },
+        {
+          "titel" : "Mordanschlag",
+          "start" : 1098027,
+          "end" : 1415827
+        },
+        {
+          "titel" : "Zurückgekehrte Erinnerung",
+          "start" : 1415827,
+          "end" : 1732267
+        },
+        {
+          "titel" : "Endstation Schrottpresse",
+          "start" : 1732267,
+          "end" : 2208587
+        },
+        {
+          "titel" : "Gefährliche Marktforschung",
+          "start" : 2208587,
+          "end" : 2555440
+        },
+        {
+          "titel" : "Der große Preis",
+          "start" : 2555440,
+          "end" : 2842373
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/047/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/047/ffmetadata.txt",

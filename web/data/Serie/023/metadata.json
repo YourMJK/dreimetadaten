@@ -115,6 +115,52 @@
       "sprecher" : "Franz-Josef Steffens"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Es geht hart auf hart",
+          "start" : 0,
+          "end" : 307133
+        },
+        {
+          "titel" : "Feuer!",
+          "start" : 307133,
+          "end" : 665760
+        },
+        {
+          "titel" : "Die Suche beginnt",
+          "start" : 665760,
+          "end" : 949947
+        },
+        {
+          "titel" : "Die alte Landkarte",
+          "start" : 949947,
+          "end" : 1275560
+        },
+        {
+          "titel" : "Der Sheriff waltet seines Amtes",
+          "start" : 1275560,
+          "end" : 1587587
+        },
+        {
+          "titel" : "Entdeckung in der Brandruine",
+          "start" : 1587587,
+          "end" : 1914053
+        },
+        {
+          "titel" : "Das Versteck",
+          "start" : 1914053,
+          "end" : 2245960
+        },
+        {
+          "titel" : "Das Schwert des Cortez",
+          "start" : 2245960,
+          "end" : 2565680
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/023/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/023/ffmetadata.txt",

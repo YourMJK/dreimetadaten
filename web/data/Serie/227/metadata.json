@@ -92,10 +92,46 @@
       "sprecher" : "Stefan Zinkgraf"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "PJs Bassgitarre",
+          "start" : 0,
+          "end" : 637667
+        },
+        {
+          "titel" : "Sprungtuchdiebstahl",
+          "start" : 637667,
+          "end" : 1264133
+        },
+        {
+          "titel" : "Terminar em pizza",
+          "start" : 1264133,
+          "end" : 1672373
+        },
+        {
+          "titel" : "Monster-Alarm",
+          "start" : 1672373,
+          "end" : 2266160
+        },
+        {
+          "titel" : "Neue Spuren",
+          "start" : 2266160,
+          "end" : 3004040
+        },
+        {
+          "titel" : "Konfrontation mit der Wahrheit",
+          "start" : 3004040,
+          "end" : 3870227
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/227/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/227/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/227/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/227/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/227/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music122/v4/aa/a3/a1/aaa3a16c-3d3c-a164-c8e7-feaa43a0c0ba/196871288071.jpg"
   }

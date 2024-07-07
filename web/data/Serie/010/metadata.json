@@ -107,6 +107,52 @@
       "sprecher" : "Gernot Endemann"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine Mumie flüstert",
+          "start" : 0,
+          "end" : 349240
+        },
+        {
+          "titel" : "Der Fluch des Ra-Orkon",
+          "start" : 349240,
+          "end" : 656547
+        },
+        {
+          "titel" : "Überall lauert Gefahr",
+          "start" : 656547,
+          "end" : 1042347
+        },
+        {
+          "titel" : "Eine gelungene Überraschung",
+          "start" : 1042347,
+          "end" : 1515027
+        },
+        {
+          "titel" : "Gefangen",
+          "start" : 1515027,
+          "end" : 1853280
+        },
+        {
+          "titel" : "Auf der Flucht",
+          "start" : 1853280,
+          "end" : 2163933
+        },
+        {
+          "titel" : "Viel zu viele Fragezeichen",
+          "start" : 2163933,
+          "end" : 2543333
+        },
+        {
+          "titel" : "Erstaunliches kommt an den Tag",
+          "start" : 2543333,
+          "end" : 3043693
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/010/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/010/ffmetadata.txt",

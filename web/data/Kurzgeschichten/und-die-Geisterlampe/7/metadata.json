@@ -1,0 +1,41 @@
+{
+  "teilNummer" : 7,
+  "titel" : "Das Lehrstück",
+  "autor" : "Kari Erlhoff",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Peters ehemalige Klavierlehrerin, Mrs. Floyd, engagiert die drei ???, um herauszufinden, wo ihre verstorbene Mutter ihr Erbe versteckt haben könnte …",
+  "veröffentlichungsdatum" : "2011-12-14",
+  "kapitel" : [
+    {
+      "titel" : "Das Lehrstück",
+      "start" : 0,
+      "end" : 749413
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mrs. Floyd",
+      "sprecher" : "Gabriele Libbach"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/7/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/7/ffmetadata.txt"
+  }
+}

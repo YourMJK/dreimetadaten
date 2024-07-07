@@ -101,10 +101,56 @@
       "sprecher" : "Gernot Endemann"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Anruf für die drei ???",
+          "start" : 0,
+          "end" : 314733
+        },
+        {
+          "titel" : "Zu Hilfe!",
+          "start" : 314733,
+          "end" : 709453
+        },
+        {
+          "titel" : "Dreipunkt taucht auf",
+          "start" : 709453,
+          "end" : 1031453
+        },
+        {
+          "titel" : "Ein Herr mit schwarzem Schnurrbart",
+          "start" : 1031453,
+          "end" : 1480747
+        },
+        {
+          "titel" : "Bob hat eine Erleuchtung",
+          "start" : 1480747,
+          "end" : 1801347
+        },
+        {
+          "titel" : "Mädchenstimme am Telefon",
+          "start" : 1801347,
+          "end" : 2141040
+        },
+        {
+          "titel" : "Des Rätsels Lösung",
+          "start" : 2141040,
+          "end" : 2547213
+        },
+        {
+          "titel" : "Gebt mir das feurige Auge",
+          "start" : 2547213,
+          "end" : 2960987
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/005/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/005/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/005/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/005/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/005/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/f5/4e/46/f54e4607-2ea1-d765-632e-8a1723d4ba61/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115152720if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/71/d2/32/0743213880525.jpg"

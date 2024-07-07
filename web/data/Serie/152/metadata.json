@@ -145,10 +145,76 @@
       "sprecher" : "Anton Sprick"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Auf der Flucht",
+          "start" : 0,
+          "end" : 508827
+        },
+        {
+          "titel" : "Erwischt",
+          "start" : 508827,
+          "end" : 708733
+        },
+        {
+          "titel" : "Gestohlene Kamera",
+          "start" : 708733,
+          "end" : 957680
+        },
+        {
+          "titel" : "Ein alter Fall",
+          "start" : 957680,
+          "end" : 1240053
+        },
+        {
+          "titel" : "Das Verhör",
+          "start" : 1240053,
+          "end" : 1685000
+        },
+        {
+          "titel" : "Niemandsland",
+          "start" : 1685000,
+          "end" : 2008773
+        },
+        {
+          "titel" : "Alles auf eine Karte",
+          "start" : 2008773,
+          "end" : 2365853
+        },
+        {
+          "titel" : "Verblüffung",
+          "start" : 2365853,
+          "end" : 2466347
+        },
+        {
+          "titel" : "Auf Hippie-Tour",
+          "start" : 2466347,
+          "end" : 2586800
+        },
+        {
+          "titel" : "Wiedersehen",
+          "start" : 2586800,
+          "end" : 2850880
+        },
+        {
+          "titel" : "Doppelagent",
+          "start" : 2850880,
+          "end" : 3027013
+        },
+        {
+          "titel" : "Fröhlich vereint",
+          "start" : 3027013,
+          "end" : 3374867
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/152/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/152/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/152/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/152/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/152/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music91/v4/17/66/cd/1766cd28-f935-f51e-c3a0-3d85edcc2555/source",
     "cover_kosmos" : "http://web.archive.org/web/20220123153402if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/65/42/16/0886979232228.jpg"

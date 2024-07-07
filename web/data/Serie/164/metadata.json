@@ -117,10 +117,66 @@
       "sprecher" : "Carsten Kausse"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Hooked Nose",
+          "start" : 0,
+          "end" : 432240
+        },
+        {
+          "titel" : "Alles schwarz",
+          "start" : 432240,
+          "end" : 872667
+        },
+        {
+          "titel" : "Wuhukini",
+          "start" : 872667,
+          "end" : 1086947
+        },
+        {
+          "titel" : "Pakt mit dem Teufel",
+          "start" : 1086947,
+          "end" : 1256627
+        },
+        {
+          "titel" : "Eine goldene Nase",
+          "start" : 1256627,
+          "end" : 1630533
+        },
+        {
+          "titel" : "Erinnerungslücken",
+          "start" : 1630533,
+          "end" : 2115453
+        },
+        {
+          "titel" : "Dunkle Stimmen",
+          "start" : 2115453,
+          "end" : 2399320
+        },
+        {
+          "titel" : "Der Tanz beginnt",
+          "start" : 2399320,
+          "end" : 2701827
+        },
+        {
+          "titel" : "Taub und blind",
+          "start" : 2701827,
+          "end" : 3813960
+        },
+        {
+          "titel" : "Ein würdiger Nachfolger",
+          "start" : 3813960,
+          "end" : 4125760
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/164/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/164/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/164/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/164/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/164/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/33/9d/82/339d82ac-5442-604b-98b5-8c9d7ebc130e/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180110if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/0c/4a/4b/0887254003427.jpg"

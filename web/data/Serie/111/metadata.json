@@ -143,10 +143,86 @@
       "sprecher" : "Georg Marquard"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Geisterburg",
+          "start" : 0,
+          "end" : 259413
+        },
+        {
+          "titel" : "Überraschung im Zug",
+          "start" : 259413,
+          "end" : 414053
+        },
+        {
+          "titel" : "Starke Nerven",
+          "start" : 414053,
+          "end" : 589720
+        },
+        {
+          "titel" : "Der Wilderer",
+          "start" : 589720,
+          "end" : 729853
+        },
+        {
+          "titel" : "Der schwarze Vogel",
+          "start" : 729853,
+          "end" : 1133507
+        },
+        {
+          "titel" : "Teufelsbraten mit Soße",
+          "start" : 1133507,
+          "end" : 1395400
+        },
+        {
+          "titel" : "Das pure Entsetzen",
+          "start" : 1395400,
+          "end" : 2091120
+        },
+        {
+          "titel" : "Bis ins kleinste Detail",
+          "start" : 2091120,
+          "end" : 2180373
+        },
+        {
+          "titel" : "Wo ist Blackeye?",
+          "start" : 2180373,
+          "end" : 2422107
+        },
+        {
+          "titel" : "Gespensterjäger",
+          "start" : 2422107,
+          "end" : 2669653
+        },
+        {
+          "titel" : "Von der Außenwelt abgeschnitten",
+          "start" : 2669653,
+          "end" : 2878160
+        },
+        {
+          "titel" : "Der schwarze Henker",
+          "start" : 2878160,
+          "end" : 3128000
+        },
+        {
+          "titel" : "Sprung über den Abgrund",
+          "start" : 3128000,
+          "end" : 3614813
+        },
+        {
+          "titel" : "Gut gemacht, Justus Jonas!",
+          "start" : 3614813,
+          "end" : 3906600
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/111/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/111/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/111/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/111/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/111/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/68/f8/bf/68f8bf4d-440e-082f-765c-6126b54cc158/source",
     "cover_kosmos" : "http://web.archive.org/web/20220124230855if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/13/cb/05/0743219911124.jpg"

@@ -90,6 +90,52 @@
       "sprecher" : "Reinhilt Schneider"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Das Ungeheuer aus dem Meer",
+          "start" : 0,
+          "end" : 397493
+        },
+        {
+          "titel" : "Ein merkwürdiges Haus",
+          "start" : 397493,
+          "end" : 778800
+        },
+        {
+          "titel" : "Erste Spuren",
+          "start" : 778800,
+          "end" : 1086893
+        },
+        {
+          "titel" : "Gespenstische Botschaft am Telefon",
+          "start" : 1086893,
+          "end" : 1353707
+        },
+        {
+          "titel" : "Alte Chronik – neue Spur",
+          "start" : 1353707,
+          "end" : 1650093
+        },
+        {
+          "titel" : "Ein Witzbold und sein Werk",
+          "start" : 1650093,
+          "end" : 2096147
+        },
+        {
+          "titel" : "Die Drachenjagd beginnt",
+          "start" : 2096147,
+          "end" : 2466947
+        },
+        {
+          "titel" : "Das Geheimnis des alten Tunnels",
+          "start" : 2466947,
+          "end" : 2721773
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/007/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/007/ffmetadata.txt",

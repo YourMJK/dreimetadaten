@@ -105,10 +105,56 @@
       "sprecher" : "Jona Mues"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Schuss!",
+          "start" : 0,
+          "end" : 729720
+        },
+        {
+          "titel" : "Sally Samson tobt",
+          "start" : 729720,
+          "end" : 1131773
+        },
+        {
+          "titel" : "Intrigen überall",
+          "start" : 1131773,
+          "end" : 1659947
+        },
+        {
+          "titel" : "Keine neue Spur",
+          "start" : 1659947,
+          "end" : 1978547
+        },
+        {
+          "titel" : "Justus Jonas jobt",
+          "start" : 1978547,
+          "end" : 2615013
+        },
+        {
+          "titel" : "Falsches Spiel",
+          "start" : 2615013,
+          "end" : 2926573
+        },
+        {
+          "titel" : "Eine böse Überraschung",
+          "start" : 2926573,
+          "end" : 3295413
+        },
+        {
+          "titel" : "Kurssturz",
+          "start" : 3295413,
+          "end" : 3784293
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/070/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/070/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/070/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/070/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/070/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/79/ca/7a/79ca7a9a-d60c-0ad2-2ce3-3958e43f83cc/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111212340if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d5/21/d3/0743213849423.jpg"

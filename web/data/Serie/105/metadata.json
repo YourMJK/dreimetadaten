@@ -89,10 +89,56 @@
       "sprecher" : "Hartmut Kollakowsky"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ruhestörung",
+          "start" : 0,
+          "end" : 570107
+        },
+        {
+          "titel" : "Das Phantom vom Nebelberg",
+          "start" : 570107,
+          "end" : 1464027
+        },
+        {
+          "titel" : "Gruselgeschichten",
+          "start" : 1464027,
+          "end" : 1910827
+        },
+        {
+          "titel" : "Das Grauen schlägt zu",
+          "start" : 1910827,
+          "end" : 2183413
+        },
+        {
+          "titel" : "Gold",
+          "start" : 2183413,
+          "end" : 2913453
+        },
+        {
+          "titel" : "Das Herz des Berges",
+          "start" : 2913453,
+          "end" : 3285293
+        },
+        {
+          "titel" : "Die Stunde der Wahrheit",
+          "start" : 3285293,
+          "end" : 3864213
+        },
+        {
+          "titel" : "Weckruf",
+          "start" : 3864213,
+          "end" : 4545293
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/105/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/105/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/105/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/105/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/105/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/ba/05/89/ba058927-670b-4dc5-15a2-07f53046018f/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180120if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/ec/25/e0/0743218755026.jpg"

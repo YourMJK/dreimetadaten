@@ -98,6 +98,52 @@
       "sprecher" : "Harald Pages"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Haltet den Dieb!",
+          "start" : 0,
+          "end" : 387133
+        },
+        {
+          "titel" : "Chiavos Fluch",
+          "start" : 387133,
+          "end" : 639960
+        },
+        {
+          "titel" : "Justus wittert ein Geheimnis",
+          "start" : 639960,
+          "end" : 916000
+        },
+        {
+          "titel" : "Spuk im Spiegel",
+          "start" : 916000,
+          "end" : 1268573
+        },
+        {
+          "titel" : "Ein rätselhafter Brief",
+          "start" : 1268573,
+          "end" : 1570680
+        },
+        {
+          "titel" : "Verräterisches Glockenspiel",
+          "start" : 1570680,
+          "end" : 1927947
+        },
+        {
+          "titel" : "Wettlauf gegen die Uhr",
+          "start" : 1927947,
+          "end" : 2204560
+        },
+        {
+          "titel" : "Der Spiegel gibt sein Geheimnis preis",
+          "start" : 2204560,
+          "end" : 2551347
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/016/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/016/ffmetadata.txt",

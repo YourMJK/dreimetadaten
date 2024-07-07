@@ -113,10 +113,56 @@
       "sprecher" : "Stefan Weißenburger"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Wege des Schicksals",
+          "start" : 0,
+          "end" : 584507
+        },
+        {
+          "titel" : "Reise ins Ungewisse",
+          "start" : 584507,
+          "end" : 963227
+        },
+        {
+          "titel" : "Das Tal der Klapperschlangen",
+          "start" : 963227,
+          "end" : 1622947
+        },
+        {
+          "titel" : "Nacht des Grauens",
+          "start" : 1622947,
+          "end" : 1993547
+        },
+        {
+          "titel" : "In der Gewalt des Geistes",
+          "start" : 1993547,
+          "end" : 2606293
+        },
+        {
+          "titel" : "Ein grauenhafter Fund",
+          "start" : 2606293,
+          "end" : 2815507
+        },
+        {
+          "titel" : "Straßensperre",
+          "start" : 2815507,
+          "end" : 3608627
+        },
+        {
+          "titel" : "Shakehands",
+          "start" : 3608627,
+          "end" : 4297960
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/179/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/179/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/179/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/179/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/179/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music69/v4/98/fc/fd/98fcfd62-42ca-9167-6c85-fdc51d4c05a7/source",
     "cover_kosmos" : "http://web.archive.org/web/20211227022641if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/2b/b4/d4/0888430093829.jpg"

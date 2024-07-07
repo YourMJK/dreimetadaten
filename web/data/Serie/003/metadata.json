@@ -104,6 +104,52 @@
       "sprecher" : "Rolf Mamero"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Es spukt bei Mr. Prentice",
+          "start" : 0,
+          "end" : 267507
+        },
+        {
+          "titel" : "Die Paste mit der Zauberkraft",
+          "start" : 267507,
+          "end" : 573387
+        },
+        {
+          "titel" : "Verräterische Flecken",
+          "start" : 573387,
+          "end" : 1003627
+        },
+        {
+          "titel" : "Licht in der Kirche",
+          "start" : 1003627,
+          "end" : 1358413
+        },
+        {
+          "titel" : "Diagnose: Vergiftung",
+          "start" : 1358413,
+          "end" : 1817307
+        },
+        {
+          "titel" : "Es knallt!",
+          "start" : 1817307,
+          "end" : 2021613
+        },
+        {
+          "titel" : "Es brennt!",
+          "start" : 2021613,
+          "end" : 2425933
+        },
+        {
+          "titel" : "Ein perfektes Alibi",
+          "start" : 2425933,
+          "end" : 2748440
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/003/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/003/ffmetadata.txt",

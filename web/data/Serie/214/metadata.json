@@ -99,10 +99,46 @@
       "sprecher" : "Barbara Schipper"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Neue Fälle stapelweise",
+          "start" : 0,
+          "end" : 656000
+        },
+        {
+          "titel" : "Geisterstimmen",
+          "start" : 656000,
+          "end" : 1042987
+        },
+        {
+          "titel" : "Die Enttarnung",
+          "start" : 1042987,
+          "end" : 1644973
+        },
+        {
+          "titel" : "Justus' Trick",
+          "start" : 1644973,
+          "end" : 2402027
+        },
+        {
+          "titel" : "Die Insel des Todes",
+          "start" : 2402027,
+          "end" : 3456947
+        },
+        {
+          "titel" : "Verhaftet",
+          "start" : 3456947,
+          "end" : 3938600
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/214/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/214/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/214/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/214/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/214/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music126/v4/0f/7e/db/0f7edb85-4817-c615-bf6d-a767ed3b0536/source"
   }

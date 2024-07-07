@@ -111,10 +111,66 @@
       "sprecher" : "Lutz Mackensy"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der einzige Zeuge",
+          "start" : 0,
+          "end" : 197480
+        },
+        {
+          "titel" : "Das Dunkelhaus",
+          "start" : 197480,
+          "end" : 588307
+        },
+        {
+          "titel" : "Bei Tageslicht",
+          "start" : 588307,
+          "end" : 1443960
+        },
+        {
+          "titel" : "In der Dämmerung",
+          "start" : 1443960,
+          "end" : 1644800
+        },
+        {
+          "titel" : "Monsternacht",
+          "start" : 1644800,
+          "end" : 2412000
+        },
+        {
+          "titel" : "Im Kleiderschrank",
+          "start" : 2412000,
+          "end" : 2609013
+        },
+        {
+          "titel" : "Die Trinität der Geist-Vögel",
+          "start" : 2609013,
+          "end" : 3006667
+        },
+        {
+          "titel" : "Der Fluch des Harpuniers",
+          "start" : 3006667,
+          "end" : 3340213
+        },
+        {
+          "titel" : "Hinterhalt",
+          "start" : 3340213,
+          "end" : 3654787
+        },
+        {
+          "titel" : "Die große Versammlung",
+          "start" : 3654787,
+          "end" : 4225213
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/173/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/173/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/173/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/173/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/173/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music122/v4/2b/a1/4d/2ba14d6b-6af1-15a0-d11f-c86a18e840e4/source",
     "cover_kosmos" : "http://web.archive.org/web/20220123153346if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/82/39/c1/0888430093126.jpg"

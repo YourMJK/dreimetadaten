@@ -143,10 +143,66 @@
       "sprecher" : "Toru Takahashi"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Mann im Meer",
+          "start" : 0,
+          "end" : 221320
+        },
+        {
+          "titel" : "Der Schrecken der sieben Meere",
+          "start" : 221320,
+          "end" : 1045053
+        },
+        {
+          "titel" : "Jimmy Blue Eye",
+          "start" : 1045053,
+          "end" : 1306560
+        },
+        {
+          "titel" : "Das Schicksal der Kassiopeia",
+          "start" : 1306560,
+          "end" : 1877720
+        },
+        {
+          "titel" : "Irrungen und Wirrungen",
+          "start" : 1877720,
+          "end" : 2146853
+        },
+        {
+          "titel" : "Das Grauen im Nebel",
+          "start" : 2146853,
+          "end" : 2490933
+        },
+        {
+          "titel" : "Abrahams Geheimnis",
+          "start" : 2490933,
+          "end" : 2769427
+        },
+        {
+          "titel" : "Schreiende Schatten",
+          "start" : 2769427,
+          "end" : 3215067
+        },
+        {
+          "titel" : "Bodycheck",
+          "start" : 3215067,
+          "end" : 3607467
+        },
+        {
+          "titel" : "Tod im Spiegel",
+          "start" : 3607467,
+          "end" : 4040853
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/171/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/171/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/171/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/171/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/171/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/0a/af/6d/0aaf6d4b-9bd2-2cdb-34f4-e25e3f42d67a/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115045237if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a1/45/0d/0888430092921.jpg"

@@ -112,10 +112,56 @@
       "sprecher" : "Jens Herrndorff"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Dichter Nebel",
+          "start" : 0,
+          "end" : 609480
+        },
+        {
+          "titel" : "Studioluft",
+          "start" : 609480,
+          "end" : 1202053
+        },
+        {
+          "titel" : "Mythen und Rituale",
+          "start" : 1202053,
+          "end" : 1702747
+        },
+        {
+          "titel" : "Fotosession",
+          "start" : 1702747,
+          "end" : 2307147
+        },
+        {
+          "titel" : "Weichgekocht",
+          "start" : 2307147,
+          "end" : 2974147
+        },
+        {
+          "titel" : "70:30",
+          "start" : 2974147,
+          "end" : 3566467
+        },
+        {
+          "titel" : "In der Puppenwerkstatt",
+          "start" : 3566467,
+          "end" : 4095200
+        },
+        {
+          "titel" : "Showdown",
+          "start" : 4095200,
+          "end" : 4612307
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/079/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/079/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/079/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/079/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/079/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/64/00/05/640005b4-5953-5a61-7bed-bf890128b4d1/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115045241if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c7/0b/ef/0743215476122.jpg"

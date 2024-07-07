@@ -2,7 +2,10 @@
   "teilNummer" : 3,
   "buchstabe" : "C",
   "titel" : "Der Fluch der Gräber",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Eine Bombendrohung, Raketenköpfe und den Tod vor Augen zu haben, bringen nicht nur den ängstlichen Zweiten Detektiv gehörig ins Schwitzen.\n\"Makatao\", die Toteninsel, entpuppt sich als eine gefährliche Falle.\nEin nervenaufreibender Wettlauf mit der Zeit beginnt …",
+  "veröffentlichungsdatum" : "2001-10-15",
   "kapitel" : [
     {
       "titel" : "Verdeckte Fouls",
@@ -87,7 +90,6 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/100/3/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/3/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/100/3/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/3/ffmetadata.txt"
   }
 }

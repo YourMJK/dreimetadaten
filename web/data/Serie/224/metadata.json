@@ -98,10 +98,56 @@
       "sprecher" : "Heidi Berndt"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Tokoloshe",
+          "start" : 0,
+          "end" : 543227
+        },
+        {
+          "titel" : "Die Vodoo-Frau",
+          "start" : 543227,
+          "end" : 1058413
+        },
+        {
+          "titel" : "Ein gefährlicher Plan",
+          "start" : 1058413,
+          "end" : 1532147
+        },
+        {
+          "titel" : "Mission Peter",
+          "start" : 1532147,
+          "end" : 1919067
+        },
+        {
+          "titel" : "An Bord",
+          "start" : 1919067,
+          "end" : 2564413
+        },
+        {
+          "titel" : "Leinen los!",
+          "start" : 2564413,
+          "end" : 3009173
+        },
+        {
+          "titel" : "Mann über Bord!",
+          "start" : 3009173,
+          "end" : 3630933
+        },
+        {
+          "titel" : "Enttarnt",
+          "start" : 3630933,
+          "end" : 4363613
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/224/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/224/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/224/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/224/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/224/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music116/v4/1a/1d/2d/1a1d2d8a-eb6e-8d6b-3eaa-2fb8d0817c65/196871057400.jpg"
   }

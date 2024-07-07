@@ -166,10 +166,101 @@
       "sprecher" : "Wolf Pahlke"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Verschwunden",
+          "start" : 0,
+          "end" : 244173
+        },
+        {
+          "titel" : "Das Rätsel der Sphinx",
+          "start" : 244173,
+          "end" : 933920
+        },
+        {
+          "titel" : "Widerstand zwecklos",
+          "start" : 933920,
+          "end" : 1119773
+        },
+        {
+          "titel" : "Kamele",
+          "start" : 1119773,
+          "end" : 1292387
+        },
+        {
+          "titel" : "In der Grabanlage",
+          "start" : 1292387,
+          "end" : 1551613
+        },
+        {
+          "titel" : "Handelseinig",
+          "start" : 1551613,
+          "end" : 1644307
+        },
+        {
+          "titel" : "Sonderbare Gravur",
+          "start" : 1644307,
+          "end" : 2129547
+        },
+        {
+          "titel" : "Verfolgt",
+          "start" : 2129547,
+          "end" : 2380267
+        },
+        {
+          "titel" : "Arabische Zeichen",
+          "start" : 2380267,
+          "end" : 2622853
+        },
+        {
+          "titel" : "Entführt",
+          "start" : 2622853,
+          "end" : 2793120
+        },
+        {
+          "titel" : "SMS aus dem Grab",
+          "start" : 2793120,
+          "end" : 2903520
+        },
+        {
+          "titel" : "Angriff",
+          "start" : 2903520,
+          "end" : 3115373
+        },
+        {
+          "titel" : "Die Königin der Weisheit",
+          "start" : 3115373,
+          "end" : 3554533
+        },
+        {
+          "titel" : "Verschleiert",
+          "start" : 3554533,
+          "end" : 3838733
+        },
+        {
+          "titel" : "Im Sendebereich",
+          "start" : 3838733,
+          "end" : 4066787
+        },
+        {
+          "titel" : "Betäubt",
+          "start" : 4066787,
+          "end" : 4501560
+        },
+        {
+          "titel" : "Letzte Fragen",
+          "start" : 4501560,
+          "end" : 4734387
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/129/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/129/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/129/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/129/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/129/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/cd/cc/1b/cdcc1bb9-6ff9-1d92-336d-6f96fa8ea925/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111023012if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/5f/3f/bb/0828766712926.jpg"

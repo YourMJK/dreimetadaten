@@ -86,10 +86,61 @@
       "sprecher" : "Hans Sievers"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die sieben Tore",
+          "start" : 0,
+          "end" : 539480
+        },
+        {
+          "titel" : "Ein seltsamer Zeitgenosse",
+          "start" : 539480,
+          "end" : 674560
+        },
+        {
+          "titel" : "Nächtliche Begegnung",
+          "start" : 674560,
+          "end" : 1356613
+        },
+        {
+          "titel" : "Der Brief",
+          "start" : 1356613,
+          "end" : 1731560
+        },
+        {
+          "titel" : "Rhetorische Meisterleistung",
+          "start" : 1731560,
+          "end" : 1882267
+        },
+        {
+          "titel" : "Labiler Zustand",
+          "start" : 1882267,
+          "end" : 2568960
+        },
+        {
+          "titel" : "Der heilige Skarabäus",
+          "start" : 2568960,
+          "end" : 3012053
+        },
+        {
+          "titel" : "Soo-Ann",
+          "start" : 3012053,
+          "end" : 3290867
+        },
+        {
+          "titel" : "Erinnerung",
+          "start" : 3290867,
+          "end" : 4004480
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/108/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/108/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/108/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/108/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/108/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/a0/a0/9b/a0a09bed-8652-3b39-03ce-479a4800718f/source",
     "cover_kosmos" : "http://web.archive.org/web/20211231145709if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/40/7b/74/0743219432728.jpg"

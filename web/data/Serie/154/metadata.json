@@ -163,10 +163,81 @@
       "sprecher" : "Leonhard Mahlich"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der zweite Blutfleck",
+          "start" : 0,
+          "end" : 340773
+        },
+        {
+          "titel" : "Der vornehme Klient",
+          "start" : 340773,
+          "end" : 957333
+        },
+        {
+          "titel" : "Die drei Studenten",
+          "start" : 957333,
+          "end" : 1267933
+        },
+        {
+          "titel" : "Der blaue Karfunkel",
+          "start" : 1267933,
+          "end" : 1477560
+        },
+        {
+          "titel" : "Abgehört",
+          "start" : 1477560,
+          "end" : 1593800
+        },
+        {
+          "titel" : "Eine sichere Telefonzelle",
+          "start" : 1593800,
+          "end" : 1761707
+        },
+        {
+          "titel" : "Charles August Milverton",
+          "start" : 1761707,
+          "end" : 2243013
+        },
+        {
+          "titel" : "Das leere Haus",
+          "start" : 2243013,
+          "end" : 2392533
+        },
+        {
+          "titel" : "Eine Frage der Identität",
+          "start" : 2392533,
+          "end" : 2675667
+        },
+        {
+          "titel" : "Bingo!",
+          "start" : 2675667,
+          "end" : 2860093
+        },
+        {
+          "titel" : "Ein umwerfendes Buch",
+          "start" : 2860093,
+          "end" : 3207253
+        },
+        {
+          "titel" : "Der schwarze Peter",
+          "start" : 3207253,
+          "end" : 3475413
+        },
+        {
+          "titel" : "Das letzte Phantom",
+          "start" : 3475413,
+          "end" : 4238587
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/154/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/154/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/154/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/154/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/154/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/49/f1/6f/49f16f75-7f72-cb50-eecd-ad4436498728/source",
     "cover_kosmos" : "http://web.archive.org/web/20220106180919if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d2/9a/16/0886979232426.jpg"

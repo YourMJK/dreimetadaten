@@ -1,266 +1,75 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 4,
-      "titel" : "Leaving Nineteen Sixty-four",
-      "autor" : "Ben Nevis",
-      "beschreibung" : "Professor Selby hat die drei ??? auf eine Reise durch die Zeit geschickt – nun müssen sie ein Rätsel lösen, um zurückzukehren.",
-      "kapitel" : [
-        {
-          "titel" : "Überraschung",
-          "start" : 0,
-          "end" : 477000
-        },
-        {
-          "titel" : "Ein schlechter Scherz",
-          "start" : 477000,
-          "end" : 991520
-        },
-        {
-          "titel" : "Ein Ass im Ärmel",
-          "start" : 991520,
-          "end" : 1748867
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Onkel Titus",
-          "sprecher" : "Andreas E. Beurmann",
-          "pseudonym" : "Hans Meinhardt"
-        },
-        {
-          "rolle" : "Tante Mathilda",
-          "sprecher" : "Karin Lieneweg"
-        },
-        {
-          "rolle" : "Professor Selby",
-          "sprecher" : "Claus Wilcke"
-        },
-        {
-          "rolle" : "Oberpriesterin",
-          "sprecher" : "Elga Schütz"
-        },
-        {
-          "rolle" : "Kevin",
-          "sprecher" : "Patrick Mölleken"
-        },
-        {
-          "rolle" : "Mann in Kutte",
-          "sprecher" : "Rüdiger Hellmann"
-        },
-        {
-          "rolle" : "Radio",
-          "sprecher" : "Wilhelm Wieben"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/4/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/4/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 5,
-      "titel" : "Rückwärtsgang",
-      "autor" : "André Marx",
-      "beschreibung" : "In diesem rätselhaften Fall scheint die Zeit aus den Fugen geraten zu sein – mal geht es vorwärts, dann wieder zurück!",
-      "kapitel" : [
-        {
-          "titel" : "Jetzt",
-          "start" : 0,
-          "end" : 563586
-        },
-        {
-          "titel" : "Die Aufzeichnung",
-          "start" : 563586,
-          "end" : 953986
-        },
-        {
-          "titel" : "Vorwärts",
-          "start" : 953986,
-          "end" : 1136386
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Mr. Tilton",
-          "sprecher" : "Christian Senger"
-        },
-        {
-          "rolle" : "Mr. Walsh",
-          "sprecher" : "Christian Rudolf"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/5/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/5/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 6,
-      "titel" : "Zeit der Opfer, Zeit der Wunder",
-      "autor" : "Christoph Dittert, Kari Erlhoff",
-      "beschreibung" : "Eigentlich geht es nur um ein Literaturprojekt für die Schule – doch mit den drei ??? wird auch das schnell zu einem Abenteuer …",
-      "kapitel" : [
-        {
-          "titel" : "Die richtige Perspektive",
-          "start" : 0,
-          "end" : 524827
-        },
-        {
-          "titel" : "Die nächste Stufe",
-          "start" : 524827,
-          "end" : 964467
-        },
-        {
-          "titel" : "Einfach galaktisch!",
-          "start" : 964467,
-          "end" : 1413600
-        },
-        {
-          "titel" : "Objekt der Begierde",
-          "start" : 1413600,
-          "end" : 1684120
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Weise Frau",
-          "sprecher" : "Dorothea Hagena"
-        },
-        {
-          "rolle" : "Kelly",
-          "sprecher" : "Juliane Szalay"
-        },
-        {
-          "rolle" : "Patrick",
-          "sprecher" : "Nicolas König"
-        },
-        {
-          "rolle" : "Samuel",
-          "sprecher" : "Johannes Semm"
-        },
-        {
-          "rolle" : "Kenneth",
-          "sprecher" : "Olaf Reichmann"
-        },
-        {
-          "rolle" : "Liz Zapata",
-          "sprecher" : "Merete Brettschneider"
-        },
-        {
-          "rolle" : "Skinny Norris",
-          "sprecher" : "Michael Harck"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/6/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/6/ffmetadata.txt"
-      }
-    }
-  ],
   "teilNummer" : 2,
+  "titel" : "Der Raub der Zehntausend",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Beim Ausliefern einer Standuhr geraten die drei Detektive mitten in einen Kriminalfall, der äußerst explosiv enden könnte …",
+  "veröffentlichungsdatum" : "2016-03-04",
   "kapitel" : [
     {
-      "titel" : "Leaving Nineteen Sixty-four – Überraschung",
+      "titel" : "Der absolute Hammer",
       "start" : 0,
-      "end" : 477000
+      "end" : 193827
     },
     {
-      "titel" : "Leaving Nineteen Sixty-four – Ein schlechter Scherz",
-      "start" : 477000,
-      "end" : 991520
+      "titel" : "Die Botschaft",
+      "start" : 193827,
+      "end" : 823293
     },
     {
-      "titel" : "Leaving Nineteen Sixty-four – Ein Ass im Ärmel",
-      "start" : 991520,
-      "end" : 1748867
+      "titel" : "Ablenkungsmanöver",
+      "start" : 823293,
+      "end" : 1198507
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
     },
     {
-      "titel" : "Rückwärtsgang – Jetzt",
-      "start" : 1748867,
-      "end" : 2312453
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
     },
     {
-      "titel" : "Rückwärtsgang – Die Aufzeichnung",
-      "start" : 2312453,
-      "end" : 2702853
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
     },
     {
-      "titel" : "Rückwärtsgang – Vorwärts",
-      "start" : 2702853,
-      "end" : 2885253
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
     },
     {
-      "titel" : "Zeit der Opfer, Zeit der Wunder – Die richtige Perspektive",
-      "start" : 2885253,
-      "end" : 3410080
+      "rolle" : "Nancy McMonigal",
+      "sprecher" : "Gerlinde Dillge"
     },
     {
-      "titel" : "Zeit der Opfer, Zeit der Wunder – Die nächste Stufe",
-      "start" : 3410080,
-      "end" : 3849720
+      "rolle" : "Tom",
+      "sprecher" : "Wolfgang Rositzka"
     },
     {
-      "titel" : "Zeit der Opfer, Zeit der Wunder – Einfach galaktisch!",
-      "start" : 3849720,
-      "end" : 4298853
+      "rolle" : "Rod",
+      "sprecher" : "Herbert Tennigkeit"
     },
     {
-      "titel" : "Zeit der Opfer, Zeit der Wunder – Objekt der Begierde",
-      "start" : 4298853,
-      "end" : 4569373
+      "rolle" : "Joe",
+      "sprecher" : "Olaf Reichmann"
+    },
+    {
+      "rolle" : "Ben",
+      "sprecher" : "Stephan Chrzescinski"
+    },
+    {
+      "rolle" : "Mariann",
+      "sprecher" : "Simone Ritscher"
+    },
+    {
+      "rolle" : "TV-Sprecher",
+      "sprecher" : "Holger Wemhoff"
     }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/metadata.json",
-    "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/ffmetadata.txt"
   }
 }

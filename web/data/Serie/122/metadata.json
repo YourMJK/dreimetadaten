@@ -106,10 +106,61 @@
       "sprecher" : "Lou Wong"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Kein Platz mehr frei!",
+          "start" : 0,
+          "end" : 480747
+        },
+        {
+          "titel" : "Entgleist?",
+          "start" : 480747,
+          "end" : 1122253
+        },
+        {
+          "titel" : "Wertvolles Indiz",
+          "start" : 1122253,
+          "end" : 1727947
+        },
+        {
+          "titel" : "In der Sackgasse",
+          "start" : 1727947,
+          "end" : 2005133
+        },
+        {
+          "titel" : "Der \"Chinesentunnel\"",
+          "start" : 2005133,
+          "end" : 2511933
+        },
+        {
+          "titel" : "Durchleuchtete Puppen",
+          "start" : 2511933,
+          "end" : 2967387
+        },
+        {
+          "titel" : "Arg konstruiert",
+          "start" : 2967387,
+          "end" : 3091427
+        },
+        {
+          "titel" : "Hände hoch!",
+          "start" : 3091427,
+          "end" : 3413960
+        },
+        {
+          "titel" : "Gold!",
+          "start" : 3413960,
+          "end" : 3494760
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/122/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/122/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/122/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/122/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/122/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/72/b5/d1/72b5d183-da92-8f34-e181-4abd6a0d6f7c/source",
     "cover_kosmos" : "http://web.archive.org/web/20220124230912if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/8d/86/3f/0828766712223.jpg"

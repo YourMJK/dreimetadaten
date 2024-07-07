@@ -106,10 +106,61 @@
       "sprecher" : "Roman Kretschmer"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Marriott's Island",
+          "start" : 0,
+          "end" : 349787
+        },
+        {
+          "titel" : "Das Haus der Geister",
+          "start" : 349787,
+          "end" : 1003653
+        },
+        {
+          "titel" : "Der Mörder geht um",
+          "start" : 1003653,
+          "end" : 1564200
+        },
+        {
+          "titel" : "Das Fenster im Boden",
+          "start" : 1564200,
+          "end" : 2588227
+        },
+        {
+          "titel" : "Schritte in der Wand",
+          "start" : 2588227,
+          "end" : 2877213
+        },
+        {
+          "titel" : "Das Archiv",
+          "start" : 2877213,
+          "end" : 3237933
+        },
+        {
+          "titel" : "Es stinkt",
+          "start" : 3237933,
+          "end" : 3557200
+        },
+        {
+          "titel" : "Bericht aus der Hölle",
+          "start" : 3557200,
+          "end" : 3882493
+        },
+        {
+          "titel" : "Das Spiel ist aus",
+          "start" : 3882493,
+          "end" : 4242960
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/131/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/131/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/131/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/131/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/131/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/b1/bf/16/b1bf1613-b6e4-363f-9d68-56d2122f7ea1/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115135346if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/64/e8/5f/0886974413127.jpg"

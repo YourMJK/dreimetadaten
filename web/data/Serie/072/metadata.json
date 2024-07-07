@@ -113,10 +113,56 @@
       "sprecher" : "Susan Jarling"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Bauklötze beschlagnahmt",
+          "start" : 0,
+          "end" : 582867
+        },
+        {
+          "titel" : "Ein geheimnisvoller Tipp",
+          "start" : 582867,
+          "end" : 1202640
+        },
+        {
+          "titel" : "Verwüstung mit System",
+          "start" : 1202640,
+          "end" : 1564107
+        },
+        {
+          "titel" : "Fettige Marmeladengläser",
+          "start" : 1564107,
+          "end" : 1886947
+        },
+        {
+          "titel" : "Hester hofft auf Hilfe",
+          "start" : 1886947,
+          "end" : 2192213
+        },
+        {
+          "titel" : "Hakuna matata",
+          "start" : 2192213,
+          "end" : 2437733
+        },
+        {
+          "titel" : "Malcolm, der Rebell",
+          "start" : 2437733,
+          "end" : 3014147
+        },
+        {
+          "titel" : "Lauras letzte Chance",
+          "start" : 3014147,
+          "end" : 3477893
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/072/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/072/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/072/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/072/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/072/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/4a/0d/a0/4a0da044-0a16-4d61-5692-2891bc19dfb0/source",
     "cover_kosmos" : "http://web.archive.org/web/20220123153418if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b5/eb/3c/0743213849720.jpg"

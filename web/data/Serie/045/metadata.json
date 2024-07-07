@@ -104,6 +104,52 @@
       "sprecher" : "Ursula Vogel"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Von Wikingern und Indianern",
+          "start" : 0,
+          "end" : 363960
+        },
+        {
+          "titel" : "Unter Tränen",
+          "start" : 363960,
+          "end" : 780533
+        },
+        {
+          "titel" : "Tätowierte Jungfrau",
+          "start" : 780533,
+          "end" : 1099573
+        },
+        {
+          "titel" : "Kapitän aus grauer Vorzeit",
+          "start" : 1099573,
+          "end" : 1423587
+        },
+        {
+          "titel" : "Geistergestalten und Wölfe",
+          "start" : 1423587,
+          "end" : 1736333
+        },
+        {
+          "titel" : "Lichtsignale im Nebel",
+          "start" : 1736333,
+          "end" : 2050573
+        },
+        {
+          "titel" : "Zerfetzte Jacke",
+          "start" : 2050573,
+          "end" : 2424400
+        },
+        {
+          "titel" : "Eiskalter Betrug",
+          "start" : 2424400,
+          "end" : 2827347
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/045/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/045/ffmetadata.txt",

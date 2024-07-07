@@ -1,94 +1,4 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "kapitel" : [
-        {
-          "titel" : "Ein Hilferuf",
-          "start" : 0,
-          "end" : 557187
-        },
-        {
-          "titel" : "Errare humanum est",
-          "start" : 557187,
-          "end" : 1134733
-        },
-        {
-          "titel" : "Ist Sherlock Holmes zuhause?",
-          "start" : 1134733,
-          "end" : 1352707
-        },
-        {
-          "titel" : "Die Telefonlawine",
-          "start" : 1352707,
-          "end" : 2080920
-        },
-        {
-          "titel" : "Blackbeard",
-          "start" : 2080920,
-          "end" : 2426173
-        },
-        {
-          "titel" : "Ein spezial gelagerter Sonderfall",
-          "start" : 2426173,
-          "end" : 2677653
-        },
-        {
-          "titel" : "Sterbenskrank",
-          "start" : 2677653,
-          "end" : 2921387
-        },
-        {
-          "titel" : "Skinny Norris",
-          "start" : 2921387,
-          "end" : 3178987
-        },
-        {
-          "titel" : "Robin Hood",
-          "start" : 3178987,
-          "end" : 3418440
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/1/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/1/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "kapitel" : [
-        {
-          "titel" : "Ein gerissener Kunstdieb",
-          "start" : 0,
-          "end" : 692667
-        },
-        {
-          "titel" : "Al Capone",
-          "start" : 692667,
-          "end" : 978747
-        },
-        {
-          "titel" : "Baker Street in London",
-          "start" : 978747,
-          "end" : 1177880
-        },
-        {
-          "titel" : "Auf dem Friedhof",
-          "start" : 1177880,
-          "end" : 1809400
-        },
-        {
-          "titel" : "Wo sind die Papageien?",
-          "start" : 1809400,
-          "end" : 1981684
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/2/rip_log.txt"
-      }
-    }
-  ],
   "titel" : "und der Super-Papagei 2004",
   "autor" : "Robert Arthur",
   "hörspielskriptautor" : "André Minninger",
@@ -227,6 +137,88 @@
     {
       "rolle" : "Senora",
       "sprecher" : "Barbara Benuel"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Hilferuf",
+          "start" : 0,
+          "end" : 557187
+        },
+        {
+          "titel" : "Errare humanum est",
+          "start" : 557187,
+          "end" : 1134733
+        },
+        {
+          "titel" : "Ist Sherlock Holmes zuhause?",
+          "start" : 1134733,
+          "end" : 1352707
+        },
+        {
+          "titel" : "Die Telefonlawine",
+          "start" : 1352707,
+          "end" : 2080920
+        },
+        {
+          "titel" : "Blackbeard",
+          "start" : 2080920,
+          "end" : 2426173
+        },
+        {
+          "titel" : "Ein spezial gelagerter Sonderfall",
+          "start" : 2426173,
+          "end" : 2677653
+        },
+        {
+          "titel" : "Sterbenskrank",
+          "start" : 2677653,
+          "end" : 2921387
+        },
+        {
+          "titel" : "Skinny Norris",
+          "start" : 2921387,
+          "end" : 3178987
+        },
+        {
+          "titel" : "Robin Hood",
+          "start" : 3178987,
+          "end" : 3418440
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein gerissener Kunstdieb",
+          "start" : 0,
+          "end" : 692667
+        },
+        {
+          "titel" : "Al Capone",
+          "start" : 692667,
+          "end" : 978747
+        },
+        {
+          "titel" : "Baker Street in London",
+          "start" : 978747,
+          "end" : 1177880
+        },
+        {
+          "titel" : "Auf dem Friedhof",
+          "start" : 1177880,
+          "end" : 1809400
+        },
+        {
+          "titel" : "Wo sind die Papageien?",
+          "start" : 1809400,
+          "end" : 1981684
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/rip_log2.txt"
     }
   ],
   "links" : {

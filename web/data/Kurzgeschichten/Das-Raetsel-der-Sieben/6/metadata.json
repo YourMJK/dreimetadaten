@@ -1,0 +1,64 @@
+{
+  "teilNummer" : 6,
+  "titel" : "Die siebte Frau des Leuchters",
+  "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "\"Mein Name ist Nayeli. Und ich bin ein Dieb!\" Der junge Mann, der bei den drei Detektiven auf dem Schrottplatz auftaucht, zieht einen antiken Kerzenhalter aus seinem Rucksack und erzählt dazu eine seltsame Geschichte. Doch wer ist der Fremde, der urplötzlich auftaucht und Nayeli dann in die Flucht schlägt? Unversehens geraten Justus, Bob und Peter in große Gefahr …",
+  "veröffentlichungsdatum" : "2014-02-21",
+  "kapitel" : [
+    {
+      "titel" : "Böse Macht im Grab",
+      "start" : 0,
+      "end" : 285107
+    },
+    {
+      "titel" : "Auf dem Geisterschiff",
+      "start" : 285107,
+      "end" : 629667
+    },
+    {
+      "titel" : "Freier Wille",
+      "start" : 629667,
+      "end" : 1409027
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Nayeli",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Barker",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Off-Sprecherin",
+      "sprecher" : "Claudia Stocksieker"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/6/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/6/ffmetadata.txt"
+  }
+}

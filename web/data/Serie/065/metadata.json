@@ -113,10 +113,56 @@
       "sprecher" : "Veronika Neugebauer"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Gefangen!",
+          "start" : 0,
+          "end" : 358187
+        },
+        {
+          "titel" : "Die ewigen Jagdgründe",
+          "start" : 358187,
+          "end" : 882280
+        },
+        {
+          "titel" : "Beim Lügen ertappt",
+          "start" : 882280,
+          "end" : 1491027
+        },
+        {
+          "titel" : "Ungebetener Besuch",
+          "start" : 1491027,
+          "end" : 1786093
+        },
+        {
+          "titel" : "Schritte ins Nichts",
+          "start" : 1786093,
+          "end" : 2267360
+        },
+        {
+          "titel" : "Endstation Europa",
+          "start" : 2267360,
+          "end" : 2636493
+        },
+        {
+          "titel" : "Kommissar Zufall",
+          "start" : 2636493,
+          "end" : 2963173
+        },
+        {
+          "titel" : "Eiskalt erwischt",
+          "start" : 2963173,
+          "end" : 3579173
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/065/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/065/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/065/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/065/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/065/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/1a/1d/aa/1a1daabb-d03d-b221-8a11-21b72acb7f45/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115135412if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/05/8b/b6/0743213131528.jpg"

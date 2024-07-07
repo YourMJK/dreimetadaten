@@ -101,10 +101,56 @@
       "sprecher" : "Renate Pichler"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine Leiche im Sessel",
+          "start" : 0,
+          "end" : 397987
+        },
+        {
+          "titel" : "Bianca",
+          "start" : 397987,
+          "end" : 892067
+        },
+        {
+          "titel" : "In einer anderen Welt",
+          "start" : 892067,
+          "end" : 1160013
+        },
+        {
+          "titel" : "Im dunklen Nirgendwo",
+          "start" : 1160013,
+          "end" : 2146773
+        },
+        {
+          "titel" : "Tote Augen",
+          "start" : 2146773,
+          "end" : 2489973
+        },
+        {
+          "titel" : "Aus drei mach eins",
+          "start" : 2489973,
+          "end" : 2952200
+        },
+        {
+          "titel" : "Sicheres Todesurteil",
+          "start" : 2952200,
+          "end" : 3273373
+        },
+        {
+          "titel" : "Die 7. Zeugin",
+          "start" : 3273373,
+          "end" : 4667840
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/180/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/180/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/180/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/180/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/180/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music49/v4/58/d1/08/58d10887-deb4-9900-0d2e-afa745b2fb57/source",
     "cover_kosmos" : "http://web.archive.org/web/20211231145703if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/54/6b/c5/0888430093928.jpg"

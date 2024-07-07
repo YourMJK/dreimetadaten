@@ -136,10 +136,51 @@
       "sprecher" : "Hugo Richert"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Notruf",
+          "start" : 0,
+          "end" : 426840
+        },
+        {
+          "titel" : "Eine erste Spur",
+          "start" : 426840,
+          "end" : 913093
+        },
+        {
+          "titel" : "Fahrt in die Hölle",
+          "start" : 913093,
+          "end" : 1609107
+        },
+        {
+          "titel" : "Schreckensbilder",
+          "start" : 1609107,
+          "end" : 2690160
+        },
+        {
+          "titel" : "Schuldig",
+          "start" : 2690160,
+          "end" : 3062493
+        },
+        {
+          "titel" : "Jagd auf Geister",
+          "start" : 3062493,
+          "end" : 4192173
+        },
+        {
+          "titel" : "Aber logo!",
+          "start" : 4192173,
+          "end" : 4546493
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/182/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/182/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/182/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/182/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/182/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music49/v4/66/11/5f/66115f6e-4d08-c01e-50e8-4bfbe714afbe/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115135340if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/91/f6/c2/0888751319721.jpg"

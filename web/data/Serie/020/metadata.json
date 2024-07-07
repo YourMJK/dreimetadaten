@@ -105,6 +105,52 @@
       "sprecher" : "Hans Irle"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "»Der Potter« tritt auf – und wieder ab",
+          "start" : 0,
+          "end" : 460560
+        },
+        {
+          "titel" : "Zu viele Neue auf der Szene",
+          "start" : 460560,
+          "end" : 815293
+        },
+        {
+          "titel" : "Morton wird eingeschaltet",
+          "start" : 815293,
+          "end" : 1052973
+        },
+        {
+          "titel" : "Das Haus auf dem Hügel",
+          "start" : 1052973,
+          "end" : 1399293
+        },
+        {
+          "titel" : "Es spukt schon wieder",
+          "start" : 1399293,
+          "end" : 1731107
+        },
+        {
+          "titel" : "Fischt der feine Angler im Trüben?",
+          "start" : 1731107,
+          "end" : 1996360
+        },
+        {
+          "titel" : "Die Falle schnappt zu",
+          "start" : 1996360,
+          "end" : 2307520
+        },
+        {
+          "titel" : "Man wird handelseinig",
+          "start" : 2307520,
+          "end" : 2816907
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/020/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/020/ffmetadata.txt",

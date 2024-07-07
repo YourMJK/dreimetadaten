@@ -91,10 +91,46 @@
       "sprecher" : "Kathi Robens"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Mann mit der Maske",
+          "start" : 0,
+          "end" : 422920
+        },
+        {
+          "titel" : "Falsche Schlüsse",
+          "start" : 422920,
+          "end" : 1107853
+        },
+        {
+          "titel" : "Das Duell",
+          "start" : 1107853,
+          "end" : 1646427
+        },
+        {
+          "titel" : "Unter Polizisten",
+          "start" : 1646427,
+          "end" : 2292627
+        },
+        {
+          "titel" : "Der dritte Brief",
+          "start" : 2292627,
+          "end" : 2795440
+        },
+        {
+          "titel" : "Der Wolf zeigt seine Krallen",
+          "start" : 2795440,
+          "end" : 3294627
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/087/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/087/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/087/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/087/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/087/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/5c/d7/fe/5cd7fee9-9b85-0b77-b92d-03aad42ac981/source",
     "cover_kosmos" : "http://web.archive.org/web/20220124230902if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/11/71/4b/0743216568826.jpg"

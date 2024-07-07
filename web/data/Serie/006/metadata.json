@@ -111,6 +111,52 @@
       "sprecher" : "Karl-Ulrich Meves"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Justus kauft einen Koffer",
+          "start" : 0,
+          "end" : 271253
+        },
+        {
+          "titel" : "Ein sonderbarer Besuch",
+          "start" : 271253,
+          "end" : 742653
+        },
+        {
+          "titel" : "Eine geheimnisvolle Botschaft",
+          "start" : 742653,
+          "end" : 1082693
+        },
+        {
+          "titel" : "Abschied von Sokrates",
+          "start" : 1082693,
+          "end" : 1362067
+        },
+        {
+          "titel" : "Warnung vom Polizeichef",
+          "start" : 1362067,
+          "end" : 1672467
+        },
+        {
+          "titel" : "Die drei ??? entdecken Spuren",
+          "start" : 1672467,
+          "end" : 2026640
+        },
+        {
+          "titel" : "Die Suchaktion beginnt",
+          "start" : 2026640,
+          "end" : 2423800
+        },
+        {
+          "titel" : "Wo ist das Geld?",
+          "start" : 2423800,
+          "end" : 2752640
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/006/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/006/ffmetadata.txt",

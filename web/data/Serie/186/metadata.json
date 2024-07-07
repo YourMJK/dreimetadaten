@@ -113,10 +113,56 @@
       "sprecher" : "André Minninger"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Notfallsitzung",
+          "start" : 0,
+          "end" : 291027
+        },
+        {
+          "titel" : "Spurensuche",
+          "start" : 291027,
+          "end" : 871520
+        },
+        {
+          "titel" : "Sunny Island",
+          "start" : 871520,
+          "end" : 1430973
+        },
+        {
+          "titel" : "Vertraue niemandem!",
+          "start" : 1430973,
+          "end" : 2164160
+        },
+        {
+          "titel" : "Verbündete",
+          "start" : 2164160,
+          "end" : 2670587
+        },
+        {
+          "titel" : "Der doppelte Tod",
+          "start" : 2670587,
+          "end" : 3273333
+        },
+        {
+          "titel" : "Rückkehr",
+          "start" : 3273333,
+          "end" : 3881533
+        },
+        {
+          "titel" : "Wie in Woodstock",
+          "start" : 3881533,
+          "end" : 4356747
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/186/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/186/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/186/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/186/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/186/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music82/v4/c0/5d/a1/c05da1e7-cac3-727b-b817-c6d222be40be/source",
     "cover_kosmos" : "http://web.archive.org/web/20220708021919if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f4/06/7d/0888751320123593a75c5abfa5.jpg"

@@ -3,7 +3,9 @@
   "buchstabe" : "B",
   "titel" : "Sicht B: Im Zeichen der Ritter",
   "autor" : "Tim Wenderoth",
+  "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Geheimnisvolle Symbole beunruhigen die Bewohner von Rocky Beach. Was steckt hinter den kryptischen Zeichen, die von einer geisterhaften Gestalt nachts an die Häuser gemalt werden? Und warum verhalten sich einige Bewohner der kleinen Küstenstadt so merkwürdig? Ihre ersten Nachforschungen bringen Justus, Peter und vor allem Bob auf die Spur einer mittelalterlichen Ritterlegende. Je intensiver sie sich mit dem Fall beschäftigen, umso klarer scheint, dass ihnen nur wenige Stunden bleiben, um am unheilvollen Freitag den 13. Schlimmeres zu verhindern …",
+  "veröffentlichungsdatum" : "2010-10-01",
   "kapitel" : [
     {
       "titel" : "Die Cola",
@@ -158,7 +160,6 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt"
   }
 }

@@ -125,10 +125,76 @@
       "sprecher" : "Susanne von Loessl"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Held von Carino Beach",
+          "start" : 0,
+          "end" : 451547
+        },
+        {
+          "titel" : "Einbruch mit Folgen",
+          "start" : 451547,
+          "end" : 781787
+        },
+        {
+          "titel" : "Cotta ruft",
+          "start" : 781787,
+          "end" : 896107
+        },
+        {
+          "titel" : "Falsche Zeugenaussage",
+          "start" : 896107,
+          "end" : 1290547
+        },
+        {
+          "titel" : "Besuch im Museum",
+          "start" : 1290547,
+          "end" : 1727733
+        },
+        {
+          "titel" : "Logische Lücken",
+          "start" : 1727733,
+          "end" : 2033080
+        },
+        {
+          "titel" : "Drohanruf",
+          "start" : 2033080,
+          "end" : 2518800
+        },
+        {
+          "titel" : "Great Deliverance",
+          "start" : 2518800,
+          "end" : 2957653
+        },
+        {
+          "titel" : "Böser Fehler",
+          "start" : 2957653,
+          "end" : 3260253
+        },
+        {
+          "titel" : "Unerwartete Hilfe",
+          "start" : 3260253,
+          "end" : 3552773
+        },
+        {
+          "titel" : "Teersee",
+          "start" : 3552773,
+          "end" : 4099293
+        },
+        {
+          "titel" : "Ende und Aus",
+          "start" : 4099293,
+          "end" : 4390653
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/127/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/127/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/127/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/127/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/127/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/cb/2e/96/cb2e96a9-12ba-04d8-9961-5534a5c11e33/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111023013if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/0c/b8/db/0828766712728.jpg"

@@ -99,6 +99,52 @@
       "sprecher" : "Andreas von der Meden"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Hilferuf",
+          "start" : 0,
+          "end" : 356947
+        },
+        {
+          "titel" : "Ein Papagei spricht Latein",
+          "start" : 356947,
+          "end" : 767720
+        },
+        {
+          "titel" : "Schneewittchen ist verschwunden",
+          "start" : 767720,
+          "end" : 1096187
+        },
+        {
+          "titel" : "Ein unverhoffter Besuch",
+          "start" : 1096187,
+          "end" : 1572827
+        },
+        {
+          "titel" : "Blackbeard, der Pirat",
+          "start" : 1572827,
+          "end" : 2032413
+        },
+        {
+          "titel" : "Die rätselhafte Botschaft",
+          "start" : 2032413,
+          "end" : 2459933
+        },
+        {
+          "titel" : "Von Steinen und Gebeinen",
+          "start" : 2459933,
+          "end" : 2761453
+        },
+        {
+          "titel" : "Blackbeard hat das letzte Wort",
+          "start" : 2761453,
+          "end" : 3144160
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/001/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/001/ffmetadata.txt",

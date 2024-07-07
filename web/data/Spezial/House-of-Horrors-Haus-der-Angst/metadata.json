@@ -1,609 +1,4 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "kapitel" : [
-        {
-          "titel" : "Die Geisterbahn",
-          "start" : 0,
-          "end" : 418747
-        },
-        {
-          "titel" : "Paket dem Gouverneur übergeben",
-          "start" : 418747,
-          "end" : 494627
-        },
-        {
-          "titel" : "Werbeanzeigen lesen",
-          "start" : 494627,
-          "end" : 644347
-        },
-        {
-          "titel" : "Vor Bubba verstecken",
-          "start" : 644347,
-          "end" : 748173
-        },
-        {
-          "titel" : "Geisterbahn beobachten",
-          "start" : 748173,
-          "end" : 798067
-        },
-        {
-          "titel" : "Paket selbst öffnen",
-          "start" : 798067,
-          "end" : 844267
-        },
-        {
-          "titel" : "Bei Bubba bleiben",
-          "start" : 844267,
-          "end" : 913187
-        },
-        {
-          "titel" : "Mit Joey sprechen",
-          "start" : 913187,
-          "end" : 1143093
-        },
-        {
-          "titel" : "Flucht zu den drei ???",
-          "start" : 1143093,
-          "end" : 1214400
-        },
-        {
-          "titel" : "Mit Bubba Detroit sprechen",
-          "start" : 1214400,
-          "end" : 1282880
-        },
-        {
-          "titel" : "Joey verfolgen",
-          "start" : 1282880,
-          "end" : 1425973
-        },
-        {
-          "titel" : "Justus hinterher rennen",
-          "start" : 1425973,
-          "end" : 1474547
-        },
-        {
-          "titel" : "Bei den drei ??? bleiben",
-          "start" : 1474547,
-          "end" : 1574467
-        },
-        {
-          "titel" : "Ich habe viel Geld",
-          "start" : 1574467,
-          "end" : 1649973
-        },
-        {
-          "titel" : "Bubba abschütteln",
-          "start" : 1649973,
-          "end" : 1767320
-        },
-        {
-          "titel" : "Geisterbahn von innen untersuchen",
-          "start" : 1767320,
-          "end" : 1916067
-        },
-        {
-          "titel" : "Verstecken in der Achterbahn",
-          "start" : 1916067,
-          "end" : 2045960
-        },
-        {
-          "titel" : "Geisterbahn von außen untersuchen",
-          "start" : 2045960,
-          "end" : 2190267
-        },
-        {
-          "titel" : "Die Zaubershow besuchen",
-          "start" : 2190267,
-          "end" : 2334773
-        },
-        {
-          "titel" : "Ich habe wenig Geld",
-          "start" : 2334773,
-          "end" : 2451360
-        },
-        {
-          "titel" : "Mit Marilyn sprechen",
-          "start" : 2451360,
-          "end" : 2654120
-        },
-        {
-          "titel" : "Verstecken in der Geisterbahn",
-          "start" : 2654120,
-          "end" : 2995320
-        },
-        {
-          "titel" : "Die Frau mit der Flugtasche befragen",
-          "start" : 2995320,
-          "end" : 3132573
-        },
-        {
-          "titel" : "Zu Margarine schleichen",
-          "start" : 3132573,
-          "end" : 3249360
-        },
-        {
-          "titel" : "Flucht über die Grenze nach Süden",
-          "start" : 3249360,
-          "end" : 3330787
-        },
-        {
-          "titel" : "Der nimmt mir alles weg",
-          "start" : 3330787,
-          "end" : 3430867
-        },
-        {
-          "titel" : "Den Verfolger verfolgen",
-          "start" : 3430867,
-          "end" : 3498480
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Off-Stimme",
-          "sprecher" : "Claudia Stocksieker"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Tony",
-          "sprecher" : "Stefan Kaminski"
-        },
-        {
-          "rolle" : "Joey",
-          "sprecher" : "Tommaso Cacciapuoti"
-        },
-        {
-          "rolle" : "Ansager in der Schlammringkampfarena",
-          "sprecher" : "Christian Rudolf"
-        },
-        {
-          "rolle" : "Margarine",
-          "sprecher" : "Alma Clausen"
-        },
-        {
-          "rolle" : "Lincolnfahrer",
-          "sprecher" : "Mike Olsowski"
-        },
-        {
-          "rolle" : "Freakshow-Jack",
-          "sprecher" : "Peter Bänker"
-        },
-        {
-          "rolle" : "Der unergründliche Mickey",
-          "sprecher" : "Krystian Martinek"
-        },
-        {
-          "rolle" : "Die bärtige Marilyn",
-          "sprecher" : "Santiago Ziesmer"
-        },
-        {
-          "rolle" : "Miss Luzzy",
-          "sprecher" : "Katja Brügger"
-        },
-        {
-          "rolle" : "Bubba Detroit",
-          "sprecher" : "Klaus Dittmann"
-        },
-        {
-          "rolle" : "Junge",
-          "sprecher" : "Patrick Bach"
-        },
-        {
-          "rolle" : "Burger-Verkäufer Arnie",
-          "sprecher" : "Manou Lubowski"
-        },
-        {
-          "rolle" : "Reporterin",
-          "sprecher" : "Mara Bergmann"
-        },
-        {
-          "rolle" : "Anna Millar",
-          "sprecher" : "Christine Pappert"
-        },
-        {
-          "rolle" : "Bombenattentäter Daniel",
-          "sprecher" : "Tim Grobe"
-        },
-        {
-          "rolle" : "Polizist",
-          "sprecher" : "Wolfgang Kaven"
-        },
-        {
-          "rolle" : "Blacky",
-          "sprecher" : "Heikedine Körting"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/1/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "kapitel" : [
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 0,
-          "end" : 15467
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 15467,
-          "end" : 30707
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 30707,
-          "end" : 45947
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 45947,
-          "end" : 61187
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 61187,
-          "end" : 76427
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 76427,
-          "end" : 91667
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 91667,
-          "end" : 106907
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 106907,
-          "end" : 122147
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 122147,
-          "end" : 137387
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 137387,
-          "end" : 152627
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 152627,
-          "end" : 167867
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 167867,
-          "end" : 183107
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 183107,
-          "end" : 198347
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 198347,
-          "end" : 213587
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 213587,
-          "end" : 228827
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 228827,
-          "end" : 244067
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 244067,
-          "end" : 259307
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 259307,
-          "end" : 274547
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 274547,
-          "end" : 289787
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 289787,
-          "end" : 305027
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 305027,
-          "end" : 320267
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 320267,
-          "end" : 335507
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 335507,
-          "end" : 350747
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 350747,
-          "end" : 365987
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 365987,
-          "end" : 381227
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 381227,
-          "end" : 396467
-        },
-        {
-          "titel" : "weiter mit Track 28",
-          "start" : 396467,
-          "end" : 411707
-        },
-        {
-          "titel" : "Die Frau mit der Flugtasche verfolgen",
-          "start" : 411707,
-          "end" : 537960
-        },
-        {
-          "titel" : "Wir warten auf Mrs. Millar",
-          "start" : 537960,
-          "end" : 653493
-        },
-        {
-          "titel" : "Wir wollen bleiben",
-          "start" : 653493,
-          "end" : 893067
-        },
-        {
-          "titel" : "Die Tür öffnen",
-          "start" : 893067,
-          "end" : 1104507
-        },
-        {
-          "titel" : "Wir wollen die Belohnung",
-          "start" : 1104507,
-          "end" : 1264053
-        },
-        {
-          "titel" : "Eine Autofahrt",
-          "start" : 1264053,
-          "end" : 1508440
-        },
-        {
-          "titel" : "Ich helfe Justus bei der Arbeit",
-          "start" : 1508440,
-          "end" : 1682947
-        },
-        {
-          "titel" : "Mrs. Millar nicht treffen",
-          "start" : 1682947,
-          "end" : 1777307
-        },
-        {
-          "titel" : "Die Popcorntüte stehlen",
-          "start" : 1777307,
-          "end" : 1889027
-        },
-        {
-          "titel" : "Jemand soll mich umprogrammieren",
-          "start" : 1889027,
-          "end" : 1992520
-        },
-        {
-          "titel" : "Die Krebs-Anzeige ist wichtig",
-          "start" : 1992520,
-          "end" : 2141507
-        },
-        {
-          "titel" : "Joey an der Flucht hindern",
-          "start" : 2141507,
-          "end" : 2218093
-        },
-        {
-          "titel" : "$100 auftreiben",
-          "start" : 2218093,
-          "end" : 2338853
-        },
-        {
-          "titel" : "Mit einem Schuh werfen",
-          "start" : 2338853,
-          "end" : 2457427
-        },
-        {
-          "titel" : "In der Geisterbahn nachsehen",
-          "start" : 2457427,
-          "end" : 2837493
-        },
-        {
-          "titel" : "Um eine Mitfahrgelegenheit bitten",
-          "start" : 2837493,
-          "end" : 2913627
-        },
-        {
-          "titel" : "Die Popcorn-Anzeige ist wichtig",
-          "start" : 2913627,
-          "end" : 2997907
-        },
-        {
-          "titel" : "Postfächer überwachen",
-          "start" : 2997907,
-          "end" : 3203520
-        },
-        {
-          "titel" : "Wir wollen gehen",
-          "start" : 3203520,
-          "end" : 3289667
-        },
-        {
-          "titel" : "Mehr als vier Mal \"Ja!\" geantwortet",
-          "start" : 3289667,
-          "end" : 3402813
-        },
-        {
-          "titel" : "Weniger als vier Mal \"Ja!\" geantwortet",
-          "start" : 3402813,
-          "end" : 3480800
-        },
-        {
-          "titel" : "Ich will für immer bleiben",
-          "start" : 3480800,
-          "end" : 3570440
-        },
-        {
-          "titel" : "Durch das Fenster fliehen",
-          "start" : 3570440,
-          "end" : 3762907
-        },
-        {
-          "titel" : "Wir wollen die Belohnung nicht",
-          "start" : 3762907,
-          "end" : 3830293
-        },
-        {
-          "titel" : "Justus arbeitet alleine",
-          "start" : 3830293,
-          "end" : 3955293
-        },
-        {
-          "titel" : "Um Hilfe rufen",
-          "start" : 3955293,
-          "end" : 4017853
-        },
-        {
-          "titel" : "Etwas Einmaliges tun",
-          "start" : 4017853,
-          "end" : 4146813
-        },
-        {
-          "titel" : "Mrs. Millar treffen",
-          "start" : 4146813,
-          "end" : 4220507
-        },
-        {
-          "titel" : "Auf dem Riesenrad",
-          "start" : 4220507,
-          "end" : 4326973
-        },
-        {
-          "titel" : "Wir gehen hinein",
-          "start" : 4326973,
-          "end" : 4409547
-        },
-        {
-          "titel" : "Mortons zweite Chance",
-          "start" : 4409547,
-          "end" : 4497427
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Off-Stimme",
-          "sprecher" : "Claudia Stocksieker"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Tony",
-          "sprecher" : "Stefan Kaminski"
-        },
-        {
-          "rolle" : "Joey",
-          "sprecher" : "Tommaso Cacciapuoti"
-        },
-        {
-          "rolle" : "Anna Millar",
-          "sprecher" : "Christine Pappert"
-        },
-        {
-          "rolle" : "Lily",
-          "sprecher" : "Verena Wolfien"
-        },
-        {
-          "rolle" : "Max",
-          "sprecher" : "Holger Umbreit"
-        },
-        {
-          "rolle" : "Milli",
-          "sprecher" : "Ulrike Knief"
-        },
-        {
-          "rolle" : "Celeste Hummer",
-          "sprecher" : "Maria Willer"
-        },
-        {
-          "rolle" : "Anthem Hummer",
-          "sprecher" : "Martin May"
-        },
-        {
-          "rolle" : "Morton",
-          "sprecher" : "Andreas von der Meden"
-        },
-        {
-          "rolle" : "Blacky",
-          "sprecher" : "Heikedine Körting"
-        },
-        {
-          "rolle" : "Bruce Millar",
-          "sprecher" : "Ben Hecker"
-        },
-        {
-          "rolle" : "Kommissar Reynolds",
-          "sprecher" : "Wolfgang Draeger"
-        },
-        {
-          "rolle" : "Albert Hitfield",
-          "sprecher" : "Volker Bogdan"
-        },
-        {
-          "rolle" : "TV-Sprecher",
-          "sprecher" : "Friedel Bott"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/2/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/2/rip_log.txt"
-      }
-    }
-  ],
   "titel" : "House of Horrors: Haus der Angst",
   "autor" : "Megan & H. William Stine",
   "hörspielskriptautor" : "André Minninger",
@@ -1026,6 +421,443 @@
     {
       "rolle" : "Blacky",
       "sprecher" : "Heikedine Körting"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Geisterbahn",
+          "start" : 0,
+          "end" : 418747
+        },
+        {
+          "titel" : "Paket dem Gouverneur übergeben",
+          "start" : 418747,
+          "end" : 494627
+        },
+        {
+          "titel" : "Werbeanzeigen lesen",
+          "start" : 494627,
+          "end" : 644347
+        },
+        {
+          "titel" : "Vor Bubba verstecken",
+          "start" : 644347,
+          "end" : 748173
+        },
+        {
+          "titel" : "Geisterbahn beobachten",
+          "start" : 748173,
+          "end" : 798067
+        },
+        {
+          "titel" : "Paket selbst öffnen",
+          "start" : 798067,
+          "end" : 844267
+        },
+        {
+          "titel" : "Bei Bubba bleiben",
+          "start" : 844267,
+          "end" : 913187
+        },
+        {
+          "titel" : "Mit Joey sprechen",
+          "start" : 913187,
+          "end" : 1143093
+        },
+        {
+          "titel" : "Flucht zu den drei ???",
+          "start" : 1143093,
+          "end" : 1214400
+        },
+        {
+          "titel" : "Mit Bubba Detroit sprechen",
+          "start" : 1214400,
+          "end" : 1282880
+        },
+        {
+          "titel" : "Joey verfolgen",
+          "start" : 1282880,
+          "end" : 1425973
+        },
+        {
+          "titel" : "Justus hinterher rennen",
+          "start" : 1425973,
+          "end" : 1474547
+        },
+        {
+          "titel" : "Bei den drei ??? bleiben",
+          "start" : 1474547,
+          "end" : 1574467
+        },
+        {
+          "titel" : "Ich habe viel Geld",
+          "start" : 1574467,
+          "end" : 1649973
+        },
+        {
+          "titel" : "Bubba abschütteln",
+          "start" : 1649973,
+          "end" : 1767320
+        },
+        {
+          "titel" : "Geisterbahn von innen untersuchen",
+          "start" : 1767320,
+          "end" : 1916067
+        },
+        {
+          "titel" : "Verstecken in der Achterbahn",
+          "start" : 1916067,
+          "end" : 2045960
+        },
+        {
+          "titel" : "Geisterbahn von außen untersuchen",
+          "start" : 2045960,
+          "end" : 2190267
+        },
+        {
+          "titel" : "Die Zaubershow besuchen",
+          "start" : 2190267,
+          "end" : 2334773
+        },
+        {
+          "titel" : "Ich habe wenig Geld",
+          "start" : 2334773,
+          "end" : 2451360
+        },
+        {
+          "titel" : "Mit Marilyn sprechen",
+          "start" : 2451360,
+          "end" : 2654120
+        },
+        {
+          "titel" : "Verstecken in der Geisterbahn",
+          "start" : 2654120,
+          "end" : 2995320
+        },
+        {
+          "titel" : "Die Frau mit der Flugtasche befragen",
+          "start" : 2995320,
+          "end" : 3132573
+        },
+        {
+          "titel" : "Zu Margarine schleichen",
+          "start" : 3132573,
+          "end" : 3249360
+        },
+        {
+          "titel" : "Flucht über die Grenze nach Süden",
+          "start" : 3249360,
+          "end" : 3330787
+        },
+        {
+          "titel" : "Der nimmt mir alles weg",
+          "start" : 3330787,
+          "end" : 3430867
+        },
+        {
+          "titel" : "Den Verfolger verfolgen",
+          "start" : 3430867,
+          "end" : 3498480
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 0,
+          "end" : 15467
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 15467,
+          "end" : 30707
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 30707,
+          "end" : 45947
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 45947,
+          "end" : 61187
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 61187,
+          "end" : 76427
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 76427,
+          "end" : 91667
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 91667,
+          "end" : 106907
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 106907,
+          "end" : 122147
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 122147,
+          "end" : 137387
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 137387,
+          "end" : 152627
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 152627,
+          "end" : 167867
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 167867,
+          "end" : 183107
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 183107,
+          "end" : 198347
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 198347,
+          "end" : 213587
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 213587,
+          "end" : 228827
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 228827,
+          "end" : 244067
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 244067,
+          "end" : 259307
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 259307,
+          "end" : 274547
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 274547,
+          "end" : 289787
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 289787,
+          "end" : 305027
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 305027,
+          "end" : 320267
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 320267,
+          "end" : 335507
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 335507,
+          "end" : 350747
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 350747,
+          "end" : 365987
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 365987,
+          "end" : 381227
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 381227,
+          "end" : 396467
+        },
+        {
+          "titel" : "weiter mit Track 28",
+          "start" : 396467,
+          "end" : 411707
+        },
+        {
+          "titel" : "Die Frau mit der Flugtasche verfolgen",
+          "start" : 411707,
+          "end" : 537960
+        },
+        {
+          "titel" : "Wir warten auf Mrs. Millar",
+          "start" : 537960,
+          "end" : 653493
+        },
+        {
+          "titel" : "Wir wollen bleiben",
+          "start" : 653493,
+          "end" : 893067
+        },
+        {
+          "titel" : "Die Tür öffnen",
+          "start" : 893067,
+          "end" : 1104507
+        },
+        {
+          "titel" : "Wir wollen die Belohnung",
+          "start" : 1104507,
+          "end" : 1264053
+        },
+        {
+          "titel" : "Eine Autofahrt",
+          "start" : 1264053,
+          "end" : 1508440
+        },
+        {
+          "titel" : "Ich helfe Justus bei der Arbeit",
+          "start" : 1508440,
+          "end" : 1682947
+        },
+        {
+          "titel" : "Mrs. Millar nicht treffen",
+          "start" : 1682947,
+          "end" : 1777307
+        },
+        {
+          "titel" : "Die Popcorntüte stehlen",
+          "start" : 1777307,
+          "end" : 1889027
+        },
+        {
+          "titel" : "Jemand soll mich umprogrammieren",
+          "start" : 1889027,
+          "end" : 1992520
+        },
+        {
+          "titel" : "Die Krebs-Anzeige ist wichtig",
+          "start" : 1992520,
+          "end" : 2141507
+        },
+        {
+          "titel" : "Joey an der Flucht hindern",
+          "start" : 2141507,
+          "end" : 2218093
+        },
+        {
+          "titel" : "$100 auftreiben",
+          "start" : 2218093,
+          "end" : 2338853
+        },
+        {
+          "titel" : "Mit einem Schuh werfen",
+          "start" : 2338853,
+          "end" : 2457427
+        },
+        {
+          "titel" : "In der Geisterbahn nachsehen",
+          "start" : 2457427,
+          "end" : 2837493
+        },
+        {
+          "titel" : "Um eine Mitfahrgelegenheit bitten",
+          "start" : 2837493,
+          "end" : 2913627
+        },
+        {
+          "titel" : "Die Popcorn-Anzeige ist wichtig",
+          "start" : 2913627,
+          "end" : 2997907
+        },
+        {
+          "titel" : "Postfächer überwachen",
+          "start" : 2997907,
+          "end" : 3203520
+        },
+        {
+          "titel" : "Wir wollen gehen",
+          "start" : 3203520,
+          "end" : 3289667
+        },
+        {
+          "titel" : "Mehr als vier Mal \"Ja!\" geantwortet",
+          "start" : 3289667,
+          "end" : 3402813
+        },
+        {
+          "titel" : "Weniger als vier Mal \"Ja!\" geantwortet",
+          "start" : 3402813,
+          "end" : 3480800
+        },
+        {
+          "titel" : "Ich will für immer bleiben",
+          "start" : 3480800,
+          "end" : 3570440
+        },
+        {
+          "titel" : "Durch das Fenster fliehen",
+          "start" : 3570440,
+          "end" : 3762907
+        },
+        {
+          "titel" : "Wir wollen die Belohnung nicht",
+          "start" : 3762907,
+          "end" : 3830293
+        },
+        {
+          "titel" : "Justus arbeitet alleine",
+          "start" : 3830293,
+          "end" : 3955293
+        },
+        {
+          "titel" : "Um Hilfe rufen",
+          "start" : 3955293,
+          "end" : 4017853
+        },
+        {
+          "titel" : "Etwas Einmaliges tun",
+          "start" : 4017853,
+          "end" : 4146813
+        },
+        {
+          "titel" : "Mrs. Millar treffen",
+          "start" : 4146813,
+          "end" : 4220507
+        },
+        {
+          "titel" : "Auf dem Riesenrad",
+          "start" : 4220507,
+          "end" : 4326973
+        },
+        {
+          "titel" : "Wir gehen hinein",
+          "start" : 4326973,
+          "end" : 4409547
+        },
+        {
+          "titel" : "Mortons zweite Chance",
+          "start" : 4409547,
+          "end" : 4497427
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/rip_log2.txt"
     }
   ],
   "links" : {

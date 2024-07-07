@@ -139,10 +139,81 @@
       "sprecher" : "Olaf Kreutzenbeck"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "In die Höhe getrieben",
+          "start" : 0,
+          "end" : 515053
+        },
+        {
+          "titel" : "Mädchen für alles",
+          "start" : 515053,
+          "end" : 850187
+        },
+        {
+          "titel" : "Ein neuer Auftrag",
+          "start" : 850187,
+          "end" : 1073267
+        },
+        {
+          "titel" : "Stimmen",
+          "start" : 1073267,
+          "end" : 1393200
+        },
+        {
+          "titel" : "Pop-Art",
+          "start" : 1393200,
+          "end" : 1489160
+        },
+        {
+          "titel" : "Vertrocknete Blüte",
+          "start" : 1489160,
+          "end" : 1632027
+        },
+        {
+          "titel" : "Das Grauen in den Katakomben",
+          "start" : 1632027,
+          "end" : 1953987
+        },
+        {
+          "titel" : "Totengericht",
+          "start" : 1953987,
+          "end" : 2050547
+        },
+        {
+          "titel" : "Ägyptische Flüche",
+          "start" : 2050547,
+          "end" : 2163893
+        },
+        {
+          "titel" : "Durch die Blume",
+          "start" : 2163893,
+          "end" : 2317587
+        },
+        {
+          "titel" : "Fix und alle",
+          "start" : 2317587,
+          "end" : 2511587
+        },
+        {
+          "titel" : "Barocke Meisterwerke",
+          "start" : 2511587,
+          "end" : 3126160
+        },
+        {
+          "titel" : "Sprechende Pflanzen",
+          "start" : 3126160,
+          "end" : 3562347
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/141/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/141/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/141/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/141/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/141/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/0b/86/cf/0b86cfe8-1001-8e9d-8c92-95e041739eaf/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115152703if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/42/c9/1e/0886978014122.jpg"

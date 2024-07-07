@@ -98,6 +98,52 @@
       "sprecher" : "Stefan Brönneke"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Justus' geheime Vergangenheit",
+          "start" : 0,
+          "end" : 377787
+        },
+        {
+          "titel" : "Überraschung in Studio Neun",
+          "start" : 377787,
+          "end" : 763613
+        },
+        {
+          "titel" : "Fahndung hinter den Kulissen",
+          "start" : 763613,
+          "end" : 1081253
+        },
+        {
+          "titel" : "Quiz Nummer eins",
+          "start" : 1081253,
+          "end" : 1514413
+        },
+        {
+          "titel" : "Beschattungsmanöver in Hollywood",
+          "start" : 1514413,
+          "end" : 1883067
+        },
+        {
+          "titel" : "Der Wind bringt es an den Tag",
+          "start" : 1883067,
+          "end" : 2191960
+        },
+        {
+          "titel" : "Quiz Nummer zwei",
+          "start" : 2191960,
+          "end" : 2575160
+        },
+        {
+          "titel" : "Licht an – Ton ab – Kamera läuft!",
+          "start" : 2575160,
+          "end" : 3012147
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/044/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/044/ffmetadata.txt",

@@ -1,0 +1,55 @@
+{
+  "teilNummer" : 5,
+  "titel" : "Rückwärtsgang",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "In diesem rätselhaften Fall scheint die Zeit aus den Fugen geraten zu sein – mal geht es vorwärts, dann wieder zurück!",
+  "veröffentlichungsdatum" : "2016-03-04",
+  "kapitel" : [
+    {
+      "titel" : "Jetzt",
+      "start" : 0,
+      "end" : 563586
+    },
+    {
+      "titel" : "Die Aufzeichnung",
+      "start" : 563586,
+      "end" : 953986
+    },
+    {
+      "titel" : "Vorwärts",
+      "start" : 953986,
+      "end" : 1136386
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Mr. Tilton",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Mr. Walsh",
+      "sprecher" : "Christian Rudolf"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/5/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/5/ffmetadata.txt"
+  }
+}

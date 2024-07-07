@@ -105,10 +105,56 @@
       "sprecher" : "Hans Hessling"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein bombiges Richtfest",
+          "start" : 0,
+          "end" : 465853
+        },
+        {
+          "titel" : "Stümper am Werk",
+          "start" : 465853,
+          "end" : 1007520
+        },
+        {
+          "titel" : "Im Nacken kaltes Fleisch",
+          "start" : 1007520,
+          "end" : 1634640
+        },
+        {
+          "titel" : "Justus geht unter die Raucher",
+          "start" : 1634640,
+          "end" : 1967920
+        },
+        {
+          "titel" : "Flucht vor den Cops",
+          "start" : 1967920,
+          "end" : 2486920
+        },
+        {
+          "titel" : "Wen Asiens Herrscher nicht empfangen …",
+          "start" : 2486920,
+          "end" : 2834573
+        },
+        {
+          "titel" : "Von Kimble an Marple",
+          "start" : 2834573,
+          "end" : 3094480
+        },
+        {
+          "titel" : "Im Tigerkäfig",
+          "start" : 3094480,
+          "end" : 3569320
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/061/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/061/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/061/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/061/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/061/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/51/89/01/51890174-ada7-dd26-2a09-1fae93b9900d/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111023025if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/fc/e7/d4/0743212358223.jpg"

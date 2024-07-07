@@ -1,0 +1,53 @@
+{
+  "teilNummer" : 5,
+  "titel" : "SOS",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Als die drei ??? vom Strand kommen und auf dem Weg nach Hause sind, sehen sie ein SOS-Signal, das aus einem Haus gesendet wird. Eigentlich steht das Haus doch leer …",
+  "veröffentlichungsdatum" : "2011-12-10",
+  "kapitel" : [
+    {
+      "titel" : "SOS",
+      "start" : 0,
+      "end" : 661640
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Marty",
+      "sprecher" : "Philipp Draeger"
+    },
+    {
+      "rolle" : "Fred",
+      "sprecher" : "Guido Bernadotte"
+    },
+    {
+      "rolle" : "Mann 3",
+      "sprecher" : "Rasmus Rakete"
+    },
+    {
+      "rolle" : "Mann 4",
+      "sprecher" : "Patrick Perales"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/5/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/5/ffmetadata.txt"
+  }
+}

@@ -101,10 +101,56 @@
       "sprecher" : "Thomas Schüler"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Schrei",
+          "start" : 0,
+          "end" : 662587
+        },
+        {
+          "titel" : "Eindeutige Abfuhr",
+          "start" : 662587,
+          "end" : 981400
+        },
+        {
+          "titel" : "Psychoanalysen",
+          "start" : 981400,
+          "end" : 1724707
+        },
+        {
+          "titel" : "Gespräch unter vier Augen",
+          "start" : 1724707,
+          "end" : 2232707
+        },
+        {
+          "titel" : "Dem Wahnsinn nahe",
+          "start" : 2232707,
+          "end" : 2906627
+        },
+        {
+          "titel" : "Tiefenhypnose",
+          "start" : 2906627,
+          "end" : 3305613
+        },
+        {
+          "titel" : "Der letzte Wille",
+          "start" : 3305613,
+          "end" : 3787227
+        },
+        {
+          "titel" : "Das geschenkte Leben",
+          "start" : 3787227,
+          "end" : 4184827
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/076/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/076/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/076/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/076/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/076/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/69/c1/0d/69c10d68-81ae-f0d8-7280-891636c946b1/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111212319if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/06/64/bc/0743214285022.jpg"

@@ -102,10 +102,61 @@
       "sprecher" : "Gosta Liptow"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Verflucht",
+          "start" : 0,
+          "end" : 408987
+        },
+        {
+          "titel" : "Der gläserne Safe",
+          "start" : 408987,
+          "end" : 1683253
+        },
+        {
+          "titel" : "Neurotoxin",
+          "start" : 1683253,
+          "end" : 1922227
+        },
+        {
+          "titel" : "Ein mysteriöses Paket",
+          "start" : 1922227,
+          "end" : 2386280
+        },
+        {
+          "titel" : "Der Stern in der Dunkelheit",
+          "start" : 2386280,
+          "end" : 2623573
+        },
+        {
+          "titel" : "Feurige Flut",
+          "start" : 2623573,
+          "end" : 2869640
+        },
+        {
+          "titel" : "Kleines Rätsel",
+          "start" : 2869640,
+          "end" : 2971560
+        },
+        {
+          "titel" : "SOS",
+          "start" : 2971560,
+          "end" : 3844640
+        },
+        {
+          "titel" : "Zahltag",
+          "start" : 3844640,
+          "end" : 4011933
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/148/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/148/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/148/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/148/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/148/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/89/c6/08/89c60854-6977-ef69-4dfb-aa7fc365a9b5/source",
     "cover_kosmos" : "http://web.archive.org/web/20211231145706if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/61/f9/53/0886978014825.jpg"

@@ -110,6 +110,52 @@
       "sprecher" : "Joachim Wolff"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Fall im Löwenrevier",
+          "start" : 0,
+          "end" : 309587
+        },
+        {
+          "titel" : "Mit knapper Not entkommen",
+          "start" : 309587,
+          "end" : 611520
+        },
+        {
+          "titel" : "Immer Ärger mit George",
+          "start" : 611520,
+          "end" : 867800
+        },
+        {
+          "titel" : "Ein sturer Kunde mit Sonderwünschen",
+          "start" : 867800,
+          "end" : 1184587
+        },
+        {
+          "titel" : "Wirbel um einen Gorilla",
+          "start" : 1184587,
+          "end" : 1519467
+        },
+        {
+          "titel" : "Die verschlüsselte Botschaft",
+          "start" : 1519467,
+          "end" : 1746987
+        },
+        {
+          "titel" : "Eisenstäbe",
+          "start" : 1746987,
+          "end" : 2028987
+        },
+        {
+          "titel" : "Des Rätsels Lösung",
+          "start" : 2028987,
+          "end" : 2385253
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/015/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/015/ffmetadata.txt",

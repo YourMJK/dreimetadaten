@@ -2,7 +2,10 @@
   "teilNummer" : 3,
   "buchstabe" : "C",
   "titel" : "Der brennende Kristall",
+  "autor" : "Astrid Vollenbruch",
+  "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Noch immer haben Justus, Peter und Bob das Rätsel aus dem Testament nicht lösen können. Welche Rolle spielen Moby Dick und der brennende Kristall? Die drei ??? begeben sich zur Geisterbucht, um das Geheimnis zu lüften. Doch sie sind nicht allein! Jeder pokert hoch in diesem Spiel, das nur einer gewinnen kann …",
+  "veröffentlichungsdatum" : "2011-11-11",
   "kapitel" : [
     {
       "titel" : "Blödmänner",
@@ -140,7 +143,6 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/150/3/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/3/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/150/3/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/3/ffmetadata.txt"
   }
 }

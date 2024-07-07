@@ -105,10 +105,56 @@
       "sprecher" : "Matti Schmidt-Schaller"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Erwachen in einer anderen Welt",
+          "start" : 0,
+          "end" : 441587
+        },
+        {
+          "titel" : "Erkenntnisse auf zwei Kontinenten",
+          "start" : 441587,
+          "end" : 1040933
+        },
+        {
+          "titel" : "Im Jing'an-Tempel und in der Luft",
+          "start" : 1040933,
+          "end" : 1620360
+        },
+        {
+          "titel" : "Böse Geister im Zickzack",
+          "start" : 1620360,
+          "end" : 2073347
+        },
+        {
+          "titel" : "Drogen im Flaschenöffner",
+          "start" : 2073347,
+          "end" : 2441947
+        },
+        {
+          "titel" : "Familienangelegenheiten",
+          "start" : 2441947,
+          "end" : 3210333
+        },
+        {
+          "titel" : "Achterbahnfahrt",
+          "start" : 3210333,
+          "end" : 3842347
+        },
+        {
+          "titel" : "Telefonlawine",
+          "start" : 3842347,
+          "end" : 4081427
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/192/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/192/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/192/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/192/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/192/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music128/v4/1b/0d/89/1b0d8971-f4e4-262a-3155-0a140887ca85/source"
   }

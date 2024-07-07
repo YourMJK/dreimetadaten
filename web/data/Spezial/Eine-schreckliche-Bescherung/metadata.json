@@ -1,144 +1,4 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "kapitel" : [
-        {
-          "titel" : "Tag 01: Winterwunderland",
-          "start" : 0,
-          "end" : 483987
-        },
-        {
-          "titel" : "Tag 02: Angriff auf Santa Claus",
-          "start" : 483987,
-          "end" : 634960
-        },
-        {
-          "titel" : "Tag 03: Sabotage",
-          "start" : 634960,
-          "end" : 950920
-        },
-        {
-          "titel" : "Tag 04: Ein Sack voller Geheimnisse",
-          "start" : 950920,
-          "end" : 1342133
-        },
-        {
-          "titel" : "Tag 05: 36 x Elf",
-          "start" : 1342133,
-          "end" : 1805067
-        },
-        {
-          "titel" : "Tag 06: Bruder Justus",
-          "start" : 1805067,
-          "end" : 2202560
-        },
-        {
-          "titel" : "Tag 07: Elf gegen drei",
-          "start" : 2202560,
-          "end" : 2448800
-        },
-        {
-          "titel" : "Tag 08: Märchenstunde",
-          "start" : 2448800,
-          "end" : 2705213
-        },
-        {
-          "titel" : "Tag 09: Köder mit Schleife",
-          "start" : 2705213,
-          "end" : 3227933
-        },
-        {
-          "titel" : "Tag 10: Auf frischer Tat",
-          "start" : 3227933,
-          "end" : 3552400
-        },
-        {
-          "titel" : "Tag 11: Kurzfinger",
-          "start" : 3552400,
-          "end" : 3785267
-        },
-        {
-          "titel" : "Tag 12: Der Alligator",
-          "start" : 3785267,
-          "end" : 4156227
-        },
-        {
-          "titel" : "Tag 13: Eine schräge Nachtmusik",
-          "start" : 4156227,
-          "end" : 4545373
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/1/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/1/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "kapitel" : [
-        {
-          "titel" : "Tag 14: Die magische Laterne",
-          "start" : 0,
-          "end" : 396960
-        },
-        {
-          "titel" : "Tag 15: 96930 Arctic Circle",
-          "start" : 396960,
-          "end" : 810973
-        },
-        {
-          "titel" : "Tag 16: Die Übergabe",
-          "start" : 810973,
-          "end" : 1187973
-        },
-        {
-          "titel" : "Tag 17: Schritte im Dunkeln",
-          "start" : 1187973,
-          "end" : 1566493
-        },
-        {
-          "titel" : "Tag 18: Eine schreckliche Überraschung",
-          "start" : 1566493,
-          "end" : 2015493
-        },
-        {
-          "titel" : "Tag 19: Die Frau vom Polarkreis",
-          "start" : 2015493,
-          "end" : 2446413
-        },
-        {
-          "titel" : "Tag 20: Elf auf der Flucht",
-          "start" : 2446413,
-          "end" : 2969680
-        },
-        {
-          "titel" : "Tag 21: Verfolgte Verbrecher",
-          "start" : 2969680,
-          "end" : 3329387
-        },
-        {
-          "titel" : "Tag 22: Im Würgegriff der Rentiere",
-          "start" : 3329387,
-          "end" : 3695293
-        },
-        {
-          "titel" : "Tag 23: Nächstes Weihnachten",
-          "start" : 3695293,
-          "end" : 4101187
-        },
-        {
-          "titel" : "Tag 24: Mitarbeiter des Monats",
-          "start" : 4101187,
-          "end" : 4609387
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/2/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/2/rip_log.txt"
-      }
-    }
-  ],
   "titel" : "Eine schreckliche Bescherung",
   "autor" : "Marco Sonnleitner",
   "hörspielskriptautor" : "André Minninger",
@@ -393,6 +253,138 @@
     {
       "rolle" : "Bandenchef",
       "sprecher" : "Lars Schmidtke"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 01: Winterwunderland",
+          "start" : 0,
+          "end" : 483987
+        },
+        {
+          "titel" : "Tag 02: Angriff auf Santa Claus",
+          "start" : 483987,
+          "end" : 634960
+        },
+        {
+          "titel" : "Tag 03: Sabotage",
+          "start" : 634960,
+          "end" : 950920
+        },
+        {
+          "titel" : "Tag 04: Ein Sack voller Geheimnisse",
+          "start" : 950920,
+          "end" : 1342133
+        },
+        {
+          "titel" : "Tag 05: 36 x Elf",
+          "start" : 1342133,
+          "end" : 1805067
+        },
+        {
+          "titel" : "Tag 06: Bruder Justus",
+          "start" : 1805067,
+          "end" : 2202560
+        },
+        {
+          "titel" : "Tag 07: Elf gegen drei",
+          "start" : 2202560,
+          "end" : 2448800
+        },
+        {
+          "titel" : "Tag 08: Märchenstunde",
+          "start" : 2448800,
+          "end" : 2705213
+        },
+        {
+          "titel" : "Tag 09: Köder mit Schleife",
+          "start" : 2705213,
+          "end" : 3227933
+        },
+        {
+          "titel" : "Tag 10: Auf frischer Tat",
+          "start" : 3227933,
+          "end" : 3552400
+        },
+        {
+          "titel" : "Tag 11: Kurzfinger",
+          "start" : 3552400,
+          "end" : 3785267
+        },
+        {
+          "titel" : "Tag 12: Der Alligator",
+          "start" : 3785267,
+          "end" : 4156227
+        },
+        {
+          "titel" : "Tag 13: Eine schräge Nachtmusik",
+          "start" : 4156227,
+          "end" : 4545373
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 14: Die magische Laterne",
+          "start" : 0,
+          "end" : 396960
+        },
+        {
+          "titel" : "Tag 15: 96930 Arctic Circle",
+          "start" : 396960,
+          "end" : 810973
+        },
+        {
+          "titel" : "Tag 16: Die Übergabe",
+          "start" : 810973,
+          "end" : 1187973
+        },
+        {
+          "titel" : "Tag 17: Schritte im Dunkeln",
+          "start" : 1187973,
+          "end" : 1566493
+        },
+        {
+          "titel" : "Tag 18: Eine schreckliche Überraschung",
+          "start" : 1566493,
+          "end" : 2015493
+        },
+        {
+          "titel" : "Tag 19: Die Frau vom Polarkreis",
+          "start" : 2015493,
+          "end" : 2446413
+        },
+        {
+          "titel" : "Tag 20: Elf auf der Flucht",
+          "start" : 2446413,
+          "end" : 2969680
+        },
+        {
+          "titel" : "Tag 21: Verfolgte Verbrecher",
+          "start" : 2969680,
+          "end" : 3329387
+        },
+        {
+          "titel" : "Tag 22: Im Würgegriff der Rentiere",
+          "start" : 3329387,
+          "end" : 3695293
+        },
+        {
+          "titel" : "Tag 23: Nächstes Weihnachten",
+          "start" : 3695293,
+          "end" : 4101187
+        },
+        {
+          "titel" : "Tag 24: Mitarbeiter des Monats",
+          "start" : 4101187,
+          "end" : 4609387
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/rip_log2.txt"
     }
   ],
   "links" : {

@@ -81,10 +81,56 @@
       "sprecher" : "Eckart Dux"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Teilnahme kostenlos",
+          "start" : 0,
+          "end" : 423747
+        },
+        {
+          "titel" : "Justus' Eroberung",
+          "start" : 423747,
+          "end" : 988093
+        },
+        {
+          "titel" : "Auf Blondie ist Verlass",
+          "start" : 988093,
+          "end" : 1322067
+        },
+        {
+          "titel" : "Wer ist hier der Boss?",
+          "start" : 1322067,
+          "end" : 1625933
+        },
+        {
+          "titel" : "Unverhoffter Besuch",
+          "start" : 1625933,
+          "end" : 2200907
+        },
+        {
+          "titel" : "Gefahr von allen Seiten",
+          "start" : 2200907,
+          "end" : 2671960
+        },
+        {
+          "titel" : "Verfrühter Triumph",
+          "start" : 2671960,
+          "end" : 2947467
+        },
+        {
+          "titel" : "Flüsse aus Feuer",
+          "start" : 2947467,
+          "end" : 3270107
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/051/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/051/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/051/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/051/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/051/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/1b/de/8a/1bde8a9a-6d18-6e8e-daca-86801874c325/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180155if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/37/1d/ab/0743213885124.jpg"

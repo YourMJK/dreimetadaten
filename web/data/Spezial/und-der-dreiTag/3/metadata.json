@@ -3,7 +3,9 @@
   "buchstabe" : "P",
   "titel" : "Sicht P: Fremder Freund",
   "autor" : "Ivar Leon Menger",
+  "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Peter schwebt im siebten Himmel, denn er hat in einem Café Bekanntschaft mit einem großen Fan der drei ??? gemacht. Er wird sogar um ein Autogramm gebeten. Stolz und gut gelaunt verbringt Peter einen tollen Tag mit seinen Freunden, und alles wäre einfach perfekt, wenn er nicht plötzlich diese seltsamen Telefonanrufe und mysteriösen Briefe erhalten würde. Die drei Detektive werden heimlich beobachtet und sogar von einem Unbekannten fotografiert! Was soll das alles? Wer ist dieser seltsame Verfolger? Ist Peters Leben in Gefahr?",
+  "veröffentlichungsdatum" : "2010-10-01",
   "kapitel" : [
     {
       "titel" : "Die Cola",
@@ -128,19 +130,19 @@
     },
     {
       "rolle" : "Ian Bush",
-      "sprecher" : "Sky du Mont / Lukas T. Sperber"
+      "sprecher" : "Sky du Mont, Lukas T. Sperber"
     },
     {
       "rolle" : "Jimmy Sinclair",
-      "sprecher" : "Siegfried W. Kernen / Nils Noller"
+      "sprecher" : "Siegfried W. Kernen, Nils Noller"
     },
     {
       "rolle" : "Charlie Parker",
-      "sprecher" : "Oliver Böttcher / Laurence Kalaidjian"
+      "sprecher" : "Oliver Böttcher, Laurence Kalaidjian"
     },
     {
       "rolle" : "Brianna Jackson",
-      "sprecher" : "Hansi Jochmann / Natalie Demtrøder"
+      "sprecher" : "Hansi Jochmann, Natalie Demtrøder"
     },
     {
       "rolle" : "Chloe Smathers",
@@ -209,7 +211,6 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt"
   }
 }

@@ -144,10 +144,71 @@
       "sprecher" : "Maria Baptista"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Das Spiel beginnt",
+          "start" : 0,
+          "end" : 740400
+        },
+        {
+          "titel" : "Verbotene Recherchen",
+          "start" : 740400,
+          "end" : 971173
+        },
+        {
+          "titel" : "Shackles & Chains",
+          "start" : 971173,
+          "end" : 1356493
+        },
+        {
+          "titel" : "NVSR und Regentanz",
+          "start" : 1356493,
+          "end" : 1687827
+        },
+        {
+          "titel" : "Verfolgt?",
+          "start" : 1687827,
+          "end" : 1793987
+        },
+        {
+          "titel" : "Nachtwache",
+          "start" : 1793987,
+          "end" : 2409333
+        },
+        {
+          "titel" : "Boblos in der Wüste",
+          "start" : 2409333,
+          "end" : 2969373
+        },
+        {
+          "titel" : "Black & White",
+          "start" : 2969373,
+          "end" : 3567120
+        },
+        {
+          "titel" : "Verkleidet",
+          "start" : 3567120,
+          "end" : 4277413
+        },
+        {
+          "titel" : "Im Namen des Gesetzes",
+          "start" : 4277413,
+          "end" : 4636707
+        },
+        {
+          "titel" : "Geheimnisse",
+          "start" : 4636707,
+          "end" : 4816533
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/170/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/170/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/170/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/170/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/170/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/92/7c/70/927c7044-8078-6a25-4d74-65f0018fda86/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111212301if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/16/33/f0/0887254004028.jpg"

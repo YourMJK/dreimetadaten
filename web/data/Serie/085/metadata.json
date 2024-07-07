@@ -83,10 +83,46 @@
       "sprecher" : "Ingrid Weiß"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Absender unbekannt",
+          "start" : 0,
+          "end" : 513733
+        },
+        {
+          "titel" : "Auf in die Wildnis",
+          "start" : 513733,
+          "end" : 932733
+        },
+        {
+          "titel" : "Die Botschaft des Königs",
+          "start" : 932733,
+          "end" : 1476733
+        },
+        {
+          "titel" : "Der schwarze Turm",
+          "start" : 1476733,
+          "end" : 2067720
+        },
+        {
+          "titel" : "Feuer",
+          "start" : 2067720,
+          "end" : 2797720
+        },
+        {
+          "titel" : "Auf heißer Spur",
+          "start" : 2797720,
+          "end" : 3562000
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/085/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/085/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/085/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/085/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/085/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/31/4b/84/314b8425-48ee-ff1e-0d9c-5e230c5f2203/source",
     "cover_kosmos" : "http://web.archive.org/web/20220106180916if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/9b/9d/e8/0743216568628.jpg"

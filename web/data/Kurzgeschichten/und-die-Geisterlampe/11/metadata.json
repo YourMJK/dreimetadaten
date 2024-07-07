@@ -1,0 +1,49 @@
+{
+  "teilNummer" : 11,
+  "titel" : "Psychomoon",
+  "autor" : "Kari Erlhoff",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Kellys Tante wird erpresst und die drei ??? sollen bei der Übergabe des Geldes behilflich sein. Aber in dem Motel, in dem Peter und Kelly absteigen, passieren merkwürdige Dinge …",
+  "veröffentlichungsdatum" : "2011-12-22",
+  "kapitel" : [
+    {
+      "titel" : "Psychomoon",
+      "start" : 0,
+      "end" : 670160
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Norman",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Frau",
+      "sprecher" : "Anja Topf"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/11/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/11/ffmetadata.txt"
+  }
+}

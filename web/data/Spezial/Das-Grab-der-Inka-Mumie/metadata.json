@@ -1,84 +1,4 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "kapitel" : [
-        {
-          "titel" : "Ein Mumienschrein in Rocky Beach",
-          "start" : 0,
-          "end" : 517133
-        },
-        {
-          "titel" : "Doch ein Auftrag",
-          "start" : 517133,
-          "end" : 766627
-        },
-        {
-          "titel" : "Ein halber Inka",
-          "start" : 766627,
-          "end" : 1054493
-        },
-        {
-          "titel" : "Frauengeschichten",
-          "start" : 1054493,
-          "end" : 1278067
-        },
-        {
-          "titel" : "Kein Entkommen",
-          "start" : 1278067,
-          "end" : 1533707
-        },
-        {
-          "titel" : "Einbruch ins Dunkel",
-          "start" : 1533707,
-          "end" : 2322920
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/1/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/1/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "kapitel" : [
-        {
-          "titel" : "Eine Mumie im Luxusbad",
-          "start" : 0,
-          "end" : 701947
-        },
-        {
-          "titel" : "Willkommen daheim",
-          "start" : 701947,
-          "end" : 871147
-        },
-        {
-          "titel" : "Der Einzige Inka",
-          "start" : 871147,
-          "end" : 1402027
-        },
-        {
-          "titel" : "Stadt, Land, Fluss",
-          "start" : 1402027,
-          "end" : 1901187
-        },
-        {
-          "titel" : "Sommersonnenwendabenteuer",
-          "start" : 1901187,
-          "end" : 2237160
-        },
-        {
-          "titel" : "Tränen des Mondes",
-          "start" : 2237160,
-          "end" : 3059627
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/2/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/2/rip_log.txt"
-      }
-    }
-  ],
   "titel" : "Das Grab der Inka-Mumie",
   "autor" : "Christoph Dittert",
   "hörspielskriptautor" : "Yona Franke",
@@ -240,6 +160,78 @@
     {
       "rolle" : "Kind 2",
       "sprecher" : "Julia Fölster"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Mumienschrein in Rocky Beach",
+          "start" : 0,
+          "end" : 517133
+        },
+        {
+          "titel" : "Doch ein Auftrag",
+          "start" : 517133,
+          "end" : 766627
+        },
+        {
+          "titel" : "Ein halber Inka",
+          "start" : 766627,
+          "end" : 1054493
+        },
+        {
+          "titel" : "Frauengeschichten",
+          "start" : 1054493,
+          "end" : 1278067
+        },
+        {
+          "titel" : "Kein Entkommen",
+          "start" : 1278067,
+          "end" : 1533707
+        },
+        {
+          "titel" : "Einbruch ins Dunkel",
+          "start" : 1533707,
+          "end" : 2322920
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine Mumie im Luxusbad",
+          "start" : 0,
+          "end" : 701947
+        },
+        {
+          "titel" : "Willkommen daheim",
+          "start" : 701947,
+          "end" : 871147
+        },
+        {
+          "titel" : "Der Einzige Inka",
+          "start" : 871147,
+          "end" : 1402027
+        },
+        {
+          "titel" : "Stadt, Land, Fluss",
+          "start" : 1402027,
+          "end" : 1901187
+        },
+        {
+          "titel" : "Sommersonnenwendabenteuer",
+          "start" : 1901187,
+          "end" : 2237160
+        },
+        {
+          "titel" : "Tränen des Mondes",
+          "start" : 2237160,
+          "end" : 3059627
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/rip_log2.txt"
     }
   ],
   "links" : {

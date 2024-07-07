@@ -111,6 +111,52 @@
       "sprecher" : "Joachim Richert"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Blinder läuft davon",
+          "start" : 0,
+          "end" : 413907
+        },
+        {
+          "titel" : "Ein neuer Fall für die drei ???",
+          "start" : 413907,
+          "end" : 800533
+        },
+        {
+          "titel" : "Mr. Bonestells Bericht",
+          "start" : 800533,
+          "end" : 1205347
+        },
+        {
+          "titel" : "Neue Fährten",
+          "start" : 1205347,
+          "end" : 1483067
+        },
+        {
+          "titel" : "Die Terroristen",
+          "start" : 1483067,
+          "end" : 1816760
+        },
+        {
+          "titel" : "Die Warnung",
+          "start" : 1816760,
+          "end" : 2102840
+        },
+        {
+          "titel" : "Ernie macht Geschäfte",
+          "start" : 2102840,
+          "end" : 2558907
+        },
+        {
+          "titel" : "Ein Alptraum wird wahr!",
+          "start" : 2558907,
+          "end" : 2984573
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/031/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/031/ffmetadata.txt",

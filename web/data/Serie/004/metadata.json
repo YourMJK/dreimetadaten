@@ -116,6 +116,52 @@
       "sprecher" : "Gernot Endemann"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Haltet den Dieb",
+          "start" : 0,
+          "end" : 373600
+        },
+        {
+          "titel" : "Peter beweist seinen Mut",
+          "start" : 373600,
+          "end" : 702387
+        },
+        {
+          "titel" : "Andy wundert sich",
+          "start" : 702387,
+          "end" : 1027800
+        },
+        {
+          "titel" : "Wer sucht eine schwarze Katze?",
+          "start" : 1027800,
+          "end" : 1329200
+        },
+        {
+          "titel" : "Der Mann mit der Tätowierung",
+          "start" : 1329200,
+          "end" : 1630253
+        },
+        {
+          "titel" : "In der Falle",
+          "start" : 1630253,
+          "end" : 2019613
+        },
+        {
+          "titel" : "Justus kombiniert",
+          "start" : 2019613,
+          "end" : 2320027
+        },
+        {
+          "titel" : "Der Räuber wird entlarvt",
+          "start" : 2320027,
+          "end" : 2662960
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/004/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/004/ffmetadata.txt",

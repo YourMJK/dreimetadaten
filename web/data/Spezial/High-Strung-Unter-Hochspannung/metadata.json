@@ -106,10 +106,61 @@
       "sprecher" : "Heikedine Körting"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Guten Morgen, Rocky Beach",
+          "start" : 0,
+          "end" : 404573
+        },
+        {
+          "titel" : "Haltet den Dieb!",
+          "start" : 404573,
+          "end" : 942667
+        },
+        {
+          "titel" : "Alarm!",
+          "start" : 942667,
+          "end" : 1209693
+        },
+        {
+          "titel" : "Überfall",
+          "start" : 1209693,
+          "end" : 1369080
+        },
+        {
+          "titel" : "Aufgekauft",
+          "start" : 1369080,
+          "end" : 1568280
+        },
+        {
+          "titel" : "Vorsicht, Schlange!",
+          "start" : 1568280,
+          "end" : 2410227
+        },
+        {
+          "titel" : "Weiße Weihnacht",
+          "start" : 2410227,
+          "end" : 2536653
+        },
+        {
+          "titel" : "Was fehlt denn da?",
+          "start" : 2536653,
+          "end" : 2972787
+        },
+        {
+          "titel" : "Jailhouse Rock",
+          "start" : 2972787,
+          "end" : 3170453
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music49/v4/30/a3/5b/30a35bd3-ae05-4a15-cd1b-674753aee0e2/886445749465.jpg"
   }

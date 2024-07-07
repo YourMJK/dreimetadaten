@@ -109,10 +109,56 @@
       "sprecher" : "Stephanie Damare"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Nächtliche Begegnung",
+          "start" : 0,
+          "end" : 415427
+        },
+        {
+          "titel" : "Ein Geist in der Zentrale",
+          "start" : 415427,
+          "end" : 997027
+        },
+        {
+          "titel" : "Gut versichert!",
+          "start" : 997027,
+          "end" : 1698120
+        },
+        {
+          "titel" : "Les Centuries",
+          "start" : 1698120,
+          "end" : 2367280
+        },
+        {
+          "titel" : "Dunkle Vorahnungen",
+          "start" : 2367280,
+          "end" : 2943987
+        },
+        {
+          "titel" : "Ausgetrickst",
+          "start" : 2943987,
+          "end" : 3620293
+        },
+        {
+          "titel" : "Erklärungen",
+          "start" : 3620293,
+          "end" : 4009120
+        },
+        {
+          "titel" : "Blick in die Zukunft",
+          "start" : 4009120,
+          "end" : 4627360
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/8/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/8/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/8/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/8/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/DiE_DR3i/8/cover.png"
   }
 }

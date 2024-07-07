@@ -2,7 +2,10 @@
   "teilNummer" : 1,
   "buchstabe" : "A",
   "titel" : "Rashuras Schatz",
+  "autor" : "Astrid Vollenbruch",
+  "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Die drei berühmten Detektive aus Rocky Beach müssen ein Rätsel lösen, das ihnen der schrullige Harry Shreber in seinem Testament hinterlassen hat. Schnell finden sie heraus, dass der erste Hinweis in einem schrottreifen Flugzeug in Shrebers Garten versteckt sein könnte. Die Suche nach Rashuras Schatz beginnt – aber Justus, Peter und Bob sind bei weitem nicht die Einzigen, die das Rätsel lösen wollen …",
+  "veröffentlichungsdatum" : "2011-11-11",
   "kapitel" : [
     {
       "titel" : "Eine rätselhafte Erbschaft",
@@ -151,7 +154,6 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/150/1/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/1/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/150/1/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/1/ffmetadata.txt"
   }
 }

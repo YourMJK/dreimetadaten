@@ -100,10 +100,71 @@
       "sprecher" : "Alexander Müller"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Panik!",
+          "start" : 0,
+          "end" : 265680
+        },
+        {
+          "titel" : "Der Lebensretter",
+          "start" : 265680,
+          "end" : 547587
+        },
+        {
+          "titel" : "Mehrere Todesopfer",
+          "start" : 547587,
+          "end" : 917427
+        },
+        {
+          "titel" : "Im Tropeninstitut",
+          "start" : 917427,
+          "end" : 1488587
+        },
+        {
+          "titel" : "Deep Throat",
+          "start" : 1488587,
+          "end" : 1763173
+        },
+        {
+          "titel" : "Feueralarm",
+          "start" : 1763173,
+          "end" : 2156213
+        },
+        {
+          "titel" : "Von Gifttieren attackiert",
+          "start" : 2156213,
+          "end" : 2388360
+        },
+        {
+          "titel" : "Notruf",
+          "start" : 2388360,
+          "end" : 2828693
+        },
+        {
+          "titel" : "Die Lösung",
+          "start" : 2828693,
+          "end" : 2994813
+        },
+        {
+          "titel" : "Purer Sand",
+          "start" : 2994813,
+          "end" : 3251987
+        },
+        {
+          "titel" : "Einfache Logik",
+          "start" : 3251987,
+          "end" : 3528253
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/120/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/120/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/120/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/120/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/120/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/99/41/b1/9941b196-0ece-26a3-7b77-a9dbe07c05d2/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111212314if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/36/89/5b/0743219912022.jpg"

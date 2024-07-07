@@ -120,10 +120,71 @@
       "sprecher" : "Frank Thannhäuser"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Giftiges Geheimnis",
+          "start" : 0,
+          "end" : 517893
+        },
+        {
+          "titel" : "Eisenmann",
+          "start" : 517893,
+          "end" : 750520
+        },
+        {
+          "titel" : "Ein toter Vogel",
+          "start" : 750520,
+          "end" : 1555160
+        },
+        {
+          "titel" : "Kundschaft",
+          "start" : 1555160,
+          "end" : 1786840
+        },
+        {
+          "titel" : "Unter Verdacht",
+          "start" : 1786840,
+          "end" : 2064840
+        },
+        {
+          "titel" : "Gsch-Gsch!",
+          "start" : 2064840,
+          "end" : 2345920
+        },
+        {
+          "titel" : "Filmreife Flucht",
+          "start" : 2345920,
+          "end" : 2657213
+        },
+        {
+          "titel" : "Ein seltsamer Irrtum",
+          "start" : 2657213,
+          "end" : 2886973
+        },
+        {
+          "titel" : "Fragen über Fragen",
+          "start" : 2886973,
+          "end" : 3353173
+        },
+        {
+          "titel" : "Nacht im Bunker",
+          "start" : 3353173,
+          "end" : 4237453
+        },
+        {
+          "titel" : "Die letzten Fragen",
+          "start" : 4237453,
+          "end" : 4375213
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/172/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/172/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/172/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/172/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/172/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music122/v4/cc/65/a6/cc65a6f0-817b-1df8-21b3-82e33ccaa0d1/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180109if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/fa/cb/c4/0888430093027.jpg"

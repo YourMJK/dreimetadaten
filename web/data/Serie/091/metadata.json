@@ -71,10 +71,46 @@
       "sprecher" : "Barbara Schipper"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Fragen Sie die Götter",
+          "start" : 0,
+          "end" : 535480
+        },
+        {
+          "titel" : "Im Labyrinth",
+          "start" : 535480,
+          "end" : 1273893
+        },
+        {
+          "titel" : "\"Utopia\"",
+          "start" : 1273893,
+          "end" : 1801853
+        },
+        {
+          "titel" : "Im Planetarium",
+          "start" : 1801853,
+          "end" : 2096373
+        },
+        {
+          "titel" : "Römisch-Griechisch",
+          "start" : 2096373,
+          "end" : 2905720
+        },
+        {
+          "titel" : "Die ganze Wahrheit",
+          "start" : 2905720,
+          "end" : 3597147
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/091/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/091/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/091/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/091/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/091/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/42/f8/da/42f8daf5-c652-9690-283f-2a0bad5da32d/source",
     "cover_kosmos" : "http://web.archive.org/web/20211227022653if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/43/20/e3/0743217797928.jpg"

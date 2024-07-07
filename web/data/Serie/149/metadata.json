@@ -143,10 +143,86 @@
       "sprecher" : "Frank Meyer-Brockmann"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Vandalismus",
+          "start" : 0,
+          "end" : 387640
+        },
+        {
+          "titel" : "Terror in Seven Pines",
+          "start" : 387640,
+          "end" : 668600
+        },
+        {
+          "titel" : "Nein!",
+          "start" : 668600,
+          "end" : 747667
+        },
+        {
+          "titel" : "Nacht in Angst",
+          "start" : 747667,
+          "end" : 971480
+        },
+        {
+          "titel" : "Miss Biss",
+          "start" : 971480,
+          "end" : 1207773
+        },
+        {
+          "titel" : "Junge ohne Namen",
+          "start" : 1207773,
+          "end" : 1853787
+        },
+        {
+          "titel" : "Ein Baum in Nöten",
+          "start" : 1853787,
+          "end" : 2177787
+        },
+        {
+          "titel" : "Kein gutes Verhältnis",
+          "start" : 2177787,
+          "end" : 2273853
+        },
+        {
+          "titel" : "Auf Leben und Tod",
+          "start" : 2273853,
+          "end" : 2705707
+        },
+        {
+          "titel" : "Echte Kerle",
+          "start" : 2705707,
+          "end" : 2845787
+        },
+        {
+          "titel" : "Rachespiel",
+          "start" : 2845787,
+          "end" : 3017587
+        },
+        {
+          "titel" : "Bombenstimmung",
+          "start" : 3017587,
+          "end" : 3226547
+        },
+        {
+          "titel" : "Schutt und Asche",
+          "start" : 3226547,
+          "end" : 3539120
+        },
+        {
+          "titel" : "Happy Ending",
+          "start" : 3539120,
+          "end" : 3717773
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/149/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/149/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/149/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/149/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/149/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/89/fe/eb/89feeb6a-d74e-bf5d-c599-3cea28ef701b/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111212304if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/de/5a/de/0886978014924.jpg"

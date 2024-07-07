@@ -85,10 +85,56 @@
       "sprecher" : "Andreas von der Meden"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Man spricht vom Gespensterschloss",
+          "start" : 0,
+          "end" : 305493
+        },
+        {
+          "titel" : "Echo aus dem Jenseits",
+          "start" : 305493,
+          "end" : 666893
+        },
+        {
+          "titel" : "In der Falle!",
+          "start" : 666893,
+          "end" : 1071107
+        },
+        {
+          "titel" : "Der Mann mit der Narbe",
+          "start" : 1071107,
+          "end" : 1449360
+        },
+        {
+          "titel" : "Die Warnung der Zigeunerin",
+          "start" : 1449360,
+          "end" : 1776747
+        },
+        {
+          "titel" : "Das blaue Phantom",
+          "start" : 1776747,
+          "end" : 2224040
+        },
+        {
+          "titel" : "Im Verlies",
+          "start" : 2224040,
+          "end" : 2548187
+        },
+        {
+          "titel" : "Interview mit einem Gespenst",
+          "start" : 2548187,
+          "end" : 2894907
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/011/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/011/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/011/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/011/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/011/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/cd/c3/65/cdc36537-ec11-9175-81ba-869e45908266/source",
     "cover_kosmos" : "http://web.archive.org/web/20211227022658if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f6/90/5e/0743213881126.jpg"

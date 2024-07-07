@@ -2,7 +2,10 @@
   "teilNummer" : 1,
   "buchstabe" : "A",
   "titel" : "Das Rätsel der Sphinx",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Ein seltsames Rätsel und ein unbekannter Anrufer. Die drei ??? haben alle Hände voll zu tun. Wer oder was verbirgt sich hinter dem geheimnisvollen Namen \"Sphinx\"? Alle Fäden laufen auf der \"Explorer\" zusammen, einem Schiff, auf dem der neueste Fall für Justus, Peter und Bob eine dramatische Wendung nimmt …",
+  "veröffentlichungsdatum" : "2001-10-15",
   "kapitel" : [
     {
       "titel" : "Botschaft von Geisterhand",
@@ -79,7 +82,6 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/100/1/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/1/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/100/1/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/1/ffmetadata.txt"
   }
 }

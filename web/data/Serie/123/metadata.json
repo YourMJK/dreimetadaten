@@ -100,10 +100,71 @@
       "sprecher" : "Peter Heinrich Brix"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Abergläubische Großeltern",
+          "start" : 0,
+          "end" : 305107
+        },
+        {
+          "titel" : "Schock!",
+          "start" : 305107,
+          "end" : 851347
+        },
+        {
+          "titel" : "Totenuhr im Wohnzimmer",
+          "start" : 851347,
+          "end" : 1144893
+        },
+        {
+          "titel" : "Dunkler Punkt in der Vergangenheit",
+          "start" : 1144893,
+          "end" : 1515587
+        },
+        {
+          "titel" : "Herzanfall!",
+          "start" : 1515587,
+          "end" : 1826600
+        },
+        {
+          "titel" : "Verfluchte Grabkammer",
+          "start" : 1826600,
+          "end" : 2285080
+        },
+        {
+          "titel" : "Völlig desorientiert",
+          "start" : 2285080,
+          "end" : 2477853
+        },
+        {
+          "titel" : "In der Falle",
+          "start" : 2477853,
+          "end" : 2827893
+        },
+        {
+          "titel" : "Der Schreck in den Gliedern",
+          "start" : 2827893,
+          "end" : 3109800
+        },
+        {
+          "titel" : "Im Hexenkessel",
+          "start" : 3109800,
+          "end" : 3184333
+        },
+        {
+          "titel" : "Angst und Abscheu",
+          "start" : 3184333,
+          "end" : 3677213
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/123/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/123/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/123/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/123/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/123/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/4c/4b/56/4c4b56ab-d5a0-4eb8-bc41-0a319cde68ff/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115135342if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c8/50/c6/0828766712322.jpg"

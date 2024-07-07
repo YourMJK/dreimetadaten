@@ -101,10 +101,56 @@
       "sprecher" : "Frank Meyer-Brockmann"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Tödliche Gefahr",
+          "start" : 0,
+          "end" : 475547
+        },
+        {
+          "titel" : "Eine rätselhafte Tür",
+          "start" : 475547,
+          "end" : 876093
+        },
+        {
+          "titel" : "Rätsel auf dem Höhlengrund",
+          "start" : 876093,
+          "end" : 1332093
+        },
+        {
+          "titel" : "In der Hand der Räuber",
+          "start" : 1332093,
+          "end" : 1813307
+        },
+        {
+          "titel" : "Wie vom Erdboden verschluckt",
+          "start" : 1813307,
+          "end" : 2404093
+        },
+        {
+          "titel" : "Erpressung inklusive",
+          "start" : 2404093,
+          "end" : 2900173
+        },
+        {
+          "titel" : "Bruder Benedikt beichtet",
+          "start" : 2900173,
+          "end" : 3310747
+        },
+        {
+          "titel" : "Wiener Unterwelt",
+          "start" : 3310747,
+          "end" : 3799320
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/067/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/067/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/067/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/067/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/067/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/2a/de/b4/2adeb4d6-8000-9e52-bb64-ae4f0dcad8ec/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180145if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/94/fb/e4/0743213558325.jpg"

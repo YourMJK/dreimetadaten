@@ -110,6 +110,52 @@
       "sprecher" : "Marianne Kehlau"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Unerwarteter Empfang",
+          "start" : 0,
+          "end" : 367720
+        },
+        {
+          "titel" : "Das Gespenst tritt auf",
+          "start" : 367720,
+          "end" : 694373
+        },
+        {
+          "titel" : "Endlich auf der Geisterinsel",
+          "start" : 694373,
+          "end" : 881747
+        },
+        {
+          "titel" : "Ein Totenschädel spricht",
+          "start" : 881747,
+          "end" : 1304760
+        },
+        {
+          "titel" : "Der erste Fund",
+          "start" : 1304760,
+          "end" : 1726600
+        },
+        {
+          "titel" : "Die Katastrophe",
+          "start" : 1726600,
+          "end" : 2005240
+        },
+        {
+          "titel" : "Eine aufregende Entdeckung",
+          "start" : 2005240,
+          "end" : 2340840
+        },
+        {
+          "titel" : "Rettung in letzter Minute",
+          "start" : 2340840,
+          "end" : 2606493
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/018/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/018/ffmetadata.txt",

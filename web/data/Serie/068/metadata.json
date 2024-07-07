@@ -81,10 +81,56 @@
       "sprecher" : "Lutz Schnell"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Abgestürzt",
+          "start" : 0,
+          "end" : 496760
+        },
+        {
+          "titel" : "Überfall aus der Luft",
+          "start" : 496760,
+          "end" : 986600
+        },
+        {
+          "titel" : "Verschollen im Wallis",
+          "start" : 986600,
+          "end" : 1312760
+        },
+        {
+          "titel" : "Der letzte Erkundungsflug",
+          "start" : 1312760,
+          "end" : 1790093
+        },
+        {
+          "titel" : "Mitten im Spionage-Thriller",
+          "start" : 1790093,
+          "end" : 2477760
+        },
+        {
+          "titel" : "Jerzys Plan",
+          "start" : 2477760,
+          "end" : 2916680
+        },
+        {
+          "titel" : "Mit dem U-Boot in die Tiefe",
+          "start" : 2916680,
+          "end" : 3214720
+        },
+        {
+          "titel" : "Code 999",
+          "start" : 3214720,
+          "end" : 3581227
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/068/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/068/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/068/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/068/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/068/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/39/d8/5b/39d85baf-b146-6fb2-4c15-e80afaf87525/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111212343if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/80/fc/8e/0743213558424.jpg"

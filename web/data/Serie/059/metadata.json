@@ -101,10 +101,56 @@
       "sprecher" : "Michael Mechel"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine Stadt wird erpresst",
+          "start" : 0,
+          "end" : 267880
+        },
+        {
+          "titel" : "Auf Eis gelegt",
+          "start" : 267880,
+          "end" : 690600
+        },
+        {
+          "titel" : "Trotz Regen – kein Wasser",
+          "start" : 690600,
+          "end" : 999907
+        },
+        {
+          "titel" : "Flucht auf der Harley",
+          "start" : 999907,
+          "end" : 1328827
+        },
+        {
+          "titel" : "Anweisung vom Erpresser",
+          "start" : 1328827,
+          "end" : 1644293
+        },
+        {
+          "titel" : "Verbotener Handel",
+          "start" : 1644293,
+          "end" : 2044893
+        },
+        {
+          "titel" : "Auf Drogenentzug",
+          "start" : 2044893,
+          "end" : 2361133
+        },
+        {
+          "titel" : "Im Stich gelassen",
+          "start" : 2361133,
+          "end" : 2667307
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/059/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/059/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/059/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/059/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/059/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/6f/f4/79/6ff47958-586c-ebea-9cb7-a2a21468a1d0/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111212358if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/13/bc/39/0743211851329.jpg"

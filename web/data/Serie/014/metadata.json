@@ -105,6 +105,52 @@
       "sprecher" : "Franz-Josef Steffens"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein seltsamer Empfang",
+          "start" : 0,
+          "end" : 349613
+        },
+        {
+          "titel" : "Wer schleicht durch die Nacht?",
+          "start" : 349613,
+          "end" : 716013
+        },
+        {
+          "titel" : "Der Monsterberg",
+          "start" : 716013,
+          "end" : 1155747
+        },
+        {
+          "titel" : "Das wilde Tier aus dem Wald",
+          "start" : 1155747,
+          "end" : 1335227
+        },
+        {
+          "titel" : "Spur von nackten Sohlen",
+          "start" : 1335227,
+          "end" : 1741573
+        },
+        {
+          "titel" : "Justus blickt nicht mehr durch",
+          "start" : 1741573,
+          "end" : 1990573
+        },
+        {
+          "titel" : "Der Berg brennt!",
+          "start" : 1990573,
+          "end" : 2305467
+        },
+        {
+          "titel" : "Die Doppelgängerin",
+          "start" : 2305467,
+          "end" : 2550187
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/014/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/014/ffmetadata.txt",

@@ -111,10 +111,46 @@
       "sprecher" : "Andreas Zaron"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Das Ding in der Dunkelheit",
+          "start" : 0,
+          "end" : 701600
+        },
+        {
+          "titel" : "Verräterische Spuren",
+          "start" : 701600,
+          "end" : 1405773
+        },
+        {
+          "titel" : "Gefährliche Ermittlungen",
+          "start" : 1405773,
+          "end" : 2020867
+        },
+        {
+          "titel" : "Recherchen und Archiv",
+          "start" : 2020867,
+          "end" : 2483227
+        },
+        {
+          "titel" : "Coldfield",
+          "start" : 2483227,
+          "end" : 3174680
+        },
+        {
+          "titel" : "Zurück zum Schrottplatz",
+          "start" : 3174680,
+          "end" : 4250387
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/208/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/208/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/208/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/208/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/208/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music124/v4/51/d8/57/51d857b6-6613-f50e-7805-fbc71204533f/source"
   }

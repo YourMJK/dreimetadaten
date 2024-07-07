@@ -97,6 +97,52 @@
       "sprecher" : "Günther Dockerill"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der kleine Ausreißer",
+          "start" : 0,
+          "end" : 548107
+        },
+        {
+          "titel" : "Es kommt ganz schlimm!",
+          "start" : 548107,
+          "end" : 984133
+        },
+        {
+          "titel" : "Böse Zungen",
+          "start" : 984133,
+          "end" : 1282507
+        },
+        {
+          "titel" : "Ein Dieb geht baden",
+          "start" : 1282507,
+          "end" : 1615600
+        },
+        {
+          "titel" : "Grauen unter Wasser!",
+          "start" : 1615600,
+          "end" : 2036120
+        },
+        {
+          "titel" : "Antworten werfen neue Fragen auf",
+          "start" : 2036120,
+          "end" : 2404280
+        },
+        {
+          "titel" : "Ein verborgener Schatz!",
+          "start" : 2404280,
+          "end" : 2763693
+        },
+        {
+          "titel" : "Justus entwickelt eine Theorie",
+          "start" : 2763693,
+          "end" : 3293027
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/037/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/037/ffmetadata.txt",

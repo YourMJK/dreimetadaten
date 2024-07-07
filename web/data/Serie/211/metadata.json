@@ -91,10 +91,46 @@
       "sprecher" : "Rosemarie Wohlbauer"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Anfang",
+          "start" : 0,
+          "end" : 452387
+        },
+        {
+          "titel" : "Green British Nanda 2 Pence",
+          "start" : 452387,
+          "end" : 994880
+        },
+        {
+          "titel" : "Rick und Marlow",
+          "start" : 994880,
+          "end" : 1676240
+        },
+        {
+          "titel" : "Nächtlicher Besuch",
+          "start" : 1676240,
+          "end" : 2336853
+        },
+        {
+          "titel" : "Ein Liebespaar",
+          "start" : 2336853,
+          "end" : 3260760
+        },
+        {
+          "titel" : "In Flammen",
+          "start" : 3260760,
+          "end" : 4321973
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/211/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/211/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/211/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/211/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/211/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music115/v4/b9/49/4f/b9494ff8-0fff-45c3-609b-1aef8010d5d1/source"
   }

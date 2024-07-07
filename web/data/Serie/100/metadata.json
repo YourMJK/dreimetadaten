@@ -5,7 +5,10 @@
       "teilNummer" : 1,
       "buchstabe" : "A",
       "titel" : "Das Rätsel der Sphinx",
+      "autor" : "André Marx",
+      "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Ein seltsames Rätsel und ein unbekannter Anrufer. Die drei ??? haben alle Hände voll zu tun. Wer oder was verbirgt sich hinter dem geheimnisvollen Namen \"Sphinx\"? Alle Fäden laufen auf der \"Explorer\" zusammen, einem Schiff, auf dem der neueste Fall für Justus, Peter und Bob eine dramatische Wendung nimmt …",
+      "veröffentlichungsdatum" : "2001-10-15",
       "kapitel" : [
         {
           "titel" : "Botschaft von Geisterhand",
@@ -82,15 +85,17 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/100/1/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/1/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Serie/100/1/rip_log.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/1/ffmetadata.txt"
       }
     },
     {
       "teilNummer" : 2,
       "buchstabe" : "B",
       "titel" : "Das vergessene Volk",
+      "autor" : "André Marx",
+      "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Dichter Urwald, ein Vulkankrater und eine unbewohnte Insel.\nPeter Shaw – ganz auf sich allein gestellt – durchlebt im Dschungel einen wahren Albtraum. Wer ist das entstellte Narbengesicht, dem er urplötzlich in einer unterirdischen Höhle gegenüber steht?",
+      "veröffentlichungsdatum" : "2001-10-15",
       "kapitel" : [
         {
           "titel" : "Die Schattenmänner",
@@ -187,15 +192,17 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/100/2/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/2/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Serie/100/2/rip_log.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/2/ffmetadata.txt"
       }
     },
     {
       "teilNummer" : 3,
       "buchstabe" : "C",
       "titel" : "Der Fluch der Gräber",
+      "autor" : "André Marx",
+      "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Eine Bombendrohung, Raketenköpfe und den Tod vor Augen zu haben, bringen nicht nur den ängstlichen Zweiten Detektiv gehörig ins Schwitzen.\n\"Makatao\", die Toteninsel, entpuppt sich als eine gefährliche Falle.\nEin nervenaufreibender Wettlauf mit der Zeit beginnt …",
+      "veröffentlichungsdatum" : "2001-10-15",
       "kapitel" : [
         {
           "titel" : "Verdeckte Fouls",
@@ -280,8 +287,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/100/3/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/3/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Serie/100/3/rip_log.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/3/ffmetadata.txt"
       }
     }
   ],
@@ -350,6 +356,113 @@
     {
       "rolle" : "Anne",
       "sprecher" : "Corinna Wodrich"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Botschaft von Geisterhand",
+          "start" : 0,
+          "end" : 490480
+        },
+        {
+          "titel" : "Der verschwundene Schatz",
+          "start" : 490480,
+          "end" : 1098520
+        },
+        {
+          "titel" : "Die Geisterinsel",
+          "start" : 1098520,
+          "end" : 1580160
+        },
+        {
+          "titel" : "Der unsichtbare Gegner",
+          "start" : 1580160,
+          "end" : 2095880
+        },
+        {
+          "titel" : "Gefahr im Verzug",
+          "start" : 2095880,
+          "end" : 2660453
+        },
+        {
+          "titel" : "Das Geisterschiff",
+          "start" : 2660453,
+          "end" : 3204573
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/100/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Schattenmänner",
+          "start" : 0,
+          "end" : 500840
+        },
+        {
+          "titel" : "Der rasende Löwe",
+          "start" : 500840,
+          "end" : 1070627
+        },
+        {
+          "titel" : "Der Doppelgänger",
+          "start" : 1070627,
+          "end" : 1677840
+        },
+        {
+          "titel" : "Der magische Kreis",
+          "start" : 1677840,
+          "end" : 2187973
+        },
+        {
+          "titel" : "Das Narbengesicht",
+          "start" : 2187973,
+          "end" : 2922893
+        },
+        {
+          "titel" : "Nacht in Angst",
+          "start" : 2922893,
+          "end" : 3376800
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/100/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Verdeckte Fouls",
+          "start" : 0,
+          "end" : 618853
+        },
+        {
+          "titel" : "Die Rache des Tigers",
+          "start" : 618853,
+          "end" : 1016733
+        },
+        {
+          "titel" : "Die rätselhaften Bilder",
+          "start" : 1016733,
+          "end" : 1685640
+        },
+        {
+          "titel" : "Das Geheimnis der Särge",
+          "start" : 1685640,
+          "end" : 2235333
+        },
+        {
+          "titel" : "Dreckiger Deal",
+          "start" : 2235333,
+          "end" : 2721600
+        },
+        {
+          "titel" : "Tödliche Spur",
+          "start" : 2721600,
+          "end" : 3410493
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/100/rip_log3.txt"
     }
   ],
   "links" : {

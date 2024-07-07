@@ -118,6 +118,52 @@
       "sprecher" : "Edgar Bessen"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Unbekannte",
+          "start" : 0,
+          "end" : 312493
+        },
+        {
+          "titel" : "Böses Blut!",
+          "start" : 312493,
+          "end" : 748653
+        },
+        {
+          "titel" : "Besuch bei einem Toten",
+          "start" : 748653,
+          "end" : 1129800
+        },
+        {
+          "titel" : "Es tut sich was in Citrus Grove",
+          "start" : 1129800,
+          "end" : 1615347
+        },
+        {
+          "titel" : "Die Fußspur mit den vier Zehen",
+          "start" : 1615347,
+          "end" : 2007507
+        },
+        {
+          "titel" : "Noch ein Diebstahl",
+          "start" : 2007507,
+          "end" : 2463933
+        },
+        {
+          "titel" : "Fragen über Fragen",
+          "start" : 2463933,
+          "end" : 2815253
+        },
+        {
+          "titel" : "Tatmotiv: eine Million Dollar",
+          "start" : 2815253,
+          "end" : 3255933
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/035/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/035/ffmetadata.txt",

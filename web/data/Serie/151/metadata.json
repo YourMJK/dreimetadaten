@@ -169,10 +169,96 @@
       "sprecher" : "Harald Dietl"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der schwarze Riese",
+          "start" : 0,
+          "end" : 326280
+        },
+        {
+          "titel" : "Goldie",
+          "start" : 326280,
+          "end" : 477053
+        },
+        {
+          "titel" : "Wertvolles Gemälde",
+          "start" : 477053,
+          "end" : 571573
+        },
+        {
+          "titel" : "Schmetterlingsflügel",
+          "start" : 571573,
+          "end" : 908893
+        },
+        {
+          "titel" : "Menschenkenntnis",
+          "start" : 908893,
+          "end" : 1006413
+        },
+        {
+          "titel" : "Schwarze Sonne",
+          "start" : 1006413,
+          "end" : 1227120
+        },
+        {
+          "titel" : "Pappnasen",
+          "start" : 1227120,
+          "end" : 1383027
+        },
+        {
+          "titel" : "Wer fürchtet sich vorm schwarzen Mann?",
+          "start" : 1383027,
+          "end" : 1570893
+        },
+        {
+          "titel" : "Weißer Spuk",
+          "start" : 1570893,
+          "end" : 2184987
+        },
+        {
+          "titel" : "Sommerblut",
+          "start" : 2184987,
+          "end" : 2434747
+        },
+        {
+          "titel" : "Blauer Baum",
+          "start" : 2434747,
+          "end" : 2567747
+        },
+        {
+          "titel" : "Grünes Huhn",
+          "start" : 2567747,
+          "end" : 2840067
+        },
+        {
+          "titel" : "Gelber Engel",
+          "start" : 2840067,
+          "end" : 3055893
+        },
+        {
+          "titel" : "Schwarz und weiß",
+          "start" : 3055893,
+          "end" : 3402080
+        },
+        {
+          "titel" : "Schuss ins Blaue",
+          "start" : 3402080,
+          "end" : 3717280
+        },
+        {
+          "titel" : "Rot ist die Liebe",
+          "start" : 3717280,
+          "end" : 3943307
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/151/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/151/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/151/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/151/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/151/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/7d/96/5d/7d965d85-08b0-7661-0a15-826d455e6923/source",
     "cover_kosmos" : "http://web.archive.org/web/20211231145710if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/be/cd/5a/0886979232129.jpg"

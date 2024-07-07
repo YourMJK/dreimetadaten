@@ -113,10 +113,56 @@
       "sprecher" : "Michael Quiatkowsky"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Hereingelegt!",
+          "start" : 0,
+          "end" : 415627
+        },
+        {
+          "titel" : "Bobs Entdeckung",
+          "start" : 415627,
+          "end" : 808667
+        },
+        {
+          "titel" : "Profi-Sound",
+          "start" : 808667,
+          "end" : 1425160
+        },
+        {
+          "titel" : "Im Tonstudio",
+          "start" : 1425160,
+          "end" : 1831267
+        },
+        {
+          "titel" : "Wer hat die Masterbänder?",
+          "start" : 1831267,
+          "end" : 2176867
+        },
+        {
+          "titel" : "Nicht ganz dicht",
+          "start" : 2176867,
+          "end" : 2574667
+        },
+        {
+          "titel" : "Drei plus vier",
+          "start" : 2574667,
+          "end" : 2921267
+        },
+        {
+          "titel" : "Endstation Chefetage",
+          "start" : 2921267,
+          "end" : 3267773
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/052/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/052/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/052/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/052/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/052/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/e9/0b/76/e90b769b-e62e-6704-ab3f-09de79e6ada2/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111023023if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/1e/c4/9e/0743213885223.jpg"

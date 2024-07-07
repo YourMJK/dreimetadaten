@@ -102,10 +102,61 @@
       "sprecher" : "Heikedine Körting"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "XFLR-7",
+          "start" : 0,
+          "end" : 609813
+        },
+        {
+          "titel" : "Suche nach einer Melodie",
+          "start" : 609813,
+          "end" : 1059640
+        },
+        {
+          "titel" : "In Feindes Hand",
+          "start" : 1059640,
+          "end" : 1366147
+        },
+        {
+          "titel" : "Heimlichtuerei",
+          "start" : 1366147,
+          "end" : 1939253
+        },
+        {
+          "titel" : "Gefesselt",
+          "start" : 1939253,
+          "end" : 2317253
+        },
+        {
+          "titel" : "Bob will Ärger",
+          "start" : 2317253,
+          "end" : 2781707
+        },
+        {
+          "titel" : "Tödliche Flut",
+          "start" : 2781707,
+          "end" : 3240027
+        },
+        {
+          "titel" : "Ablenkungsmanöver",
+          "start" : 3240027,
+          "end" : 3515293
+        },
+        {
+          "titel" : "In der Schusslinie",
+          "start" : 3515293,
+          "end" : 3884267
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/216/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/216/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/216/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/216/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/216/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music126/v4/eb/74/2f/eb742faa-8677-eded-4d52-fa45dbf62e8c/source"
   }

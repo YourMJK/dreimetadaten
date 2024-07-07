@@ -2,7 +2,10 @@
   "teilNummer" : 2,
   "buchstabe" : "B",
   "titel" : "Flammendes Wasser",
+  "autor" : "Astrid Vollenbruch",
+  "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Die Spur zu Rashuras Schatz führt die drei ??? hoch in die Berge, tief unter die Erde und hinaus auf die offene See. Aber mit jedem Hinweis wird alles nur noch geheimnisvoller – und gefährlicher! Ein Wettlauf mit der Zeit beginnt …",
+  "veröffentlichungsdatum" : "2011-11-11",
   "kapitel" : [
     {
       "titel" : "Fragezeichen",
@@ -165,7 +168,6 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/150/2/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/2/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/150/2/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/2/ffmetadata.txt"
   }
 }

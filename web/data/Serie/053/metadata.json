@@ -101,10 +101,56 @@
       "sprecher" : "Michael Quiatkowsky"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Besuch aus New York",
+          "start" : 0,
+          "end" : 401867
+        },
+        {
+          "titel" : "Festgenommen!",
+          "start" : 401867,
+          "end" : 854520
+        },
+        {
+          "titel" : "Die Piranhas in Aktion",
+          "start" : 854520,
+          "end" : 1316040
+        },
+        {
+          "titel" : "Bandleader oder Bandenchef?",
+          "start" : 1316040,
+          "end" : 1587480
+        },
+        {
+          "titel" : "Gefährliche Begegnung",
+          "start" : 1587480,
+          "end" : 2078760
+        },
+        {
+          "titel" : "Wer wird hier beschattet?",
+          "start" : 2078760,
+          "end" : 2493467
+        },
+        {
+          "titel" : "Köderfalle Jaguar",
+          "start" : 2493467,
+          "end" : 2908813
+        },
+        {
+          "titel" : "Der Hai gibt auf",
+          "start" : 2908813,
+          "end" : 3203173
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/053/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/053/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/053/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/053/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/053/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/a0/77/57/a077578d-eb5e-2c15-9fe7-a4c2aff6bbc1/source",
     "cover_kosmos" : "http://web.archive.org/web/20220106180939if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/46/c3/c4/0743213885322.jpg"

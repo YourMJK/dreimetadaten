@@ -107,6 +107,52 @@
       "sprecher" : "Joachim Richert"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Ameisenmensch",
+          "start" : 0,
+          "end" : 368307
+        },
+        {
+          "titel" : "Die verrückte Dame",
+          "start" : 368307,
+          "end" : 617733
+        },
+        {
+          "titel" : "Ein schlimmer Schock",
+          "start" : 617733,
+          "end" : 1006453
+        },
+        {
+          "titel" : "Der rätselhafte Späher",
+          "start" : 1006453,
+          "end" : 1321267
+        },
+        {
+          "titel" : "Die Vogelscheuche schlägt zu!",
+          "start" : 1321267,
+          "end" : 1762720
+        },
+        {
+          "titel" : "Eingesperrt!",
+          "start" : 1762720,
+          "end" : 2061227
+        },
+        {
+          "titel" : "Justus zieht seine Schlüsse",
+          "start" : 2061227,
+          "end" : 2397307
+        },
+        {
+          "titel" : "Die Überraschung zum Schluss",
+          "start" : 2397307,
+          "end" : 2652653
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/032/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/032/ffmetadata.txt",

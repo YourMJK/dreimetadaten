@@ -97,10 +97,56 @@
       "sprecher" : "Wolfgang Kaven"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein anonymer Anruf",
+          "start" : 0,
+          "end" : 300547
+        },
+        {
+          "titel" : "Angeklagt",
+          "start" : 300547,
+          "end" : 598627
+        },
+        {
+          "titel" : "Fahrerflucht",
+          "start" : 598627,
+          "end" : 1171720
+        },
+        {
+          "titel" : "Brandstiftung",
+          "start" : 1171720,
+          "end" : 1690280
+        },
+        {
+          "titel" : "Im Zeichen des Feuers",
+          "start" : 1690280,
+          "end" : 2093080
+        },
+        {
+          "titel" : "Auf heißer Spur",
+          "start" : 2093080,
+          "end" : 2369533
+        },
+        {
+          "titel" : "Ein Geschenk für Tante Mathilda",
+          "start" : 2369533,
+          "end" : 2892000
+        },
+        {
+          "titel" : "Enttarnt",
+          "start" : 2892000,
+          "end" : 3191000
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/096/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/096/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/096/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/096/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/096/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music122/v4/cf/d7/30/cfd73035-3983-1635-426a-1a2895b7bd17/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180130if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/1e/15/a4/0743218398124.jpg"

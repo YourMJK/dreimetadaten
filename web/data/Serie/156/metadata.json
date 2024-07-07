@@ -140,10 +140,91 @@
       "sprecher" : "Oliver Mink"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Das Monster im Wald",
+          "start" : 0,
+          "end" : 282240
+        },
+        {
+          "titel" : "Schwierige Jungs",
+          "start" : 282240,
+          "end" : 457387
+        },
+        {
+          "titel" : "Der schwarze Ritter",
+          "start" : 457387,
+          "end" : 870160
+        },
+        {
+          "titel" : "Dragoncourt",
+          "start" : 870160,
+          "end" : 1056360
+        },
+        {
+          "titel" : "In der Falle",
+          "start" : 1056360,
+          "end" : 1171547
+        },
+        {
+          "titel" : "Im Land des Drachen",
+          "start" : 1171547,
+          "end" : 1676560
+        },
+        {
+          "titel" : "Zwei Welten",
+          "start" : 1676560,
+          "end" : 2117187
+        },
+        {
+          "titel" : "Ein alter Freund der Familie",
+          "start" : 2117187,
+          "end" : 2256827
+        },
+        {
+          "titel" : "Gimli und Guinevere",
+          "start" : 2256827,
+          "end" : 2832133
+        },
+        {
+          "titel" : "Ganoven",
+          "start" : 2832133,
+          "end" : 3130013
+        },
+        {
+          "titel" : "Am Abgrund",
+          "start" : 3130013,
+          "end" : 3485293
+        },
+        {
+          "titel" : "Die Höhle des Drachen",
+          "start" : 3485293,
+          "end" : 3683947
+        },
+        {
+          "titel" : "Guinevere",
+          "start" : 3683947,
+          "end" : 3854200
+        },
+        {
+          "titel" : "???",
+          "start" : 3854200,
+          "end" : 4168787
+        },
+        {
+          "titel" : "Die letzte Antwort",
+          "start" : 4168787,
+          "end" : 4331240
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/156/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/156/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/156/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/156/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/156/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/d3/04/70/d304706a-e440-a98e-b198-fb94c5be8527/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180113if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/be/a6/7c/0886979232624.jpg"

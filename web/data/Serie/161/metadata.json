@@ -135,10 +135,86 @@
       "sprecher" : "Lutz Harder"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Mord in Rocky Beach!",
+          "start" : 0,
+          "end" : 557640
+        },
+        {
+          "titel" : "Brock erinnert sich",
+          "start" : 557640,
+          "end" : 836560
+        },
+        {
+          "titel" : "Im Atelier des Malers",
+          "start" : 836560,
+          "end" : 1067427
+        },
+        {
+          "titel" : "Im Frauen-Club",
+          "start" : 1067427,
+          "end" : 1364853
+        },
+        {
+          "titel" : "Die Rückkehr des Zauberers",
+          "start" : 1364853,
+          "end" : 1486853
+        },
+        {
+          "titel" : "Gefragte Porrees",
+          "start" : 1486853,
+          "end" : 1730880
+        },
+        {
+          "titel" : "Ein Bild gibt Rätsel auf",
+          "start" : 1730880,
+          "end" : 1983360
+        },
+        {
+          "titel" : "Der Vampir",
+          "start" : 1983360,
+          "end" : 2235573
+        },
+        {
+          "titel" : "Das Verwirrspiel",
+          "start" : 2235573,
+          "end" : 2643587
+        },
+        {
+          "titel" : "Echtes Blut",
+          "start" : 2643587,
+          "end" : 2947973
+        },
+        {
+          "titel" : "Komplikationen",
+          "start" : 2947973,
+          "end" : 3260707
+        },
+        {
+          "titel" : "Ein alter Bekannter",
+          "start" : 3260707,
+          "end" : 3413813
+        },
+        {
+          "titel" : "Perfekte Tarnung",
+          "start" : 3413813,
+          "end" : 3825053
+        },
+        {
+          "titel" : "Ein Bild in Lebensgefahr",
+          "start" : 3825053,
+          "end" : 4238493
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/161/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/161/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/161/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/161/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/161/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/53/4b/01/534b0104-c102-b636-e09f-0f693c658a03/source",
     "cover_kosmos" : "http://web.archive.org/web/20211227022640if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b8/5c/91/0887254003120.jpg"

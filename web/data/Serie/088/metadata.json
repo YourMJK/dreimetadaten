@@ -111,10 +111,46 @@
       "sprecher" : "Sascha Gutzeit"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Per E-Mail",
+          "start" : 0,
+          "end" : 609920
+        },
+        {
+          "titel" : "Intro",
+          "start" : 609920,
+          "end" : 1276160
+        },
+        {
+          "titel" : "Level 1",
+          "start" : 1276160,
+          "end" : 2047080
+        },
+        {
+          "titel" : "Level 2",
+          "start" : 2047080,
+          "end" : 2699867
+        },
+        {
+          "titel" : "Level 3",
+          "start" : 2699867,
+          "end" : 3638080
+        },
+        {
+          "titel" : "Level 4",
+          "start" : 3638080,
+          "end" : 4496507
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/088/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/088/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/088/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/088/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/088/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/e4/91/9f/e4919f43-b9d7-d99f-1c9b-c78bf62d4497/source",
     "cover_kosmos" : "http://web.archive.org/web/20211231145713if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/85/6a/cb/0743216568925.jpg"

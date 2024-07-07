@@ -105,10 +105,56 @@
       "sprecher" : "Willem Fricke"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Knobeln mit Folgen",
+          "start" : 0,
+          "end" : 297440
+        },
+        {
+          "titel" : "Amandas \"Old Star\"",
+          "start" : 297440,
+          "end" : 871373
+        },
+        {
+          "titel" : "Der Dieb schlägt wieder zu",
+          "start" : 871373,
+          "end" : 1448307
+        },
+        {
+          "titel" : "Amandas Geheimnis",
+          "start" : 1448307,
+          "end" : 1782720
+        },
+        {
+          "titel" : "Geister und Ganoven",
+          "start" : 1782720,
+          "end" : 2377627
+        },
+        {
+          "titel" : "Diebin in Aktion",
+          "start" : 2377627,
+          "end" : 2859707
+        },
+        {
+          "titel" : "Feuer",
+          "start" : 2859707,
+          "end" : 3265613
+        },
+        {
+          "titel" : "Zur Feier des Tages",
+          "start" : 3265613,
+          "end" : 3563227
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/062/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/062/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/062/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/062/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/062/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/8a/0c/d8/8a0cd85a-830a-47ff-58b3-afb4d07d5906/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115152725if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/01/7d/4e/0743212358322.jpg"

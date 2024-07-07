@@ -110,6 +110,52 @@
       "sprecher" : "Joachim Wolff"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Es lacht in der Nacht",
+          "start" : 0,
+          "end" : 318947
+        },
+        {
+          "titel" : "Überfall!",
+          "start" : 318947,
+          "end" : 638120
+        },
+        {
+          "titel" : "Eine aufregende Mitteilung",
+          "start" : 638120,
+          "end" : 966907
+        },
+        {
+          "titel" : "Nächtliche Gestalten",
+          "start" : 966907,
+          "end" : 1313267
+        },
+        {
+          "titel" : "Gefangen!",
+          "start" : 1313267,
+          "end" : 1621427
+        },
+        {
+          "titel" : "Justus geht ein Licht auf",
+          "start" : 1621427,
+          "end" : 1978587
+        },
+        {
+          "titel" : "Die Steilwand hinab",
+          "start" : 1978587,
+          "end" : 2346280
+        },
+        {
+          "titel" : "Der Schatz der Chumash",
+          "start" : 2346280,
+          "end" : 2640320
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/013/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/013/ffmetadata.txt",

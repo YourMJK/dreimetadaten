@@ -112,6 +112,52 @@
       "sprecher" : "Hubert Mittendorf"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Menschenraub!",
+          "start" : 0,
+          "end" : 400267
+        },
+        {
+          "titel" : "Den Schurken auf der Spur",
+          "start" : 400267,
+          "end" : 663627
+        },
+        {
+          "titel" : "Entwischt!",
+          "start" : 663627,
+          "end" : 1077600
+        },
+        {
+          "titel" : "Freunde oder Feinde?",
+          "start" : 1077600,
+          "end" : 1440787
+        },
+        {
+          "titel" : "Djangas Stätte",
+          "start" : 1440787,
+          "end" : 1691213
+        },
+        {
+          "titel" : "Hier endet die Spur",
+          "start" : 1691213,
+          "end" : 2158347
+        },
+        {
+          "titel" : "Das Ebenbild",
+          "start" : 2158347,
+          "end" : 2588107
+        },
+        {
+          "titel" : "Der Gegner steht vor einem Problem",
+          "start" : 2588107,
+          "end" : 2875787
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/028/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/028/ffmetadata.txt",

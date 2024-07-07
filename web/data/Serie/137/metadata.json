@@ -114,10 +114,81 @@
       "sprecher" : "Tetje Mierendorf"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Buchstabensalat",
+          "start" : 0,
+          "end" : 451600
+        },
+        {
+          "titel" : "Scharlatan",
+          "start" : 451600,
+          "end" : 1026613
+        },
+        {
+          "titel" : "Ein seltsamer Fund",
+          "start" : 1026613,
+          "end" : 1512173
+        },
+        {
+          "titel" : "Klartext",
+          "start" : 1512173,
+          "end" : 1614960
+        },
+        {
+          "titel" : "Ein einfacher Auftrag",
+          "start" : 1614960,
+          "end" : 1858267
+        },
+        {
+          "titel" : "Absturz",
+          "start" : 1858267,
+          "end" : 2032200
+        },
+        {
+          "titel" : "Ein hübscher kleiner Einbruch",
+          "start" : 2032200,
+          "end" : 2394587
+        },
+        {
+          "titel" : "Aufklärung",
+          "start" : 2394587,
+          "end" : 2774720
+        },
+        {
+          "titel" : "Ausgeflogen",
+          "start" : 2774720,
+          "end" : 3268733
+        },
+        {
+          "titel" : "Gold?",
+          "start" : 3268733,
+          "end" : 3569160
+        },
+        {
+          "titel" : "Die Erde bebt",
+          "start" : 3569160,
+          "end" : 3953160
+        },
+        {
+          "titel" : "In der Todesfalle",
+          "start" : 3953160,
+          "end" : 4466947
+        },
+        {
+          "titel" : "Falsche Prognose",
+          "start" : 4466947,
+          "end" : 4653507
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/137/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/137/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/137/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/137/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/137/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music/v4/13/51/b2/1351b219-fd82-4245-14cd-2687bb8d380c/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115152704if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/43/0a/0f/0886974413721.jpg"

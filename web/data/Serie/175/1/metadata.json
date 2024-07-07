@@ -3,7 +3,9 @@
   "buchstabe" : "A",
   "titel" : "Teuflisches Duell",
   "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
   "beschreibung" : "Kurz nach ihrem Einzug ins Studentenwohnheim werden die drei ??? Zeugen merkwürdiger Ereignisse auf dem Campus. Unmenschliche Schreie hallen über das Gelände, freundliche Studenten werden plötzlich aggressiv – geht hier alles mit rechten Dingen zu? Und wer ist der Teumessische Fuchs, über den man überall Gerüchte hört? Eine Fuchsjagd der besonderen Art beginnt …",
+  "veröffentlichungsdatum" : "2015-05-15",
   "kapitel" : [
     {
       "titel" : "Computerfehler",
@@ -162,7 +164,6 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/175/1/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/1/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/175/1/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/1/ffmetadata.txt"
   }
 }

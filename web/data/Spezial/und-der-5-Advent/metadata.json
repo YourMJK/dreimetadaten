@@ -1,153 +1,4 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "kapitel" : [
-        {
-          "titel" : "1. Dezember",
-          "start" : 0,
-          "end" : 528880
-        },
-        {
-          "titel" : "2. Dezember",
-          "start" : 528880,
-          "end" : 1052733
-        },
-        {
-          "titel" : "3. Dezember",
-          "start" : 1052733,
-          "end" : 1392027
-        },
-        {
-          "titel" : "4. Dezember",
-          "start" : 1392027,
-          "end" : 1723400
-        },
-        {
-          "titel" : "5. Dezember",
-          "start" : 1723400,
-          "end" : 2275853
-        },
-        {
-          "titel" : "6. Dezember",
-          "start" : 2275853,
-          "end" : 2536933
-        },
-        {
-          "titel" : "7. Dezember",
-          "start" : 2536933,
-          "end" : 3046067
-        },
-        {
-          "titel" : "8. Dezember",
-          "start" : 3046067,
-          "end" : 3369320
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/1/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/1/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "kapitel" : [
-        {
-          "titel" : "9. Dezember",
-          "start" : 0,
-          "end" : 418440
-        },
-        {
-          "titel" : "10. Dezember",
-          "start" : 418440,
-          "end" : 808827
-        },
-        {
-          "titel" : "11. Dezember",
-          "start" : 808827,
-          "end" : 1281680
-        },
-        {
-          "titel" : "12. Dezember",
-          "start" : 1281680,
-          "end" : 1650720
-        },
-        {
-          "titel" : "13. Dezember",
-          "start" : 1650720,
-          "end" : 2057747
-        },
-        {
-          "titel" : "14. Dezember",
-          "start" : 2057747,
-          "end" : 2301000
-        },
-        {
-          "titel" : "15. Dezember",
-          "start" : 2301000,
-          "end" : 2676493
-        },
-        {
-          "titel" : "16. Dezember",
-          "start" : 2676493,
-          "end" : 2843747
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/2/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/2/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 3,
-      "kapitel" : [
-        {
-          "titel" : "17. Dezember",
-          "start" : 0,
-          "end" : 435120
-        },
-        {
-          "titel" : "18. Dezember",
-          "start" : 435120,
-          "end" : 682693
-        },
-        {
-          "titel" : "19. Dezember",
-          "start" : 682693,
-          "end" : 1369906
-        },
-        {
-          "titel" : "20. Dezember",
-          "start" : 1369906,
-          "end" : 1597800
-        },
-        {
-          "titel" : "21. Dezember",
-          "start" : 1597800,
-          "end" : 1897186
-        },
-        {
-          "titel" : "22. Dezember",
-          "start" : 1897186,
-          "end" : 2452800
-        },
-        {
-          "titel" : "23. Dezember",
-          "start" : 2452800,
-          "end" : 3054146
-        },
-        {
-          "titel" : "24. Dezember",
-          "start" : 3054146,
-          "end" : 4068240
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/3/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/3/rip_log.txt"
-      }
-    }
-  ],
   "titel" : "und der 5. Advent",
   "autor" : "André Minninger",
   "hörspielskriptautor" : "André Minninger",
@@ -335,6 +186,143 @@
     {
       "rolle" : "Blacky",
       "sprecher" : "Heikedine Körting"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "1. Dezember",
+          "start" : 0,
+          "end" : 528880
+        },
+        {
+          "titel" : "2. Dezember",
+          "start" : 528880,
+          "end" : 1052733
+        },
+        {
+          "titel" : "3. Dezember",
+          "start" : 1052733,
+          "end" : 1392027
+        },
+        {
+          "titel" : "4. Dezember",
+          "start" : 1392027,
+          "end" : 1723400
+        },
+        {
+          "titel" : "5. Dezember",
+          "start" : 1723400,
+          "end" : 2275853
+        },
+        {
+          "titel" : "6. Dezember",
+          "start" : 2275853,
+          "end" : 2536933
+        },
+        {
+          "titel" : "7. Dezember",
+          "start" : 2536933,
+          "end" : 3046067
+        },
+        {
+          "titel" : "8. Dezember",
+          "start" : 3046067,
+          "end" : 3369320
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "9. Dezember",
+          "start" : 0,
+          "end" : 418440
+        },
+        {
+          "titel" : "10. Dezember",
+          "start" : 418440,
+          "end" : 808827
+        },
+        {
+          "titel" : "11. Dezember",
+          "start" : 808827,
+          "end" : 1281680
+        },
+        {
+          "titel" : "12. Dezember",
+          "start" : 1281680,
+          "end" : 1650720
+        },
+        {
+          "titel" : "13. Dezember",
+          "start" : 1650720,
+          "end" : 2057747
+        },
+        {
+          "titel" : "14. Dezember",
+          "start" : 2057747,
+          "end" : 2301000
+        },
+        {
+          "titel" : "15. Dezember",
+          "start" : 2301000,
+          "end" : 2676493
+        },
+        {
+          "titel" : "16. Dezember",
+          "start" : 2676493,
+          "end" : 2843747
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "17. Dezember",
+          "start" : 0,
+          "end" : 435120
+        },
+        {
+          "titel" : "18. Dezember",
+          "start" : 435120,
+          "end" : 682693
+        },
+        {
+          "titel" : "19. Dezember",
+          "start" : 682693,
+          "end" : 1369906
+        },
+        {
+          "titel" : "20. Dezember",
+          "start" : 1369906,
+          "end" : 1597800
+        },
+        {
+          "titel" : "21. Dezember",
+          "start" : 1597800,
+          "end" : 1897186
+        },
+        {
+          "titel" : "22. Dezember",
+          "start" : 1897186,
+          "end" : 2452800
+        },
+        {
+          "titel" : "23. Dezember",
+          "start" : 2452800,
+          "end" : 3054146
+        },
+        {
+          "titel" : "24. Dezember",
+          "start" : 3054146,
+          "end" : 4068240
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-5-Advent/rip_log3.txt"
     }
   ],
   "links" : {

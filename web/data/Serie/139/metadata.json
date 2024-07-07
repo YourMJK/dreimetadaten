@@ -142,10 +142,76 @@
       "sprecher" : "Sabine Hahn"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Zerstörte Kulissen",
+          "start" : 0,
+          "end" : 249707
+        },
+        {
+          "titel" : "Kulturprogramm",
+          "start" : 249707,
+          "end" : 421467
+        },
+        {
+          "titel" : "Das Stadttheater",
+          "start" : 421467,
+          "end" : 593213
+        },
+        {
+          "titel" : "Dunkelheit",
+          "start" : 593213,
+          "end" : 1149080
+        },
+        {
+          "titel" : "Gelogen",
+          "start" : 1149080,
+          "end" : 1482707
+        },
+        {
+          "titel" : "Nachts im Theater",
+          "start" : 1482707,
+          "end" : 1768627
+        },
+        {
+          "titel" : "Die Diva von Rocky Beach",
+          "start" : 1768627,
+          "end" : 2157973
+        },
+        {
+          "titel" : "Überraschung",
+          "start" : 2157973,
+          "end" : 2545453
+        },
+        {
+          "titel" : "Seemannsknoten",
+          "start" : 2545453,
+          "end" : 2937840
+        },
+        {
+          "titel" : "Nachtschicht",
+          "start" : 2937840,
+          "end" : 3172147
+        },
+        {
+          "titel" : "Abgereist",
+          "start" : 3172147,
+          "end" : 3248240
+        },
+        {
+          "titel" : "Manipulation",
+          "start" : 3248240,
+          "end" : 3860747
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/139/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/139/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/139/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/139/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/139/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/ef/72/07/ef720777-496f-3dae-33b6-b80beb656efe/source",
     "cover_kosmos" : "http://web.archive.org/web/20220123153359if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/ae/97/a2/0886974413929.jpg"

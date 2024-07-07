@@ -1,124 +1,5 @@
 {
   "nummer" : 225,
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "kapitel" : [
-        {
-          "titel" : "Überraschung!",
-          "start" : 0,
-          "end" : 399667
-        },
-        {
-          "titel" : "Das Tischdecken-Gespenst",
-          "start" : 399667,
-          "end" : 806227
-        },
-        {
-          "titel" : "Hände hoch",
-          "start" : 806227,
-          "end" : 1546920
-        },
-        {
-          "titel" : "Funkloch",
-          "start" : 1546920,
-          "end" : 2365227
-        },
-        {
-          "titel" : "Spurensuche",
-          "start" : 2365227,
-          "end" : 2736467
-        },
-        {
-          "titel" : "Schüsse im Maisfeld",
-          "start" : 2736467,
-          "end" : 3077933
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/225/1/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Serie/225/1/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "kapitel" : [
-        {
-          "titel" : "Das gehängte Brautpaar",
-          "start" : 0,
-          "end" : 700813
-        },
-        {
-          "titel" : "Wenn man vom Teufel spricht",
-          "start" : 700813,
-          "end" : 1108613
-        },
-        {
-          "titel" : "Regenbogenrosen",
-          "start" : 1108613,
-          "end" : 1547107
-        },
-        {
-          "titel" : "In der Falle",
-          "start" : 1547107,
-          "end" : 2341440
-        },
-        {
-          "titel" : "Dreißig Stunden",
-          "start" : 2341440,
-          "end" : 3042893
-        },
-        {
-          "titel" : "Der Mann im Nachthemd",
-          "start" : 3042893,
-          "end" : 3689613
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/225/2/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Serie/225/2/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 3,
-      "kapitel" : [
-        {
-          "titel" : "Sie haben das Recht zu schweigen",
-          "start" : 0,
-          "end" : 371253
-        },
-        {
-          "titel" : "Beschattung",
-          "start" : 371253,
-          "end" : 1171040
-        },
-        {
-          "titel" : "Das Hochzeitsgeschenk",
-          "start" : 1171040,
-          "end" : 1740613
-        },
-        {
-          "titel" : "Unter Druck",
-          "start" : 1740613,
-          "end" : 2092733
-        },
-        {
-          "titel" : "Deconvulsan",
-          "start" : 2092733,
-          "end" : 3235867
-        },
-        {
-          "titel" : "Hochzeitstag",
-          "start" : 3235867,
-          "end" : 3928907
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/225/3/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Serie/225/3/rip_log.txt"
-      }
-    }
-  ],
   "titel" : "und der Puppenmacher",
   "autor" : "André Marx",
   "hörspielskriptautor" : "André Minninger",
@@ -293,6 +174,113 @@
     {
       "rolle" : "Mrs. Cooper",
       "sprecher" : "Angelika Berg"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Überraschung!",
+          "start" : 0,
+          "end" : 399667
+        },
+        {
+          "titel" : "Das Tischdecken-Gespenst",
+          "start" : 399667,
+          "end" : 806227
+        },
+        {
+          "titel" : "Hände hoch",
+          "start" : 806227,
+          "end" : 1546920
+        },
+        {
+          "titel" : "Funkloch",
+          "start" : 1546920,
+          "end" : 2365227
+        },
+        {
+          "titel" : "Spurensuche",
+          "start" : 2365227,
+          "end" : 2736467
+        },
+        {
+          "titel" : "Schüsse im Maisfeld",
+          "start" : 2736467,
+          "end" : 3077933
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/225/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Das gehängte Brautpaar",
+          "start" : 0,
+          "end" : 700813
+        },
+        {
+          "titel" : "Wenn man vom Teufel spricht",
+          "start" : 700813,
+          "end" : 1108613
+        },
+        {
+          "titel" : "Regenbogenrosen",
+          "start" : 1108613,
+          "end" : 1547107
+        },
+        {
+          "titel" : "In der Falle",
+          "start" : 1547107,
+          "end" : 2341440
+        },
+        {
+          "titel" : "Dreißig Stunden",
+          "start" : 2341440,
+          "end" : 3042893
+        },
+        {
+          "titel" : "Der Mann im Nachthemd",
+          "start" : 3042893,
+          "end" : 3689613
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/225/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Sie haben das Recht zu schweigen",
+          "start" : 0,
+          "end" : 371253
+        },
+        {
+          "titel" : "Beschattung",
+          "start" : 371253,
+          "end" : 1171040
+        },
+        {
+          "titel" : "Das Hochzeitsgeschenk",
+          "start" : 1171040,
+          "end" : 1740613
+        },
+        {
+          "titel" : "Unter Druck",
+          "start" : 1740613,
+          "end" : 2092733
+        },
+        {
+          "titel" : "Deconvulsan",
+          "start" : 2092733,
+          "end" : 3235867
+        },
+        {
+          "titel" : "Hochzeitstag",
+          "start" : 3235867,
+          "end" : 3928907
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/225/rip_log3.txt"
     }
   ],
   "links" : {

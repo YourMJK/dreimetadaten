@@ -97,6 +97,52 @@
       "sprecher" : "Helmut Ahner"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Hilferuf",
+          "start" : 0,
+          "end" : 396627
+        },
+        {
+          "titel" : "Der Neffe und sein Anwalt",
+          "start" : 396627,
+          "end" : 867053
+        },
+        {
+          "titel" : "Gesucht: Ein verschollener Indianerstamm",
+          "start" : 867053,
+          "end" : 1296680
+        },
+        {
+          "titel" : "Peter findet den \"Tanzenden Saurier\"",
+          "start" : 1296680,
+          "end" : 1617853
+        },
+        {
+          "titel" : "Auf nach Comina!",
+          "start" : 1617853,
+          "end" : 1959653
+        },
+        {
+          "titel" : "Entdeckungen in der Höhle",
+          "start" : 1959653,
+          "end" : 2402427
+        },
+        {
+          "titel" : "Pamir, der Stammeshäuptling",
+          "start" : 2402427,
+          "end" : 2846920
+        },
+        {
+          "titel" : "Kommt das Erdbeben?",
+          "start" : 2846920,
+          "end" : 3214520
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/041/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/041/ffmetadata.txt",

@@ -108,6 +108,52 @@
       "sprecher" : "Katharina Brauren"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Seemannstruhe",
+          "start" : 0,
+          "end" : 262387
+        },
+        {
+          "titel" : "Das Wrack der \"Argyll Queen\"",
+          "start" : 262387,
+          "end" : 706387
+        },
+        {
+          "titel" : "Angriff!",
+          "start" : 706387,
+          "end" : 1062773
+        },
+        {
+          "titel" : "Die Goldgräberstadt",
+          "start" : 1062773,
+          "end" : 1348760
+        },
+        {
+          "titel" : "Beistand aus der Geisterwelt",
+          "start" : 1348760,
+          "end" : 1690440
+        },
+        {
+          "titel" : "Und wieder Java-Jim!",
+          "start" : 1690440,
+          "end" : 2051707
+        },
+        {
+          "titel" : "Der letzte Fingerzeig",
+          "start" : 2051707,
+          "end" : 2451120
+        },
+        {
+          "titel" : "Der Schatz der \"Argyll Queen\"",
+          "start" : 2451120,
+          "end" : 2738933
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/002/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/002/ffmetadata.txt",

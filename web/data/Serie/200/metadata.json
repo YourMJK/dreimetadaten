@@ -1,171 +1,5 @@
 {
   "nummer" : 200,
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "buchstabe" : "A",
-      "beschreibung" : "Justus Jonas ist über Nacht spurlos verschwunden!\nHat man den Ersten Detektiv entführt? Bob und Peter sind bei der Suche nach ihrem besten Freund auf sich allein gestellt …",
-      "kapitel" : [
-        {
-          "titel" : "Ohne Ausweg",
-          "start" : 0,
-          "end" : 641493
-        },
-        {
-          "titel" : "\"Hilfe!\"",
-          "start" : 641493,
-          "end" : 1326867
-        },
-        {
-          "titel" : "Leute verschwinden",
-          "start" : 1326867,
-          "end" : 2030093
-        },
-        {
-          "titel" : "Aus Bobs Archiv",
-          "start" : 2030093,
-          "end" : 2717587
-        },
-        {
-          "titel" : "Überfall",
-          "start" : 2717587,
-          "end" : 3376480
-        },
-        {
-          "titel" : "Der Blick der blauen Gottheit",
-          "start" : 3376480,
-          "end" : 4340627
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/200/1/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Serie/200/1/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "buchstabe" : "B",
-      "beschreibung" : "Eine rätselhafte Spur aus der Vergangenheit taucht auf. Sie führt zu einem alten Bekannten, zum Feurigen Auge und zu einer entlegenen Insel.",
-      "kapitel" : [
-        {
-          "titel" : "Geheimagent Blake Turner",
-          "start" : 0,
-          "end" : 831080
-        },
-        {
-          "titel" : "Whites Geheimnisse",
-          "start" : 831080,
-          "end" : 1580280
-        },
-        {
-          "titel" : "Es piept",
-          "start" : 1580280,
-          "end" : 1975800
-        },
-        {
-          "titel" : "Besuch aus der Vergangenheit",
-          "start" : 1975800,
-          "end" : 2710786
-        },
-        {
-          "titel" : "Nächtliche Verfolgung",
-          "start" : 2710786,
-          "end" : 3395373
-        },
-        {
-          "titel" : "Befreiung",
-          "start" : 3395373,
-          "end" : 4273520
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/200/2/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Serie/200/2/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 3,
-      "buchstabe" : "C",
-      "beschreibung" : "Wer ist der mysteriöse Unbekannte, der Justus in seiner Gewalt hat?\nUnd worauf hat er es abgesehen?\nDer Erste Detektiv sitzt in der Falle. Wird er seinen Gegner überlisten können und dem Kerker entkommen?",
-      "kapitel" : [
-        {
-          "titel" : "Im Kerker",
-          "start" : 0,
-          "end" : 1216920
-        },
-        {
-          "titel" : "Das rote Leuchten",
-          "start" : 1216920,
-          "end" : 1742906
-        },
-        {
-          "titel" : "Nach Dalton",
-          "start" : 1742906,
-          "end" : 2383493
-        },
-        {
-          "titel" : "Licht und Dunkelheit",
-          "start" : 2383493,
-          "end" : 3170906
-        },
-        {
-          "titel" : "Entkommen!",
-          "start" : 3170906,
-          "end" : 3711186
-        },
-        {
-          "titel" : "Das 13. Buch",
-          "start" : 3711186,
-          "end" : 4442693
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/200/3/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Serie/200/3/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 4,
-      "buchstabe" : "D",
-      "beschreibung" : "Justus, Peter und Bob sind nicht die Einzigen, die auf der Jagd nach dem Unglück bringenden Edelstein sind. Auch immer mehr Fragen tauchen auf. Doch die Antworten sind an einem geheimen Ort verborgen: dem sagenumwobenen Tempel der Gerechtigkeit.",
-      "kapitel" : [
-        {
-          "titel" : "Horatios Geheimnis",
-          "start" : 0,
-          "end" : 725493
-        },
-        {
-          "titel" : "Gold und Edelsteine",
-          "start" : 725493,
-          "end" : 1434600
-        },
-        {
-          "titel" : "Pleshiwar",
-          "start" : 1434600,
-          "end" : 2362307
-        },
-        {
-          "titel" : "Der Elefantenkopf",
-          "start" : 2362307,
-          "end" : 2869627
-        },
-        {
-          "titel" : "Das Feurige Auge",
-          "start" : 2869627,
-          "end" : 3912320
-        },
-        {
-          "titel" : "Berg ohne Wiederkehr",
-          "start" : 3912320,
-          "end" : 4655267
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/200/4/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Serie/200/4/rip_log.txt"
-      }
-    }
-  ],
   "titel" : "Feuriges Auge",
   "autor" : "André Marx",
   "hörspielskriptautor" : "André Minninger",
@@ -413,6 +247,148 @@
     {
       "rolle" : "Officer",
       "sprecher" : "Helge Halvé"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ohne Ausweg",
+          "start" : 0,
+          "end" : 641493
+        },
+        {
+          "titel" : "\"Hilfe!\"",
+          "start" : 641493,
+          "end" : 1326867
+        },
+        {
+          "titel" : "Leute verschwinden",
+          "start" : 1326867,
+          "end" : 2030093
+        },
+        {
+          "titel" : "Aus Bobs Archiv",
+          "start" : 2030093,
+          "end" : 2717587
+        },
+        {
+          "titel" : "Überfall",
+          "start" : 2717587,
+          "end" : 3376480
+        },
+        {
+          "titel" : "Der Blick der blauen Gottheit",
+          "start" : 3376480,
+          "end" : 4340627
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/200/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Geheimagent Blake Turner",
+          "start" : 0,
+          "end" : 831080
+        },
+        {
+          "titel" : "Whites Geheimnisse",
+          "start" : 831080,
+          "end" : 1580280
+        },
+        {
+          "titel" : "Es piept",
+          "start" : 1580280,
+          "end" : 1975800
+        },
+        {
+          "titel" : "Besuch aus der Vergangenheit",
+          "start" : 1975800,
+          "end" : 2710786
+        },
+        {
+          "titel" : "Nächtliche Verfolgung",
+          "start" : 2710786,
+          "end" : 3395373
+        },
+        {
+          "titel" : "Befreiung",
+          "start" : 3395373,
+          "end" : 4273520
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/200/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Im Kerker",
+          "start" : 0,
+          "end" : 1216920
+        },
+        {
+          "titel" : "Das rote Leuchten",
+          "start" : 1216920,
+          "end" : 1742906
+        },
+        {
+          "titel" : "Nach Dalton",
+          "start" : 1742906,
+          "end" : 2383493
+        },
+        {
+          "titel" : "Licht und Dunkelheit",
+          "start" : 2383493,
+          "end" : 3170906
+        },
+        {
+          "titel" : "Entkommen!",
+          "start" : 3170906,
+          "end" : 3711186
+        },
+        {
+          "titel" : "Das 13. Buch",
+          "start" : 3711186,
+          "end" : 4442693
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/200/rip_log3.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Horatios Geheimnis",
+          "start" : 0,
+          "end" : 725493
+        },
+        {
+          "titel" : "Gold und Edelsteine",
+          "start" : 725493,
+          "end" : 1434600
+        },
+        {
+          "titel" : "Pleshiwar",
+          "start" : 1434600,
+          "end" : 2362307
+        },
+        {
+          "titel" : "Der Elefantenkopf",
+          "start" : 2362307,
+          "end" : 2869627
+        },
+        {
+          "titel" : "Das Feurige Auge",
+          "start" : 2869627,
+          "end" : 3912320
+        },
+        {
+          "titel" : "Berg ohne Wiederkehr",
+          "start" : 3912320,
+          "end" : 4655267
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/200/rip_log4.txt"
     }
   ],
   "links" : {

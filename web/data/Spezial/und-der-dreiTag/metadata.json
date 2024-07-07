@@ -5,7 +5,9 @@
       "buchstabe" : "J",
       "titel" : "Sicht J: Der Fluch der Sheldon Street",
       "autor" : "Hendrik Buchna",
+      "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Alles beginnt mit dem Kauf eines alten Projektors und der Entdeckung einer schmalen Super-8-Filmrolle. Als die drei Detektive das Fundstück begutachten, entdecken sie die verstörende Aufnahme einer albtraumhaften Gestalt. Schnell stellen die drei ??? fest, dass es um weit mehr geht, als sie zunächst ahnen: Eine ganze Straße scheint unter dem Bann eines düsteren Geheimnisses zu stehen. Doch kaum beginnen Justus, Peter und Bob mit ihren Nachforschungen, da tauchen plötzlich Gegner auf, die ihnen mit allen Mitteln zuvorkommen wollen …",
+      "veröffentlichungsdatum" : "2010-10-01",
       "kapitel" : [
         {
           "titel" : "Die Cola",
@@ -170,8 +172,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/rip_log.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt"
       }
     },
     {
@@ -179,7 +180,9 @@
       "buchstabe" : "B",
       "titel" : "Sicht B: Im Zeichen der Ritter",
       "autor" : "Tim Wenderoth",
+      "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Geheimnisvolle Symbole beunruhigen die Bewohner von Rocky Beach. Was steckt hinter den kryptischen Zeichen, die von einer geisterhaften Gestalt nachts an die Häuser gemalt werden? Und warum verhalten sich einige Bewohner der kleinen Küstenstadt so merkwürdig? Ihre ersten Nachforschungen bringen Justus, Peter und vor allem Bob auf die Spur einer mittelalterlichen Ritterlegende. Je intensiver sie sich mit dem Fall beschäftigen, umso klarer scheint, dass ihnen nur wenige Stunden bleiben, um am unheilvollen Freitag den 13. Schlimmeres zu verhindern …",
+      "veröffentlichungsdatum" : "2010-10-01",
       "kapitel" : [
         {
           "titel" : "Die Cola",
@@ -334,8 +337,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/rip_log.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt"
       }
     },
     {
@@ -343,7 +345,9 @@
       "buchstabe" : "P",
       "titel" : "Sicht P: Fremder Freund",
       "autor" : "Ivar Leon Menger",
+      "hörspielskriptautor" : "André Minninger",
       "beschreibung" : "Peter schwebt im siebten Himmel, denn er hat in einem Café Bekanntschaft mit einem großen Fan der drei ??? gemacht. Er wird sogar um ein Autogramm gebeten. Stolz und gut gelaunt verbringt Peter einen tollen Tag mit seinen Freunden, und alles wäre einfach perfekt, wenn er nicht plötzlich diese seltsamen Telefonanrufe und mysteriösen Briefe erhalten würde. Die drei Detektive werden heimlich beobachtet und sogar von einem Unbekannten fotografiert! Was soll das alles? Wer ist dieser seltsame Verfolger? Ist Peters Leben in Gefahr?",
+      "veröffentlichungsdatum" : "2010-10-01",
       "kapitel" : [
         {
           "titel" : "Die Cola",
@@ -468,19 +472,19 @@
         },
         {
           "rolle" : "Ian Bush",
-          "sprecher" : "Sky du Mont / Lukas T. Sperber"
+          "sprecher" : "Sky du Mont, Lukas T. Sperber"
         },
         {
           "rolle" : "Jimmy Sinclair",
-          "sprecher" : "Siegfried W. Kernen / Nils Noller"
+          "sprecher" : "Siegfried W. Kernen, Nils Noller"
         },
         {
           "rolle" : "Charlie Parker",
-          "sprecher" : "Oliver Böttcher / Laurence Kalaidjian"
+          "sprecher" : "Oliver Böttcher, Laurence Kalaidjian"
         },
         {
           "rolle" : "Brianna Jackson",
-          "sprecher" : "Hansi Jochmann / Natalie Demtrøder"
+          "sprecher" : "Hansi Jochmann, Natalie Demtrøder"
         },
         {
           "rolle" : "Chloe Smathers",
@@ -549,8 +553,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/rip_log.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt"
       }
     }
   ],
@@ -698,19 +701,19 @@
     },
     {
       "rolle" : "Ian Bush",
-      "sprecher" : "Sky du Mont / Lukas T. Sperber"
+      "sprecher" : "Sky du Mont, Lukas T. Sperber"
     },
     {
       "rolle" : "Jimmy Sinclair",
-      "sprecher" : "Siegfried W. Kernen / Nils Noller"
+      "sprecher" : "Siegfried W. Kernen, Nils Noller"
     },
     {
       "rolle" : "Charlie Parker",
-      "sprecher" : "Oliver Böttcher / Laurence Kalaidjian"
+      "sprecher" : "Oliver Böttcher, Laurence Kalaidjian"
     },
     {
       "rolle" : "Brianna Jackson",
-      "sprecher" : "Hansi Jochmann / Natalie Demtrøder"
+      "sprecher" : "Hansi Jochmann, Natalie Demtrøder"
     },
     {
       "rolle" : "Chloe Smathers",
@@ -739,6 +742,223 @@
     {
       "rolle" : "Sekretärin",
       "sprecher" : "Corinna Wodrich"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Cola",
+          "start" : 0,
+          "end" : 249733
+        },
+        {
+          "titel" : "Bleiche Fratze",
+          "start" : 249733,
+          "end" : 518160
+        },
+        {
+          "titel" : "Sammlerstück",
+          "start" : 518160,
+          "end" : 743333
+        },
+        {
+          "titel" : "Dunkle Erinnerung",
+          "start" : 743333,
+          "end" : 1150133
+        },
+        {
+          "titel" : "Eine Straße in Angst",
+          "start" : 1150133,
+          "end" : 1828053
+        },
+        {
+          "titel" : "Verfolgt",
+          "start" : 1828053,
+          "end" : 2374027
+        },
+        {
+          "titel" : "Kriegsrat",
+          "start" : 2374027,
+          "end" : 2635387
+        },
+        {
+          "titel" : "Unheimliche Begegnungen",
+          "start" : 2635387,
+          "end" : 3167667
+        },
+        {
+          "titel" : "Sturm",
+          "start" : 3167667,
+          "end" : 3467800
+        },
+        {
+          "titel" : "Eine heiße Spur",
+          "start" : 3467800,
+          "end" : 3850653
+        },
+        {
+          "titel" : "Wendepunkt",
+          "start" : 3850653,
+          "end" : 4188920
+        },
+        {
+          "titel" : "Der Fluch der Sheldon Street",
+          "start" : 4188920,
+          "end" : 4589640
+        },
+        {
+          "titel" : "Triumph",
+          "start" : 4589640,
+          "end" : 4757160
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Cola",
+          "start" : 0,
+          "end" : 262987
+        },
+        {
+          "titel" : "Papierdrachen",
+          "start" : 262987,
+          "end" : 490387
+        },
+        {
+          "titel" : "Außerirdische",
+          "start" : 490387,
+          "end" : 801680
+        },
+        {
+          "titel" : "Der Heilige Gral",
+          "start" : 801680,
+          "end" : 1008107
+        },
+        {
+          "titel" : "Freitag, der 13.",
+          "start" : 1008107,
+          "end" : 1488693
+        },
+        {
+          "titel" : "3 × 9 = 27",
+          "start" : 1488693,
+          "end" : 1719373
+        },
+        {
+          "titel" : "Blamiert",
+          "start" : 1719373,
+          "end" : 1958373
+        },
+        {
+          "titel" : "Jesper",
+          "start" : 1958373,
+          "end" : 2380533
+        },
+        {
+          "titel" : "Exklusivrechte",
+          "start" : 2380533,
+          "end" : 2786640
+        },
+        {
+          "titel" : "Cliffhanger",
+          "start" : 2786640,
+          "end" : 3126560
+        },
+        {
+          "titel" : "Film ab!",
+          "start" : 3126560,
+          "end" : 3353253
+        },
+        {
+          "titel" : "Rote Farbe",
+          "start" : 3353253,
+          "end" : 3904933
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Cola",
+          "start" : 0,
+          "end" : 231413
+        },
+        {
+          "titel" : "Du hast noch nicht einmal gefragt!",
+          "start" : 231413,
+          "end" : 560493
+        },
+        {
+          "titel" : "Du bist doch verliebt, Peter!",
+          "start" : 560493,
+          "end" : 750533
+        },
+        {
+          "titel" : "Das Geschäft des Monats!",
+          "start" : 750533,
+          "end" : 1009533
+        },
+        {
+          "titel" : "Mein Name ist Peter!",
+          "start" : 1009533,
+          "end" : 1371053
+        },
+        {
+          "titel" : "Der Brief wurde abgegeben!",
+          "start" : 1371053,
+          "end" : 1580600
+        },
+        {
+          "titel" : "Auf den Novalux-Projektor!",
+          "start" : 1580600,
+          "end" : 1942960
+        },
+        {
+          "titel" : "Das bin ich dir schuldig!",
+          "start" : 1942960,
+          "end" : 2201400
+        },
+        {
+          "titel" : "Warum sollte ich das tun?",
+          "start" : 2201400,
+          "end" : 2382760
+        },
+        {
+          "titel" : "Hört ihr das nicht?",
+          "start" : 2382760,
+          "end" : 2814560
+        },
+        {
+          "titel" : "Nein, Bob! Die mag mich doch!",
+          "start" : 2814560,
+          "end" : 3104720
+        },
+        {
+          "titel" : "Aber genau das ist doch sehr seltsam!",
+          "start" : 3104720,
+          "end" : 3363200
+        },
+        {
+          "titel" : "Ein Zeichen?",
+          "start" : 3363200,
+          "end" : 3675013
+        },
+        {
+          "titel" : "Hier eine Sondermeldung!",
+          "start" : 3675013,
+          "end" : 3978200
+        },
+        {
+          "titel" : "Darf ich reinkommen?",
+          "start" : 3978200,
+          "end" : 4416000
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log3.txt"
     }
   ],
   "links" : {

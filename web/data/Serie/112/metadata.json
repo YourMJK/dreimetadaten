@@ -114,10 +114,81 @@
       "sprecher" : "Dennis Jensen"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Unternehmensphilosophie",
+          "start" : 0,
+          "end" : 164520
+        },
+        {
+          "titel" : "Ein Gaul namens \"Lady\"",
+          "start" : 164520,
+          "end" : 468947
+        },
+        {
+          "titel" : "Die erste Feder",
+          "start" : 468947,
+          "end" : 642880
+        },
+        {
+          "titel" : "Die zweite Feder",
+          "start" : 642880,
+          "end" : 727000
+        },
+        {
+          "titel" : "Ein Fachmann indianischer Kultur",
+          "start" : 727000,
+          "end" : 1263920
+        },
+        {
+          "titel" : "Schlucht der Dämonen",
+          "start" : 1263920,
+          "end" : 1415427
+        },
+        {
+          "titel" : "Die dritte Feder",
+          "start" : 1415427,
+          "end" : 1859680
+        },
+        {
+          "titel" : "Von Kakteen umgeben",
+          "start" : 1859680,
+          "end" : 1954040
+        },
+        {
+          "titel" : "Überfall",
+          "start" : 1954040,
+          "end" : 2216573
+        },
+        {
+          "titel" : "Kriegstrommeln",
+          "start" : 2216573,
+          "end" : 2514213
+        },
+        {
+          "titel" : "Justus flucht",
+          "start" : 2514213,
+          "end" : 2709840
+        },
+        {
+          "titel" : "Eine alte Indianer-Sage",
+          "start" : 2709840,
+          "end" : 2865147
+        },
+        {
+          "titel" : "Sturz in die Schlucht",
+          "start" : 2865147,
+          "end" : 3529667
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/112/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/112/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/112/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/112/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/112/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/c5/c7/eb/c5c7ebdf-62f4-219b-3fcc-2d3729727627/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111022959if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/9c/cf/07/0743219911223.jpg"

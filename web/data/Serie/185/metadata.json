@@ -118,10 +118,61 @@
       "sprecher" : "Daniel Welbat"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Feuer!",
+          "start" : 0,
+          "end" : 326053
+        },
+        {
+          "titel" : "Auftrag",
+          "start" : 326053,
+          "end" : 523827
+        },
+        {
+          "titel" : "Unfall",
+          "start" : 523827,
+          "end" : 852653
+        },
+        {
+          "titel" : "Geständnis",
+          "start" : 852653,
+          "end" : 1638680
+        },
+        {
+          "titel" : "Entführungsopfer",
+          "start" : 1638680,
+          "end" : 2070400
+        },
+        {
+          "titel" : "Glasaugen",
+          "start" : 2070400,
+          "end" : 2374053
+        },
+        {
+          "titel" : "Kieselsteinchen 06",
+          "start" : 2374053,
+          "end" : 2700093
+        },
+        {
+          "titel" : "Puzzleteile",
+          "start" : 2700093,
+          "end" : 3168373
+        },
+        {
+          "titel" : "Im Lichte der Wahrheit",
+          "start" : 3168373,
+          "end" : 3685613
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/185/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/185/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/185/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/185/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/185/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/43/aa/92/43aa9292-a0c7-97ea-f752-78af9e089509/source",
     "cover_kosmos" : "http://web.archive.org/web/20220123153348if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/57/f6/6c/0888751320024.jpg"

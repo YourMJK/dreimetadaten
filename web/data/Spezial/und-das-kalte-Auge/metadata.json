@@ -1,79 +1,4 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "kapitel" : [
-        {
-          "titel" : "Doppelter Diebstahl",
-          "start" : 0,
-          "end" : 326533
-        },
-        {
-          "titel" : "Mystik und Mythos",
-          "start" : 326533,
-          "end" : 1045907
-        },
-        {
-          "titel" : "Der Indianer",
-          "start" : 1045907,
-          "end" : 1500400
-        },
-        {
-          "titel" : "Die Zauberzwillinge",
-          "start" : 1500400,
-          "end" : 1989427
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/1/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/1/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "kapitel" : [
-        {
-          "titel" : "Auftritt: Skinny!",
-          "start" : 0,
-          "end" : 421893
-        },
-        {
-          "titel" : "Der Fall Norris",
-          "start" : 421893,
-          "end" : 814973
-        },
-        {
-          "titel" : "Das Phantom, der Diebstahl und die Katze",
-          "start" : 814973,
-          "end" : 1457520
-        },
-        {
-          "titel" : "Zitrone, Minze oder Birne?",
-          "start" : 1457520,
-          "end" : 1950506
-        },
-        {
-          "titel" : "Auf der richtigen Spur?",
-          "start" : 1950506,
-          "end" : 2293880
-        },
-        {
-          "titel" : "Ohne Hindernisse?",
-          "start" : 2293880,
-          "end" : 2619760
-        },
-        {
-          "titel" : "Der einzige Gewinner",
-          "start" : 2619760,
-          "end" : 3077053
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/2/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/2/rip_log.txt"
-      }
-    }
-  ],
   "titel" : "und das kalte Auge",
   "autor" : "Christoph Dittert",
   "hörspielskriptautor" : "Yona Franke",
@@ -246,6 +171,73 @@
     {
       "rolle" : "Journalistin",
       "sprecher" : "Birte Kretschmer"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Doppelter Diebstahl",
+          "start" : 0,
+          "end" : 326533
+        },
+        {
+          "titel" : "Mystik und Mythos",
+          "start" : 326533,
+          "end" : 1045907
+        },
+        {
+          "titel" : "Der Indianer",
+          "start" : 1045907,
+          "end" : 1500400
+        },
+        {
+          "titel" : "Die Zauberzwillinge",
+          "start" : 1500400,
+          "end" : 1989427
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Auftritt: Skinny!",
+          "start" : 0,
+          "end" : 421893
+        },
+        {
+          "titel" : "Der Fall Norris",
+          "start" : 421893,
+          "end" : 814973
+        },
+        {
+          "titel" : "Das Phantom, der Diebstahl und die Katze",
+          "start" : 814973,
+          "end" : 1457520
+        },
+        {
+          "titel" : "Zitrone, Minze oder Birne?",
+          "start" : 1457520,
+          "end" : 1950506
+        },
+        {
+          "titel" : "Auf der richtigen Spur?",
+          "start" : 1950506,
+          "end" : 2293880
+        },
+        {
+          "titel" : "Ohne Hindernisse?",
+          "start" : 2293880,
+          "end" : 2619760
+        },
+        {
+          "titel" : "Der einzige Gewinner",
+          "start" : 2619760,
+          "end" : 3077053
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/rip_log2.txt"
     }
   ],
   "links" : {

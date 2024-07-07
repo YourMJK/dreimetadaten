@@ -125,10 +125,56 @@
       "sprecher" : "Birte Kretschmer"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "\"Helft mir zu gewinnen!\"",
+          "start" : 0,
+          "end" : 564493
+        },
+        {
+          "titel" : "Von Zwergen und Dieben",
+          "start" : 564493,
+          "end" : 998360
+        },
+        {
+          "titel" : "Drei Tote",
+          "start" : 998360,
+          "end" : 1735493
+        },
+        {
+          "titel" : "Zwei Lebende",
+          "start" : 1735493,
+          "end" : 1973867
+        },
+        {
+          "titel" : "Unheil",
+          "start" : 1973867,
+          "end" : 2400587
+        },
+        {
+          "titel" : "Unrat",
+          "start" : 2400587,
+          "end" : 3185547
+        },
+        {
+          "titel" : "Ahnenforschung",
+          "start" : 3185547,
+          "end" : 3560507
+        },
+        {
+          "titel" : "Fallensteller",
+          "start" : 3560507,
+          "end" : 4166400
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/198/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/198/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/198/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/198/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/198/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music124/v4/74/0a/2c/740a2ce8-3761-7bd4-a2c2-93e39a1873ff/source"
   }

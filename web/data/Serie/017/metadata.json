@@ -102,6 +102,52 @@
       "sprecher" : "Heidi Schaffrath"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Dingo Townes Aufforderung zum Wettstreit",
+          "start" : 0,
+          "end" : 436107
+        },
+        {
+          "titel" : "Wo der Windhund haust",
+          "start" : 436107,
+          "end" : 741333
+        },
+        {
+          "titel" : "Ein gefährlicher Bubenstreich",
+          "start" : 741333,
+          "end" : 1003880
+        },
+        {
+          "titel" : "Peter behält einen klaren Kopf",
+          "start" : 1003880,
+          "end" : 1259173
+        },
+        {
+          "titel" : "Der Alte aus dem Busch",
+          "start" : 1259173,
+          "end" : 1622200
+        },
+        {
+          "titel" : "Raus, wenn du kannst!",
+          "start" : 1622200,
+          "end" : 1981840
+        },
+        {
+          "titel" : "Noch ein Rätsel gelöst",
+          "start" : 1981840,
+          "end" : 2286467
+        },
+        {
+          "titel" : "Justus stellt eine Falle",
+          "start" : 2286467,
+          "end" : 2524840
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/017/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/017/ffmetadata.txt",

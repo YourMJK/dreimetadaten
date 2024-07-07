@@ -118,10 +118,61 @@
       "sprecher" : "Jürgen Holdorf"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine Dame verschwindet",
+          "start" : 0,
+          "end" : 424653
+        },
+        {
+          "titel" : "Andromeda",
+          "start" : 424653,
+          "end" : 710960
+        },
+        {
+          "titel" : "Kassiopeia",
+          "start" : 710960,
+          "end" : 954827
+        },
+        {
+          "titel" : "Spuk im Netz",
+          "start" : 954827,
+          "end" : 1251387
+        },
+        {
+          "titel" : "Professor Alkurah",
+          "start" : 1251387,
+          "end" : 1391307
+        },
+        {
+          "titel" : "Die weiße Frau",
+          "start" : 1391307,
+          "end" : 1905653
+        },
+        {
+          "titel" : "In Kepheus Haus",
+          "start" : 1905653,
+          "end" : 2581387
+        },
+        {
+          "titel" : "Ketus",
+          "start" : 2581387,
+          "end" : 3196627
+        },
+        {
+          "titel" : "Untergang",
+          "start" : 3196627,
+          "end" : 3799387
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/132/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/132/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/132/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/132/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/132/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/b5/e5/ce/b5e5ce53-7fa1-b591-2aea-f18f2f7228bb/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115135341if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c0/dc/6d/0886974413226.jpg"

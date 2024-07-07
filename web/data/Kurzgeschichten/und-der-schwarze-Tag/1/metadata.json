@@ -1,140 +1,43 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "titel" : "Das schwarze Verlies",
-      "autor" : "Ben Nevis",
-      "beschreibung" : "Es ist dunkel. Mehr als dunkel. Schwarz. Peter erwacht und ist gefesselt! Wo befindet er sich? Ist alles nur ein Traum? Plötzlich vernimmt er ein seltsames Grunzen. Ein Kampfhund …? Dann kehren seine Erinnerungen zurück!",
-      "kapitel" : [
-        {
-          "titel" : "Gefesselt",
-          "start" : 0,
-          "end" : 826640
-        },
-        {
-          "titel" : "Betäubt",
-          "start" : 826640,
-          "end" : 1316773
-        },
-        {
-          "titel" : "Verrostet",
-          "start" : 1316773,
-          "end" : 2240920
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/1/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/1/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "titel" : "Schwarze Seelen",
-      "autor" : "André Minninger",
-      "beschreibung" : "Die gegenseitigen Beschuldigungen der Zwillingsschwestern Helen und Ellen stellen die drei Detektive auf eine harte Zerreißprobe. Wird es ihnen dennoch gelingen, die wahre Täterin zu überführen?",
-      "kapitel" : [
-        {
-          "titel" : "Ohne Gewissen",
-          "start" : 0,
-          "end" : 645160
-        },
-        {
-          "titel" : "Ohne Rücksicht",
-          "start" : 645160,
-          "end" : 1349373
-        },
-        {
-          "titel" : "Ohne Reue",
-          "start" : 1349373,
-          "end" : 1855920
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Axel Milberg"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Helen",
-          "sprecher" : "Dorette Hugo",
-          "pseudonym" : "Balancinha Blanc"
-        },
-        {
-          "rolle" : "Ellen",
-          "sprecher" : "Dorette Hugo"
-        },
-        {
-          "rolle" : "Vater",
-          "sprecher" : "Douglas Welbat"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/2/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/2/ffmetadata.txt"
-      }
-    }
-  ],
   "teilNummer" : 1,
+  "titel" : "Das schwarze Verlies",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Es ist dunkel. Mehr als dunkel. Schwarz. Peter erwacht und ist gefesselt! Wo befindet er sich? Ist alles nur ein Traum? Plötzlich vernimmt er ein seltsames Grunzen. Ein Kampfhund …? Dann kehren seine Erinnerungen zurück!",
+  "veröffentlichungsdatum" : "2018-10-28",
   "kapitel" : [
     {
-      "titel" : "Das schwarze Verlies – Gefesselt",
+      "titel" : "Gefesselt",
       "start" : 0,
       "end" : 826640
     },
     {
-      "titel" : "Das schwarze Verlies – Betäubt",
+      "titel" : "Betäubt",
       "start" : 826640,
       "end" : 1316773
     },
     {
-      "titel" : "Das schwarze Verlies – Verrostet",
+      "titel" : "Verrostet",
       "start" : 1316773,
       "end" : 2240920
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
     },
     {
-      "titel" : "Schwarze Seelen – Ohne Gewissen",
-      "start" : 2240920,
-      "end" : 2886080
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
     },
     {
-      "titel" : "Schwarze Seelen – Ohne Rücksicht",
-      "start" : 2886080,
-      "end" : 3590293
-    },
-    {
-      "titel" : "Schwarze Seelen – Ohne Reue",
-      "start" : 3590293,
-      "end" : 4096840
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
     }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/metadata.json",
-    "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/ffmetadata.txt"
   }
 }

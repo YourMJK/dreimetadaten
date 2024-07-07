@@ -90,10 +90,61 @@
       "sprecher" : "Elga Schütz"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Nachricht aus dem Grab",
+          "start" : 0,
+          "end" : 711907
+        },
+        {
+          "titel" : "Es brennt",
+          "start" : 711907,
+          "end" : 1016347
+        },
+        {
+          "titel" : "Geisterschwaden",
+          "start" : 1016347,
+          "end" : 1492533
+        },
+        {
+          "titel" : "Eine gewisse Ähnlichkeit",
+          "start" : 1492533,
+          "end" : 1655520
+        },
+        {
+          "titel" : "Der Stadtforscher",
+          "start" : 1655520,
+          "end" : 2391173
+        },
+        {
+          "titel" : "Die Falle schnappt zu",
+          "start" : 2391173,
+          "end" : 2633853
+        },
+        {
+          "titel" : "In die Tiefe",
+          "start" : 2633853,
+          "end" : 3208480
+        },
+        {
+          "titel" : "Katastrophe in der Dunkelheit",
+          "start" : 3208480,
+          "end" : 3791347
+        },
+        {
+          "titel" : "Was damals in der Finsternis geschah",
+          "start" : 3791347,
+          "end" : 4063013
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/166/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/166/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/166/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/166/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/166/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/f0/6b/f7/f06bf784-4780-e1b4-f78d-290902f3e662/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111022949if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/5d/d0/58/0887254003625.jpg"

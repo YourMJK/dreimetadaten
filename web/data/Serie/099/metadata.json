@@ -109,10 +109,56 @@
       "sprecher" : "André Minninger"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "\"Prime-Time\"",
+          "start" : 0,
+          "end" : 513747
+        },
+        {
+          "titel" : "Kälteschauer",
+          "start" : 513747,
+          "end" : 1123107
+        },
+        {
+          "titel" : "Rufmord",
+          "start" : 1123107,
+          "end" : 1524067
+        },
+        {
+          "titel" : "Reue",
+          "start" : 1524067,
+          "end" : 2089760
+        },
+        {
+          "titel" : "Ausgetrickst",
+          "start" : 2089760,
+          "end" : 2708040
+        },
+        {
+          "titel" : "Machtspiele",
+          "start" : 2708040,
+          "end" : 3361760
+        },
+        {
+          "titel" : "In der Gummizelle",
+          "start" : 3361760,
+          "end" : 4007707
+        },
+        {
+          "titel" : "Die Flügel der Nachtigall",
+          "start" : 4007707,
+          "end" : 4573053
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/099/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/099/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/099/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/099/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/099/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/c2/65/4f/c2654fb0-412d-e6a7-b355-9ca5be368a01/source",
     "cover_kosmos" : "http://web.archive.org/web/20220106180910if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a7/26/99/0743218398728.jpg"

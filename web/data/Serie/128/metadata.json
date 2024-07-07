@@ -113,10 +113,76 @@
       "sprecher" : "André Minninger"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Geisterstunde",
+          "start" : 0,
+          "end" : 677293
+        },
+        {
+          "titel" : "Erste Ermittlungen",
+          "start" : 677293,
+          "end" : 1291720
+        },
+        {
+          "titel" : "KCY",
+          "start" : 1291720,
+          "end" : 1533000
+        },
+        {
+          "titel" : "Die Botschaft des Talismans",
+          "start" : 1533000,
+          "end" : 2113133
+        },
+        {
+          "titel" : "Hotel Pacific Pearl",
+          "start" : 2113133,
+          "end" : 2426520
+        },
+        {
+          "titel" : "Fragen und Fallen",
+          "start" : 2426520,
+          "end" : 2492693
+        },
+        {
+          "titel" : "In der Geisterstadt",
+          "start" : 2492693,
+          "end" : 3108387
+        },
+        {
+          "titel" : "Verstorben",
+          "start" : 3108387,
+          "end" : 3212107
+        },
+        {
+          "titel" : "Niedergeschlagen",
+          "start" : 3212107,
+          "end" : 3598320
+        },
+        {
+          "titel" : "Wilde Kirschen",
+          "start" : 3598320,
+          "end" : 3777413
+        },
+        {
+          "titel" : "Magnesiumblitz",
+          "start" : 3777413,
+          "end" : 4011133
+        },
+        {
+          "titel" : "Die Juwelen",
+          "start" : 4011133,
+          "end" : 4412907
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/128/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/128/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/128/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/128/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/128/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music22/v4/12/df/55/12df551b-eb50-2396-ec97-38bb5c3a49cc/source",
     "cover_kosmos" : "http://web.archive.org/web/20220106180909if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/91/3c/2e/0828766712827.jpg"

@@ -1,191 +1,60 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 3,
-      "titel" : "Ein schwarzer Tag für Mr. Kingstone",
-      "autor" : "Christoph Dittert",
-      "beschreibung" : "Ausgerechnet Skinny Norris beauftragt die drei Detektive mit einem neuen Fall: Wer erpresst Mr. Kingstone, den blinden Betreiber des Dunkelrestaurants in Rocky Beach? In totaler Finsternis ermitteln Justus, Peter und Bob, um dem skrupellosen Verbrecher auf die Schliche zu kommen. Doch wird ihre Falle auch zuschnappen?",
-      "kapitel" : [
-        {
-          "titel" : "Unverschämter Kerl",
-          "start" : 0,
-          "end" : 526840
-        },
-        {
-          "titel" : "Dunkelrestaurant",
-          "start" : 526840,
-          "end" : 1199413
-        },
-        {
-          "titel" : "Kontaktschranke",
-          "start" : 1199413,
-          "end" : 1889653
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Axel Milberg"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Tante Mathilda",
-          "sprecher" : "Karin Lieneweg"
-        },
-        {
-          "rolle" : "Skinny Norris",
-          "sprecher" : "Michael Harck"
-        },
-        {
-          "rolle" : "Marc Kingstone",
-          "sprecher" : "Rainer Brandt"
-        },
-        {
-          "rolle" : "Aaron Kingstone",
-          "sprecher" : "Tommi Piper"
-        },
-        {
-          "rolle" : "Sarah",
-          "sprecher" : "Christiane Leuchtmann"
-        },
-        {
-          "rolle" : "Albert",
-          "sprecher" : "Franzisko Löwe"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/3/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 4,
-      "titel" : "Wer hat Angst vorm Schwarzen Mann",
-      "autor" : "Marco Sonnleitner",
-      "beschreibung" : "In einem Kindergarten in Rocky Beach herrscht größte Besorgnis: Wurden die Kinder tatsächlich allesamt von einem unheimlichen \"Schwarzen Mann\" heimgesucht? Die Ermittlungen der drei ??? führen zum ominösen \"Herz von Afrika\" …",
-      "kapitel" : [
-        {
-          "titel" : "Albtraum?",
-          "start" : 0,
-          "end" : 601054
-        },
-        {
-          "titel" : "Das Herz von Afrika",
-          "start" : 601054,
-          "end" : 1250120
-        },
-        {
-          "titel" : "Lasso-Künste",
-          "start" : 1250120,
-          "end" : 1767387
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Axel Milberg"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Kelly Madigan",
-          "sprecher" : "Juliane Szalay"
-        },
-        {
-          "rolle" : "Mrs. McGee",
-          "sprecher" : "Alice Krimmel"
-        },
-        {
-          "rolle" : "Toby",
-          "sprecher" : "A. Stengelin"
-        },
-        {
-          "rolle" : "Mrs. Wells",
-          "sprecher" : "Heidi Schaffrath"
-        },
-        {
-          "rolle" : "Junge",
-          "sprecher" : "Linus Tauber"
-        },
-        {
-          "rolle" : "Mädchen",
-          "sprecher" : "Katinka Jaekel"
-        },
-        {
-          "rolle" : "Ericsson",
-          "sprecher" : "Detlef Tams"
-        },
-        {
-          "rolle" : "Sprecher/Moderator",
-          "sprecher" : "Oliver Böttcher"
-        },
-        {
-          "rolle" : "Tarek Shabana",
-          "sprecher" : "Werner Wilkening"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/4/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/4/ffmetadata.txt"
-      }
-    }
-  ],
   "teilNummer" : 2,
+  "titel" : "Schwarze Seelen",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die gegenseitigen Beschuldigungen der Zwillingsschwestern Helen und Ellen stellen die drei Detektive auf eine harte Zerreißprobe. Wird es ihnen dennoch gelingen, die wahre Täterin zu überführen?",
+  "veröffentlichungsdatum" : "2018-10-28",
   "kapitel" : [
     {
-      "titel" : "Ein schwarzer Tag für Mr. Kingstone – Unverschämter Kerl",
+      "titel" : "Ohne Gewissen",
       "start" : 0,
-      "end" : 526840
+      "end" : 645160
     },
     {
-      "titel" : "Ein schwarzer Tag für Mr. Kingstone – Dunkelrestaurant",
-      "start" : 526840,
-      "end" : 1199413
+      "titel" : "Ohne Rücksicht",
+      "start" : 645160,
+      "end" : 1349373
     },
     {
-      "titel" : "Ein schwarzer Tag für Mr. Kingstone – Kontaktschranke",
-      "start" : 1199413,
-      "end" : 1889653
+      "titel" : "Ohne Reue",
+      "start" : 1349373,
+      "end" : 1855920
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
     },
     {
-      "titel" : "Wer hat Angst vorm Schwarzen Mann – Albtraum?",
-      "start" : 1889653,
-      "end" : 2490707
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
     },
     {
-      "titel" : "Wer hat Angst vorm Schwarzen Mann – Das Herz von Afrika",
-      "start" : 2490707,
-      "end" : 3139773
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
     },
     {
-      "titel" : "Wer hat Angst vorm Schwarzen Mann – Lasso-Künste",
-      "start" : 3139773,
-      "end" : 3657040
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Helen",
+      "sprecher" : "Dorette Hugo",
+      "pseudonym" : "Balancinha Blanc"
+    },
+    {
+      "rolle" : "Ellen",
+      "sprecher" : "Dorette Hugo"
+    },
+    {
+      "rolle" : "Vater",
+      "sprecher" : "Douglas Welbat"
     }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/metadata.json",
-    "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/ffmetadata.txt"
   }
 }

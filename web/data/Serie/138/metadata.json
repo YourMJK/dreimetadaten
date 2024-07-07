@@ -106,10 +106,81 @@
       "sprecher" : "Burghart Klaußner"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Treibgut",
+          "start" : 0,
+          "end" : 274747
+        },
+        {
+          "titel" : "Pirate's Point",
+          "start" : 274747,
+          "end" : 404107
+        },
+        {
+          "titel" : "Die Wand",
+          "start" : 404107,
+          "end" : 637160
+        },
+        {
+          "titel" : "Der Gefangene",
+          "start" : 637160,
+          "end" : 1013693
+        },
+        {
+          "titel" : "King Kong und Freddy Krueger",
+          "start" : 1013693,
+          "end" : 1265867
+        },
+        {
+          "titel" : "Geheimbund",
+          "start" : 1265867,
+          "end" : 1416267
+        },
+        {
+          "titel" : "Die Löwenritter",
+          "start" : 1416267,
+          "end" : 2009027
+        },
+        {
+          "titel" : "Tatze und Schwert",
+          "start" : 2009027,
+          "end" : 2328880
+        },
+        {
+          "titel" : "Jagd auf Schuhe",
+          "start" : 2328880,
+          "end" : 2499840
+        },
+        {
+          "titel" : "Putzmann aus der Uni",
+          "start" : 2499840,
+          "end" : 2681427
+        },
+        {
+          "titel" : "Der Schlüssel",
+          "start" : 2681427,
+          "end" : 2873333
+        },
+        {
+          "titel" : "Zwischen Ameisen und Mistgabel",
+          "start" : 2873333,
+          "end" : 3093160
+        },
+        {
+          "titel" : "Die geheime Treppe",
+          "start" : 3093160,
+          "end" : 3987133
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/138/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/138/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/138/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/138/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/138/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/50/37/0b/50370b19-33ae-48fa-7f16-e9b76da09513/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180115if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/93/00/af/0886974413820.jpg"

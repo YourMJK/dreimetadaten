@@ -83,10 +83,46 @@
       "sprecher" : "Michael Quiatkowsky"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "20:28 Uhr – Stromausfall",
+          "start" : 0,
+          "end" : 708707
+        },
+        {
+          "titel" : "21:01 Uhr – Erwischt",
+          "start" : 708707,
+          "end" : 1014947
+        },
+        {
+          "titel" : "21:47 Uhr – Lauschangriff",
+          "start" : 1014947,
+          "end" : 1727107
+        },
+        {
+          "titel" : "22:36 Uhr – Das Geheimnis des Nachtwächters",
+          "start" : 1727107,
+          "end" : 2250627
+        },
+        {
+          "titel" : "23:07 Uhr – Nichts als die Wahrheit",
+          "start" : 2250627,
+          "end" : 2726040
+        },
+        {
+          "titel" : "00:00 Uhr – Enthüllung um Mitternacht",
+          "start" : 2726040,
+          "end" : 3457213
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/086/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/086/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/086/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/086/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/086/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/4b/bf/24/4bbf241b-b0e4-cd3e-02bc-2095b94850ba/source",
     "cover_kosmos" : "http://web.archive.org/web/20220123153402if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/2d/6b/46/0743216568727.jpg"

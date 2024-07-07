@@ -101,10 +101,56 @@
       "sprecher" : "Holger Umbreit"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Schock in der Nacht",
+          "start" : 0,
+          "end" : 415733
+        },
+        {
+          "titel" : "Spuk im Hotel Lakshmi",
+          "start" : 415733,
+          "end" : 848040
+        },
+        {
+          "titel" : "Vegane Kost",
+          "start" : 848040,
+          "end" : 1314787
+        },
+        {
+          "titel" : "El Dorado",
+          "start" : 1314787,
+          "end" : 1838573
+        },
+        {
+          "titel" : "Die Geschichte eines Hauses",
+          "start" : 1838573,
+          "end" : 2245667
+        },
+        {
+          "titel" : "Koboldalarm",
+          "start" : 2245667,
+          "end" : 3022827
+        },
+        {
+          "titel" : "Steinchen für Steinchen",
+          "start" : 3022827,
+          "end" : 3475000
+        },
+        {
+          "titel" : "Sucht und Leidenschaft",
+          "start" : 3475000,
+          "end" : 4506587
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/199/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/199/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/199/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/199/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/199/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music114/v4/8b/8b/fe/8b8bfe3b-2c36-1455-5c9e-f0ff487450e7/source"
   }

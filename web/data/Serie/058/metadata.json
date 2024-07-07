@@ -102,10 +102,56 @@
       "sprecher" : "Rebecca Völz"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Kamelhaarmann tritt auf",
+          "start" : 0,
+          "end" : 448067
+        },
+        {
+          "titel" : "Bobs Alleingang",
+          "start" : 448067,
+          "end" : 739453
+        },
+        {
+          "titel" : "Ein Fiesling am Telefon",
+          "start" : 739453,
+          "end" : 1062853
+        },
+        {
+          "titel" : "Onkel Titus' großer Auftritt",
+          "start" : 1062853,
+          "end" : 1359627
+        },
+        {
+          "titel" : "Ein Engel mit Revolver",
+          "start" : 1359627,
+          "end" : 1663560
+        },
+        {
+          "titel" : "Die Dinge kommen ins Rollen",
+          "start" : 1663560,
+          "end" : 2106773
+        },
+        {
+          "titel" : "Familienkrieg",
+          "start" : 2106773,
+          "end" : 2379027
+        },
+        {
+          "titel" : "Das Geheimnis des gelben Gemäldes",
+          "start" : 2379027,
+          "end" : 2711893
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/058/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/058/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/058/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/058/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/058/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/1e/e8/56/1ee856ec-b33b-7b5e-ce59-f55ee0741436/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115045321if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/03/52/8a/0743211851220.jpg"

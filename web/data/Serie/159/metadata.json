@@ -113,10 +113,71 @@
       "sprecher" : "Gerhart Hinze"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Bauchangelegenheiten",
+          "start" : 0,
+          "end" : 277333
+        },
+        {
+          "titel" : "Spurensuche",
+          "start" : 277333,
+          "end" : 1083240
+        },
+        {
+          "titel" : "Nacht der Tiger",
+          "start" : 1083240,
+          "end" : 1490240
+        },
+        {
+          "titel" : "Unter Druck",
+          "start" : 1490240,
+          "end" : 1692067
+        },
+        {
+          "titel" : "Schwarze Stiere",
+          "start" : 1692067,
+          "end" : 1998333
+        },
+        {
+          "titel" : "Clever",
+          "start" : 1998333,
+          "end" : 2306307
+        },
+        {
+          "titel" : "In Teufels Küche – und Schrank",
+          "start" : 2306307,
+          "end" : 2583480
+        },
+        {
+          "titel" : "Mut zur Wahrheit",
+          "start" : 2583480,
+          "end" : 2852187
+        },
+        {
+          "titel" : "Schlagende Ziegen",
+          "start" : 2852187,
+          "end" : 3130987
+        },
+        {
+          "titel" : "Erstens kommt es anders …",
+          "start" : 3130987,
+          "end" : 3567227
+        },
+        {
+          "titel" : "… und zweitens als man denkt",
+          "start" : 3567227,
+          "end" : 3931427
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/159/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/159/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/159/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/159/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/159/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/76/95/67/76956777-0773-74b5-1ae9-880858e2c8c4/source",
     "cover_kosmos" : "http://web.archive.org/web/20211231145705if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/19/75/a0/0886979232921.jpg"

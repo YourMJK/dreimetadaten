@@ -125,10 +125,56 @@
       "sprecher" : "Die Gäste der Record-Release-Party am 08.05.2016 in Hasselburg. (Wir danken euch für's Mitmachen!)"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Einladung zur großen Party",
+          "start" : 0,
+          "end" : 530973
+        },
+        {
+          "titel" : "Ein schwieriger Gast",
+          "start" : 530973,
+          "end" : 1037227
+        },
+        {
+          "titel" : "The Disappearing of a Hobbit",
+          "start" : 1037227,
+          "end" : 1637920
+        },
+        {
+          "titel" : "Aus fünf mach sechs",
+          "start" : 1637920,
+          "end" : 2080733
+        },
+        {
+          "titel" : "Videostar",
+          "start" : 2080733,
+          "end" : 2342467
+        },
+        {
+          "titel" : "Schalldicht verpackt",
+          "start" : 2342467,
+          "end" : 2819707
+        },
+        {
+          "titel" : "The La-La-Song",
+          "start" : 2819707,
+          "end" : 3773813
+        },
+        {
+          "titel" : "Achtung, Steinschlag!",
+          "start" : 3773813,
+          "end" : 4566333
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/183/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/183/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/183/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/183/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/183/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/d5/04/10/d5041038-b061-8c46-2c8b-e17821048e60/source",
     "cover_kosmos" : "http://web.archive.org/web/20220124230838if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/9f/1c/4e/0888751319820.jpg"

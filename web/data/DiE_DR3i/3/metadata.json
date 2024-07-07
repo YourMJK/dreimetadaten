@@ -118,10 +118,81 @@
       "sprecher" : "Patrick Bach"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Start in den Traumurlaub",
+          "start" : 0,
+          "end" : 219400
+        },
+        {
+          "titel" : "Unsanftes Erwachen",
+          "start" : 219400,
+          "end" : 731040
+        },
+        {
+          "titel" : "Notlandung im Nirgendwo",
+          "start" : 731040,
+          "end" : 940187
+        },
+        {
+          "titel" : "Das Bermuda-Dreieck",
+          "start" : 940187,
+          "end" : 1337333
+        },
+        {
+          "titel" : "Ein unheimliches Haus",
+          "start" : 1337333,
+          "end" : 1609173
+        },
+        {
+          "titel" : "Schockierende Erkenntnis",
+          "start" : 1609173,
+          "end" : 1922800
+        },
+        {
+          "titel" : "Verschollen in der Zeit",
+          "start" : 1922800,
+          "end" : 2104307
+        },
+        {
+          "titel" : "Flucht in den Dschungel",
+          "start" : 2104307,
+          "end" : 2338080
+        },
+        {
+          "titel" : "Die rätselhafte Uniform",
+          "start" : 2338080,
+          "end" : 2882627
+        },
+        {
+          "titel" : "Triumph der Logik",
+          "start" : 2882627,
+          "end" : 3025933
+        },
+        {
+          "titel" : "Der Hinterhalt",
+          "start" : 3025933,
+          "end" : 3369253
+        },
+        {
+          "titel" : "Die Maske fällt",
+          "start" : 3369253,
+          "end" : 3933893
+        },
+        {
+          "titel" : "Zurück in der Gegenwart",
+          "start" : 3933893,
+          "end" : 4113813
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/3/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/3/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/3/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/3/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/DiE_DR3i/3/cover.png"
   }
 }

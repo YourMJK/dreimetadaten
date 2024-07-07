@@ -105,6 +105,52 @@
       "sprecher" : "Norbert Lange"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Millionär verschwindet",
+          "start" : 0,
+          "end" : 407480
+        },
+        {
+          "titel" : "Ende der Party",
+          "start" : 407480,
+          "end" : 694200
+        },
+        {
+          "titel" : "Gespeicherte Geheimdaten",
+          "start" : 694200,
+          "end" : 1110333
+        },
+        {
+          "titel" : "Die rätselhafte Botschaft",
+          "start" : 1110333,
+          "end" : 1443720
+        },
+        {
+          "titel" : "Das Buch des Bischofs",
+          "start" : 1443720,
+          "end" : 1736933
+        },
+        {
+          "titel" : "Justus hat eine Erleuchtung",
+          "start" : 1736933,
+          "end" : 2067707
+        },
+        {
+          "titel" : "Nicht umzubringen",
+          "start" : 2067707,
+          "end" : 2662787
+        },
+        {
+          "titel" : "Ein Geheimnis aus alter Zeit",
+          "start" : 2662787,
+          "end" : 2853253
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/046/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/046/ffmetadata.txt",

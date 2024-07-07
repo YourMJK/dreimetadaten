@@ -1,0 +1,25 @@
+{
+  "teilNummer" : 6,
+  "titel" : "Der graue Dämon",
+  "autor" : "Hendrik Buchna",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Auf dem Weg nach Hause wird Peter plötzlich von einem unheimlichen, grauen Dämon verfolgt. Ihm bleibt nur noch ein Ausweg: die Flucht …",
+  "veröffentlichungsdatum" : "2011-12-12",
+  "kapitel" : [
+    {
+      "titel" : "Der graue Dämon",
+      "start" : 0,
+      "end" : 556307
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/6/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/6/ffmetadata.txt"
+  }
+}

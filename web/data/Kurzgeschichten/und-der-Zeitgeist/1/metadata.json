@@ -1,225 +1,55 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "titel" : "Immer und immer wieder",
-      "autor" : "Hendrik Buchna",
-      "beschreibung" : "Peter ist ratlos: In wenigen Minuten wird die Zentrale zerstört werden, und er kann nichts dagegen tun! Erst ein Tipp vom Ersten Detektiv bringt ihn auf die richtige Spur – oder doch nicht?",
-      "kapitel" : [
-        {
-          "titel" : "Sieben",
-          "start" : 0,
-          "end" : 172213
-        },
-        {
-          "titel" : "Variationen",
-          "start" : 172213,
-          "end" : 590280
-        },
-        {
-          "titel" : "Elf",
-          "start" : 590280,
-          "end" : 950800
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Hüne",
-          "sprecher" : "Johannes Semm"
-        },
-        {
-          "rolle" : "Marvin Gray",
-          "sprecher" : "Horst Stark"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/1/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/1/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "titel" : "Der Raub der Zehntausend",
-      "autor" : "Marco Sonnleitner",
-      "beschreibung" : "Beim Ausliefern einer Standuhr geraten die drei Detektive mitten in einen Kriminalfall, der äußerst explosiv enden könnte …",
-      "kapitel" : [
-        {
-          "titel" : "Der absolute Hammer",
-          "start" : 0,
-          "end" : 193827
-        },
-        {
-          "titel" : "Die Botschaft",
-          "start" : 193827,
-          "end" : 823293
-        },
-        {
-          "titel" : "Ablenkungsmanöver",
-          "start" : 823293,
-          "end" : 1198507
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Nancy McMonigal",
-          "sprecher" : "Gerlinde Dillge"
-        },
-        {
-          "rolle" : "Tom",
-          "sprecher" : "Wolfgang Rositzka"
-        },
-        {
-          "rolle" : "Rod",
-          "sprecher" : "Herbert Tennigkeit"
-        },
-        {
-          "rolle" : "Joe",
-          "sprecher" : "Olaf Reichmann"
-        },
-        {
-          "rolle" : "Ben",
-          "sprecher" : "Stephan Chrzescinski"
-        },
-        {
-          "rolle" : "Mariann",
-          "sprecher" : "Simone Ritscher"
-        },
-        {
-          "rolle" : "TV-Sprecher",
-          "sprecher" : "Holger Wemhoff"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/2/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/2/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 3,
-      "titel" : "Der verschwundene Zeitgeist",
-      "autor" : "André Minninger",
-      "beschreibung" : "Wer hat die fehlenden Manuskriptseiten von Malcolm Fever gestohlen? Als sich die drei Detektive des Falls annehmen, machen sie die Bekanntschaft mit einer höchst sonderbaren Dame …",
-      "kapitel" : [
-        {
-          "titel" : "Ein emotionales Gespräch",
-          "start" : 0,
-          "end" : 645586
-        },
-        {
-          "titel" : "Eindeutiges Foto",
-          "start" : 645586,
-          "end" : 1502960
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Malcolm Fever",
-          "sprecher" : "Tilo Schmitz"
-        },
-        {
-          "rolle" : "Lucy Hopkins",
-          "sprecher" : "Topsy Küppers"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/3/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/3/ffmetadata.txt"
-      }
-    }
-  ],
   "teilNummer" : 1,
+  "titel" : "Immer und immer wieder",
+  "autor" : "Hendrik Buchna",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Peter ist ratlos: In wenigen Minuten wird die Zentrale zerstört werden, und er kann nichts dagegen tun! Erst ein Tipp vom Ersten Detektiv bringt ihn auf die richtige Spur – oder doch nicht?",
+  "veröffentlichungsdatum" : "2016-03-04",
   "kapitel" : [
     {
-      "titel" : "Immer und immer wieder – Sieben",
+      "titel" : "Sieben",
       "start" : 0,
       "end" : 172213
     },
     {
-      "titel" : "Immer und immer wieder – Variationen",
+      "titel" : "Variationen",
       "start" : 172213,
       "end" : 590280
     },
     {
-      "titel" : "Immer und immer wieder – Elf",
+      "titel" : "Elf",
       "start" : 590280,
       "end" : 950800
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
     },
     {
-      "titel" : "Der Raub der Zehntausend – Der absolute Hammer",
-      "start" : 950800,
-      "end" : 1144627
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
     },
     {
-      "titel" : "Der Raub der Zehntausend – Die Botschaft",
-      "start" : 1144627,
-      "end" : 1774093
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
     },
     {
-      "titel" : "Der Raub der Zehntausend – Ablenkungsmanöver",
-      "start" : 1774093,
-      "end" : 2149307
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
     },
     {
-      "titel" : "Der verschwundene Zeitgeist – Ein emotionales Gespräch",
-      "start" : 2149307,
-      "end" : 2794893
+      "rolle" : "Hüne",
+      "sprecher" : "Johannes Semm"
     },
     {
-      "titel" : "Der verschwundene Zeitgeist – Eindeutiges Foto",
-      "start" : 2794893,
-      "end" : 3652267
+      "rolle" : "Marvin Gray",
+      "sprecher" : "Horst Stark"
     }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/metadata.json",
-    "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/ffmetadata.txt"
   }
 }

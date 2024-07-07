@@ -104,10 +104,71 @@
       "sprecher" : "Karl-Friedrich Gerster"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Star braucht Hilfe",
+          "start" : 0,
+          "end" : 232867
+        },
+        {
+          "titel" : "Gürtel, Karte, Taste",
+          "start" : 232867,
+          "end" : 601240
+        },
+        {
+          "titel" : "Die Fährte nach Marokko",
+          "start" : 601240,
+          "end" : 1232173
+        },
+        {
+          "titel" : "Eine legendäre Bar",
+          "start" : 1232173,
+          "end" : 1720267
+        },
+        {
+          "titel" : "Der rätselhafte Drink",
+          "start" : 1720267,
+          "end" : 2217320
+        },
+        {
+          "titel" : "Salon Moskva",
+          "start" : 2217320,
+          "end" : 2669573
+        },
+        {
+          "titel" : "Mademoiselle Nadine",
+          "start" : 2669573,
+          "end" : 3015507
+        },
+        {
+          "titel" : "Bobs Frisuren-Trauma",
+          "start" : 3015507,
+          "end" : 3338973
+        },
+        {
+          "titel" : "Smith & Wesson weisen den Weg",
+          "start" : 3338973,
+          "end" : 3587240
+        },
+        {
+          "titel" : "Showdown in der Finsternis",
+          "start" : 3587240,
+          "end" : 3871573
+        },
+        {
+          "titel" : "Lektion für den Meisterdetektiv",
+          "start" : 3871573,
+          "end" : 4409520
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/5/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/5/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/5/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/5/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/DiE_DR3i/5/cover.png"
   }
 }

@@ -1,0 +1,83 @@
+{
+  "teilNummer" : 4,
+  "titel" : "Wer hat Angst vorm Schwarzen Mann",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "In einem Kindergarten in Rocky Beach herrscht größte Besorgnis: Wurden die Kinder tatsächlich allesamt von einem unheimlichen \"Schwarzen Mann\" heimgesucht? Die Ermittlungen der drei ??? führen zum ominösen \"Herz von Afrika\" …",
+  "veröffentlichungsdatum" : "2018-10-28",
+  "kapitel" : [
+    {
+      "titel" : "Albtraum?",
+      "start" : 0,
+      "end" : 601054
+    },
+    {
+      "titel" : "Das Herz von Afrika",
+      "start" : 601054,
+      "end" : 1250120
+    },
+    {
+      "titel" : "Lasso-Künste",
+      "start" : 1250120,
+      "end" : 1767387
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Kelly Madigan",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Mrs. McGee",
+      "sprecher" : "Alice Krimmel"
+    },
+    {
+      "rolle" : "Toby",
+      "sprecher" : "A. Stengelin"
+    },
+    {
+      "rolle" : "Mrs. Wells",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Junge",
+      "sprecher" : "Linus Tauber"
+    },
+    {
+      "rolle" : "Mädchen",
+      "sprecher" : "Katinka Jaekel"
+    },
+    {
+      "rolle" : "Ericsson",
+      "sprecher" : "Detlef Tams"
+    },
+    {
+      "rolle" : "Sprecher/Moderator",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Tarek Shabana",
+      "sprecher" : "Werner Wilkening"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/4/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/4/ffmetadata.txt"
+  }
+}

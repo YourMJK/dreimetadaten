@@ -106,10 +106,56 @@
       "pseudonym" : "Jakob Lichtblau"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Blackout",
+          "start" : 0,
+          "end" : 449000
+        },
+        {
+          "titel" : "Der Fluch des Adlers",
+          "start" : 449000,
+          "end" : 989973
+        },
+        {
+          "titel" : "Taylor kneift",
+          "start" : 989973,
+          "end" : 1481080
+        },
+        {
+          "titel" : "Der Albtraum beginnt",
+          "start" : 1481080,
+          "end" : 1943107
+        },
+        {
+          "titel" : "Das Tal des Schreckens",
+          "start" : 1943107,
+          "end" : 2365733
+        },
+        {
+          "titel" : "Im Dickicht des Waldes",
+          "start" : 2365733,
+          "end" : 2782520
+        },
+        {
+          "titel" : "Lauschangriff",
+          "start" : 2782520,
+          "end" : 3347573
+        },
+        {
+          "titel" : "Seitenwechsel",
+          "start" : 3347573,
+          "end" : 3772307
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/098/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/098/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/098/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/098/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/098/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/fc/08/1c/fc081ca3-c2e2-3fbf-f637-d4ff19536c91/source",
     "cover_kosmos" : "http://web.archive.org/web/20211231145711if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/17/73/b3/0743218398629.jpg"

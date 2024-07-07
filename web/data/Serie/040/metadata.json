@@ -117,6 +117,52 @@
       "sprecher" : "Lothar Grützner, Hans Hessling"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Zerbrochene Scheiben",
+          "start" : 0,
+          "end" : 335080
+        },
+        {
+          "titel" : "Justus entdeckt ein Schema",
+          "start" : 335080,
+          "end" : 644267
+        },
+        {
+          "titel" : "Anklage gegen die drei ???",
+          "start" : 644267,
+          "end" : 915480
+        },
+        {
+          "titel" : "Ein gestohlener Adler",
+          "start" : 915480,
+          "end" : 1411267
+        },
+        {
+          "titel" : "Der Täter, der nicht auffällt",
+          "start" : 1411267,
+          "end" : 1731587
+        },
+        {
+          "titel" : "Die nächste Telefonlawine rollt",
+          "start" : 1731587,
+          "end" : 2094680
+        },
+        {
+          "titel" : "Wer ist der Täter?",
+          "start" : 2094680,
+          "end" : 2402280
+        },
+        {
+          "titel" : "Ein Gewalttäter wird geschnappt",
+          "start" : 2402280,
+          "end" : 2821360
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/040/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/040/ffmetadata.txt",

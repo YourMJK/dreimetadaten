@@ -77,6 +77,52 @@
       "sprecher" : "Hans Paetsch"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Mann mit dem Zwinker-Tick",
+          "start" : 0,
+          "end" : 439920
+        },
+        {
+          "titel" : "Die Frau mit dem Vogel-Tick",
+          "start" : 439920,
+          "end" : 788440
+        },
+        {
+          "titel" : "Ein Mörder raubt Vögel",
+          "start" : 788440,
+          "end" : 1168840
+        },
+        {
+          "titel" : "Wo ist das Bindeglied?",
+          "start" : 1168840,
+          "end" : 1431160
+        },
+        {
+          "titel" : "Vergiftet?",
+          "start" : 1431160,
+          "end" : 1803747
+        },
+        {
+          "titel" : "Bewaffnete Aufsicht",
+          "start" : 1803747,
+          "end" : 2148827
+        },
+        {
+          "titel" : "Wer mit wem?",
+          "start" : 2148827,
+          "end" : 2537520
+        },
+        {
+          "titel" : "Hände hoch!",
+          "start" : 2537520,
+          "end" : 2873960
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/039/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/039/ffmetadata.txt",

@@ -110,10 +110,56 @@
       "sprecher" : "Tim Grobe"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Countdown läuft",
+          "start" : 0,
+          "end" : 688360
+        },
+        {
+          "titel" : "Tatort Rocky Beach",
+          "start" : 688360,
+          "end" : 1449067
+        },
+        {
+          "titel" : "Das Messer",
+          "start" : 1449067,
+          "end" : 1866880
+        },
+        {
+          "titel" : "Ein alter Freund erinnert sich",
+          "start" : 1866880,
+          "end" : 2283573
+        },
+        {
+          "titel" : "Gefährlicher Einbrecher",
+          "start" : 2283573,
+          "end" : 2711333
+        },
+        {
+          "titel" : "Gefahr im Mondschein",
+          "start" : 2711333,
+          "end" : 3145973
+        },
+        {
+          "titel" : "Geliebtes Sammlerobjekt",
+          "start" : 3145973,
+          "end" : 3527000
+        },
+        {
+          "titel" : "Showtime",
+          "start" : 3527000,
+          "end" : 4372133
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/218/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/218/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/218/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/218/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/218/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music112/v4/c0/13/4d/c0134d60-2ae9-48cf-6002-5ce6766a1b46/886449413232.jpg"
   }

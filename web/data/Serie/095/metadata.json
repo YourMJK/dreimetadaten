@@ -79,10 +79,46 @@
       "sprecher" : "Utz Richter"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die unsichtbare Botschaft",
+          "start" : 0,
+          "end" : 666293
+        },
+        {
+          "titel" : "Popol Vuh",
+          "start" : 666293,
+          "end" : 1131747
+        },
+        {
+          "titel" : "Die Telefon-Lawine",
+          "start" : 1131747,
+          "end" : 1802573
+        },
+        {
+          "titel" : "Observierung",
+          "start" : 1802573,
+          "end" : 2516373
+        },
+        {
+          "titel" : "Melody",
+          "start" : 2516373,
+          "end" : 2997640
+        },
+        {
+          "titel" : "Das Geheimnis des heiligen Buches",
+          "start" : 2997640,
+          "end" : 3603800
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/095/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/095/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/095/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/095/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/095/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/94/80/38/948038b7-c6ef-3bfa-5ef6-fd747c3db8dc/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180123if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/74/5f/77/0743218255427.jpg"

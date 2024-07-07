@@ -122,10 +122,81 @@
       "sprecher" : "Michael Lott"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Fehlende Erinnerung",
+          "start" : 0,
+          "end" : 199973
+        },
+        {
+          "titel" : "Filmriss",
+          "start" : 199973,
+          "end" : 519067
+        },
+        {
+          "titel" : "Eins, Punkt, Fragezeichen",
+          "start" : 519067,
+          "end" : 760533
+        },
+        {
+          "titel" : "Hasta la vista!",
+          "start" : 760533,
+          "end" : 892200
+        },
+        {
+          "titel" : "Verdächtiges Individuum",
+          "start" : 892200,
+          "end" : 1075480
+        },
+        {
+          "titel" : "Fliegende Orangen",
+          "start" : 1075480,
+          "end" : 1332480
+        },
+        {
+          "titel" : "Absolute Dunkelheit",
+          "start" : 1332480,
+          "end" : 1518067
+        },
+        {
+          "titel" : "Gequirlter Blödsinn",
+          "start" : 1518067,
+          "end" : 1675573
+        },
+        {
+          "titel" : "Hilfeschrei",
+          "start" : 1675573,
+          "end" : 1833213
+        },
+        {
+          "titel" : "Amnesie",
+          "start" : 1833213,
+          "end" : 2312933
+        },
+        {
+          "titel" : "Überzeugende Schauspielkunst",
+          "start" : 2312933,
+          "end" : 2461267
+        },
+        {
+          "titel" : "Notbremse",
+          "start" : 2461267,
+          "end" : 3246733
+        },
+        {
+          "titel" : "In Deckung!",
+          "start" : 3246733,
+          "end" : 3762347
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/121/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/121/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/121/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/121/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/121/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/f8/2a/cc/f82acc38-a2c5-6dc7-c938-bd360a4d186f/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115045239if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/9d/af/d9/0828766712124.jpg"

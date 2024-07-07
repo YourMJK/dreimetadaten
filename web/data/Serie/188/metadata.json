@@ -123,10 +123,66 @@
       "sprecher" : "Christian Concilio"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Angstschweiß",
+          "start" : 0,
+          "end" : 335080
+        },
+        {
+          "titel" : "Auf Sendung",
+          "start" : 335080,
+          "end" : 905480
+        },
+        {
+          "titel" : "Irritationen",
+          "start" : 905480,
+          "end" : 1284333
+        },
+        {
+          "titel" : "Spurlos verschwunden",
+          "start" : 1284333,
+          "end" : 1731200
+        },
+        {
+          "titel" : "Erpressung",
+          "start" : 1731200,
+          "end" : 2451707
+        },
+        {
+          "titel" : "Zur besten Sendezeit",
+          "start" : 2451707,
+          "end" : 2691013
+        },
+        {
+          "titel" : "Weißes Pulver",
+          "start" : 2691013,
+          "end" : 2975760
+        },
+        {
+          "titel" : "Tiefe Gefühle",
+          "start" : 2975760,
+          "end" : 3296133
+        },
+        {
+          "titel" : "Eigenes Interesse",
+          "start" : 3296133,
+          "end" : 3432373
+        },
+        {
+          "titel" : "Das Blatt wendet sich",
+          "start" : 3432373,
+          "end" : 4807547
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/188/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/188/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/188/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/188/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/188/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music127/v4/d8/46/82/d8468287-11fd-c8fc-258b-d60ef79cdeec/source"
   }

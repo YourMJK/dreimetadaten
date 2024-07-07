@@ -108,6 +108,52 @@
       "sprecher" : "Horst Frank"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine schwarze Gestalt",
+          "start" : 0,
+          "end" : 329240
+        },
+        {
+          "titel" : "Kundschaft auf dem Schrottplatz",
+          "start" : 329240,
+          "end" : 705533
+        },
+        {
+          "titel" : "Der Hinkende",
+          "start" : 705533,
+          "end" : 1105853
+        },
+        {
+          "titel" : "Gefangen!",
+          "start" : 1105853,
+          "end" : 1396213
+        },
+        {
+          "titel" : "Ein schwarzes Loch",
+          "start" : 1396213,
+          "end" : 1779253
+        },
+        {
+          "titel" : "Justus kombiniert",
+          "start" : 1779253,
+          "end" : 2396333
+        },
+        {
+          "titel" : "Zick oder Zack?",
+          "start" : 2396333,
+          "end" : 2590587
+        },
+        {
+          "titel" : "Justus bringt es an den Tag",
+          "start" : 2590587,
+          "end" : 2832680
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/009/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/009/ffmetadata.txt",

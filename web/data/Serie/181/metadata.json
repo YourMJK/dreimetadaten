@@ -117,10 +117,56 @@
       "sprecher" : "Lilian Körting"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der verschwundene Zauberer",
+          "start" : 0,
+          "end" : 252747
+        },
+        {
+          "titel" : "Im Zauberschrank",
+          "start" : 252747,
+          "end" : 1122507
+        },
+        {
+          "titel" : "Der Fremde im Spiegel",
+          "start" : 1122507,
+          "end" : 1494933
+        },
+        {
+          "titel" : "Hasentod",
+          "start" : 1494933,
+          "end" : 1919853
+        },
+        {
+          "titel" : "Auf der Spur des Hasenmörders",
+          "start" : 1919853,
+          "end" : 2356680
+        },
+        {
+          "titel" : "Nightingale, der Magier",
+          "start" : 2356680,
+          "end" : 2593667
+        },
+        {
+          "titel" : "Unsichtbar und trotzdem da",
+          "start" : 2593667,
+          "end" : 3211600
+        },
+        {
+          "titel" : "Nachts in den Bergen",
+          "start" : 3211600,
+          "end" : 4413560
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/181/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/181/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/181/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/181/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/181/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music49/v4/5d/5c/3c/5d5c3c06-d62b-cd67-077a-af7479f96522/source",
     "cover_kosmos" : "http://web.archive.org/web/20220124230851if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/72/dc/ab/0888751319622.jpg"

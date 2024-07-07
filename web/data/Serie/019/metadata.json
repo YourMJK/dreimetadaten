@@ -101,6 +101,52 @@
       "sprecher" : "Joachim Richert"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Im Tal der Wehklagen",
+          "start" : 0,
+          "end" : 264773
+        },
+        {
+          "titel" : "El Diablos Flucht",
+          "start" : 264773,
+          "end" : 737853
+        },
+        {
+          "titel" : "El Diablos Höhle",
+          "start" : 737853,
+          "end" : 1058320
+        },
+        {
+          "titel" : "Auf gefährlichem Weg",
+          "start" : 1058320,
+          "end" : 1335413
+        },
+        {
+          "titel" : "Jetzt wird ermittelt",
+          "start" : 1335413,
+          "end" : 1547973
+        },
+        {
+          "titel" : "Justus enthüllt einen Plan",
+          "start" : 1547973,
+          "end" : 1903240
+        },
+        {
+          "titel" : "Das blanke schwarze Wesen",
+          "start" : 1903240,
+          "end" : 2382093
+        },
+        {
+          "titel" : "Maske ab für El Diablo",
+          "start" : 2382093,
+          "end" : 2676573
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/019/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/019/ffmetadata.txt",

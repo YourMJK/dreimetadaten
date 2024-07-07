@@ -161,10 +161,91 @@
       "pseudonym" : "Bruno Ploeger"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Hilferuf von King Kongs Insel",
+          "start" : 0,
+          "end" : 354080
+        },
+        {
+          "titel" : "Das Kino erwacht",
+          "start" : 354080,
+          "end" : 541387
+        },
+        {
+          "titel" : "Im Feindgebiet",
+          "start" : 541387,
+          "end" : 685787
+        },
+        {
+          "titel" : "Giraffen und Regenschirme",
+          "start" : 685787,
+          "end" : 1003093
+        },
+        {
+          "titel" : "Böses Spiel",
+          "start" : 1003093,
+          "end" : 1186907
+        },
+        {
+          "titel" : "Diebstahl",
+          "start" : 1186907,
+          "end" : 1501267
+        },
+        {
+          "titel" : "Tat oder Wahrheit?",
+          "start" : 1501267,
+          "end" : 1702587
+        },
+        {
+          "titel" : "Ein Monster kehrt zurück",
+          "start" : 1702587,
+          "end" : 1943293
+        },
+        {
+          "titel" : "1000NBRANDB282286",
+          "start" : 1943293,
+          "end" : 2071773
+        },
+        {
+          "titel" : "Der Dschungel des Mantikors",
+          "start" : 2071773,
+          "end" : 2476840
+        },
+        {
+          "titel" : "Tarzan in Gefahr",
+          "start" : 2476840,
+          "end" : 2662053
+        },
+        {
+          "titel" : "Gabbos Geheimnis",
+          "start" : 2662053,
+          "end" : 3273040
+        },
+        {
+          "titel" : "Das blaue Biest",
+          "start" : 3273040,
+          "end" : 3714080
+        },
+        {
+          "titel" : "Die Zeit läuft ab",
+          "start" : 3714080,
+          "end" : 4043320
+        },
+        {
+          "titel" : "Showdown",
+          "start" : 4043320,
+          "end" : 4324213
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/167/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/167/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/167/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/167/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/167/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music111/v4/a4/04/2b/a4042bde-8b6f-01fc-8679-b78c2e45942d/source",
     "cover_kosmos" : "http://web.archive.org/web/20211231145704if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/16/03/20/0887254003724.jpg"

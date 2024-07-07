@@ -112,10 +112,71 @@
       "sprecher" : "Arndt Schmöle"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Nicht zu packen",
+          "start" : 0,
+          "end" : 193667
+        },
+        {
+          "titel" : "Onkel Tony",
+          "start" : 193667,
+          "end" : 572653
+        },
+        {
+          "titel" : "Ruby Tuesday",
+          "start" : 572653,
+          "end" : 813640
+        },
+        {
+          "titel" : "Babyface",
+          "start" : 813640,
+          "end" : 1536587
+        },
+        {
+          "titel" : "Schnitzeljagd",
+          "start" : 1536587,
+          "end" : 1716800
+        },
+        {
+          "titel" : "Atbash",
+          "start" : 1716800,
+          "end" : 2005333
+        },
+        {
+          "titel" : "Keine leichte Aufgabe",
+          "start" : 2005333,
+          "end" : 2195293
+        },
+        {
+          "titel" : "Rebus",
+          "start" : 2195293,
+          "end" : 2571693
+        },
+        {
+          "titel" : "Ivory",
+          "start" : 2571693,
+          "end" : 2783747
+        },
+        {
+          "titel" : "Im Elfenbeinturm",
+          "start" : 2783747,
+          "end" : 3156133
+        },
+        {
+          "titel" : "Bergamotte",
+          "start" : 3156133,
+          "end" : 3621920
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/143/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/143/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/143/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/143/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/143/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/fe/6f/74/fe6f7474-f6ac-95dc-4c9e-e3dd300b37da/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111022952if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/65/f5/81/0886978014320.jpg"

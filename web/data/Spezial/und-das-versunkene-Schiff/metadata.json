@@ -1,104 +1,4 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 1,
-      "kapitel" : [
-        {
-          "titel" : "Prolog",
-          "start" : 0,
-          "end" : 68400
-        },
-        {
-          "titel" : "Sandfield",
-          "start" : 68400,
-          "end" : 317720
-        },
-        {
-          "titel" : "Brother Jonathan",
-          "start" : 317720,
-          "end" : 1169600
-        },
-        {
-          "titel" : "Tauchgang",
-          "start" : 1169600,
-          "end" : 1466533
-        },
-        {
-          "titel" : "Hai-Alarm",
-          "start" : 1466533,
-          "end" : 1729467
-        },
-        {
-          "titel" : "Pläne für Sandfield",
-          "start" : 1729467,
-          "end" : 2182733
-        },
-        {
-          "titel" : "Schatzsuche!",
-          "start" : 2182733,
-          "end" : 2513693
-        },
-        {
-          "titel" : "Paprika",
-          "start" : 2513693,
-          "end" : 2852240
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/1/rip_log.txt"
-      }
-    },
-    {
-      "teilNummer" : 2,
-      "kapitel" : [
-        {
-          "titel" : "Am Abgrund",
-          "start" : 0,
-          "end" : 471347
-        },
-        {
-          "titel" : "Afrika",
-          "start" : 471347,
-          "end" : 737973
-        },
-        {
-          "titel" : "Abbruchgefährdet",
-          "start" : 737973,
-          "end" : 1350440
-        },
-        {
-          "titel" : "Goldrausch",
-          "start" : 1350440,
-          "end" : 1531307
-        },
-        {
-          "titel" : "Verdacht",
-          "start" : 1531307,
-          "end" : 2102547
-        },
-        {
-          "titel" : "Elaine",
-          "start" : 2102547,
-          "end" : 2621133
-        },
-        {
-          "titel" : "Countdown",
-          "start" : 2621133,
-          "end" : 3035933
-        },
-        {
-          "titel" : "Glück im Unglück",
-          "start" : 3035933,
-          "end" : 3273800
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/2/rip_log.txt"
-      }
-    }
-  ],
   "titel" : "und das versunkene Schiff",
   "autor" : "André Marx",
   "hörspielskriptautor" : "Kai Schwind",
@@ -251,6 +151,98 @@
     {
       "rolle" : "Mr. Miller",
       "sprecher" : "Pierre Brand"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Prolog",
+          "start" : 0,
+          "end" : 68400
+        },
+        {
+          "titel" : "Sandfield",
+          "start" : 68400,
+          "end" : 317720
+        },
+        {
+          "titel" : "Brother Jonathan",
+          "start" : 317720,
+          "end" : 1169600
+        },
+        {
+          "titel" : "Tauchgang",
+          "start" : 1169600,
+          "end" : 1466533
+        },
+        {
+          "titel" : "Hai-Alarm",
+          "start" : 1466533,
+          "end" : 1729467
+        },
+        {
+          "titel" : "Pläne für Sandfield",
+          "start" : 1729467,
+          "end" : 2182733
+        },
+        {
+          "titel" : "Schatzsuche!",
+          "start" : 2182733,
+          "end" : 2513693
+        },
+        {
+          "titel" : "Paprika",
+          "start" : 2513693,
+          "end" : 2852240
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Am Abgrund",
+          "start" : 0,
+          "end" : 471347
+        },
+        {
+          "titel" : "Afrika",
+          "start" : 471347,
+          "end" : 737973
+        },
+        {
+          "titel" : "Abbruchgefährdet",
+          "start" : 737973,
+          "end" : 1350440
+        },
+        {
+          "titel" : "Goldrausch",
+          "start" : 1350440,
+          "end" : 1531307
+        },
+        {
+          "titel" : "Verdacht",
+          "start" : 1531307,
+          "end" : 2102547
+        },
+        {
+          "titel" : "Elaine",
+          "start" : 2102547,
+          "end" : 2621133
+        },
+        {
+          "titel" : "Countdown",
+          "start" : 2621133,
+          "end" : 3035933
+        },
+        {
+          "titel" : "Glück im Unglück",
+          "start" : 3035933,
+          "end" : 3273800
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/rip_log2.txt"
     }
   ],
   "links" : {

@@ -106,10 +106,61 @@
       "sprecher" : "Bertram Hiese"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Hilfe, ein Zwerg!",
+          "start" : 0,
+          "end" : 314427
+        },
+        {
+          "titel" : "Das Grauen in der Tiefe",
+          "start" : 314427,
+          "end" : 662467
+        },
+        {
+          "titel" : "Das Versteck",
+          "start" : 662467,
+          "end" : 827360
+        },
+        {
+          "titel" : "Zwergenkunst",
+          "start" : 827360,
+          "end" : 971427
+        },
+        {
+          "titel" : "Ein Käfer wird misshandelt",
+          "start" : 971427,
+          "end" : 1158573
+        },
+        {
+          "titel" : "Flucht nach vorne!",
+          "start" : 1158573,
+          "end" : 1390053
+        },
+        {
+          "titel" : "Abwärts",
+          "start" : 1390053,
+          "end" : 2051440
+        },
+        {
+          "titel" : "Haifischfutter",
+          "start" : 2051440,
+          "end" : 2552107
+        },
+        {
+          "titel" : "Ein tierisches Geheimnis",
+          "start" : 2552107,
+          "end" : 3473893
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/133/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/133/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/133/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/133/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/133/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/bf/3d/32/bf3d3231-9cb7-a40a-1637-069eda7a1671/source",
     "cover_kosmos" : "http://web.archive.org/web/20220124230858if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a4/ac/b6/0886974413325.jpg"

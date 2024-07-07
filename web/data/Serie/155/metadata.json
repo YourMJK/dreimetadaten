@@ -145,10 +145,96 @@
       "sprecher" : "Undine Ullmer"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Kein Entkommen",
+          "start" : 0,
+          "end" : 369933
+        },
+        {
+          "titel" : "Düstere Legenden",
+          "start" : 369933,
+          "end" : 807520
+        },
+        {
+          "titel" : "Das Haus des Meisters",
+          "start" : 807520,
+          "end" : 1104333
+        },
+        {
+          "titel" : "Im Inneren des Herzens",
+          "start" : 1104333,
+          "end" : 1360867
+        },
+        {
+          "titel" : "Besessen",
+          "start" : 1360867,
+          "end" : 1745760
+        },
+        {
+          "titel" : "Filmriss",
+          "start" : 1745760,
+          "end" : 1791427
+        },
+        {
+          "titel" : "Leeres Fach",
+          "start" : 1791427,
+          "end" : 2063493
+        },
+        {
+          "titel" : "Belauscht",
+          "start" : 2063493,
+          "end" : 2176667
+        },
+        {
+          "titel" : "Die Informantin",
+          "start" : 2176667,
+          "end" : 2309467
+        },
+        {
+          "titel" : "Stromschlag",
+          "start" : 2309467,
+          "end" : 2424720
+        },
+        {
+          "titel" : "Der Meister der Recherche",
+          "start" : 2424720,
+          "end" : 2769827
+        },
+        {
+          "titel" : "Sohn des Königs",
+          "start" : 2769827,
+          "end" : 2842693
+        },
+        {
+          "titel" : "Panik",
+          "start" : 2842693,
+          "end" : 2990467
+        },
+        {
+          "titel" : "Die tote Lagune",
+          "start" : 2990467,
+          "end" : 3341347
+        },
+        {
+          "titel" : "CCK-4",
+          "start" : 3341347,
+          "end" : 3532573
+        },
+        {
+          "titel" : "Gefährliches Licht",
+          "start" : 3532573,
+          "end" : 4055280
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/155/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/155/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/155/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/155/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/155/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/0b/11/b0/0b11b09e-b129-c754-54c3-f402f09b2f02/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111212303if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/46/e0/98/0886979232525.jpg"

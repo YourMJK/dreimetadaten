@@ -1,0 +1,50 @@
+{
+  "teilNummer" : 3,
+  "titel" : "Der verschwundene Zeitgeist",
+  "autor" : "André Minninger",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Wer hat die fehlenden Manuskriptseiten von Malcolm Fever gestohlen? Als sich die drei Detektive des Falls annehmen, machen sie die Bekanntschaft mit einer höchst sonderbaren Dame …",
+  "veröffentlichungsdatum" : "2016-03-04",
+  "kapitel" : [
+    {
+      "titel" : "Ein emotionales Gespräch",
+      "start" : 0,
+      "end" : 645586
+    },
+    {
+      "titel" : "Eindeutiges Foto",
+      "start" : 645586,
+      "end" : 1502960
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Malcolm Fever",
+      "sprecher" : "Tilo Schmitz"
+    },
+    {
+      "rolle" : "Lucy Hopkins",
+      "sprecher" : "Topsy Küppers"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/3/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/3/ffmetadata.txt"
+  }
+}

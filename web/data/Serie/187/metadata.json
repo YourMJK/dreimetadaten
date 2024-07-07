@@ -122,10 +122,61 @@
       "sprecher" : "Michael Bideller"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Alles außer Bonbons",
+          "start" : 0,
+          "end" : 335693
+        },
+        {
+          "titel" : "Tante Mathilda tobt",
+          "start" : 335693,
+          "end" : 581040
+        },
+        {
+          "titel" : "Verschossen",
+          "start" : 581040,
+          "end" : 842693
+        },
+        {
+          "titel" : "Kein Passwort",
+          "start" : 842693,
+          "end" : 1456560
+        },
+        {
+          "titel" : "Indianerschmuck",
+          "start" : 1456560,
+          "end" : 2048080
+        },
+        {
+          "titel" : "Das Geheimnis der Santa Catalina",
+          "start" : 2048080,
+          "end" : 2711080
+        },
+        {
+          "titel" : "Yoga",
+          "start" : 2711080,
+          "end" : 2972293
+        },
+        {
+          "titel" : "Dämonen in der Nacht",
+          "start" : 2972293,
+          "end" : 3581267
+        },
+        {
+          "titel" : "Pures Gold",
+          "start" : 3581267,
+          "end" : 4036133
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/187/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/187/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/187/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/187/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/187/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music111/v4/94/13/22/941322bf-360a-734a-06eb-ac5d84cf0928/source"
   }

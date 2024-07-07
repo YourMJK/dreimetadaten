@@ -96,10 +96,51 @@
       "sprecher" : "Achim Schülke"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Alarm in Bel Air",
+          "start" : 0,
+          "end" : 434947
+        },
+        {
+          "titel" : "Ein seltsames Haus",
+          "start" : 434947,
+          "end" : 1244267
+        },
+        {
+          "titel" : "Ein Phantom schlägt zu",
+          "start" : 1244267,
+          "end" : 2065120
+        },
+        {
+          "titel" : "Klient in Not",
+          "start" : 2065120,
+          "end" : 2457933
+        },
+        {
+          "titel" : "In der Höhle des Shoguns",
+          "start" : 2457933,
+          "end" : 3091853
+        },
+        {
+          "titel" : "Wendepunkt",
+          "start" : 3091853,
+          "end" : 3778587
+        },
+        {
+          "titel" : "Die Villa der Lügen",
+          "start" : 3778587,
+          "end" : 4395213
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/212/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/212/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/212/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/212/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/212/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music125/v4/92/05/66/92056605-b0d2-8a87-f9e9-50b15cb8d847/source"
   }

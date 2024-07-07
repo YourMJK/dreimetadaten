@@ -106,10 +106,56 @@
       "sprecher" : "Astrid Kollex"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ballkünstler unter sich",
+          "start" : 0,
+          "end" : 412613
+        },
+        {
+          "titel" : "Explosive Nachrichten",
+          "start" : 412613,
+          "end" : 960400
+        },
+        {
+          "titel" : "Smell kauft Jimboy",
+          "start" : 960400,
+          "end" : 1348587
+        },
+        {
+          "titel" : "Eisiger Empfang in den Bergen",
+          "start" : 1348587,
+          "end" : 2023547
+        },
+        {
+          "titel" : "Foul auf Bestellung",
+          "start" : 2023547,
+          "end" : 2574587
+        },
+        {
+          "titel" : "Aktion Earphone",
+          "start" : 2574587,
+          "end" : 3069533
+        },
+        {
+          "titel" : "Ein riskanter Bluff",
+          "start" : 3069533,
+          "end" : 3325320
+        },
+        {
+          "titel" : "Cotta mischt mit",
+          "start" : 3325320,
+          "end" : 4014467
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/063/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/063/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/063/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/063/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/063/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/f3/26/93/f3269335-43f5-7026-235f-671d7a5cb163/source",
     "cover_kosmos" : "http://web.archive.org/web/20220106180936if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a5/8c/89/0743212482225.jpg"

@@ -97,10 +97,56 @@
       "sprecher" : "Thea Frank"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Absturz",
+          "start" : 0,
+          "end" : 364453
+        },
+        {
+          "titel" : "Eine Fee gibt Auskunft",
+          "start" : 364453,
+          "end" : 706507
+        },
+        {
+          "titel" : "Nächtlicher Einbruch",
+          "start" : 706507,
+          "end" : 977453
+        },
+        {
+          "titel" : "Die Schöne und der Verleger",
+          "start" : 977453,
+          "end" : 1302987
+        },
+        {
+          "titel" : "Planungsphase läuft",
+          "start" : 1302987,
+          "end" : 1599467
+        },
+        {
+          "titel" : "Ausgeräumt",
+          "start" : 1599467,
+          "end" : 2036267
+        },
+        {
+          "titel" : "Justus geht aufs Ganze",
+          "start" : 2036267,
+          "end" : 2314827
+        },
+        {
+          "titel" : "In der Klemme",
+          "start" : 2314827,
+          "end" : 2605187
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/057/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/057/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/057/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/057/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/057/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/22/f4/2e/22f42ec9-5f50-b15c-1e2c-c8614e062e9f/source",
     "cover_kosmos" : "http://web.archive.org/web/20220123153435if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f3/af/93/0743213885728.jpg"

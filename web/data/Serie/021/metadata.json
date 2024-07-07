@@ -112,6 +112,52 @@
       "sprecher" : "Hans Daniel"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Puppe entflogen",
+          "start" : 0,
+          "end" : 304827
+        },
+        {
+          "titel" : "Die Falle schnappt zu",
+          "start" : 304827,
+          "end" : 550973
+        },
+        {
+          "titel" : "Der Dämon greift an!",
+          "start" : 550973,
+          "end" : 909173
+        },
+        {
+          "titel" : "Der schwarze Koffer",
+          "start" : 909173,
+          "end" : 1270027
+        },
+        {
+          "titel" : "Dem Schurken auf der Spur",
+          "start" : 1270027,
+          "end" : 1714560
+        },
+        {
+          "titel" : "Der tanzende Teufel schlägt zu!",
+          "start" : 1714560,
+          "end" : 2177067
+        },
+        {
+          "titel" : "Das Gesicht am Fenster",
+          "start" : 2177067,
+          "end" : 2372280
+        },
+        {
+          "titel" : "Maske ab für den Teufel!",
+          "start" : 2372280,
+          "end" : 2547813
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/021/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/021/ffmetadata.txt",

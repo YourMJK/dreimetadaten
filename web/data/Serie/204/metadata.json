@@ -83,10 +83,46 @@
       "sprecher" : "Holger Mahlich"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der Auftrag",
+          "start" : 0,
+          "end" : 645507
+        },
+        {
+          "titel" : "Überraschungsgast",
+          "start" : 645507,
+          "end" : 1409787
+        },
+        {
+          "titel" : "Lebenszeichen",
+          "start" : 1409787,
+          "end" : 2141507
+        },
+        {
+          "titel" : "Überraschende Nachricht",
+          "start" : 2141507,
+          "end" : 2731773
+        },
+        {
+          "titel" : "Auf leisen Sohlen",
+          "start" : 2731773,
+          "end" : 3328347
+        },
+        {
+          "titel" : "In der Hölle",
+          "start" : 3328347,
+          "end" : 4144067
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/204/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/204/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/204/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/204/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/204/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music123/v4/ea/6c/b8/ea6cb899-c301-3b96-7d45-86011cfa1289/source"
   }

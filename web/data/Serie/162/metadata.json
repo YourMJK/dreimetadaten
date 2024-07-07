@@ -116,10 +116,71 @@
       "sprecher" : "Gustav-Adolph Artz"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Warnung aus South Dakota",
+          "start" : 0,
+          "end" : 474747
+        },
+        {
+          "titel" : "Fort Stockburn",
+          "start" : 474747,
+          "end" : 663840
+        },
+        {
+          "titel" : "Phase 1",
+          "start" : 663840,
+          "end" : 954333
+        },
+        {
+          "titel" : "Fremde unerwünscht",
+          "start" : 954333,
+          "end" : 1567147
+        },
+        {
+          "titel" : "Phase 2",
+          "start" : 1567147,
+          "end" : 1771973
+        },
+        {
+          "titel" : "Dem Grauen auf der Spur",
+          "start" : 1771973,
+          "end" : 2055200
+        },
+        {
+          "titel" : "Schwierige Recherchen",
+          "start" : 2055200,
+          "end" : 2439800
+        },
+        {
+          "titel" : "Die große Bedrohung",
+          "start" : 2439800,
+          "end" : 2745893
+        },
+        {
+          "titel" : "Schatten der Vergangenheit",
+          "start" : 2745893,
+          "end" : 3128360
+        },
+        {
+          "titel" : "Furcht und Hoffnung",
+          "start" : 3128360,
+          "end" : 3613520
+        },
+        {
+          "titel" : "Der Nebel lichtet sich",
+          "start" : 3613520,
+          "end" : 4365707
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/162/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/162/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/162/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/162/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/162/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/a3/37/c9/a337c9f9-455b-d36a-5431-c336dd4a4552/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111212302if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/70/82/91/0887254003229.jpg"

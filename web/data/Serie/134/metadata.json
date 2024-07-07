@@ -118,10 +118,81 @@
       "sprecher" : "Nicolas König"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Noch mal Glück gehabt!",
+          "start" : 0,
+          "end" : 276800
+        },
+        {
+          "titel" : "Angst",
+          "start" : 276800,
+          "end" : 849960
+        },
+        {
+          "titel" : "Beschattung",
+          "start" : 849960,
+          "end" : 1156707
+        },
+        {
+          "titel" : "Böser Geist",
+          "start" : 1156707,
+          "end" : 1448133
+        },
+        {
+          "titel" : "Verschüttet",
+          "start" : 1448133,
+          "end" : 1770587
+        },
+        {
+          "titel" : "Ordnung kehrt ein",
+          "start" : 1770587,
+          "end" : 2068627
+        },
+        {
+          "titel" : "Geschäftsgeheimnis",
+          "start" : 2068627,
+          "end" : 2193227
+        },
+        {
+          "titel" : "Neuer Entschluss",
+          "start" : 2193227,
+          "end" : 2280387
+        },
+        {
+          "titel" : "Fototrick",
+          "start" : 2280387,
+          "end" : 2601960
+        },
+        {
+          "titel" : "Es entwickelt sich",
+          "start" : 2601960,
+          "end" : 2757187
+        },
+        {
+          "titel" : "Der tote Mönch",
+          "start" : 2757187,
+          "end" : 3322453
+        },
+        {
+          "titel" : "Seltener Name",
+          "start" : 3322453,
+          "end" : 3627387
+        },
+        {
+          "titel" : "Letzte Ergebnisse",
+          "start" : 3627387,
+          "end" : 4029587
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/134/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/134/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/134/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/134/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/134/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music41/v4/e8/6f/51/e86f519b-d21e-46e4-bb8d-684f1b5de79b/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115152702if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/4c/d6/c8/0886974413424.jpg"

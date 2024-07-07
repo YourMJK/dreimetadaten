@@ -84,10 +84,51 @@
       "sprecher" : "Stephan Benson"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ausgerutscht!",
+          "start" : 0,
+          "end" : 533907
+        },
+        {
+          "titel" : "Geisterlift",
+          "start" : 533907,
+          "end" : 1077133
+        },
+        {
+          "titel" : "Die verbotene Zone",
+          "start" : 1077133,
+          "end" : 1831493
+        },
+        {
+          "titel" : "Das weiße Grab",
+          "start" : 1831493,
+          "end" : 2691493
+        },
+        {
+          "titel" : "Alte Geschichten",
+          "start" : 2691493,
+          "end" : 3143307
+        },
+        {
+          "titel" : "Das Astloch",
+          "start" : 3143307,
+          "end" : 3671613
+        },
+        {
+          "titel" : "Demaskiert",
+          "start" : 3671613,
+          "end" : 4568253
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/202/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/202/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/202/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/202/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/202/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music124/v4/50/9a/48/509a481a-df7e-5b54-b5b0-a7115e36ace7/source"
   }

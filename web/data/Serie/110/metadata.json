@@ -105,10 +105,56 @@
       "sprecher" : "Kristian Kretschmer"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Das Monster im Park",
+          "start" : 0,
+          "end" : 406400
+        },
+        {
+          "titel" : "Lauft!",
+          "start" : 406400,
+          "end" : 1030573
+        },
+        {
+          "titel" : "Nicht von dieser Welt",
+          "start" : 1030573,
+          "end" : 1468880
+        },
+        {
+          "titel" : "Die Hypothese",
+          "start" : 1468880,
+          "end" : 2056173
+        },
+        {
+          "titel" : "Seuchenalarm",
+          "start" : 2056173,
+          "end" : 2541733
+        },
+        {
+          "titel" : "Justus lässt nicht locker",
+          "start" : 2541733,
+          "end" : 2689973
+        },
+        {
+          "titel" : "Kombinationsgabe",
+          "start" : 2689973,
+          "end" : 2891000
+        },
+        {
+          "titel" : "Im Tunnel",
+          "start" : 2891000,
+          "end" : 3310573
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/110/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/110/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/110/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/110/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/110/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/f0/31/0c/f0310ce7-09a1-98b1-feb3-fc7a574e8921/source",
     "cover_kosmos" : "http://web.archive.org/web/20211227022655if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/7b/06/4a/0743219432926.jpg"

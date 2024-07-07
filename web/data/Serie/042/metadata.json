@@ -113,6 +113,52 @@
       "sprecher" : "Claudia Schermutzki"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Können Totenköpfe weinen?",
+          "start" : 0,
+          "end" : 322667
+        },
+        {
+          "titel" : "Einbruch in die Villa Markels!",
+          "start" : 322667,
+          "end" : 729173
+        },
+        {
+          "titel" : "Ein Mann mit rotem Schnauzbart",
+          "start" : 729173,
+          "end" : 1131587
+        },
+        {
+          "titel" : "Panne beim Kunsthandel",
+          "start" : 1131587,
+          "end" : 1422933
+        },
+        {
+          "titel" : "Ein rätselhaftes Testament",
+          "start" : 1422933,
+          "end" : 1816467
+        },
+        {
+          "titel" : "Drei Arten, einen Sarg zu betrachten",
+          "start" : 1816467,
+          "end" : 2151027
+        },
+        {
+          "titel" : "Scherben bringen es an den Tag",
+          "start" : 2151027,
+          "end" : 2469773
+        },
+        {
+          "titel" : "Die allerletzte Hürde",
+          "start" : 2469773,
+          "end" : 2869227
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/042/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/042/ffmetadata.txt",

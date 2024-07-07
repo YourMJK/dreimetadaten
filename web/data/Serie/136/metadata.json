@@ -130,10 +130,81 @@
       "sprecher" : "Rolf E. Schenker"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein neuer Fall",
+          "start" : 0,
+          "end" : 144133
+        },
+        {
+          "titel" : "Der Mann im Wasser",
+          "start" : 144133,
+          "end" : 602013
+        },
+        {
+          "titel" : "Ein Arzt muss her!",
+          "start" : 602013,
+          "end" : 741253
+        },
+        {
+          "titel" : "Heiße Dusche",
+          "start" : 741253,
+          "end" : 1198960
+        },
+        {
+          "titel" : "Das Phantom von Ridgelake",
+          "start" : 1198960,
+          "end" : 1449200
+        },
+        {
+          "titel" : "Auf der Lauer",
+          "start" : 1449200,
+          "end" : 1942893
+        },
+        {
+          "titel" : "Schlachtpläne",
+          "start" : 1942893,
+          "end" : 2328800
+        },
+        {
+          "titel" : "Hinab in die Tiefe",
+          "start" : 2328800,
+          "end" : 2546760
+        },
+        {
+          "titel" : "Luftnot",
+          "start" : 2546760,
+          "end" : 2664773
+        },
+        {
+          "titel" : "Tiefenrausch",
+          "start" : 2664773,
+          "end" : 3007947
+        },
+        {
+          "titel" : "Der letzte Wille",
+          "start" : 3007947,
+          "end" : 3417840
+        },
+        {
+          "titel" : "Cassandra",
+          "start" : 3417840,
+          "end" : 3947773
+        },
+        {
+          "titel" : "Abschied von Ridgelake",
+          "start" : 3947773,
+          "end" : 4117027
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/136/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/136/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/136/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/136/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/136/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/85/dc/a1/85dca1a3-0eb3-af01-a5a8-261360b89a84/source",
     "cover_kosmos" : "http://web.archive.org/web/20220124230854if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/2b/10/25/0886974413622.jpg"

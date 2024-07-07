@@ -92,10 +92,51 @@
       "sprecher" : "Riko Tauber"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Aus eins wird zwei",
+          "start" : 0,
+          "end" : 354520
+        },
+        {
+          "titel" : "Die Uhr tickt",
+          "start" : 354520,
+          "end" : 977280
+        },
+        {
+          "titel" : "Im Reich der Ungeheuer",
+          "start" : 977280,
+          "end" : 1730587
+        },
+        {
+          "titel" : "Die Suche beginnt",
+          "start" : 1730587,
+          "end" : 2295080
+        },
+        {
+          "titel" : "Wieder vereint",
+          "start" : 2295080,
+          "end" : 3097333
+        },
+        {
+          "titel" : "Die Fassade fällt",
+          "start" : 3097333,
+          "end" : 3913080
+        },
+        {
+          "titel" : "Ende mit Schrecken",
+          "start" : 3913080,
+          "end" : 4503053
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/195/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/195/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/195/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/195/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/195/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music115/v4/b7/6a/c8/b76ac83c-cf66-16dd-0380-3fe53d652255/source"
   }

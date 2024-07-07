@@ -2,7 +2,7 @@
   "nummer" : 4,
   "titel" : "Zug um Zug",
   "autor" : "Tim Wenderoth",
-  "hörspielskriptautor" : "Tim Wenderoth, Yona Franke, Moritz von Fulmenstöcker",
+  "hörspielskriptautor" : "Moritz von Fulmenstöcker, Tim Wenderoth, Yona Franke",
   "beschreibung" : "Ein alter Zeitungsartikel weckt die Neugier des ersten Detektivs. Wo sind die $500.000 aus dem Überfall auf den Postzug geblieben? Was geschah wirklich vor 12 Jahren am alten Bahnhof von Rocky Beach? Was wusste die verstorbene Ellie Sparrow und inwieweit war die ehemalige Postangestellte in den Raubüberfall verwickelt? Ein leeres Blatt Papier und eine wirre Buchstabenkombination sind nur zwei der zahlreichen kleinen Puzzleteile, die zusammengefügt werden müssen. Als sich auch noch andere Gestalten für das verschollene Geld zu interessieren scheinen, wird es erst recht Zeit für Die Dr3i sich mit dem Fall zu beschäftigen.\nZug um Zug suchen sie nach den Antworten auf die vielen Fragen, die sich ihnen stellen …",
   "veröffentlichungsdatum" : "2006-11-24",
   "kapitel" : [
@@ -121,10 +121,71 @@
       "sprecher" : "Fabian Harloff"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der gelöste Kriminalfall",
+          "start" : 0,
+          "end" : 234067
+        },
+        {
+          "titel" : "Neue Spuren?",
+          "start" : 234067,
+          "end" : 693853
+        },
+        {
+          "titel" : "Besuch bei Mr. Walker",
+          "start" : 693853,
+          "end" : 1389773
+        },
+        {
+          "titel" : "Ein leeres Blatt Papier",
+          "start" : 1389773,
+          "end" : 1720627
+        },
+        {
+          "titel" : "Der alte Bahnhofsvorsteher",
+          "start" : 1720627,
+          "end" : 2434187
+        },
+        {
+          "titel" : "Unter den Gleisen",
+          "start" : 2434187,
+          "end" : 2824720
+        },
+        {
+          "titel" : "Der unbekannte Sohn",
+          "start" : 2824720,
+          "end" : 3283893
+        },
+        {
+          "titel" : "CC-DC-DC-OA 14, AAH-CI-CA-EC 23",
+          "start" : 3283893,
+          "end" : 3590640
+        },
+        {
+          "titel" : "Doc Brown",
+          "start" : 3590640,
+          "end" : 3972893
+        },
+        {
+          "titel" : "Lebenslänglich für drei Detektive",
+          "start" : 3972893,
+          "end" : 4297867
+        },
+        {
+          "titel" : "Jeden Tag eine gute Tat",
+          "start" : 4297867,
+          "end" : 4747133
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/4/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/4/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/4/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/4/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/DiE_DR3i/4/cover.png"
   }
 }

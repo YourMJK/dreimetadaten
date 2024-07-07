@@ -132,10 +132,86 @@
       "sprecher" : "Frank Felicetti"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Wertvolle Sammlerstücke",
+          "start" : 0,
+          "end" : 196320
+        },
+        {
+          "titel" : "Ein original Mobimec",
+          "start" : 196320,
+          "end" : 595960
+        },
+        {
+          "titel" : "Drei fanatische Sammler",
+          "start" : 595960,
+          "end" : 780547
+        },
+        {
+          "titel" : "Schlupfkrabbler",
+          "start" : 780547,
+          "end" : 944600
+        },
+        {
+          "titel" : "Erdbebensicher",
+          "start" : 944600,
+          "end" : 1355960
+        },
+        {
+          "titel" : "Raus aus der Schusslinie",
+          "start" : 1355960,
+          "end" : 1519933
+        },
+        {
+          "titel" : "Was ist in der Kiste?",
+          "start" : 1519933,
+          "end" : 1659533
+        },
+        {
+          "titel" : "Der kreative Kopf der Firma",
+          "start" : 1659533,
+          "end" : 2277280
+        },
+        {
+          "titel" : "Roboter",
+          "start" : 2277280,
+          "end" : 2322213
+        },
+        {
+          "titel" : "Rohrpost der besonderen Art",
+          "start" : 2322213,
+          "end" : 2952840
+        },
+        {
+          "titel" : "Die Stadt der Engel",
+          "start" : 2952840,
+          "end" : 3109120
+        },
+        {
+          "titel" : "Im Dämmerlicht der Kirche",
+          "start" : 3109120,
+          "end" : 3313987
+        },
+        {
+          "titel" : "Zahlenrätsel",
+          "start" : 3313987,
+          "end" : 3558280
+        },
+        {
+          "titel" : "Kostenlose Werbung",
+          "start" : 3558280,
+          "end" : 4063440
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/119/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/119/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/119/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/119/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/119/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music22/v4/be/dc/91/bedc9105-adb8-ff7d-c96d-d3408a397569/source",
     "cover_kosmos" : "http://web.archive.org/web/20220123153352if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/39/28/e3/0743219911926.jpg"

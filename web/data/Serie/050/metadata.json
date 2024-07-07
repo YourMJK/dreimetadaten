@@ -93,10 +93,56 @@
       "sprecher" : "Günter König"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Chaos in der Strandvilla",
+          "start" : 0,
+          "end" : 548960
+        },
+        {
+          "titel" : "Ein Unglück kommt selten allein",
+          "start" : 548960,
+          "end" : 947920
+        },
+        {
+          "titel" : "Stars mit und ohne Maske",
+          "start" : 947920,
+          "end" : 1336107
+        },
+        {
+          "titel" : "Rat vom großen Guru",
+          "start" : 1336107,
+          "end" : 1717547
+        },
+        {
+          "titel" : "Der Kerl mit dem Koffer",
+          "start" : 1717547,
+          "end" : 2171933
+        },
+        {
+          "titel" : "Nachteinsatz",
+          "start" : 2171933,
+          "end" : 2739760
+        },
+        {
+          "titel" : "Total vermasselt!",
+          "start" : 2739760,
+          "end" : 3043307
+        },
+        {
+          "titel" : "Ein Vampir kehrt zurück",
+          "start" : 3043307,
+          "end" : 3435173
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/050/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/050/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/050/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/050/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/050/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/3b/13/ce/3b13cee9-0f9c-66c0-c0b8-fff0d058bb66/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180141if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/71/8a/c7/0743213885025.jpg"

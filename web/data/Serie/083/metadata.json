@@ -83,10 +83,46 @@
       "sprecher" : "Roland Becker"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die \"Wavedancer\"",
+          "start" : 0,
+          "end" : 588173
+        },
+        {
+          "titel" : "Peter über Bord",
+          "start" : 588173,
+          "end" : 1198933
+        },
+        {
+          "titel" : "Im Sturm",
+          "start" : 1198933,
+          "end" : 1780040
+        },
+        {
+          "titel" : "Meuterei",
+          "start" : 1780040,
+          "end" : 2312667
+        },
+        {
+          "titel" : "Das Wesen aus der Urzeit",
+          "start" : 2312667,
+          "end" : 2960080
+        },
+        {
+          "titel" : "In die Tiefe",
+          "start" : 2960080,
+          "end" : 3558427
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/083/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/083/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/083/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/083/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/083/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/44/fc/d7/44fcd768-ec87-136e-c774-1dfa37064746/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111022954if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/43/8d/81/0743215476528.jpg"

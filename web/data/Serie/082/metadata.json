@@ -75,10 +75,46 @@
       "sprecher" : "Werner Pohlenz"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Das Rad des Schicksals",
+          "start" : 0,
+          "end" : 606453
+        },
+        {
+          "titel" : "Der Gehängte",
+          "start" : 606453,
+          "end" : 1173240
+        },
+        {
+          "titel" : "Der Eremit",
+          "start" : 1173240,
+          "end" : 2099320
+        },
+        {
+          "titel" : "Der Magier",
+          "start" : 2099320,
+          "end" : 2855627
+        },
+        {
+          "titel" : "Der Tod",
+          "start" : 2855627,
+          "end" : 3486787
+        },
+        {
+          "titel" : "Das Gericht",
+          "start" : 3486787,
+          "end" : 4199867
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/082/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/082/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/082/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/082/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/082/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/dd/b1/8e/ddb18e64-6121-1cbc-dc61-057c37a6313a/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180132if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/87/c8/fa/0743215476429.jpg"

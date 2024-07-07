@@ -106,6 +106,52 @@
       "sprecher" : "Horst Frank"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein reizbarer Herr",
+          "start" : 0,
+          "end" : 254627
+        },
+        {
+          "titel" : "Die Festung",
+          "start" : 254627,
+          "end" : 555320
+        },
+        {
+          "titel" : "Ausgang verboten",
+          "start" : 555320,
+          "end" : 850427
+        },
+        {
+          "titel" : "Invasion",
+          "start" : 850427,
+          "end" : 1309533
+        },
+        {
+          "titel" : "Ein unschuldiges Opfer",
+          "start" : 1309533,
+          "end" : 1562213
+        },
+        {
+          "titel" : "Es darf spioniert werden",
+          "start" : 1562213,
+          "end" : 1888827
+        },
+        {
+          "titel" : "Justus hat eine Erleuchtung",
+          "start" : 1888827,
+          "end" : 2224173
+        },
+        {
+          "titel" : "Geht die Welt unter?",
+          "start" : 2224173,
+          "end" : 2657067
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/033/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/033/ffmetadata.txt",

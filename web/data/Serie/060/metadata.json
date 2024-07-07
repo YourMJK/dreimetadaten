@@ -106,10 +106,56 @@
       "pseudonym" : "Margot Linde"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Randale im Treibhaus",
+          "start" : 0,
+          "end" : 344320
+        },
+        {
+          "titel" : "Betrug in der Arena",
+          "start" : 344320,
+          "end" : 789440
+        },
+        {
+          "titel" : "Überfall auf Miss Sharp",
+          "start" : 789440,
+          "end" : 1121053
+        },
+        {
+          "titel" : "Verdächtiges Rendezvous",
+          "start" : 1121053,
+          "end" : 1458320
+        },
+        {
+          "titel" : "Tante Mathilda spielt Detektiv",
+          "start" : 1458320,
+          "end" : 1748120
+        },
+        {
+          "titel" : "Rauhe Schale, weicher Kern",
+          "start" : 1748120,
+          "end" : 2193827
+        },
+        {
+          "titel" : "Glenn packt aus",
+          "start" : 2193827,
+          "end" : 2541507
+        },
+        {
+          "titel" : "Tante Mathildas beste Freundin",
+          "start" : 2541507,
+          "end" : 2826880
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/060/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/060/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/060/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/060/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/060/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/a6/29/2b/a6292b27-fee9-d341-910e-7f7347e3a4dd/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115135401if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/82/1f/5f/0743211851428.jpg"

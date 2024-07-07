@@ -97,6 +97,52 @@
       "sprecher" : "Rolf Mamero"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Einladung",
+          "start" : 0,
+          "end" : 317267
+        },
+        {
+          "titel" : "Schüsse im Dunkeln",
+          "start" : 317267,
+          "end" : 695920
+        },
+        {
+          "titel" : "Die Todesfalle!",
+          "start" : 695920,
+          "end" : 1133680
+        },
+        {
+          "titel" : "Da schleicht einer durch die Nacht",
+          "start" : 1133680,
+          "end" : 1310427
+        },
+        {
+          "titel" : "Glimmer oder Gold?",
+          "start" : 1310427,
+          "end" : 1531093
+        },
+        {
+          "titel" : "Mundraub",
+          "start" : 1531093,
+          "end" : 1795573
+        },
+        {
+          "titel" : "Der Wachhund, der nicht bellte",
+          "start" : 1795573,
+          "end" : 2214640
+        },
+        {
+          "titel" : "Wo ist die Beute?",
+          "start" : 2214640,
+          "end" : 2628080
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/026/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/026/ffmetadata.txt",

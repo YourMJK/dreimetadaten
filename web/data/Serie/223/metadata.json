@@ -115,10 +115,56 @@
       "sprecher" : "Barbara Schipper"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Erde bebt",
+          "start" : 0,
+          "end" : 492760
+        },
+        {
+          "titel" : "Verschwunden",
+          "start" : 492760,
+          "end" : 847573
+        },
+        {
+          "titel" : "Hänsel und Gretel",
+          "start" : 847573,
+          "end" : 1172987
+        },
+        {
+          "titel" : "Sonniger Zeitgenosse",
+          "start" : 1172987,
+          "end" : 1690400
+        },
+        {
+          "titel" : "Bissige Spuren",
+          "start" : 1690400,
+          "end" : 2394147
+        },
+        {
+          "titel" : "Die Katze",
+          "start" : 2394147,
+          "end" : 3125573
+        },
+        {
+          "titel" : "Erdrückende Beweise",
+          "start" : 3125573,
+          "end" : 4321573
+        },
+        {
+          "titel" : "Romeo, Julia und … Bob",
+          "start" : 4321573,
+          "end" : 4799880
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/223/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/223/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/223/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/223/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/223/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music126/v4/2f/90/b7/2f90b777-86d1-c1c3-9b85-b8e5da917f8c/196589971913.jpg"
   }

@@ -117,10 +117,71 @@
       "sprecher" : "Brigitte Böttrich"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Kommt ein Koffer geflogen …",
+          "start" : 0,
+          "end" : 632720
+        },
+        {
+          "titel" : "Feuer!",
+          "start" : 632720,
+          "end" : 836907
+        },
+        {
+          "titel" : "Hinterher!",
+          "start" : 836907,
+          "end" : 1171240
+        },
+        {
+          "titel" : "Kontrolle ist besser",
+          "start" : 1171240,
+          "end" : 1756587
+        },
+        {
+          "titel" : "Der Pakt",
+          "start" : 1756587,
+          "end" : 2356800
+        },
+        {
+          "titel" : "Operation Geldkoffer",
+          "start" : 2356800,
+          "end" : 2508120
+        },
+        {
+          "titel" : "Reisepläne",
+          "start" : 2508120,
+          "end" : 2601440
+        },
+        {
+          "titel" : "In der Klemme",
+          "start" : 2601440,
+          "end" : 3065427
+        },
+        {
+          "titel" : "Verschwunden",
+          "start" : 3065427,
+          "end" : 3196347
+        },
+        {
+          "titel" : "Falschgeld",
+          "start" : 3196347,
+          "end" : 3370160
+        },
+        {
+          "titel" : "Ein ehrlicher Staatsbürger",
+          "start" : 3370160,
+          "end" : 3640027
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/117/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/117/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/117/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/117/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/117/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/a7/8d/f7/a78df76d-dea3-81fe-a2c0-e8dc753f10ef/source",
     "cover_kosmos" : "http://web.archive.org/web/20220106180902if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/51/9b/21/0743219911728.jpg"

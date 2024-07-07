@@ -109,10 +109,56 @@
       "sprecher" : "Joachim Kretzer"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Verschwunden!",
+          "start" : 0,
+          "end" : 627440
+        },
+        {
+          "titel" : "Unmöglich, aber wahr",
+          "start" : 627440,
+          "end" : 1220813
+        },
+        {
+          "titel" : "Original oder Fälschung?",
+          "start" : 1220813,
+          "end" : 1822547
+        },
+        {
+          "titel" : "Kontroll-Aktion",
+          "start" : 1822547,
+          "end" : 2348027
+        },
+        {
+          "titel" : "Gigant auf vielen Beinen",
+          "start" : 2348027,
+          "end" : 2844253
+        },
+        {
+          "titel" : "Die Masken fallen",
+          "start" : 2844253,
+          "end" : 3317000
+        },
+        {
+          "titel" : "Stunde der Wahrheit",
+          "start" : 3317000,
+          "end" : 3622427
+        },
+        {
+          "titel" : "Ein fast perfektes Verbrechen",
+          "start" : 3622427,
+          "end" : 3917560
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/189/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/189/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/189/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/189/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/189/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/af/7a/61/af7a610b-0f7b-d05c-af75-0919b14845ba/source"
   }

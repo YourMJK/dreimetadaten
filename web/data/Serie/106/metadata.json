@@ -119,10 +119,56 @@
       "sprecher" : "Echt"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Saturday Night Fever",
+          "start" : 0,
+          "end" : 568547
+        },
+        {
+          "titel" : "Disco-Inferno",
+          "start" : 568547,
+          "end" : 1206787
+        },
+        {
+          "titel" : "Mit dem Teufel im Bunde",
+          "start" : 1206787,
+          "end" : 1534827
+        },
+        {
+          "titel" : "\"Devil-Dancer\"",
+          "start" : 1534827,
+          "end" : 2129680
+        },
+        {
+          "titel" : "Die Kutte des Satans",
+          "start" : 2129680,
+          "end" : 2486853
+        },
+        {
+          "titel" : "Massensuggestion",
+          "start" : 2486853,
+          "end" : 2950027
+        },
+        {
+          "titel" : "Die letzte Ruhestätte",
+          "start" : 2950027,
+          "end" : 3828987
+        },
+        {
+          "titel" : "Tödliches Abgas",
+          "start" : 3828987,
+          "end" : 4255213
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/106/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/106/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/106/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/106/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/106/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/88/20/9f/88209fb7-3552-bd4f-86b1-502f95110aa5/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115152705if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/80/69/0f/0743219432520.jpg"

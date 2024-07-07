@@ -87,10 +87,46 @@
       "sprecher" : "Michael Lott"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine Bitte an Experten",
+          "start" : 0,
+          "end" : 483760
+        },
+        {
+          "titel" : "Merkwürdiger Empfang",
+          "start" : 483760,
+          "end" : 1106213
+        },
+        {
+          "titel" : "Gefangen in Kammer eins",
+          "start" : 1106213,
+          "end" : 1746320
+        },
+        {
+          "titel" : "Auf Kollisionskurs",
+          "start" : 1746320,
+          "end" : 2077440
+        },
+        {
+          "titel" : "Ohne Wasser",
+          "start" : 2077440,
+          "end" : 2823400
+        },
+        {
+          "titel" : "Zwei Glücksjäger",
+          "start" : 2823400,
+          "end" : 3834400
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/190/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/190/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/190/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/190/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/190/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/55/98/d5/5598d5f8-6e87-8f4b-af1f-65aea74b5143/source"
   }

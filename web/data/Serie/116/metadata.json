@@ -98,10 +98,61 @@
       "sprecher" : "Anja Topf"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Schwierigkeiten",
+          "start" : 0,
+          "end" : 276147
+        },
+        {
+          "titel" : "Autounfall",
+          "start" : 276147,
+          "end" : 1555733
+        },
+        {
+          "titel" : "Ω, 4-14",
+          "start" : 1555733,
+          "end" : 1713280
+        },
+        {
+          "titel" : "Verschlüsselt",
+          "start" : 1713280,
+          "end" : 2007867
+        },
+        {
+          "titel" : "Abhauen!",
+          "start" : 2007867,
+          "end" : 2264573
+        },
+        {
+          "titel" : "\"Memory\"",
+          "start" : 2264573,
+          "end" : 2654533
+        },
+        {
+          "titel" : "Co.B.Ra",
+          "start" : 2654533,
+          "end" : 3219107
+        },
+        {
+          "titel" : "Babylonia",
+          "start" : 3219107,
+          "end" : 3541933
+        },
+        {
+          "titel" : "Rumpelstilzchenfaktor",
+          "start" : 3541933,
+          "end" : 3724893
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/116/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/116/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/116/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/116/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/116/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music42/v4/a6/65/01/a66501b9-5948-943a-34f4-191a44c23616/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115045247if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/e1/32/78/0743219911629.jpg"

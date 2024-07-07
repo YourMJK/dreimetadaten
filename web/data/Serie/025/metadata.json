@@ -109,6 +109,52 @@
       "sprecher" : "Wolfgang Kaven"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Das Mädchen auf der Schimmelstute",
+          "start" : 0,
+          "end" : 329573
+        },
+        {
+          "titel" : "Die singende Schlange",
+          "start" : 329573,
+          "end" : 685253
+        },
+        {
+          "titel" : "Das Haus am Torrente Canyon",
+          "start" : 685253,
+          "end" : 1089413
+        },
+        {
+          "titel" : "Ein Opfer der Schlange",
+          "start" : 1089413,
+          "end" : 1579707
+        },
+        {
+          "titel" : "Bentleys Geheimakten",
+          "start" : 1579707,
+          "end" : 1869867
+        },
+        {
+          "titel" : "Die Diamanten der Kaiserin",
+          "start" : 1869867,
+          "end" : 2104413
+        },
+        {
+          "titel" : "Dr. Shaitans Geister",
+          "start" : 2104413,
+          "end" : 2420880
+        },
+        {
+          "titel" : "Die Schlange bringt neues Unheil",
+          "start" : 2420880,
+          "end" : 2782427
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/025/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/025/ffmetadata.txt",

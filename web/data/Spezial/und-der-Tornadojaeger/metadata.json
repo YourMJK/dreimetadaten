@@ -133,10 +133,76 @@
       "sprecher" : "Susan Jarling, Hilla Fitzen, Nina Minninger, Marine Endemann, Zelda Jahreis, Maud Ackermann, Heikedine Körting, Stephanie Damare, Ingeborg Christiansen, Micaëla Kreißler, Theresa Underberg, Kerstin Draeger, Lennardt Krüger, Kjell Wenzel, Norma Draeger, Florian Herkenrath, Jannik Endemann, Dirk Eichhorn, Stephan Benson"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine rasante Flucht",
+          "start" : 0,
+          "end" : 318187
+        },
+        {
+          "titel" : "Superhelden der besonderen Art",
+          "start" : 318187,
+          "end" : 741440
+        },
+        {
+          "titel" : "Die Lauscherin",
+          "start" : 741440,
+          "end" : 1025947
+        },
+        {
+          "titel" : "Überraschende Enthüllungen",
+          "start" : 1025947,
+          "end" : 1323813
+        },
+        {
+          "titel" : "Auf Rachefeldzug",
+          "start" : 1323813,
+          "end" : 1848493
+        },
+        {
+          "titel" : "Intrigen überall",
+          "start" : 1848493,
+          "end" : 2262707
+        },
+        {
+          "titel" : "Entführt!",
+          "start" : 2262707,
+          "end" : 2755507
+        },
+        {
+          "titel" : "Schlussfolgerungen",
+          "start" : 2755507,
+          "end" : 2884867
+        },
+        {
+          "titel" : "Schein und Sein",
+          "start" : 2884867,
+          "end" : 3224013
+        },
+        {
+          "titel" : "Licht ins Dunkel",
+          "start" : 3224013,
+          "end" : 3761333
+        },
+        {
+          "titel" : "Ein Paar",
+          "start" : 3761333,
+          "end" : 4068907
+        },
+        {
+          "titel" : "Sonnenklar",
+          "start" : 4068907,
+          "end" : 4300133
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music127/v4/5c/bd/e2/5cbde282-7308-b942-a2d6-e7fd717b9f47/886444438681.jpg"
   }

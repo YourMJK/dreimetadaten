@@ -89,6 +89,52 @@
       "sprecher" : "Ingrid Andree"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine wandelnde Katastrophe",
+          "start" : 0,
+          "end" : 306440
+        },
+        {
+          "titel" : "Das Abenteuer beginnt",
+          "start" : 306440,
+          "end" : 635640
+        },
+        {
+          "titel" : "Feuer als Ablenkungsmanöver",
+          "start" : 635640,
+          "end" : 986160
+        },
+        {
+          "titel" : "Hier ist doch etwas faul",
+          "start" : 986160,
+          "end" : 1269787
+        },
+        {
+          "titel" : "Ein tollkühner Schachzug",
+          "start" : 1269787,
+          "end" : 1548760
+        },
+        {
+          "titel" : "Bob in der Klemme",
+          "start" : 1548760,
+          "end" : 2019613
+        },
+        {
+          "titel" : "Top Secret",
+          "start" : 2019613,
+          "end" : 2256893
+        },
+        {
+          "titel" : "Kein Ausweg für den Täter",
+          "start" : 2256893,
+          "end" : 2552053
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/038/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/038/ffmetadata.txt",

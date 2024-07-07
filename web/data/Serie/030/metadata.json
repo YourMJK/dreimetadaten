@@ -91,7 +91,7 @@
     },
     {
       "rolle" : "Berg",
-      "sprecher" : "Andreas E. Beurmann / Wolfgang Draeger"
+      "sprecher" : "Andreas E. Beurmann, Wolfgang Draeger"
     },
     {
       "rolle" : "Yamura",
@@ -104,6 +104,52 @@
     {
       "rolle" : "Weston",
       "sprecher" : "Joachim Richert"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Rätselhafter Schwund",
+          "start" : 0,
+          "end" : 288453
+        },
+        {
+          "titel" : "Ein Schnüffler",
+          "start" : 288453,
+          "end" : 578347
+        },
+        {
+          "titel" : "Justus weiß eine Erklärung",
+          "start" : 578347,
+          "end" : 963613
+        },
+        {
+          "titel" : "Peter hat es erfasst",
+          "start" : 963613,
+          "end" : 1251253
+        },
+        {
+          "titel" : "Der Haifänger",
+          "start" : 1251253,
+          "end" : 1548573
+        },
+        {
+          "titel" : "Das Ungetüm aus dem Meer",
+          "start" : 1548573,
+          "end" : 1929387
+        },
+        {
+          "titel" : "Das Riff der Haie und sein Geheimnis",
+          "start" : 1929387,
+          "end" : 2294893
+        },
+        {
+          "titel" : "Qualm und List",
+          "start" : 2294893,
+          "end" : 2522293
+        }
+      ]
     }
   ],
   "links" : {

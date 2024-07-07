@@ -89,6 +89,52 @@
       "sprecher" : "Peter Lakenmacher, Christian Rode"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Lebensretter",
+          "start" : 0,
+          "end" : 374880
+        },
+        {
+          "titel" : "\"Ocean World\" – Die Welt des Ozeans",
+          "start" : 374880,
+          "end" : 720507
+        },
+        {
+          "titel" : "Jetzt aber los",
+          "start" : 720507,
+          "end" : 1043360
+        },
+        {
+          "titel" : "Der Mann mit dem eigenartigen rechten Auge",
+          "start" : 1043360,
+          "end" : 1445853
+        },
+        {
+          "titel" : "Die beiden langen Stangen",
+          "start" : 1445853,
+          "end" : 1826053
+        },
+        {
+          "titel" : "Die verlorene Fracht",
+          "start" : 1826053,
+          "end" : 2189133
+        },
+        {
+          "titel" : "Flukeys Lied",
+          "start" : 2189133,
+          "end" : 2524133
+        },
+        {
+          "titel" : "Was in der Kassette war",
+          "start" : 2524133,
+          "end" : 2896187
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/036/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/036/ffmetadata.txt",

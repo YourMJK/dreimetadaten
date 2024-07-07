@@ -100,10 +100,46 @@
       "pseudonym" : "Norman Messer"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein dunkles Vorzeichen",
+          "start" : 0,
+          "end" : 602987
+        },
+        {
+          "titel" : "Karen hat viel zu erzählen",
+          "start" : 602987,
+          "end" : 1202320
+        },
+        {
+          "titel" : "Schock im Schnee",
+          "start" : 1202320,
+          "end" : 1779600
+        },
+        {
+          "titel" : "Neue Pläne",
+          "start" : 1779600,
+          "end" : 2417560
+        },
+        {
+          "titel" : "Observierung",
+          "start" : 2417560,
+          "end" : 3034920
+        },
+        {
+          "titel" : "Das Blatt wendet sich",
+          "start" : 3034920,
+          "end" : 3559333
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/077/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/077/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/077/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/077/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/077/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/3d/52/de/3d52de30-7d6c-87e7-d179-75b4693d12ad/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111212308if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f7/48/75/0743215184027.jpg"

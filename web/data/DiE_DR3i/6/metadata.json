@@ -103,10 +103,66 @@
       "sprecher" : "Dirk Bach"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Gewonnen!",
+          "start" : 0,
+          "end" : 231600
+        },
+        {
+          "titel" : "Attentat",
+          "start" : 231600,
+          "end" : 891573
+        },
+        {
+          "titel" : "Kreidebleich",
+          "start" : 891573,
+          "end" : 1035507
+        },
+        {
+          "titel" : "Spiegel der Seele",
+          "start" : 1035507,
+          "end" : 1561547
+        },
+        {
+          "titel" : "Attacke",
+          "start" : 1561547,
+          "end" : 1735040
+        },
+        {
+          "titel" : "Vollgas",
+          "start" : 1735040,
+          "end" : 2439600
+        },
+        {
+          "titel" : "Gage",
+          "start" : 2439600,
+          "end" : 2573720
+        },
+        {
+          "titel" : "Überwacht",
+          "start" : 2573720,
+          "end" : 2731053
+        },
+        {
+          "titel" : "Verhaftet",
+          "start" : 2731053,
+          "end" : 2941027
+        },
+        {
+          "titel" : "Endspiel",
+          "start" : 2941027,
+          "end" : 3924760
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/6/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/6/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/6/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/6/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/DiE_DR3i/6/cover.png"
   }
 }

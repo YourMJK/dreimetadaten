@@ -1,590 +1,466 @@
 {
   "teile" : [
     {
-      "teile" : [
-        {
-          "teilNummer" : 1,
-          "titel" : "Der siebte Gast",
-          "autor" : "André Minninger",
-          "beschreibung" : "Mrs. Emily White spürt instinktiv, dass an dem Schreiben von ihrer Freundin Judy Fradkin etwas faul ist. Warum wurde die alte Dame von dem Jahrestreffen der Märchenfiguren so urplötzlich ausgeladen? Um der Sache auf den Grund zu gehen, holt sich Mrs White die Unterstützung der drei ???.",
-          "kapitel" : [
-            {
-              "titel" : "Inszenierung neuer Geschichten",
-              "start" : 0,
-              "end" : 439267
-            },
-            {
-              "titel" : "Die Worte einer Lügenhexe",
-              "start" : 439267,
-              "end" : 774387
-            },
-            {
-              "titel" : "Prinzessin in Champagnerlaune",
-              "start" : 774387,
-              "end" : 1596747
-            }
-          ],
-          "sprechrollen" : [
-            {
-              "rolle" : "Erzähler",
-              "sprecher" : "Thomas Fritsch"
-            },
-            {
-              "rolle" : "Justus Jonas, Erster Detektiv",
-              "sprecher" : "Oliver Rohrbeck"
-            },
-            {
-              "rolle" : "Peter Shaw, Zweiter Detektiv",
-              "sprecher" : "Jens Wawrczeck"
-            },
-            {
-              "rolle" : "Bob Andrews, Recherchen und Archiv",
-              "sprecher" : "Andreas Fröhlich"
-            },
-            {
-              "rolle" : "Emily White",
-              "sprecher" : "Sabine Hahn"
-            },
-            {
-              "rolle" : "Judy Fradkin",
-              "sprecher" : "Ursula Heyer"
-            },
-            {
-              "rolle" : "Aladin",
-              "sprecher" : "Heidi Schaffrath"
-            },
-            {
-              "rolle" : "Aschenputtel",
-              "sprecher" : "Regina Lemnitz"
-            },
-            {
-              "rolle" : "Prinzessin",
-              "sprecher" : "Renate Pichler"
-            },
-            {
-              "rolle" : "Rotkäppchen",
-              "sprecher" : "Angela Stresemann"
-            },
-            {
-              "rolle" : "Meerjungfrau",
-              "sprecher" : "Heikedine Körting",
-              "pseudonym" : "Pamela Punti"
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/1/ffmetadata.txt"
-          }
-        },
-        {
-          "teilNummer" : 2,
-          "titel" : "Bis um sieben zurück",
-          "autor" : "Kari Erlhoff",
-          "beschreibung" : "Bob Andrews rutscht auf dem glitschigen Boden des Schuppens aus und wird ohnmächtig. Als er kurze Zeit später erwacht, scheinen einige Dinge plötzlich recht merkwürdig zu sein … Doch nicht nur für ihn; denn auch seine Eltern scheinen ihn kaum wiederzuerkennen und machen sich die größten Sorgen um ihren Sohn. In ihrer Angst ziehen sie einen Arzt hinzu …",
-          "kapitel" : [
-            {
-              "titel" : "Kopfschmerzen",
-              "start" : 0,
-              "end" : 694933
-            },
-            {
-              "titel" : "Erwischt!",
-              "start" : 694933,
-              "end" : 1199813
-            },
-            {
-              "titel" : "Bobby",
-              "start" : 1199813,
-              "end" : 1477173
-            }
-          ],
-          "sprechrollen" : [
-            {
-              "rolle" : "Erzähler",
-              "sprecher" : "Thomas Fritsch"
-            },
-            {
-              "rolle" : "Justus Jonas, Erster Detektiv",
-              "sprecher" : "Oliver Rohrbeck"
-            },
-            {
-              "rolle" : "Peter Shaw, Zweiter Detektiv",
-              "sprecher" : "Jens Wawrczeck"
-            },
-            {
-              "rolle" : "Bob Andrews, Recherchen und Archiv",
-              "sprecher" : "Andreas Fröhlich"
-            },
-            {
-              "rolle" : "Mr. Andrews",
-              "sprecher" : "Henry König"
-            },
-            {
-              "rolle" : "Mrs. Andrews",
-              "sprecher" : "Konstanze Ullmer"
-            },
-            {
-              "rolle" : "Arzt",
-              "sprecher" : "Erik Schäffler"
-            },
-            {
-              "rolle" : "Mrs. Wallace",
-              "sprecher" : "Angela Stresemann"
-            },
-            {
-              "rolle" : "Bobby",
-              "sprecher" : "Merete Brettschneider"
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/2/ffmetadata.txt"
-          }
-        }
-      ],
       "teilNummer" : 1,
+      "titel" : "Der siebte Gast",
+      "autor" : "André Minninger",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Mrs. Emily White spürt instinktiv, dass an dem Schreiben von ihrer Freundin Judy Fradkin etwas faul ist. Warum wurde die alte Dame von dem Jahrestreffen der Märchenfiguren so urplötzlich ausgeladen? Um der Sache auf den Grund zu gehen, holt sich Mrs White die Unterstützung der drei ???.",
+      "veröffentlichungsdatum" : "2014-02-21",
       "kapitel" : [
         {
-          "titel" : "Der siebte Gast – Inszenierung neuer Geschichten",
+          "titel" : "Inszenierung neuer Geschichten",
           "start" : 0,
           "end" : 439267
         },
         {
-          "titel" : "Der siebte Gast – Die Worte einer Lügenhexe",
+          "titel" : "Die Worte einer Lügenhexe",
           "start" : 439267,
           "end" : 774387
         },
         {
-          "titel" : "Der siebte Gast – Prinzessin in Champagnerlaune",
+          "titel" : "Prinzessin in Champagnerlaune",
           "start" : 774387,
           "end" : 1596747
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
         },
         {
-          "titel" : "Bis um sieben zurück – Kopfschmerzen",
-          "start" : 1596747,
-          "end" : 2291680
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
         },
         {
-          "titel" : "Bis um sieben zurück – Erwischt!",
-          "start" : 2291680,
-          "end" : 2796560
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
         },
         {
-          "titel" : "Bis um sieben zurück – Bobby",
-          "start" : 2796560,
-          "end" : 3073920
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Emily White",
+          "sprecher" : "Sabine Hahn"
+        },
+        {
+          "rolle" : "Judy Fradkin",
+          "sprecher" : "Ursula Heyer"
+        },
+        {
+          "rolle" : "Aladin",
+          "sprecher" : "Heidi Schaffrath"
+        },
+        {
+          "rolle" : "Aschenputtel",
+          "sprecher" : "Regina Lemnitz"
+        },
+        {
+          "rolle" : "Prinzessin",
+          "sprecher" : "Renate Pichler"
+        },
+        {
+          "rolle" : "Rotkäppchen",
+          "sprecher" : "Angela Stresemann"
+        },
+        {
+          "rolle" : "Meerjungfrau",
+          "sprecher" : "Heikedine Körting",
+          "pseudonym" : "Pamela Punti"
         }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/rip_log.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/ffmetadata.txt"
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 3,
-          "titel" : "Bobs schwerste Stunde",
-          "autor" : "Hendrik Buchna",
-          "beschreibung" : "Bob weicht jede Farbe aus dem Gesicht. Wie vom Blitz getroffen steht er vor dem geöffneten Aktenschrank und lässt seinen Blick über die leeren Regale schweifen. Einbrecher haben das gesamte Fall-Archiv der drei Detektive gestohlen! Die Sammlung scheint für immer verloren zu sein. Doch dann entdeckt Justus einen Zettel mit einer merkwürdigen Botschaft …",
-          "kapitel" : [
-            {
-              "titel" : "Alles weg!",
-              "start" : 0,
-              "end" : 433867
-            },
-            {
-              "titel" : "Gruselstimme",
-              "start" : 433867,
-              "end" : 973600
-            },
-            {
-              "titel" : "Aufwendiges Vorhaben",
-              "start" : 973600,
-              "end" : 1574187
-            }
-          ],
-          "sprechrollen" : [
-            {
-              "rolle" : "Erzähler",
-              "sprecher" : "Thomas Fritsch"
-            },
-            {
-              "rolle" : "Justus Jonas, Erster Detektiv",
-              "sprecher" : "Oliver Rohrbeck"
-            },
-            {
-              "rolle" : "Peter Shaw, Zweiter Detektiv",
-              "sprecher" : "Jens Wawrczeck"
-            },
-            {
-              "rolle" : "Bob Andrews, Recherchen und Archiv",
-              "sprecher" : "Andreas Fröhlich"
-            },
-            {
-              "rolle" : "Tante Mathilda",
-              "sprecher" : "Karin Lieneweg"
-            },
-            {
-              "rolle" : "Onkel Titus",
-              "sprecher" : "Andreas E. Beurmann",
-              "pseudonym" : "Hans Meinhardt"
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/3/ffmetadata.txt"
-          }
-        },
-        {
-          "teilNummer" : 4,
-          "titel" : "Die rote Sieben",
-          "autor" : "Marco Sonnleitner",
-          "beschreibung" : "\"Ihre Einsätze bitte!\" Während der Croupier im Casino des Luxusdampfers die Kugel in der Roulette-Schüssel kreisen lässt, wird in Kabine 347 ein Passagier niedergeschlagen und ausgeraubt! Ein Fall für die drei Detektive, die auf dem Schiff gerade als Aushilfskellner arbeiten …",
-          "kapitel" : [
-            {
-              "titel" : "Rien ne va plus",
-              "start" : 0,
-              "end" : 295293
-            },
-            {
-              "titel" : "Blutspuren",
-              "start" : 295293,
-              "end" : 729440
-            },
-            {
-              "titel" : "Abgekartetes Spiel",
-              "start" : 729440,
-              "end" : 1174080
-            }
-          ],
-          "sprechrollen" : [
-            {
-              "rolle" : "Erzähler",
-              "sprecher" : "Thomas Fritsch"
-            },
-            {
-              "rolle" : "Justus Jonas, Erster Detektiv",
-              "sprecher" : "Oliver Rohrbeck"
-            },
-            {
-              "rolle" : "Peter Shaw, Zweiter Detektiv",
-              "sprecher" : "Jens Wawrczeck"
-            },
-            {
-              "rolle" : "Bob Andrews, Recherchen und Archiv",
-              "sprecher" : "Andreas Fröhlich"
-            },
-            {
-              "rolle" : "Croupier",
-              "sprecher" : "Gosta Liptow"
-            },
-            {
-              "rolle" : "Carl Hopkins, Physiker",
-              "sprecher" : "Ben Hecker"
-            },
-            {
-              "rolle" : "Miller, Schiffsdetektiv",
-              "sprecher" : "Michael Grimm"
-            },
-            {
-              "rolle" : "Kapitän Sherwood",
-              "sprecher" : "Horst Naumann"
-            },
-            {
-              "rolle" : "Theodore Quaid",
-              "sprecher" : "Dietrich Adam"
-            },
-            {
-              "rolle" : "Jamie Peterson, Barmann",
-              "sprecher" : "Patrick Bach"
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/4/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/4/ffmetadata.txt"
-          }
-        }
-      ],
       "teilNummer" : 2,
+      "titel" : "Bis um sieben zurück",
+      "autor" : "Kari Erlhoff",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Bob Andrews rutscht auf dem glitschigen Boden des Schuppens aus und wird ohnmächtig. Als er kurze Zeit später erwacht, scheinen einige Dinge plötzlich recht merkwürdig zu sein … Doch nicht nur für ihn; denn auch seine Eltern scheinen ihn kaum wiederzuerkennen und machen sich die größten Sorgen um ihren Sohn. In ihrer Angst ziehen sie einen Arzt hinzu …",
+      "veröffentlichungsdatum" : "2014-02-21",
       "kapitel" : [
         {
-          "titel" : "Bobs schwerste Stunde – Alles weg!",
+          "titel" : "Kopfschmerzen",
           "start" : 0,
-          "end" : 433867
+          "end" : 694933
         },
         {
-          "titel" : "Bobs schwerste Stunde – Gruselstimme",
-          "start" : 433867,
-          "end" : 973600
+          "titel" : "Erwischt!",
+          "start" : 694933,
+          "end" : 1199813
         },
         {
-          "titel" : "Bobs schwerste Stunde – Aufwendiges Vorhaben",
-          "start" : 973600,
-          "end" : 1574187
+          "titel" : "Bobby",
+          "start" : 1199813,
+          "end" : 1477173
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
         },
         {
-          "titel" : "Die rote Sieben – Rien ne va plus",
-          "start" : 1574187,
-          "end" : 1869480
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
         },
         {
-          "titel" : "Die rote Sieben – Blutspuren",
-          "start" : 1869480,
-          "end" : 2303627
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
         },
         {
-          "titel" : "Die rote Sieben – Abgekartetes Spiel",
-          "start" : 2303627,
-          "end" : 2748267
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Mr. Andrews",
+          "sprecher" : "Henry König"
+        },
+        {
+          "rolle" : "Mrs. Andrews",
+          "sprecher" : "Konstanze Ullmer"
+        },
+        {
+          "rolle" : "Arzt",
+          "sprecher" : "Erik Schäffler"
+        },
+        {
+          "rolle" : "Mrs. Wallace",
+          "sprecher" : "Angela Stresemann"
+        },
+        {
+          "rolle" : "Bobby",
+          "sprecher" : "Merete Brettschneider"
         }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/rip_log.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/ffmetadata.txt"
       }
     },
     {
-      "teile" : [
-        {
-          "teilNummer" : 5,
-          "titel" : "Schutzgeld",
-          "autor" : "Ben Nevis",
-          "beschreibung" : "Wer ist die seltsame Dame, die so auffällig unauffällig durch die Einkaufsstraße schleicht, und sich dabei immer wieder ängstlich umsieht? Als sich die drei Detektive an ihre Fersen heften und die Verdächtige demaskieren, erleben sie eine große Überraschung. Doch jetzt fangen die Schwierigkeiten erst an …",
-          "kapitel" : [
-            {
-              "titel" : "Überraschung!",
-              "start" : 0,
-              "end" : 277693
-            },
-            {
-              "titel" : "Arges Misstrauen",
-              "start" : 277693,
-              "end" : 941400
-            },
-            {
-              "titel" : "Sieben harte Stunden",
-              "start" : 941400,
-              "end" : 1389800
-            }
-          ],
-          "sprechrollen" : [
-            {
-              "rolle" : "Erzähler",
-              "sprecher" : "Thomas Fritsch"
-            },
-            {
-              "rolle" : "Justus Jonas, Erster Detektiv",
-              "sprecher" : "Oliver Rohrbeck"
-            },
-            {
-              "rolle" : "Peter Shaw, Zweiter Detektiv",
-              "sprecher" : "Jens Wawrczeck"
-            },
-            {
-              "rolle" : "Bob Andrews, Recherchen und Archiv",
-              "sprecher" : "Andreas Fröhlich"
-            },
-            {
-              "rolle" : "Onkel Titus",
-              "sprecher" : "Andreas E. Beurmann",
-              "pseudonym" : "Hans Meinhardt"
-            },
-            {
-              "rolle" : "Tante Mathilda",
-              "sprecher" : "Karin Lieneweg"
-            },
-            {
-              "rolle" : "Handerson",
-              "sprecher" : "Wolfgang Rositzka"
-            },
-            {
-              "rolle" : "Diego",
-              "sprecher" : "Stephan Benson"
-            },
-            {
-              "rolle" : "Mercedes",
-              "sprecher" : "Hella von der Osten-Sacken",
-              "pseudonym" : "Wanda Osten"
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/5/ffmetadata.txt"
-          }
-        },
-        {
-          "teilNummer" : 6,
-          "titel" : "Die siebte Frau des Leuchters",
-          "autor" : "Christoph Dittert",
-          "beschreibung" : "\"Mein Name ist Nayeli. Und ich bin ein Dieb!\" Der junge Mann, der bei den drei Detektiven auf dem Schrottplatz auftaucht, zieht einen antiken Kerzenhalter aus seinem Rucksack und erzählt dazu eine seltsame Geschichte. Doch wer ist der Fremde, der urplötzlich auftaucht und Nayeli dann in die Flucht schlägt? Unversehens geraten Justus, Bob und Peter in große Gefahr …",
-          "kapitel" : [
-            {
-              "titel" : "Böse Macht im Grab",
-              "start" : 0,
-              "end" : 285107
-            },
-            {
-              "titel" : "Auf dem Geisterschiff",
-              "start" : 285107,
-              "end" : 629667
-            },
-            {
-              "titel" : "Freier Wille",
-              "start" : 629667,
-              "end" : 1409027
-            }
-          ],
-          "sprechrollen" : [
-            {
-              "rolle" : "Erzähler",
-              "sprecher" : "Thomas Fritsch"
-            },
-            {
-              "rolle" : "Justus Jonas, Erster Detektiv",
-              "sprecher" : "Oliver Rohrbeck"
-            },
-            {
-              "rolle" : "Peter Shaw, Zweiter Detektiv",
-              "sprecher" : "Jens Wawrczeck"
-            },
-            {
-              "rolle" : "Bob Andrews, Recherchen und Archiv",
-              "sprecher" : "Andreas Fröhlich"
-            },
-            {
-              "rolle" : "Nayeli",
-              "sprecher" : "Stefan Brönneke"
-            },
-            {
-              "rolle" : "Barker",
-              "sprecher" : "Ben Hecker"
-            },
-            {
-              "rolle" : "Onkel Titus",
-              "sprecher" : "Andreas E. Beurmann",
-              "pseudonym" : "Hans Meinhardt"
-            },
-            {
-              "rolle" : "Off-Sprecherin",
-              "sprecher" : "Claudia Stocksieker"
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/6/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/6/ffmetadata.txt"
-          }
-        },
-        {
-          "teilNummer" : 7,
-          "titel" : "Die verschwundene Torte",
-          "autor" : "André Marx",
-          "beschreibung" : "An Justus' Geburtstag muss der Erste Detektiv eine schwere Niederlage einstecken: Ausgerechnet seine Geburtstagstorte wurde über Nacht aus der Freiluftwerkstatt gestohlen! Doch wer kommt als Täter in Frage? Mit Hilfe einer Überwachungskamera sollte der Dieb doch zu identifizieren sein – oder etwa nicht?",
-          "kapitel" : [
-            {
-              "titel" : "In Angst und Schrecken",
-              "start" : 0,
-              "end" : 367840
-            },
-            {
-              "titel" : "Gescanntes Areal",
-              "start" : 367840,
-              "end" : 528413
-            },
-            {
-              "titel" : "Des Rätsels Lösung",
-              "start" : 528413,
-              "end" : 1099640
-            }
-          ],
-          "sprechrollen" : [
-            {
-              "rolle" : "Erzähler",
-              "sprecher" : "Thomas Fritsch"
-            },
-            {
-              "rolle" : "Justus Jonas, Erster Detektiv",
-              "sprecher" : "Oliver Rohrbeck"
-            },
-            {
-              "rolle" : "Peter Shaw, Zweiter Detektiv",
-              "sprecher" : "Jens Wawrczeck"
-            },
-            {
-              "rolle" : "Bob Andrews, Recherchen und Archiv",
-              "sprecher" : "Andreas Fröhlich"
-            },
-            {
-              "rolle" : "Tante Mathilda",
-              "sprecher" : "Karin Lieneweg"
-            },
-            {
-              "rolle" : "Onkel Titus",
-              "sprecher" : "Andreas E. Beurmann",
-              "pseudonym" : "Hans Meinhardt"
-            },
-            {
-              "rolle" : "Ian Carew",
-              "sprecher" : "Sascha Draeger"
-            }
-          ],
-          "links" : {
-            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/7/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/7/ffmetadata.txt"
-          }
-        }
-      ],
       "teilNummer" : 3,
+      "titel" : "Bobs schwerste Stunde",
+      "autor" : "Hendrik Buchna",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Bob weicht jede Farbe aus dem Gesicht. Wie vom Blitz getroffen steht er vor dem geöffneten Aktenschrank und lässt seinen Blick über die leeren Regale schweifen. Einbrecher haben das gesamte Fall-Archiv der drei Detektive gestohlen! Die Sammlung scheint für immer verloren zu sein. Doch dann entdeckt Justus einen Zettel mit einer merkwürdigen Botschaft …",
+      "veröffentlichungsdatum" : "2014-02-21",
       "kapitel" : [
         {
-          "titel" : "Schutzgeld – Überraschung!",
+          "titel" : "Alles weg!",
           "start" : 0,
-          "end" : 277693
+          "end" : 433867
         },
         {
-          "titel" : "Schutzgeld – Arges Misstrauen",
-          "start" : 277693,
-          "end" : 941400
+          "titel" : "Gruselstimme",
+          "start" : 433867,
+          "end" : 973600
         },
         {
-          "titel" : "Schutzgeld – Sieben harte Stunden",
-          "start" : 941400,
-          "end" : 1389800
+          "titel" : "Aufwendiges Vorhaben",
+          "start" : 973600,
+          "end" : 1574187
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
         },
         {
-          "titel" : "Die siebte Frau des Leuchters – Böse Macht im Grab",
-          "start" : 1389800,
-          "end" : 1674907
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
         },
         {
-          "titel" : "Die siebte Frau des Leuchters – Auf dem Geisterschiff",
-          "start" : 1674907,
-          "end" : 2019467
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
         },
         {
-          "titel" : "Die siebte Frau des Leuchters – Freier Wille",
-          "start" : 2019467,
-          "end" : 2798827
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
         },
         {
-          "titel" : "Die verschwundene Torte – In Angst und Schrecken",
-          "start" : 2798827,
-          "end" : 3166667
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
         },
         {
-          "titel" : "Die verschwundene Torte – Gescanntes Areal",
-          "start" : 3166667,
-          "end" : 3327240
-        },
-        {
-          "titel" : "Die verschwundene Torte – Des Rätsels Lösung",
-          "start" : 3327240,
-          "end" : 3898467
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
         }
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/metadata.json",
-        "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/rip_log.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 4,
+      "titel" : "Die rote Sieben",
+      "autor" : "Marco Sonnleitner",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "\"Ihre Einsätze bitte!\" Während der Croupier im Casino des Luxusdampfers die Kugel in der Roulette-Schüssel kreisen lässt, wird in Kabine 347 ein Passagier niedergeschlagen und ausgeraubt! Ein Fall für die drei Detektive, die auf dem Schiff gerade als Aushilfskellner arbeiten …",
+      "veröffentlichungsdatum" : "2014-02-21",
+      "kapitel" : [
+        {
+          "titel" : "Rien ne va plus",
+          "start" : 0,
+          "end" : 295293
+        },
+        {
+          "titel" : "Blutspuren",
+          "start" : 295293,
+          "end" : 729440
+        },
+        {
+          "titel" : "Abgekartetes Spiel",
+          "start" : 729440,
+          "end" : 1174080
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Croupier",
+          "sprecher" : "Gosta Liptow"
+        },
+        {
+          "rolle" : "Carl Hopkins, Physiker",
+          "sprecher" : "Ben Hecker"
+        },
+        {
+          "rolle" : "Miller, Schiffsdetektiv",
+          "sprecher" : "Michael Grimm"
+        },
+        {
+          "rolle" : "Kapitän Sherwood",
+          "sprecher" : "Horst Naumann"
+        },
+        {
+          "rolle" : "Theodore Quaid",
+          "sprecher" : "Dietrich Adam"
+        },
+        {
+          "rolle" : "Jamie Peterson, Barmann",
+          "sprecher" : "Patrick Bach"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/4/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/4/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 5,
+      "titel" : "Schutzgeld",
+      "autor" : "Ben Nevis",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Wer ist die seltsame Dame, die so auffällig unauffällig durch die Einkaufsstraße schleicht, und sich dabei immer wieder ängstlich umsieht? Als sich die drei Detektive an ihre Fersen heften und die Verdächtige demaskieren, erleben sie eine große Überraschung. Doch jetzt fangen die Schwierigkeiten erst an …",
+      "veröffentlichungsdatum" : "2014-02-21",
+      "kapitel" : [
+        {
+          "titel" : "Überraschung!",
+          "start" : 0,
+          "end" : 277693
+        },
+        {
+          "titel" : "Arges Misstrauen",
+          "start" : 277693,
+          "end" : 941400
+        },
+        {
+          "titel" : "Sieben harte Stunden",
+          "start" : 941400,
+          "end" : 1389800
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Handerson",
+          "sprecher" : "Wolfgang Rositzka"
+        },
+        {
+          "rolle" : "Diego",
+          "sprecher" : "Stephan Benson"
+        },
+        {
+          "rolle" : "Mercedes",
+          "sprecher" : "Hella von der Osten-Sacken",
+          "pseudonym" : "Wanda Osten"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/5/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/5/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 6,
+      "titel" : "Die siebte Frau des Leuchters",
+      "autor" : "Christoph Dittert",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "\"Mein Name ist Nayeli. Und ich bin ein Dieb!\" Der junge Mann, der bei den drei Detektiven auf dem Schrottplatz auftaucht, zieht einen antiken Kerzenhalter aus seinem Rucksack und erzählt dazu eine seltsame Geschichte. Doch wer ist der Fremde, der urplötzlich auftaucht und Nayeli dann in die Flucht schlägt? Unversehens geraten Justus, Bob und Peter in große Gefahr …",
+      "veröffentlichungsdatum" : "2014-02-21",
+      "kapitel" : [
+        {
+          "titel" : "Böse Macht im Grab",
+          "start" : 0,
+          "end" : 285107
+        },
+        {
+          "titel" : "Auf dem Geisterschiff",
+          "start" : 285107,
+          "end" : 629667
+        },
+        {
+          "titel" : "Freier Wille",
+          "start" : 629667,
+          "end" : 1409027
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Nayeli",
+          "sprecher" : "Stefan Brönneke"
+        },
+        {
+          "rolle" : "Barker",
+          "sprecher" : "Ben Hecker"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Off-Sprecherin",
+          "sprecher" : "Claudia Stocksieker"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/6/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/6/ffmetadata.txt"
+      }
+    },
+    {
+      "teilNummer" : 7,
+      "titel" : "Die verschwundene Torte",
+      "autor" : "André Marx",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "An Justus' Geburtstag muss der Erste Detektiv eine schwere Niederlage einstecken: Ausgerechnet seine Geburtstagstorte wurde über Nacht aus der Freiluftwerkstatt gestohlen! Doch wer kommt als Täter in Frage? Mit Hilfe einer Überwachungskamera sollte der Dieb doch zu identifizieren sein – oder etwa nicht?",
+      "veröffentlichungsdatum" : "2014-02-21",
+      "kapitel" : [
+        {
+          "titel" : "In Angst und Schrecken",
+          "start" : 0,
+          "end" : 367840
+        },
+        {
+          "titel" : "Gescanntes Areal",
+          "start" : 367840,
+          "end" : 528413
+        },
+        {
+          "titel" : "Des Rätsels Lösung",
+          "start" : 528413,
+          "end" : 1099640
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Ian Carew",
+          "sprecher" : "Sascha Draeger"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/7/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/7/ffmetadata.txt"
       }
     }
   ],
@@ -719,6 +595,128 @@
     {
       "rolle" : "Ian Carew",
       "sprecher" : "Sascha Draeger"
+    }
+  ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der siebte Gast – Inszenierung neuer Geschichten",
+          "start" : 0,
+          "end" : 439267
+        },
+        {
+          "titel" : "Der siebte Gast – Die Worte einer Lügenhexe",
+          "start" : 439267,
+          "end" : 774387
+        },
+        {
+          "titel" : "Der siebte Gast – Prinzessin in Champagnerlaune",
+          "start" : 774387,
+          "end" : 1596747
+        },
+        {
+          "titel" : "Bis um sieben zurück – Kopfschmerzen",
+          "start" : 1596747,
+          "end" : 2291680
+        },
+        {
+          "titel" : "Bis um sieben zurück – Erwischt!",
+          "start" : 2291680,
+          "end" : 2796560
+        },
+        {
+          "titel" : "Bis um sieben zurück – Bobby",
+          "start" : 2796560,
+          "end" : 3073920
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Bobs schwerste Stunde – Alles weg!",
+          "start" : 0,
+          "end" : 433867
+        },
+        {
+          "titel" : "Bobs schwerste Stunde – Gruselstimme",
+          "start" : 433867,
+          "end" : 973600
+        },
+        {
+          "titel" : "Bobs schwerste Stunde – Aufwendiges Vorhaben",
+          "start" : 973600,
+          "end" : 1574187
+        },
+        {
+          "titel" : "Die rote Sieben – Rien ne va plus",
+          "start" : 1574187,
+          "end" : 1869480
+        },
+        {
+          "titel" : "Die rote Sieben – Blutspuren",
+          "start" : 1869480,
+          "end" : 2303627
+        },
+        {
+          "titel" : "Die rote Sieben – Abgekartetes Spiel",
+          "start" : 2303627,
+          "end" : 2748267
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Schutzgeld – Überraschung!",
+          "start" : 0,
+          "end" : 277693
+        },
+        {
+          "titel" : "Schutzgeld – Arges Misstrauen",
+          "start" : 277693,
+          "end" : 941400
+        },
+        {
+          "titel" : "Schutzgeld – Sieben harte Stunden",
+          "start" : 941400,
+          "end" : 1389800
+        },
+        {
+          "titel" : "Die siebte Frau des Leuchters – Böse Macht im Grab",
+          "start" : 1389800,
+          "end" : 1674907
+        },
+        {
+          "titel" : "Die siebte Frau des Leuchters – Auf dem Geisterschiff",
+          "start" : 1674907,
+          "end" : 2019467
+        },
+        {
+          "titel" : "Die siebte Frau des Leuchters – Freier Wille",
+          "start" : 2019467,
+          "end" : 2798827
+        },
+        {
+          "titel" : "Die verschwundene Torte – In Angst und Schrecken",
+          "start" : 2798827,
+          "end" : 3166667
+        },
+        {
+          "titel" : "Die verschwundene Torte – Gescanntes Areal",
+          "start" : 3166667,
+          "end" : 3327240
+        },
+        {
+          "titel" : "Die verschwundene Torte – Des Rätsels Lösung",
+          "start" : 3327240,
+          "end" : 3898467
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log3.txt"
     }
   ],
   "links" : {

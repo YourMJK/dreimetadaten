@@ -142,10 +142,81 @@
       "sprecher" : "Jannik Endemann"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ouvertüre",
+          "start" : 0,
+          "end" : 240800
+        },
+        {
+          "titel" : "Vorhang auf!",
+          "start" : 240800,
+          "end" : 388653
+        },
+        {
+          "titel" : "Hinter den Kulissen!",
+          "start" : 388653,
+          "end" : 794653
+        },
+        {
+          "titel" : "Zwischenspiel",
+          "start" : 794653,
+          "end" : 917080
+        },
+        {
+          "titel" : "Wesen im Dunkeln",
+          "start" : 917080,
+          "end" : 1256253
+        },
+        {
+          "titel" : "Detektive in Not",
+          "start" : 1256253,
+          "end" : 1412173
+        },
+        {
+          "titel" : "Teepause",
+          "start" : 1412173,
+          "end" : 1623400
+        },
+        {
+          "titel" : "Mistkerle",
+          "start" : 1623400,
+          "end" : 1780333
+        },
+        {
+          "titel" : "Inferno im Tempel",
+          "start" : 1780333,
+          "end" : 2261987
+        },
+        {
+          "titel" : "Blitz und Donner",
+          "start" : 2261987,
+          "end" : 2378587
+        },
+        {
+          "titel" : "Kaffee & Schokolade",
+          "start" : 2378587,
+          "end" : 2613133
+        },
+        {
+          "titel" : "Am Abgrund",
+          "start" : 2613133,
+          "end" : 2973933
+        },
+        {
+          "titel" : "Indizien",
+          "start" : 2973933,
+          "end" : 3396520
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/158/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/158/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/158/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/158/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/158/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/d5/8b/37/d58b3740-5414-043e-7a89-15fc43fbc024/source",
     "cover_kosmos" : "http://web.archive.org/web/20220123153350if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/77/57/f3/0886979232822.jpg"

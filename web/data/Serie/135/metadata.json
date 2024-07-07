@@ -134,10 +134,101 @@
       "sprecher" : "Konstanze Ullmer"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Auf der Flucht",
+          "start" : 0,
+          "end" : 137213
+        },
+        {
+          "titel" : "Die rätselhaften Bilder",
+          "start" : 137213,
+          "end" : 558360
+        },
+        {
+          "titel" : "Der Schatz",
+          "start" : 558360,
+          "end" : 939400
+        },
+        {
+          "titel" : "Ort der Hinterlassenschaft",
+          "start" : 939400,
+          "end" : 1036853
+        },
+        {
+          "titel" : "Ein verlockendes Angebot",
+          "start" : 1036853,
+          "end" : 1223853
+        },
+        {
+          "titel" : "Entwischt",
+          "start" : 1223853,
+          "end" : 1413587
+        },
+        {
+          "titel" : "Enträtselt",
+          "start" : 1413587,
+          "end" : 1621613
+        },
+        {
+          "titel" : "Auf festem Boden",
+          "start" : 1621613,
+          "end" : 1816653
+        },
+        {
+          "titel" : "Das Wrack",
+          "start" : 1816653,
+          "end" : 1978587
+        },
+        {
+          "titel" : "Flackerndes Licht",
+          "start" : 1978587,
+          "end" : 2109520
+        },
+        {
+          "titel" : "Die drei Feuerlöscher",
+          "start" : 2109520,
+          "end" : 2635040
+        },
+        {
+          "titel" : "Am Ziel",
+          "start" : 2635040,
+          "end" : 2759453
+        },
+        {
+          "titel" : "Rettung!?",
+          "start" : 2759453,
+          "end" : 3063787
+        },
+        {
+          "titel" : "Schock in der Tiefe",
+          "start" : 3063787,
+          "end" : 3360347
+        },
+        {
+          "titel" : "Die Nerven liegen blank",
+          "start" : 3360347,
+          "end" : 3532707
+        },
+        {
+          "titel" : "Hände hoch!",
+          "start" : 3532707,
+          "end" : 4128267
+        },
+        {
+          "titel" : "Gratulation",
+          "start" : 4128267,
+          "end" : 4271013
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/135/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/135/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/135/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/135/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/135/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/c0/b5/9f/c0b59f61-926b-7f75-7017-f3686347df18/source",
     "cover_kosmos" : "http://web.archive.org/web/20211231145708if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/78/1a/a7/0886974413523.jpg"

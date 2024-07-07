@@ -1,6 +1,9 @@
 {
   "teilNummer" : 1,
   "titel" : "Zimmer",
+  "autor" : "Ivar Leon Menger",
+  "hörspielskriptautor" : "Ivar Leon Menger",
+  "veröffentlichungsdatum" : "2006-11-24",
   "kapitel" : [
     {
       "titel" : "Intro",
@@ -131,7 +134,6 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/cover.png"
   }
 }

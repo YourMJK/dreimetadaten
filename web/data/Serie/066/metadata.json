@@ -97,10 +97,56 @@
       "sprecher" : "Luigi Pane"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Räuber in Rom",
+          "start" : 0,
+          "end" : 858480
+        },
+        {
+          "titel" : "Abgestürzt",
+          "start" : 858480,
+          "end" : 1204493
+        },
+        {
+          "titel" : "Ein Fotograph gibt sich verschwiegen",
+          "start" : 1204493,
+          "end" : 1593573
+        },
+        {
+          "titel" : "Fahndung nach Justus",
+          "start" : 1593573,
+          "end" : 2086493
+        },
+        {
+          "titel" : "Unerwartete Begegnung",
+          "start" : 2086493,
+          "end" : 2245947
+        },
+        {
+          "titel" : "Entführt",
+          "start" : 2245947,
+          "end" : 2705040
+        },
+        {
+          "titel" : "Die Beichte der Spinne",
+          "start" : 2705040,
+          "end" : 2995160
+        },
+        {
+          "titel" : "Der Mann im Schatten",
+          "start" : 2995160,
+          "end" : 3555013
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/066/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/066/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/066/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/066/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/066/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/3b/8d/c9/3b8dc904-52da-f3cd-d361-933b4dce7753/source",
     "cover_kosmos" : "http://web.archive.org/web/20220115135355if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/0e/01/10/0743213131627.jpg"

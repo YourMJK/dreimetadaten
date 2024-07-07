@@ -89,6 +89,52 @@
       "sprecher" : "Utz Richter"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Banditen, Briganten und Seeräuber!",
+          "start" : 0,
+          "end" : 409747
+        },
+        {
+          "titel" : "Betrug!",
+          "start" : 409747,
+          "end" : 681173
+        },
+        {
+          "titel" : "Piratenüberfall!",
+          "start" : 681173,
+          "end" : 1038387
+        },
+        {
+          "titel" : "Nächtliche Pirsch",
+          "start" : 1038387,
+          "end" : 1303107
+        },
+        {
+          "titel" : "Prallvolle Säcke",
+          "start" : 1303107,
+          "end" : 1623267
+        },
+        {
+          "titel" : "Der Rote Pirat schlägt wieder zu",
+          "start" : 1623267,
+          "end" : 2029507
+        },
+        {
+          "titel" : "Gefangen",
+          "start" : 2029507,
+          "end" : 2370267
+        },
+        {
+          "titel" : "Nun wendet sich das Blatt",
+          "start" : 2370267,
+          "end" : 2640213
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/034/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/034/ffmetadata.txt",

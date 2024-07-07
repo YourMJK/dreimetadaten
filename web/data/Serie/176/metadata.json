@@ -121,10 +121,76 @@
       "sprecher" : "Die Gäste der Record-Release-Party am 22.02.2015 in Dortmund. (Wir danken euch für's Mitmachen!)"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein dämlicher Löwe",
+          "start" : 0,
+          "end" : 221627
+        },
+        {
+          "titel" : "Bluthunde",
+          "start" : 221627,
+          "end" : 395427
+        },
+        {
+          "titel" : "Lieblingsbär",
+          "start" : 395427,
+          "end" : 697280
+        },
+        {
+          "titel" : "Dünne Faktenlage",
+          "start" : 697280,
+          "end" : 832547
+        },
+        {
+          "titel" : "Adlernase",
+          "start" : 832547,
+          "end" : 1126760
+        },
+        {
+          "titel" : "Geflügelte Affen",
+          "start" : 1126760,
+          "end" : 1610533
+        },
+        {
+          "titel" : "Grinsekatze",
+          "start" : 1610533,
+          "end" : 2300720
+        },
+        {
+          "titel" : "Zwinkernde Augen",
+          "start" : 2300720,
+          "end" : 2541453
+        },
+        {
+          "titel" : "Der böse Wolf",
+          "start" : 2541453,
+          "end" : 2851093
+        },
+        {
+          "titel" : "Bienenzimmer",
+          "start" : 2851093,
+          "end" : 3612187
+        },
+        {
+          "titel" : "Kein Papagei, sondern …?",
+          "start" : 3612187,
+          "end" : 3882627
+        },
+        {
+          "titel" : "Und was es sonst noch so im Zoo gibt",
+          "start" : 3882627,
+          "end" : 4064107
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/176/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/176/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/176/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/176/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/176/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music122/v4/3d/a3/6f/3da36fd6-b627-8563-9b74-27376e5994ff/source",
     "cover_kosmos" : "http://web.archive.org/web/20220111022948if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/0c/ec/90/0888430093423.jpg"

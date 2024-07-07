@@ -141,10 +141,91 @@
       "sprecher" : "Victoria Trauttmansdorff"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein alter Bekannter",
+          "start" : 0,
+          "end" : 519307
+        },
+        {
+          "titel" : "Diebesgut",
+          "start" : 519307,
+          "end" : 680947
+        },
+        {
+          "titel" : "Ein paar Jahre auf dem Buckel",
+          "start" : 680947,
+          "end" : 772400
+        },
+        {
+          "titel" : "Entwischt",
+          "start" : 772400,
+          "end" : 971653
+        },
+        {
+          "titel" : "Kindheitsträume",
+          "start" : 971653,
+          "end" : 1080227
+        },
+        {
+          "titel" : "Zeichen und Symbole",
+          "start" : 1080227,
+          "end" : 1191613
+        },
+        {
+          "titel" : "Neugierige Rechtsanwältin",
+          "start" : 1191613,
+          "end" : 1272347
+        },
+        {
+          "titel" : "Wichtige Information",
+          "start" : 1272347,
+          "end" : 1367227
+        },
+        {
+          "titel" : "Das Gemälde mit dem Schiff",
+          "start" : 1367227,
+          "end" : 1459933
+        },
+        {
+          "titel" : "Schlüssel zur Herkunft",
+          "start" : 1459933,
+          "end" : 1875693
+        },
+        {
+          "titel" : "Der Gründer von \"Rothman-Oil\"",
+          "start" : 1875693,
+          "end" : 2695667
+        },
+        {
+          "titel" : "Herzanfall",
+          "start" : 2695667,
+          "end" : 3050160
+        },
+        {
+          "titel" : "Entscheidende Phase",
+          "start" : 3050160,
+          "end" : 3342893
+        },
+        {
+          "titel" : "Einbruch",
+          "start" : 3342893,
+          "end" : 3427853
+        },
+        {
+          "titel" : "Die letzte Fahrt der \"Gwendolyn\"",
+          "start" : 3427853,
+          "end" : 4200627
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/115/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/115/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/115/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/115/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/115/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/ef/67/49/ef67493f-c2f5-1971-f9fe-0e8ed9b1c7b3/source",
     "cover_kosmos" : "http://web.archive.org/web/20220114180117if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/1b/61/c2/0743219911520.jpg"

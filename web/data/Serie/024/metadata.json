@@ -115,6 +115,52 @@
       "sprecher" : "Andreas von der Meden"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Um Haaresbreite",
+          "start" : 0,
+          "end" : 371640
+        },
+        {
+          "titel" : "Die silberne Spinne",
+          "start" : 371640,
+          "end" : 669107
+        },
+        {
+          "titel" : "Lauter Verdächtige",
+          "start" : 669107,
+          "end" : 869293
+        },
+        {
+          "titel" : "Finstere Pläne",
+          "start" : 869293,
+          "end" : 1264667
+        },
+        {
+          "titel" : "Ein unverhoffter Fund",
+          "start" : 1264667,
+          "end" : 1549573
+        },
+        {
+          "titel" : "Bobs Gedächtnislücke",
+          "start" : 1549573,
+          "end" : 2035467
+        },
+        {
+          "titel" : "In die Kanäle",
+          "start" : 2035467,
+          "end" : 2333520
+        },
+        {
+          "titel" : "Die Magnus-Glocke",
+          "start" : 2333520,
+          "end" : 2537893
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/024/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/024/ffmetadata.txt",

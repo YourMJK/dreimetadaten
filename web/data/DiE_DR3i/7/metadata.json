@@ -120,10 +120,66 @@
       "sprecher" : "Tim Wenderoth"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Nebel",
+          "start" : 0,
+          "end" : 387347
+        },
+        {
+          "titel" : "Ashoona",
+          "start" : 387347,
+          "end" : 777520
+        },
+        {
+          "titel" : "Geisterstunde",
+          "start" : 777520,
+          "end" : 1259467
+        },
+        {
+          "titel" : "Erdbeben",
+          "start" : 1259467,
+          "end" : 1668467
+        },
+        {
+          "titel" : "Treffen im Wald",
+          "start" : 1668467,
+          "end" : 2098133
+        },
+        {
+          "titel" : "Fehlende Seiten",
+          "start" : 2098133,
+          "end" : 2703173
+        },
+        {
+          "titel" : "Im Filmstudio",
+          "start" : 2703173,
+          "end" : 3014480
+        },
+        {
+          "titel" : "Der Plan",
+          "start" : 3014480,
+          "end" : 3301640
+        },
+        {
+          "titel" : "Explosion",
+          "start" : 3301640,
+          "end" : 3724440
+        },
+        {
+          "titel" : "Ashoonas Schatz",
+          "start" : 3724440,
+          "end" : 3920920
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/7/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/7/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/7/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/7/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/DiE_DR3i/7/cover.png"
   }
 }

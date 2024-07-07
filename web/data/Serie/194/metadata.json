@@ -121,10 +121,56 @@
       "sprecher" : "Christopher Hoseit"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Premierenfieber",
+          "start" : 0,
+          "end" : 437667
+        },
+        {
+          "titel" : "Verschwunden",
+          "start" : 437667,
+          "end" : 914440
+        },
+        {
+          "titel" : "In Luft aufgelöst",
+          "start" : 914440,
+          "end" : 1807547
+        },
+        {
+          "titel" : "Unsichtbare Materie",
+          "start" : 1807547,
+          "end" : 2367693
+        },
+        {
+          "titel" : "Notruf",
+          "start" : 2367693,
+          "end" : 3100480
+        },
+        {
+          "titel" : "Erpressung",
+          "start" : 3100480,
+          "end" : 3442853
+        },
+        {
+          "titel" : "Verstorben",
+          "start" : 3442853,
+          "end" : 3867333
+        },
+        {
+          "titel" : "Die Masken fallen",
+          "start" : 3867333,
+          "end" : 4616840
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/194/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/194/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/194/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/194/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/194/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music128/v4/84/52/57/845257b7-0d44-2247-b82d-47192b50133f/source"
   }

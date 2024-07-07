@@ -1,0 +1,71 @@
+{
+  "teilNummer" : 4,
+  "titel" : "Die rote Sieben",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "\"Ihre Einsätze bitte!\" Während der Croupier im Casino des Luxusdampfers die Kugel in der Roulette-Schüssel kreisen lässt, wird in Kabine 347 ein Passagier niedergeschlagen und ausgeraubt! Ein Fall für die drei Detektive, die auf dem Schiff gerade als Aushilfskellner arbeiten …",
+  "veröffentlichungsdatum" : "2014-02-21",
+  "kapitel" : [
+    {
+      "titel" : "Rien ne va plus",
+      "start" : 0,
+      "end" : 295293
+    },
+    {
+      "titel" : "Blutspuren",
+      "start" : 295293,
+      "end" : 729440
+    },
+    {
+      "titel" : "Abgekartetes Spiel",
+      "start" : 729440,
+      "end" : 1174080
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Croupier",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Carl Hopkins, Physiker",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Miller, Schiffsdetektiv",
+      "sprecher" : "Michael Grimm"
+    },
+    {
+      "rolle" : "Kapitän Sherwood",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Theodore Quaid",
+      "sprecher" : "Dietrich Adam"
+    },
+    {
+      "rolle" : "Jamie Peterson, Barmann",
+      "sprecher" : "Patrick Bach"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/4/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/4/ffmetadata.txt"
+  }
+}

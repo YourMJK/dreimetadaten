@@ -116,6 +116,52 @@
       "sprecher" : "Peter Kirchberger"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Aufregung im Museum",
+          "start" : 0,
+          "end" : 252413
+        },
+        {
+          "titel" : "Spuk am Fenster",
+          "start" : 252413,
+          "end" : 562747
+        },
+        {
+          "titel" : "Von Gnomen und Zwergen",
+          "start" : 562747,
+          "end" : 943533
+        },
+        {
+          "titel" : "Ein unerwarteter Besuch",
+          "start" : 943533,
+          "end" : 1308347
+        },
+        {
+          "titel" : "Ein finsterer Plan wird enthüllt",
+          "start" : 1308347,
+          "end" : 1615907
+        },
+        {
+          "titel" : "Bob sucht seine Freunde",
+          "start" : 1615907,
+          "end" : 1922760
+        },
+        {
+          "titel" : "Die Spur verliert sich",
+          "start" : 1922760,
+          "end" : 2286347
+        },
+        {
+          "titel" : "Überraschungsangriff",
+          "start" : 2286347,
+          "end" : 2635960
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/022/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/022/ffmetadata.txt",

@@ -118,10 +118,61 @@
       "sprecher" : "Tommaso Cacciapuoti"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Samuels Vermächtnis",
+          "start" : 0,
+          "end" : 883827
+        },
+        {
+          "titel" : "Im Grund des Feuers",
+          "start" : 883827,
+          "end" : 1123840
+        },
+        {
+          "titel" : "Vermummt",
+          "start" : 1123840,
+          "end" : 1493533
+        },
+        {
+          "titel" : "Wassergeist",
+          "start" : 1493533,
+          "end" : 1699147
+        },
+        {
+          "titel" : "Wo ist Bob?",
+          "start" : 1699147,
+          "end" : 1829547
+        },
+        {
+          "titel" : "Taylor & Co.",
+          "start" : 1829547,
+          "end" : 2257760
+        },
+        {
+          "titel" : "Rätselfieber",
+          "start" : 2257760,
+          "end" : 2767933
+        },
+        {
+          "titel" : "Ein alter Bekannter",
+          "start" : 2767933,
+          "end" : 3310373
+        },
+        {
+          "titel" : "Zwischentöne",
+          "start" : 3310373,
+          "end" : 3770533
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/147/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/147/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/147/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/147/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/147/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/e6/81/2a/e6812a57-2ae7-f2b1-efb4-cc5ef042ccfc/source",
     "cover_kosmos" : "http://web.archive.org/web/20211227022651if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/e5/6f/88/0886978014726.jpg"

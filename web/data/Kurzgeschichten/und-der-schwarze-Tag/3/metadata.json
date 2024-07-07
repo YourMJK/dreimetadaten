@@ -1,176 +1,71 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 5,
-      "titel" : "Die schwarze PhantOma",
-      "autor" : "Kari Erlhoff",
-      "beschreibung" : "Wer steckt hinter der unheimlichen Porschefahrerin, von der Justus beinahe überfahren wurde!? Auch Peter wird von ihr mit einem heftigen Fausthieb niedergestreckt! Wer ist die humpelnde Rentnerin, die als \"PhantOma\" in Rocky Beach ihr Unwesen treibt? An Verdächtigen mangelt es keineswegs …",
-      "kapitel" : [
-        {
-          "titel" : "Wasserdichte Alibis",
-          "start" : 0,
-          "end" : 828067
-        },
-        {
-          "titel" : "Kriminelle Abwege",
-          "start" : 828067,
-          "end" : 1373493
-        },
-        {
-          "titel" : "Tägliches Training",
-          "start" : 1373493,
-          "end" : 2256800
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Axel Milberg"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Tasha",
-          "sprecher" : "Victoria Zöller"
-        },
-        {
-          "rolle" : "Domino Laverna",
-          "sprecher" : "Sabine Hahn"
-        },
-        {
-          "rolle" : "Biff Rodgers, Reporter",
-          "sprecher" : "Daniel Schütter"
-        },
-        {
-          "rolle" : "Lesley Dimple",
-          "sprecher" : "Ann Montenbruck"
-        },
-        {
-          "rolle" : "Zeus Zenon Johnson",
-          "sprecher" : "Michael Prelle"
-        },
-        {
-          "rolle" : "Computer",
-          "sprecher" : "Peter Bayer"
-        },
-        {
-          "rolle" : "Off-Sprecher",
-          "sprecher" : "Frank Roder"
-        },
-        {
-          "rolle" : "Sprecher",
-          "sprecher" : "Andreas Birnbaum"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/5/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 6,
-      "titel" : "Das schwarze Nest",
-      "autor" : "Hendrik Buchna",
-      "beschreibung" : "Das Telefon klingelt nicht in der Zentrale der drei Detektive. Doch Justus hört es ganz deutlich. Leidet er unter Wahnvorstellungen?\nUnd auch Peter wird von argen Problemen geplagt: Er muss unbedingt das große Sackhüpfturnier gewinnen!\nBob wird endlich aus dem Krankenhaus entlassen und wundert sich über gar nichts mehr …",
-      "kapitel" : [
-        {
-          "titel" : "Grabesstille",
-          "start" : 0,
-          "end" : 547413
-        },
-        {
-          "titel" : "Demokratische Abstimmung",
-          "start" : 547413,
-          "end" : 1040413
-        },
-        {
-          "titel" : "Fall gelöst",
-          "start" : 1040413,
-          "end" : 1718507
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Axel Milberg"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Blacky",
-          "sprecher" : "Heikedine Körting",
-          "pseudonym" : "Pamela Punti"
-        },
-        {
-          "rolle" : "Kassiererin",
-          "sprecher" : "Angela Stresemann"
-        },
-        {
-          "rolle" : "Inspektor Cotta",
-          "sprecher" : "Holger Mahlich"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/6/ffmetadata.txt"
-      }
-    }
-  ],
   "teilNummer" : 3,
+  "titel" : "Ein schwarzer Tag für Mr. Kingstone",
+  "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Ausgerechnet Skinny Norris beauftragt die drei Detektive mit einem neuen Fall: Wer erpresst Mr. Kingstone, den blinden Betreiber des Dunkelrestaurants in Rocky Beach? In totaler Finsternis ermitteln Justus, Peter und Bob, um dem skrupellosen Verbrecher auf die Schliche zu kommen. Doch wird ihre Falle auch zuschnappen?",
+  "veröffentlichungsdatum" : "2018-10-28",
   "kapitel" : [
     {
-      "titel" : "Die schwarze PhantOma – Wasserdichte Alibis",
+      "titel" : "Unverschämter Kerl",
       "start" : 0,
-      "end" : 828067
+      "end" : 526840
     },
     {
-      "titel" : "Die schwarze PhantOma – Kriminelle Abwege",
-      "start" : 828067,
-      "end" : 1373493
+      "titel" : "Dunkelrestaurant",
+      "start" : 526840,
+      "end" : 1199413
     },
     {
-      "titel" : "Die schwarze PhantOma – Tägliches Training",
-      "start" : 1373493,
-      "end" : 2256800
+      "titel" : "Kontaktschranke",
+      "start" : 1199413,
+      "end" : 1889653
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
     },
     {
-      "titel" : "Das schwarze Nest – Grabesstille",
-      "start" : 2256800,
-      "end" : 2804213
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
     },
     {
-      "titel" : "Das schwarze Nest – Demokratische Abstimmung",
-      "start" : 2804213,
-      "end" : 3297213
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
     },
     {
-      "titel" : "Das schwarze Nest – Fall gelöst",
-      "start" : 3297213,
-      "end" : 3975307
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Michael Harck"
+    },
+    {
+      "rolle" : "Marc Kingstone",
+      "sprecher" : "Rainer Brandt"
+    },
+    {
+      "rolle" : "Aaron Kingstone",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Sarah",
+      "sprecher" : "Christiane Leuchtmann"
+    },
+    {
+      "rolle" : "Albert",
+      "sprecher" : "Franzisko Löwe"
     }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/metadata.json",
-    "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/ffmetadata.txt"
   }
 }

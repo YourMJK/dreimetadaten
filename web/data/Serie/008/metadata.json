@@ -111,6 +111,52 @@
       "sprecher" : "Peter Buchholz"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein Schrei in der Nacht",
+          "start" : 0,
+          "end" : 334267
+        },
+        {
+          "titel" : "Die Geheimniskammer",
+          "start" : 334267,
+          "end" : 807813
+        },
+        {
+          "titel" : "Der Geist kehrt wieder",
+          "start" : 807813,
+          "end" : 1253213
+        },
+        {
+          "titel" : "Ein Pferd geht durch",
+          "start" : 1253213,
+          "end" : 1600080
+        },
+        {
+          "titel" : "Wohin mit den Geisterperlen?",
+          "start" : 1600080,
+          "end" : 1860920
+        },
+        {
+          "titel" : "Das Geheimnis der Geisterperlen",
+          "start" : 1860920,
+          "end" : 2460773
+        },
+        {
+          "titel" : "Justus findet eine Spur",
+          "start" : 2460773,
+          "end" : 2810333
+        },
+        {
+          "titel" : "Die rätselhafte 39",
+          "start" : 2810333,
+          "end" : 3203720
+        }
+      ]
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/008/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/008/ffmetadata.txt",

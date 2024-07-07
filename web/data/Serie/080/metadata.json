@@ -68,10 +68,46 @@
       "pseudonym" : "Igmar Frenzen"
     }
   ],
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Feuer am Himmel",
+          "start" : 0,
+          "end" : 542200
+        },
+        {
+          "titel" : "Das Orangental",
+          "start" : 542200,
+          "end" : 1202827
+        },
+        {
+          "titel" : "Cosma",
+          "start" : 1202827,
+          "end" : 1780293
+        },
+        {
+          "titel" : "Die Männer in Schwarz",
+          "start" : 1780293,
+          "end" : 2248373
+        },
+        {
+          "titel" : "Ein geheimnisvolles Päckchen",
+          "start" : 2248373,
+          "end" : 2948493
+        },
+        {
+          "titel" : "Die Maske fällt",
+          "start" : 2948493,
+          "end" : 3560667
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/080/rip_log.txt"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/080/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/080/ffmetadata.txt",
-    "xld_log" : "http://dreimetadaten.de/data/Serie/080/rip_log.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/080/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/4e/61/8d/4e618d22-8560-a589-0470-b558b1a152a0/source",
     "cover_kosmos" : "http://web.archive.org/web/20220104131538if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/09/85/d4/0743215476221.jpg"

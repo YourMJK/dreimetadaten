@@ -1,192 +1,41 @@
 {
-  "teile" : [
-    {
-      "teilNummer" : 5,
-      "titel" : "SOS",
-      "autor" : "Marco Sonnleitner",
-      "beschreibung" : "Als die drei ??? vom Strand kommen und auf dem Weg nach Hause sind, sehen sie ein SOS-Signal, das aus einem Haus gesendet wird. Eigentlich steht das Haus doch leer …",
-      "veröffentlichungsdatum" : "2011-12-10",
-      "kapitel" : [
-        {
-          "titel" : "SOS",
-          "start" : 0,
-          "end" : 661640
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Marty",
-          "sprecher" : "Philipp Draeger"
-        },
-        {
-          "rolle" : "Fred",
-          "sprecher" : "Guido Bernadotte"
-        },
-        {
-          "rolle" : "Mann 3",
-          "sprecher" : "Rasmus Rakete"
-        },
-        {
-          "rolle" : "Mann 4",
-          "sprecher" : "Patrick Perales"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/5/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/5/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 6,
-      "titel" : "Der graue Dämon",
-      "autor" : "Hendrik Buchna",
-      "beschreibung" : "Auf dem Weg nach Hause wird Peter plötzlich von einem unheimlichen, grauen Dämon verfolgt. Ihm bleibt nur noch ein Ausweg: die Flucht …",
-      "veröffentlichungsdatum" : "2011-12-12",
-      "kapitel" : [
-        {
-          "titel" : "Der graue Dämon",
-          "start" : 0,
-          "end" : 556307
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/6/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/6/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 7,
-      "titel" : "Das Lehrstück",
-      "autor" : "Kari Erlhoff",
-      "beschreibung" : "Peters ehemalige Klavierlehrerin, Mrs. Floyd, engagiert die drei ???, um herauszufinden, wo ihre verstorbene Mutter ihr Erbe versteckt haben könnte …",
-      "veröffentlichungsdatum" : "2011-12-14",
-      "kapitel" : [
-        {
-          "titel" : "Das Lehrstück",
-          "start" : 0,
-          "end" : 749413
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Mrs. Floyd",
-          "sprecher" : "Gabriele Libbach"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/7/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/7/ffmetadata.txt"
-      }
-    },
-    {
-      "teilNummer" : 8,
-      "titel" : "Das Rätsel der schwarzen Nadel",
-      "autor" : "Hendrik Buchna",
-      "beschreibung" : "Die drei ??? erhalten den Auftrag, bei der Übergabe einer schwarzen Nadel dabei zu sein. Aber geht es dabei wirklich nur um das Schmuckstück?",
-      "veröffentlichungsdatum" : "2011-12-16",
-      "kapitel" : [
-        {
-          "titel" : "Das Rätsel der schwarzen Nadel",
-          "start" : 0,
-          "end" : 711680
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Tante Mathilda",
-          "sprecher" : "Karin Lieneweg"
-        },
-        {
-          "rolle" : "Vincent Grimes",
-          "sprecher" : "Konstantin Graudus"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/8/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/8/ffmetadata.txt"
-      }
-    }
-  ],
   "teilNummer" : 2,
-  "buchstabe" : "B",
+  "titel" : "Dunkle Vergangenheit",
+  "autor" : "Marco Sonnleitner",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Das neuste Hobby von Justus Jonas ist die Ahnenforschung.\nUnd dabei macht er eines Tages eine unglaubliche Entdeckung …",
+  "veröffentlichungsdatum" : "2011-12-04",
   "kapitel" : [
     {
-      "titel" : "SOS",
+      "titel" : "Dunkle Vergangenheit",
       "start" : 0,
-      "end" : 661640
+      "end" : 687480
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
     },
     {
-      "titel" : "Der graue Dämon",
-      "start" : 661640,
-      "end" : 1217947
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
     },
     {
-      "titel" : "Das Lehrstück",
-      "start" : 1217947,
-      "end" : 1967360
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
     },
     {
-      "titel" : "Das Rätsel der schwarzen Nadel",
-      "start" : 1967360,
-      "end" : 2679040
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Cowboy",
+      "sprecher" : "Achim Schülke"
     }
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/metadata.json",
-    "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/rip_log.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/ffmetadata.txt"
   }
 }
