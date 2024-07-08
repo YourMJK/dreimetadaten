@@ -74,11 +74,11 @@ struct WebDataExporter {
 			guard attributes.isRegularFile! else {
 				continue
 			}
-			existingFilePaths.append(outputDir.relativePath + "/" + url.relativePath)
+			existingFilePaths.insert(outputDir.relativePath + "/" + url.relativePath)
 		}
 		
-		let missingFiles = referencedFilePaths.subtracting(existingFilePaths)
-		let extraFiles = existingFilePaths.subtracting(referencedFilePaths)
+		let missingFiles = referencedFilePaths.subtracting(existingFilePaths).sorted()
+		let extraFiles = existingFilePaths.subtracting(referencedFilePaths).sorted()
 		missingFiles.forEach {
 			stderr("Missing file: \($0)")
 		}
