@@ -21,7 +21,6 @@ struct MetadataObjectModel: Codable {
 extension MetadataObjectModel {
 	
 	class Hörspiel: Codable {
-		var teile: [Teil]?
 		var titel: String?
 		var autor: String?
 		var hörspielskriptautor: String?
@@ -31,9 +30,10 @@ extension MetadataObjectModel {
 		var veröffentlichungsdatum: String?
 		var kapitel: [Kapitel]?
 		var sprechrollen: [Sprechrolle]?
-		var medien: [Medium]?
 		var links: Links?
 		var unvollständig: Bool?
+		var medien: [Medium]?
+		var teile: [Teil]?
 	}
 	
 	class Folge: Hörspiel {
@@ -100,11 +100,6 @@ extension MetadataObjectModel {
 		var pseudonym: String?
 	}
 	
-	struct Medium: Codable {
-		var tracks: [Kapitel]
-		var xld_log: String?
-	}
-	
 	struct Links: Codable {
 		var json: String?
 		var ffmetadata: String?
@@ -112,6 +107,11 @@ extension MetadataObjectModel {
 		var cover: String?
 		var cover_itunes: String?
 		var cover_kosmos: String?
+	}
+	
+	struct Medium: Codable {
+		var tracks: [Kapitel]
+		var xld_log: String?
 	}
 	
 }
@@ -144,7 +144,6 @@ extension MetadataObjectModel {
 			"die_dr3i",
 			
 			"nummer",
-			"teile",
 			
 			"teilNummer",
 			"buchstabe",
@@ -158,9 +157,10 @@ extension MetadataObjectModel {
 			"veröffentlichungsdatum",
 			"kapitel",
 			"sprechrollen",
-			"medien",
 			"links",
 			"unvollständig",
+			"medien",
+			"teile",
 			
 			"titel",
 			"start",
