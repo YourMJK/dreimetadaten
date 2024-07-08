@@ -130,6 +130,13 @@
       "sprecher" : "Rolf E. Schenker"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/136/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/136/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/136/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/85/dc/a1/85dca1a3-0eb3-af01-a5a8-261360b89a84/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220124230854if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/2b/10/25/0886974413622.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -201,12 +208,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/136/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/136/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/136/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/136/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/85/dc/a1/85dca1a3-0eb3-af01-a5a8-261360b89a84/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220124230854if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/2b/10/25/0886974413622.jpg"
-  }
+  ]
 }

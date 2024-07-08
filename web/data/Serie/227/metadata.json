@@ -92,6 +92,12 @@
       "sprecher" : "Stefan Zinkgraf"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/227/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/227/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/227/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music122/v4/aa/a3/a1/aaa3a16c-3d3c-a164-c8e7-feaa43a0c0ba/196871288071.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -128,11 +134,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/227/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/227/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/227/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/227/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music122/v4/aa/a3/a1/aaa3a16c-3d3c-a164-c8e7-feaa43a0c0ba/196871288071.jpg"
-  }
+  ]
 }

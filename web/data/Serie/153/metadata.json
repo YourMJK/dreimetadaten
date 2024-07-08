@@ -136,6 +136,13 @@
       "sprecher" : "Katinka Körting"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/153/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/153/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/153/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/47/de/60/47de6085-acdd-0cf4-2459-4aef848fdbc5/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220115045250if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/06/2e/16/0886979232327.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -197,12 +204,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/153/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/153/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/153/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/153/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/47/de/60/47de6085-acdd-0cf4-2459-4aef848fdbc5/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220115045250if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/06/2e/16/0886979232327.jpg"
-  }
+  ]
 }

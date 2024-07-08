@@ -1,5 +1,372 @@
 {
   "nummer" : 150,
+  "titel" : "Geisterbucht",
+  "autor" : "Astrid Vollenbruch",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die drei ??? übernehmen und lösen (hoffentlich!) ihren 150sten Fall! In drei atemberaubenden Folgen sind sie dem Rätsel der Geisterbucht auf der Spur! Welches Geheimnis verbirgt sich hinter dem Testament, dass der exzentrische Harry Shreber kurz vor seinem Tod verfasst hat? Führen die verschlüsselten Verse tatsächlich zu Rashuras Schatz (Teil A)? Den drei Detektiven wird nichts anderes übrig bleiben: Sie müssen in Flammendes Wasser (Teil B) hinab tauchen; denn nur in der Tiefe des Meeres kann geklärt werden, warum Der brennende Kristall (Teil C) so viel Unglück über eine große Anzahl Menschen bringen konnte …",
+  "veröffentlichungsdatum" : "2011-11-11",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Frank Mason",
+      "sprecher" : "Wolfgang Condrus"
+    },
+    {
+      "rolle" : "Miles Dempster",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Mr. Sapchevsky",
+      "sprecher" : "Andreas Schmidt-Schaller"
+    },
+    {
+      "rolle" : "Gerry",
+      "sprecher" : "Kostja Ullmann"
+    },
+    {
+      "rolle" : "Ismael",
+      "sprecher" : "Stephan Schad"
+    },
+    {
+      "rolle" : "Carla Fenton",
+      "sprecher" : "Natalie O'Hara"
+    },
+    {
+      "rolle" : "Mrs. Maruthers",
+      "sprecher" : "Ulrike Johannson"
+    },
+    {
+      "rolle" : "Inspektor Havilland",
+      "sprecher" : "Oliver Kalkofe"
+    },
+    {
+      "rolle" : "Taylor",
+      "sprecher" : "Bernhard Hoëcker"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Angelica",
+      "sprecher" : "Anna Thalbach"
+    },
+    {
+      "rolle" : "Schwester 1",
+      "sprecher" : "Manuela Becker"
+    },
+    {
+      "rolle" : "Schwester 2",
+      "sprecher" : "Traudel Sperber"
+    },
+    {
+      "rolle" : "Pfleger",
+      "sprecher" : "Sven Dahlem"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Mr. Smith",
+      "sprecher" : "Tim Grobe"
+    },
+    {
+      "rolle" : "Curtis Fisher",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Amrita Chakyar",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Sergeant Madhu",
+      "sprecher" : "Olli Dittrich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Mrs. Andrews",
+      "sprecher" : "Konstanze Ullmer"
+    },
+    {
+      "rolle" : "Mr. Raffer",
+      "sprecher" : "Harald Dietl"
+    },
+    {
+      "rolle" : "Feuerwehrmann",
+      "sprecher" : "Kai Henrik Möller"
+    },
+    {
+      "rolle" : "Kapitän",
+      "sprecher" : "Sky du Mont"
+    },
+    {
+      "rolle" : "John Fisher",
+      "sprecher" : "Dirk Bach"
+    },
+    {
+      "rolle" : "Mr. Castro",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Sanitäter",
+      "sprecher" : "Robert Kotulla"
+    },
+    {
+      "rolle" : "Anudhara",
+      "sprecher" : "Rosakutty Hemsing"
+    },
+    {
+      "rolle" : "Ruth",
+      "sprecher" : "Gabriele Libbach"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/150/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Serie/150/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/a1/dd/63/a1dd63c2-6ffa-437f-99f9-d0741d46ae98/source",
+    "cover_kosmos" : "http://web.archive.org/web/20211231145707if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f1/05/71/0886978015020.jpg"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine rätselhafte Erbschaft",
+          "start" : 0,
+          "end" : 524213
+        },
+        {
+          "titel" : "Persönliche Einschätzung",
+          "start" : 524213,
+          "end" : 771373
+        },
+        {
+          "titel" : "Das Haus des Sammlers",
+          "start" : 771373,
+          "end" : 1255853
+        },
+        {
+          "titel" : "Cochin Big Blind",
+          "start" : 1255853,
+          "end" : 1725040
+        },
+        {
+          "titel" : "Überfall",
+          "start" : 1725040,
+          "end" : 1844480
+        },
+        {
+          "titel" : "Verschlossen",
+          "start" : 1844480,
+          "end" : 1963693
+        },
+        {
+          "titel" : "Auf Draht",
+          "start" : 1963693,
+          "end" : 2098240
+        },
+        {
+          "titel" : "Der Flugzeugfan",
+          "start" : 2098240,
+          "end" : 2380493
+        },
+        {
+          "titel" : "Konkurrenz schläft nicht",
+          "start" : 2380493,
+          "end" : 2464707
+        },
+        {
+          "titel" : "Atemlos",
+          "start" : 2464707,
+          "end" : 2725533
+        },
+        {
+          "titel" : "Gerry",
+          "start" : 2725533,
+          "end" : 3283107
+        },
+        {
+          "titel" : "Verkauft",
+          "start" : 3283107,
+          "end" : 3494347
+        },
+        {
+          "titel" : "Der Uhrensammler",
+          "start" : 3494347,
+          "end" : 3782093
+        },
+        {
+          "titel" : "Ein Detektiv verschwindet",
+          "start" : 3782093,
+          "end" : 4055093
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/150/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Fragezeichen",
+          "start" : 0,
+          "end" : 140907
+        },
+        {
+          "titel" : "In Rashuras Hölle",
+          "start" : 140907,
+          "end" : 518107
+        },
+        {
+          "titel" : "Rettung",
+          "start" : 518107,
+          "end" : 716720
+        },
+        {
+          "titel" : "Wo ist Bob?",
+          "start" : 716720,
+          "end" : 975200
+        },
+        {
+          "titel" : "Heimlicher Fan",
+          "start" : 975200,
+          "end" : 1200120
+        },
+        {
+          "titel" : "Ein Hauch von Gift",
+          "start" : 1200120,
+          "end" : 1542440
+        },
+        {
+          "titel" : "Der Stern von Kerala",
+          "start" : 1542440,
+          "end" : 1910600
+        },
+        {
+          "titel" : "Eine wichtige Spur",
+          "start" : 1910600,
+          "end" : 2003600
+        },
+        {
+          "titel" : "Ein verdächtiger Polizist",
+          "start" : 2003600,
+          "end" : 2269573
+        },
+        {
+          "titel" : "Strandcafé Rocky Beach",
+          "start" : 2269573,
+          "end" : 2545627
+        },
+        {
+          "titel" : "Leviathan",
+          "start" : 2545627,
+          "end" : 2975827
+        },
+        {
+          "titel" : "Selbstmord",
+          "start" : 2975827,
+          "end" : 3128573
+        },
+        {
+          "titel" : "Hände hoch!",
+          "start" : 3128573,
+          "end" : 3275920
+        },
+        {
+          "titel" : "Ausbruch",
+          "start" : 3275920,
+          "end" : 3736453
+        },
+        {
+          "titel" : "Poker-Einsatz",
+          "start" : 3736453,
+          "end" : 3911413
+        },
+        {
+          "titel" : "Untergang",
+          "start" : 3911413,
+          "end" : 4100240
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/150/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Blödmänner",
+          "start" : 0,
+          "end" : 281320
+        },
+        {
+          "titel" : "Streit um eine Frau",
+          "start" : 281320,
+          "end" : 499720
+        },
+        {
+          "titel" : "Anudharas Fluch",
+          "start" : 499720,
+          "end" : 789240
+        },
+        {
+          "titel" : "Rachel's Delight",
+          "start" : 789240,
+          "end" : 1283040
+        },
+        {
+          "titel" : "Tauchgang in der Geisterbucht",
+          "start" : 1283040,
+          "end" : 1909547
+        },
+        {
+          "titel" : "Kennziffer",
+          "start" : 1909547,
+          "end" : 2095147
+        },
+        {
+          "titel" : "Familienangelegenheiten",
+          "start" : 2095147,
+          "end" : 2256840
+        },
+        {
+          "titel" : "Indisch",
+          "start" : 2256840,
+          "end" : 2769733
+        },
+        {
+          "titel" : "Eine Falle",
+          "start" : 2769733,
+          "end" : 2920173
+        },
+        {
+          "titel" : "Keine Tricks",
+          "start" : 2920173,
+          "end" : 3145560
+        },
+        {
+          "titel" : "Die letzte Tür",
+          "start" : 3145560,
+          "end" : 3763400
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/150/rip_log3.txt"
+    }
+  ],
   "teile" : [
     {
       "teilNummer" : 1,
@@ -481,372 +848,5 @@
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/3/ffmetadata.txt"
       }
     }
-  ],
-  "titel" : "Geisterbucht",
-  "autor" : "Astrid Vollenbruch",
-  "hörspielskriptautor" : "André Minninger",
-  "beschreibung" : "Die drei ??? übernehmen und lösen (hoffentlich!) ihren 150sten Fall! In drei atemberaubenden Folgen sind sie dem Rätsel der Geisterbucht auf der Spur! Welches Geheimnis verbirgt sich hinter dem Testament, dass der exzentrische Harry Shreber kurz vor seinem Tod verfasst hat? Führen die verschlüsselten Verse tatsächlich zu Rashuras Schatz (Teil A)? Den drei Detektiven wird nichts anderes übrig bleiben: Sie müssen in Flammendes Wasser (Teil B) hinab tauchen; denn nur in der Tiefe des Meeres kann geklärt werden, warum Der brennende Kristall (Teil C) so viel Unglück über eine große Anzahl Menschen bringen konnte …",
-  "veröffentlichungsdatum" : "2011-11-11",
-  "sprechrollen" : [
-    {
-      "rolle" : "Erzähler",
-      "sprecher" : "Thomas Fritsch"
-    },
-    {
-      "rolle" : "Justus Jonas, Erster Detektiv",
-      "sprecher" : "Oliver Rohrbeck"
-    },
-    {
-      "rolle" : "Peter Shaw, Zweiter Detektiv",
-      "sprecher" : "Jens Wawrczeck"
-    },
-    {
-      "rolle" : "Bob Andrews, Recherchen und Archiv",
-      "sprecher" : "Andreas Fröhlich"
-    },
-    {
-      "rolle" : "Frank Mason",
-      "sprecher" : "Wolfgang Condrus"
-    },
-    {
-      "rolle" : "Miles Dempster",
-      "sprecher" : "Stephan Benson"
-    },
-    {
-      "rolle" : "Mr. Sapchevsky",
-      "sprecher" : "Andreas Schmidt-Schaller"
-    },
-    {
-      "rolle" : "Gerry",
-      "sprecher" : "Kostja Ullmann"
-    },
-    {
-      "rolle" : "Ismael",
-      "sprecher" : "Stephan Schad"
-    },
-    {
-      "rolle" : "Carla Fenton",
-      "sprecher" : "Natalie O'Hara"
-    },
-    {
-      "rolle" : "Mrs. Maruthers",
-      "sprecher" : "Ulrike Johannson"
-    },
-    {
-      "rolle" : "Inspektor Havilland",
-      "sprecher" : "Oliver Kalkofe"
-    },
-    {
-      "rolle" : "Taylor",
-      "sprecher" : "Bernhard Hoëcker"
-    },
-    {
-      "rolle" : "Inspektor Cotta",
-      "sprecher" : "Holger Mahlich"
-    },
-    {
-      "rolle" : "Angelica",
-      "sprecher" : "Anna Thalbach"
-    },
-    {
-      "rolle" : "Schwester 1",
-      "sprecher" : "Manuela Becker"
-    },
-    {
-      "rolle" : "Schwester 2",
-      "sprecher" : "Traudel Sperber"
-    },
-    {
-      "rolle" : "Pfleger",
-      "sprecher" : "Sven Dahlem"
-    },
-    {
-      "rolle" : "Morton",
-      "sprecher" : "Andreas von der Meden"
-    },
-    {
-      "rolle" : "Mr. Smith",
-      "sprecher" : "Tim Grobe"
-    },
-    {
-      "rolle" : "Curtis Fisher",
-      "sprecher" : "Tobias Schmidt"
-    },
-    {
-      "rolle" : "Amrita Chakyar",
-      "sprecher" : "Angela Stresemann"
-    },
-    {
-      "rolle" : "Sergeant Madhu",
-      "sprecher" : "Olli Dittrich"
-    },
-    {
-      "rolle" : "Mr. Andrews",
-      "sprecher" : "Henry König"
-    },
-    {
-      "rolle" : "Mrs. Andrews",
-      "sprecher" : "Konstanze Ullmer"
-    },
-    {
-      "rolle" : "Mr. Raffer",
-      "sprecher" : "Harald Dietl"
-    },
-    {
-      "rolle" : "Feuerwehrmann",
-      "sprecher" : "Kai Henrik Möller"
-    },
-    {
-      "rolle" : "Kapitän",
-      "sprecher" : "Sky du Mont"
-    },
-    {
-      "rolle" : "John Fisher",
-      "sprecher" : "Dirk Bach"
-    },
-    {
-      "rolle" : "Mr. Castro",
-      "sprecher" : "Jörg Gillner"
-    },
-    {
-      "rolle" : "Sanitäter",
-      "sprecher" : "Robert Kotulla"
-    },
-    {
-      "rolle" : "Anudhara",
-      "sprecher" : "Rosakutty Hemsing"
-    },
-    {
-      "rolle" : "Ruth",
-      "sprecher" : "Gabriele Libbach"
-    }
-  ],
-  "medien" : [
-    {
-      "tracks" : [
-        {
-          "titel" : "Eine rätselhafte Erbschaft",
-          "start" : 0,
-          "end" : 524213
-        },
-        {
-          "titel" : "Persönliche Einschätzung",
-          "start" : 524213,
-          "end" : 771373
-        },
-        {
-          "titel" : "Das Haus des Sammlers",
-          "start" : 771373,
-          "end" : 1255853
-        },
-        {
-          "titel" : "Cochin Big Blind",
-          "start" : 1255853,
-          "end" : 1725040
-        },
-        {
-          "titel" : "Überfall",
-          "start" : 1725040,
-          "end" : 1844480
-        },
-        {
-          "titel" : "Verschlossen",
-          "start" : 1844480,
-          "end" : 1963693
-        },
-        {
-          "titel" : "Auf Draht",
-          "start" : 1963693,
-          "end" : 2098240
-        },
-        {
-          "titel" : "Der Flugzeugfan",
-          "start" : 2098240,
-          "end" : 2380493
-        },
-        {
-          "titel" : "Konkurrenz schläft nicht",
-          "start" : 2380493,
-          "end" : 2464707
-        },
-        {
-          "titel" : "Atemlos",
-          "start" : 2464707,
-          "end" : 2725533
-        },
-        {
-          "titel" : "Gerry",
-          "start" : 2725533,
-          "end" : 3283107
-        },
-        {
-          "titel" : "Verkauft",
-          "start" : 3283107,
-          "end" : 3494347
-        },
-        {
-          "titel" : "Der Uhrensammler",
-          "start" : 3494347,
-          "end" : 3782093
-        },
-        {
-          "titel" : "Ein Detektiv verschwindet",
-          "start" : 3782093,
-          "end" : 4055093
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Serie/150/rip_log1.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Fragezeichen",
-          "start" : 0,
-          "end" : 140907
-        },
-        {
-          "titel" : "In Rashuras Hölle",
-          "start" : 140907,
-          "end" : 518107
-        },
-        {
-          "titel" : "Rettung",
-          "start" : 518107,
-          "end" : 716720
-        },
-        {
-          "titel" : "Wo ist Bob?",
-          "start" : 716720,
-          "end" : 975200
-        },
-        {
-          "titel" : "Heimlicher Fan",
-          "start" : 975200,
-          "end" : 1200120
-        },
-        {
-          "titel" : "Ein Hauch von Gift",
-          "start" : 1200120,
-          "end" : 1542440
-        },
-        {
-          "titel" : "Der Stern von Kerala",
-          "start" : 1542440,
-          "end" : 1910600
-        },
-        {
-          "titel" : "Eine wichtige Spur",
-          "start" : 1910600,
-          "end" : 2003600
-        },
-        {
-          "titel" : "Ein verdächtiger Polizist",
-          "start" : 2003600,
-          "end" : 2269573
-        },
-        {
-          "titel" : "Strandcafé Rocky Beach",
-          "start" : 2269573,
-          "end" : 2545627
-        },
-        {
-          "titel" : "Leviathan",
-          "start" : 2545627,
-          "end" : 2975827
-        },
-        {
-          "titel" : "Selbstmord",
-          "start" : 2975827,
-          "end" : 3128573
-        },
-        {
-          "titel" : "Hände hoch!",
-          "start" : 3128573,
-          "end" : 3275920
-        },
-        {
-          "titel" : "Ausbruch",
-          "start" : 3275920,
-          "end" : 3736453
-        },
-        {
-          "titel" : "Poker-Einsatz",
-          "start" : 3736453,
-          "end" : 3911413
-        },
-        {
-          "titel" : "Untergang",
-          "start" : 3911413,
-          "end" : 4100240
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Serie/150/rip_log2.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Blödmänner",
-          "start" : 0,
-          "end" : 281320
-        },
-        {
-          "titel" : "Streit um eine Frau",
-          "start" : 281320,
-          "end" : 499720
-        },
-        {
-          "titel" : "Anudharas Fluch",
-          "start" : 499720,
-          "end" : 789240
-        },
-        {
-          "titel" : "Rachel's Delight",
-          "start" : 789240,
-          "end" : 1283040
-        },
-        {
-          "titel" : "Tauchgang in der Geisterbucht",
-          "start" : 1283040,
-          "end" : 1909547
-        },
-        {
-          "titel" : "Kennziffer",
-          "start" : 1909547,
-          "end" : 2095147
-        },
-        {
-          "titel" : "Familienangelegenheiten",
-          "start" : 2095147,
-          "end" : 2256840
-        },
-        {
-          "titel" : "Indisch",
-          "start" : 2256840,
-          "end" : 2769733
-        },
-        {
-          "titel" : "Eine Falle",
-          "start" : 2769733,
-          "end" : 2920173
-        },
-        {
-          "titel" : "Keine Tricks",
-          "start" : 2920173,
-          "end" : 3145560
-        },
-        {
-          "titel" : "Die letzte Tür",
-          "start" : 3145560,
-          "end" : 3763400
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Serie/150/rip_log3.txt"
-    }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/150/metadata.json",
-    "cover" : "http://dreimetadaten.de/data/Serie/150/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/a1/dd/63/a1dd63c2-6ffa-437f-99f9-d0741d46ae98/source",
-    "cover_kosmos" : "http://web.archive.org/web/20211231145707if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f1/05/71/0886978015020.jpg"
-  }
+  ]
 }

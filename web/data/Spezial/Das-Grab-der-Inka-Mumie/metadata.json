@@ -162,6 +162,12 @@
       "sprecher" : "Julia Fölster"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music124/v4/ee/4e/3e/ee4e3e55-9e99-6e6c-b30b-a3c08f0d04e9/886444438483.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -233,11 +239,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/rip_log2.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/Das-Grab-der-Inka-Mumie/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music124/v4/ee/4e/3e/ee4e3e55-9e99-6e6c-b30b-a3c08f0d04e9/886444438483.jpg"
-  }
+  ]
 }

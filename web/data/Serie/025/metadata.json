@@ -109,6 +109,13 @@
       "sprecher" : "Wolfgang Kaven"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/025/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/025/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/025/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music22/v4/ab/0f/a0/ab0fa07b-0c46-a978-cf16-bd81a917a253/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111212331if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/76/43/d3/0743213882529.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -154,12 +161,5 @@
         }
       ]
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/025/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/025/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/025/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music22/v4/ab/0f/a0/ab0fa07b-0c46-a978-cf16-bd81a917a253/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111212331if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/76/43/d3/0743213882529.jpg"
-  }
+  ]
 }

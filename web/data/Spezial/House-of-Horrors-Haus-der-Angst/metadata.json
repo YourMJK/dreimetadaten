@@ -423,6 +423,12 @@
       "sprecher" : "Heikedine Körting"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music114/v4/87/73/89/877389c8-2c6a-c40c-7bf1-b3498a8678fb/884977708189.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -859,11 +865,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/rip_log2.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/House-of-Horrors-Haus-der-Angst/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music114/v4/87/73/89/877389c8-2c6a-c40c-7bf1-b3498a8678fb/884977708189.jpg"
-  }
+  ]
 }

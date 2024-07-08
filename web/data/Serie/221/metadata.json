@@ -95,6 +95,12 @@
       "sprecher" : "Marc Zabinski"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/221/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/221/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/221/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music122/v4/ee/d9/25/eed925e9-91ae-071f-51ac-8f95f4a20cf6/196589194671.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -146,11 +152,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/221/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/221/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/221/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/221/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music122/v4/ee/d9/25/eed925e9-91ae-071f-51ac-8f95f4a20cf6/196589194671.jpg"
-  }
+  ]
 }

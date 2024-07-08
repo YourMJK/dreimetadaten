@@ -1,5 +1,185 @@
 {
   "nummer" : 100,
+  "titel" : "Toteninsel",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die drei ??? übernehmen ihren 100sten Fall! In drei spannenden Folgen sind sie dem Geheimnis der Toteninsel auf der Spur.\nEine große Herausforderung für die Detektive. Weswegen sie gut beraten sind, die Hilfe alter Wegbegleiter anzunehmen, um Das Rätsel der Sphinx (Teil 1) zu lösen. Doch plötzlich ist Peter verschwunden und auch Das vergessene Volk (Teil 2) kann Justus und Bob bei ihrer Suche nicht weiterhelfen. Erst Der Fluch der Gräber (Teil 3) führt die drei ??? auf eine heiße Spur.",
+  "veröffentlichungsdatum" : "2001-10-15",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Matthias Fuchs"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Jelena Charkova",
+      "sprecher" : "Alexandra Doerk"
+    },
+    {
+      "rolle" : "Dr. Svenson",
+      "sprecher" : "Antje Roosch"
+    },
+    {
+      "rolle" : "Mr. Schwarz",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Mr. Olin",
+      "sprecher" : "Uli Krohm"
+    },
+    {
+      "rolle" : "Juan",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Professor Phoenix",
+      "sprecher" : "Winfried Glatzeder"
+    },
+    {
+      "rolle" : "Rachel Hadden",
+      "sprecher" : "Anna Carlsson"
+    },
+    {
+      "rolle" : "Al",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Anne",
+      "sprecher" : "Corinna Wodrich"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/100/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Serie/100/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/24/bc/06/24bc0600-02b8-1f37-dc33-7a30f9634ebd/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220115135349if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a0/2a/de/0743218420627.jpg"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Botschaft von Geisterhand",
+          "start" : 0,
+          "end" : 490480
+        },
+        {
+          "titel" : "Der verschwundene Schatz",
+          "start" : 490480,
+          "end" : 1098520
+        },
+        {
+          "titel" : "Die Geisterinsel",
+          "start" : 1098520,
+          "end" : 1580160
+        },
+        {
+          "titel" : "Der unsichtbare Gegner",
+          "start" : 1580160,
+          "end" : 2095880
+        },
+        {
+          "titel" : "Gefahr im Verzug",
+          "start" : 2095880,
+          "end" : 2660453
+        },
+        {
+          "titel" : "Das Geisterschiff",
+          "start" : 2660453,
+          "end" : 3204573
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/100/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Schattenmänner",
+          "start" : 0,
+          "end" : 500840
+        },
+        {
+          "titel" : "Der rasende Löwe",
+          "start" : 500840,
+          "end" : 1070627
+        },
+        {
+          "titel" : "Der Doppelgänger",
+          "start" : 1070627,
+          "end" : 1677840
+        },
+        {
+          "titel" : "Der magische Kreis",
+          "start" : 1677840,
+          "end" : 2187973
+        },
+        {
+          "titel" : "Das Narbengesicht",
+          "start" : 2187973,
+          "end" : 2922893
+        },
+        {
+          "titel" : "Nacht in Angst",
+          "start" : 2922893,
+          "end" : 3376800
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/100/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Verdeckte Fouls",
+          "start" : 0,
+          "end" : 618853
+        },
+        {
+          "titel" : "Die Rache des Tigers",
+          "start" : 618853,
+          "end" : 1016733
+        },
+        {
+          "titel" : "Die rätselhaften Bilder",
+          "start" : 1016733,
+          "end" : 1685640
+        },
+        {
+          "titel" : "Das Geheimnis der Särge",
+          "start" : 1685640,
+          "end" : 2235333
+        },
+        {
+          "titel" : "Dreckiger Deal",
+          "start" : 2235333,
+          "end" : 2721600
+        },
+        {
+          "titel" : "Tödliche Spur",
+          "start" : 2721600,
+          "end" : 3410493
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/100/rip_log3.txt"
+    }
+  ],
   "teile" : [
     {
       "teilNummer" : 1,
@@ -290,185 +470,5 @@
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/3/ffmetadata.txt"
       }
     }
-  ],
-  "titel" : "Toteninsel",
-  "autor" : "André Marx",
-  "hörspielskriptautor" : "André Minninger",
-  "beschreibung" : "Die drei ??? übernehmen ihren 100sten Fall! In drei spannenden Folgen sind sie dem Geheimnis der Toteninsel auf der Spur.\nEine große Herausforderung für die Detektive. Weswegen sie gut beraten sind, die Hilfe alter Wegbegleiter anzunehmen, um Das Rätsel der Sphinx (Teil 1) zu lösen. Doch plötzlich ist Peter verschwunden und auch Das vergessene Volk (Teil 2) kann Justus und Bob bei ihrer Suche nicht weiterhelfen. Erst Der Fluch der Gräber (Teil 3) führt die drei ??? auf eine heiße Spur.",
-  "veröffentlichungsdatum" : "2001-10-15",
-  "sprechrollen" : [
-    {
-      "rolle" : "Erzähler",
-      "sprecher" : "Matthias Fuchs"
-    },
-    {
-      "rolle" : "Justus Jonas, Erster Detektiv",
-      "sprecher" : "Oliver Rohrbeck"
-    },
-    {
-      "rolle" : "Peter Shaw, Zweiter Detektiv",
-      "sprecher" : "Jens Wawrczeck"
-    },
-    {
-      "rolle" : "Bob Andrews, Recherchen und Archiv",
-      "sprecher" : "Andreas Fröhlich"
-    },
-    {
-      "rolle" : "Skinny Norris",
-      "sprecher" : "Andreas von der Meden"
-    },
-    {
-      "rolle" : "Morton",
-      "sprecher" : "Andreas von der Meden"
-    },
-    {
-      "rolle" : "Jelena Charkova",
-      "sprecher" : "Alexandra Doerk"
-    },
-    {
-      "rolle" : "Dr. Svenson",
-      "sprecher" : "Antje Roosch"
-    },
-    {
-      "rolle" : "Mr. Schwarz",
-      "sprecher" : "Erik Schäffler"
-    },
-    {
-      "rolle" : "Mr. Olin",
-      "sprecher" : "Uli Krohm"
-    },
-    {
-      "rolle" : "Juan",
-      "sprecher" : "Oliver Böttcher"
-    },
-    {
-      "rolle" : "Professor Phoenix",
-      "sprecher" : "Winfried Glatzeder"
-    },
-    {
-      "rolle" : "Rachel Hadden",
-      "sprecher" : "Anna Carlsson"
-    },
-    {
-      "rolle" : "Al",
-      "sprecher" : "Nicolas König"
-    },
-    {
-      "rolle" : "Anne",
-      "sprecher" : "Corinna Wodrich"
-    }
-  ],
-  "medien" : [
-    {
-      "tracks" : [
-        {
-          "titel" : "Botschaft von Geisterhand",
-          "start" : 0,
-          "end" : 490480
-        },
-        {
-          "titel" : "Der verschwundene Schatz",
-          "start" : 490480,
-          "end" : 1098520
-        },
-        {
-          "titel" : "Die Geisterinsel",
-          "start" : 1098520,
-          "end" : 1580160
-        },
-        {
-          "titel" : "Der unsichtbare Gegner",
-          "start" : 1580160,
-          "end" : 2095880
-        },
-        {
-          "titel" : "Gefahr im Verzug",
-          "start" : 2095880,
-          "end" : 2660453
-        },
-        {
-          "titel" : "Das Geisterschiff",
-          "start" : 2660453,
-          "end" : 3204573
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Serie/100/rip_log1.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Die Schattenmänner",
-          "start" : 0,
-          "end" : 500840
-        },
-        {
-          "titel" : "Der rasende Löwe",
-          "start" : 500840,
-          "end" : 1070627
-        },
-        {
-          "titel" : "Der Doppelgänger",
-          "start" : 1070627,
-          "end" : 1677840
-        },
-        {
-          "titel" : "Der magische Kreis",
-          "start" : 1677840,
-          "end" : 2187973
-        },
-        {
-          "titel" : "Das Narbengesicht",
-          "start" : 2187973,
-          "end" : 2922893
-        },
-        {
-          "titel" : "Nacht in Angst",
-          "start" : 2922893,
-          "end" : 3376800
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Serie/100/rip_log2.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Verdeckte Fouls",
-          "start" : 0,
-          "end" : 618853
-        },
-        {
-          "titel" : "Die Rache des Tigers",
-          "start" : 618853,
-          "end" : 1016733
-        },
-        {
-          "titel" : "Die rätselhaften Bilder",
-          "start" : 1016733,
-          "end" : 1685640
-        },
-        {
-          "titel" : "Das Geheimnis der Särge",
-          "start" : 1685640,
-          "end" : 2235333
-        },
-        {
-          "titel" : "Dreckiger Deal",
-          "start" : 2235333,
-          "end" : 2721600
-        },
-        {
-          "titel" : "Tödliche Spur",
-          "start" : 2721600,
-          "end" : 3410493
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Serie/100/rip_log3.txt"
-    }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/100/metadata.json",
-    "cover" : "http://dreimetadaten.de/data/Serie/100/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/24/bc/06/24bc0600-02b8-1f37-dc33-7a30f9634ebd/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220115135349if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a0/2a/de/0743218420627.jpg"
-  }
+  ]
 }

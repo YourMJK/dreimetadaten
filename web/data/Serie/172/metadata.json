@@ -120,6 +120,13 @@
       "sprecher" : "Frank Thannhäuser"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/172/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/172/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/172/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music122/v4/cc/65/a6/cc65a6f0-817b-1df8-21b3-82e33ccaa0d1/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220114180109if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/fa/cb/c4/0888430093027.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -181,12 +188,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/172/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/172/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/172/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/172/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music122/v4/cc/65/a6/cc65a6f0-817b-1df8-21b3-82e33ccaa0d1/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220114180109if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/fa/cb/c4/0888430093027.jpg"
-  }
+  ]
 }

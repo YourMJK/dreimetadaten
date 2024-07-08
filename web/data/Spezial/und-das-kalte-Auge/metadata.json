@@ -173,6 +173,12 @@
       "sprecher" : "Birte Kretschmer"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music128/v4/af/f8/9a/aff89a25-8c32-e047-08e0-5b55e66187ae/886444438667.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -239,11 +245,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/rip_log2.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/und-das-kalte-Auge/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music128/v4/af/f8/9a/aff89a25-8c32-e047-08e0-5b55e66187ae/886444438667.jpg"
-  }
+  ]
 }

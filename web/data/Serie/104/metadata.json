@@ -93,6 +93,13 @@
       "sprecher" : "Karin Lieneweg"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/104/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/104/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/104/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/58/16/57/581657a6-edcf-0fb6-65a9-55872658347c/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220123153400if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/90/96/ce/0743218754920.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -139,12 +146,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/104/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/104/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/104/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/104/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/58/16/57/581657a6-edcf-0fb6-65a9-55872658347c/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220123153400if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/90/96/ce/0743218754920.jpg"
-  }
+  ]
 }

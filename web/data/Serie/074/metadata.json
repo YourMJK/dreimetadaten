@@ -114,6 +114,13 @@
       "sprecher" : "Moritz Gentsch"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/074/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/074/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/074/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/28/94/73/2894733d-f9a7-3efa-53b9-81a3be32e857/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220115045313if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/42/ce/d1/0743214284827.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -160,12 +167,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/074/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/074/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/074/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/074/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/28/94/73/2894733d-f9a7-3efa-53b9-81a3be32e857/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220115045313if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/42/ce/d1/0743214284827.jpg"
-  }
+  ]
 }

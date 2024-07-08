@@ -93,6 +93,12 @@
       "sprecher" : "Christian Rudolf"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/191/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/191/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/191/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/23/5c/1b/235c1b67-dd15-9cdf-213c-41ff18a19ea5/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -139,11 +145,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/191/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/191/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/191/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/191/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/23/5c/1b/235c1b67-dd15-9cdf-213c-41ff18a19ea5/source"
-  }
+  ]
 }

@@ -144,6 +144,13 @@
       "sprecher" : "Maria Baptista"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/170/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/170/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/170/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/92/7c/70/927c7044-8078-6a25-4d74-65f0018fda86/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111212301if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/16/33/f0/0887254004028.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -205,12 +212,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/170/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/170/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/170/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/170/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/92/7c/70/927c7044-8078-6a25-4d74-65f0018fda86/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111212301if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/16/33/f0/0887254004028.jpg"
-  }
+  ]
 }

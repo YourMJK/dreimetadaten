@@ -102,6 +102,13 @@
       "sprecher" : "Siegfried Wald"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/027/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/027/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/027/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music22/v4/55/80/ff/5580ff01-dd66-4c6b-6789-04833fb6f7de/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220106180941if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/5f/96/aa/0743213882727.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -147,12 +154,5 @@
         }
       ]
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/027/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/027/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/027/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music22/v4/55/80/ff/5580ff01-dd66-4c6b-6789-04833fb6f7de/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220106180941if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/5f/96/aa/0743213882727.jpg"
-  }
+  ]
 }

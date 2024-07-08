@@ -109,6 +109,11 @@
       "sprecher" : "Stephanie Damare"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/8/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/8/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/8/cover.png"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -155,10 +160,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/8/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/DiE_DR3i/8/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/8/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/8/cover.png"
-  }
+  ]
 }

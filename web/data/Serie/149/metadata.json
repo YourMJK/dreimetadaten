@@ -143,6 +143,13 @@
       "sprecher" : "Frank Meyer-Brockmann"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/149/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/149/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/149/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/89/fe/eb/89feeb6a-d74e-bf5d-c599-3cea28ef701b/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111212304if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/de/5a/de/0886978014924.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -219,12 +226,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/149/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/149/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/149/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/149/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/89/fe/eb/89feeb6a-d74e-bf5d-c599-3cea28ef701b/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111212304if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/de/5a/de/0886978014924.jpg"
-  }
+  ]
 }

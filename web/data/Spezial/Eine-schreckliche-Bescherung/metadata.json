@@ -255,6 +255,12 @@
       "sprecher" : "Lars Schmidtke"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music122/v4/d6/bf/a6/d6bfa640-de36-a2cb-3790-74a9e1ce511b/886449413263.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -386,11 +392,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/rip_log2.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/Eine-schreckliche-Bescherung/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music122/v4/d6/bf/a6/d6bfa640-de36-a2cb-3790-74a9e1ce511b/886449413263.jpg"
-  }
+  ]
 }

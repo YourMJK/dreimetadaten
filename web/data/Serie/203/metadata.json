@@ -89,6 +89,12 @@
       "sprecher" : "Peter Franke"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/203/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/203/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/203/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music123/v4/3d/d6/a7/3dd6a76e-c5f4-4587-1251-a0c38790399d/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -135,11 +141,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/203/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/203/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/203/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/203/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music123/v4/3d/d6/a7/3dd6a76e-c5f4-4587-1251-a0c38790399d/source"
-  }
+  ]
 }

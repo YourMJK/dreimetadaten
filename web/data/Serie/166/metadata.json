@@ -90,6 +90,13 @@
       "sprecher" : "Elga Schütz"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/166/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/166/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/166/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/f0/6b/f7/f06bf784-4780-e1b4-f78d-290902f3e662/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111022949if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/5d/d0/58/0887254003625.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -141,12 +148,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/166/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/166/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/166/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/166/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/f0/6b/f7/f06bf784-4780-e1b4-f78d-290902f3e662/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111022949if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/5d/d0/58/0887254003625.jpg"
-  }
+  ]
 }

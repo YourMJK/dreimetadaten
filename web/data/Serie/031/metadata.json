@@ -111,6 +111,13 @@
       "sprecher" : "Joachim Richert"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/031/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/031/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/031/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/5c/21/69/5c21690c-22a5-0f5f-819b-f4fe055d2a66/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111212347if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d7/fb/50/0743213883120.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -156,12 +163,5 @@
         }
       ]
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/031/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/031/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/031/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/5c/21/69/5c21690c-22a5-0f5f-819b-f4fe055d2a66/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111212347if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/d7/fb/50/0743213883120.jpg"
-  }
+  ]
 }

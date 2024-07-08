@@ -76,6 +76,13 @@
       "sprecher" : "Anja Topf"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/093/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/093/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/093/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/11/97/bc/1197bcaa-acfe-f2e0-b33d-f2e51edc3227/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111212304if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/8b/0c/72/0743217877422.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -112,12 +119,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/093/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/093/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/093/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/093/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/11/97/bc/1197bcaa-acfe-f2e0-b33d-f2e51edc3227/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111212304if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/8b/0c/72/0743217877422.jpg"
-  }
+  ]
 }

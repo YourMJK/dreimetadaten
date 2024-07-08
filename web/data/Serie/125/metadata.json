@@ -1,5 +1,351 @@
 {
   "nummer" : 125,
+  "titel" : "Feuermond",
+  "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Rätselhafte Briefe eines verstorbenen Malers bringen die drei ??? auf die Spur eines verschollenen Gemäldes … Und der Gegenspieler der Detektive aus Rocky Beach ist kein Geringerer als der französische Meisterdieb Victor Hugenay! Wem wird es gelingen, \"Feuermond\" zu finden und das in dem Gemälde verborgene große Geheimnis zu lüften?",
+  "veröffentlichungsdatum" : "2008-10-10",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Andy Miller",
+      "sprecher" : "Jannik Endemann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Ansager",
+      "sprecher" : "Bertram Hiese"
+    },
+    {
+      "rolle" : "Graham, Reporter",
+      "sprecher" : "Thomas Bammer"
+    },
+    {
+      "rolle" : "Julianne Wallace",
+      "sprecher" : "Marlen Diekhoff"
+    },
+    {
+      "rolle" : "Hugenay",
+      "sprecher" : "Wolfgang Kubach",
+      "pseudonym" : "Albert Giro"
+    },
+    {
+      "rolle" : "Moderator",
+      "sprecher" : "Holger Wemhoff"
+    },
+    {
+      "rolle" : "Charles Knox",
+      "sprecher" : "Dirk Bach"
+    },
+    {
+      "rolle" : "Mr. Myers",
+      "sprecher" : "Eberhard Haar"
+    },
+    {
+      "rolle" : "Nachtschatten",
+      "sprecher" : "Frank Thannhäuser"
+    },
+    {
+      "rolle" : "Brittany",
+      "sprecher" : "Dorette Hugo"
+    },
+    {
+      "rolle" : "Sharon Lockwood",
+      "sprecher" : "Nova Meierhenrich"
+    },
+    {
+      "rolle" : "Mrs. Albright",
+      "sprecher" : "Lotti Krekel"
+    },
+    {
+      "rolle" : "Jaccard (Off-Stimme)",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Morton",
+      "sprecher" : "Andreas von der Meden"
+    },
+    {
+      "rolle" : "Polizist 1",
+      "sprecher" : "Fabian Harloff"
+    },
+    {
+      "rolle" : "Polizist 2",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "LKW-Fahrer",
+      "sprecher" : "Nick Heidfeld"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Rubbish George",
+      "sprecher" : "Utz Richter"
+    },
+    {
+      "rolle" : "Mr. Baker",
+      "sprecher" : "Wolf Pahlke"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/125/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Serie/125/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/fc/8a/f6/fc8af66f-bb6d-b637-a1b7-3dbe445281e6/source",
+    "cover_kosmos" : "http://web.archive.org/web/20211227022657if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/59/91/e0/0828766712520.jpg"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Flammen in der Nacht",
+          "start" : 0,
+          "end" : 687307
+        },
+        {
+          "titel" : "Jaccards Briefe",
+          "start" : 687307,
+          "end" : 1485080
+        },
+        {
+          "titel" : "Hinterher!",
+          "start" : 1485080,
+          "end" : 1615893
+        },
+        {
+          "titel" : "Das blanke Entsetzen",
+          "start" : 1615893,
+          "end" : 1856933
+        },
+        {
+          "titel" : "Juniordetektive auf der falschen Bahn",
+          "start" : 1856933,
+          "end" : 2204773
+        },
+        {
+          "titel" : "Recherchen",
+          "start" : 2204773,
+          "end" : 2472467
+        },
+        {
+          "titel" : "Fünf vor zwölf",
+          "start" : 2472467,
+          "end" : 2692880
+        },
+        {
+          "titel" : "Zwölf Uhr Mittags",
+          "start" : 2692880,
+          "end" : 2853760
+        },
+        {
+          "titel" : "Das Angebot",
+          "start" : 2853760,
+          "end" : 3382587
+        },
+        {
+          "titel" : "Präpariertes Päckchen",
+          "start" : 3382587,
+          "end" : 3455653
+        },
+        {
+          "titel" : "Entwischt!",
+          "start" : 3455653,
+          "end" : 4106587
+        },
+        {
+          "titel" : "\"Zwischen 1 und 2\"",
+          "start" : 4106587,
+          "end" : 4488347
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/125/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Das Schweigen des Meisterdiebs",
+          "start" : 0,
+          "end" : 347000
+        },
+        {
+          "titel" : "Überwacht",
+          "start" : 347000,
+          "end" : 489160
+        },
+        {
+          "titel" : "Hugenays Geschichte",
+          "start" : 489160,
+          "end" : 1005013
+        },
+        {
+          "titel" : "Erpressung",
+          "start" : 1005013,
+          "end" : 1399347
+        },
+        {
+          "titel" : "Keine Spur im Sand",
+          "start" : 1399347,
+          "end" : 1514147
+        },
+        {
+          "titel" : "Quitt",
+          "start" : 1514147,
+          "end" : 1656853
+        },
+        {
+          "titel" : "Erwischt!",
+          "start" : 1656853,
+          "end" : 1896333
+        },
+        {
+          "titel" : "Gratulation",
+          "start" : 1896333,
+          "end" : 2051707
+        },
+        {
+          "titel" : "Observation Kunstexpertin",
+          "start" : 2051707,
+          "end" : 2217267
+        },
+        {
+          "titel" : "Spitznamen",
+          "start" : 2217267,
+          "end" : 2503840
+        },
+        {
+          "titel" : "Der Weltenseher",
+          "start" : 2503840,
+          "end" : 2795253
+        },
+        {
+          "titel" : "Baupläne",
+          "start" : 2795253,
+          "end" : 3241027
+        },
+        {
+          "titel" : "Erdrutsch",
+          "start" : 3241027,
+          "end" : 3924080
+        },
+        {
+          "titel" : "\"Zwischen 11 und 12\"",
+          "start" : 3924080,
+          "end" : 4166213
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/125/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Blanker Unsinn",
+          "start" : 0,
+          "end" : 313253
+        },
+        {
+          "titel" : "Schock!",
+          "start" : 313253,
+          "end" : 390387
+        },
+        {
+          "titel" : "Stromausfall",
+          "start" : 390387,
+          "end" : 689387
+        },
+        {
+          "titel" : "Blick in die Zukunft",
+          "start" : 689387,
+          "end" : 842747
+        },
+        {
+          "titel" : "Menschenleer",
+          "start" : 842747,
+          "end" : 1016213
+        },
+        {
+          "titel" : "Skrupel",
+          "start" : 1016213,
+          "end" : 1174907
+        },
+        {
+          "titel" : "Verschlossen",
+          "start" : 1174907,
+          "end" : 1749053
+        },
+        {
+          "titel" : "Überraschung",
+          "start" : 1749053,
+          "end" : 1904560
+        },
+        {
+          "titel" : "Verbündet",
+          "start" : 1904560,
+          "end" : 2796187
+        },
+        {
+          "titel" : "Verhaftet",
+          "start" : 2796187,
+          "end" : 2927733
+        },
+        {
+          "titel" : "Die halbe Wahrheit",
+          "start" : 2927733,
+          "end" : 3227173
+        },
+        {
+          "titel" : "Eine letzte Bitte",
+          "start" : 3227173,
+          "end" : 3436853
+        },
+        {
+          "titel" : "Die ganze Wahrheit",
+          "start" : 3436853,
+          "end" : 3671587
+        },
+        {
+          "titel" : "Die Würde",
+          "start" : 3671587,
+          "end" : 3959280
+        },
+        {
+          "titel" : "Der Brief",
+          "start" : 3959280,
+          "end" : 4183213
+        },
+        {
+          "titel" : "\"Nach 15\"",
+          "start" : 4183213,
+          "end" : 4464547
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Serie/125/rip_log3.txt"
+    }
+  ],
   "teile" : [
     {
       "teilNummer" : 1,
@@ -451,351 +797,5 @@
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/3/ffmetadata.txt"
       }
     }
-  ],
-  "titel" : "Feuermond",
-  "autor" : "André Marx",
-  "hörspielskriptautor" : "André Minninger",
-  "beschreibung" : "Rätselhafte Briefe eines verstorbenen Malers bringen die drei ??? auf die Spur eines verschollenen Gemäldes … Und der Gegenspieler der Detektive aus Rocky Beach ist kein Geringerer als der französische Meisterdieb Victor Hugenay! Wem wird es gelingen, \"Feuermond\" zu finden und das in dem Gemälde verborgene große Geheimnis zu lüften?",
-  "veröffentlichungsdatum" : "2008-10-10",
-  "sprechrollen" : [
-    {
-      "rolle" : "Erzähler",
-      "sprecher" : "Thomas Fritsch"
-    },
-    {
-      "rolle" : "Justus Jonas, Erster Detektiv",
-      "sprecher" : "Oliver Rohrbeck"
-    },
-    {
-      "rolle" : "Peter Shaw, Zweiter Detektiv",
-      "sprecher" : "Jens Wawrczeck"
-    },
-    {
-      "rolle" : "Bob Andrews, Recherchen und Archiv",
-      "sprecher" : "Andreas Fröhlich"
-    },
-    {
-      "rolle" : "Andy Miller",
-      "sprecher" : "Jannik Endemann"
-    },
-    {
-      "rolle" : "Onkel Titus",
-      "sprecher" : "Andreas E. Beurmann",
-      "pseudonym" : "Hans Meinhardt"
-    },
-    {
-      "rolle" : "Tante Mathilda",
-      "sprecher" : "Karin Lieneweg"
-    },
-    {
-      "rolle" : "Ansager",
-      "sprecher" : "Bertram Hiese"
-    },
-    {
-      "rolle" : "Graham, Reporter",
-      "sprecher" : "Thomas Bammer"
-    },
-    {
-      "rolle" : "Julianne Wallace",
-      "sprecher" : "Marlen Diekhoff"
-    },
-    {
-      "rolle" : "Hugenay",
-      "sprecher" : "Wolfgang Kubach",
-      "pseudonym" : "Albert Giro"
-    },
-    {
-      "rolle" : "Moderator",
-      "sprecher" : "Holger Wemhoff"
-    },
-    {
-      "rolle" : "Charles Knox",
-      "sprecher" : "Dirk Bach"
-    },
-    {
-      "rolle" : "Mr. Myers",
-      "sprecher" : "Eberhard Haar"
-    },
-    {
-      "rolle" : "Nachtschatten",
-      "sprecher" : "Frank Thannhäuser"
-    },
-    {
-      "rolle" : "Brittany",
-      "sprecher" : "Dorette Hugo"
-    },
-    {
-      "rolle" : "Sharon Lockwood",
-      "sprecher" : "Nova Meierhenrich"
-    },
-    {
-      "rolle" : "Mrs. Albright",
-      "sprecher" : "Lotti Krekel"
-    },
-    {
-      "rolle" : "Jaccard (Off-Stimme)",
-      "sprecher" : "Douglas Welbat"
-    },
-    {
-      "rolle" : "Morton",
-      "sprecher" : "Andreas von der Meden"
-    },
-    {
-      "rolle" : "Polizist 1",
-      "sprecher" : "Fabian Harloff"
-    },
-    {
-      "rolle" : "Polizist 2",
-      "sprecher" : "Erik Schäffler"
-    },
-    {
-      "rolle" : "LKW-Fahrer",
-      "sprecher" : "Nick Heidfeld"
-    },
-    {
-      "rolle" : "Inspektor Cotta",
-      "sprecher" : "Holger Mahlich"
-    },
-    {
-      "rolle" : "Rubbish George",
-      "sprecher" : "Utz Richter"
-    },
-    {
-      "rolle" : "Mr. Baker",
-      "sprecher" : "Wolf Pahlke"
-    }
-  ],
-  "medien" : [
-    {
-      "tracks" : [
-        {
-          "titel" : "Flammen in der Nacht",
-          "start" : 0,
-          "end" : 687307
-        },
-        {
-          "titel" : "Jaccards Briefe",
-          "start" : 687307,
-          "end" : 1485080
-        },
-        {
-          "titel" : "Hinterher!",
-          "start" : 1485080,
-          "end" : 1615893
-        },
-        {
-          "titel" : "Das blanke Entsetzen",
-          "start" : 1615893,
-          "end" : 1856933
-        },
-        {
-          "titel" : "Juniordetektive auf der falschen Bahn",
-          "start" : 1856933,
-          "end" : 2204773
-        },
-        {
-          "titel" : "Recherchen",
-          "start" : 2204773,
-          "end" : 2472467
-        },
-        {
-          "titel" : "Fünf vor zwölf",
-          "start" : 2472467,
-          "end" : 2692880
-        },
-        {
-          "titel" : "Zwölf Uhr Mittags",
-          "start" : 2692880,
-          "end" : 2853760
-        },
-        {
-          "titel" : "Das Angebot",
-          "start" : 2853760,
-          "end" : 3382587
-        },
-        {
-          "titel" : "Präpariertes Päckchen",
-          "start" : 3382587,
-          "end" : 3455653
-        },
-        {
-          "titel" : "Entwischt!",
-          "start" : 3455653,
-          "end" : 4106587
-        },
-        {
-          "titel" : "\"Zwischen 1 und 2\"",
-          "start" : 4106587,
-          "end" : 4488347
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Serie/125/rip_log1.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Das Schweigen des Meisterdiebs",
-          "start" : 0,
-          "end" : 347000
-        },
-        {
-          "titel" : "Überwacht",
-          "start" : 347000,
-          "end" : 489160
-        },
-        {
-          "titel" : "Hugenays Geschichte",
-          "start" : 489160,
-          "end" : 1005013
-        },
-        {
-          "titel" : "Erpressung",
-          "start" : 1005013,
-          "end" : 1399347
-        },
-        {
-          "titel" : "Keine Spur im Sand",
-          "start" : 1399347,
-          "end" : 1514147
-        },
-        {
-          "titel" : "Quitt",
-          "start" : 1514147,
-          "end" : 1656853
-        },
-        {
-          "titel" : "Erwischt!",
-          "start" : 1656853,
-          "end" : 1896333
-        },
-        {
-          "titel" : "Gratulation",
-          "start" : 1896333,
-          "end" : 2051707
-        },
-        {
-          "titel" : "Observation Kunstexpertin",
-          "start" : 2051707,
-          "end" : 2217267
-        },
-        {
-          "titel" : "Spitznamen",
-          "start" : 2217267,
-          "end" : 2503840
-        },
-        {
-          "titel" : "Der Weltenseher",
-          "start" : 2503840,
-          "end" : 2795253
-        },
-        {
-          "titel" : "Baupläne",
-          "start" : 2795253,
-          "end" : 3241027
-        },
-        {
-          "titel" : "Erdrutsch",
-          "start" : 3241027,
-          "end" : 3924080
-        },
-        {
-          "titel" : "\"Zwischen 11 und 12\"",
-          "start" : 3924080,
-          "end" : 4166213
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Serie/125/rip_log2.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Blanker Unsinn",
-          "start" : 0,
-          "end" : 313253
-        },
-        {
-          "titel" : "Schock!",
-          "start" : 313253,
-          "end" : 390387
-        },
-        {
-          "titel" : "Stromausfall",
-          "start" : 390387,
-          "end" : 689387
-        },
-        {
-          "titel" : "Blick in die Zukunft",
-          "start" : 689387,
-          "end" : 842747
-        },
-        {
-          "titel" : "Menschenleer",
-          "start" : 842747,
-          "end" : 1016213
-        },
-        {
-          "titel" : "Skrupel",
-          "start" : 1016213,
-          "end" : 1174907
-        },
-        {
-          "titel" : "Verschlossen",
-          "start" : 1174907,
-          "end" : 1749053
-        },
-        {
-          "titel" : "Überraschung",
-          "start" : 1749053,
-          "end" : 1904560
-        },
-        {
-          "titel" : "Verbündet",
-          "start" : 1904560,
-          "end" : 2796187
-        },
-        {
-          "titel" : "Verhaftet",
-          "start" : 2796187,
-          "end" : 2927733
-        },
-        {
-          "titel" : "Die halbe Wahrheit",
-          "start" : 2927733,
-          "end" : 3227173
-        },
-        {
-          "titel" : "Eine letzte Bitte",
-          "start" : 3227173,
-          "end" : 3436853
-        },
-        {
-          "titel" : "Die ganze Wahrheit",
-          "start" : 3436853,
-          "end" : 3671587
-        },
-        {
-          "titel" : "Die Würde",
-          "start" : 3671587,
-          "end" : 3959280
-        },
-        {
-          "titel" : "Der Brief",
-          "start" : 3959280,
-          "end" : 4183213
-        },
-        {
-          "titel" : "\"Nach 15\"",
-          "start" : 4183213,
-          "end" : 4464547
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Serie/125/rip_log3.txt"
-    }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/125/metadata.json",
-    "cover" : "http://dreimetadaten.de/data/Serie/125/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/fc/8a/f6/fc8af66f-bb6d-b637-a1b7-3dbe445281e6/source",
-    "cover_kosmos" : "http://web.archive.org/web/20211227022657if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/59/91/e0/0828766712520.jpg"
-  }
+  ]
 }

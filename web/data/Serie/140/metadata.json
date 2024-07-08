@@ -116,6 +116,13 @@
       "sprecher" : "Gerd Baltus"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/140/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/140/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/140/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/fe/5e/33/fe5e33bf-593b-1cf7-10e3-4704e2048d60/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220123153351if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f5/38/bd/0886974414025.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -177,12 +184,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/140/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/140/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/140/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/140/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/fe/5e/33/fe5e33bf-593b-1cf7-10e3-4704e2048d60/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220123153351if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f5/38/bd/0886974414025.jpg"
-  }
+  ]
 }

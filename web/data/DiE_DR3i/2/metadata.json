@@ -121,6 +121,11 @@
       "sprecher" : "André Minninger"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/2/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/2/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/2/cover.png"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -187,10 +192,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/2/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/DiE_DR3i/2/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/2/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/2/cover.png"
-  }
+  ]
 }

@@ -146,6 +146,13 @@
       "sprecher" : "Günther Flesch"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/130/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/130/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/130/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music41/v4/e0/03/7a/e0037a54-0f6e-c71b-0f6e-f0b2662d2b97/source",
+    "cover_kosmos" : "http://web.archive.org/web/20211227022642if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/02/53/56/0828766713022.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -232,12 +239,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/130/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/130/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/130/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/130/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music41/v4/e0/03/7a/e0037a54-0f6e-c71b-0f6e-f0b2662d2b97/source",
-    "cover_kosmos" : "http://web.archive.org/web/20211227022642if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/02/53/56/0828766713022.jpg"
-  }
+  ]
 }

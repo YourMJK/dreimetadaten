@@ -168,6 +168,12 @@
       "sprecher" : "Timo Alexander Wenzel"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music124/v4/0a/a9/1c/0aa91c6a-4119-4d0a-b039-7019411de671/886447191804.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -249,11 +255,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/rip_log2.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/und-die-schwarze-Katze/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music124/v4/0a/a9/1c/0aa91c6a-4119-4d0a-b039-7019411de671/886447191804.jpg"
-  }
+  ]
 }

@@ -94,6 +94,13 @@
       "sprecher" : "Gerhart Hinze"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/103/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/103/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/103/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/24/05/89/24058925-dfab-6db6-4943-2dd961adb463/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111022950if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b2/d0/f4/0743218754821.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -140,12 +147,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/103/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/103/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/103/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/103/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/24/05/89/24058925-dfab-6db6-4943-2dd961adb463/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111022950if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b2/d0/f4/0743218754821.jpg"
-  }
+  ]
 }

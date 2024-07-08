@@ -111,6 +111,13 @@
       "sprecher" : "Christian Concilio"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/184/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/184/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/184/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/af/66/01/af66014f-2a7e-36c0-3ca9-3fbea1a7e3a6/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220104131531if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/13/e9/32/0888751319929.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -147,12 +154,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/184/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/184/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/184/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/184/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/af/66/01/af66014f-2a7e-36c0-3ca9-3fbea1a7e3a6/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220104131531if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/13/e9/32/0888751319929.jpg"
-  }
+  ]
 }

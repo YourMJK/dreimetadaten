@@ -121,6 +121,12 @@
       "sprecher" : "Christopher Hoseit"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/194/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/194/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/194/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music128/v4/84/52/57/845257b7-0d44-2247-b82d-47192b50133f/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -167,11 +173,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/194/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/194/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/194/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/194/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music128/v4/84/52/57/845257b7-0d44-2247-b82d-47192b50133f/source"
-  }
+  ]
 }

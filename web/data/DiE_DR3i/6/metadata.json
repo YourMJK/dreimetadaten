@@ -103,6 +103,11 @@
       "sprecher" : "Dirk Bach"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/6/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/6/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/6/cover.png"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -159,10 +164,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/6/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/DiE_DR3i/6/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/6/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/6/cover.png"
-  }
+  ]
 }

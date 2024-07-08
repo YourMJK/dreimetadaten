@@ -92,6 +92,13 @@
       "sprecher" : "Hubertus Borck"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/094/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/094/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/094/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/ae/89/08/ae8908c3-4e89-c243-71b4-130af87fa03f/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111023014if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c3/99/3a/0743217877521.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -128,12 +135,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/094/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/094/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/094/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/094/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/ae/89/08/ae8908c3-4e89-c243-71b4-130af87fa03f/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111023014if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c3/99/3a/0743217877521.jpg"
-  }
+  ]
 }

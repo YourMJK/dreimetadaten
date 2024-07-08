@@ -1,4 +1,413 @@
 {
+  "titel" : "und der dreiTag",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Kann ein und derselbe Tag dreimal völlig unterschiedlich verlaufen? Kann ein unscheinbares Detail wie ein Colaglas darüber entscheiden, wie sich alle weiteren Geschehnisse entwickeln? Erlebe, wie Justus, Peter und Bob auf den unheimlichen Fluch der Sheldon Street, die mysteriösen Zeichen der Ritter stoßen und den bedrohlichen Fremden Freund stoßen – und zwar zeitgleich am selben Tag!\nDrei Geschichten von drei Autoren führen dich dreimal durch einen Tag, wie er unterschiedlicher nicht verlaufen könnte.",
+  "veröffentlichungsdatum" : "2010-10-01",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Officer Flann Doyle",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Tanya Sullivan",
+      "sprecher" : "Marion Elskis"
+    },
+    {
+      "rolle" : "Sebastian Dawson",
+      "sprecher" : "Bastian Pastewka"
+    },
+    {
+      "rolle" : "Miss Tomkins",
+      "sprecher" : "Stephanie Damare"
+    },
+    {
+      "rolle" : "Mr. Foley",
+      "sprecher" : "Dirk Bach"
+    },
+    {
+      "rolle" : "John Gabbin",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Matthew Gabbin",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Georgina",
+      "sprecher" : "Maud Ackermann"
+    },
+    {
+      "rolle" : "Gil Renard",
+      "sprecher" : "Udo Schenk"
+    },
+    {
+      "rolle" : "Hedy Carlson",
+      "sprecher" : "Luise Helm"
+    },
+    {
+      "rolle" : "Steve",
+      "sprecher" : "Sascha Draeger"
+    },
+    {
+      "rolle" : "Jack",
+      "sprecher" : "Hendrik Buchna"
+    },
+    {
+      "rolle" : "Laury",
+      "sprecher" : "Rhea Harder-Vennewald"
+    },
+    {
+      "rolle" : "Gast 1",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Fahrerin",
+      "sprecher" : "Corinna Wodrich"
+    },
+    {
+      "rolle" : "Radiosprecher",
+      "sprecher" : "Tobias Meister"
+    },
+    {
+      "rolle" : "Peter Foster",
+      "sprecher" : "Gerrit Schmidt-Foß"
+    },
+    {
+      "rolle" : "Mrs. Shaw",
+      "sprecher" : "Isabella Grothe"
+    },
+    {
+      "rolle" : "Annie Wilkes",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Mädchen 1",
+      "sprecher" : "Katinka Körting"
+    },
+    {
+      "rolle" : "Mädchen 2",
+      "sprecher" : "Jacqueline Meybauer"
+    },
+    {
+      "rolle" : "Alter Mann",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Junger Mann",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Dick Perry",
+      "sprecher" : "Ernst H. Hilbich"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Miss Bennett",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Walter Bush",
+      "sprecher" : "Rolf E. Schenker"
+    },
+    {
+      "rolle" : "Ian Bush",
+      "sprecher" : "Sky du Mont, Lukas T. Sperber"
+    },
+    {
+      "rolle" : "Jimmy Sinclair",
+      "sprecher" : "Siegfried W. Kernen, Nils Noller"
+    },
+    {
+      "rolle" : "Charlie Parker",
+      "sprecher" : "Oliver Böttcher, Laurence Kalaidjian"
+    },
+    {
+      "rolle" : "Brianna Jackson",
+      "sprecher" : "Hansi Jochmann, Natalie Demtrøder"
+    },
+    {
+      "rolle" : "Chloe Smathers",
+      "sprecher" : "Valerie Demtrøder"
+    },
+    {
+      "rolle" : "Joseph Quick",
+      "sprecher" : "Harry Rowohlt"
+    },
+    {
+      "rolle" : "Mr. Raynes",
+      "sprecher" : "Olaf Kreutzenbeck"
+    },
+    {
+      "rolle" : "Jeff White",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Bedienung",
+      "sprecher" : "Tim Wenderoth"
+    },
+    {
+      "rolle" : "Gast 2",
+      "sprecher" : "Andreas Otto"
+    },
+    {
+      "rolle" : "Sekretärin",
+      "sprecher" : "Corinna Wodrich"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music49/v4/9a/dd/ec/9addece3-1886-3728-fd48-67a93c04e5f0/886445749281.jpg"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Cola",
+          "start" : 0,
+          "end" : 249733
+        },
+        {
+          "titel" : "Bleiche Fratze",
+          "start" : 249733,
+          "end" : 518160
+        },
+        {
+          "titel" : "Sammlerstück",
+          "start" : 518160,
+          "end" : 743333
+        },
+        {
+          "titel" : "Dunkle Erinnerung",
+          "start" : 743333,
+          "end" : 1150133
+        },
+        {
+          "titel" : "Eine Straße in Angst",
+          "start" : 1150133,
+          "end" : 1828053
+        },
+        {
+          "titel" : "Verfolgt",
+          "start" : 1828053,
+          "end" : 2374027
+        },
+        {
+          "titel" : "Kriegsrat",
+          "start" : 2374027,
+          "end" : 2635387
+        },
+        {
+          "titel" : "Unheimliche Begegnungen",
+          "start" : 2635387,
+          "end" : 3167667
+        },
+        {
+          "titel" : "Sturm",
+          "start" : 3167667,
+          "end" : 3467800
+        },
+        {
+          "titel" : "Eine heiße Spur",
+          "start" : 3467800,
+          "end" : 3850653
+        },
+        {
+          "titel" : "Wendepunkt",
+          "start" : 3850653,
+          "end" : 4188920
+        },
+        {
+          "titel" : "Der Fluch der Sheldon Street",
+          "start" : 4188920,
+          "end" : 4589640
+        },
+        {
+          "titel" : "Triumph",
+          "start" : 4589640,
+          "end" : 4757160
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Cola",
+          "start" : 0,
+          "end" : 262987
+        },
+        {
+          "titel" : "Papierdrachen",
+          "start" : 262987,
+          "end" : 490387
+        },
+        {
+          "titel" : "Außerirdische",
+          "start" : 490387,
+          "end" : 801680
+        },
+        {
+          "titel" : "Der Heilige Gral",
+          "start" : 801680,
+          "end" : 1008107
+        },
+        {
+          "titel" : "Freitag, der 13.",
+          "start" : 1008107,
+          "end" : 1488693
+        },
+        {
+          "titel" : "3 × 9 = 27",
+          "start" : 1488693,
+          "end" : 1719373
+        },
+        {
+          "titel" : "Blamiert",
+          "start" : 1719373,
+          "end" : 1958373
+        },
+        {
+          "titel" : "Jesper",
+          "start" : 1958373,
+          "end" : 2380533
+        },
+        {
+          "titel" : "Exklusivrechte",
+          "start" : 2380533,
+          "end" : 2786640
+        },
+        {
+          "titel" : "Cliffhanger",
+          "start" : 2786640,
+          "end" : 3126560
+        },
+        {
+          "titel" : "Film ab!",
+          "start" : 3126560,
+          "end" : 3353253
+        },
+        {
+          "titel" : "Rote Farbe",
+          "start" : 3353253,
+          "end" : 3904933
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Die Cola",
+          "start" : 0,
+          "end" : 231413
+        },
+        {
+          "titel" : "Du hast noch nicht einmal gefragt!",
+          "start" : 231413,
+          "end" : 560493
+        },
+        {
+          "titel" : "Du bist doch verliebt, Peter!",
+          "start" : 560493,
+          "end" : 750533
+        },
+        {
+          "titel" : "Das Geschäft des Monats!",
+          "start" : 750533,
+          "end" : 1009533
+        },
+        {
+          "titel" : "Mein Name ist Peter!",
+          "start" : 1009533,
+          "end" : 1371053
+        },
+        {
+          "titel" : "Der Brief wurde abgegeben!",
+          "start" : 1371053,
+          "end" : 1580600
+        },
+        {
+          "titel" : "Auf den Novalux-Projektor!",
+          "start" : 1580600,
+          "end" : 1942960
+        },
+        {
+          "titel" : "Das bin ich dir schuldig!",
+          "start" : 1942960,
+          "end" : 2201400
+        },
+        {
+          "titel" : "Warum sollte ich das tun?",
+          "start" : 2201400,
+          "end" : 2382760
+        },
+        {
+          "titel" : "Hört ihr das nicht?",
+          "start" : 2382760,
+          "end" : 2814560
+        },
+        {
+          "titel" : "Nein, Bob! Die mag mich doch!",
+          "start" : 2814560,
+          "end" : 3104720
+        },
+        {
+          "titel" : "Aber genau das ist doch sehr seltsam!",
+          "start" : 3104720,
+          "end" : 3363200
+        },
+        {
+          "titel" : "Ein Zeichen?",
+          "start" : 3363200,
+          "end" : 3675013
+        },
+        {
+          "titel" : "Hier eine Sondermeldung!",
+          "start" : 3675013,
+          "end" : 3978200
+        },
+        {
+          "titel" : "Darf ich reinkommen?",
+          "start" : 3978200,
+          "end" : 4416000
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log3.txt"
+    }
+  ],
   "teile" : [
     {
       "teilNummer" : 1,
@@ -556,414 +965,5 @@
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt"
       }
     }
-  ],
-  "titel" : "und der dreiTag",
-  "hörspielskriptautor" : "André Minninger",
-  "beschreibung" : "Kann ein und derselbe Tag dreimal völlig unterschiedlich verlaufen? Kann ein unscheinbares Detail wie ein Colaglas darüber entscheiden, wie sich alle weiteren Geschehnisse entwickeln? Erlebe, wie Justus, Peter und Bob auf den unheimlichen Fluch der Sheldon Street, die mysteriösen Zeichen der Ritter stoßen und den bedrohlichen Fremden Freund stoßen – und zwar zeitgleich am selben Tag!\nDrei Geschichten von drei Autoren führen dich dreimal durch einen Tag, wie er unterschiedlicher nicht verlaufen könnte.",
-  "veröffentlichungsdatum" : "2010-10-01",
-  "sprechrollen" : [
-    {
-      "rolle" : "Erzähler",
-      "sprecher" : "Thomas Fritsch"
-    },
-    {
-      "rolle" : "Justus Jonas, Erster Detektiv",
-      "sprecher" : "Oliver Rohrbeck"
-    },
-    {
-      "rolle" : "Peter Shaw, Zweiter Detektiv",
-      "sprecher" : "Jens Wawrczeck"
-    },
-    {
-      "rolle" : "Bob Andrews, Recherchen und Archiv",
-      "sprecher" : "Andreas Fröhlich"
-    },
-    {
-      "rolle" : "Tante Mathilda",
-      "sprecher" : "Karin Lieneweg"
-    },
-    {
-      "rolle" : "Onkel Titus",
-      "sprecher" : "Andreas E. Beurmann",
-      "pseudonym" : "Hans Meinhardt"
-    },
-    {
-      "rolle" : "Inspektor Cotta",
-      "sprecher" : "Holger Mahlich"
-    },
-    {
-      "rolle" : "Officer Flann Doyle",
-      "sprecher" : "Douglas Welbat"
-    },
-    {
-      "rolle" : "Tanya Sullivan",
-      "sprecher" : "Marion Elskis"
-    },
-    {
-      "rolle" : "Sebastian Dawson",
-      "sprecher" : "Bastian Pastewka"
-    },
-    {
-      "rolle" : "Miss Tomkins",
-      "sprecher" : "Stephanie Damare"
-    },
-    {
-      "rolle" : "Mr. Foley",
-      "sprecher" : "Dirk Bach"
-    },
-    {
-      "rolle" : "John Gabbin",
-      "sprecher" : "Tobias Schmidt"
-    },
-    {
-      "rolle" : "Matthew Gabbin",
-      "sprecher" : "Jürgen Thormann"
-    },
-    {
-      "rolle" : "Georgina",
-      "sprecher" : "Maud Ackermann"
-    },
-    {
-      "rolle" : "Gil Renard",
-      "sprecher" : "Udo Schenk"
-    },
-    {
-      "rolle" : "Hedy Carlson",
-      "sprecher" : "Luise Helm"
-    },
-    {
-      "rolle" : "Steve",
-      "sprecher" : "Sascha Draeger"
-    },
-    {
-      "rolle" : "Jack",
-      "sprecher" : "Hendrik Buchna"
-    },
-    {
-      "rolle" : "Laury",
-      "sprecher" : "Rhea Harder-Vennewald"
-    },
-    {
-      "rolle" : "Gast 1",
-      "sprecher" : "Christian Senger"
-    },
-    {
-      "rolle" : "Fahrerin",
-      "sprecher" : "Corinna Wodrich"
-    },
-    {
-      "rolle" : "Radiosprecher",
-      "sprecher" : "Tobias Meister"
-    },
-    {
-      "rolle" : "Peter Foster",
-      "sprecher" : "Gerrit Schmidt-Foß"
-    },
-    {
-      "rolle" : "Mrs. Shaw",
-      "sprecher" : "Isabella Grothe"
-    },
-    {
-      "rolle" : "Annie Wilkes",
-      "sprecher" : "Regina Lemnitz"
-    },
-    {
-      "rolle" : "Mädchen 1",
-      "sprecher" : "Katinka Körting"
-    },
-    {
-      "rolle" : "Mädchen 2",
-      "sprecher" : "Jacqueline Meybauer"
-    },
-    {
-      "rolle" : "Alter Mann",
-      "sprecher" : "Jörg Gillner"
-    },
-    {
-      "rolle" : "Junger Mann",
-      "sprecher" : "Patrick Bach"
-    },
-    {
-      "rolle" : "Dick Perry",
-      "sprecher" : "Ernst H. Hilbich"
-    },
-    {
-      "rolle" : "Mr. Andrews",
-      "sprecher" : "Henry König"
-    },
-    {
-      "rolle" : "Miss Bennett",
-      "sprecher" : "Renate Pichler"
-    },
-    {
-      "rolle" : "Walter Bush",
-      "sprecher" : "Rolf E. Schenker"
-    },
-    {
-      "rolle" : "Ian Bush",
-      "sprecher" : "Sky du Mont, Lukas T. Sperber"
-    },
-    {
-      "rolle" : "Jimmy Sinclair",
-      "sprecher" : "Siegfried W. Kernen, Nils Noller"
-    },
-    {
-      "rolle" : "Charlie Parker",
-      "sprecher" : "Oliver Böttcher, Laurence Kalaidjian"
-    },
-    {
-      "rolle" : "Brianna Jackson",
-      "sprecher" : "Hansi Jochmann, Natalie Demtrøder"
-    },
-    {
-      "rolle" : "Chloe Smathers",
-      "sprecher" : "Valerie Demtrøder"
-    },
-    {
-      "rolle" : "Joseph Quick",
-      "sprecher" : "Harry Rowohlt"
-    },
-    {
-      "rolle" : "Mr. Raynes",
-      "sprecher" : "Olaf Kreutzenbeck"
-    },
-    {
-      "rolle" : "Jeff White",
-      "sprecher" : "Horst Naumann"
-    },
-    {
-      "rolle" : "Bedienung",
-      "sprecher" : "Tim Wenderoth"
-    },
-    {
-      "rolle" : "Gast 2",
-      "sprecher" : "Andreas Otto"
-    },
-    {
-      "rolle" : "Sekretärin",
-      "sprecher" : "Corinna Wodrich"
-    }
-  ],
-  "medien" : [
-    {
-      "tracks" : [
-        {
-          "titel" : "Die Cola",
-          "start" : 0,
-          "end" : 249733
-        },
-        {
-          "titel" : "Bleiche Fratze",
-          "start" : 249733,
-          "end" : 518160
-        },
-        {
-          "titel" : "Sammlerstück",
-          "start" : 518160,
-          "end" : 743333
-        },
-        {
-          "titel" : "Dunkle Erinnerung",
-          "start" : 743333,
-          "end" : 1150133
-        },
-        {
-          "titel" : "Eine Straße in Angst",
-          "start" : 1150133,
-          "end" : 1828053
-        },
-        {
-          "titel" : "Verfolgt",
-          "start" : 1828053,
-          "end" : 2374027
-        },
-        {
-          "titel" : "Kriegsrat",
-          "start" : 2374027,
-          "end" : 2635387
-        },
-        {
-          "titel" : "Unheimliche Begegnungen",
-          "start" : 2635387,
-          "end" : 3167667
-        },
-        {
-          "titel" : "Sturm",
-          "start" : 3167667,
-          "end" : 3467800
-        },
-        {
-          "titel" : "Eine heiße Spur",
-          "start" : 3467800,
-          "end" : 3850653
-        },
-        {
-          "titel" : "Wendepunkt",
-          "start" : 3850653,
-          "end" : 4188920
-        },
-        {
-          "titel" : "Der Fluch der Sheldon Street",
-          "start" : 4188920,
-          "end" : 4589640
-        },
-        {
-          "titel" : "Triumph",
-          "start" : 4589640,
-          "end" : 4757160
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log1.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Die Cola",
-          "start" : 0,
-          "end" : 262987
-        },
-        {
-          "titel" : "Papierdrachen",
-          "start" : 262987,
-          "end" : 490387
-        },
-        {
-          "titel" : "Außerirdische",
-          "start" : 490387,
-          "end" : 801680
-        },
-        {
-          "titel" : "Der Heilige Gral",
-          "start" : 801680,
-          "end" : 1008107
-        },
-        {
-          "titel" : "Freitag, der 13.",
-          "start" : 1008107,
-          "end" : 1488693
-        },
-        {
-          "titel" : "3 × 9 = 27",
-          "start" : 1488693,
-          "end" : 1719373
-        },
-        {
-          "titel" : "Blamiert",
-          "start" : 1719373,
-          "end" : 1958373
-        },
-        {
-          "titel" : "Jesper",
-          "start" : 1958373,
-          "end" : 2380533
-        },
-        {
-          "titel" : "Exklusivrechte",
-          "start" : 2380533,
-          "end" : 2786640
-        },
-        {
-          "titel" : "Cliffhanger",
-          "start" : 2786640,
-          "end" : 3126560
-        },
-        {
-          "titel" : "Film ab!",
-          "start" : 3126560,
-          "end" : 3353253
-        },
-        {
-          "titel" : "Rote Farbe",
-          "start" : 3353253,
-          "end" : 3904933
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log2.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Die Cola",
-          "start" : 0,
-          "end" : 231413
-        },
-        {
-          "titel" : "Du hast noch nicht einmal gefragt!",
-          "start" : 231413,
-          "end" : 560493
-        },
-        {
-          "titel" : "Du bist doch verliebt, Peter!",
-          "start" : 560493,
-          "end" : 750533
-        },
-        {
-          "titel" : "Das Geschäft des Monats!",
-          "start" : 750533,
-          "end" : 1009533
-        },
-        {
-          "titel" : "Mein Name ist Peter!",
-          "start" : 1009533,
-          "end" : 1371053
-        },
-        {
-          "titel" : "Der Brief wurde abgegeben!",
-          "start" : 1371053,
-          "end" : 1580600
-        },
-        {
-          "titel" : "Auf den Novalux-Projektor!",
-          "start" : 1580600,
-          "end" : 1942960
-        },
-        {
-          "titel" : "Das bin ich dir schuldig!",
-          "start" : 1942960,
-          "end" : 2201400
-        },
-        {
-          "titel" : "Warum sollte ich das tun?",
-          "start" : 2201400,
-          "end" : 2382760
-        },
-        {
-          "titel" : "Hört ihr das nicht?",
-          "start" : 2382760,
-          "end" : 2814560
-        },
-        {
-          "titel" : "Nein, Bob! Die mag mich doch!",
-          "start" : 2814560,
-          "end" : 3104720
-        },
-        {
-          "titel" : "Aber genau das ist doch sehr seltsam!",
-          "start" : 3104720,
-          "end" : 3363200
-        },
-        {
-          "titel" : "Ein Zeichen?",
-          "start" : 3363200,
-          "end" : 3675013
-        },
-        {
-          "titel" : "Hier eine Sondermeldung!",
-          "start" : 3675013,
-          "end" : 3978200
-        },
-        {
-          "titel" : "Darf ich reinkommen?",
-          "start" : 3978200,
-          "end" : 4416000
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/rip_log3.txt"
-    }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/metadata.json",
-    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music49/v4/9a/dd/ec/9addece3-1886-3728-fd48-67a93c04e5f0/886445749281.jpg"
-  }
+  ]
 }

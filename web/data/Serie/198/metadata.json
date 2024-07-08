@@ -125,6 +125,12 @@
       "sprecher" : "Birte Kretschmer"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/198/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/198/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/198/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music124/v4/74/0a/2c/740a2ce8-3761-7bd4-a2c2-93e39a1873ff/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -171,11 +177,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/198/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/198/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/198/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/198/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music124/v4/74/0a/2c/740a2ce8-3761-7bd4-a2c2-93e39a1873ff/source"
-  }
+  ]
 }

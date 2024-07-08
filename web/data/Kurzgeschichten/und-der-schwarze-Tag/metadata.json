@@ -1,4 +1,256 @@
 {
+  "titel" : "und der schwarze Tag",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.",
+  "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
+  "veröffentlichungsdatum" : "2018-10-28",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Helen",
+      "sprecher" : "Dorette Hugo",
+      "pseudonym" : "Balancinha Blanc"
+    },
+    {
+      "rolle" : "Ellen",
+      "sprecher" : "Dorette Hugo"
+    },
+    {
+      "rolle" : "Vater",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Michael Harck"
+    },
+    {
+      "rolle" : "Marc Kingstone",
+      "sprecher" : "Rainer Brandt"
+    },
+    {
+      "rolle" : "Aaron Kingstone",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Sarah",
+      "sprecher" : "Christiane Leuchtmann"
+    },
+    {
+      "rolle" : "Albert",
+      "sprecher" : "Franzisko Löwe"
+    },
+    {
+      "rolle" : "Kelly Madigan",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Mrs. McGee",
+      "sprecher" : "Alice Krimmel"
+    },
+    {
+      "rolle" : "Toby",
+      "sprecher" : "A. Stengelin"
+    },
+    {
+      "rolle" : "Mrs. Wells",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Junge",
+      "sprecher" : "Linus Tauber"
+    },
+    {
+      "rolle" : "Mädchen",
+      "sprecher" : "Katinka Jaekel"
+    },
+    {
+      "rolle" : "Ericsson",
+      "sprecher" : "Detlef Tams"
+    },
+    {
+      "rolle" : "Sprecher/Moderator",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Tarek Shabana",
+      "sprecher" : "Werner Wilkening"
+    },
+    {
+      "rolle" : "Tasha",
+      "sprecher" : "Victoria Zöller"
+    },
+    {
+      "rolle" : "Domino Laverna",
+      "sprecher" : "Sabine Hahn"
+    },
+    {
+      "rolle" : "Biff Rodgers, Reporter",
+      "sprecher" : "Daniel Schütter"
+    },
+    {
+      "rolle" : "Lesley Dimple",
+      "sprecher" : "Ann Montenbruck"
+    },
+    {
+      "rolle" : "Zeus Zenon Johnson",
+      "sprecher" : "Michael Prelle"
+    },
+    {
+      "rolle" : "Computer",
+      "sprecher" : "Peter Bayer"
+    },
+    {
+      "rolle" : "Off-Sprecher",
+      "sprecher" : "Frank Roder"
+    },
+    {
+      "rolle" : "Sprecher",
+      "sprecher" : "Andreas Birnbaum"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Pamela Punti"
+    },
+    {
+      "rolle" : "Kassiererin",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/cover.png"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Das schwarze Verlies – Gefesselt",
+          "start" : 0,
+          "end" : 826640
+        },
+        {
+          "titel" : "Das schwarze Verlies – Betäubt",
+          "start" : 826640,
+          "end" : 1316773
+        },
+        {
+          "titel" : "Das schwarze Verlies – Verrostet",
+          "start" : 1316773,
+          "end" : 2240920
+        },
+        {
+          "titel" : "Schwarze Seelen – Ohne Gewissen",
+          "start" : 2240920,
+          "end" : 2886080
+        },
+        {
+          "titel" : "Schwarze Seelen – Ohne Rücksicht",
+          "start" : 2886080,
+          "end" : 3590293
+        },
+        {
+          "titel" : "Schwarze Seelen – Ohne Reue",
+          "start" : 3590293,
+          "end" : 4096840
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein schwarzer Tag für Mr. Kingstone – Unverschämter Kerl",
+          "start" : 0,
+          "end" : 526840
+        },
+        {
+          "titel" : "Ein schwarzer Tag für Mr. Kingstone – Dunkelrestaurant",
+          "start" : 526840,
+          "end" : 1199413
+        },
+        {
+          "titel" : "Ein schwarzer Tag für Mr. Kingstone – Kontaktschranke",
+          "start" : 1199413,
+          "end" : 1889653
+        },
+        {
+          "titel" : "Wer hat Angst vorm Schwarzen Mann – Albtraum?",
+          "start" : 1889653,
+          "end" : 2490707
+        },
+        {
+          "titel" : "Wer hat Angst vorm Schwarzen Mann – Das Herz von Afrika",
+          "start" : 2490707,
+          "end" : 3139773
+        },
+        {
+          "titel" : "Wer hat Angst vorm Schwarzen Mann – Lasso-Künste",
+          "start" : 3139773,
+          "end" : 3657040
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Die schwarze PhantOma – Wasserdichte Alibis",
+          "start" : 0,
+          "end" : 828067
+        },
+        {
+          "titel" : "Die schwarze PhantOma – Kriminelle Abwege",
+          "start" : 828067,
+          "end" : 1373493
+        },
+        {
+          "titel" : "Die schwarze PhantOma – Tägliches Training",
+          "start" : 1373493,
+          "end" : 2256800
+        },
+        {
+          "titel" : "Das schwarze Nest – Grabesstille",
+          "start" : 2256800,
+          "end" : 2804213
+        },
+        {
+          "titel" : "Das schwarze Nest – Demokratische Abstimmung",
+          "start" : 2804213,
+          "end" : 3297213
+        },
+        {
+          "titel" : "Das schwarze Nest – Fall gelöst",
+          "start" : 3297213,
+          "end" : 3975307
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log3.txt"
+    }
+  ],
   "teile" : [
     {
       "teilNummer" : 1,
@@ -396,257 +648,5 @@
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/6/ffmetadata.txt"
       }
     }
-  ],
-  "titel" : "und der schwarze Tag",
-  "hörspielskriptautor" : "André Minninger",
-  "beschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.",
-  "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
-  "veröffentlichungsdatum" : "2018-10-28",
-  "sprechrollen" : [
-    {
-      "rolle" : "Erzähler",
-      "sprecher" : "Axel Milberg"
-    },
-    {
-      "rolle" : "Justus Jonas, Erster Detektiv",
-      "sprecher" : "Oliver Rohrbeck"
-    },
-    {
-      "rolle" : "Peter Shaw, Zweiter Detektiv",
-      "sprecher" : "Jens Wawrczeck"
-    },
-    {
-      "rolle" : "Bob Andrews, Recherchen und Archiv",
-      "sprecher" : "Andreas Fröhlich"
-    },
-    {
-      "rolle" : "Helen",
-      "sprecher" : "Dorette Hugo",
-      "pseudonym" : "Balancinha Blanc"
-    },
-    {
-      "rolle" : "Ellen",
-      "sprecher" : "Dorette Hugo"
-    },
-    {
-      "rolle" : "Vater",
-      "sprecher" : "Douglas Welbat"
-    },
-    {
-      "rolle" : "Tante Mathilda",
-      "sprecher" : "Karin Lieneweg"
-    },
-    {
-      "rolle" : "Skinny Norris",
-      "sprecher" : "Michael Harck"
-    },
-    {
-      "rolle" : "Marc Kingstone",
-      "sprecher" : "Rainer Brandt"
-    },
-    {
-      "rolle" : "Aaron Kingstone",
-      "sprecher" : "Tommi Piper"
-    },
-    {
-      "rolle" : "Sarah",
-      "sprecher" : "Christiane Leuchtmann"
-    },
-    {
-      "rolle" : "Albert",
-      "sprecher" : "Franzisko Löwe"
-    },
-    {
-      "rolle" : "Kelly Madigan",
-      "sprecher" : "Juliane Szalay"
-    },
-    {
-      "rolle" : "Mrs. McGee",
-      "sprecher" : "Alice Krimmel"
-    },
-    {
-      "rolle" : "Toby",
-      "sprecher" : "A. Stengelin"
-    },
-    {
-      "rolle" : "Mrs. Wells",
-      "sprecher" : "Heidi Schaffrath"
-    },
-    {
-      "rolle" : "Junge",
-      "sprecher" : "Linus Tauber"
-    },
-    {
-      "rolle" : "Mädchen",
-      "sprecher" : "Katinka Jaekel"
-    },
-    {
-      "rolle" : "Ericsson",
-      "sprecher" : "Detlef Tams"
-    },
-    {
-      "rolle" : "Sprecher/Moderator",
-      "sprecher" : "Oliver Böttcher"
-    },
-    {
-      "rolle" : "Tarek Shabana",
-      "sprecher" : "Werner Wilkening"
-    },
-    {
-      "rolle" : "Tasha",
-      "sprecher" : "Victoria Zöller"
-    },
-    {
-      "rolle" : "Domino Laverna",
-      "sprecher" : "Sabine Hahn"
-    },
-    {
-      "rolle" : "Biff Rodgers, Reporter",
-      "sprecher" : "Daniel Schütter"
-    },
-    {
-      "rolle" : "Lesley Dimple",
-      "sprecher" : "Ann Montenbruck"
-    },
-    {
-      "rolle" : "Zeus Zenon Johnson",
-      "sprecher" : "Michael Prelle"
-    },
-    {
-      "rolle" : "Computer",
-      "sprecher" : "Peter Bayer"
-    },
-    {
-      "rolle" : "Off-Sprecher",
-      "sprecher" : "Frank Roder"
-    },
-    {
-      "rolle" : "Sprecher",
-      "sprecher" : "Andreas Birnbaum"
-    },
-    {
-      "rolle" : "Blacky",
-      "sprecher" : "Heikedine Körting",
-      "pseudonym" : "Pamela Punti"
-    },
-    {
-      "rolle" : "Kassiererin",
-      "sprecher" : "Angela Stresemann"
-    },
-    {
-      "rolle" : "Inspektor Cotta",
-      "sprecher" : "Holger Mahlich"
-    }
-  ],
-  "medien" : [
-    {
-      "tracks" : [
-        {
-          "titel" : "Das schwarze Verlies – Gefesselt",
-          "start" : 0,
-          "end" : 826640
-        },
-        {
-          "titel" : "Das schwarze Verlies – Betäubt",
-          "start" : 826640,
-          "end" : 1316773
-        },
-        {
-          "titel" : "Das schwarze Verlies – Verrostet",
-          "start" : 1316773,
-          "end" : 2240920
-        },
-        {
-          "titel" : "Schwarze Seelen – Ohne Gewissen",
-          "start" : 2240920,
-          "end" : 2886080
-        },
-        {
-          "titel" : "Schwarze Seelen – Ohne Rücksicht",
-          "start" : 2886080,
-          "end" : 3590293
-        },
-        {
-          "titel" : "Schwarze Seelen – Ohne Reue",
-          "start" : 3590293,
-          "end" : 4096840
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log1.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Ein schwarzer Tag für Mr. Kingstone – Unverschämter Kerl",
-          "start" : 0,
-          "end" : 526840
-        },
-        {
-          "titel" : "Ein schwarzer Tag für Mr. Kingstone – Dunkelrestaurant",
-          "start" : 526840,
-          "end" : 1199413
-        },
-        {
-          "titel" : "Ein schwarzer Tag für Mr. Kingstone – Kontaktschranke",
-          "start" : 1199413,
-          "end" : 1889653
-        },
-        {
-          "titel" : "Wer hat Angst vorm Schwarzen Mann – Albtraum?",
-          "start" : 1889653,
-          "end" : 2490707
-        },
-        {
-          "titel" : "Wer hat Angst vorm Schwarzen Mann – Das Herz von Afrika",
-          "start" : 2490707,
-          "end" : 3139773
-        },
-        {
-          "titel" : "Wer hat Angst vorm Schwarzen Mann – Lasso-Künste",
-          "start" : 3139773,
-          "end" : 3657040
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log2.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Die schwarze PhantOma – Wasserdichte Alibis",
-          "start" : 0,
-          "end" : 828067
-        },
-        {
-          "titel" : "Die schwarze PhantOma – Kriminelle Abwege",
-          "start" : 828067,
-          "end" : 1373493
-        },
-        {
-          "titel" : "Die schwarze PhantOma – Tägliches Training",
-          "start" : 1373493,
-          "end" : 2256800
-        },
-        {
-          "titel" : "Das schwarze Nest – Grabesstille",
-          "start" : 2256800,
-          "end" : 2804213
-        },
-        {
-          "titel" : "Das schwarze Nest – Demokratische Abstimmung",
-          "start" : 2804213,
-          "end" : 3297213
-        },
-        {
-          "titel" : "Das schwarze Nest – Fall gelöst",
-          "start" : 3297213,
-          "end" : 3975307
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log3.txt"
-    }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/metadata.json",
-    "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/cover.png"
-  }
+  ]
 }

@@ -2,6 +2,344 @@
   "die_dr3i" : [
     {
       "nummer" : -1,
+      "titel" : "Hotel Luxury End",
+      "autor" : "Ivar Leon Menger",
+      "hörspielskriptautor" : "Ivar Leon Menger",
+      "beschreibung" : "Eine Nacht in einem Luxushotel, direkt an der malerischen Steilküste Nordkaliforniens? Normalerweise ein Grund zur Freude. Doch nicht für Jupiter, Peter und Bob! Denn Die Dr3i müssen um ihr Leben fürchten! Und das, obwohl das unheimliche Hotel vollkommen menschenleer ist …",
+      "metabeschreibung" : "Erlebe das erste interaktive Hörspiel mit Jupiter Jones, Peter Crenshaw und Bob Andrews! Mit einem Knopfdruck auf deinem CD-Player kannst du mitbestimmen, welche Lösungswege die drei Detektive bei diesem mysteriösen Abenteuer einschlagen sollen.\nAuf 2 CDs erwarten dich viele ungelöste Rätsel und Geheimnisse, sowie 16 alternative Enden!",
+      "veröffentlichungsdatum" : "2006-11-24",
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Jupiter Jones",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Crenshaw",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda Jones",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Mr. Overlook",
+          "sprecher" : "Joachim Kerzel"
+        },
+        {
+          "rolle" : "Portier Stanley",
+          "sprecher" : "Lutz Mackensy"
+        },
+        {
+          "rolle" : "Liftboy Jack",
+          "sprecher" : "Jan-David Rönfeldt"
+        },
+        {
+          "rolle" : "Barkeeper Lloyd",
+          "sprecher" : "Roman Kretschmer"
+        },
+        {
+          "rolle" : "Mr. Torrance",
+          "sprecher" : "Holger Löwenberg"
+        },
+        {
+          "rolle" : "Mrs. Torrance",
+          "sprecher" : "Katja Brügger"
+        },
+        {
+          "rolle" : "Shelley Torrance",
+          "sprecher" : "Saskia Weckler"
+        },
+        {
+          "rolle" : "Stuart",
+          "sprecher" : "Nicolas König"
+        },
+        {
+          "rolle" : "Danny",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Police Officer",
+          "sprecher" : "Jürgen Thormann"
+        },
+        {
+          "rolle" : "Nachrichtensprecher",
+          "sprecher" : "Bernd Klose"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/cover.png"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Intro",
+              "start" : 0,
+              "end" : 127747
+            },
+            {
+              "titel" : "Ankunft Hotel",
+              "start" : 127747,
+              "end" : 680947
+            },
+            {
+              "titel" : "Entscheidung: Zimmer oder Restaurant",
+              "start" : 680947,
+              "end" : 744707
+            },
+            {
+              "titel" : "Zimmer",
+              "start" : 744707,
+              "end" : 932960
+            },
+            {
+              "titel" : "Entscheidung: Tür offen oder Klimaanlage",
+              "start" : 932960,
+              "end" : 1007760
+            },
+            {
+              "titel" : "Tür offen",
+              "start" : 1007760,
+              "end" : 1165333
+            },
+            {
+              "titel" : "Entscheidung: Tür schließen oder Flur",
+              "start" : 1165333,
+              "end" : 1211827
+            },
+            {
+              "titel" : "Tür schließen",
+              "start" : 1211827,
+              "end" : 1412120
+            },
+            {
+              "titel" : "Entscheidung: Mr. Stanley oder Auto holen",
+              "start" : 1412120,
+              "end" : 1457520
+            },
+            {
+              "titel" : "Mr. Stanley",
+              "start" : 1457520,
+              "end" : 1694933
+            },
+            {
+              "titel" : "Auto holen",
+              "start" : 1694933,
+              "end" : 1915213
+            },
+            {
+              "titel" : "Flur",
+              "start" : 1915213,
+              "end" : 2061227
+            },
+            {
+              "titel" : "Entscheidung: Flucht oder Ausrede",
+              "start" : 2061227,
+              "end" : 2104347
+            },
+            {
+              "titel" : "Flucht",
+              "start" : 2104347,
+              "end" : 2354680
+            },
+            {
+              "titel" : "Ausrede",
+              "start" : 2354680,
+              "end" : 2578267
+            },
+            {
+              "titel" : "Klimaanlage",
+              "start" : 2578267,
+              "end" : 2864440
+            },
+            {
+              "titel" : "Entscheidung: Annehmen oder Ablehnen",
+              "start" : 2864440,
+              "end" : 2916507
+            },
+            {
+              "titel" : "Annehmen",
+              "start" : 2916507,
+              "end" : 3054173
+            },
+            {
+              "titel" : "Entscheidung: Essen oder Auflegen",
+              "start" : 3054173,
+              "end" : 3127520
+            },
+            {
+              "titel" : "Essen",
+              "start" : 3127520,
+              "end" : 3315400
+            },
+            {
+              "titel" : "Auflegen",
+              "start" : 3315400,
+              "end" : 3603307
+            },
+            {
+              "titel" : "Ablehnen",
+              "start" : 3603307,
+              "end" : 3721707
+            },
+            {
+              "titel" : "Entscheidung: Befreien oder Fragen stellen",
+              "start" : 3721707,
+              "end" : 3806013
+            },
+            {
+              "titel" : "Befreien",
+              "start" : 3806013,
+              "end" : 4062120
+            },
+            {
+              "titel" : "Fragen stellen",
+              "start" : 4062120,
+              "end" : 4302080
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Intro",
+              "start" : 0,
+              "end" : 118600
+            },
+            {
+              "titel" : "Ankunft Hotel",
+              "start" : 118600,
+              "end" : 630147
+            },
+            {
+              "titel" : "Entscheidung: Zimmer oder Restaurant",
+              "start" : 630147,
+              "end" : 690733
+            },
+            {
+              "titel" : "Restaurant",
+              "start" : 690733,
+              "end" : 932747
+            },
+            {
+              "titel" : "Entscheidung: Gästebuch oder Sachen holen",
+              "start" : 932747,
+              "end" : 1024293
+            },
+            {
+              "titel" : "Gästebuch",
+              "start" : 1024293,
+              "end" : 1166507
+            },
+            {
+              "titel" : "Entscheidung: Zimmer 113 oder Flucht",
+              "start" : 1166507,
+              "end" : 1233293
+            },
+            {
+              "titel" : "Zimmer 113",
+              "start" : 1233293,
+              "end" : 1458520
+            },
+            {
+              "titel" : "Entscheidung: Verstecken oder Polizei",
+              "start" : 1458520,
+              "end" : 1523587
+            },
+            {
+              "titel" : "Verstecken",
+              "start" : 1523587,
+              "end" : 1716960
+            },
+            {
+              "titel" : "Polizei",
+              "start" : 1716960,
+              "end" : 1917160
+            },
+            {
+              "titel" : "Flucht",
+              "start" : 1917160,
+              "end" : 2191253
+            },
+            {
+              "titel" : "Entscheidung: Laufen oder Ausleihen",
+              "start" : 2191253,
+              "end" : 2239787
+            },
+            {
+              "titel" : "Laufen",
+              "start" : 2239787,
+              "end" : 2462373
+            },
+            {
+              "titel" : "Ausleihen",
+              "start" : 2462373,
+              "end" : 2759013
+            },
+            {
+              "titel" : "Sachen holen",
+              "start" : 2759013,
+              "end" : 2967867
+            },
+            {
+              "titel" : "Entscheidung: 7. Stock oder Zimmer",
+              "start" : 2967867,
+              "end" : 3029867
+            },
+            {
+              "titel" : "7. Stock",
+              "start" : 3029867,
+              "end" : 3107373
+            },
+            {
+              "titel" : "Entscheidung: Hilferuf oder Autoschlüssel",
+              "start" : 3107373,
+              "end" : 3169533
+            },
+            {
+              "titel" : "Hilferuf",
+              "start" : 3169533,
+              "end" : 3486840
+            },
+            {
+              "titel" : "Autoschlüssel",
+              "start" : 3486840,
+              "end" : 3694973
+            },
+            {
+              "titel" : "Zimmer",
+              "start" : 3694973,
+              "end" : 4080360
+            },
+            {
+              "titel" : "Entscheidung: Wecken oder KO schlagen",
+              "start" : 4080360,
+              "end" : 4179547
+            },
+            {
+              "titel" : "Wecken",
+              "start" : 4179547,
+              "end" : 4638867
+            },
+            {
+              "titel" : "KO schlagen",
+              "start" : 4638867,
+              "end" : 4828320
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/rip_log2.txt"
+        }
+      ],
       "teile" : [
         {
           "teilNummer" : 1,
@@ -281,345 +619,7 @@
             "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/cover.png"
           }
         }
-      ],
-      "titel" : "Hotel Luxury End",
-      "autor" : "Ivar Leon Menger",
-      "hörspielskriptautor" : "Ivar Leon Menger",
-      "beschreibung" : "Eine Nacht in einem Luxushotel, direkt an der malerischen Steilküste Nordkaliforniens? Normalerweise ein Grund zur Freude. Doch nicht für Jupiter, Peter und Bob! Denn Die Dr3i müssen um ihr Leben fürchten! Und das, obwohl das unheimliche Hotel vollkommen menschenleer ist …",
-      "metabeschreibung" : "Erlebe das erste interaktive Hörspiel mit Jupiter Jones, Peter Crenshaw und Bob Andrews! Mit einem Knopfdruck auf deinem CD-Player kannst du mitbestimmen, welche Lösungswege die drei Detektive bei diesem mysteriösen Abenteuer einschlagen sollen.\nAuf 2 CDs erwarten dich viele ungelöste Rätsel und Geheimnisse, sowie 16 alternative Enden!",
-      "veröffentlichungsdatum" : "2006-11-24",
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
-        },
-        {
-          "rolle" : "Jupiter Jones",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Crenshaw",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Tante Mathilda Jones",
-          "sprecher" : "Karin Lieneweg"
-        },
-        {
-          "rolle" : "Mr. Overlook",
-          "sprecher" : "Joachim Kerzel"
-        },
-        {
-          "rolle" : "Portier Stanley",
-          "sprecher" : "Lutz Mackensy"
-        },
-        {
-          "rolle" : "Liftboy Jack",
-          "sprecher" : "Jan-David Rönfeldt"
-        },
-        {
-          "rolle" : "Barkeeper Lloyd",
-          "sprecher" : "Roman Kretschmer"
-        },
-        {
-          "rolle" : "Mr. Torrance",
-          "sprecher" : "Holger Löwenberg"
-        },
-        {
-          "rolle" : "Mrs. Torrance",
-          "sprecher" : "Katja Brügger"
-        },
-        {
-          "rolle" : "Shelley Torrance",
-          "sprecher" : "Saskia Weckler"
-        },
-        {
-          "rolle" : "Stuart",
-          "sprecher" : "Nicolas König"
-        },
-        {
-          "rolle" : "Danny",
-          "sprecher" : "Patrick Bach"
-        },
-        {
-          "rolle" : "Police Officer",
-          "sprecher" : "Jürgen Thormann"
-        },
-        {
-          "rolle" : "Nachrichtensprecher",
-          "sprecher" : "Bernd Klose"
-        }
-      ],
-      "medien" : [
-        {
-          "tracks" : [
-            {
-              "titel" : "Intro",
-              "start" : 0,
-              "end" : 127747
-            },
-            {
-              "titel" : "Ankunft Hotel",
-              "start" : 127747,
-              "end" : 680947
-            },
-            {
-              "titel" : "Entscheidung: Zimmer oder Restaurant",
-              "start" : 680947,
-              "end" : 744707
-            },
-            {
-              "titel" : "Zimmer",
-              "start" : 744707,
-              "end" : 932960
-            },
-            {
-              "titel" : "Entscheidung: Tür offen oder Klimaanlage",
-              "start" : 932960,
-              "end" : 1007760
-            },
-            {
-              "titel" : "Tür offen",
-              "start" : 1007760,
-              "end" : 1165333
-            },
-            {
-              "titel" : "Entscheidung: Tür schließen oder Flur",
-              "start" : 1165333,
-              "end" : 1211827
-            },
-            {
-              "titel" : "Tür schließen",
-              "start" : 1211827,
-              "end" : 1412120
-            },
-            {
-              "titel" : "Entscheidung: Mr. Stanley oder Auto holen",
-              "start" : 1412120,
-              "end" : 1457520
-            },
-            {
-              "titel" : "Mr. Stanley",
-              "start" : 1457520,
-              "end" : 1694933
-            },
-            {
-              "titel" : "Auto holen",
-              "start" : 1694933,
-              "end" : 1915213
-            },
-            {
-              "titel" : "Flur",
-              "start" : 1915213,
-              "end" : 2061227
-            },
-            {
-              "titel" : "Entscheidung: Flucht oder Ausrede",
-              "start" : 2061227,
-              "end" : 2104347
-            },
-            {
-              "titel" : "Flucht",
-              "start" : 2104347,
-              "end" : 2354680
-            },
-            {
-              "titel" : "Ausrede",
-              "start" : 2354680,
-              "end" : 2578267
-            },
-            {
-              "titel" : "Klimaanlage",
-              "start" : 2578267,
-              "end" : 2864440
-            },
-            {
-              "titel" : "Entscheidung: Annehmen oder Ablehnen",
-              "start" : 2864440,
-              "end" : 2916507
-            },
-            {
-              "titel" : "Annehmen",
-              "start" : 2916507,
-              "end" : 3054173
-            },
-            {
-              "titel" : "Entscheidung: Essen oder Auflegen",
-              "start" : 3054173,
-              "end" : 3127520
-            },
-            {
-              "titel" : "Essen",
-              "start" : 3127520,
-              "end" : 3315400
-            },
-            {
-              "titel" : "Auflegen",
-              "start" : 3315400,
-              "end" : 3603307
-            },
-            {
-              "titel" : "Ablehnen",
-              "start" : 3603307,
-              "end" : 3721707
-            },
-            {
-              "titel" : "Entscheidung: Befreien oder Fragen stellen",
-              "start" : 3721707,
-              "end" : 3806013
-            },
-            {
-              "titel" : "Befreien",
-              "start" : 3806013,
-              "end" : 4062120
-            },
-            {
-              "titel" : "Fragen stellen",
-              "start" : 4062120,
-              "end" : 4302080
-            }
-          ],
-          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/rip_log1.txt"
-        },
-        {
-          "tracks" : [
-            {
-              "titel" : "Intro",
-              "start" : 0,
-              "end" : 118600
-            },
-            {
-              "titel" : "Ankunft Hotel",
-              "start" : 118600,
-              "end" : 630147
-            },
-            {
-              "titel" : "Entscheidung: Zimmer oder Restaurant",
-              "start" : 630147,
-              "end" : 690733
-            },
-            {
-              "titel" : "Restaurant",
-              "start" : 690733,
-              "end" : 932747
-            },
-            {
-              "titel" : "Entscheidung: Gästebuch oder Sachen holen",
-              "start" : 932747,
-              "end" : 1024293
-            },
-            {
-              "titel" : "Gästebuch",
-              "start" : 1024293,
-              "end" : 1166507
-            },
-            {
-              "titel" : "Entscheidung: Zimmer 113 oder Flucht",
-              "start" : 1166507,
-              "end" : 1233293
-            },
-            {
-              "titel" : "Zimmer 113",
-              "start" : 1233293,
-              "end" : 1458520
-            },
-            {
-              "titel" : "Entscheidung: Verstecken oder Polizei",
-              "start" : 1458520,
-              "end" : 1523587
-            },
-            {
-              "titel" : "Verstecken",
-              "start" : 1523587,
-              "end" : 1716960
-            },
-            {
-              "titel" : "Polizei",
-              "start" : 1716960,
-              "end" : 1917160
-            },
-            {
-              "titel" : "Flucht",
-              "start" : 1917160,
-              "end" : 2191253
-            },
-            {
-              "titel" : "Entscheidung: Laufen oder Ausleihen",
-              "start" : 2191253,
-              "end" : 2239787
-            },
-            {
-              "titel" : "Laufen",
-              "start" : 2239787,
-              "end" : 2462373
-            },
-            {
-              "titel" : "Ausleihen",
-              "start" : 2462373,
-              "end" : 2759013
-            },
-            {
-              "titel" : "Sachen holen",
-              "start" : 2759013,
-              "end" : 2967867
-            },
-            {
-              "titel" : "Entscheidung: 7. Stock oder Zimmer",
-              "start" : 2967867,
-              "end" : 3029867
-            },
-            {
-              "titel" : "7. Stock",
-              "start" : 3029867,
-              "end" : 3107373
-            },
-            {
-              "titel" : "Entscheidung: Hilferuf oder Autoschlüssel",
-              "start" : 3107373,
-              "end" : 3169533
-            },
-            {
-              "titel" : "Hilferuf",
-              "start" : 3169533,
-              "end" : 3486840
-            },
-            {
-              "titel" : "Autoschlüssel",
-              "start" : 3486840,
-              "end" : 3694973
-            },
-            {
-              "titel" : "Zimmer",
-              "start" : 3694973,
-              "end" : 4080360
-            },
-            {
-              "titel" : "Entscheidung: Wecken oder KO schlagen",
-              "start" : 4080360,
-              "end" : 4179547
-            },
-            {
-              "titel" : "Wecken",
-              "start" : 4179547,
-              "end" : 4638867
-            },
-            {
-              "titel" : "KO schlagen",
-              "start" : 4638867,
-              "end" : 4828320
-            }
-          ],
-          "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/rip_log2.txt"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/metadata.json",
-        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/cover.png"
-      }
+      ]
     },
     {
       "nummer" : 1,
@@ -822,6 +822,11 @@
           "sprecher" : "Lutz Schnell"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/1/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/1/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
@@ -963,12 +968,7 @@
           ],
           "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/rip_log2.txt"
         }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/1/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/1/cover.png"
-      }
+      ]
     },
     {
       "nummer" : 2,
@@ -1093,6 +1093,11 @@
           "sprecher" : "André Minninger"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/2/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/2/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/2/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
@@ -1159,12 +1164,7 @@
           ],
           "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/2/rip_log.txt"
         }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/DiE_DR3i/2/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/2/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/2/cover.png"
-      }
+      ]
     },
     {
       "nummer" : 3,
@@ -1286,6 +1286,11 @@
           "sprecher" : "Patrick Bach"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/3/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/3/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/3/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
@@ -1357,12 +1362,7 @@
           ],
           "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/3/rip_log.txt"
         }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/DiE_DR3i/3/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/3/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/3/cover.png"
-      }
+      ]
     },
     {
       "nummer" : 4,
@@ -1487,6 +1487,11 @@
           "sprecher" : "Fabian Harloff"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/4/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/4/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/4/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
@@ -1548,12 +1553,7 @@
           ],
           "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/4/rip_log.txt"
         }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/DiE_DR3i/4/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/4/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/4/cover.png"
-      }
+      ]
     },
     {
       "nummer" : 5,
@@ -1661,6 +1661,11 @@
           "sprecher" : "Karl-Friedrich Gerster"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/5/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/5/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/5/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
@@ -1722,12 +1727,7 @@
           ],
           "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/5/rip_log.txt"
         }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/DiE_DR3i/5/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/5/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/5/cover.png"
-      }
+      ]
     },
     {
       "nummer" : 6,
@@ -1834,6 +1834,11 @@
           "sprecher" : "Dirk Bach"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/6/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/6/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/6/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
@@ -1890,12 +1895,7 @@
           ],
           "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/6/rip_log.txt"
         }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/DiE_DR3i/6/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/6/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/6/cover.png"
-      }
+      ]
     },
     {
       "nummer" : 7,
@@ -2019,6 +2019,11 @@
           "sprecher" : "Tim Wenderoth"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/7/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/7/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/7/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
@@ -2075,12 +2080,7 @@
           ],
           "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/7/rip_log.txt"
         }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/DiE_DR3i/7/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/7/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/7/cover.png"
-      }
+      ]
     },
     {
       "nummer" : 8,
@@ -2193,6 +2193,11 @@
           "sprecher" : "Stephanie Damare"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/DiE_DR3i/8/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/8/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/8/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
@@ -2239,12 +2244,7 @@
           ],
           "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/8/rip_log.txt"
         }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/DiE_DR3i/8/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/8/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/8/cover.png"
-      }
+      ]
     }
   ]
 }

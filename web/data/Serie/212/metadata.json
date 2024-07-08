@@ -96,6 +96,12 @@
       "sprecher" : "Achim Schülke"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/212/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/212/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/212/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music125/v4/92/05/66/92056605-b0d2-8a87-f9e9-50b15cb8d847/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -137,11 +143,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/212/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/212/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/212/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/212/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music125/v4/92/05/66/92056605-b0d2-8a87-f9e9-50b15cb8d847/source"
-  }
+  ]
 }

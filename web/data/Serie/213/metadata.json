@@ -112,6 +112,12 @@
       "sprecher" : "Till Huster"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/213/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/213/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/213/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music125/v4/aa/93/82/aa938236-7558-e880-fe67-d2992bb3ae21/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -153,11 +159,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/213/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/213/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/213/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/213/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music125/v4/aa/93/82/aa938236-7558-e880-fe67-d2992bb3ae21/source"
-  }
+  ]
 }

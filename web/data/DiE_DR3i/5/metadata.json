@@ -104,6 +104,11 @@
       "sprecher" : "Karl-Friedrich Gerster"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/5/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/5/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/5/cover.png"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -165,10 +170,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/5/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/DiE_DR3i/5/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/5/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/5/cover.png"
-  }
+  ]
 }

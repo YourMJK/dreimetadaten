@@ -139,6 +139,11 @@
       "sprecher" : "Barbara Benuel"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/cover.png"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -220,10 +225,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/rip_log2.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Super-Papagei-2004/cover.png"
-  }
+  ]
 }

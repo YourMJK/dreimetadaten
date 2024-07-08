@@ -87,6 +87,12 @@
       "sprecher" : "Michael Lott"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/190/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/190/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/190/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/55/98/d5/5598d5f8-6e87-8f4b-af1f-65aea74b5143/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -123,11 +129,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/190/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/190/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/190/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/190/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/55/98/d5/5598d5f8-6e87-8f4b-af1f-65aea74b5143/source"
-  }
+  ]
 }

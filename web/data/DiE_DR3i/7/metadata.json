@@ -120,6 +120,11 @@
       "sprecher" : "Tim Wenderoth"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/7/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/7/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/7/cover.png"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -176,10 +181,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/7/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/DiE_DR3i/7/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/7/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/7/cover.png"
-  }
+  ]
 }

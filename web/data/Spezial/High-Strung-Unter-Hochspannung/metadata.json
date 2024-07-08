@@ -106,6 +106,12 @@
       "sprecher" : "Heikedine Körting"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music49/v4/30/a3/5b/30a35bd3-ae05-4a15-cd1b-674753aee0e2/886445749465.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -157,11 +163,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/High-Strung-Unter-Hochspannung/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music49/v4/30/a3/5b/30a35bd3-ae05-4a15-cd1b-674753aee0e2/886445749465.jpg"
-  }
+  ]
 }

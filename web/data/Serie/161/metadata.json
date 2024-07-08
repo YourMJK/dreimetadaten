@@ -135,6 +135,13 @@
       "sprecher" : "Lutz Harder"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/161/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/161/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/161/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/53/4b/01/534b0104-c102-b636-e09f-0f693c658a03/source",
+    "cover_kosmos" : "http://web.archive.org/web/20211227022640if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b8/5c/91/0887254003120.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -211,12 +218,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/161/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/161/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/161/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/161/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/53/4b/01/534b0104-c102-b636-e09f-0f693c658a03/source",
-    "cover_kosmos" : "http://web.archive.org/web/20211227022640if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b8/5c/91/0887254003120.jpg"
-  }
+  ]
 }

@@ -125,6 +125,12 @@
       "sprecher" : "Jannik Schümann"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/193/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/193/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/193/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/ed/a3/a1/eda3a179-4e94-e74a-bca0-fa72a742cad9/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -171,11 +177,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/193/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/193/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/193/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/193/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/ed/a3/a1/eda3a179-4e94-e74a-bca0-fa72a742cad9/source"
-  }
+  ]
 }

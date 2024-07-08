@@ -102,6 +102,13 @@
       "sprecher" : "Martin Brücker"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/174/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/174/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/174/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/a3/9d/83/a39d836b-7859-bd8e-5169-d22155f856f1/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220104131535if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/55/82/07/0888430093225580828a2c6a7d.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -153,12 +160,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/174/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/174/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/174/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/174/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/a3/9d/83/a39d836b-7859-bd8e-5169-d22155f856f1/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220104131535if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/55/82/07/0888430093225580828a2c6a7d.jpg"
-  }
+  ]
 }

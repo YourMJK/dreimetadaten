@@ -199,6 +199,11 @@
       "sprecher" : "Lutz Schnell"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/1/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/1/cover.png"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -340,10 +345,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/rip_log2.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/1/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/1/cover.png"
-  }
+  ]
 }

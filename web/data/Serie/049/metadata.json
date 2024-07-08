@@ -94,6 +94,13 @@
       "sprecher" : "Leonhard Mahlich"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/049/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/049/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/049/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/42/06/a6/4206a643-9994-b4a3-8bb1-05911a76dbed/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220114180157if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/44/f2/0f/0743213884929.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -140,12 +147,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/049/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/049/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/049/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/049/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/42/06/a6/4206a643-9994-b4a3-8bb1-05911a76dbed/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220114180157if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/44/f2/0f/0743213884929.jpg"
-  }
+  ]
 }

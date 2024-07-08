@@ -110,6 +110,13 @@
       "sprecher" : "Joachim Wolff"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/015/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/015/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/015/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/9f/c3/e3/9fc3e3cc-6b71-2f31-ccda-8d0563427859/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220115045300if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c0/3d/51/0743213881522.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -155,12 +162,5 @@
         }
       ]
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/015/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/015/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/015/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music62/v4/9f/c3/e3/9fc3e3cc-6b71-2f31-ccda-8d0563427859/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220115045300if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c0/3d/51/0743213881522.jpg"
-  }
+  ]
 }

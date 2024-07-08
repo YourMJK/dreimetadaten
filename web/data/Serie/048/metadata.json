@@ -97,6 +97,13 @@
       "sprecher" : "Manfred Liptow"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/048/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/048/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/048/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/6d/bc/09/6dbc093b-5548-962c-dab3-f37767f8546b/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220124230918if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/4f/f1/e9/0743213884820.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -142,12 +149,5 @@
         }
       ]
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/048/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/048/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/048/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/6d/bc/09/6dbc093b-5548-962c-dab3-f37767f8546b/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220124230918if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/4f/f1/e9/0743213884820.jpg"
-  }
+  ]
 }

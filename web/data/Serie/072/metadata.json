@@ -113,6 +113,13 @@
       "sprecher" : "Susan Jarling"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/072/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/072/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/072/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/4a/0d/a0/4a0da044-0a16-4d61-5692-2891bc19dfb0/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220123153418if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b5/eb/3c/0743213849720.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -159,12 +166,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/072/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/072/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/072/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/072/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/4a/0d/a0/4a0da044-0a16-4d61-5692-2891bc19dfb0/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220123153418if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b5/eb/3c/0743213849720.jpg"
-  }
+  ]
 }

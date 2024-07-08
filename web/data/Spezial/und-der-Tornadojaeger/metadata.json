@@ -133,6 +133,12 @@
       "sprecher" : "Susan Jarling, Hilla Fitzen, Nina Minninger, Marine Endemann, Zelda Jahreis, Maud Ackermann, Heikedine Körting, Stephanie Damare, Ingeborg Christiansen, Micaëla Kreißler, Theresa Underberg, Kerstin Draeger, Lennardt Krüger, Kjell Wenzel, Norma Draeger, Florian Herkenrath, Jannik Endemann, Dirk Eichhorn, Stephan Benson"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music127/v4/5c/bd/e2/5cbde282-7308-b942-a2d6-e7fd717b9f47/886444438681.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -199,11 +205,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-Tornadojaeger/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music127/v4/5c/bd/e2/5cbde282-7308-b942-a2d6-e7fd717b9f47/886444438681.jpg"
-  }
+  ]
 }

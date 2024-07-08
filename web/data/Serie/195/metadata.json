@@ -92,6 +92,12 @@
       "sprecher" : "Riko Tauber"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/195/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/195/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/195/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music115/v4/b7/6a/c8/b76ac83c-cf66-16dd-0380-3fe53d652255/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -133,11 +139,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/195/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/195/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/195/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/195/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music115/v4/b7/6a/c8/b76ac83c-cf66-16dd-0380-3fe53d652255/source"
-  }
+  ]
 }

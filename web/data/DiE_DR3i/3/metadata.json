@@ -118,6 +118,11 @@
       "sprecher" : "Patrick Bach"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/DiE_DR3i/3/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/3/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/3/cover.png"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -189,10 +194,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/3/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/DiE_DR3i/3/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/3/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/DiE_DR3i/3/cover.png"
-  }
+  ]
 }

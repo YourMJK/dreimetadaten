@@ -106,6 +106,13 @@
       "sprecher" : "Horst Frank"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/033/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/033/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/033/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/75/a4/3e/75a43e24-3f85-84e8-4e12-7a676e917c1f/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220123153409if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/52/b9/d3/0743213883328.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -151,12 +158,5 @@
         }
       ]
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/033/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/033/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/033/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/75/a4/3e/75a43e24-3f85-84e8-4e12-7a676e917c1f/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220123153409if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/52/b9/d3/0743213883328.jpg"
-  }
+  ]
 }

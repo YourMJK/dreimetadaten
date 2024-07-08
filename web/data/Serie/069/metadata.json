@@ -114,6 +114,13 @@
       "sprecher" : "André Minninger"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/069/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/069/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/069/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/5e/46/2a/5e462af7-1f61-e3a4-3a6f-655b33a55482/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220114180143if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a0/7b/77/0743213558523.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -160,12 +167,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/069/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/069/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/069/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/069/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/5e/46/2a/5e462af7-1f61-e3a4-3a6f-655b33a55482/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220114180143if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a0/7b/77/0743213558523.jpg"
-  }
+  ]
 }

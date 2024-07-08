@@ -81,6 +81,13 @@
       "sprecher" : "Lutz Schnell"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/068/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/068/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/068/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/39/d8/5b/39d85baf-b146-6fb2-4c15-e80afaf87525/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111212343if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/80/fc/8e/0743213558424.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -127,12 +134,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/068/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/068/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/068/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/068/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music60/v4/39/d8/5b/39d85baf-b146-6fb2-4c15-e80afaf87525/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111212343if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/80/fc/8e/0743213558424.jpg"
-  }
+  ]
 }

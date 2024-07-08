@@ -1,4 +1,242 @@
 {
+  "titel" : "und der Zeitgeist",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Die drei ??? übernehmen jeden Fall. Da gibt's immer Überraschungen, ungeahnte Wendungen – und manchmal kommt alles wirklich ganz anders als gedacht! So wie in diesen kurzen Fällen, bei denen die Welt von Justus, Peter und Bob manchmal ganz schön auf den Kopf gestellt wird. Da ist vorwärts dann plötzlich doch rückwärts und vorn ist hinten und gleich nochmal von vorn …",
+  "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
+  "veröffentlichungsdatum" : "2016-03-04",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Hüne",
+      "sprecher" : "Johannes Semm"
+    },
+    {
+      "rolle" : "Marvin Gray",
+      "sprecher" : "Horst Stark"
+    },
+    {
+      "rolle" : "Nancy McMonigal",
+      "sprecher" : "Gerlinde Dillge"
+    },
+    {
+      "rolle" : "Tom",
+      "sprecher" : "Wolfgang Rositzka"
+    },
+    {
+      "rolle" : "Rod",
+      "sprecher" : "Herbert Tennigkeit"
+    },
+    {
+      "rolle" : "Joe",
+      "sprecher" : "Olaf Reichmann"
+    },
+    {
+      "rolle" : "Ben",
+      "sprecher" : "Stephan Chrzescinski"
+    },
+    {
+      "rolle" : "Mariann",
+      "sprecher" : "Simone Ritscher"
+    },
+    {
+      "rolle" : "TV-Sprecher",
+      "sprecher" : "Holger Wemhoff"
+    },
+    {
+      "rolle" : "Malcolm Fever",
+      "sprecher" : "Tilo Schmitz"
+    },
+    {
+      "rolle" : "Lucy Hopkins",
+      "sprecher" : "Topsy Küppers"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Professor Selby",
+      "sprecher" : "Claus Wilcke"
+    },
+    {
+      "rolle" : "Oberpriesterin",
+      "sprecher" : "Elga Schütz"
+    },
+    {
+      "rolle" : "Kevin",
+      "sprecher" : "Patrick Mölleken"
+    },
+    {
+      "rolle" : "Mann in Kutte",
+      "sprecher" : "Rüdiger Hellmann"
+    },
+    {
+      "rolle" : "Radio",
+      "sprecher" : "Wilhelm Wieben"
+    },
+    {
+      "rolle" : "Mr. Tilton",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Mr. Walsh",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Weise Frau",
+      "sprecher" : "Dorothea Hagena"
+    },
+    {
+      "rolle" : "Kelly",
+      "sprecher" : "Juliane Szalay"
+    },
+    {
+      "rolle" : "Patrick",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Samuel",
+      "sprecher" : "Johannes Semm"
+    },
+    {
+      "rolle" : "Kenneth",
+      "sprecher" : "Olaf Reichmann"
+    },
+    {
+      "rolle" : "Liz Zapata",
+      "sprecher" : "Merete Brettschneider"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Michael Harck"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/cover.png"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Immer und immer wieder – Sieben",
+          "start" : 0,
+          "end" : 172213
+        },
+        {
+          "titel" : "Immer und immer wieder – Variationen",
+          "start" : 172213,
+          "end" : 590280
+        },
+        {
+          "titel" : "Immer und immer wieder – Elf",
+          "start" : 590280,
+          "end" : 950800
+        },
+        {
+          "titel" : "Der Raub der Zehntausend – Der absolute Hammer",
+          "start" : 950800,
+          "end" : 1144627
+        },
+        {
+          "titel" : "Der Raub der Zehntausend – Die Botschaft",
+          "start" : 1144627,
+          "end" : 1774093
+        },
+        {
+          "titel" : "Der Raub der Zehntausend – Ablenkungsmanöver",
+          "start" : 1774093,
+          "end" : 2149307
+        },
+        {
+          "titel" : "Der verschwundene Zeitgeist – Ein emotionales Gespräch",
+          "start" : 2149307,
+          "end" : 2794893
+        },
+        {
+          "titel" : "Der verschwundene Zeitgeist – Eindeutiges Foto",
+          "start" : 2794893,
+          "end" : 3652267
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Leaving Nineteen Sixty-four – Überraschung",
+          "start" : 0,
+          "end" : 477000
+        },
+        {
+          "titel" : "Leaving Nineteen Sixty-four – Ein schlechter Scherz",
+          "start" : 477000,
+          "end" : 991520
+        },
+        {
+          "titel" : "Leaving Nineteen Sixty-four – Ein Ass im Ärmel",
+          "start" : 991520,
+          "end" : 1748867
+        },
+        {
+          "titel" : "Rückwärtsgang – Jetzt",
+          "start" : 1748867,
+          "end" : 2312453
+        },
+        {
+          "titel" : "Rückwärtsgang – Die Aufzeichnung",
+          "start" : 2312453,
+          "end" : 2702853
+        },
+        {
+          "titel" : "Rückwärtsgang – Vorwärts",
+          "start" : 2702853,
+          "end" : 2885253
+        },
+        {
+          "titel" : "Zeit der Opfer, Zeit der Wunder – Die richtige Perspektive",
+          "start" : 2885253,
+          "end" : 3410080
+        },
+        {
+          "titel" : "Zeit der Opfer, Zeit der Wunder – Die nächste Stufe",
+          "start" : 3410080,
+          "end" : 3849720
+        },
+        {
+          "titel" : "Zeit der Opfer, Zeit der Wunder – Einfach galaktisch!",
+          "start" : 3849720,
+          "end" : 4298853
+        },
+        {
+          "titel" : "Zeit der Opfer, Zeit der Wunder – Objekt der Begierde",
+          "start" : 4298853,
+          "end" : 4569373
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/rip_log2.txt"
+    }
+  ],
   "teile" : [
     {
       "teilNummer" : 1,
@@ -391,243 +629,5 @@
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/6/ffmetadata.txt"
       }
     }
-  ],
-  "titel" : "und der Zeitgeist",
-  "hörspielskriptautor" : "André Minninger",
-  "beschreibung" : "Die drei ??? übernehmen jeden Fall. Da gibt's immer Überraschungen, ungeahnte Wendungen – und manchmal kommt alles wirklich ganz anders als gedacht! So wie in diesen kurzen Fällen, bei denen die Welt von Justus, Peter und Bob manchmal ganz schön auf den Kopf gestellt wird. Da ist vorwärts dann plötzlich doch rückwärts und vorn ist hinten und gleich nochmal von vorn …",
-  "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
-  "veröffentlichungsdatum" : "2016-03-04",
-  "sprechrollen" : [
-    {
-      "rolle" : "Erzähler",
-      "sprecher" : "Thomas Fritsch"
-    },
-    {
-      "rolle" : "Justus Jonas, Erster Detektiv",
-      "sprecher" : "Oliver Rohrbeck"
-    },
-    {
-      "rolle" : "Peter Shaw, Zweiter Detektiv",
-      "sprecher" : "Jens Wawrczeck"
-    },
-    {
-      "rolle" : "Bob Andrews, Recherchen und Archiv",
-      "sprecher" : "Andreas Fröhlich"
-    },
-    {
-      "rolle" : "Hüne",
-      "sprecher" : "Johannes Semm"
-    },
-    {
-      "rolle" : "Marvin Gray",
-      "sprecher" : "Horst Stark"
-    },
-    {
-      "rolle" : "Nancy McMonigal",
-      "sprecher" : "Gerlinde Dillge"
-    },
-    {
-      "rolle" : "Tom",
-      "sprecher" : "Wolfgang Rositzka"
-    },
-    {
-      "rolle" : "Rod",
-      "sprecher" : "Herbert Tennigkeit"
-    },
-    {
-      "rolle" : "Joe",
-      "sprecher" : "Olaf Reichmann"
-    },
-    {
-      "rolle" : "Ben",
-      "sprecher" : "Stephan Chrzescinski"
-    },
-    {
-      "rolle" : "Mariann",
-      "sprecher" : "Simone Ritscher"
-    },
-    {
-      "rolle" : "TV-Sprecher",
-      "sprecher" : "Holger Wemhoff"
-    },
-    {
-      "rolle" : "Malcolm Fever",
-      "sprecher" : "Tilo Schmitz"
-    },
-    {
-      "rolle" : "Lucy Hopkins",
-      "sprecher" : "Topsy Küppers"
-    },
-    {
-      "rolle" : "Onkel Titus",
-      "sprecher" : "Andreas E. Beurmann",
-      "pseudonym" : "Hans Meinhardt"
-    },
-    {
-      "rolle" : "Tante Mathilda",
-      "sprecher" : "Karin Lieneweg"
-    },
-    {
-      "rolle" : "Professor Selby",
-      "sprecher" : "Claus Wilcke"
-    },
-    {
-      "rolle" : "Oberpriesterin",
-      "sprecher" : "Elga Schütz"
-    },
-    {
-      "rolle" : "Kevin",
-      "sprecher" : "Patrick Mölleken"
-    },
-    {
-      "rolle" : "Mann in Kutte",
-      "sprecher" : "Rüdiger Hellmann"
-    },
-    {
-      "rolle" : "Radio",
-      "sprecher" : "Wilhelm Wieben"
-    },
-    {
-      "rolle" : "Mr. Tilton",
-      "sprecher" : "Christian Senger"
-    },
-    {
-      "rolle" : "Mr. Walsh",
-      "sprecher" : "Christian Rudolf"
-    },
-    {
-      "rolle" : "Weise Frau",
-      "sprecher" : "Dorothea Hagena"
-    },
-    {
-      "rolle" : "Kelly",
-      "sprecher" : "Juliane Szalay"
-    },
-    {
-      "rolle" : "Patrick",
-      "sprecher" : "Nicolas König"
-    },
-    {
-      "rolle" : "Samuel",
-      "sprecher" : "Johannes Semm"
-    },
-    {
-      "rolle" : "Kenneth",
-      "sprecher" : "Olaf Reichmann"
-    },
-    {
-      "rolle" : "Liz Zapata",
-      "sprecher" : "Merete Brettschneider"
-    },
-    {
-      "rolle" : "Skinny Norris",
-      "sprecher" : "Michael Harck"
-    }
-  ],
-  "medien" : [
-    {
-      "tracks" : [
-        {
-          "titel" : "Immer und immer wieder – Sieben",
-          "start" : 0,
-          "end" : 172213
-        },
-        {
-          "titel" : "Immer und immer wieder – Variationen",
-          "start" : 172213,
-          "end" : 590280
-        },
-        {
-          "titel" : "Immer und immer wieder – Elf",
-          "start" : 590280,
-          "end" : 950800
-        },
-        {
-          "titel" : "Der Raub der Zehntausend – Der absolute Hammer",
-          "start" : 950800,
-          "end" : 1144627
-        },
-        {
-          "titel" : "Der Raub der Zehntausend – Die Botschaft",
-          "start" : 1144627,
-          "end" : 1774093
-        },
-        {
-          "titel" : "Der Raub der Zehntausend – Ablenkungsmanöver",
-          "start" : 1774093,
-          "end" : 2149307
-        },
-        {
-          "titel" : "Der verschwundene Zeitgeist – Ein emotionales Gespräch",
-          "start" : 2149307,
-          "end" : 2794893
-        },
-        {
-          "titel" : "Der verschwundene Zeitgeist – Eindeutiges Foto",
-          "start" : 2794893,
-          "end" : 3652267
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/rip_log1.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Leaving Nineteen Sixty-four – Überraschung",
-          "start" : 0,
-          "end" : 477000
-        },
-        {
-          "titel" : "Leaving Nineteen Sixty-four – Ein schlechter Scherz",
-          "start" : 477000,
-          "end" : 991520
-        },
-        {
-          "titel" : "Leaving Nineteen Sixty-four – Ein Ass im Ärmel",
-          "start" : 991520,
-          "end" : 1748867
-        },
-        {
-          "titel" : "Rückwärtsgang – Jetzt",
-          "start" : 1748867,
-          "end" : 2312453
-        },
-        {
-          "titel" : "Rückwärtsgang – Die Aufzeichnung",
-          "start" : 2312453,
-          "end" : 2702853
-        },
-        {
-          "titel" : "Rückwärtsgang – Vorwärts",
-          "start" : 2702853,
-          "end" : 2885253
-        },
-        {
-          "titel" : "Zeit der Opfer, Zeit der Wunder – Die richtige Perspektive",
-          "start" : 2885253,
-          "end" : 3410080
-        },
-        {
-          "titel" : "Zeit der Opfer, Zeit der Wunder – Die nächste Stufe",
-          "start" : 3410080,
-          "end" : 3849720
-        },
-        {
-          "titel" : "Zeit der Opfer, Zeit der Wunder – Einfach galaktisch!",
-          "start" : 3849720,
-          "end" : 4298853
-        },
-        {
-          "titel" : "Zeit der Opfer, Zeit der Wunder – Objekt der Begierde",
-          "start" : 4298853,
-          "end" : 4569373
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/rip_log2.txt"
-    }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/metadata.json",
-    "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/cover.png"
-  }
+  ]
 }

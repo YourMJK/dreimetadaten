@@ -1,4 +1,263 @@
 {
+  "titel" : "Das Rätsel der Sieben",
+  "hörspielskriptautor" : "André Minninger",
+  "beschreibung" : "Sieben Kurzgeschichten von sieben Autoren in einer Hörspiel-Box: Bei diesen Fällen wird so rasant ermittelt, dass die Lösungen nur knapp entfernt sind!\nMysteriös, abenteuerlich, gespenstisch, experimentell, witzig, unheimlich und verflixt: Siebenmal knackig-kurzer Hör-Spaß ist garantiert!",
+  "veröffentlichungsdatum" : "2014-02-21",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Thomas Fritsch"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Emily White",
+      "sprecher" : "Sabine Hahn"
+    },
+    {
+      "rolle" : "Judy Fradkin",
+      "sprecher" : "Ursula Heyer"
+    },
+    {
+      "rolle" : "Aladin",
+      "sprecher" : "Heidi Schaffrath"
+    },
+    {
+      "rolle" : "Aschenputtel",
+      "sprecher" : "Regina Lemnitz"
+    },
+    {
+      "rolle" : "Prinzessin",
+      "sprecher" : "Renate Pichler"
+    },
+    {
+      "rolle" : "Rotkäppchen",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Meerjungfrau",
+      "sprecher" : "Heikedine Körting",
+      "pseudonym" : "Pamela Punti"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Henry König"
+    },
+    {
+      "rolle" : "Mrs. Andrews",
+      "sprecher" : "Konstanze Ullmer"
+    },
+    {
+      "rolle" : "Arzt",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Mrs. Wallace",
+      "sprecher" : "Angela Stresemann"
+    },
+    {
+      "rolle" : "Bobby",
+      "sprecher" : "Merete Brettschneider"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Andreas E. Beurmann",
+      "pseudonym" : "Hans Meinhardt"
+    },
+    {
+      "rolle" : "Croupier",
+      "sprecher" : "Gosta Liptow"
+    },
+    {
+      "rolle" : "Carl Hopkins, Physiker",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Miller, Schiffsdetektiv",
+      "sprecher" : "Michael Grimm"
+    },
+    {
+      "rolle" : "Kapitän Sherwood",
+      "sprecher" : "Horst Naumann"
+    },
+    {
+      "rolle" : "Theodore Quaid",
+      "sprecher" : "Dietrich Adam"
+    },
+    {
+      "rolle" : "Jamie Peterson, Barmann",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Handerson",
+      "sprecher" : "Wolfgang Rositzka"
+    },
+    {
+      "rolle" : "Diego",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Mercedes",
+      "sprecher" : "Hella von der Osten-Sacken",
+      "pseudonym" : "Wanda Osten"
+    },
+    {
+      "rolle" : "Nayeli",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Barker",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Off-Sprecherin",
+      "sprecher" : "Claudia Stocksieker"
+    },
+    {
+      "rolle" : "Ian Carew",
+      "sprecher" : "Sascha Draeger"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/cover.png"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Der siebte Gast – Inszenierung neuer Geschichten",
+          "start" : 0,
+          "end" : 439267
+        },
+        {
+          "titel" : "Der siebte Gast – Die Worte einer Lügenhexe",
+          "start" : 439267,
+          "end" : 774387
+        },
+        {
+          "titel" : "Der siebte Gast – Prinzessin in Champagnerlaune",
+          "start" : 774387,
+          "end" : 1596747
+        },
+        {
+          "titel" : "Bis um sieben zurück – Kopfschmerzen",
+          "start" : 1596747,
+          "end" : 2291680
+        },
+        {
+          "titel" : "Bis um sieben zurück – Erwischt!",
+          "start" : 2291680,
+          "end" : 2796560
+        },
+        {
+          "titel" : "Bis um sieben zurück – Bobby",
+          "start" : 2796560,
+          "end" : 3073920
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Bobs schwerste Stunde – Alles weg!",
+          "start" : 0,
+          "end" : 433867
+        },
+        {
+          "titel" : "Bobs schwerste Stunde – Gruselstimme",
+          "start" : 433867,
+          "end" : 973600
+        },
+        {
+          "titel" : "Bobs schwerste Stunde – Aufwendiges Vorhaben",
+          "start" : 973600,
+          "end" : 1574187
+        },
+        {
+          "titel" : "Die rote Sieben – Rien ne va plus",
+          "start" : 1574187,
+          "end" : 1869480
+        },
+        {
+          "titel" : "Die rote Sieben – Blutspuren",
+          "start" : 1869480,
+          "end" : 2303627
+        },
+        {
+          "titel" : "Die rote Sieben – Abgekartetes Spiel",
+          "start" : 2303627,
+          "end" : 2748267
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Schutzgeld – Überraschung!",
+          "start" : 0,
+          "end" : 277693
+        },
+        {
+          "titel" : "Schutzgeld – Arges Misstrauen",
+          "start" : 277693,
+          "end" : 941400
+        },
+        {
+          "titel" : "Schutzgeld – Sieben harte Stunden",
+          "start" : 941400,
+          "end" : 1389800
+        },
+        {
+          "titel" : "Die siebte Frau des Leuchters – Böse Macht im Grab",
+          "start" : 1389800,
+          "end" : 1674907
+        },
+        {
+          "titel" : "Die siebte Frau des Leuchters – Auf dem Geisterschiff",
+          "start" : 1674907,
+          "end" : 2019467
+        },
+        {
+          "titel" : "Die siebte Frau des Leuchters – Freier Wille",
+          "start" : 2019467,
+          "end" : 2798827
+        },
+        {
+          "titel" : "Die verschwundene Torte – In Angst und Schrecken",
+          "start" : 2798827,
+          "end" : 3166667
+        },
+        {
+          "titel" : "Die verschwundene Torte – Gescanntes Areal",
+          "start" : 3166667,
+          "end" : 3327240
+        },
+        {
+          "titel" : "Die verschwundene Torte – Des Rätsels Lösung",
+          "start" : 3327240,
+          "end" : 3898467
+        }
+      ],
+      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log3.txt"
+    }
+  ],
   "teile" : [
     {
       "teilNummer" : 1,
@@ -463,264 +722,5 @@
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/7/ffmetadata.txt"
       }
     }
-  ],
-  "titel" : "Das Rätsel der Sieben",
-  "hörspielskriptautor" : "André Minninger",
-  "beschreibung" : "Sieben Kurzgeschichten von sieben Autoren in einer Hörspiel-Box: Bei diesen Fällen wird so rasant ermittelt, dass die Lösungen nur knapp entfernt sind!\nMysteriös, abenteuerlich, gespenstisch, experimentell, witzig, unheimlich und verflixt: Siebenmal knackig-kurzer Hör-Spaß ist garantiert!",
-  "veröffentlichungsdatum" : "2014-02-21",
-  "sprechrollen" : [
-    {
-      "rolle" : "Erzähler",
-      "sprecher" : "Thomas Fritsch"
-    },
-    {
-      "rolle" : "Justus Jonas, Erster Detektiv",
-      "sprecher" : "Oliver Rohrbeck"
-    },
-    {
-      "rolle" : "Peter Shaw, Zweiter Detektiv",
-      "sprecher" : "Jens Wawrczeck"
-    },
-    {
-      "rolle" : "Bob Andrews, Recherchen und Archiv",
-      "sprecher" : "Andreas Fröhlich"
-    },
-    {
-      "rolle" : "Emily White",
-      "sprecher" : "Sabine Hahn"
-    },
-    {
-      "rolle" : "Judy Fradkin",
-      "sprecher" : "Ursula Heyer"
-    },
-    {
-      "rolle" : "Aladin",
-      "sprecher" : "Heidi Schaffrath"
-    },
-    {
-      "rolle" : "Aschenputtel",
-      "sprecher" : "Regina Lemnitz"
-    },
-    {
-      "rolle" : "Prinzessin",
-      "sprecher" : "Renate Pichler"
-    },
-    {
-      "rolle" : "Rotkäppchen",
-      "sprecher" : "Angela Stresemann"
-    },
-    {
-      "rolle" : "Meerjungfrau",
-      "sprecher" : "Heikedine Körting",
-      "pseudonym" : "Pamela Punti"
-    },
-    {
-      "rolle" : "Mr. Andrews",
-      "sprecher" : "Henry König"
-    },
-    {
-      "rolle" : "Mrs. Andrews",
-      "sprecher" : "Konstanze Ullmer"
-    },
-    {
-      "rolle" : "Arzt",
-      "sprecher" : "Erik Schäffler"
-    },
-    {
-      "rolle" : "Mrs. Wallace",
-      "sprecher" : "Angela Stresemann"
-    },
-    {
-      "rolle" : "Bobby",
-      "sprecher" : "Merete Brettschneider"
-    },
-    {
-      "rolle" : "Tante Mathilda",
-      "sprecher" : "Karin Lieneweg"
-    },
-    {
-      "rolle" : "Onkel Titus",
-      "sprecher" : "Andreas E. Beurmann",
-      "pseudonym" : "Hans Meinhardt"
-    },
-    {
-      "rolle" : "Croupier",
-      "sprecher" : "Gosta Liptow"
-    },
-    {
-      "rolle" : "Carl Hopkins, Physiker",
-      "sprecher" : "Ben Hecker"
-    },
-    {
-      "rolle" : "Miller, Schiffsdetektiv",
-      "sprecher" : "Michael Grimm"
-    },
-    {
-      "rolle" : "Kapitän Sherwood",
-      "sprecher" : "Horst Naumann"
-    },
-    {
-      "rolle" : "Theodore Quaid",
-      "sprecher" : "Dietrich Adam"
-    },
-    {
-      "rolle" : "Jamie Peterson, Barmann",
-      "sprecher" : "Patrick Bach"
-    },
-    {
-      "rolle" : "Handerson",
-      "sprecher" : "Wolfgang Rositzka"
-    },
-    {
-      "rolle" : "Diego",
-      "sprecher" : "Stephan Benson"
-    },
-    {
-      "rolle" : "Mercedes",
-      "sprecher" : "Hella von der Osten-Sacken",
-      "pseudonym" : "Wanda Osten"
-    },
-    {
-      "rolle" : "Nayeli",
-      "sprecher" : "Stefan Brönneke"
-    },
-    {
-      "rolle" : "Barker",
-      "sprecher" : "Ben Hecker"
-    },
-    {
-      "rolle" : "Off-Sprecherin",
-      "sprecher" : "Claudia Stocksieker"
-    },
-    {
-      "rolle" : "Ian Carew",
-      "sprecher" : "Sascha Draeger"
-    }
-  ],
-  "medien" : [
-    {
-      "tracks" : [
-        {
-          "titel" : "Der siebte Gast – Inszenierung neuer Geschichten",
-          "start" : 0,
-          "end" : 439267
-        },
-        {
-          "titel" : "Der siebte Gast – Die Worte einer Lügenhexe",
-          "start" : 439267,
-          "end" : 774387
-        },
-        {
-          "titel" : "Der siebte Gast – Prinzessin in Champagnerlaune",
-          "start" : 774387,
-          "end" : 1596747
-        },
-        {
-          "titel" : "Bis um sieben zurück – Kopfschmerzen",
-          "start" : 1596747,
-          "end" : 2291680
-        },
-        {
-          "titel" : "Bis um sieben zurück – Erwischt!",
-          "start" : 2291680,
-          "end" : 2796560
-        },
-        {
-          "titel" : "Bis um sieben zurück – Bobby",
-          "start" : 2796560,
-          "end" : 3073920
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log1.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Bobs schwerste Stunde – Alles weg!",
-          "start" : 0,
-          "end" : 433867
-        },
-        {
-          "titel" : "Bobs schwerste Stunde – Gruselstimme",
-          "start" : 433867,
-          "end" : 973600
-        },
-        {
-          "titel" : "Bobs schwerste Stunde – Aufwendiges Vorhaben",
-          "start" : 973600,
-          "end" : 1574187
-        },
-        {
-          "titel" : "Die rote Sieben – Rien ne va plus",
-          "start" : 1574187,
-          "end" : 1869480
-        },
-        {
-          "titel" : "Die rote Sieben – Blutspuren",
-          "start" : 1869480,
-          "end" : 2303627
-        },
-        {
-          "titel" : "Die rote Sieben – Abgekartetes Spiel",
-          "start" : 2303627,
-          "end" : 2748267
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log2.txt"
-    },
-    {
-      "tracks" : [
-        {
-          "titel" : "Schutzgeld – Überraschung!",
-          "start" : 0,
-          "end" : 277693
-        },
-        {
-          "titel" : "Schutzgeld – Arges Misstrauen",
-          "start" : 277693,
-          "end" : 941400
-        },
-        {
-          "titel" : "Schutzgeld – Sieben harte Stunden",
-          "start" : 941400,
-          "end" : 1389800
-        },
-        {
-          "titel" : "Die siebte Frau des Leuchters – Böse Macht im Grab",
-          "start" : 1389800,
-          "end" : 1674907
-        },
-        {
-          "titel" : "Die siebte Frau des Leuchters – Auf dem Geisterschiff",
-          "start" : 1674907,
-          "end" : 2019467
-        },
-        {
-          "titel" : "Die siebte Frau des Leuchters – Freier Wille",
-          "start" : 2019467,
-          "end" : 2798827
-        },
-        {
-          "titel" : "Die verschwundene Torte – In Angst und Schrecken",
-          "start" : 2798827,
-          "end" : 3166667
-        },
-        {
-          "titel" : "Die verschwundene Torte – Gescanntes Areal",
-          "start" : 3166667,
-          "end" : 3327240
-        },
-        {
-          "titel" : "Die verschwundene Torte – Des Rätsels Lösung",
-          "start" : 3327240,
-          "end" : 3898467
-        }
-      ],
-      "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log3.txt"
-    }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json",
-    "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/cover.png"
-  }
+  ]
 }

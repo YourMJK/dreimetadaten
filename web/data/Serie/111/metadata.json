@@ -143,6 +143,13 @@
       "sprecher" : "Georg Marquard"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/111/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/111/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/111/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/68/f8/bf/68f8bf4d-440e-082f-765c-6126b54cc158/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220124230855if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/13/cb/05/0743219911124.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -219,12 +226,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/111/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/111/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/111/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/111/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/68/f8/bf/68f8bf4d-440e-082f-765c-6126b54cc158/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220124230855if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/13/cb/05/0743219911124.jpg"
-  }
+  ]
 }

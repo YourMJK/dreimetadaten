@@ -115,6 +115,12 @@
       "sprecher" : "Barbara Schipper"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/223/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/223/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/223/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music126/v4/2f/90/b7/2f90b777-86d1-c1c3-9b85-b8e5da917f8c/196589971913.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -161,11 +167,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/223/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/223/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/223/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/223/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music126/v4/2f/90/b7/2f90b777-86d1-c1c3-9b85-b8e5da917f8c/196589971913.jpg"
-  }
+  ]
 }

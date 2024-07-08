@@ -153,6 +153,12 @@
       "sprecher" : "Pierre Brand"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music125/v4/29/80/09/29800971-253c-1a01-fce6-9080236cee2e/886447335307.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -244,11 +250,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/rip_log2.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/und-das-versunkene-Schiff/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music125/v4/29/80/09/29800971-253c-1a01-fce6-9080236cee2e/886447335307.jpg"
-  }
+  ]
 }

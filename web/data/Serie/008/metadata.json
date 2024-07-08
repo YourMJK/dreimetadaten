@@ -111,6 +111,13 @@
       "sprecher" : "Peter Buchholz"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/008/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/008/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/008/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music22/v4/63/98/91/639891fc-8d20-3c32-78a9-5f12e7919932/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220123153428if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/1b/d3/1c/0743213880822.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -156,12 +163,5 @@
         }
       ]
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/008/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/008/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/008/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music22/v4/63/98/91/639891fc-8d20-3c32-78a9-5f12e7919932/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220123153428if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/1b/d3/1c/0743213880822.jpg"
-  }
+  ]
 }

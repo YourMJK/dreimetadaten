@@ -1,6 +1,226 @@
 {
   "kurzgeschichten" : [
     {
+      "titel" : "und die Geisterlampe",
+      "hörspielskriptautor" : "André Minninger",
+      "beschreibung" : "Das gab es noch nie:\n12 Mini-Fälle der drei ???.\nDie drei Autoren Kari Erlhoff, Hendrik Buchna und Marco Sonnleitner erzählen 12 kurze Geschichten, die die drei jungen Detektive aus Rocky Beach teilweise auch mal von ein paar ganz anderen Seiten zeigen.",
+      "veröffentlichungsdatum" : "2012-09-28",
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Mr. Vancura",
+          "sprecher" : "Lutz Herkenrath"
+        },
+        {
+          "rolle" : "Mrs. Fox",
+          "sprecher" : "Susan Jarling"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Mr. Shaw",
+          "sprecher" : "Rasmus Borowski"
+        },
+        {
+          "rolle" : "Shannon",
+          "sprecher" : "Kerstin Draeger"
+        },
+        {
+          "rolle" : "Mr. Mosley",
+          "sprecher" : "Neil Malik Abdullah"
+        },
+        {
+          "rolle" : "Cowboy",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Patricia",
+          "sprecher" : "Rhea Harder-Vennewald"
+        },
+        {
+          "rolle" : "Peter Shawn",
+          "sprecher" : "Leonhard Mahlich"
+        },
+        {
+          "rolle" : "Marty",
+          "sprecher" : "Philipp Draeger"
+        },
+        {
+          "rolle" : "Fred",
+          "sprecher" : "Guido Bernadotte"
+        },
+        {
+          "rolle" : "Mrs. Floyd",
+          "sprecher" : "Gabriele Libbach"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Vincent Grimes",
+          "sprecher" : "Konstantin Graudus"
+        },
+        {
+          "rolle" : "Blacky",
+          "sprecher" : "Heikedine Körting"
+        },
+        {
+          "rolle" : "Juliet",
+          "sprecher" : "Anne Moll"
+        },
+        {
+          "rolle" : "Scott",
+          "sprecher" : "Tommaso Cacciapuoti"
+        },
+        {
+          "rolle" : "John",
+          "sprecher" : "Sascha Draeger",
+          "pseudonym" : "Martin Sichel"
+        },
+        {
+          "rolle" : "Kelly",
+          "sprecher" : "Juliane Szalay"
+        },
+        {
+          "rolle" : "Norman",
+          "sprecher" : "Eckart Dux"
+        },
+        {
+          "rolle" : "Mr. Darrow",
+          "sprecher" : "Joachim Kappl"
+        },
+        {
+          "rolle" : "Frau",
+          "sprecher" : "Anja Topf"
+        },
+        {
+          "rolle" : "Mann 1",
+          "sprecher" : "Thor W. Müller"
+        },
+        {
+          "rolle" : "Mann 2",
+          "sprecher" : "Helgo Liebig"
+        },
+        {
+          "rolle" : "Mann 3",
+          "sprecher" : "Rasmus Rakete"
+        },
+        {
+          "rolle" : "Mann 4",
+          "sprecher" : "Patrick Perales"
+        },
+        {
+          "rolle" : "Mann 5",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Mann 6",
+          "sprecher" : "Frank Meyer-Brockmann"
+        },
+        {
+          "rolle" : "Mann 7",
+          "sprecher" : "Roy Martens"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/cover.png"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "und die Geisterlampe",
+              "start" : 0,
+              "end" : 1109933
+            },
+            {
+              "titel" : "Dunkle Vergangenheit",
+              "start" : 1109933,
+              "end" : 1797413
+            },
+            {
+              "titel" : "Entführt",
+              "start" : 1797413,
+              "end" : 2650187
+            },
+            {
+              "titel" : "Verschwörung auf der Eagle Ranch",
+              "start" : 2650187,
+              "end" : 4017840
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "SOS",
+              "start" : 0,
+              "end" : 661640
+            },
+            {
+              "titel" : "Der graue Dämon",
+              "start" : 661640,
+              "end" : 1217947
+            },
+            {
+              "titel" : "Das Lehrstück",
+              "start" : 1217947,
+              "end" : 1967360
+            },
+            {
+              "titel" : "Das Rätsel der schwarzen Nadel",
+              "start" : 1967360,
+              "end" : 2679040
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/rip_log2.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Der verschwundene Superstar",
+              "start" : 0,
+              "end" : 1055280
+            },
+            {
+              "titel" : "Manches verlernt man nie",
+              "start" : 1055280,
+              "end" : 2010880
+            },
+            {
+              "titel" : "Psychomoon",
+              "start" : 2010880,
+              "end" : 2681040
+            },
+            {
+              "titel" : "Jagd auf den Weihnachtsmann",
+              "start" : 2681040,
+              "end" : 3602480
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/rip_log3.txt"
+        }
+      ],
       "teile" : [
         {
           "teilNummer" : 1,
@@ -535,11 +755,13 @@
             "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/12/ffmetadata.txt"
           }
         }
-      ],
-      "titel" : "und die Geisterlampe",
+      ]
+    },
+    {
+      "titel" : "Das Rätsel der Sieben",
       "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Das gab es noch nie:\n12 Mini-Fälle der drei ???.\nDie drei Autoren Kari Erlhoff, Hendrik Buchna und Marco Sonnleitner erzählen 12 kurze Geschichten, die die drei jungen Detektive aus Rocky Beach teilweise auch mal von ein paar ganz anderen Seiten zeigen.",
-      "veröffentlichungsdatum" : "2012-09-28",
+      "beschreibung" : "Sieben Kurzgeschichten von sieben Autoren in einer Hörspiel-Box: Bei diesen Fällen wird so rasant ermittelt, dass die Lösungen nur knapp entfernt sind!\nMysteriös, abenteuerlich, gespenstisch, experimentell, witzig, unheimlich und verflixt: Siebenmal knackig-kurzer Hör-Spaß ist garantiert!",
+      "veröffentlichungsdatum" : "2014-02-21",
       "sprechrollen" : [
         {
           "rolle" : "Erzähler",
@@ -558,206 +780,243 @@
           "sprecher" : "Andreas Fröhlich"
         },
         {
-          "rolle" : "Mr. Vancura",
-          "sprecher" : "Lutz Herkenrath"
+          "rolle" : "Emily White",
+          "sprecher" : "Sabine Hahn"
         },
         {
-          "rolle" : "Mrs. Fox",
-          "sprecher" : "Susan Jarling"
+          "rolle" : "Judy Fradkin",
+          "sprecher" : "Ursula Heyer"
         },
         {
-          "rolle" : "Inspektor Cotta",
-          "sprecher" : "Holger Mahlich"
+          "rolle" : "Aladin",
+          "sprecher" : "Heidi Schaffrath"
         },
         {
-          "rolle" : "Mr. Shaw",
-          "sprecher" : "Rasmus Borowski"
+          "rolle" : "Aschenputtel",
+          "sprecher" : "Regina Lemnitz"
         },
         {
-          "rolle" : "Shannon",
-          "sprecher" : "Kerstin Draeger"
+          "rolle" : "Prinzessin",
+          "sprecher" : "Renate Pichler"
         },
         {
-          "rolle" : "Mr. Mosley",
-          "sprecher" : "Neil Malik Abdullah"
+          "rolle" : "Rotkäppchen",
+          "sprecher" : "Angela Stresemann"
         },
         {
-          "rolle" : "Cowboy",
-          "sprecher" : "Achim Schülke"
+          "rolle" : "Meerjungfrau",
+          "sprecher" : "Heikedine Körting",
+          "pseudonym" : "Pamela Punti"
         },
         {
-          "rolle" : "Patricia",
-          "sprecher" : "Rhea Harder-Vennewald"
+          "rolle" : "Mr. Andrews",
+          "sprecher" : "Henry König"
         },
         {
-          "rolle" : "Peter Shawn",
-          "sprecher" : "Leonhard Mahlich"
+          "rolle" : "Mrs. Andrews",
+          "sprecher" : "Konstanze Ullmer"
         },
         {
-          "rolle" : "Marty",
-          "sprecher" : "Philipp Draeger"
+          "rolle" : "Arzt",
+          "sprecher" : "Erik Schäffler"
         },
         {
-          "rolle" : "Fred",
-          "sprecher" : "Guido Bernadotte"
+          "rolle" : "Mrs. Wallace",
+          "sprecher" : "Angela Stresemann"
         },
         {
-          "rolle" : "Mrs. Floyd",
-          "sprecher" : "Gabriele Libbach"
+          "rolle" : "Bobby",
+          "sprecher" : "Merete Brettschneider"
         },
         {
           "rolle" : "Tante Mathilda",
           "sprecher" : "Karin Lieneweg"
         },
         {
-          "rolle" : "Vincent Grimes",
-          "sprecher" : "Konstantin Graudus"
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
         },
         {
-          "rolle" : "Blacky",
-          "sprecher" : "Heikedine Körting"
+          "rolle" : "Croupier",
+          "sprecher" : "Gosta Liptow"
         },
         {
-          "rolle" : "Juliet",
-          "sprecher" : "Anne Moll"
+          "rolle" : "Carl Hopkins, Physiker",
+          "sprecher" : "Ben Hecker"
         },
         {
-          "rolle" : "Scott",
-          "sprecher" : "Tommaso Cacciapuoti"
+          "rolle" : "Miller, Schiffsdetektiv",
+          "sprecher" : "Michael Grimm"
         },
         {
-          "rolle" : "John",
-          "sprecher" : "Sascha Draeger",
-          "pseudonym" : "Martin Sichel"
+          "rolle" : "Kapitän Sherwood",
+          "sprecher" : "Horst Naumann"
         },
         {
-          "rolle" : "Kelly",
-          "sprecher" : "Juliane Szalay"
+          "rolle" : "Theodore Quaid",
+          "sprecher" : "Dietrich Adam"
         },
         {
-          "rolle" : "Norman",
-          "sprecher" : "Eckart Dux"
-        },
-        {
-          "rolle" : "Mr. Darrow",
-          "sprecher" : "Joachim Kappl"
-        },
-        {
-          "rolle" : "Frau",
-          "sprecher" : "Anja Topf"
-        },
-        {
-          "rolle" : "Mann 1",
-          "sprecher" : "Thor W. Müller"
-        },
-        {
-          "rolle" : "Mann 2",
-          "sprecher" : "Helgo Liebig"
-        },
-        {
-          "rolle" : "Mann 3",
-          "sprecher" : "Rasmus Rakete"
-        },
-        {
-          "rolle" : "Mann 4",
-          "sprecher" : "Patrick Perales"
-        },
-        {
-          "rolle" : "Mann 5",
+          "rolle" : "Jamie Peterson, Barmann",
           "sprecher" : "Patrick Bach"
         },
         {
-          "rolle" : "Mann 6",
-          "sprecher" : "Frank Meyer-Brockmann"
+          "rolle" : "Handerson",
+          "sprecher" : "Wolfgang Rositzka"
         },
         {
-          "rolle" : "Mann 7",
-          "sprecher" : "Roy Martens"
+          "rolle" : "Diego",
+          "sprecher" : "Stephan Benson"
+        },
+        {
+          "rolle" : "Mercedes",
+          "sprecher" : "Hella von der Osten-Sacken",
+          "pseudonym" : "Wanda Osten"
+        },
+        {
+          "rolle" : "Nayeli",
+          "sprecher" : "Stefan Brönneke"
+        },
+        {
+          "rolle" : "Barker",
+          "sprecher" : "Ben Hecker"
+        },
+        {
+          "rolle" : "Off-Sprecherin",
+          "sprecher" : "Claudia Stocksieker"
+        },
+        {
+          "rolle" : "Ian Carew",
+          "sprecher" : "Sascha Draeger"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
             {
-              "titel" : "und die Geisterlampe",
+              "titel" : "Der siebte Gast – Inszenierung neuer Geschichten",
               "start" : 0,
-              "end" : 1109933
+              "end" : 439267
             },
             {
-              "titel" : "Dunkle Vergangenheit",
-              "start" : 1109933,
-              "end" : 1797413
+              "titel" : "Der siebte Gast – Die Worte einer Lügenhexe",
+              "start" : 439267,
+              "end" : 774387
             },
             {
-              "titel" : "Entführt",
-              "start" : 1797413,
-              "end" : 2650187
+              "titel" : "Der siebte Gast – Prinzessin in Champagnerlaune",
+              "start" : 774387,
+              "end" : 1596747
             },
             {
-              "titel" : "Verschwörung auf der Eagle Ranch",
-              "start" : 2650187,
-              "end" : 4017840
+              "titel" : "Bis um sieben zurück – Kopfschmerzen",
+              "start" : 1596747,
+              "end" : 2291680
+            },
+            {
+              "titel" : "Bis um sieben zurück – Erwischt!",
+              "start" : 2291680,
+              "end" : 2796560
+            },
+            {
+              "titel" : "Bis um sieben zurück – Bobby",
+              "start" : 2796560,
+              "end" : 3073920
             }
           ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/rip_log1.txt"
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log1.txt"
         },
         {
           "tracks" : [
             {
-              "titel" : "SOS",
+              "titel" : "Bobs schwerste Stunde – Alles weg!",
               "start" : 0,
-              "end" : 661640
+              "end" : 433867
             },
             {
-              "titel" : "Der graue Dämon",
-              "start" : 661640,
-              "end" : 1217947
+              "titel" : "Bobs schwerste Stunde – Gruselstimme",
+              "start" : 433867,
+              "end" : 973600
             },
             {
-              "titel" : "Das Lehrstück",
-              "start" : 1217947,
-              "end" : 1967360
+              "titel" : "Bobs schwerste Stunde – Aufwendiges Vorhaben",
+              "start" : 973600,
+              "end" : 1574187
             },
             {
-              "titel" : "Das Rätsel der schwarzen Nadel",
-              "start" : 1967360,
-              "end" : 2679040
+              "titel" : "Die rote Sieben – Rien ne va plus",
+              "start" : 1574187,
+              "end" : 1869480
+            },
+            {
+              "titel" : "Die rote Sieben – Blutspuren",
+              "start" : 1869480,
+              "end" : 2303627
+            },
+            {
+              "titel" : "Die rote Sieben – Abgekartetes Spiel",
+              "start" : 2303627,
+              "end" : 2748267
             }
           ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/rip_log2.txt"
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log2.txt"
         },
         {
           "tracks" : [
             {
-              "titel" : "Der verschwundene Superstar",
+              "titel" : "Schutzgeld – Überraschung!",
               "start" : 0,
-              "end" : 1055280
+              "end" : 277693
             },
             {
-              "titel" : "Manches verlernt man nie",
-              "start" : 1055280,
-              "end" : 2010880
+              "titel" : "Schutzgeld – Arges Misstrauen",
+              "start" : 277693,
+              "end" : 941400
             },
             {
-              "titel" : "Psychomoon",
-              "start" : 2010880,
-              "end" : 2681040
+              "titel" : "Schutzgeld – Sieben harte Stunden",
+              "start" : 941400,
+              "end" : 1389800
             },
             {
-              "titel" : "Jagd auf den Weihnachtsmann",
-              "start" : 2681040,
-              "end" : 3602480
+              "titel" : "Die siebte Frau des Leuchters – Böse Macht im Grab",
+              "start" : 1389800,
+              "end" : 1674907
+            },
+            {
+              "titel" : "Die siebte Frau des Leuchters – Auf dem Geisterschiff",
+              "start" : 1674907,
+              "end" : 2019467
+            },
+            {
+              "titel" : "Die siebte Frau des Leuchters – Freier Wille",
+              "start" : 2019467,
+              "end" : 2798827
+            },
+            {
+              "titel" : "Die verschwundene Torte – In Angst und Schrecken",
+              "start" : 2798827,
+              "end" : 3166667
+            },
+            {
+              "titel" : "Die verschwundene Torte – Gescanntes Areal",
+              "start" : 3166667,
+              "end" : 3327240
+            },
+            {
+              "titel" : "Die verschwundene Torte – Des Rätsels Lösung",
+              "start" : 3327240,
+              "end" : 3898467
             }
           ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/rip_log3.txt"
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log3.txt"
         }
       ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/metadata.json",
-        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/cover.png"
-      }
-    },
-    {
       "teile" : [
         {
           "teilNummer" : 1,
@@ -1222,11 +1481,14 @@
             "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/7/ffmetadata.txt"
           }
         }
-      ],
-      "titel" : "Das Rätsel der Sieben",
+      ]
+    },
+    {
+      "titel" : "und der Zeitgeist",
       "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Sieben Kurzgeschichten von sieben Autoren in einer Hörspiel-Box: Bei diesen Fällen wird so rasant ermittelt, dass die Lösungen nur knapp entfernt sind!\nMysteriös, abenteuerlich, gespenstisch, experimentell, witzig, unheimlich und verflixt: Siebenmal knackig-kurzer Hör-Spaß ist garantiert!",
-      "veröffentlichungsdatum" : "2014-02-21",
+      "beschreibung" : "Die drei ??? übernehmen jeden Fall. Da gibt's immer Überraschungen, ungeahnte Wendungen – und manchmal kommt alles wirklich ganz anders als gedacht! So wie in diesen kurzen Fällen, bei denen die Welt von Justus, Peter und Bob manchmal ganz schön auf den Kopf gestellt wird. Da ist vorwärts dann plötzlich doch rückwärts und vorn ist hinten und gleich nochmal von vorn …",
+      "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
+      "veröffentlichungsdatum" : "2016-03-04",
       "sprechrollen" : [
         {
           "rolle" : "Erzähler",
@@ -1245,57 +1507,48 @@
           "sprecher" : "Andreas Fröhlich"
         },
         {
-          "rolle" : "Emily White",
-          "sprecher" : "Sabine Hahn"
+          "rolle" : "Hüne",
+          "sprecher" : "Johannes Semm"
         },
         {
-          "rolle" : "Judy Fradkin",
-          "sprecher" : "Ursula Heyer"
+          "rolle" : "Marvin Gray",
+          "sprecher" : "Horst Stark"
         },
         {
-          "rolle" : "Aladin",
-          "sprecher" : "Heidi Schaffrath"
+          "rolle" : "Nancy McMonigal",
+          "sprecher" : "Gerlinde Dillge"
         },
         {
-          "rolle" : "Aschenputtel",
-          "sprecher" : "Regina Lemnitz"
+          "rolle" : "Tom",
+          "sprecher" : "Wolfgang Rositzka"
         },
         {
-          "rolle" : "Prinzessin",
-          "sprecher" : "Renate Pichler"
+          "rolle" : "Rod",
+          "sprecher" : "Herbert Tennigkeit"
         },
         {
-          "rolle" : "Rotkäppchen",
-          "sprecher" : "Angela Stresemann"
+          "rolle" : "Joe",
+          "sprecher" : "Olaf Reichmann"
         },
         {
-          "rolle" : "Meerjungfrau",
-          "sprecher" : "Heikedine Körting",
-          "pseudonym" : "Pamela Punti"
+          "rolle" : "Ben",
+          "sprecher" : "Stephan Chrzescinski"
         },
         {
-          "rolle" : "Mr. Andrews",
-          "sprecher" : "Henry König"
+          "rolle" : "Mariann",
+          "sprecher" : "Simone Ritscher"
         },
         {
-          "rolle" : "Mrs. Andrews",
-          "sprecher" : "Konstanze Ullmer"
+          "rolle" : "TV-Sprecher",
+          "sprecher" : "Holger Wemhoff"
         },
         {
-          "rolle" : "Arzt",
-          "sprecher" : "Erik Schäffler"
+          "rolle" : "Malcolm Fever",
+          "sprecher" : "Tilo Schmitz"
         },
         {
-          "rolle" : "Mrs. Wallace",
-          "sprecher" : "Angela Stresemann"
-        },
-        {
-          "rolle" : "Bobby",
-          "sprecher" : "Merete Brettschneider"
-        },
-        {
-          "rolle" : "Tante Mathilda",
-          "sprecher" : "Karin Lieneweg"
+          "rolle" : "Lucy Hopkins",
+          "sprecher" : "Topsy Küppers"
         },
         {
           "rolle" : "Onkel Titus",
@@ -1303,187 +1556,172 @@
           "pseudonym" : "Hans Meinhardt"
         },
         {
-          "rolle" : "Croupier",
-          "sprecher" : "Gosta Liptow"
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
         },
         {
-          "rolle" : "Carl Hopkins, Physiker",
-          "sprecher" : "Ben Hecker"
+          "rolle" : "Professor Selby",
+          "sprecher" : "Claus Wilcke"
         },
         {
-          "rolle" : "Miller, Schiffsdetektiv",
-          "sprecher" : "Michael Grimm"
+          "rolle" : "Oberpriesterin",
+          "sprecher" : "Elga Schütz"
         },
         {
-          "rolle" : "Kapitän Sherwood",
-          "sprecher" : "Horst Naumann"
+          "rolle" : "Kevin",
+          "sprecher" : "Patrick Mölleken"
         },
         {
-          "rolle" : "Theodore Quaid",
-          "sprecher" : "Dietrich Adam"
+          "rolle" : "Mann in Kutte",
+          "sprecher" : "Rüdiger Hellmann"
         },
         {
-          "rolle" : "Jamie Peterson, Barmann",
-          "sprecher" : "Patrick Bach"
+          "rolle" : "Radio",
+          "sprecher" : "Wilhelm Wieben"
         },
         {
-          "rolle" : "Handerson",
-          "sprecher" : "Wolfgang Rositzka"
+          "rolle" : "Mr. Tilton",
+          "sprecher" : "Christian Senger"
         },
         {
-          "rolle" : "Diego",
-          "sprecher" : "Stephan Benson"
+          "rolle" : "Mr. Walsh",
+          "sprecher" : "Christian Rudolf"
         },
         {
-          "rolle" : "Mercedes",
-          "sprecher" : "Hella von der Osten-Sacken",
-          "pseudonym" : "Wanda Osten"
+          "rolle" : "Weise Frau",
+          "sprecher" : "Dorothea Hagena"
         },
         {
-          "rolle" : "Nayeli",
-          "sprecher" : "Stefan Brönneke"
+          "rolle" : "Kelly",
+          "sprecher" : "Juliane Szalay"
         },
         {
-          "rolle" : "Barker",
-          "sprecher" : "Ben Hecker"
+          "rolle" : "Patrick",
+          "sprecher" : "Nicolas König"
         },
         {
-          "rolle" : "Off-Sprecherin",
-          "sprecher" : "Claudia Stocksieker"
+          "rolle" : "Samuel",
+          "sprecher" : "Johannes Semm"
         },
         {
-          "rolle" : "Ian Carew",
-          "sprecher" : "Sascha Draeger"
+          "rolle" : "Kenneth",
+          "sprecher" : "Olaf Reichmann"
+        },
+        {
+          "rolle" : "Liz Zapata",
+          "sprecher" : "Merete Brettschneider"
+        },
+        {
+          "rolle" : "Skinny Norris",
+          "sprecher" : "Michael Harck"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
             {
-              "titel" : "Der siebte Gast – Inszenierung neuer Geschichten",
+              "titel" : "Immer und immer wieder – Sieben",
               "start" : 0,
-              "end" : 439267
+              "end" : 172213
             },
             {
-              "titel" : "Der siebte Gast – Die Worte einer Lügenhexe",
-              "start" : 439267,
-              "end" : 774387
+              "titel" : "Immer und immer wieder – Variationen",
+              "start" : 172213,
+              "end" : 590280
             },
             {
-              "titel" : "Der siebte Gast – Prinzessin in Champagnerlaune",
-              "start" : 774387,
-              "end" : 1596747
+              "titel" : "Immer und immer wieder – Elf",
+              "start" : 590280,
+              "end" : 950800
             },
             {
-              "titel" : "Bis um sieben zurück – Kopfschmerzen",
-              "start" : 1596747,
-              "end" : 2291680
+              "titel" : "Der Raub der Zehntausend – Der absolute Hammer",
+              "start" : 950800,
+              "end" : 1144627
             },
             {
-              "titel" : "Bis um sieben zurück – Erwischt!",
-              "start" : 2291680,
-              "end" : 2796560
+              "titel" : "Der Raub der Zehntausend – Die Botschaft",
+              "start" : 1144627,
+              "end" : 1774093
             },
             {
-              "titel" : "Bis um sieben zurück – Bobby",
-              "start" : 2796560,
-              "end" : 3073920
+              "titel" : "Der Raub der Zehntausend – Ablenkungsmanöver",
+              "start" : 1774093,
+              "end" : 2149307
+            },
+            {
+              "titel" : "Der verschwundene Zeitgeist – Ein emotionales Gespräch",
+              "start" : 2149307,
+              "end" : 2794893
+            },
+            {
+              "titel" : "Der verschwundene Zeitgeist – Eindeutiges Foto",
+              "start" : 2794893,
+              "end" : 3652267
             }
           ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log1.txt"
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/rip_log1.txt"
         },
         {
           "tracks" : [
             {
-              "titel" : "Bobs schwerste Stunde – Alles weg!",
+              "titel" : "Leaving Nineteen Sixty-four – Überraschung",
               "start" : 0,
-              "end" : 433867
+              "end" : 477000
             },
             {
-              "titel" : "Bobs schwerste Stunde – Gruselstimme",
-              "start" : 433867,
-              "end" : 973600
+              "titel" : "Leaving Nineteen Sixty-four – Ein schlechter Scherz",
+              "start" : 477000,
+              "end" : 991520
             },
             {
-              "titel" : "Bobs schwerste Stunde – Aufwendiges Vorhaben",
-              "start" : 973600,
-              "end" : 1574187
+              "titel" : "Leaving Nineteen Sixty-four – Ein Ass im Ärmel",
+              "start" : 991520,
+              "end" : 1748867
             },
             {
-              "titel" : "Die rote Sieben – Rien ne va plus",
-              "start" : 1574187,
-              "end" : 1869480
+              "titel" : "Rückwärtsgang – Jetzt",
+              "start" : 1748867,
+              "end" : 2312453
             },
             {
-              "titel" : "Die rote Sieben – Blutspuren",
-              "start" : 1869480,
-              "end" : 2303627
+              "titel" : "Rückwärtsgang – Die Aufzeichnung",
+              "start" : 2312453,
+              "end" : 2702853
             },
             {
-              "titel" : "Die rote Sieben – Abgekartetes Spiel",
-              "start" : 2303627,
-              "end" : 2748267
+              "titel" : "Rückwärtsgang – Vorwärts",
+              "start" : 2702853,
+              "end" : 2885253
+            },
+            {
+              "titel" : "Zeit der Opfer, Zeit der Wunder – Die richtige Perspektive",
+              "start" : 2885253,
+              "end" : 3410080
+            },
+            {
+              "titel" : "Zeit der Opfer, Zeit der Wunder – Die nächste Stufe",
+              "start" : 3410080,
+              "end" : 3849720
+            },
+            {
+              "titel" : "Zeit der Opfer, Zeit der Wunder – Einfach galaktisch!",
+              "start" : 3849720,
+              "end" : 4298853
+            },
+            {
+              "titel" : "Zeit der Opfer, Zeit der Wunder – Objekt der Begierde",
+              "start" : 4298853,
+              "end" : 4569373
             }
           ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log2.txt"
-        },
-        {
-          "tracks" : [
-            {
-              "titel" : "Schutzgeld – Überraschung!",
-              "start" : 0,
-              "end" : 277693
-            },
-            {
-              "titel" : "Schutzgeld – Arges Misstrauen",
-              "start" : 277693,
-              "end" : 941400
-            },
-            {
-              "titel" : "Schutzgeld – Sieben harte Stunden",
-              "start" : 941400,
-              "end" : 1389800
-            },
-            {
-              "titel" : "Die siebte Frau des Leuchters – Böse Macht im Grab",
-              "start" : 1389800,
-              "end" : 1674907
-            },
-            {
-              "titel" : "Die siebte Frau des Leuchters – Auf dem Geisterschiff",
-              "start" : 1674907,
-              "end" : 2019467
-            },
-            {
-              "titel" : "Die siebte Frau des Leuchters – Freier Wille",
-              "start" : 2019467,
-              "end" : 2798827
-            },
-            {
-              "titel" : "Die verschwundene Torte – In Angst und Schrecken",
-              "start" : 2798827,
-              "end" : 3166667
-            },
-            {
-              "titel" : "Die verschwundene Torte – Gescanntes Areal",
-              "start" : 3166667,
-              "end" : 3327240
-            },
-            {
-              "titel" : "Die verschwundene Torte – Des Rätsels Lösung",
-              "start" : 3327240,
-              "end" : 3898467
-            }
-          ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log3.txt"
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/rip_log2.txt"
         }
       ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json",
-        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/cover.png"
-      }
-    },
-    {
       "teile" : [
         {
           "teilNummer" : 1,
@@ -1876,16 +2114,18 @@
             "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/6/ffmetadata.txt"
           }
         }
-      ],
-      "titel" : "und der Zeitgeist",
+      ]
+    },
+    {
+      "titel" : "und der schwarze Tag",
       "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Die drei ??? übernehmen jeden Fall. Da gibt's immer Überraschungen, ungeahnte Wendungen – und manchmal kommt alles wirklich ganz anders als gedacht! So wie in diesen kurzen Fällen, bei denen die Welt von Justus, Peter und Bob manchmal ganz schön auf den Kopf gestellt wird. Da ist vorwärts dann plötzlich doch rückwärts und vorn ist hinten und gleich nochmal von vorn …",
+      "beschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.",
       "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
-      "veröffentlichungsdatum" : "2016-03-04",
+      "veröffentlichungsdatum" : "2018-10-28",
       "sprechrollen" : [
         {
           "rolle" : "Erzähler",
-          "sprecher" : "Thomas Fritsch"
+          "sprecher" : "Axel Milberg"
         },
         {
           "rolle" : "Justus Jonas, Erster Detektiv",
@@ -1900,223 +2140,235 @@
           "sprecher" : "Andreas Fröhlich"
         },
         {
-          "rolle" : "Hüne",
-          "sprecher" : "Johannes Semm"
+          "rolle" : "Helen",
+          "sprecher" : "Dorette Hugo",
+          "pseudonym" : "Balancinha Blanc"
         },
         {
-          "rolle" : "Marvin Gray",
-          "sprecher" : "Horst Stark"
+          "rolle" : "Ellen",
+          "sprecher" : "Dorette Hugo"
         },
         {
-          "rolle" : "Nancy McMonigal",
-          "sprecher" : "Gerlinde Dillge"
-        },
-        {
-          "rolle" : "Tom",
-          "sprecher" : "Wolfgang Rositzka"
-        },
-        {
-          "rolle" : "Rod",
-          "sprecher" : "Herbert Tennigkeit"
-        },
-        {
-          "rolle" : "Joe",
-          "sprecher" : "Olaf Reichmann"
-        },
-        {
-          "rolle" : "Ben",
-          "sprecher" : "Stephan Chrzescinski"
-        },
-        {
-          "rolle" : "Mariann",
-          "sprecher" : "Simone Ritscher"
-        },
-        {
-          "rolle" : "TV-Sprecher",
-          "sprecher" : "Holger Wemhoff"
-        },
-        {
-          "rolle" : "Malcolm Fever",
-          "sprecher" : "Tilo Schmitz"
-        },
-        {
-          "rolle" : "Lucy Hopkins",
-          "sprecher" : "Topsy Küppers"
-        },
-        {
-          "rolle" : "Onkel Titus",
-          "sprecher" : "Andreas E. Beurmann",
-          "pseudonym" : "Hans Meinhardt"
+          "rolle" : "Vater",
+          "sprecher" : "Douglas Welbat"
         },
         {
           "rolle" : "Tante Mathilda",
           "sprecher" : "Karin Lieneweg"
         },
         {
-          "rolle" : "Professor Selby",
-          "sprecher" : "Claus Wilcke"
+          "rolle" : "Skinny Norris",
+          "sprecher" : "Michael Harck"
         },
         {
-          "rolle" : "Oberpriesterin",
-          "sprecher" : "Elga Schütz"
+          "rolle" : "Marc Kingstone",
+          "sprecher" : "Rainer Brandt"
         },
         {
-          "rolle" : "Kevin",
-          "sprecher" : "Patrick Mölleken"
+          "rolle" : "Aaron Kingstone",
+          "sprecher" : "Tommi Piper"
         },
         {
-          "rolle" : "Mann in Kutte",
-          "sprecher" : "Rüdiger Hellmann"
+          "rolle" : "Sarah",
+          "sprecher" : "Christiane Leuchtmann"
         },
         {
-          "rolle" : "Radio",
-          "sprecher" : "Wilhelm Wieben"
+          "rolle" : "Albert",
+          "sprecher" : "Franzisko Löwe"
         },
         {
-          "rolle" : "Mr. Tilton",
-          "sprecher" : "Christian Senger"
-        },
-        {
-          "rolle" : "Mr. Walsh",
-          "sprecher" : "Christian Rudolf"
-        },
-        {
-          "rolle" : "Weise Frau",
-          "sprecher" : "Dorothea Hagena"
-        },
-        {
-          "rolle" : "Kelly",
+          "rolle" : "Kelly Madigan",
           "sprecher" : "Juliane Szalay"
         },
         {
-          "rolle" : "Patrick",
-          "sprecher" : "Nicolas König"
+          "rolle" : "Mrs. McGee",
+          "sprecher" : "Alice Krimmel"
         },
         {
-          "rolle" : "Samuel",
-          "sprecher" : "Johannes Semm"
+          "rolle" : "Toby",
+          "sprecher" : "A. Stengelin"
         },
         {
-          "rolle" : "Kenneth",
-          "sprecher" : "Olaf Reichmann"
+          "rolle" : "Mrs. Wells",
+          "sprecher" : "Heidi Schaffrath"
         },
         {
-          "rolle" : "Liz Zapata",
-          "sprecher" : "Merete Brettschneider"
+          "rolle" : "Junge",
+          "sprecher" : "Linus Tauber"
         },
         {
-          "rolle" : "Skinny Norris",
-          "sprecher" : "Michael Harck"
+          "rolle" : "Mädchen",
+          "sprecher" : "Katinka Jaekel"
+        },
+        {
+          "rolle" : "Ericsson",
+          "sprecher" : "Detlef Tams"
+        },
+        {
+          "rolle" : "Sprecher/Moderator",
+          "sprecher" : "Oliver Böttcher"
+        },
+        {
+          "rolle" : "Tarek Shabana",
+          "sprecher" : "Werner Wilkening"
+        },
+        {
+          "rolle" : "Tasha",
+          "sprecher" : "Victoria Zöller"
+        },
+        {
+          "rolle" : "Domino Laverna",
+          "sprecher" : "Sabine Hahn"
+        },
+        {
+          "rolle" : "Biff Rodgers, Reporter",
+          "sprecher" : "Daniel Schütter"
+        },
+        {
+          "rolle" : "Lesley Dimple",
+          "sprecher" : "Ann Montenbruck"
+        },
+        {
+          "rolle" : "Zeus Zenon Johnson",
+          "sprecher" : "Michael Prelle"
+        },
+        {
+          "rolle" : "Computer",
+          "sprecher" : "Peter Bayer"
+        },
+        {
+          "rolle" : "Off-Sprecher",
+          "sprecher" : "Frank Roder"
+        },
+        {
+          "rolle" : "Sprecher",
+          "sprecher" : "Andreas Birnbaum"
+        },
+        {
+          "rolle" : "Blacky",
+          "sprecher" : "Heikedine Körting",
+          "pseudonym" : "Pamela Punti"
+        },
+        {
+          "rolle" : "Kassiererin",
+          "sprecher" : "Angela Stresemann"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
         }
       ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/cover.png"
+      },
       "medien" : [
         {
           "tracks" : [
             {
-              "titel" : "Immer und immer wieder – Sieben",
+              "titel" : "Das schwarze Verlies – Gefesselt",
               "start" : 0,
-              "end" : 172213
+              "end" : 826640
             },
             {
-              "titel" : "Immer und immer wieder – Variationen",
-              "start" : 172213,
-              "end" : 590280
+              "titel" : "Das schwarze Verlies – Betäubt",
+              "start" : 826640,
+              "end" : 1316773
             },
             {
-              "titel" : "Immer und immer wieder – Elf",
-              "start" : 590280,
-              "end" : 950800
+              "titel" : "Das schwarze Verlies – Verrostet",
+              "start" : 1316773,
+              "end" : 2240920
             },
             {
-              "titel" : "Der Raub der Zehntausend – Der absolute Hammer",
-              "start" : 950800,
-              "end" : 1144627
+              "titel" : "Schwarze Seelen – Ohne Gewissen",
+              "start" : 2240920,
+              "end" : 2886080
             },
             {
-              "titel" : "Der Raub der Zehntausend – Die Botschaft",
-              "start" : 1144627,
-              "end" : 1774093
+              "titel" : "Schwarze Seelen – Ohne Rücksicht",
+              "start" : 2886080,
+              "end" : 3590293
             },
             {
-              "titel" : "Der Raub der Zehntausend – Ablenkungsmanöver",
-              "start" : 1774093,
-              "end" : 2149307
-            },
-            {
-              "titel" : "Der verschwundene Zeitgeist – Ein emotionales Gespräch",
-              "start" : 2149307,
-              "end" : 2794893
-            },
-            {
-              "titel" : "Der verschwundene Zeitgeist – Eindeutiges Foto",
-              "start" : 2794893,
-              "end" : 3652267
+              "titel" : "Schwarze Seelen – Ohne Reue",
+              "start" : 3590293,
+              "end" : 4096840
             }
           ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/rip_log1.txt"
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log1.txt"
         },
         {
           "tracks" : [
             {
-              "titel" : "Leaving Nineteen Sixty-four – Überraschung",
+              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Unverschämter Kerl",
               "start" : 0,
-              "end" : 477000
+              "end" : 526840
             },
             {
-              "titel" : "Leaving Nineteen Sixty-four – Ein schlechter Scherz",
-              "start" : 477000,
-              "end" : 991520
+              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Dunkelrestaurant",
+              "start" : 526840,
+              "end" : 1199413
             },
             {
-              "titel" : "Leaving Nineteen Sixty-four – Ein Ass im Ärmel",
-              "start" : 991520,
-              "end" : 1748867
+              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Kontaktschranke",
+              "start" : 1199413,
+              "end" : 1889653
             },
             {
-              "titel" : "Rückwärtsgang – Jetzt",
-              "start" : 1748867,
-              "end" : 2312453
+              "titel" : "Wer hat Angst vorm Schwarzen Mann – Albtraum?",
+              "start" : 1889653,
+              "end" : 2490707
             },
             {
-              "titel" : "Rückwärtsgang – Die Aufzeichnung",
-              "start" : 2312453,
-              "end" : 2702853
+              "titel" : "Wer hat Angst vorm Schwarzen Mann – Das Herz von Afrika",
+              "start" : 2490707,
+              "end" : 3139773
             },
             {
-              "titel" : "Rückwärtsgang – Vorwärts",
-              "start" : 2702853,
-              "end" : 2885253
-            },
-            {
-              "titel" : "Zeit der Opfer, Zeit der Wunder – Die richtige Perspektive",
-              "start" : 2885253,
-              "end" : 3410080
-            },
-            {
-              "titel" : "Zeit der Opfer, Zeit der Wunder – Die nächste Stufe",
-              "start" : 3410080,
-              "end" : 3849720
-            },
-            {
-              "titel" : "Zeit der Opfer, Zeit der Wunder – Einfach galaktisch!",
-              "start" : 3849720,
-              "end" : 4298853
-            },
-            {
-              "titel" : "Zeit der Opfer, Zeit der Wunder – Objekt der Begierde",
-              "start" : 4298853,
-              "end" : 4569373
+              "titel" : "Wer hat Angst vorm Schwarzen Mann – Lasso-Künste",
+              "start" : 3139773,
+              "end" : 3657040
             }
           ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/rip_log2.txt"
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log2.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Die schwarze PhantOma – Wasserdichte Alibis",
+              "start" : 0,
+              "end" : 828067
+            },
+            {
+              "titel" : "Die schwarze PhantOma – Kriminelle Abwege",
+              "start" : 828067,
+              "end" : 1373493
+            },
+            {
+              "titel" : "Die schwarze PhantOma – Tägliches Training",
+              "start" : 1373493,
+              "end" : 2256800
+            },
+            {
+              "titel" : "Das schwarze Nest – Grabesstille",
+              "start" : 2256800,
+              "end" : 2804213
+            },
+            {
+              "titel" : "Das schwarze Nest – Demokratische Abstimmung",
+              "start" : 2804213,
+              "end" : 3297213
+            },
+            {
+              "titel" : "Das schwarze Nest – Fall gelöst",
+              "start" : 3297213,
+              "end" : 3975307
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log3.txt"
         }
       ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/metadata.json",
-        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/cover.png"
-      }
-    },
-    {
       "teile" : [
         {
           "teilNummer" : 1,
@@ -2514,259 +2766,7 @@
             "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/6/ffmetadata.txt"
           }
         }
-      ],
-      "titel" : "und der schwarze Tag",
-      "hörspielskriptautor" : "André Minninger",
-      "beschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.",
-      "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
-      "veröffentlichungsdatum" : "2018-10-28",
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Axel Milberg"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Oliver Rohrbeck"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Jens Wawrczeck"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "Andreas Fröhlich"
-        },
-        {
-          "rolle" : "Helen",
-          "sprecher" : "Dorette Hugo",
-          "pseudonym" : "Balancinha Blanc"
-        },
-        {
-          "rolle" : "Ellen",
-          "sprecher" : "Dorette Hugo"
-        },
-        {
-          "rolle" : "Vater",
-          "sprecher" : "Douglas Welbat"
-        },
-        {
-          "rolle" : "Tante Mathilda",
-          "sprecher" : "Karin Lieneweg"
-        },
-        {
-          "rolle" : "Skinny Norris",
-          "sprecher" : "Michael Harck"
-        },
-        {
-          "rolle" : "Marc Kingstone",
-          "sprecher" : "Rainer Brandt"
-        },
-        {
-          "rolle" : "Aaron Kingstone",
-          "sprecher" : "Tommi Piper"
-        },
-        {
-          "rolle" : "Sarah",
-          "sprecher" : "Christiane Leuchtmann"
-        },
-        {
-          "rolle" : "Albert",
-          "sprecher" : "Franzisko Löwe"
-        },
-        {
-          "rolle" : "Kelly Madigan",
-          "sprecher" : "Juliane Szalay"
-        },
-        {
-          "rolle" : "Mrs. McGee",
-          "sprecher" : "Alice Krimmel"
-        },
-        {
-          "rolle" : "Toby",
-          "sprecher" : "A. Stengelin"
-        },
-        {
-          "rolle" : "Mrs. Wells",
-          "sprecher" : "Heidi Schaffrath"
-        },
-        {
-          "rolle" : "Junge",
-          "sprecher" : "Linus Tauber"
-        },
-        {
-          "rolle" : "Mädchen",
-          "sprecher" : "Katinka Jaekel"
-        },
-        {
-          "rolle" : "Ericsson",
-          "sprecher" : "Detlef Tams"
-        },
-        {
-          "rolle" : "Sprecher/Moderator",
-          "sprecher" : "Oliver Böttcher"
-        },
-        {
-          "rolle" : "Tarek Shabana",
-          "sprecher" : "Werner Wilkening"
-        },
-        {
-          "rolle" : "Tasha",
-          "sprecher" : "Victoria Zöller"
-        },
-        {
-          "rolle" : "Domino Laverna",
-          "sprecher" : "Sabine Hahn"
-        },
-        {
-          "rolle" : "Biff Rodgers, Reporter",
-          "sprecher" : "Daniel Schütter"
-        },
-        {
-          "rolle" : "Lesley Dimple",
-          "sprecher" : "Ann Montenbruck"
-        },
-        {
-          "rolle" : "Zeus Zenon Johnson",
-          "sprecher" : "Michael Prelle"
-        },
-        {
-          "rolle" : "Computer",
-          "sprecher" : "Peter Bayer"
-        },
-        {
-          "rolle" : "Off-Sprecher",
-          "sprecher" : "Frank Roder"
-        },
-        {
-          "rolle" : "Sprecher",
-          "sprecher" : "Andreas Birnbaum"
-        },
-        {
-          "rolle" : "Blacky",
-          "sprecher" : "Heikedine Körting",
-          "pseudonym" : "Pamela Punti"
-        },
-        {
-          "rolle" : "Kassiererin",
-          "sprecher" : "Angela Stresemann"
-        },
-        {
-          "rolle" : "Inspektor Cotta",
-          "sprecher" : "Holger Mahlich"
-        }
-      ],
-      "medien" : [
-        {
-          "tracks" : [
-            {
-              "titel" : "Das schwarze Verlies – Gefesselt",
-              "start" : 0,
-              "end" : 826640
-            },
-            {
-              "titel" : "Das schwarze Verlies – Betäubt",
-              "start" : 826640,
-              "end" : 1316773
-            },
-            {
-              "titel" : "Das schwarze Verlies – Verrostet",
-              "start" : 1316773,
-              "end" : 2240920
-            },
-            {
-              "titel" : "Schwarze Seelen – Ohne Gewissen",
-              "start" : 2240920,
-              "end" : 2886080
-            },
-            {
-              "titel" : "Schwarze Seelen – Ohne Rücksicht",
-              "start" : 2886080,
-              "end" : 3590293
-            },
-            {
-              "titel" : "Schwarze Seelen – Ohne Reue",
-              "start" : 3590293,
-              "end" : 4096840
-            }
-          ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log1.txt"
-        },
-        {
-          "tracks" : [
-            {
-              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Unverschämter Kerl",
-              "start" : 0,
-              "end" : 526840
-            },
-            {
-              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Dunkelrestaurant",
-              "start" : 526840,
-              "end" : 1199413
-            },
-            {
-              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Kontaktschranke",
-              "start" : 1199413,
-              "end" : 1889653
-            },
-            {
-              "titel" : "Wer hat Angst vorm Schwarzen Mann – Albtraum?",
-              "start" : 1889653,
-              "end" : 2490707
-            },
-            {
-              "titel" : "Wer hat Angst vorm Schwarzen Mann – Das Herz von Afrika",
-              "start" : 2490707,
-              "end" : 3139773
-            },
-            {
-              "titel" : "Wer hat Angst vorm Schwarzen Mann – Lasso-Künste",
-              "start" : 3139773,
-              "end" : 3657040
-            }
-          ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log2.txt"
-        },
-        {
-          "tracks" : [
-            {
-              "titel" : "Die schwarze PhantOma – Wasserdichte Alibis",
-              "start" : 0,
-              "end" : 828067
-            },
-            {
-              "titel" : "Die schwarze PhantOma – Kriminelle Abwege",
-              "start" : 828067,
-              "end" : 1373493
-            },
-            {
-              "titel" : "Die schwarze PhantOma – Tägliches Training",
-              "start" : 1373493,
-              "end" : 2256800
-            },
-            {
-              "titel" : "Das schwarze Nest – Grabesstille",
-              "start" : 2256800,
-              "end" : 2804213
-            },
-            {
-              "titel" : "Das schwarze Nest – Demokratische Abstimmung",
-              "start" : 2804213,
-              "end" : 3297213
-            },
-            {
-              "titel" : "Das schwarze Nest – Fall gelöst",
-              "start" : 3297213,
-              "end" : 3975307
-            }
-          ],
-          "xld_log" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log3.txt"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/metadata.json",
-        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/cover.png"
-      }
+      ]
     }
   ]
 }

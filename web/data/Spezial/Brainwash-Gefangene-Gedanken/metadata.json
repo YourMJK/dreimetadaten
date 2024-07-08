@@ -163,6 +163,12 @@
       "sprecher" : "Lauscherlounge-Zuschauer (www.dreifragezeichen.de/www/menge-brainwash)"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music49/v4/b9/f2/a8/b9f2a801-34a1-4d5d-c745-5ef921fba6cb/886445749403.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -229,11 +235,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/Brainwash-Gefangene-Gedanken/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music49/v4/b9/f2/a8/b9f2a801-34a1-4d5d-c745-5ef921fba6cb/886445749403.jpg"
-  }
+  ]
 }

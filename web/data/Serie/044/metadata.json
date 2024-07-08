@@ -98,6 +98,13 @@
       "sprecher" : "Stefan Brönneke"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/044/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/044/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/044/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/ae/7e/db/ae7edb3e-2e14-1db9-0b66-0e4e974b9441/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220114180139if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/21/f5/4c/0743213884424.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -143,12 +150,5 @@
         }
       ]
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/044/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/044/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/044/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music30/v4/ae/7e/db/ae7edb3e-2e14-1db9-0b66-0e4e974b9441/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220114180139if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/21/f5/4c/0743213884424.jpg"
-  }
+  ]
 }

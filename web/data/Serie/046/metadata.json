@@ -105,6 +105,13 @@
       "sprecher" : "Norbert Lange"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/046/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/046/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/046/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/a3/0b/dc/a30bdc77-aec6-64c3-8c3a-690b915f0797/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111212333if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c4/fd/5c/0743213884622.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -150,12 +157,5 @@
         }
       ]
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/046/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/046/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/046/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/a3/0b/dc/a30bdc77-aec6-64c3-8c3a-690b915f0797/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111212333if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c4/fd/5c/0743213884622.jpg"
-  }
+  ]
 }

@@ -123,6 +123,13 @@
       "sprecher" : "Holger Löwenberg"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/144/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/144/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/144/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/44/64/25/44642533-90d8-a699-839b-07518cc83a6d/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220104131536if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b5/2f/31/0886978014429.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -194,12 +201,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/144/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/144/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/144/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/144/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/44/64/25/44642533-90d8-a699-839b-07518cc83a6d/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220104131536if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b5/2f/31/0886978014429.jpg"
-  }
+  ]
 }

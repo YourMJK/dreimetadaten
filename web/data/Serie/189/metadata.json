@@ -109,6 +109,12 @@
       "sprecher" : "Joachim Kretzer"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/189/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/189/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/189/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/af/7a/61/af7a610b-0f7b-d05c-af75-0919b14845ba/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -155,11 +161,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/189/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/189/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/189/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/189/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music118/v4/af/7a/61/af7a610b-0f7b-d05c-af75-0919b14845ba/source"
-  }
+  ]
 }

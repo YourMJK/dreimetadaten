@@ -97,6 +97,13 @@
       "sprecher" : "Luigi Pane"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/066/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/066/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/066/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/3b/8d/c9/3b8dc904-52da-f3cd-d361-933b4dce7753/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220115135355if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/0e/01/10/0743213131627.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -143,12 +150,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/066/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/066/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/066/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/066/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/3b/8d/c9/3b8dc904-52da-f3cd-d361-933b4dce7753/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220115135355if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/0e/01/10/0743213131627.jpg"
-  }
+  ]
 }

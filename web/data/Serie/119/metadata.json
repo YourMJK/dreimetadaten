@@ -132,6 +132,13 @@
       "sprecher" : "Frank Felicetti"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/119/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/119/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/119/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music22/v4/be/dc/91/bedc9105-adb8-ff7d-c96d-d3408a397569/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220123153352if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/39/28/e3/0743219911926.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -208,12 +215,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/119/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/119/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/119/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/119/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music22/v4/be/dc/91/bedc9105-adb8-ff7d-c96d-d3408a397569/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220123153352if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/39/28/e3/0743219911926.jpg"
-  }
+  ]
 }

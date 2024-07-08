@@ -93,6 +93,13 @@
       "sprecher" : "Günter König"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/050/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/050/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/050/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/3b/13/ce/3b13cee9-0f9c-66c0-c0b8-fff0d058bb66/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220114180141if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/71/8a/c7/0743213885025.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -139,12 +146,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/050/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/050/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/050/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/050/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/3b/13/ce/3b13cee9-0f9c-66c0-c0b8-fff0d058bb66/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220114180141if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/71/8a/c7/0743213885025.jpg"
-  }
+  ]
 }

@@ -139,6 +139,12 @@
       "sprecher" : "Timo Alexander Wenzel"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music123/v4/26/93/df/2693df4e-9555-a979-a62e-80a70c845c84/886447878415.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -200,11 +206,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/rip_log2.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiaeugige-Totenkopf/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/r40/Music123/v4/26/93/df/2693df4e-9555-a979-a62e-80a70c845c84/886447878415.jpg"
-  }
+  ]
 }

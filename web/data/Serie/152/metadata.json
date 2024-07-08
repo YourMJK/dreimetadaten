@@ -145,6 +145,13 @@
       "sprecher" : "Anton Sprick"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/152/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/152/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/152/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music91/v4/17/66/cd/1766cd28-f935-f51e-c3a0-3d85edcc2555/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220123153402if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/65/42/16/0886979232228.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -211,12 +218,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/152/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/152/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/152/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/152/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music91/v4/17/66/cd/1766cd28-f935-f51e-c3a0-3d85edcc2555/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220123153402if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/65/42/16/0886979232228.jpg"
-  }
+  ]
 }

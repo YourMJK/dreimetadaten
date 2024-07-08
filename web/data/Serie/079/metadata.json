@@ -112,6 +112,13 @@
       "sprecher" : "Jens Herrndorff"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/079/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/079/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/079/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/64/00/05/640005b4-5953-5a61-7bed-bf890128b4d1/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220115045241if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c7/0b/ef/0743215476122.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -158,12 +165,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/079/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/079/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/079/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/079/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music20/v4/64/00/05/640005b4-5953-5a61-7bed-bf890128b4d1/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220115045241if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/c7/0b/ef/0743215476122.jpg"
-  }
+  ]
 }

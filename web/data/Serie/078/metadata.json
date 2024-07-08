@@ -96,6 +96,13 @@
       "sprecher" : "Richard Ems"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/078/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/078/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/078/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/6d/1f/8e/6d1f8e56-10c7-bbec-4137-261a8a08564c/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220123153405if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b6/f9/32/0743215184126.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -132,12 +139,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/078/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/078/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/078/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/078/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/6d/1f/8e/6d1f8e56-10c7-bbec-4137-261a8a08564c/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220123153405if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/b6/f9/32/0743215184126.jpg"
-  }
+  ]
 }

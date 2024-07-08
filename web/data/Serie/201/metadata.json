@@ -106,6 +106,12 @@
       "sprecher" : "Woody Mues"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/201/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/201/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/201/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music124/v4/ae/dd/c0/aeddc0e7-e6b8-6753-2330-4174ab626e2b/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -157,11 +163,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/201/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/201/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/201/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/201/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music124/v4/ae/dd/c0/aeddc0e7-e6b8-6753-2330-4174ab626e2b/source"
-  }
+  ]
 }

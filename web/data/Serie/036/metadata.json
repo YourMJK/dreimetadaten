@@ -89,6 +89,13 @@
       "sprecher" : "Peter Lakenmacher, Christian Rode"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/036/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/036/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/036/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/3c/cd/bd/3ccdbd8b-6b79-5dd4-bf11-2ca8e42779cb/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111212322if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/e5/a8/e4/0743213883625.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -134,12 +141,5 @@
         }
       ]
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/036/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/036/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/036/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music18/v4/3c/cd/bd/3ccdbd8b-6b79-5dd4-bf11-2ca8e42779cb/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111212322if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/e5/a8/e4/0743213883625.jpg"
-  }
+  ]
 }

@@ -83,6 +83,12 @@
       "sprecher" : "Holger Mahlich"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/204/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/204/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/204/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music123/v4/ea/6c/b8/ea6cb899-c301-3b96-7d45-86011cfa1289/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -119,11 +125,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/204/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/204/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/204/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/204/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music123/v4/ea/6c/b8/ea6cb899-c301-3b96-7d45-86011cfa1289/source"
-  }
+  ]
 }

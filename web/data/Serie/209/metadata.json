@@ -96,6 +96,12 @@
       "sprecher" : "Paul Michaeli"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/209/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/209/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/209/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music114/v4/c8/c9/90/c8c99025-0e8b-1ffd-12f3-f664fb75e124/source"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -137,11 +143,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/209/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/209/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/209/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/209/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music114/v4/c8/c9/90/c8c99025-0e8b-1ffd-12f3-f664fb75e124/source"
-  }
+  ]
 }

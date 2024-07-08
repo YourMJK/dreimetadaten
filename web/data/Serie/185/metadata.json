@@ -118,6 +118,13 @@
       "sprecher" : "Daniel Welbat"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/185/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/185/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/185/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/43/aa/92/43aa9292-a0c7-97ea-f752-78af9e089509/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220123153348if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/57/f6/6c/0888751320024.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -169,12 +176,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/185/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/185/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/185/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/185/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/43/aa/92/43aa9292-a0c7-97ea-f752-78af9e089509/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220123153348if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/57/f6/6c/0888751320024.jpg"
-  }
+  ]
 }

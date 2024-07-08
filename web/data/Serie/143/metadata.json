@@ -112,6 +112,13 @@
       "sprecher" : "Arndt Schmöle"
     }
   ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Serie/143/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/143/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/143/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/fe/6f/74/fe6f7474-f6ac-95dc-4c9e-e3dd300b37da/source",
+    "cover_kosmos" : "http://web.archive.org/web/20220111022952if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/65/f5/81/0886978014320.jpg"
+  },
   "medien" : [
     {
       "tracks" : [
@@ -173,12 +180,5 @@
       ],
       "xld_log" : "http://dreimetadaten.de/data/Serie/143/rip_log.txt"
     }
-  ],
-  "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/143/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/143/ffmetadata.txt",
-    "cover" : "http://dreimetadaten.de/data/Serie/143/cover.png",
-    "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/fe/6f/74/fe6f7474-f6ac-95dc-4c9e-e3dd300b37da/source",
-    "cover_kosmos" : "http://web.archive.org/web/20220111022952if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/65/f5/81/0886978014320.jpg"
-  }
+  ]
 }
