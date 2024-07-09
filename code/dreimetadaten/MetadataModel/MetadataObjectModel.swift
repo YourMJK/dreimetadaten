@@ -107,6 +107,9 @@ extension MetadataObjectModel {
 		var cover: String?
 		var cover_itunes: String?
 		var cover_kosmos: String?
+		var dreifragezeichen: String?
+		var appleMusic: String?
+		var spotify: String?
 	}
 	
 	struct Medium: Codable {
@@ -177,7 +180,10 @@ extension MetadataObjectModel {
 			"ffmetadata",
 			"cover",
 			"cover_itunes",
-			"cover_kosmos"
+			"cover_kosmos",
+			"dreifragezeichen",
+			"appleMusic",
+			"spotify"
 		]
 		static func prefixedKeyString(keyString: String) -> String {
 			let number = Self.ordering.firstIndex(of: keyString) ?? 99
@@ -445,7 +451,10 @@ extension MetadataObjectModel {
 				ffmetadata: !hörspiel.unvollständig ? "ffmetadata.txt" : nil,
 				cover: hörspiel.cover ? "cover.png" : nil,
 				cover_itunes: hörspiel.urlCoverApple,
-				cover_kosmos: hörspiel.urlCoverKosmos
+				cover_kosmos: hörspiel.urlCoverKosmos,
+				dreifragezeichen: hörspiel.urlDreifragezeichen,
+				appleMusic: hörspiel.urlAppleMusic,
+				spotify: hörspiel.urlSpotify
 			)
 			hörspielObject.unvollständig = hörspiel.unvollständig ? true : nil
 			
