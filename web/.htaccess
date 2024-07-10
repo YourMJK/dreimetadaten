@@ -1,3 +1,4 @@
 AddDefaultCharset utf-8
 AddType 'application/json; charset=UTF-8' .json
 AddType 'text/plain; charset=UTF-8' .swift
+ErrorDocument 404 default
