@@ -32,21 +32,25 @@ struct Command: ParsableCommand {
 	static let webURL = URL(string: "http://dreimetadaten.de")!
 	static let webDir = url(projectRelativePath: "web")
 	private static let webDataDirRelativePath = "data"
-	static var webDataURL: URL { webURL.appendingPathComponent(webDataDirRelativePath) }
-	static var webDataDir: URL { webDir.appendingPathComponent(webDataDirRelativePath) }
+	static var webDataURL = webURL.appendingPathComponent(webDataDirRelativePath)
+	static var webDataDir = webDir.appendingPathComponent(webDataDirRelativePath)
+	static var webIndexDir = webDir.appendingPathComponent("index")
 	
 	static func url(projectRelativePath projectDirRelativePath: String) -> URL {
 		let dest = URL(fileURLWithPath: projectDirRelativePath, relativeTo: projectDir)
 		let base = workingDir
+		let workingDirRelativePath = relativePath(of: dest, toDirectory: base)
+		return URL(fileURLWithPath: workingDirRelativePath, relativeTo: workingDir)
+	}
+	static func relativePath(of dest: URL, toDirectory base: URL) -> String {
 		let destComponents = dest.standardizedFileURL.pathComponents
 		let baseComponents = base.standardizedFileURL.pathComponents
 		var index = 0
 		while index < destComponents.count && index < baseComponents.count && destComponents[index] == baseComponents[index] {
 			index += 1
 		}
-		var workingDirRelativeComponents = Array(repeating: "..", count: baseComponents.count - index)
-		workingDirRelativeComponents.append(contentsOf: destComponents[index...])
-		let workingDirRelativePath = workingDirRelativeComponents.joined(separator: "/")
-		return URL(fileURLWithPath: workingDirRelativePath, relativeTo: workingDir)
+		var relComponents = Array(repeating: "..", count: baseComponents.count - index)
+		relComponents.append(contentsOf: destComponents[index...])
+		return relComponents.joined(separator: "/")
 	}
 }

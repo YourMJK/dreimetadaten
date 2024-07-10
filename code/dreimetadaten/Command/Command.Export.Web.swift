@@ -14,18 +14,18 @@ import GRDB
 extension Command.Export {
 	struct Web: ParsableCommand {
 		static let configuration = CommandConfiguration(
-			abstract: "Export dataset for the web data directory.",
-			alwaysCompactUsageOptions: true,
-			examples: [
-				.example(arguments: "metadata/json/Serie.json")
-			]
+			abstract: "Export dataset for the web data directory and create web index.",
+			alwaysCompactUsageOptions: true
 		)
 		
-		@Argument(help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
+		@Option(name: .customLong("db"), help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
 		var databaseFilePath: String = Command.databaseFile.relativePath
 		
-		@Argument(help: ArgumentHelp("The path to the output directory.", valueName: "output directory"))
-		var outputDirectoryPath: String = Command.webDataDir.relativePath
+		@Option(name: .customLong("webData"), help: ArgumentHelp("The path to the data output directory.", valueName: "data directory"))
+		var webDataDirectoryPath: String = Command.webDataDir.relativePath
+		
+		@Option(name: .customLong("webIndex"), help: ArgumentHelp("The path to the index output directory.", valueName: "index directory"))
+		var webIndexDirectoryPath: String = Command.webIndexDir.relativePath
 		
 		@Option(name: .customLong("webDataURL"), help: ArgumentHelp("The URL pointing to the web data directory. Used as the base URL for generated metadata links.", valueName: "URL"))
 		var webDataURLString: String = Command.webDataURL.absoluteString
@@ -34,20 +34,18 @@ extension Command.Export {
 		var webDirPath: String = Command.webDir.relativePath
 		
 		func run() throws {
-			let outputDirectoryURL = URL(fileURLWithPath: outputDirectoryPath, isDirectory: true)
+			let webDataDirectory = URL(fileURLWithPath: webDataDirectoryPath, isDirectory: true)
+			let webIndexDirectory = URL(fileURLWithPath: webIndexDirectoryPath, isDirectory: true)
 			guard let webDataURL = URL(string: webDataURLString) else {
 				throw ArgumentsError.invalidURL(string: webDataURLString)
 			}
 			let webDir = URL(fileURLWithPath: webDirPath, isDirectory: true)
 			
-			if !FileManager.default.fileExists(atPath: outputDirectoryURL.path) {
-				try FileManager.default.createDirectory(at: outputDirectoryURL, withIntermediateDirectories: false)
-			}
-			
 			let dbQueue = try DatabaseQueue(path: databaseFilePath)
 			try dbQueue.read { db in
-				let exporter = WebDataExporter(db: db, webDataURL: webDataURL, webDir: webDir)
-				try exporter.export(to: outputDirectoryURL)
+				let exporter = try WebDataExporter(db: db, webDataURL: webDataURL, webDir: webDir)
+				try exporter.export(to: webDataDirectory)
+				try exporter.createIndex(at: webIndexDirectory)
 			}
 		}
 	}

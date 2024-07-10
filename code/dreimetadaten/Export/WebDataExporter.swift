@@ -11,29 +11,27 @@ import GRDB
 
 
 struct WebDataExporter {
-	let db: Database
-	let webDataURL: URL
-	let webDir: URL
+	private let objectModel: MetadataObjectModel
+	private let webDir: URL
+	private let host: String
 	
-	private static let filenameAllowed =
-		CharacterSet(charactersIn: "a"..."z")
-		.union(CharacterSet(charactersIn: "A"..."Z"))
-		.union(CharacterSet(charactersIn: "0"..."9"))
-		.union(CharacterSet(["-", "_"]))
-	private static let filenameReplacements: [Character: String] = [
-		"ä": "ae",
-		"Ä": "Ae",
-		"ö": "oe",
-		"Ö": "Oe",
-		"ü": "ue",
-		"Ü": "Ue",
-		"ß": "ss",
-		" ": "-"
-	]
 	
+	init(db: Database, webDataURL: URL, webDir: URL) throws {
+		self.objectModel = try MetadataObjectModel(fromDatabase: db, withBaseURL: webDataURL)
+		self.webDir = webDir
+		guard let host = webDataURL.host else {
+			throw FileError.invalidURL(string: webDataURL.absoluteString)
+		}
+		self.host = host
+	}
+	
+	
+	// MARK: - Export
 	
 	func export(to outputDir: URL) throws {
-		let objectModels = try MetadataObjectModel(fromDatabase: db, withBaseURL: webDataURL).separateByCollectionType()
+		try Self.createDirectoryIfNeccessary(at: outputDir)
+		
+		let objectModels = objectModel.separateByCollectionType()
 		var referencedFilePaths = Set<String>()
 		
 		for (objectModel, collectionType) in objectModels {
@@ -67,7 +65,7 @@ struct WebDataExporter {
 		// Check referenced files and existing files
 		var existingFilePaths = Set<String>()
 		guard let enumerator = FileManager.default.enumerator(at: outputDir, includingPropertiesForKeys: [.isRegularFileKey], options: [.skipsHiddenFiles, .producesRelativePathURLs]) else {
-			throw ExporterError.directoryEnumerationFailed(url: outputDir)
+			throw FileError.directoryEnumerationFailed(url: outputDir)
 		}
 		for case let url as URL in enumerator {
 			let attributes = try url.resourceValues(forKeys:[.isRegularFileKey])
@@ -87,34 +85,13 @@ struct WebDataExporter {
 		}
 	}
 	
-	static func dirname(for hörspiel: MetadataObjectModel.Hörspiel, nummerFormat: String? = nil) throws -> String {
-		if let folge = hörspiel as? MetadataObjectModel.Folge, folge.nummer >= 0 {
-			return String(format: nummerFormat ?? "", folge.nummer)
-		}
-		
-		guard let titel = hörspiel.titel else {
-			throw ExporterError.missingTitel(hörspiel: hörspiel)
-		}
-		var name = ""
-		for character in titel {
-			if character.unicodeScalars.allSatisfy(Self.filenameAllowed.contains(_:)) {
-				name.append(character)
-			}
-			else if let replacement = Self.filenameReplacements[character] {
-				name.append(replacement)
-			}
-		}
-		return name
-	}
-	
-	
 	private static func export(hörspiel: MetadataObjectModel.Hörspiel, type: CollectionType, in outputDir: URL, localWebDir webDir: URL) throws -> [URL] {
 		var referencedFiles = [URL]()
 		
 		func fileURL(for urlString: String) throws -> URL {
 			// Replace base URL with local directory path
 			guard let url = URL(string: urlString) else {
-				throw ExporterError.invalidURL(string: urlString)
+				throw FileError.invalidURL(string: urlString)
 			}
 			var fileURL = webDir
 			url.pathComponents.dropFirst().forEach {
@@ -122,7 +99,7 @@ struct WebDataExporter {
 			}
 			// Check and remember file path
 			guard fileURL.path.hasPrefix(outputDir.path) else {
-				throw ExporterError.filePathOutsideOfOutputDirectory(file: fileURL, outputDir: outputDir)
+				throw FileError.filePathOutsideOfOutputDirectory(file: fileURL, outputDir: outputDir)
 			}
 			referencedFiles.append(fileURL)
 			// Create intermediate directories for file
@@ -179,27 +156,141 @@ struct WebDataExporter {
 		return referencedFiles
 	}
 	
+	
+	// MARK: - Index
+	
+	func createIndex(at outputDir: URL) throws {
+		try Self.createDirectoryIfNeccessary(at: outputDir)
+		
+		let hörspiele = CollectionType.allCases
+			.map {
+				objectModel[keyPath: $0.objectModelKeyPath] as! [MetadataObjectModel.Hörspiel]
+			}
+			.joined()
+		
+		func fileURLForLink(_ link: String) throws -> URL {
+			guard let url = URL(string: link) else {
+				throw FileError.invalidURL(string: link)
+			}
+			guard url.host == host else {
+				throw IndexerError.mismatchedHostInURL(url: url.absoluteString, host: host)
+			}
+			let relativePath = String(url.relativePath.dropFirst())
+			return URL(fileURLWithPath: relativePath, relativeTo: webDir)
+		}
+		
+		func index(named name: String, _ mapClosure: (MetadataObjectModel.Hörspiel) throws -> String?) throws {
+			let indexDir = outputDir.appendingPathComponent(name)
+			try Self.createDirectoryIfNeccessary(at: indexDir)
+			var keys = Set<String>()
+			
+			for hörspiel in hörspiele {
+				guard let key = try mapClosure(hörspiel) else {
+					continue
+				}
+				guard keys.insert(key).inserted else {
+					throw IndexerError.keyAlreadyExists(key: key, index: name)
+				}
+				guard let jsonLink = hörspiel.links?.json else {
+					throw IndexerError.noDestinationJSON(hörspiel: hörspiel)
+				}
+				let sourceFile = indexDir.appendingPathComponent(key)
+				let destinationFile = try fileURLForLink(jsonLink)
+				let destinationRelativePath = Command.relativePath(of: destinationFile, toDirectory: indexDir)
+				try Self.createAndOverwriteSymlink(at: sourceFile, to: destinationRelativePath)
+			}
+		}
+		
+		try index(named: "apple-music") { hörspiel in
+			guard let link = hörspiel.links?.appleMusic else { return nil }
+			guard let id = URL(string: link)?.lastPathComponent else {
+				throw IndexerError.invalidAppleMusicURL(url: link)
+			}
+			return id
+		}
+		try index(named: "spotify") { hörspiel in
+			guard let link = hörspiel.links?.spotify else { return nil }
+			guard let id = URL(string: link)?.lastPathComponent else {
+				throw IndexerError.invalidAppleMusicURL(url: link)
+			}
+			return id
+		}
+	}
+	
+	
+	// MARK: - Filename and file system
+	
+	private static let filenameAllowed =
+		CharacterSet(charactersIn: "a"..."z")
+		.union(CharacterSet(charactersIn: "A"..."Z"))
+		.union(CharacterSet(charactersIn: "0"..."9"))
+		.union(CharacterSet(["-", "_"]))
+	private static let filenameReplacements: [Character: String] = [
+		"ä": "ae",
+		"Ä": "Ae",
+		"ö": "oe",
+		"Ö": "Oe",
+		"ü": "ue",
+		"Ü": "Ue",
+		"ß": "ss",
+		" ": "-"
+	]
+	
+	static func filenameSafe(string: String) -> String {
+		var name = ""
+		for character in string {
+			if character.unicodeScalars.allSatisfy(Self.filenameAllowed.contains(_:)) {
+				name.append(character)
+			}
+			else if let replacement = Self.filenameReplacements[character] {
+				name.append(replacement)
+			}
+		}
+		return name
+	}
+	
+	static func dirname(for hörspiel: MetadataObjectModel.Hörspiel, nummerFormat: String? = nil) throws -> String {
+		if let folge = hörspiel as? MetadataObjectModel.Folge, folge.nummer >= 0 {
+			return String(format: nummerFormat ?? "", folge.nummer)
+		}
+		guard let titel = hörspiel.titel else {
+			throw ExporterError.missingTitel(hörspiel: hörspiel)
+		}
+		return filenameSafe(string: titel)
+	}
+	
+	
 	private static func createDirectoryIfNeccessary(at url: URL) throws {
 		do {
 			try FileManager.default.createDirectory(atPath: url.path, withIntermediateDirectories: true, attributes: nil)
 		}
 		catch {
-			throw ExporterError.directoryCreationFailed(url: url, error: error)
+			throw FileError.directoryCreationFailed(url: url, error: error)
 		}
 	}
+	
+	private static func createAndOverwriteSymlink(at sourceURL: URL, to destinationRelativePath: String) throws {
+		let manager = FileManager.default
+		if manager.fileExists(atPath: sourceURL.path) {
+			let values = try sourceURL.resourceValues(forKeys: [.isSymbolicLinkKey])
+			guard values.isSymbolicLink! else {
+				throw FileError.symlinkCreationOverwritesFile(url: sourceURL)
+			}
+			try manager.removeItem(at: sourceURL)
+		}
+		try manager.createSymbolicLink(atPath: sourceURL.path, withDestinationPath: destinationRelativePath)
+	}
+	
 }
 
 
 extension WebDataExporter {
-	enum ExporterError: LocalizedError {
+	enum FileError: LocalizedError {
 		case invalidURL(string: String)
 		case filePathOutsideOfOutputDirectory(file: URL, outputDir: URL)
 		case directoryCreationFailed(url: URL, error: Error)
 		case directoryEnumerationFailed(url: URL)
-		case unsupportedTeileNesting
-		case missingTitel(hörspiel: MetadataObjectModel.Hörspiel)
-		case hörspielExportFailed(hörspiel: MetadataObjectModel.Hörspiel, error: Error)
-		case collectionExportFailed(collectionType: CollectionType, error: Error)
+		case symlinkCreationOverwritesFile(url: URL)
 		
 		var errorDescription: String? {
 			switch self {
@@ -211,6 +302,20 @@ extension WebDataExporter {
 					return "Couldn't create directory at \"\(url.relativePath)\": \(error.localizedDescription)"
 				case .directoryEnumerationFailed(let url):
 					return "Couldn't enumerate contents of directory \"\(url.relativePath)\""
+				case .symlinkCreationOverwritesFile(let url):
+					return "Creating a symlink at \"\(url.path)\" would overwrite existing non-symlink file"
+			}
+		}
+	}
+	
+	enum ExporterError: LocalizedError {
+		case unsupportedTeileNesting
+		case missingTitel(hörspiel: MetadataObjectModel.Hörspiel)
+		case hörspielExportFailed(hörspiel: MetadataObjectModel.Hörspiel, error: Error)
+		case collectionExportFailed(collectionType: CollectionType, error: Error)
+		
+		var errorDescription: String? {
+			switch self {
 				case .unsupportedTeileNesting:
 					return "Unsupported nesting of teile (maximum allowed depth: 1)"
 				case .missingTitel(let hörspiel):
@@ -221,6 +326,29 @@ extension WebDataExporter {
 					return "Couldn't export metadata for hörspiel\(hörspiel.titel.map { " \"\($0)\"" } ?? "" ): \(error.localizedDescription)"
 				case .collectionExportFailed(let collectionType, let error):
 					return "Couldn't export metadata for \"\(collectionType)\": \(error.localizedDescription)"
+			}
+		}
+	}
+	
+	enum IndexerError: LocalizedError {
+		case invalidAppleMusicURL(url: String)
+		case invalidSpotifyURL(url: String)
+		case mismatchedHostInURL(url: String, host: String)
+		case keyAlreadyExists(key: String, index: String)
+		case noDestinationJSON(hörspiel: MetadataObjectModel.Hörspiel)
+		
+		var errorDescription: String? {
+			switch self {
+				case .invalidAppleMusicURL(let url):
+					return "Invalid Apple Music URL \"\(url)\""
+				case .invalidSpotifyURL(let url):
+					return "Invalid Spotify URL \"\(url)\""
+				case .mismatchedHostInURL(let url, let host):
+					return "Host in URL \"\(url)\" doesn't match specified host \"\(host)\""
+				case .keyAlreadyExists(let key, let index):
+					return "Key \"\(key)\" already exists in index \"\(index)\""
+				case .noDestinationJSON(let hörspiel):
+					return "No destination JSON file for hörspiel \(hörspiel.titel.map { " \"\($0)\"" } ?? "(nil titel)" )"
 			}
 		}
 	}
