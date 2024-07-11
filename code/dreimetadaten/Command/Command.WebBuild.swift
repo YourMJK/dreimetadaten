@@ -63,7 +63,12 @@ extension Command {
 			}
 			
 			let objectModel = try MetadataObjectModel(fromJSON: jsonFileURL)
-			let webBuilder = WebBuilder(objectModel: objectModel, collectionType: collectionType, templateContent: templateContent)
+			let webBuilder = WebBuilder(
+				objectModel: objectModel,
+				collectionType: collectionType,
+				templateContent: templateContent,
+				host: Command.webURL.host!
+			)
 			try webBuilder.build()
 			
 			do {
