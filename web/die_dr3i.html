@@ -40,190 +40,156 @@
 <h2>DiE DR3i</h2>
 
 <p>
-	Daten der DiE DR3i Folgen.<br>
-	<br>
+	Daten der DiE DR3i Folgen.
+</p>
+<p>
 	Wer Fehler findet: bitte ein <a href="https://github.com/YourMJK/dreimetadaten/issues/new/choose">GitHub-Issue erstellen</a> oder <a href="mailto:info@dreimetadaten.de">Mail schreiben</a>.
 </p>
 
 <section>
-	<b>Tabellenerklärung:</b>
-	<ul>
-		<li><b>Metadaten</b>: Alle bisher zur dieser Folge gesammelten Metadaten als JSON. Diese umfassen meist:
-			<ul>
-				<li class="sublist">Titel & Nummerierung</li>
-				<li class="sublist">Buchautor</li>
-				<li class="sublist">Hörspielskriptautor</li>
-				<li class="sublist">Beschreibung (Klappentext)</li>
-				<li class="sublist">Veröffentlichungsdatum</li>
-				<li class="sublist">Kapitelnamen & -zeitpositionen (in ms)</li>
-				<li class="sublist">Sprecher/Rollen-Auflistung</li>
-				<li class="sublist">Alle Links aus der Tabelle unten</li>
-			</ul>
-			Wer die Daten maschinell einlesen will, wird vielleicht <a href="data/metadata_structure.swift">dies hier</a> hilfreich finden.
-		</li>
-		<li><b>FFmetadata</b> (ausgewählte Metadaten im <a href="https://ffmpeg.org/ffmpeg-formats.html#Metadata-1">ffmetadata-Format</a> von <a href="https://ffmpeg.org">ffmpeg</a>)
-			<ul>
-				<li class="sublist">Titel</li>
-				<li class="sublist">Kapitelnamen & -zeitpositionen</li>
-				<li class="sublist">Veröffentlichungsdatum</li>
-				<li class="sublist">Beschreibung (Klappentext)</li>
-				<li class="sublist">Erzählersprecher als "artist"</li>
-				<li class="sublist">Hörspielskriptautor als "album_artist"</li>
-				<li class="sublist">Buchautor als "composer"</li>
-			</ul>
-		</li>
-		<li><b>XLD Log</b>: Informationen zur CD. Inklusive Track-Hashes mit AccurateRip-DB-Abgleich</li>
-		<li><b>Cover</b>: hochauflösendes Coverbild (2048px), rekonstruiert, Artwork aus Scans gewonnen</li>
-	</ul>
+	<details>
+		<summary><b>Tabellenerklärung</b></summary>
+		<ul>
+			<li><b>Metadaten / JSON:</b> Alle bisher zur dieser Folge gesammelten Metadaten als JSON. Diese umfassen meist:
+				<ul>
+					<li class="sublist">Titel & Nummerierung</li>
+					<li class="sublist">Buchautor</li>
+					<li class="sublist">Hörspielskriptautor</li>
+					<li class="sublist">Beschreibung (Klappentext)</li>
+					<li class="sublist">Kurzbeschreibung (Klappentext-Einleitung)</li>
+					<li class="sublist">Veröffentlichungsdatum</li>
+					<li class="sublist">Kapitelnamen & -zeitpositionen (in ms)</li>
+					<li class="sublist">Sprecher/Rollen-Auflistung</li>
+					<li class="sublist">Alle Links aus der Tabelle unten</li>
+				</ul>
+				Wer die Daten maschinell einlesen will, wird vielleicht <a href="data/metadata_structure.swift">dies hier</a> hilfreich finden.
+			</li>
+			<li><b>Metadaten / FFmetadata</b> (reduzierte Metadaten im <a href="https://ffmpeg.org/ffmpeg-formats.html#metadata">ffmetadata-Format</a> von <a href="https://ffmpeg.org">ffmpeg</a>)
+				<ul>
+					<li class="sublist">Titel</li>
+					<li class="sublist">Kapitelnamen & -zeitpositionen</li>
+					<li class="sublist">Veröffentlichungsdatum</li>
+					<li class="sublist">Kurzbeschreibung + Beschreibung</li>
+					<li class="sublist">Erzählersprecher (als "artist")</li>
+					<li class="sublist">Hörspielskriptautor (als "album_artist")</li>
+					<li class="sublist">Buchautor (als "composer")</li>
+				</ul>
+			</li>
+			<li><b>Rip Log:</b> Informationen zur CD. Inklusive Track-Hashes mit AccurateRip-DB-Abgleich</li>
+			<li><b>Cover / dreimetadaten:</b> hochauflösendes Coverbild (2048px), rekonstruiert, Artwork aus Scans gewonnen</li>
+		</ul>
+	</details>
 </section>
 
 <section>
-	<b>Downloads:</b>
+	<b>Downloads</b>
 	<ul>
-		<li><b>Metadaten:</b> <a class="boldLink" href="data/DiE_DR3i.json" download="DiE_DR3i.json">DiE_DR3i.json</a> <span class="smallText"><a href="data/metadata_structure.swift">(Strukturerklärung)</a></span>
-		<li><b>Gesamtarchiv:</b> <a class="boldLink" href="data/DiE_DR3i.zip" download>DiE_DR3i.zip (54MB)</a><br>
+		<li><b>Metadaten:</b> <b><a href="data/DiE_DR3i.json" download="DiE_DR3i.json">DiE_DR3i.json</a></b> <span class="smallText"><a href="data/metadata_structure.swift">(Strukturerklärung)</a></span></li>
+		<li><b>Gesamtarchiv:</b> <b><a href="data/DiE_DR3i.zip" download>DiE_DR3i.zip (54MB)</a></b></li>
 	</ul>
 </section>
 
-<b>Letzte Aktualisierung:</b> 07.05.2021
+<b>Letzte Aktualisierung:</b> 23.07.2024
 
 
 <table class="datatable">
 
+	<th>Nr.</td>
+	<th>Titel</td>
+	<th colspan="2">Metadaten</td>
+	<th>Rip</td>
+	<th colspan="1">Cover</td>
 <tr>
 	<td class="cell_nr"></td>
 	<td class="cell_nr">Hotel Luxury End</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/metadata.json">JSON</a></td>
 	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/cover.png">Cover</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/rip_log1.txt">CD1</a><br><a href="data/DiE_DR3i/Hotel-Luxury-End/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/cover.png">dreimetadaten</a></td>
 </tr>
 <tr>
-	<td class="cell_data"></td>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/1/metadata.json">Metadaten</a></td>
+	<td></td>
+	<td class="cell_nr">└╴1</td>
+	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/1/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/1/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/1/cover.png">Cover</a></td>
 	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/1/cover.png">dreimetadaten</a></td>
 </tr>
 <tr>
-	<td class="cell_data"></td>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/2/metadata.json">Metadaten</a></td>
+	<td></td>
+	<td class="cell_nr">└╴2</td>
+	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/2/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/2/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/2/cover.png">Cover</a></td>
 	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/Hotel-Luxury-End/2/cover.png">dreimetadaten</a></td>
 </tr>
 <tr>
 	<td class="cell_nr">1</td>
 	<td class="cell_nr">Das Seeungeheuer</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/1/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/1/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/DiE_DR3i/1/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/1/cover.png">Cover</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_data"></td>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/1/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/1/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_data"></td>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/1/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/1/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/1/rip_log1.txt">CD1</a><br><a href="data/DiE_DR3i/1/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/1/cover.png">dreimetadaten</a></td>
 </tr>
 <tr>
 	<td class="cell_nr">2</td>
 	<td class="cell_nr">Die Pforte zum Jenseits</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/2/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/2/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/DiE_DR3i/2/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/2/cover.png">Cover</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/2/rip_log.txt">CD</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/2/cover.png">dreimetadaten</a></td>
 </tr>
 <tr>
 	<td class="cell_nr">3</td>
 	<td class="cell_nr">Verschollen in der Zeit</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/3/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/3/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/DiE_DR3i/3/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/3/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/3/cover.png">Cover</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/3/rip_log.txt">CD</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/3/cover.png">dreimetadaten</a></td>
 </tr>
 <tr>
 	<td class="cell_nr">4</td>
 	<td class="cell_nr">Zug um Zug</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/4/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/4/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/DiE_DR3i/4/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/4/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/4/cover.png">Cover</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/4/rip_log.txt">CD</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/4/cover.png">dreimetadaten</a></td>
 </tr>
 <tr>
 	<td class="cell_nr">5</td>
 	<td class="cell_nr">Das Haus der 1.000 Rätsel</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/5/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/5/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/DiE_DR3i/5/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/5/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/5/cover.png">Cover</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/5/rip_log.txt">CD</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/5/cover.png">dreimetadaten</a></td>
 </tr>
 <tr>
 	<td class="cell_nr">6</td>
 	<td class="cell_nr">Tödliche Regie</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/6/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/6/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/DiE_DR3i/6/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/6/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/6/cover.png">Cover</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/6/rip_log.txt">CD</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/6/cover.png">dreimetadaten</a></td>
 </tr>
 <tr>
 	<td class="cell_nr">7</td>
 	<td class="cell_nr">und der kopflose Reiter</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/7/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/7/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/DiE_DR3i/7/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/7/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/7/cover.png">Cover</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/7/rip_log.txt">CD</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/7/cover.png">dreimetadaten</a></td>
 </tr>
 <tr>
 	<td class="cell_nr">8</td>
 	<td class="cell_nr">Der Jahrhundertstein</td>
-	<td class="cell_data"><a href="data/DiE_DR3i/8/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/8/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/DiE_DR3i/8/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/8/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/DiE_DR3i/8/cover.png">Cover</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/8/rip_log.txt">CD</a></td>
+	<td class="cell_data"><a href="data/DiE_DR3i/8/cover.png">dreimetadaten</a></td>
 </tr>
 </table>
 
 </body>
 
 </html>
-
 

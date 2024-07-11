@@ -33,7 +33,7 @@
 	--color-tablerowHoverBG: rgba(0,0,0,0.05);
 	--color-tablerowIncompleteBG: rgba(237,27,35,0.125);
 	
-	--line-style: 0.5px solid var(--color-gray1);
+	--line-style: 0.05em solid var(--color-gray1);
 	
 	box-sizing: border-box;
 }
@@ -43,13 +43,13 @@ body {
 	background: var(--color-background);
 	font-family: 'SF-Pro-Text';
 	font-weight: 400;
-	font-size: 13pt;
-	line-height: 1.3;
+	font-size: 12pt;
+	line-height: 1.2;
 	color: var(--color-gray0);
 	max-width: 1200px;
-	margin: 0px auto;
-	padding: 0px 40px;
-	padding-bottom: 80px;
+	margin: 0 auto;
+	padding: 0 2.5em;
+	padding-bottom: 5em;
 }
 
 h1, h2, h3, h4 {
@@ -62,13 +62,17 @@ h3 {
 	font-size: 14pt;
 }
 
+p {
+	--margin-p: 0.5em;
+	margin-top: var(--margin-p);
+	margin-bottom: var(--margin-p);
+}
 
 code {
 	font-family: SFMono, monospace;
 	font-weight: 500;
 	font-size: 12pt;
 }
-
 
 a {
 	color: var(--color-blue);
@@ -83,19 +87,26 @@ a:hover {
 a:visited {
 }
 a:active {
-	color: #2060B0;
+	color: var(--color-red);
 	text-decoration: underline;
 }
 
+summary {
+	cursor: pointer;
+}
+summary b:hover {
+	text-decoration: underline;
+}
 
 .smallText {
 	font-size: 10pt;
 }
-.boldLink {
-	font-weight: 500;
+
+
+section {
+	margin-top: 1em;
+	margin-bottom: 1em;
 }
-
-
 ul {
 	margin-top: 0;
 }
@@ -107,19 +118,22 @@ li {
 }
 
 
-
 nav {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 12px 0;
-	margin-bottom: 40px;
+	padding: 0.6em 0;
+	margin-bottom: 2em;
 	
-	font-size: 14pt;
+	font-size: 13pt;
 	border-bottom: var(--line-style);
 }
 nav .active {
+	color: var(--color-gray0);
 	font-weight: 600;
+}
+nav a.active:hover {
+	text-decoration: none;
 }
 
 .navbar_table {
@@ -127,7 +141,7 @@ nav .active {
 	text-align: center;
 }
 .navbar_table td {
-	padding: 0 16px;
+	padding: 0 0.8em;
 }
 
 nav img {
@@ -135,9 +149,8 @@ nav img {
 }
 
 
-
 .datatable {
-	margin-top: 48px;
+	margin-top: 2.5em;
 	/*
 	margin-left: auto;
 	margin-right: auto;
@@ -145,11 +158,11 @@ nav img {
 }
 .datatable, .datatable th, .datatable td {
 	font-family: SFMono, monospace;
-	font-size: 12pt;
+	font-size: 11pt;
 	line-height: 1.2;
 	border: var(--line-style);
 	border-collapse: collapse;
-	padding: 4px 20px;
+	padding: 0.25em 1em;
 }
 .datatable tr {
 	background-color: transparent;
@@ -175,4 +188,11 @@ nav img {
 .datatable .cell_data a {
 	font-weight: 500 !important;
 }
-
+.datatable .cell_icon {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.datatable .cell_icon img {
+	height: 15pt;
+	vertical-align: bottom;
+}

@@ -40,510 +40,288 @@
 <h2>Spezial</h2>
 
 <p>
-	Daten der Die drei ??? Spezial-Folgen.<br>
-	<br>
+	Daten der Die drei ??? Spezial-Folgen.
+</p>
+<p>
 	Wer Fehler findet: bitte ein <a href="https://github.com/YourMJK/dreimetadaten/issues/new/choose">GitHub-Issue erstellen</a> oder <a href="mailto:info@dreimetadaten.de">Mail schreiben</a>.
 </p>
 
 <section>
-	<b>Tabellenerklärung:</b>
-	<ul>
-		<li><b>Metadaten</b>: Alle bisher zur dieser Folge gesammelten Metadaten als JSON. Diese umfassen meist:
-			<ul>
-				<li class="sublist">Titel & Nummerierung</li>
-				<li class="sublist">Buchautor</li>
-				<li class="sublist">Hörspielskriptautor</li>
-				<li class="sublist">Beschreibung (Klappentext)</li>
-				<li class="sublist">Veröffentlichungsdatum</li>
-				<li class="sublist">Kapitelnamen & -zeitpositionen (in ms)</li>
-				<li class="sublist">Sprecher/Rollen-Auflistung</li>
-				<li class="sublist">Alle Links aus der Tabelle unten</li>
-			</ul>
-			Wer die Daten maschinell einlesen will, wird vielleicht <a href="data/metadata_structure.swift">dies hier</a> hilfreich finden.
-		</li>
-		<li><b>FFmetadata</b> (ausgewählte Metadaten im <a href="https://ffmpeg.org/ffmpeg-formats.html#Metadata-1">ffmetadata-Format</a> von <a href="https://ffmpeg.org">ffmpeg</a>)
-			<ul>
-				<li class="sublist">Titel</li>
-				<li class="sublist">Kapitelnamen & -zeitpositionen</li>
-				<li class="sublist">Veröffentlichungsdatum</li>
-				<li class="sublist">Beschreibung (Klappentext)</li>
-				<li class="sublist">Erzählersprecher als "artist"</li>
-				<li class="sublist">Hörspielskriptautor als "album_artist"</li>
-				<li class="sublist">Buchautor als "composer"</li>
-			</ul>
-		</li>
-		<li><b>XLD Log</b>: Informationen zur CD. Inklusive Track-Hashes mit AccurateRip-DB-Abgleich</li>
-		<li><b>Cover</b>: teils offizielles Coverbild (1500px); teils hochauflösendes Coverbild (2048px), rekonstruiert, ohne Europa-Logo</li>
-		<li><b>Cover (iTunes)</b>: Link zum offiziellen itunes.apple.com Coverbild</li>
-	</ul>
+	<details>
+		<summary><b>Tabellenerklärung</b></summary>
+		<ul>
+			<li><b>Metadaten / JSON:</b> Alle bisher zur dieser Folge gesammelten Metadaten als JSON. Diese umfassen meist:
+				<ul>
+					<li class="sublist">Titel & Nummerierung</li>
+					<li class="sublist">Buchautor</li>
+					<li class="sublist">Hörspielskriptautor</li>
+					<li class="sublist">Beschreibung (Klappentext)</li>
+					<li class="sublist">Kurzbeschreibung (Klappentext-Einleitung)</li>
+					<li class="sublist">Veröffentlichungsdatum</li>
+					<li class="sublist">Kapitelnamen & -zeitpositionen (in ms)</li>
+					<li class="sublist">Sprecher/Rollen-Auflistung</li>
+					<li class="sublist">Alle Links aus der Tabelle unten</li>
+				</ul>
+				Wer die Daten maschinell einlesen will, wird vielleicht <a href="data/metadata_structure.swift">dies hier</a> hilfreich finden.
+			</li>
+			<li><b>Metadaten / FFmetadata</b> (reduzierte Metadaten im <a href="https://ffmpeg.org/ffmpeg-formats.html#metadata">ffmetadata-Format</a> von <a href="https://ffmpeg.org">ffmpeg</a>)
+				<ul>
+					<li class="sublist">Titel</li>
+					<li class="sublist">Kapitelnamen & -zeitpositionen</li>
+					<li class="sublist">Veröffentlichungsdatum</li>
+					<li class="sublist">Kurzbeschreibung + Beschreibung</li>
+					<li class="sublist">Erzählersprecher (als "artist")</li>
+					<li class="sublist">Hörspielskriptautor (als "album_artist")</li>
+					<li class="sublist">Buchautor (als "composer")</li>
+				</ul>
+			</li>
+			<li><b>Rip Log:</b> Informationen zur CD. Inklusive Track-Hashes mit AccurateRip-DB-Abgleich</li>
+			<li><b>Cover / dreimetadaten:</b> teils offizielles Coverbild (1500px); teils hochauflösendes Coverbild (2048px), rekonstruiert, ohne Europa-Logo</li>
+			<li><b>Cover / iTunes:</b> Link zum offiziellen itunes.apple.com Coverbild</li>
+		</ul>
+	</details>
 </section>
 
 <section>
-	<b>Downloads:</b>
+	<b>Downloads</b>
 	<ul>
-		<li><b>Metadaten:</b> <a class="boldLink" href="data/Spezial.json" download="Spezial.json">Spezial.json</a> <span class="smallText"><a href="data/metadata_structure.swift">(Strukturerklärung)</a></span>
-		<li><b>Gesamtarchiv:</b> <a class="boldLink" href="data/Spezial.zip" download>Spezial.zip (65MB)</a><br>
+		<li><b>Metadaten:</b> <b><a href="data/Spezial.json" download="Spezial.json">Spezial.json</a></b> <span class="smallText"><a href="data/metadata_structure.swift">(Strukturerklärung)</a></span></li>
+		<li><b>Gesamtarchiv:</b> <b><a href="data/Spezial.zip" download>Spezial.zip (65MB)</a></b></li>
 	</ul>
 </section>
 
-<b>Letzte Aktualisierung:</b> 15.03.2024
+<b>Letzte Aktualisierung:</b> 23.07.2024
 
 
 <table class="datatable">
 
+	<th>Titel</td>
+	<th colspan="2">Metadaten</td>
+	<th>Rip</td>
+	<th colspan="2">Cover</td>
+	<th colspan="3">Plattform</td>
 <tr>
 	<td class="cell_nr">und der Super-Papagei 2004</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/cover.png">Cover</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/rip_log1.txt">CD1</a><br><a href="data/Spezial/und-der-Super-Papagei-2004/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Super-Papagei-2004/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music49/v4/c8/5e/27/c85e2753-96d6-5361-5fcd-62c30788f409/886445749311.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/super-papagei-2004"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/super-papagei-2004/1092550463"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/4KXnXnpFRnQsjeZHpNC7X9"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">und der dreiTag</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/metadata.json">JSON</a></td>
 	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music49/v4/9a/dd/ec/9addece3-1886-3728-fd48-67a93c04e5f0/886445749281.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/rip_log1.txt">CD1</a><br><a href="data/Spezial/und-der-dreiTag/rip_log2.txt">CD2</a><br><a href="data/Spezial/und-der-dreiTag/rip_log3.txt">CD3</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music49/v4/9a/dd/ec/9addece3-1886-3728-fd48-67a93c04e5f0/886445749281.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/und-der-dreitag"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/und-der-dreitag/1092548111"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/3JJeehFIJTxhrltC6e44VT"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
-	<td class="cell_nr">/J</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/1/metadata.json">Metadaten</a></td>
+	<td class="cell_nr">└╴J</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/1/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/1/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/1/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"></td>
+	<td class="cell_icon"></td>
+	<td class="cell_icon"></td>
+	<td class="cell_icon"></td>
 </tr>
 <tr>
-	<td class="cell_nr">/B</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/2/metadata.json">Metadaten</a></td>
+	<td class="cell_nr">└╴B</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/2/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/2/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/2/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"></td>
+	<td class="cell_icon"></td>
+	<td class="cell_icon"></td>
+	<td class="cell_icon"></td>
 </tr>
 <tr>
-	<td class="cell_nr">/P</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/3/metadata.json">Metadaten</a></td>
+	<td class="cell_nr">└╴P</td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/3/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/3/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiTag/3/rip_log.txt">XLD Log</a></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"></td>
 	<td class="cell_data"></td>
+	<td class="cell_icon"></td>
+	<td class="cell_icon"></td>
+	<td class="cell_icon"></td>
 </tr>
 <tr>
 	<td class="cell_nr">Brainwash: Gefangene Gedanken</td>
-	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music49/v4/b9/f2/a8/b9f2a801-34a1-4d5d-c745-5ef921fba6cb/886445749403.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/rip_log.txt">CD</a></td>
+	<td class="cell_data"><a href="data/Spezial/Brainwash-Gefangene-Gedanken/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music49/v4/b9/f2/a8/b9f2a801-34a1-4d5d-c745-5ef921fba6cb/886445749403.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/brainwash"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/brainwash-gefangene-gedanken/1092529878"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/5RBu5WK95Q6BtWfA4o3Vgs"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">House of Horrors: Haus der Angst</td>
-	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music114/v4/87/73/89/877389c8-2c6a-c40c-7bf1-b3498a8678fb/884977708189.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/rip_log1.txt">CD1</a><br><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/Spezial/House-of-Horrors-Haus-der-Angst/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music114/v4/87/73/89/877389c8-2c6a-c40c-7bf1-b3498a8678fb/884977708189.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/house-of-horrors"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/house-of-horrors-haus-der-angst/452658930"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/249qkyRcqMAoKJhXwrTYtE"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">High Strung: Unter Hochspannung</td>
-	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music49/v4/30/a3/5b/30a35bd3-ae05-4a15-cd1b-674753aee0e2/886445749465.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/rip_log.txt">CD</a></td>
+	<td class="cell_data"><a href="data/Spezial/High-Strung-Unter-Hochspannung/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music49/v4/30/a3/5b/30a35bd3-ae05-4a15-cd1b-674753aee0e2/886445749465.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/high-strung"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/high-strung-unter-hochspannung/1092538532"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/2Bxdn8Gn8vEy4UiTOc8cBK"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">und der 5. Advent</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music71/v4/96/1c/ed/961ced16-8515-10f4-6a56-02a2bc5bc285/886446100562.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD3</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/3/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/3/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/rip_log1.txt">CD1</a><br><a href="data/Spezial/und-der-5-Advent/rip_log2.txt">CD2</a><br><a href="data/Spezial/und-der-5-Advent/rip_log3.txt">CD3</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-5-Advent/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music71/v4/96/1c/ed/961ced16-8515-10f4-6a56-02a2bc5bc285/886446100562.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/der-5-advent"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/der-5-advent/1174866876"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/2qFuUJMx8w4VEO0Zdf8jFJ"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">Stille Nacht, düstere Nacht</td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music118/v4/05/41/31/05413108-b81c-9d3b-b874-3d9ce5a4f8f7/886446100609.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD3</td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/3/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/3/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/rip_log1.txt">CD1</a><br><a href="data/Spezial/Stille-Nacht-duestere-Nacht/rip_log2.txt">CD2</a><br><a href="data/Spezial/Stille-Nacht-duestere-Nacht/rip_log3.txt">CD3</a></td>
+	<td class="cell_data"><a href="data/Spezial/Stille-Nacht-duestere-Nacht/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music118/v4/05/41/31/05413108-b81c-9d3b-b874-3d9ce5a4f8f7/886446100609.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/adventskalender-stille-nacht-dustere-nacht"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/adventskalender-stille-nacht-d%C3%BCstere-nacht/1295117431"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/5iobM2gNVymvP8XqnRnHVR"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">O du finstere</td>
-	<td class="cell_data"><a href="data/Spezial/O-du-finstere/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/O-du-finstere/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/O-du-finstere/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/O-du-finstere/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music124/v4/ea/13/9b/ea139be5-bf25-69b9-42db-7d77c8e27c35/886447878439.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/O-du-finstere/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/O-du-finstere/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/O-du-finstere/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/O-du-finstere/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD3</td>
-	<td class="cell_data"><a href="data/Spezial/O-du-finstere/3/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/O-du-finstere/3/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/O-du-finstere/rip_log1.txt">CD1</a><br><a href="data/Spezial/O-du-finstere/rip_log2.txt">CD2</a><br><a href="data/Spezial/O-du-finstere/rip_log3.txt">CD3</a></td>
+	<td class="cell_data"><a href="data/Spezial/O-du-finstere/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music124/v4/ea/13/9b/ea139be5-bf25-69b9-42db-7d77c8e27c35/886447878439.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/o-du-finstere"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/die-drei-adventskalender-o-du-finstere/1529420801"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/7ynXpeQRwzqKiv8WVh7c7B"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">Eine schreckliche Bescherung</td>
-	<td class="cell_data"><a href="data/Spezial/Eine-schreckliche-Bescherung/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/Eine-schreckliche-Bescherung/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/Eine-schreckliche-Bescherung/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Eine-schreckliche-Bescherung/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music122/v4/d6/bf/a6/d6bfa640-de36-a2cb-3790-74a9e1ce511b/886449413263.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/Eine-schreckliche-Bescherung/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Eine-schreckliche-Bescherung/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/Eine-schreckliche-Bescherung/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Eine-schreckliche-Bescherung/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/Eine-schreckliche-Bescherung/rip_log1.txt">CD1</a><br><a href="data/Spezial/Eine-schreckliche-Bescherung/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/Spezial/Eine-schreckliche-Bescherung/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music122/v4/d6/bf/a6/d6bfa640-de36-a2cb-3790-74a9e1ce511b/886449413263.jpg">iTunes</a></td>
+	<td class="cell_icon"></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/adventskalender-eine-schreckliche-bescherung/1695696461"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/5u2wd0lYukcINw8dUFCREq"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">Böser die Glocken nie klingen</td>
-	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music126/v4/3b/22/be/3b22befa-c875-e76b-b8a1-ff5d5122d062/196871057332.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD3</td>
-	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/3/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/3/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/rip_log1.txt">CD1</a><br><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/rip_log2.txt">CD2</a><br><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/rip_log3.txt">CD3</a></td>
+	<td class="cell_data"><a href="data/Spezial/Boeser-die-Glocken-nie-klingen/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music126/v4/3b/22/be/3b22befa-c875-e76b-b8a1-ff5d5122d062/196871057332.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/boser-die-glocken-nie-klingen-adventskalender"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/adventskalender-b%C3%B6ser-die-glocken-nie-klingen/1752450018"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/0oZaQfEwMWY2TfviD4fEdV"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">Das Grab der Inka-Mumie</td>
-	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music124/v4/ee/4e/3e/ee4e3e55-9e99-6e6c-b30b-a3c08f0d04e9/886444438483.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/rip_log1.txt">CD1</a><br><a href="data/Spezial/Das-Grab-der-Inka-Mumie/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/Spezial/Das-Grab-der-Inka-Mumie/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music124/v4/ee/4e/3e/ee4e3e55-9e99-6e6c-b30b-a3c08f0d04e9/886444438483.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/das-grab-der-inka-mumie"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/das-grab-der-inka-mumie/1219257238"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/7osWCNCcvGfqP31G7281iL"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">und der Tornadojäger</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music127/v4/5c/bd/e2/5cbde282-7308-b942-a2d6-e7fd717b9f47/886444438681.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/rip_log.txt">CD</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-Tornadojaeger/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music127/v4/5c/bd/e2/5cbde282-7308-b942-a2d6-e7fd717b9f47/886444438681.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/und-der-tornadojager"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/specialfolge-und-der-tornadoj%C3%A4ger/1235580462"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/7mH8vdj0TkiPO6fMHBCvYj"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">und das kalte Auge</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music128/v4/af/f8/9a/aff89a25-8c32-e047-08e0-5b55e66187ae/886444438667.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/rip_log1.txt">CD1</a><br><a href="data/Spezial/und-das-kalte-Auge/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-kalte-Auge/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music128/v4/af/f8/9a/aff89a25-8c32-e047-08e0-5b55e66187ae/886444438667.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/und-das-kalte-auge"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/specialfolge-und-das-kalte-auge/1263882229"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/3egVVb6Zt0LdS6agBMGsiJ"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">und die schwarze Katze</td>
-	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music124/v4/0a/a9/1c/0aa91c6a-4119-4d0a-b039-7019411de671/886447191804.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/rip_log1.txt">CD1</a><br><a href="data/Spezial/und-die-schwarze-Katze/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-die-schwarze-Katze/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music124/v4/0a/a9/1c/0aa91c6a-4119-4d0a-b039-7019411de671/886447191804.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/und-die-schwarze-katze-neufassung"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/und-die-schwarze-katze/1456265306"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/39K0Sczt1mIbW33lB5RNer"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">und das versunkene Schiff</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music125/v4/29/80/09/29800971-253c-1a01-fce6-9080236cee2e/886447335307.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/rip_log1.txt">CD1</a><br><a href="data/Spezial/und-das-versunkene-Schiff/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-versunkene-Schiff/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music125/v4/29/80/09/29800971-253c-1a01-fce6-9080236cee2e/886447335307.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/die-drei-und-das-versunkene-schiff"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/und-das-versunkene-schiff/1480675865"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/6UN8m07SmIzyDe63H0oljL"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">und der dreiäugige Totenkopf</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music123/v4/26/93/df/2693df4e-9555-a979-a62e-80a70c845c84/886447878415.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/rip_log1.txt">CD1</a><br><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-der-dreiaeugige-Totenkopf/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music123/v4/26/93/df/2693df4e-9555-a979-a62e-80a70c845c84/886447878415.jpg">iTunes</a></td>
+	<td class="cell_icon"><a href="https://dreifragezeichen.de/produktwelt/details/und-der-dreiaugige-totenkopf"><img src="icons/ddf_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/und-der-drei%C3%A4ugige-totenkopf/1492053303"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/76M62o1rdKEqTN1JIbGdGV"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 <tr>
 	<td class="cell_nr">und das Grab der Maya</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-Grab-der-Maya/metadata.json">Metadaten</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-Grab-der-Maya/metadata.json">JSON</a></td>
 	<td class="cell_data"><a href="data/Spezial/und-das-Grab-der-Maya/ffmetadata.txt">FFmetadata</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-das-Grab-der-Maya/cover.png">Cover</a></td>
-	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music124/v4/80/ac/b8/80acb833-cbf8-6f17-a96a-fc6e02553e42/886448741374.jpg">Cover (iTunes)</a></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD1</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-Grab-der-Maya/1/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-das-Grab-der-Maya/1/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-</tr>
-<tr>
-	<td class="cell_nr">/CD2</td>
-	<td class="cell_data"><a href="data/Spezial/und-das-Grab-der-Maya/2/metadata.json">Metadaten</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"><a href="data/Spezial/und-das-Grab-der-Maya/2/rip_log.txt">XLD Log</a></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
-	<td class="cell_data"></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-Grab-der-Maya/rip_log1.txt">CD1</a><br><a href="data/Spezial/und-das-Grab-der-Maya/rip_log2.txt">CD2</a></td>
+	<td class="cell_data"><a href="data/Spezial/und-das-Grab-der-Maya/cover.png">dreimetadaten</a></td>
+	<td class="cell_data"><a href="http://a1.mzstatic.com/r40/Music124/v4/80/ac/b8/80acb833-cbf8-6f17-a96a-fc6e02553e42/886448741374.jpg">iTunes</a></td>
+	<td class="cell_icon"></td>
+	<td class="cell_icon"><a href="https://music.apple.com/de/album/und-das-grab-der-maya/1535920186"><img src="icons/am_link.svg"></a></td>
+	<td class="cell_icon"><a href="https://open.spotify.com/intl-de/album/4vj4Dq2q7fyvwY7UCj2vin"><img src="icons/spotify_link.svg"></a></td>
 </tr>
 </table>
 
 </body>
 
 </html>
-
