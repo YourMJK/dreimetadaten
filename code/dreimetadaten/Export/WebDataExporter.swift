@@ -215,6 +215,13 @@ struct WebDataExporter {
 			}
 			return id
 		}
+		try index(named: "bookbeat") { hörspiel in
+			guard let link = hörspiel.links?.bookbeat else { return nil }
+			guard let id = URL(string: link)?.lastPathComponent else {
+				throw IndexerError.invalidBookbeatURL(url: link)
+			}
+			return id
+		}
 	}
 	
 	
@@ -333,6 +340,7 @@ extension WebDataExporter {
 	enum IndexerError: LocalizedError {
 		case invalidAppleMusicURL(url: String)
 		case invalidSpotifyURL(url: String)
+		case invalidBookbeatURL(url: String)
 		case mismatchedHostInURL(url: String, host: String)
 		case keyAlreadyExists(key: String, index: String)
 		case noDestinationJSON(hörspiel: MetadataObjectModel.Hörspiel)
@@ -343,6 +351,8 @@ extension WebDataExporter {
 					return "Invalid Apple Music URL \"\(url)\""
 				case .invalidSpotifyURL(let url):
 					return "Invalid Spotify URL \"\(url)\""
+				case .invalidBookbeatURL(let url):
+					return "Invalid Bookbeat URL \"\(url)\""
 				case .mismatchedHostInURL(let url, let host):
 					return "Host in URL \"\(url)\" doesn't match specified host \"\(host)\""
 				case .keyAlreadyExists(let key, let index):

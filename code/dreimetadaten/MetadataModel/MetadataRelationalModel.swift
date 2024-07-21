@@ -76,6 +76,7 @@ extension MetadataRelationalModel {
 		var urlDreifragezeichen: String?
 		var urlAppleMusic: String?
 		var urlSpotify: String?
+		var urlBookbeat: String?
 	}
 	
 	struct HörspielTeil: Codable {
@@ -284,6 +285,7 @@ extension MetadataRelationalModel {
 			t.column("urlDreifragezeichen", .text)
 			t.column("urlAppleMusic", .text)
 			t.column("urlSpotify", .text)
+			t.column("urlBookbeat", .text)
 		}
 		// HörspielTeil
 		try db.create(table: HörspielTeil.databaseTableName) { t in
