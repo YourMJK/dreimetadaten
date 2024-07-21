@@ -13,8 +13,7 @@ CREATE TABLE IF NOT EXISTS "hörspiel"(
   "urlCoverKosmos" TEXT,
   "urlDreifragezeichen" TEXT,
   "urlAppleMusic" TEXT,
-  "urlSpotify" TEXT
-  ,
+  "urlSpotify" TEXT,
   "urlBookbeat" TEXT
 );
 CREATE TABLE IF NOT EXISTS "hörspielTeil"(
