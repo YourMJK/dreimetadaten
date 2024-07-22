@@ -41687,13 +41687,155 @@
       "titel" : "Der Ruf der Krähen",
       "autor" : "André Minninger",
       "hörspielskriptautor" : "André Minninger",
+      "kurzbeschreibung" : "Lautes Gekrächze und Hilfeschreie schallen durch den Palisades Park. Peter eilt zu Hilfe, als ein Mann von einem wild gewordenen Schwarm Krähen attackiert wird.",
+      "beschreibung" : "Mit ihren spitzen Schnäbeln hacken die Vögel wütend auf den Mann ein und lassen nur schwerlich von ihm ab. Was hat die Krähen so in Aufregung versetzt?\nJustus, Peter und Bob folgen dem Ruf der Krähen und stoßen auf ein geheimes Projekt, das die Zukunft der Menschheit auf den Kopf stellt.",
       "veröffentlichungsdatum" : "2024-07-12",
+      "kapitel" : [
+        {
+          "titel" : "\"Sie bringen mich um!\"",
+          "start" : 0,
+          "end" : 370493
+        },
+        {
+          "titel" : "Kein neuer Fall",
+          "start" : 370493,
+          "end" : 938587
+        },
+        {
+          "titel" : "Vogelkunde",
+          "start" : 938587,
+          "end" : 1716493
+        },
+        {
+          "titel" : "\"Cawing Crows\"",
+          "start" : 1716493,
+          "end" : 2242920
+        },
+        {
+          "titel" : "Angriff",
+          "start" : 2242920,
+          "end" : 2955067
+        },
+        {
+          "titel" : "Abstraktes Denken",
+          "start" : 2955067,
+          "end" : 3605000
+        },
+        {
+          "titel" : "Jackpot",
+          "start" : 3605000,
+          "end" : 4239987
+        },
+        {
+          "titel" : "Der Krähenflüsterer",
+          "start" : 4239987,
+          "end" : 4761320
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Goldie June",
+          "sprecher" : "Irmgard Knef"
+        },
+        {
+          "rolle" : "Gordon Dust",
+          "sprecher" : "Till Hagen"
+        },
+        {
+          "rolle" : "Roy Hancock",
+          "sprecher" : "Nicolas König"
+        },
+        {
+          "rolle" : "Kimberly Cryder",
+          "sprecher" : "Victoria Fleer"
+        },
+        {
+          "rolle" : "Jeffrey",
+          "sprecher" : "Dietmar Horcicka"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/228/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/228/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/228/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/7f/23/a3/7f23a3ac-e70d-a666-2e33-44fe787debd9/196871288170.jpg",
         "appleMusic" : "https://music.apple.com/de/album/folge-228-der-ruf-der-kr%C3%A4hen/1744386522",
         "spotify" : "https://open.spotify.com/prerelease/6lyjnz3h0CJ87CS7YvK3bT"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "\"Sie bringen mich um!\"",
+              "start" : 0,
+              "end" : 370493
+            },
+            {
+              "titel" : "Kein neuer Fall",
+              "start" : 370493,
+              "end" : 938587
+            },
+            {
+              "titel" : "Vogelkunde",
+              "start" : 938587,
+              "end" : 1716493
+            },
+            {
+              "titel" : "\"Cawing Crows\"",
+              "start" : 1716493,
+              "end" : 2242920
+            },
+            {
+              "titel" : "Angriff",
+              "start" : 2242920,
+              "end" : 2955067
+            },
+            {
+              "titel" : "Abstraktes Denken",
+              "start" : 2955067,
+              "end" : 3605000
+            },
+            {
+              "titel" : "Jackpot",
+              "start" : 3605000,
+              "end" : 4239987
+            },
+            {
+              "titel" : "Der Krähenflüsterer",
+              "start" : 4239987,
+              "end" : 4761320
+            }
+          ],
+          "xld_log" : "http://dreimetadaten.de/data/Serie/228/rip_log.txt"
+        }
+      ]
+    },
+    {
+      "nummer" : 229,
+      "titel" : "Drehbuch der Täuschung",
+      "autor" : "Hendrik Buchna",
+      "hörspielskriptautor" : "André Minninger",
+      "veröffentlichungsdatum" : "2024-09-06",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/229/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Serie/229/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/5e/73/0a/5e730a04-ffae-00b6-8d13-4f8ab1e29f38/196872211771.jpg"
       },
       "unvollständig" : true
     }
