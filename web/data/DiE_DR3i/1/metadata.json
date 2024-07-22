@@ -273,7 +273,7 @@
           "end" : 3918160
         }
       ],
-      "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/rip_log1.txt"
+      "ripLog" : "http://dreimetadaten.de/data/DiE_DR3i/1/rip_log1.txt"
     },
     {
       "tracks" : [
@@ -343,7 +343,7 @@
           "end" : 4075613
         }
       ],
-      "xld_log" : "http://dreimetadaten.de/data/DiE_DR3i/1/rip_log2.txt"
+      "ripLog" : "http://dreimetadaten.de/data/DiE_DR3i/1/rip_log2.txt"
     }
   ]
 }

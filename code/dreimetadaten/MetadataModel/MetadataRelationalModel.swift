@@ -94,7 +94,7 @@ extension MetadataRelationalModel {
 		
 		var hörspielID: Hörspiel.ID
 		var position: UInt
-		var xldLog: Bool
+		var ripLog: Bool
 	}
 	
 	struct Track: Codable {
@@ -332,7 +332,7 @@ extension MetadataRelationalModel {
 				.notNull()
 			foreignKeyReference(t, to: Hörspiel.self)
 			positionColumn(t)
-			t.column("xldLog", .boolean)
+			t.column("ripLog", .boolean)
 				.notNull()
 			t.uniqueKey([Hörspiel.primaryKeyName, "position"])
 		}

@@ -115,7 +115,7 @@ extension MetadataObjectModel {
 	
 	struct Medium: Codable {
 		var tracks: [Kapitel]
-		var xld_log: String?
+		var ripLog: String?
 	}
 	
 }
@@ -175,7 +175,7 @@ extension MetadataObjectModel {
 			"pseudonym",
 			
 			"tracks",
-			"xld_log",
+			"ripLog",
 			
 			"json",
 			"ffmetadata",
@@ -418,13 +418,13 @@ extension MetadataObjectModel {
 						}
 					return Medium(
 						tracks: tracks,
-						xld_log: medium.xldLog ? "" : nil
+						ripLog: medium.ripLog ? "" : nil
 					)
 				}
 			let multipleMedien = medien.count > 1
 			for index in medien.indices {
-				if medien[index].xld_log != nil {
-					medien[index].xld_log = "rip_log\(multipleMedien ? String(index+1) : "").txt"
+				if medien[index].ripLog != nil {
+					medien[index].ripLog = "rip_log\(multipleMedien ? String(index+1) : "").txt"
 				}
 			}
 			
@@ -510,7 +510,7 @@ extension MetadataObjectModel {
 				prepend(to: &hörspiel.links!.cover)
 			}
 			hörspiel.medien?.indices.forEach {
-				prepend(to: &hörspiel.medien![$0].xld_log)
+				prepend(to: &hörspiel.medien![$0].ripLog)
 			}
 			hörspiel.teile?.enumerated().forEach { (index, teil) in
 				apply(url: url.appendingPathComponent(String(teil.teilNummer)), to: teil)

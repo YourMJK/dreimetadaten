@@ -152,14 +152,14 @@ class Migrator {
 	
 	private func migrate(medium objectItem: MetadataObjectModel.Hörspiel, hörspielID: MetadataRelationalModel.Hörspiel.ID?, rootHörspielID: MetadataRelationalModel.Hörspiel.ID?) {
 		let newID = (relationalModel.medium.last?.mediumID ?? 0) + 1
-		let xldLog = objectItem.links?.xld_log != nil
+		let ripLog = objectItem.links?.xld_log != nil
 		let relationalItem: MetadataRelationalModel.Medium
 		if let objectTeil = objectItem as? MetadataObjectModel.Teil {
 			relationalItem = .init(
 				mediumID: newID,
 				hörspielID: rootHörspielID!,
 				position: objectTeil.teilNummer,
-				xldLog: xldLog
+				ripLog: ripLog
 			)
 		}
 		else {
@@ -167,7 +167,7 @@ class Migrator {
 				mediumID: newID,
 				hörspielID: hörspielID!,
 				position: 1,
-				xldLog: xldLog
+				ripLog: ripLog
 			)
 		}
 		relationalModel.medium.append(relationalItem)

@@ -119,9 +119,9 @@ struct WebDataExporter {
 			// Check cover file
 			_ = try hörspiel.links?.cover.map(fileURL(for:))
 			
-			// Check XLD log file
+			// Check rip log file
 			try hörspiel.medien?.forEach {
-				_ = try $0.xld_log.map(fileURL(for:))
+				_ = try $0.ripLog.map(fileURL(for:))
 			}
 			
 			// Teile

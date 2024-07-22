@@ -43,7 +43,7 @@ CREATE TABLE IF NOT EXISTS "medium"(
   "mediumID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "position" INTEGER NOT NULL CHECK("position" > 0),
-  "xldLog" BOOLEAN NOT NULL,
+  "ripLog" BOOLEAN NOT NULL,
   UNIQUE("hörspielID", "position")
 );
 CREATE TABLE IF NOT EXISTS "track"(
