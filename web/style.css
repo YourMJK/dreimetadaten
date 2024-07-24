@@ -63,7 +63,7 @@ body {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 0 2.5em;
-	padding-bottom: 5em;
+	padding-bottom: 1.5em;
 }
 @supports (font-variation-settings: normal) {
 	body { font-family: InterVariable, sans-serif; }
@@ -167,6 +167,15 @@ nav a.active:hover {
 
 nav img {
 	vertical-align: middle;
+}
+
+
+footer {
+	border-top: var(--line-style);
+	margin-top: 4em;
+	padding: 0.5em;
+	font-size: 10pt;
+	line-height: 1.3;
 }
 
 
