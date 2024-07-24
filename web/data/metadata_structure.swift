@@ -50,9 +50,13 @@ struct Links {
 	var cover: String?
 	var cover_itunes: String?
 	var cover_kosmos: String?
+	var dreifragezeichen: String?
+	var appleMusic: String?
+	var spotify: String?
+	var bookbeat: String?
 }
 
 struct Medium {
 	var tracks: [Kapitel]
-	var xld_log: String?
+	var ripLog: String?
 }
