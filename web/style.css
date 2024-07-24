@@ -132,10 +132,14 @@ ul {
 	margin-top: 0;
 }
 li {
-	margin: 0.3em 0px;
+	margin: 0.3em 0;
 }
-.sublist {
-	margin: 0.0em 0px;
+li > span {
+	display: inline-block;
+	vertical-align: middle;
+}
+ul .sublist > li {
+	margin: 0;
 }
 
 
