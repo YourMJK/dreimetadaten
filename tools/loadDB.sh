@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source $(dirname "$0")/.config
+source $(dirname "$0")/.config.sh
 
 if [ -f "$DBFILE" ]
 then
