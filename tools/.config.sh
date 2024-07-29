@@ -4,6 +4,7 @@ BASEDIR=$(realpath --relative-to=. "$BASEDIR")
 DBFILE=${DBFILE:-"$BASEDIR"/metadata/db.sqlite}
 SQLFILE=${SQLFILE:-"$BASEDIR"/metadata/db.sql}
 
+DEBUG=${DEBUG:-0}
 EDITOR=${EDITOR:-"nano -l"}
 
 error() {
@@ -12,7 +13,7 @@ error() {
 }
 
 sql() {
-	echo "$(tput setaf 8)> $*$(tput sgr0)" >&2
+	[ $DEBUG -eq 1 ] && echo "$(tput setaf 8)> $*$(tput sgr0)" >&2
 	sqlite3 -batch "$DBFILE" "$@"
 }
 
