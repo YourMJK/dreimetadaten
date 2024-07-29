@@ -4,6 +4,8 @@ BASEDIR=$(realpath --relative-to=. "$BASEDIR")
 DBFILE=${DBFILE:-"$BASEDIR"/metadata/db.sqlite}
 SQLFILE=${SQLFILE:-"$BASEDIR"/metadata/db.sql}
 
+EDITOR=${EDITOR:-"nano -l"}
+
 error() {
 	echo "Error${1+:  }$1" >&2
 	exit 1
@@ -37,4 +39,8 @@ parseArgID() {
 	esac
 	[ -z $hoerspielID ] && error "Couldn't identify \"hörspiel\" from the given arguments. Try a different method."
 	echo $hoerspielID
+}
+
+editFile() {
+	$EDITOR "$1"
 }

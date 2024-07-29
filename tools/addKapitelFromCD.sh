@@ -10,4 +10,6 @@ then
 	exit 1
 fi
 
-ffmpeg -loglevel error -i "$3" -f ffmetadata - | $(dirname "$0")/addKapitelFromCD_ffmetadata.sh "$1" "$2"
+# Saving ffmpeg output in variable because ffmpeg doesn't seem to support process substitution with STDOUT as output
+ffmetadata=$(ffmpeg -loglevel error -i "$3" -f ffmetadata -)
+$(dirname "$0")/addKapitelFromCD_ffmetadata.sh --edit "$1" "$2" <(echo "$ffmetadata")
