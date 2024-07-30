@@ -35,6 +35,7 @@ struct Command: ParsableCommand {
 	static var webDataURL = webURL.appendingPathComponent(webDataDirRelativePath)
 	static var webDataDir = webDir.appendingPathComponent(webDataDirRelativePath)
 	static var webIndexDir = webDir.appendingPathComponent("index")
+	static let webTemplatesDir = url(projectRelativePath: "web_templates")
 	
 	static func url(projectRelativePath projectDirRelativePath: String) -> URL {
 		let dest = URL(fileURLWithPath: projectDirRelativePath, relativeTo: projectDir)

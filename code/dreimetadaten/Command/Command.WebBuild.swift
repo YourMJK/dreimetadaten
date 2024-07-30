@@ -38,10 +38,10 @@ extension Command {
 		var ioOptions: IOOptions
 		
 		func run() throws {
-			func automaticDefault(_ optionKeyPath: KeyPath<IOOptions, String?>, defaultKeyPath: KeyPath<CollectionType, String>) throws -> URL {
+			func automaticDefault(_ optionKeyPath: KeyPath<IOOptions, String?>, defaultFile defaultFileKeyPath: KeyPath<CollectionType, String>, in defaultDir: URL) throws -> URL {
 				let url = ioOptions[keyPath: optionKeyPath]
 					.map { URL(fileURLWithPath: $0, isDirectory: false) }
-					?? Command.url(projectRelativePath: collectionType[keyPath: defaultKeyPath])
+					?? defaultDir.appendingPathComponent(collectionType[keyPath: defaultFileKeyPath], isDirectory: false)
 				
 				var directory: ObjCBool = false
 				guard FileManager.default.fileExists(atPath: url.path, isDirectory: &directory), !directory.boolValue else {
@@ -50,9 +50,9 @@ extension Command {
 				return url
 			}
 			
-			let jsonFileURL = try automaticDefault(\.jsonFilePath, defaultKeyPath: \.jsonFilePath)
-			let templateFileURL = try automaticDefault(\.templateFilePath, defaultKeyPath: \.htmlTemplateFilePath)
-			let outputFileURL = try automaticDefault(\.outputFilePath, defaultKeyPath: \.htmlFilePath)
+			let jsonFileURL = try automaticDefault(\.jsonFilePath, defaultFile: \.jsonFile, in: Command.jsonDir)
+			let templateFileURL = try automaticDefault(\.templateFilePath, defaultFile: \.htmlFile, in: Command.webTemplatesDir)
+			let outputFileURL = try automaticDefault(\.outputFilePath, defaultFile: \.htmlFile, in: Command.webDir)
 			
 			let templateContent: String
 			do {

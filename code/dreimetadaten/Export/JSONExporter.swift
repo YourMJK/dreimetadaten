@@ -17,7 +17,7 @@ struct JSONExporter {
 		let objectModels = try MetadataObjectModel(fromDatabase: db, withBaseURL: webDataURL).separateByCollectionType()
 		
 		for (objectModel, collectionType) in objectModels {
-			let jsonURL = outputDir.appendingPathComponent("\(collectionType.fileName).json")
+			let jsonURL = outputDir.appendingPathComponent(collectionType.jsonFile)
 			let jsonString = try objectModel.jsonString()
 			try jsonString.write(to: jsonURL, atomically: true, encoding: .utf8)
 		}

@@ -60,20 +60,16 @@ enum CollectionType: String, ArgumentEnum {
 		}
 	}
 	
-	var jsonFilePath: String {
-		"metadata/json/\(fileName).json"
+	var jsonFile: String {
+		"\(fileName).json"
 	}
-	
+	var htmlFile: String {
+		"\(htmlFileName).html"
+	}
 	private var htmlFileName: String {
 		switch self {
 			case .serie: return "index"
 			default: return rawValue
 		}
-	}
-	var htmlFilePath: String {
-		"web/\(htmlFileName).html"
-	}
-	var htmlTemplateFilePath: String {
-		"web_templates/\(htmlFileName).html"
 	}
 }
