@@ -18,7 +18,7 @@ extension Command.Export {
 			alwaysCompactUsageOptions: true
 		)
 		
-		@Argument(help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
+		@Option(name: .customLong("db"), help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
 		var databaseFilePath: String = Command.databaseFile.relativePath
 		
 		@Argument(help: ArgumentHelp("The path to the TSV output directory.", valueName: "output directory"))

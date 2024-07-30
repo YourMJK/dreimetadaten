@@ -18,11 +18,11 @@ extension Command.Export {
 			alwaysCompactUsageOptions: true
 		)
 		
-		@Argument(help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
-		var databaseFilePath: String = Command.databaseFile.relativePath
-		
 		@Argument(help: ArgumentHelp("The path to the JSON output directory.", valueName: "output directory"))
 		var jsonDirectoryPath: String = Command.jsonDir.relativePath
+		
+		@Option(name: .customLong("db"), help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
+		var databaseFilePath: String = Command.databaseFile.relativePath
 		
 		@Option(name: .customLong("webDataURL"), help: ArgumentHelp("The URL pointing to the web data directory. Used as the base URL for generated metadata links.", valueName: "URL"))
 		var webDataURLString: String = Command.webDataURL.absoluteString

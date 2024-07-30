@@ -21,7 +21,7 @@ extension Command {
 		@Argument(help: ArgumentHelp("The path to the JSON dataset input file.", valueName: "json file"))
 		var jsonFilePath: String
 		
-		@Argument(help: ArgumentHelp("The path to the SQLite database output file.", valueName: "sqlite file"))
+		@Option(name: .customLong("db"), help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
 		var databaseFilePath: String = Command.databaseFile.relativePath
 		
 		@Flag(help: ArgumentHelp("Only create schema."))

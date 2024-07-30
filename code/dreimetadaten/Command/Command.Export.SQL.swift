@@ -18,11 +18,11 @@ extension Command.Export {
 			alwaysCompactUsageOptions: true
 		)
 		
-		@Argument(help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
-		var databaseFilePath: String = Command.databaseFile.relativePath
-		
 		@Argument(help: ArgumentHelp("The path to the SQL dump output file.", valueName: "sql dump file"))
 		var sqlFilePath: String = Command.sqlFile.relativePath
+		
+		@Option(name: .customLong("db"), help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
+		var databaseFilePath: String = Command.databaseFile.relativePath
 		
 		@Option(name: .customLong("sqlite"), help: ArgumentHelp("The path to the SQLite CLI binary.", valueName: "sqlite binary"))
 		var sqliteBinaryPath: String = SQLPorter.defaultSqliteBinaryPath
