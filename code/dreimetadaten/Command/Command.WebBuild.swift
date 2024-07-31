@@ -52,18 +52,19 @@ extension Command {
 				
 				for collectionType in collectionTypeArgument.collectionType {
 					func automaticDefault(_ optionKeyPath: KeyPath<IOOptions, String?>, defaultIn defaultDir: URL) throws -> URL {
-						let path = ioOptions[keyPath: optionKeyPath]
-						let defaultFile = collectionType.htmlFile
-						let url = path.map { URL(fileURLWithPath: $0, isDirectory: false) } ?? defaultDir.appendingPathComponent(defaultFile, isDirectory: false)
-						
-						var directory: ObjCBool = false
-						guard FileManager.default.fileExists(atPath: url.path, isDirectory: &directory), !directory.boolValue else {
-							throw ArgumentError.noSuchFile(url: url)
+						if let path = ioOptions[keyPath: optionKeyPath] {
+							return URL(fileURLWithPath: path, isDirectory: false)
 						}
-						return url
+						let defaultFile = collectionType.htmlFile
+						return defaultDir.appendingPathComponent(defaultFile, isDirectory: false)
 					}
 					let templateFileURL = try automaticDefault(\.templateFilePath, defaultIn: Command.webTemplatesDir)
 					let outputFileURL = try automaticDefault(\.outputFilePath, defaultIn: Command.webDir)
+					
+					var isDirectory: ObjCBool = false
+					guard FileManager.default.fileExists(atPath: templateFileURL.path, isDirectory: &isDirectory), !isDirectory.boolValue else {
+						throw ArgumentError.noSuchFile(url: templateFileURL)
+					}
 					
 					let pageBuilder = try CollectionPageBuilder(
 						objectModel: objectModel,
