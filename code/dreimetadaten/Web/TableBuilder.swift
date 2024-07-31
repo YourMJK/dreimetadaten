@@ -12,8 +12,8 @@ class TableBuilder {
 	var content: String = ""
 	
 	enum CellType: String {
-		case th = "th"
-		case td = "td"
+		case th
+		case td
 	}
 	enum CellClass: String {
 		case nr = "cell_nr"
@@ -22,6 +22,9 @@ class TableBuilder {
 	}
 	enum RowClass: String {
 		case incomplete = "row_incomplete"
+	}
+	enum TableClass: String {
+		case datatable
 	}
 	
 	func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, _ lines: [(text: String, link: String?)]) {
@@ -53,8 +56,7 @@ class TableBuilder {
 		}
 		
 		cell.append("</td>")
-		content.append("\n\t")
-		content.append(cell)
+		content.append("\t\(cell)\n")
 	}
 	
 	func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, content: String) {
@@ -68,14 +70,25 @@ class TableBuilder {
 	}
 	
 	func startRow(class rowClass: RowClass? = nil) {
-		content.append("\n<tr")
+		content.append("<tr")
 		if let rowClass {
 			content.append(" class=\"\(rowClass.rawValue)\"")
 		}
-		content.append(">")
+		content.append(">\n")
 	}
 	func endRow() {
-		content.append("\n</tr>")
+		content.append("</tr>\n")
+	}
+	
+	func startTable(class tableClass: TableClass? = nil) {
+		content.append("<table")
+		if let tableClass {
+			content.append(" class=\"\(tableClass.rawValue)\"")
+		}
+		content.append(">\n")
+	}
+	func endTable() {
+		content.append("</table>\n")
 	}
 	
 }

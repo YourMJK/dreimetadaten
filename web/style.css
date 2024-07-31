@@ -81,9 +81,7 @@ h3 {
 }
 
 p {
-	--margin-p: 0.5em;
-	margin-top: var(--margin-p);
-	margin-bottom: var(--margin-p);
+	margin: 0.5em 0;
 }
 
 code {
@@ -125,8 +123,7 @@ summary b:hover {
 
 
 section {
-	margin-top: 1em;
-	margin-bottom: 1em;
+	margin: 1em 0;
 }
 ul {
 	margin-top: 0;
@@ -183,19 +180,17 @@ footer {
 }
 
 
-.datatable {
-	margin-top: 2.5em;
-	/*
-	margin-left: auto;
-	margin-right: auto;
-	*/
+.collectionData {
+	margin: 2em 0;
 }
-.datatable, .datatable th, .datatable td {
+.datatable {
 	font-family: SFMono, monospace;
 	font-size: 11pt;
 	line-height: 1.2;
-	border: var(--line-style);
 	border-collapse: collapse;
+}
+.datatable th, .datatable td {
+	border: var(--line-style);
 	padding: 0.25em 1em;
 }
 .datatable tr {

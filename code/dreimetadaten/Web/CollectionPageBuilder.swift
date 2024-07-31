@@ -27,6 +27,7 @@ class CollectionPageBuilder: PageBuilder {
 	
 	private func replaceTableRowPlaceholder() throws {
 		let table = TableBuilder()
+		table.startTable(class: .datatable)
 		
 		// Collection
 		guard var collection = objectModel[keyPath: collectionType.objectModelKeyPath] as? [MetadataObjectModel.Hörspiel] else {
@@ -54,6 +55,7 @@ class CollectionPageBuilder: PageBuilder {
 		}
 		
 		// Headers
+		table.startRow()
 		let headerCoverWidth: UInt = countLinks([\.cover, \.cover_itunes, \.cover_kosmos])
 		let headerPlattformWidth: UInt = countLinks([\.dreifragezeichen, \.appleMusic, \.spotify])
 		let headerNr = "Nr."
@@ -75,6 +77,7 @@ class CollectionPageBuilder: PageBuilder {
 		table.addCell(type: .th, content: "Rip")
 		table.addCell(type: .th, width: headerCoverWidth, content: "Cover")
 		table.addCell(type: .th, width: headerPlattformWidth, content: "Plattform")
+		table.endRow()
 		
 		// Content
 		let listSymbol = "└╴"
@@ -195,7 +198,9 @@ class CollectionPageBuilder: PageBuilder {
 		}
 		try collection.forEach { try recursive($0, collectionCount: collection.count) }
 		
-		try replace(placeholder: "%%table_rows%%", with: table.content)
+		table.endTable()
+		
+		try replace(placeholder: "%%table%%", with: table.content)
 	}
 	
 }
