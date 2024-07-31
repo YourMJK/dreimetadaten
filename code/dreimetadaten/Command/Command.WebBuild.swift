@@ -43,7 +43,7 @@ extension Command {
 		
 		func run() throws {
 			guard let webDataURL = URL(string: webDataURLString) else {
-				throw IOError.invalidURL(string: webDataURLString)
+				throw ArgumentError.invalidURL(string: webDataURLString)
 			}
 			
 			let dbQueue = try DatabaseQueue(path: databaseFilePath)
@@ -58,35 +58,22 @@ extension Command {
 						
 						var directory: ObjCBool = false
 						guard FileManager.default.fileExists(atPath: url.path, isDirectory: &directory), !directory.boolValue else {
-							throw IOError.noSuchFile(url: url)
+							throw ArgumentError.noSuchFile(url: url)
 						}
 						return url
 					}
 					let templateFileURL = try automaticDefault(\.templateFilePath, defaultIn: Command.webTemplatesDir)
 					let outputFileURL = try automaticDefault(\.outputFilePath, defaultIn: Command.webDir)
 					
-					let templateContent: String
-					do {
-						templateContent = try String(contentsOf: templateFileURL, encoding: .utf8)
-					}
-					catch {
-						throw IOError.fileReadingFailed(url: templateFileURL, error: error)
-					}
-					
-					let webBuilder = WebBuilder(
+					let pageBuilder = try CollectionPageBuilder(
 						objectModel: objectModel,
 						collectionType: collectionType,
-						templateContent: templateContent,
+						templateFile: templateFileURL,
 						host: webDataURL.host!
 					)
-					try webBuilder.build()
+					try pageBuilder.build()
 					
-					do {
-						try webBuilder.content.write(to: outputFileURL, atomically: false, encoding: .utf8)
-					}
-					catch {
-						throw IOError.fileWritingFailed(url: outputFileURL, error: error)
-					}
+					try pageBuilder.content.write(to: outputFileURL, atomically: false, encoding: .utf8)
 				}
 			}
 		}
@@ -113,20 +100,14 @@ extension Command.WebBuild {
 		}
 	}
 	
-	enum IOError: LocalizedError {
+	enum ArgumentError: LocalizedError {
 		case noSuchFile(url: URL)
-		case fileReadingFailed(url: URL, error: Error)
-		case fileWritingFailed(url: URL, error: Error)
 		case invalidURL(string: String)
 		
 		var errorDescription: String? {
 			switch self {
 				case .noSuchFile(let url):
 					return "No such file \"\(url.relativePath)\""
-				case .fileReadingFailed(let url, let error):
-					return "Couldn't read file \"\(url.relativePath)\": \(error.localizedDescription)"
-				case .fileWritingFailed(let url, let error):
-					return "Couldn't write to file \"\(url.relativePath)\": \(error.localizedDescription)"
 				case .invalidURL(let string):
 					return "Invalid URL \"\(string)\""
 			}

@@ -1,5 +1,5 @@
 //
-//  WebBuilder.swift
+//  CollectionPageBuilder.swift
 //  dreimetadaten
 //
 //  Created by YourMJK on 10.04.24.
@@ -8,28 +8,24 @@
 import Foundation
 
 
-class WebBuilder {
+class CollectionPageBuilder: PageBuilder {
 	let objectModel: MetadataObjectModel
 	let collectionType: CollectionType
-	var content: String
 	let host: String
 	
-	init(objectModel: MetadataObjectModel, collectionType: CollectionType, templateContent: String, host: String) {
+	init(objectModel: MetadataObjectModel, collectionType: CollectionType, templateFile: URL, host: String) throws {
 		self.objectModel = objectModel
 		self.collectionType = collectionType
-		self.content = templateContent
 		self.host = host
+		try super.init(templateFile: templateFile)
 	}
 	
-	
-	func build() throws {
+	override func build() throws {
+		try super.build()
 		try replaceTableRowPlaceholder()
-		try replaceDatePlaceholder()
 	}
-	
 	
 	private func replaceTableRowPlaceholder() throws {
-		let placeholder = "%%table_rows%%"
 		let table = TableBuilder()
 		
 		// Collection
@@ -199,35 +195,16 @@ class WebBuilder {
 		}
 		try collection.forEach { try recursive($0, collectionCount: collection.count) }
 		
-		try replace(placeholder: placeholder, with: table.content)
-	}
-	
-	private func replaceDatePlaceholder() throws {
-		let placeholder = "%%date%%"
-		
-		let date = Date()
-		let dateFormatter = DateFormatter()
-		dateFormatter.dateFormat = "dd.MM.yyyy"
-		let dateString = dateFormatter.string(from: date)
-		
-		try replace(placeholder: placeholder, with: dateString)
-	}
-	
-	private func replace(placeholder: String, with replacement: String) throws {
-		guard content.contains(placeholder) else {
-			throw BuildingError.missingPlaceholderInTemplate(placeholder: placeholder)
-		}
-		content = content.replacingOccurrences(of: placeholder, with: replacement)  // despite copy overhead, 10x faster than range(of:) + mutating replaceSubrange()
+		try replace(placeholder: "%%table_rows%%", with: table.content)
 	}
 	
 }
 
 
-extension WebBuilder {
+extension CollectionPageBuilder {
 	enum BuildingError: LocalizedError {
 		case invalidURL(string: String)
 		case missingCollectionData(collectionType: CollectionType)
-		case missingPlaceholderInTemplate(placeholder: String)
 		
 		var errorDescription: String? {
 			switch self {
@@ -235,8 +212,6 @@ extension WebBuilder {
 					return "Invalid URL \"\(string)\""
 				case .missingCollectionData(let collectionType):
 					return "Given dataset doesn't contain any data for the selected collection type \"\(collectionType)\""
-				case .missingPlaceholderInTemplate(let placeholder):
-					return "Content of given template file doesn't contain the placeholder \"\(placeholder)\""
 			}
 		}
 	}
