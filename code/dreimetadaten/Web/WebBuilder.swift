@@ -30,66 +30,7 @@ class WebBuilder {
 	
 	private func replaceTableRowPlaceholder() throws {
 		let placeholder = "%%table_rows%%"
-		var tableRowsString = ""
-		
-		enum CellType: String {
-			case th = "th"
-			case td = "td"
-		}
-		enum CellClass: String {
-			case nr = "cell_nr"
-			case data = "cell_data"
-			case icon = "cell_icon"
-		}
-		func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, _ lines: [(text: String, link: String?)]) {
-			guard width != 0 else { return }
-			
-			var cell = "<\(type.rawValue)"
-			if let cellClass {
-				cell.append(" class=\"\(cellClass.rawValue)\"")
-			}
-			if let width {
-				cell.append(" colspan=\"\(width)\"")
-			}
-			cell.append(">")
-			
-			var first = true
-			for line in lines {
-				if !first {
-					cell.append("<br>")
-				}
-				first = false
-				if let link = line.link {
-					cell.append("<a href=\"\(link)\">")
-					cell.append(line.text)
-					cell.append("</a>")
-				}
-				else {
-					cell.append(line.text)
-				}
-			}
-			
-			cell.append("</td>")
-			tableRowsString.append("\n\t")
-			tableRowsString.append(cell)
-		}
-		func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, content: String) {
-			addCell(type: type, class: cellClass, width: width, [(content, nil)])
-		}
-		func addEmptyCell(count: UInt = 1) {
-			for _ in 1...count {
-				addCell([])
-			}
-		}
-		func startRow(incomplete: Bool) {
-			tableRowsString.append("\n<tr")
-			if incomplete { tableRowsString.append(" class=\"row_incomplete\"") }
-			tableRowsString.append(">")
-		}
-		func endRow() {
-			tableRowsString.append("\n</tr>")
-		}
-		
+		let table = TableBuilder()
 		
 		// Collection
 		guard var collection = objectModel[keyPath: collectionType.objectModelKeyPath] as? [MetadataObjectModel.Hörspiel] else {
@@ -124,20 +65,20 @@ class WebBuilder {
 		switch collectionType {
 			case .serie:
 				collection.reverse()
-				addCell(type: .th, content: headerNr)
+				table.addCell(type: .th, content: headerNr)
 			case .spezial:
-				addCell(type: .th, content: headerTitel)
+				table.addCell(type: .th, content: headerTitel)
 			case .kurzgeschichten:
-				addCell(type: .th, content: "Sammlung")
-				addCell(type: .th, content: headerTitel)
+				table.addCell(type: .th, content: "Sammlung")
+				table.addCell(type: .th, content: headerTitel)
 			case .die_dr3i:
-				addCell(type: .th, content: headerNr)
-				addCell(type: .th, content: headerTitel)
+				table.addCell(type: .th, content: headerNr)
+				table.addCell(type: .th, content: headerTitel)
 		}
-		addCell(type: .th, width: 2, content: "Metadaten")
-		addCell(type: .th, content: "Rip")
-		addCell(type: .th, width: headerCoverWidth, content: "Cover")
-		addCell(type: .th, width: headerPlattformWidth, content: "Plattform")
+		table.addCell(type: .th, width: 2, content: "Metadaten")
+		table.addCell(type: .th, content: "Rip")
+		table.addCell(type: .th, width: headerCoverWidth, content: "Cover")
+		table.addCell(type: .th, width: headerPlattformWidth, content: "Plattform")
 		
 		// Content
 		let listSymbol = "└╴"
@@ -169,62 +110,62 @@ class WebBuilder {
 		}
 		
 		func addRowFor(hörspiel: MetadataObjectModel.Hörspiel, collectionCount: Int) throws {
-			startRow(incomplete: hörspiel.unvollständig ?? false)
+			table.startRow(class: hörspiel.unvollständig == true ? .incomplete : nil)
 			
 			// First one (or two) identifying cell(s)
 			switch collectionType {
 				case .serie:
 					if let folge = hörspiel as? MetadataObjectModel.Folge {
-						addCell(class: .nr, content: nameForFolge(folge))
-						//addCell(class: .nr, content: hörspiel.titel ?? "")
+						table.addCell(class: .nr, content: nameForFolge(folge))
+						//table.addCell(class: .nr, content: hörspiel.titel ?? "")
 					}
 					else if let teil = hörspiel as? MetadataObjectModel.Teil {
-						addCell(class: .nr, content: nameForTeil(teil, count: collectionCount))
+						table.addCell(class: .nr, content: nameForTeil(teil, count: collectionCount))
 					}
 					
 				case .spezial:
 					if let teil = hörspiel as? MetadataObjectModel.Teil {
-						addCell(class: .nr, content: nameForTeil(teil, count: collectionCount))
+						table.addCell(class: .nr, content: nameForTeil(teil, count: collectionCount))
 					}
 					else {
-						addCell(class: .nr, content: hörspiel.titel ?? "")
+						table.addCell(class: .nr, content: hörspiel.titel ?? "")
 					}
 					
 				case .kurzgeschichten:
 					if let teil = hörspiel as? MetadataObjectModel.Teil {
-						addCell(class: .nr, content: nameForTeil(teil, count: collectionCount))
-						addCell(class: .nr, content: hörspiel.titel ?? "")
+						table.addCell(class: .nr, content: nameForTeil(teil, count: collectionCount))
+						table.addCell(class: .nr, content: hörspiel.titel ?? "")
 					}
 					else {
-						addCell(class: .nr, content: hörspiel.titel ?? "")
-						addEmptyCell()
+						table.addCell(class: .nr, content: hörspiel.titel ?? "")
+						table.addEmptyCell()
 					}
 				
 				case .die_dr3i:
 					if let folge = hörspiel as? MetadataObjectModel.Folge {
-						addCell(class: .nr, content: nameForFolge(folge))
-						addCell(class: .nr, content: hörspiel.titel ?? "")
+						table.addCell(class: .nr, content: nameForFolge(folge))
+						table.addCell(class: .nr, content: hörspiel.titel ?? "")
 					}
 					else if let teil = hörspiel as? MetadataObjectModel.Teil {
-						addEmptyCell()
-						addCell(class: .nr, content: nameForTeil(teil, count: collectionCount))
+						table.addEmptyCell()
+						table.addCell(class: .nr, content: nameForTeil(teil, count: collectionCount))
 					}
 			}
 			
 			// Links
-			func addLinks(_ links: [(String, String?)], cellClass: CellClass = .data) throws {
+			func addLinks(_ links: [(String, String?)], cellClass: TableBuilder.CellClass = .data) throws {
 				let lines: [(text: String, link: String?)] = try links.compactMap { (name, link) in
 					guard let link else { return nil }
 					return (name, try relativePathForLink(link))
 				}
-				addCell(class: cellClass, lines)
+				table.addCell(class: cellClass, lines)
 			}
-			func addLinks(_ links: [(String, LinkKeyPath)], cellClass: CellClass = .data) throws {
+			func addLinks(_ links: [(String, LinkKeyPath)], cellClass: TableBuilder.CellClass = .data) throws {
 				try addLinks(links.map { (name, keyPath) in
 					(name, hörspiel.links?[keyPath: keyPath])
 				}, cellClass: cellClass)
 			}
-			func addOptionalLink(_ name: String, _ keyPath: LinkKeyPath, cellClass: CellClass = .data) throws {
+			func addOptionalLink(_ name: String, _ keyPath: LinkKeyPath, cellClass: TableBuilder.CellClass = .data) throws {
 				guard hasLink[keyPath]! else { return }
 				try addLinks([(name, keyPath)], cellClass: cellClass)
 			}
@@ -249,7 +190,7 @@ class WebBuilder {
 			try addOptionalLinkIcon("am_link.svg", \.appleMusic)
 			try addOptionalLinkIcon("spotify_link.svg", \.spotify)
 			
-			endRow()
+			table.endRow()
 		}
 		
 		func recursive(_ hörspiel: MetadataObjectModel.Hörspiel, collectionCount: Int) throws {
@@ -258,7 +199,7 @@ class WebBuilder {
 		}
 		try collection.forEach { try recursive($0, collectionCount: collection.count) }
 		
-		try replace(placeholder: placeholder, with: tableRowsString)
+		try replace(placeholder: placeholder, with: table.content)
 	}
 	
 	private func replaceDatePlaceholder() throws {
