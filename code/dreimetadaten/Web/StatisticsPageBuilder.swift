@@ -76,7 +76,7 @@ class StatisticsPageBuilder: PageBuilder {
 			// Query
 			addLine("<details>")
 			addLine("\t<summary><b>SQL</b></summary>")
-			addLine("\t<pre><code>\(query)</code></pre>")
+			addLine("\t<pre><code class=\"hljs language-sql\">\(query)</code></pre>")
 			addLine("</details>")
 			
 			addLine("</div>\n")

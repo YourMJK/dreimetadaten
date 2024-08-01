@@ -10,6 +10,10 @@
 	<link href="style.css" type="text/css" rel="stylesheet">
 	<link rel="icon" type="image/png" href="favicon.png">
 	<link rel="icon" type="image/svg+xml" href="logo.svg">
+	
+	<link rel="stylesheet" href="hljs/styles/custom.css">
+	<script src="hljs/highlight-sql_custom.min.js"></script>
+	<script>hljs.highlightAll();</script>
 </head>
 
 
@@ -100,7 +104,7 @@
 </table>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code>SELECT name AS Sprecher, COUNT(*) AS Anzahl
+	<pre><code class="hljs language-sql">SELECT name AS Sprecher, COUNT(*) AS Anzahl
 FROM spricht JOIN person USING (personID)
 GROUP BY Sprecher ORDER BY Anzahl DESC, Sprecher LIMIT 10</code></pre>
 </details>
@@ -157,7 +161,7 @@ GROUP BY Sprecher ORDER BY Anzahl DESC, Sprecher LIMIT 10</code></pre>
 </table>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code>SELECT name AS Rolle, COUNT(*) AS Anzahl
+	<pre><code class="hljs language-sql">SELECT name AS Rolle, COUNT(*) AS Anzahl
 FROM sprechrolle JOIN rolle USING (rolleID)
 GROUP BY Rolle ORDER BY Anzahl DESC, Rolle LIMIT 10</code></pre>
 </details>
@@ -214,7 +218,7 @@ GROUP BY Rolle ORDER BY Anzahl DESC, Rolle LIMIT 10</code></pre>
 </table>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code>SELECT name AS Autor, COUNT(*) AS Anzahl
+	<pre><code class="hljs language-sql">SELECT name AS Autor, COUNT(*) AS Anzahl
 FROM hörspielBuchautor JOIN person USING (personID)
 GROUP BY Autor ORDER BY Anzahl DESC, Autor LIMIT 10</code></pre>
 </details>
@@ -271,7 +275,7 @@ GROUP BY Autor ORDER BY Anzahl DESC, Autor LIMIT 10</code></pre>
 </table>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code>WITH hörspielDauer AS (
+	<pre><code class="hljs language-sql">WITH hörspielDauer AS (
   SELECT hörspielID, SUM(dauer) AS dauer
   FROM hörspiel JOIN kapitel USING (hörspielID) JOIN track USING (trackID)
   GROUP BY hörspielID
@@ -303,7 +307,7 @@ ORDER BY dauer DESC LIMIT 10</code></pre>
 </table>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code>SELECT ROUND(SUM(dauer)/1000/3600.0, 2) || ' Stunden'
+	<pre><code class="hljs language-sql">SELECT ROUND(SUM(dauer)/1000/3600.0, 2) || ' Stunden'
 FROM kapitel JOIN track USING (trackID)</code></pre>
 </details>
 </div>
@@ -318,7 +322,7 @@ FROM kapitel JOIN track USING (trackID)</code></pre>
 </table>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code>SELECT COUNT(*) FROM hörspiel h
+	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM hörspiel h
 WHERE NOT EXISTS (
   SELECT * FROM hörspielTeil ht WHERE ht.teil = h.hörspielID
 )</code></pre>
@@ -334,7 +338,7 @@ WHERE NOT EXISTS (
 </table>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code>SELECT COUNT(*) FROM (
+	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
   SELECT DISTINCT personID FROM spricht
 )</code></pre>
 </details>
@@ -349,7 +353,7 @@ WHERE NOT EXISTS (
 </table>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code>SELECT COUNT(*) FROM rolle</code></pre>
+	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM rolle</code></pre>
 </details>
 </div>
 
@@ -362,7 +366,7 @@ WHERE NOT EXISTS (
 </table>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code>SELECT COUNT(*) FROM (
+	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
   SELECT DISTINCT personID FROM hörspielBuchautor
 )</code></pre>
 </details>
@@ -377,7 +381,7 @@ WHERE NOT EXISTS (
 </table>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code>SELECT COUNT(*) FROM (
+	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
   SELECT DISTINCT personID FROM hörspielSkriptautor
 )</code></pre>
 </details>
