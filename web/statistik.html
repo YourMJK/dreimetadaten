@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<title>Die drei ??? Metadaten – Statistik</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link href="style.css" type="text/css" rel="stylesheet">
+	<link rel="icon" type="image/png" href="favicon.png">
+	<link rel="icon" type="image/svg+xml" href="logo.svg">
+</head>
+
+
+<body>
+
+<header class="navbar">
+	<nav>
+		<a href="index.html"><img class="imageLogo" src="logo.svg" width="32px" height="32px"></a>
+		
+		<table class="navbar_table">
+			<tr>
+				<td><a href="index.html">Serie</a></b></td>
+				<td><a href="spezial.html">Spezial</a></td>
+				<td><a href="kurzgeschichten.html">Kurzgeschichten</a></td>
+				<td><a href="die_dr3i.html">DiE DR3i</a></td>
+			</tr>
+		</table>
+		
+		<table class="navbar_table">
+			<tr>
+				<td><a class="active" href="statistik.html">Statistik</a></td>
+				<td><a href="changelog.html">Changelog</a></td>
+				<td><a href="https://github.com/YourMJK/dreimetadaten"><img class="imageGithub" src="github.svg" width="24px" height="24px" title="GitHub"></a></td>
+			</tr>
+		</table>
+	</nav>
+</header>
+
+<h2>Statistik</h2>
+
+<p>
+	Statistiken zu allen Folgen.<br>
+	Automatisch generiert mit SQL-Anfragen an die Datenbank.
+</p>
+
+<b>Letzte Aktualisierung:</b> 02.08.2024
+
+
+<div class="statisticsData">
+<div class="statistic">
+<h3>Top 10 Sprecher</h3>
+<h4>nach gesprochenen Sprechrollen</h4>
+<table class="datatable">
+<tr>
+	<th>Sprecher</td>
+	<th>Anzahl</td>
+</tr>
+<tr>
+	<td class="cell_data">Oliver Rohrbeck</td>
+	<td class="cell_data">258</td>
+</tr>
+<tr>
+	<td class="cell_data">Andreas Fröhlich</td>
+	<td class="cell_data">257</td>
+</tr>
+<tr>
+	<td class="cell_data">Jens Wawrczeck</td>
+	<td class="cell_data">257</td>
+</tr>
+<tr>
+	<td class="cell_data">Thomas Fritsch</td>
+	<td class="cell_data">102</td>
+</tr>
+<tr>
+	<td class="cell_data">Holger Mahlich</td>
+	<td class="cell_data">86</td>
+</tr>
+<tr>
+	<td class="cell_data">Karin Lieneweg</td>
+	<td class="cell_data">76</td>
+</tr>
+<tr>
+	<td class="cell_data">Peter Pasetti</td>
+	<td class="cell_data">63</td>
+</tr>
+<tr>
+	<td class="cell_data">Axel Milberg</td>
+	<td class="cell_data">47</td>
+</tr>
+<tr>
+	<td class="cell_data">Andreas von der Meden</td>
+	<td class="cell_data">41</td>
+</tr>
+<tr>
+	<td class="cell_data">Matthias Fuchs</td>
+	<td class="cell_data">39</td>
+</tr>
+</table>
+<details>
+	<summary><b>SQL</b></summary>
+	<pre><code>SELECT name AS Sprecher, COUNT(*) AS Anzahl
+FROM spricht JOIN person USING (personID)
+GROUP BY Sprecher ORDER BY Anzahl DESC, Sprecher LIMIT 10</code></pre>
+</details>
+</div>
+
+<div class="statistic">
+<h3>Top 10 Rollen</h3>
+<h4>nach vorkommenden Hörspielen</h4>
+<table class="datatable">
+<tr>
+	<th>Rolle</td>
+	<th>Anzahl</td>
+</tr>
+<tr>
+	<td class="cell_data">Bob Andrews, Recherchen und Archiv</td>
+	<td class="cell_data">248</td>
+</tr>
+<tr>
+	<td class="cell_data">Justus Jonas, Erster Detektiv</td>
+	<td class="cell_data">248</td>
+</tr>
+<tr>
+	<td class="cell_data">Peter Shaw, Zweiter Detektiv</td>
+	<td class="cell_data">248</td>
+</tr>
+<tr>
+	<td class="cell_data">Erzähler</td>
+	<td class="cell_data">176</td>
+</tr>
+<tr>
+	<td class="cell_data">Inspektor Cotta</td>
+	<td class="cell_data">79</td>
+</tr>
+<tr>
+	<td class="cell_data">Hitchcock, Erzähler</td>
+	<td class="cell_data">75</td>
+</tr>
+<tr>
+	<td class="cell_data">Tante Mathilda</td>
+	<td class="cell_data">75</td>
+</tr>
+<tr>
+	<td class="cell_data">Onkel Titus</td>
+	<td class="cell_data">48</td>
+</tr>
+<tr>
+	<td class="cell_data">Kommissar Reynolds</td>
+	<td class="cell_data">27</td>
+</tr>
+<tr>
+	<td class="cell_data">Morton</td>
+	<td class="cell_data">27</td>
+</tr>
+</table>
+<details>
+	<summary><b>SQL</b></summary>
+	<pre><code>SELECT name AS Rolle, COUNT(*) AS Anzahl
+FROM sprechrolle JOIN rolle USING (rolleID)
+GROUP BY Rolle ORDER BY Anzahl DESC, Rolle LIMIT 10</code></pre>
+</details>
+</div>
+
+<div class="statistic">
+<h3>Top 10 Autoren</h3>
+<h4>nach geschriebenen Buchvorlagen</h4>
+<table class="datatable">
+<tr>
+	<th>Autor</td>
+	<th>Anzahl</td>
+</tr>
+<tr>
+	<td class="cell_data">Marco Sonnleitner</td>
+	<td class="cell_data">43</td>
+</tr>
+<tr>
+	<td class="cell_data">André Marx</td>
+	<td class="cell_data">41</td>
+</tr>
+<tr>
+	<td class="cell_data">Ben Nevis</td>
+	<td class="cell_data">28</td>
+</tr>
+<tr>
+	<td class="cell_data">Hendrik Buchna</td>
+	<td class="cell_data">24</td>
+</tr>
+<tr>
+	<td class="cell_data">Kari Erlhoff</td>
+	<td class="cell_data">24</td>
+</tr>
+<tr>
+	<td class="cell_data">André Minninger</td>
+	<td class="cell_data">21</td>
+</tr>
+<tr>
+	<td class="cell_data">Christoph Dittert</td>
+	<td class="cell_data">17</td>
+</tr>
+<tr>
+	<td class="cell_data">Brigitte Johanna Henkel-Waidhofer</td>
+	<td class="cell_data">16</td>
+</tr>
+<tr>
+	<td class="cell_data">M. V. Carey</td>
+	<td class="cell_data">15</td>
+</tr>
+<tr>
+	<td class="cell_data">William Arden</td>
+	<td class="cell_data">15</td>
+</tr>
+</table>
+<details>
+	<summary><b>SQL</b></summary>
+	<pre><code>SELECT name AS Autor, COUNT(*) AS Anzahl
+FROM hörspielBuchautor JOIN person USING (personID)
+GROUP BY Autor ORDER BY Anzahl DESC, Autor LIMIT 10</code></pre>
+</details>
+</div>
+
+<div class="statistic">
+<h3>Top 10 Hörspiele</h3>
+<h4>nach Dauer</h4>
+<table class="datatable">
+<tr>
+	<th>Titel</td>
+	<th>Sekunden</td>
+</tr>
+<tr>
+	<td class="cell_data">Feuriges Auge</td>
+	<td class="cell_data">17712</td>
+</tr>
+<tr>
+	<td class="cell_data">Feuermond</td>
+	<td class="cell_data">13119</td>
+</tr>
+<tr>
+	<td class="cell_data">und der dreiTag</td>
+	<td class="cell_data">13078</td>
+</tr>
+<tr>
+	<td class="cell_data">Böser die Glocken nie klingen</td>
+	<td class="cell_data">12210</td>
+</tr>
+<tr>
+	<td class="cell_data">Geisterbucht</td>
+	<td class="cell_data">11918</td>
+</tr>
+<tr>
+	<td class="cell_data">und der schwarze Tag</td>
+	<td class="cell_data">11729</td>
+</tr>
+<tr>
+	<td class="cell_data">Schattenwelt</td>
+	<td class="cell_data">11249</td>
+</tr>
+<tr>
+	<td class="cell_data">und der Puppenmacher</td>
+	<td class="cell_data">10696</td>
+</tr>
+<tr>
+	<td class="cell_data">und die Geisterlampe</td>
+	<td class="cell_data">10299</td>
+</tr>
+<tr>
+	<td class="cell_data">und der 5. Advent</td>
+	<td class="cell_data">10281</td>
+</tr>
+</table>
+<details>
+	<summary><b>SQL</b></summary>
+	<pre><code>WITH hörspielDauer AS (
+  SELECT hörspielID, SUM(dauer) AS dauer
+  FROM hörspiel JOIN kapitel USING (hörspielID) JOIN track USING (trackID)
+  GROUP BY hörspielID
+),
+multiHörspielDauer AS (
+  SELECT hörspiel AS hörspielID, SUM(dauer) AS dauer
+  FROM hörspielTeil JOIN hörspielDauer ON teil = hörspielID
+  GROUP BY hörspiel
+  UNION SELECT * FROM hörspielDauer
+),
+rootHörspiel AS (
+  SELECT hörspielID FROM hörspiel
+  WHERE NOT EXISTS (
+    SELECT * FROM hörspielTeil WHERE hörspielID = teil
+  )
+)
+SELECT titel as Titel, dauer/1000 as Sekunden
+FROM rootHörspiel JOIN hörspiel USING (hörspielID) JOIN multiHörspielDauer USING (hörspielID)
+ORDER BY dauer DESC LIMIT 10</code></pre>
+</details>
+</div>
+
+<div class="statistic">
+<h3>Gesamtdauer aller Hörspiele</h3>
+<table class="datatable">
+<tr>
+	<td class="cell_data">307.62 Stunden</td>
+</tr>
+</table>
+<details>
+	<summary><b>SQL</b></summary>
+	<pre><code>SELECT ROUND(SUM(dauer)/1000/3600.0, 2) || ' Stunden'
+FROM kapitel JOIN track USING (trackID)</code></pre>
+</details>
+</div>
+
+<div class="statistic">
+<h3>Anzahl an Hörspielen</h3>
+<h4>ohne Teile</h4>
+<table class="datatable">
+<tr>
+	<td class="cell_data">259</td>
+</tr>
+</table>
+<details>
+	<summary><b>SQL</b></summary>
+	<pre><code>SELECT COUNT(*) FROM hörspiel h
+WHERE NOT EXISTS (
+  SELECT * FROM hörspielTeil ht WHERE ht.teil = h.hörspielID
+)</code></pre>
+</details>
+</div>
+
+<div class="statistic">
+<h3>Anzahl an Sprechern</h3>
+<table class="datatable">
+<tr>
+	<td class="cell_data">900</td>
+</tr>
+</table>
+<details>
+	<summary><b>SQL</b></summary>
+	<pre><code>SELECT COUNT(*) FROM (
+  SELECT DISTINCT personID FROM spricht
+)</code></pre>
+</details>
+</div>
+
+<div class="statistic">
+<h3>Anzahl an Rollen</h3>
+<table class="datatable">
+<tr>
+	<td class="cell_data">2001</td>
+</tr>
+</table>
+<details>
+	<summary><b>SQL</b></summary>
+	<pre><code>SELECT COUNT(*) FROM rolle</code></pre>
+</details>
+</div>
+
+<div class="statistic">
+<h3>Anzahl an Buchautoren</h3>
+<table class="datatable">
+<tr>
+	<td class="cell_data">25</td>
+</tr>
+</table>
+<details>
+	<summary><b>SQL</b></summary>
+	<pre><code>SELECT COUNT(*) FROM (
+  SELECT DISTINCT personID FROM hörspielBuchautor
+)</code></pre>
+</details>
+</div>
+
+<div class="statistic">
+<h3>Anzahl an Hörspielskriptautoren</h3>
+<table class="datatable">
+<tr>
+	<td class="cell_data">10</td>
+</tr>
+</table>
+<details>
+	<summary><b>SQL</b></summary>
+	<pre><code>SELECT COUNT(*) FROM (
+  SELECT DISTINCT personID FROM hörspielSkriptautor
+)</code></pre>
+</details>
+</div>
+
+
+</div>
+
+
+<footer>
+	<p>
+		Inhalte und Datensätze (ausgenommen Coverbilder und Beschreibungstexte) stehen unter der <a href="https://creativecommons.org/licenses/by/4.0/legalcode.de">CC&nbsp;BY&nbsp;4.0&nbsp;Lizenz</a> zur Verfügung.<br>
+		Bei Verwendung genügt als Namensnennung "dreimetadaten.de".
+	</p>
+</footer>
+
+</body>
+
+</html>

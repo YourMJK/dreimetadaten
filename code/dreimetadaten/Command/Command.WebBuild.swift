@@ -20,7 +20,7 @@ extension Command {
 		)
 		
 		struct IOOptions: ParsableArguments {
-			private static let argumentHelpAutomaticDefault = "(default: automatic based on <collection type>)"
+			private static let argumentHelpAutomaticDefault = "(default: automatic based on <page>)"
 			
 			@Option(name: .customLong("template"), help: ArgumentHelp("The path to the template HTML input file to use for filling in the placeholders. \(argumentHelpAutomaticDefault)", valueName: "html file"))
 			var templateFilePath: String?
@@ -29,8 +29,8 @@ extension Command {
 			var outputFilePath: String?
 		}
 		
-		@Argument(help: ArgumentHelp("The collection type to generate the HTML code for.", valueName: "collection type"))
-		var collectionTypeArgument: CollectionTypeArgument
+		@Argument(help: ArgumentHelp("The page to generate the HTML code for.", valueName: "page"))
+		var pageArgument: PageArgument
 		
 		@Option(name: .customLong("db"), help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
 		var databaseFilePath: String = Command.databaseFile.relativePath
@@ -48,14 +48,17 @@ extension Command {
 			
 			let dbQueue = try DatabaseQueue(path: databaseFilePath)
 			try dbQueue.read { db in
-				let objectModel = try MetadataObjectModel(fromDatabase: db, withBaseURL: webDataURL)
+				let needsObjectModel = pageArgument.pages.contains { page in
+					if case .collection(_) = page { return true } else { return false }
+				}
+				let objectModel = needsObjectModel ? try MetadataObjectModel(fromDatabase: db, withBaseURL: webDataURL) : nil
 				
-				for collectionType in collectionTypeArgument.collectionType {
+				for page in pageArgument.pages {
 					func automaticDefault(_ optionKeyPath: KeyPath<IOOptions, String?>, defaultIn defaultDir: URL) throws -> URL {
 						if let path = ioOptions[keyPath: optionKeyPath] {
 							return URL(fileURLWithPath: path, isDirectory: false)
 						}
-						let defaultFile = collectionType.htmlFile
+						let defaultFile = page.htmlFile
 						return defaultDir.appendingPathComponent(defaultFile, isDirectory: false)
 					}
 					let templateFileURL = try automaticDefault(\.templateFilePath, defaultIn: Command.webTemplatesDir)
@@ -66,14 +69,21 @@ extension Command {
 						throw ArgumentError.noSuchFile(url: templateFileURL)
 					}
 					
-					let pageBuilder = try CollectionPageBuilder(
-						objectModel: objectModel,
-						collectionType: collectionType,
-						templateFile: templateFileURL,
-						host: webDataURL.host!
-					)
-					try pageBuilder.build()
+					let pageBuilder: PageBuilder
+					switch page {
+						case .collection(let collectionType):
+							pageBuilder = try CollectionPageBuilder(
+								objectModel: objectModel!,
+								collectionType: collectionType,
+								templateFile: templateFileURL,
+								host: webDataURL.host!
+							)
+							
+						case .statistik:
+							pageBuilder = try StatisticsPageBuilder(db: db, templateFile: templateFileURL)
+					}
 					
+					try pageBuilder.build()
 					try pageBuilder.content.write(to: outputFileURL, atomically: false, encoding: .utf8)
 				}
 			}
@@ -83,20 +93,37 @@ extension Command {
 
 
 extension Command.WebBuild {
-	enum CollectionTypeArgument: String, ArgumentEnum {
+	enum PageArgument: String, ArgumentEnum {
 		case serie
 		case spezial
 		case kurzgeschichten
 		case die_dr3i
+		
+		case statistik
 		case all
 		
-		var collectionType: [CollectionType] {
+		var pages: [Page] {
 			switch self {
-				case .serie: return [.serie]
-				case .spezial: return [.spezial]
-				case .kurzgeschichten: return [.kurzgeschichten]
-				case .die_dr3i: return [.die_dr3i]
-				case .all: return CollectionType.allCases
+				case .serie: return [.collection(type: .serie)]
+				case .spezial: return [.collection(type: .spezial)]
+				case .kurzgeschichten: return [.collection(type: .kurzgeschichten)]
+				case .die_dr3i: return [.collection(type: .die_dr3i)]
+				case .statistik: return [.statistik]
+				case .all:
+					return CollectionType.allCases.map(Page.collection(type:)) + [
+						.statistik
+					]
+			}
+		}
+	}
+	enum Page {
+		case collection(type: CollectionType)
+		case statistik
+		
+		var htmlFile: String {
+			switch self {
+				case .collection(let type): return type.htmlFile
+				case .statistik: return "statistik.html"
 			}
 		}
 	}

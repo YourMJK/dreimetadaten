@@ -79,6 +79,10 @@ h2 {
 h3 {
 	font-size: 14pt;
 }
+h4 {
+	font-size: 12pt;
+	font-weight: 500;
+}
 
 p {
 	margin: 0.5em 0;
@@ -87,7 +91,15 @@ p {
 code {
 	font-family: SFMono, monospace;
 	font-weight: 500;
-	font-size: 12pt;
+	font-size: 10pt;
+	line-height: 1.4;
+}
+pre {
+	white-space: pre-wrap;
+	background-color: var(--color-tablerowHoverBG);
+	margin: 0.5em 0;
+	padding: 6pt 10pt;
+	border-radius: 6pt;
 }
 
 b {
@@ -112,6 +124,7 @@ a:active {
 
 summary {
 	cursor: pointer;
+	margin: 0.5em 0;
 }
 summary b:hover {
 	text-decoration: underline;
@@ -225,4 +238,17 @@ footer {
 .datatable .cell_icon img {
 	height: 15pt;
 	vertical-align: bottom;
+}
+
+.statisticsData {
+	margin: 2em 0;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(350pt, 1fr));
+	gap: 2em;
+}
+.statistic h3, .statistic h4 {
+	margin: 0.1em 0;
+}
+.statistic table {
+	margin: 1em 0;
 }
