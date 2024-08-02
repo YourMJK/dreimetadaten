@@ -483,16 +483,27 @@ extension MetadataObjectModel {
 					let teil = Teil(teilNummer: hörspielTeil.position)
 					teil.buchstabe = hörspielTeil.buchstabe
 					copy(from: teilH, to: teil)
-					
-					func inheritFromParent<T>(_ keypath: ReferenceWritableKeyPath<Hörspiel, T?>) {
-						teil[keyPath: keypath] = teil[keyPath: keypath] ?? hörspiel[keyPath: keypath]
-					}
-					inheritFromParent(\.autor)
-					inheritFromParent(\.hörspielskriptautor)
-					inheritFromParent(\.veröffentlichungsdatum)
-					
 					return teil
 				}
+			
+			// Inherit fields from parent
+			for teil in teile {
+				func inheritFromParent<T>(_ keypath: ReferenceWritableKeyPath<Hörspiel, T?>) {
+					teil[keyPath: keypath] = teil[keyPath: keypath] ?? hörspiel[keyPath: keypath]
+				}
+				inheritFromParent(\.autor)
+				inheritFromParent(\.hörspielskriptautor)
+				inheritFromParent(\.veröffentlichungsdatum)
+			}
+			// Gather fields from children
+			func gatherFromChildren(_ keypath: ReferenceWritableKeyPath<Hörspiel, String?>) {
+				guard hörspiel[keyPath: keypath] == nil else { return }
+				let values = OrderedSet(teile.compactMap { $0[keyPath: keypath] })
+				hörspiel[keyPath: keypath] = !values.isEmpty ? values.joined(separator: ", ") : nil
+			}
+			gatherFromChildren(\.autor)
+			gatherFromChildren(\.hörspielskriptautor)
+			
 			hörspiel.teile = nilForEmpty(teile)
 			if !teile.isEmpty {
 				hörspiel.links?.ffmetadata = nil
