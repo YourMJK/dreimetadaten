@@ -299,27 +299,40 @@ ORDER BY dauer DESC LIMIT 10</code></pre>
 </div>
 
 <div class="statistic">
-<h3>Gesamtdauer aller Hörspiele</h3>
+<div class="inline">
+<div>
+<h3>Gesamtdauer aller Hörspiele:</h3>
+<h4>in Stunden</h4>
+</div>
+<div>
 <table class="datatable">
 <tr>
-	<td class="cell_data">307.62 Stunden</td>
+	<td class="cell_data">307.62</td>
 </tr>
 </table>
+</div>
+</div>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">SELECT ROUND(SUM(dauer)/1000/3600.0, 2) || ' Stunden'
+	<pre><code class="hljs language-sql">SELECT ROUND(SUM(dauer)/1000/3600.0, 2)
 FROM kapitel JOIN track USING (trackID)</code></pre>
 </details>
 </div>
 
 <div class="statistic">
-<h3>Anzahl an Hörspielen</h3>
+<div class="inline">
+<div>
+<h3>Anzahl an Hörspielen:</h3>
 <h4>ohne Teile</h4>
+</div>
+<div>
 <table class="datatable">
 <tr>
 	<td class="cell_data">259</td>
 </tr>
 </table>
+</div>
+</div>
 <details>
 	<summary><b>SQL</b></summary>
 	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM hörspiel h
@@ -330,12 +343,18 @@ WHERE NOT EXISTS (
 </div>
 
 <div class="statistic">
-<h3>Anzahl an Sprechern</h3>
+<div class="inline">
+<div>
+<h3>Anzahl an Sprechern:</h3>
+</div>
+<div>
 <table class="datatable">
 <tr>
 	<td class="cell_data">900</td>
 </tr>
 </table>
+</div>
+</div>
 <details>
 	<summary><b>SQL</b></summary>
 	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
@@ -345,12 +364,18 @@ WHERE NOT EXISTS (
 </div>
 
 <div class="statistic">
-<h3>Anzahl an Rollen</h3>
+<div class="inline">
+<div>
+<h3>Anzahl an Rollen:</h3>
+</div>
+<div>
 <table class="datatable">
 <tr>
 	<td class="cell_data">2001</td>
 </tr>
 </table>
+</div>
+</div>
 <details>
 	<summary><b>SQL</b></summary>
 	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM rolle</code></pre>
@@ -358,12 +383,18 @@ WHERE NOT EXISTS (
 </div>
 
 <div class="statistic">
-<h3>Anzahl an Buchautoren</h3>
+<div class="inline">
+<div>
+<h3>Anzahl an Buchautoren:</h3>
+</div>
+<div>
 <table class="datatable">
 <tr>
 	<td class="cell_data">25</td>
 </tr>
 </table>
+</div>
+</div>
 <details>
 	<summary><b>SQL</b></summary>
 	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
@@ -373,12 +404,18 @@ WHERE NOT EXISTS (
 </div>
 
 <div class="statistic">
-<h3>Anzahl an Hörspielskriptautoren</h3>
+<div class="inline">
+<div>
+<h3>Anzahl an Hörspielskriptautoren:</h3>
+</div>
+<div>
 <table class="datatable">
 <tr>
 	<td class="cell_data">10</td>
 </tr>
 </table>
+</div>
+</div>
 <details>
 	<summary><b>SQL</b></summary>
 	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (

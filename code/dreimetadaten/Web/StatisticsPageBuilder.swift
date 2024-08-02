@@ -35,7 +35,7 @@ class StatisticsPageBuilder: PageBuilder {
 				default: return "\(value)"
 			}
 		}
-		func createSection(title: String, subtitle: String? = nil, noHeaders: Bool = false, query: String) throws {
+		func createSection(title: String, subtitle: String? = nil, inline: Bool = false, noHeaders: Bool = false, query: String) throws {
 			addLine("<div class=\"statistic\">")
 			
 			// Query result
@@ -44,10 +44,23 @@ class StatisticsPageBuilder: PageBuilder {
 				throw ResultError.queryHasNoResults(query: query)
 			}
 			
+			// Inline result
+			var title = title
+			if inline {
+				title.append(":")
+				addLine("<div class=\"inline\">")
+				addLine("<div>")
+			}
+			
 			// Title
 			addLine("<h3>\(title)</h3>")
 			if let subtitle {
 				addLine("<h4>\(subtitle)</h4>")
+			}
+			
+			if inline {
+				addLine("</div>")
+				addLine("<div>")
 			}
 			
 			// Table
@@ -73,6 +86,11 @@ class StatisticsPageBuilder: PageBuilder {
 			
 			content.append(table.content)
 			
+			if inline {
+				addLine("</div>")
+				addLine("</div>")
+			}
+			
 			// Query
 			addLine("<details>")
 			addLine("\t<summary><b>SQL</b></summary>")
@@ -80,6 +98,9 @@ class StatisticsPageBuilder: PageBuilder {
 			addLine("</details>")
 			
 			addLine("</div>\n")
+		}
+		func createSingleSection(title: String, subtitle: String? = nil, query: String) throws {
+			try createSection(title: title, subtitle: subtitle, inline: true, noHeaders: true, query: query)
 		}
 		
 		try createSection(
@@ -139,19 +160,18 @@ class StatisticsPageBuilder: PageBuilder {
 			ORDER BY dauer DESC LIMIT 10
 			"""
 		)
-		try createSection(
+		try createSingleSection(
 			title: "Gesamtdauer aller Hörspiele",
-			noHeaders: true,
+			subtitle: "in Stunden",
 			query:
 			"""
-			SELECT ROUND(SUM(dauer)/1000/3600.0, 2) || ' Stunden'
+			SELECT ROUND(SUM(dauer)/1000/3600.0, 2)
 			FROM kapitel JOIN track USING (trackID)
 			"""
 		)
-		try createSection(
+		try createSingleSection(
 			title: "Anzahl an Hörspielen",
 			subtitle: "ohne Teile",
-			noHeaders: true,
 			query:
 			"""
 			SELECT COUNT(*) FROM hörspiel h
@@ -160,9 +180,8 @@ class StatisticsPageBuilder: PageBuilder {
 			)
 			"""
 		)
-		try createSection(
+		try createSingleSection(
 			title: "Anzahl an Sprechern",
-			noHeaders: true,
 			query:
 			"""
 			SELECT COUNT(*) FROM (
@@ -170,17 +189,15 @@ class StatisticsPageBuilder: PageBuilder {
 			)
 			"""
 		)
-		try createSection(
+		try createSingleSection(
 			title: "Anzahl an Rollen",
-			noHeaders: true,
 			query:
 			"""
 			SELECT COUNT(*) FROM rolle
 			"""
 		)
-		try createSection(
+		try createSingleSection(
 			title: "Anzahl an Buchautoren",
-			noHeaders: true,
 			query:
 			"""
 			SELECT COUNT(*) FROM (
@@ -188,9 +205,8 @@ class StatisticsPageBuilder: PageBuilder {
 			)
 			"""
 		)
-		try createSection(
+		try createSingleSection(
 			title: "Anzahl an Hörspielskriptautoren",
-			noHeaders: true,
 			query:
 			"""
 			SELECT COUNT(*) FROM (
