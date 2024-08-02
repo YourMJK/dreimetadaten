@@ -25,6 +25,10 @@ class StatisticsPageBuilder: PageBuilder {
 	private func replaceContentPlaceholder() throws {
 		var content = ""
 		
+		let decimalFormatter = NumberFormatter()
+		decimalFormatter.numberStyle = .decimal
+		decimalFormatter.usesGroupingSeparator = false
+		
 		func addLine(_ line: String) {
 			content.append(line)
 			content.append("\n")
@@ -32,6 +36,7 @@ class StatisticsPageBuilder: PageBuilder {
 		func format(_ value: DatabaseValue) -> String {
 			switch value.storage {
 				case .string(let string): return string
+				case .double(let double): return decimalFormatter.string(from: NSNumber(value: double))!
 				default: return "\(value)"
 			}
 		}
@@ -77,8 +82,9 @@ class StatisticsPageBuilder: PageBuilder {
 			// Data
 			for row in rows {
 				table.startRow()
-				row.databaseValues.forEach {
-					table.addCell(class: .data, content: format($0))
+				row.databaseValues.enumerated().forEach {
+					let first = $0.offset == 0 && row.count != 1
+					table.addCell(class: first ? .nr : .data, content: format($0.element))
 				}
 				table.endRow()
 			}
