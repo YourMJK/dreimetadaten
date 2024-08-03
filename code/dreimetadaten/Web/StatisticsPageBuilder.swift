@@ -40,7 +40,7 @@ class StatisticsPageBuilder: PageBuilder {
 				default: return "\(value)"
 			}
 		}
-		func createSection(title: String, subtitle: String? = nil, inline: Bool = false, noHeaders: Bool = false, query: String) throws {
+		func createSection(title: String, subtitle: String? = nil, description: String? = nil, inline: Bool = false, noHeaders: Bool = false, query: String) throws {
 			addLine("<div class=\"statistic\">")
 			
 			// Query result
@@ -97,6 +97,10 @@ class StatisticsPageBuilder: PageBuilder {
 				addLine("</div>")
 			}
 			
+			if let description {
+				addLine("<p>\(description)</p>")
+			}
+			
 			// Query
 			addLine("<details>")
 			addLine("\t<summary><b>SQL</b></summary>")
@@ -105,8 +109,8 @@ class StatisticsPageBuilder: PageBuilder {
 			
 			addLine("</div>\n")
 		}
-		func createSingleSection(title: String, subtitle: String? = nil, query: String) throws {
-			try createSection(title: title, subtitle: subtitle, inline: true, noHeaders: true, query: query)
+		func createSingleSection(title: String, subtitle: String? = nil, description: String? = nil, query: String) throws {
+			try createSection(title: title, subtitle: subtitle, description: description, inline: true, noHeaders: true, query: query)
 		}
 		
 		try createSection(
@@ -132,11 +136,17 @@ class StatisticsPageBuilder: PageBuilder {
 		try createSection(
 			title: "Top 10 Autoren",
 			subtitle: "nach geschriebenen Buchvorlagen",
+			description: "(max. ein Credit pro Autor pro Folge mit mehreren Teilen)",
 			query:
 			"""
+			WITH buchautorCredits AS (
+			  SELECT DISTINCT personID, COALESCE(hörspiel, hörspielID)
+			  FROM hörspiel LEFT OUTER JOIN hörspielTeil ON teil = hörspielID
+			  JOIN hörspielBuchautor USING (hörspielID)
+			)
 			SELECT name AS Autor, COUNT(*) AS Anzahl
-			FROM hörspielBuchautor JOIN person USING (personID)
-			GROUP BY Autor ORDER BY Anzahl DESC, Autor LIMIT 10
+			FROM buchautorCredits JOIN person USING (personID)
+			GROUP BY personID ORDER BY Anzahl DESC, Autor LIMIT 10
 			"""
 		)
 		try createSection(

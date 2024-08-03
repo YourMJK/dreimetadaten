@@ -49,7 +49,7 @@
 	Automatisch generiert mit SQL-Anfragen an die Datenbank.
 </p>
 
-<b>Letzte Aktualisierung:</b> 02.08.2024
+<b>Letzte Aktualisierung:</b> 03.08.2024
 
 
 <div class="statisticsData">
@@ -176,27 +176,27 @@ GROUP BY Rolle ORDER BY Anzahl DESC, Rolle LIMIT 10</code></pre>
 	<th>Anzahl</td>
 </tr>
 <tr>
-	<td class="cell_nr">Marco Sonnleitner</td>
-	<td class="cell_data">43</td>
-</tr>
-<tr>
 	<td class="cell_nr">André Marx</td>
 	<td class="cell_data">41</td>
+</tr>
+<tr>
+	<td class="cell_nr">Marco Sonnleitner</td>
+	<td class="cell_data">40</td>
 </tr>
 <tr>
 	<td class="cell_nr">Ben Nevis</td>
 	<td class="cell_data">28</td>
 </tr>
 <tr>
+	<td class="cell_nr">André Minninger</td>
+	<td class="cell_data">21</td>
+</tr>
+<tr>
 	<td class="cell_nr">Hendrik Buchna</td>
-	<td class="cell_data">24</td>
+	<td class="cell_data">21</td>
 </tr>
 <tr>
 	<td class="cell_nr">Kari Erlhoff</td>
-	<td class="cell_data">24</td>
-</tr>
-<tr>
-	<td class="cell_nr">André Minninger</td>
 	<td class="cell_data">21</td>
 </tr>
 <tr>
@@ -216,11 +216,17 @@ GROUP BY Rolle ORDER BY Anzahl DESC, Rolle LIMIT 10</code></pre>
 	<td class="cell_data">15</td>
 </tr>
 </table>
+<p>(max. ein Credit pro Autor pro Folge mit mehreren Teilen)</p>
 <details>
 	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">SELECT name AS Autor, COUNT(*) AS Anzahl
-FROM hörspielBuchautor JOIN person USING (personID)
-GROUP BY Autor ORDER BY Anzahl DESC, Autor LIMIT 10</code></pre>
+	<pre><code class="hljs language-sql">WITH buchautorCredits AS (
+  SELECT DISTINCT personID, COALESCE(hörspiel, hörspielID)
+  FROM hörspiel LEFT OUTER JOIN hörspielTeil ON teil = hörspielID
+  JOIN hörspielBuchautor USING (hörspielID)
+)
+SELECT name AS Autor, COUNT(*) AS Anzahl
+FROM buchautorCredits JOIN person USING (personID)
+GROUP BY personID ORDER BY Anzahl DESC, Autor LIMIT 10</code></pre>
 </details>
 </div>
 
