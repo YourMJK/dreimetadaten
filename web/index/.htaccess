@@ -1,0 +1,3 @@
+<FilesMatch ".*">
+        ForceType 'application/json; charset=UTF-8'
+</FilesMatch>
