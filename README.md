@@ -28,7 +28,9 @@ Folgende Projekte greifen bereits auf diesen Datensatz zurück:
 ## Struktur
 ### Relationales Modell (SQL-Datenbank, TSV)
 
-<img src="model/relationalModel.svg?raw=1" width="100%" height="100%">
+<a href="model/relationalModel.svg?raw=1">
+  <img src="model/relationalModel.svg" width="100%" height="100%">
+</a>
 
 <details>
 <summary>SQL Schema</summary>
@@ -146,7 +148,9 @@ CREATE TABLE IF NOT EXISTS "hörspielSkriptautor"(
 
 ### Objekt-orientiertes Modell (JSON)
 
-<img src="model/objectModel.svg?raw=1" width="100%" height="100%">
+<a href="model/objectModel.svg?raw=1">
+  <img src="model/objectModel.svg" width="100%" height="100%">
+</a>
 
 <details>
 <summary>JSON Schema (in Swift)</summary>
