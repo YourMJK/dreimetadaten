@@ -260,7 +260,7 @@ struct WebDataExporter {
 	}
 	
 	static func dirname(for hörspiel: MetadataObjectModel.Hörspiel, nummerFormat: String? = nil) throws -> String {
-		if let folge = hörspiel as? MetadataObjectModel.Folge, folge.nummer >= 0 {
+		if let folge = hörspiel as? MetadataObjectModel.Folge {
 			return String(format: nummerFormat ?? "", folge.nummer)
 		}
 		guard let titel = hörspiel.titel else {

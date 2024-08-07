@@ -38,7 +38,7 @@ struct MetadataRelationalModel {
 extension MetadataRelationalModel {
 	
 	struct SerieFolge: Codable {
-		var nummer: Int
+		var nummer: UInt
 		
 		var hörspielID: Hörspiel.ID
 	}
@@ -54,7 +54,7 @@ extension MetadataRelationalModel {
 	}
 	
 	struct DieDr3iFolge: Codable {
-		var nummer: Int
+		var nummer: UInt?
 		
 		var hörspielID: Hörspiel.ID
 	}
@@ -185,7 +185,7 @@ protocol UniquePrimaryKeyName {
 
 extension MetadataRelationalModel.SerieFolge: PersistableFetchableTableRecord, Identifiable {
 	static let databaseTableName = "serie"
-	var id: Int { nummer }
+	var id: UInt { nummer }
 }
 extension MetadataRelationalModel.SpezialFolge: PersistableFetchableTableRecord, Identifiable {
 	static let databaseTableName = "spezial"
@@ -321,10 +321,9 @@ extension MetadataRelationalModel {
 		}
 		// DieDr3iFolge
 		try db.create(table: DieDr3iFolge.databaseTableName) { t in
-			t.primaryKey("nummer", .integer)
-				.notNull()
+			t.column("nummer", .integer)
 			foreignKeyReference(t, to: Hörspiel.self)
-				.unique()
+				.primaryKey()
 		}
 		
 		// Medium

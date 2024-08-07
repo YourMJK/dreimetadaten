@@ -164,7 +164,7 @@ extension FFmetadata {
 	static func create(forCollectionItem hörspiel: MetadataObjectModel.Hörspiel, titlePrefix: String, nummerFormat: String?) -> Self {
 		// Form title
 		let nummerString: String? = {
-			guard let folge = hörspiel as? MetadataObjectModel.Folge, folge.nummer >= 0 else {
+			guard let folge = hörspiel as? MetadataObjectModel.Folge else {
 				return nil
 			}
 			guard let nummerFormat = nummerFormat else {

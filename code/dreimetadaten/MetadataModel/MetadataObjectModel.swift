@@ -14,7 +14,7 @@ struct MetadataObjectModel: Codable {
 	var serie: [Folge]?
 	var spezial: [Hörspiel]?
 	var kurzgeschichten: [Hörspiel]?
-	var die_dr3i: [Folge]?
+	var die_dr3i: [Hörspiel]?
 }
 
 
@@ -37,9 +37,9 @@ extension MetadataObjectModel {
 	}
 	
 	class Folge: Hörspiel {
-		var nummer: Int
+		var nummer: UInt
 		
-		init(nummer: Int) {
+		init(nummer: UInt) {
 			self.nummer = nummer
 			super.init()
 		}
@@ -50,7 +50,7 @@ extension MetadataObjectModel {
 		}
 		required init(from decoder: Decoder) throws {
 			let container = try decoder.container(keyedBy: CodingKeys.self)
-			nummer = try container.decode(Int.self, forKey: .nummer)
+			nummer = try container.decode(UInt.self, forKey: .nummer)
 			try super.init(from: decoder)
 		}
 		override func encode(to encoder: Encoder) throws {
@@ -581,11 +581,14 @@ extension MetadataObjectModel {
 			.orderByPrimaryKey()
 			.fetchAll(db)
 			.map {
-				let hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.DieDr3iFolge.self)
-				let folge = Folge(nummer: $0.nummer)
-				copy(from: hörspiel, to: folge)
-				try addURL(to: folge, as: .die_dr3i)
-				return folge
+				var hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.DieDr3iFolge.self)
+				if let nummer = $0.nummer {
+					let folge = Folge(nummer: nummer)
+					copy(from: hörspiel, to: folge)
+					hörspiel = folge
+				}
+				try addURL(to: hörspiel, as: .die_dr3i)
+				return hörspiel
 			}
 	}
 	
