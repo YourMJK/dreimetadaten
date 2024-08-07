@@ -92,7 +92,6 @@ class CollectionPageBuilder: PageBuilder {
 			return "%0\(orderOfMagnitude)d"
 		}
 		func nameForFolge(_ folge: MetadataObjectModel.Folge) -> String {
-			guard folge.nummer >= 0 else { return "" }
 			return String(format: collectionType.nummerFormat ?? "", folge.nummer)
 		}
 		func nameForTeil(_ teil: MetadataObjectModel.Teil, count: Int) -> String {
@@ -148,6 +147,10 @@ class CollectionPageBuilder: PageBuilder {
 					else if let teil = hörspiel as? MetadataObjectModel.Teil {
 						table.addEmptyCell()
 						table.addCell(class: .nr, content: nameForTeil(teil, count: collectionCount))
+					}
+					else {
+						table.addEmptyCell()
+						table.addCell(class: .nr, content: hörspiel.titel ?? "")
 					}
 			}
 			

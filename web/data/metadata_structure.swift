@@ -2,7 +2,7 @@ struct MetadataObjectModel {
 	var serie: [Folge]?
 	var spezial: [Hörspiel]?
 	var kurzgeschichten: [Hörspiel]?
-	var die_dr3i: [Folge]?
+	var die_dr3i: [Hörspiel]?
 }
 
 
@@ -23,7 +23,7 @@ class Hörspiel {
 }
 
 class Folge: Hörspiel {
-	var nummer: Int
+	var nummer: UInt
 }
 
 class Teil: Hörspiel {
