@@ -69,7 +69,7 @@ class CollectionPageBuilder: PageBuilder {
 			case .kurzgeschichten:
 				table.addCell(type: .th, content: "Sammlung")
 				table.addCell(type: .th, content: headerTitel)
-			case .die_dr3i:
+			case .die_dr3i, .kids:
 				table.addCell(type: .th, content: headerNr)
 				table.addCell(type: .th, content: headerTitel)
 		}
@@ -139,7 +139,7 @@ class CollectionPageBuilder: PageBuilder {
 						table.addEmptyCell()
 					}
 				
-				case .die_dr3i:
+				case .die_dr3i, .kids:
 					if let folge = hörspiel as? MetadataObjectModel.Folge {
 						table.addCell(class: .nr, content: nameForFolge(folge))
 						table.addCell(class: .nr, content: hörspiel.titel ?? "")
