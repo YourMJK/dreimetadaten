@@ -10,10 +10,11 @@ import CommandLineTool
 
 
 enum CollectionType: String, ArgumentEnum {
-	case serie = "serie"
-	case spezial = "spezial"
-	case kurzgeschichten = "kurzgeschichten"
-	case die_dr3i = "die_dr3i"
+	case serie
+	case spezial
+	case kurzgeschichten
+	case die_dr3i
+	case kids
 	
 	var name: String {
 		switch self {
@@ -21,6 +22,7 @@ enum CollectionType: String, ArgumentEnum {
 			case .spezial: return "Spezial"
 			case .kurzgeschichten: return "Kurzgeschichten"
 			case .die_dr3i: return "DiE DR3i"
+			case .kids: return "Kids"
 		}
 	}
 	
@@ -47,6 +49,7 @@ enum CollectionType: String, ArgumentEnum {
 		switch self {
 			case .serie: return "%03d"
 			case .die_dr3i: return "%d"
+			case .kids: return "%03d"
 			default: return nil
 		}
 	}
@@ -57,6 +60,7 @@ enum CollectionType: String, ArgumentEnum {
 			case .spezial: return \.spezial
 			case .kurzgeschichten: return \.kurzgeschichten
 			case .die_dr3i: return \.die_dr3i
+			case .kids: return \.kids
 		}
 	}
 	

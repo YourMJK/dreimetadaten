@@ -67,6 +67,9 @@ class Migrator {
 						nummer: objectFolge.nummer,
 						hörspielID: hörspielID
 					))
+					
+				default:
+					fatalError("Collection type \"\($0.collection)\" not implemented")
 			}
 		}
 	}

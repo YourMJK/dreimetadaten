@@ -75,6 +75,10 @@ CREATE TABLE IF NOT EXISTS "dieDr3i"(
   "nummer" INTEGER,
   "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
 );
+CREATE TABLE IF NOT EXISTS "kids"(
+  "nummer" INTEGER,
+  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
+);
 CREATE TABLE IF NOT EXISTS "medium"(
   "mediumID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
@@ -161,6 +165,7 @@ struct MetadataObjectModel {
   var spezial: [Hörspiel]?
   var kurzgeschichten: [Hörspiel]?
   var die_dr3i: [Hörspiel]?
+  var kids: [Hörspiel]?
 }
 
 

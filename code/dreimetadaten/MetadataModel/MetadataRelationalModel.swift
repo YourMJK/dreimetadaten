@@ -15,6 +15,7 @@ struct MetadataRelationalModel {
 	var spezial: [SpezialFolge] = []
 	var kurzgeschichten: [KurzgeschichtenFolge] = []
 	var dieDr3i: [DieDr3iFolge] = []
+	var kids: [KidsFolge] = []
 	
 	var hörspiel: [Hörspiel] = []
 	var hörspielTeil: [HörspielTeil] = []
@@ -54,6 +55,12 @@ extension MetadataRelationalModel {
 	}
 	
 	struct DieDr3iFolge: Codable {
+		var nummer: UInt?
+		
+		var hörspielID: Hörspiel.ID
+	}
+	
+	struct KidsFolge: Codable {
 		var nummer: UInt?
 		
 		var hörspielID: Hörspiel.ID
@@ -199,6 +206,10 @@ extension MetadataRelationalModel.DieDr3iFolge: PersistableFetchableTableRecord,
 	static let databaseTableName = "dieDr3i"
 	var id: MetadataRelationalModel.Hörspiel.ID { hörspielID }
 }
+extension MetadataRelationalModel.KidsFolge: PersistableFetchableTableRecord, Identifiable {
+	static let databaseTableName = "kids"
+	var id: MetadataRelationalModel.Hörspiel.ID { hörspielID }
+}
 extension MetadataRelationalModel.Hörspiel: PersistableFetchableTableRecord, UniquePrimaryKeyName, Identifiable {
 	static let primaryKeyName = "hörspielID"
 	var id: ID { hörspielID }
@@ -325,6 +336,12 @@ extension MetadataRelationalModel {
 			foreignKeyReference(t, to: Hörspiel.self)
 				.primaryKey()
 		}
+		// KidsFolge
+		try db.create(table: KidsFolge.databaseTableName) { t in
+			t.column("nummer", .integer)
+			foreignKeyReference(t, to: Hörspiel.self)
+				.primaryKey()
+		}
 		
 		// Medium
 		try db.create(table: Medium.databaseTableName) { t in
@@ -445,6 +462,7 @@ extension MetadataRelationalModel {
 		try insertAll(spezial)
 		try insertAll(kurzgeschichten)
 		try insertAll(dieDr3i)
+		try insertAll(kids)
 		try insertAll(medium)
 		try insertAll(track)
 		try insertAll(kapitel)
@@ -476,6 +494,7 @@ extension MetadataRelationalModel {
 		try fetchAll(\.spezial)
 		try fetchAll(\.kurzgeschichten)
 		try fetchAll(\.dieDr3i)
+		try fetchAll(\.kids)
 		try fetchAll(\.medium)
 		try fetchAll(\.track)
 		try fetchAll(\.kapitel)
@@ -512,9 +531,12 @@ extension MetadataRelationalModel {
 	
 	
 	static func tsvString<T: Encodable>(of table: [T]) throws -> String {
+		// Empty result without headers if table is empty
+		guard let firstItem = table.first else { return "" }
+		
 		let rowDelimiter: StringLiteralType = "¶"
 		let encoder = CSVEncoder() {
-			$0.headers = Mirror(reflecting: table.first!).children.map { $0.label! }
+			$0.headers = Mirror(reflecting: firstItem).children.map { $0.label! }
 			$0.delimiters = (field: "\t", row: .init(stringLiteral: rowDelimiter))
 			$0.escapingStrategy = .none
 			$0.nilStrategy = .empty
@@ -547,6 +569,7 @@ extension MetadataRelationalModel {
 		try encodeTable(spezial)
 		try encodeTable(kurzgeschichten)
 		try encodeTable(dieDr3i)
+		try encodeTable(kids)
 		try encodeTable(hörspiel)
 		try encodeTable(hörspielTeil)
 		try encodeTable(medium)

@@ -15,6 +15,7 @@ struct MetadataObjectModel: Codable {
 	var spezial: [Hörspiel]?
 	var kurzgeschichten: [Hörspiel]?
 	var die_dr3i: [Hörspiel]?
+	var kids: [Hörspiel]?
 }
 
 
@@ -147,6 +148,7 @@ extension MetadataObjectModel {
 			"spezial",
 			"kurzgeschichten",
 			"die_dr3i",
+			"kids",
 			
 			"nummer",
 			
@@ -300,7 +302,7 @@ extension MetadataObjectModel {
 extension MetadataObjectModel {
 	
 	init(fromDatabase db: Database, withBaseURL baseURL: URL) throws {
-		self.init(serie: [], spezial: [], kurzgeschichten: [], die_dr3i: [])
+		self.init(serie: [], spezial: [], kurzgeschichten: [], die_dr3i: [], kids: [])
 		
 		let columnHörspielID = Column(MetadataRelationalModel.Hörspiel.primaryKeyName)
 		let columnSprechrolleID = Column(MetadataRelationalModel.Sprechrolle.primaryKeyName)
@@ -544,16 +546,22 @@ extension MetadataObjectModel {
 			apply(url: url, to: hörspiel)
 		}
 		
+		func makeFolge(with nummer: UInt?, hörspiel: inout Hörspiel) {
+			guard let nummer else { return }
+			let folge = Folge(nummer: nummer)
+			copy(from: hörspiel, to: folge)
+			hörspiel = folge
+		}
+		
 		// serie
 		serie = try MetadataRelationalModel.SerieFolge
 			.orderByPrimaryKey()
 			.fetchAll(db)
 			.map {
-				let hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.SerieFolge.self)
-				let folge = Folge(nummer: $0.nummer)
-				copy(from: hörspiel, to: folge)
-				try addURL(to: folge, as: .serie)
-				return folge
+				var hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.SerieFolge.self)
+				makeFolge(with: $0.nummer, hörspiel: &hörspiel)
+				try addURL(to: hörspiel, as: .serie)
+				return hörspiel as! Folge
 			}
 		
 		// spezial
@@ -582,12 +590,19 @@ extension MetadataObjectModel {
 			.fetchAll(db)
 			.map {
 				var hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.DieDr3iFolge.self)
-				if let nummer = $0.nummer {
-					let folge = Folge(nummer: nummer)
-					copy(from: hörspiel, to: folge)
-					hörspiel = folge
-				}
+				makeFolge(with: $0.nummer, hörspiel: &hörspiel)
 				try addURL(to: hörspiel, as: .die_dr3i)
+				return hörspiel
+			}
+		
+		// kids
+		kids = try MetadataRelationalModel.KidsFolge
+			.orderByPrimaryKey()
+			.fetchAll(db)
+			.map {
+				var hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.KidsFolge.self)
+				makeFolge(with: $0.nummer, hörspiel: &hörspiel)
+				try addURL(to: hörspiel, as: .kids)
 				return hörspiel
 			}
 	}
