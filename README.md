@@ -33,7 +33,7 @@ Folgende Projekte greifen bereits auf diesen Datensatz zurück:
 </a>
 
 <details>
-<summary>SQL Schema</summary>
+<summary><h4>SQL Schema</h4></summary>
 
 ``` sql
 CREATE TABLE IF NOT EXISTS "hörspiel"(
@@ -153,7 +153,7 @@ CREATE TABLE IF NOT EXISTS "hörspielSkriptautor"(
 </a>
 
 <details>
-<summary>JSON Schema (in Swift)</summary>
+<summary><h4>JSON Schema (in Swift)</h4></summary>
 
 ``` swift
 struct MetadataObjectModel {
