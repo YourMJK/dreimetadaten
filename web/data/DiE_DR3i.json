@@ -825,7 +825,11 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/1/ffmetadata.txt",
-        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/1/cover.png"
+        "cover" : "http://dreimetadaten.de/data/DiE_DR3i/1/cover.png",
+        "cover2" : [
+          "http://dreimetadaten.de/data/DiE_DR3i/1/cover2.png",
+          "http://dreimetadaten.de/data/DiE_DR3i/1/cover3.png"
+        ]
       },
       "medien" : [
         {
