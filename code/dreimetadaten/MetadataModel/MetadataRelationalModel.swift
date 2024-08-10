@@ -70,7 +70,7 @@ extension MetadataRelationalModel {
 		var metabeschreibung: String?
 		var veröffentlichungsdatum: DatabaseDateComponents?
 		var unvollständig: Bool
-		var cover: Bool
+		var cover: UInt
 		var urlCoverApple: String?
 		var urlCoverKosmos: String?
 		var urlDreifragezeichen: String?
@@ -278,7 +278,8 @@ extension MetadataRelationalModel {
 			t.column("veröffentlichungsdatum", .date)
 			t.column("unvollständig", .boolean)
 				.notNull()
-			t.column("cover", .boolean)
+			t.column("cover", .integer)
+				.check { $0 >= 0 }
 				.notNull()
 			t.column("urlCoverApple", .text)
 			t.column("urlCoverKosmos", .text)

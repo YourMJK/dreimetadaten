@@ -93,7 +93,7 @@ class Migrator {
 				metabeschreibung: objectItem.metabeschreibung,
 				veröffentlichungsdatum: try objectItem.veröffentlichungsdatum.map(dateComponents(from:)),
 				unvollständig: objectItem.unvollständig ?? false,
-				cover: objectItem.links?.cover != nil,
+				cover: objectItem.links?.cover != nil ? 1 : 0,
 				urlCoverApple: objectItem.links?.cover_itunes,
 				urlCoverKosmos: objectItem.links?.cover_kosmos
 			)

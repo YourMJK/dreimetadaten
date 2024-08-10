@@ -48,6 +48,7 @@ struct Links {
 	var json: String?
 	var ffmetadata: String?
 	var cover: String?
+	var cover2: [String]?
 	var cover_itunes: String?
 	var cover_kosmos: String?
 	var dreifragezeichen: String?

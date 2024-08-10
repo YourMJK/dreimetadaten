@@ -105,6 +105,7 @@ extension MetadataObjectModel {
 		var ffmetadata: String?
 		var xld_log: String?  // Only kept for backwards-compatibility
 		var cover: String?
+		var cover2: [String]?
 		var cover_itunes: String?
 		var cover_kosmos: String?
 		var dreifragezeichen: String?
@@ -180,6 +181,7 @@ extension MetadataObjectModel {
 			"json",
 			"ffmetadata",
 			"cover",
+			"cover2",
 			"cover_itunes",
 			"cover_kosmos",
 			"dreifragezeichen",
@@ -451,7 +453,8 @@ extension MetadataObjectModel {
 			hörspielObject.links = Links(
 				json: "metadata.json",
 				ffmetadata: !hörspiel.unvollständig ? "ffmetadata.txt" : nil,
-				cover: hörspiel.cover ? "cover.png" : nil,
+				cover: hörspiel.cover > 0 ? "cover.png" : nil,
+				cover2: hörspiel.cover > 1 ? (2...hörspiel.cover).map { "cover\($0).png" } : nil,
 				cover_itunes: hörspiel.urlCoverApple,
 				cover_kosmos: hörspiel.urlCoverKosmos,
 				dreifragezeichen: hörspiel.urlDreifragezeichen,
@@ -513,12 +516,18 @@ extension MetadataObjectModel {
 		// url
 		func apply(url: URL, to hörspiel: Hörspiel) {
 			func prepend(to fileName: inout String?) {
-				fileName = fileName.map { url.appendingPathComponent($0).absoluteString }
+				if fileName != nil { prepend(to: &fileName!) }
+			}
+			func prepend(to fileName: inout String) {
+				fileName = url.appendingPathComponent(fileName).absoluteString
 			}
 			if hörspiel.links != nil {
 				prepend(to: &hörspiel.links!.json)
 				prepend(to: &hörspiel.links!.ffmetadata)
 				prepend(to: &hörspiel.links!.cover)
+				hörspiel.links!.cover2?.indices.forEach {
+					prepend(to: &hörspiel.links!.cover2![$0])
+				}
 			}
 			hörspiel.medien?.indices.forEach {
 				prepend(to: &hörspiel.medien![$0].ripLog)

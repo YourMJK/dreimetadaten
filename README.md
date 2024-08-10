@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS "hörspiel"(
   "metabeschreibung" TEXT,
   "veröffentlichungsdatum" DATE,
   "unvollständig" BOOLEAN NOT NULL,
-  "cover" BOOLEAN NOT NULL,
+  "cover" INTEGER NOT NULL CHECK("cover" >= 0),
   "urlCoverApple" TEXT,
   "urlCoverKosmos" TEXT,
   "urlDreifragezeichen" TEXT,
@@ -206,6 +206,7 @@ struct Links {
   var json: String?
   var ffmetadata: String?
   var cover: String?
+  var cover2: [String]?
   var cover_itunes: String?
   var cover_kosmos: String?
   var dreifragezeichen: String?

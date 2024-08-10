@@ -181,7 +181,14 @@ class CollectionPageBuilder: PageBuilder {
 				("CD\(multipleRipLogs ? String(index+1) : "")", ripLog)
 			})
 			// Cover
-			try addOptionalLink("dreimetadaten", \.cover)
+			if hasLink[\.cover]! {
+				let name = "dreimetadaten"
+				var coverLinks: [(String, String?)] = [(name, hörspiel.links?.cover)]
+				hörspiel.links?.cover2?.enumerated().forEach { (index, cover) in
+					coverLinks.append(("\(name)\(index+2)", cover))
+				}
+				try addLinks(coverLinks)
+			}
 			try addOptionalLink("iTunes", \.cover_itunes)
 			try addOptionalLink("Kosmos", \.cover_kosmos)
 			// Plattform

@@ -116,10 +116,13 @@ struct WebDataExporter {
 				try jsonString.write(to: jsonURL, atomically: true, encoding: .utf8)
 			}
 			
-			// Check cover file
+			// Check cover files
 			_ = try hörspiel.links?.cover.map(fileURL(for:))
+			try hörspiel.links?.cover2?.forEach {
+				_ = try fileURL(for: $0)
+			}
 			
-			// Check rip log file
+			// Check rip log files
 			try hörspiel.medien?.forEach {
 				_ = try $0.ripLog.map(fileURL(for:))
 			}

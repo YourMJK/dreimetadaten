@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS "hörspiel"(
   "metabeschreibung" TEXT,
   "veröffentlichungsdatum" DATE,
   "unvollständig" BOOLEAN NOT NULL,
-  "cover" BOOLEAN NOT NULL,
+  "cover" INTEGER NOT NULL CHECK("cover" >= 0),
   "urlCoverApple" TEXT,
   "urlCoverKosmos" TEXT,
   "urlDreifragezeichen" TEXT,
