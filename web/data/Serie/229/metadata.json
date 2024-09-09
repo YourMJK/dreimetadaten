@@ -3,13 +3,158 @@
   "titel" : "Drehbuch der Täuschung",
   "autor" : "Hendrik Buchna",
   "hörspielskriptautor" : "André Minninger",
+  "kurzbeschreibung" : "Gefangen auf Sumatra! Jayden ist verschwunden und soll gegen seinen Willen auf die indonesische Insel verschleppt worden sein.",
+  "beschreibung" : "Der Mitbewohner des verschwundenen Studenten macht sich große Sorgen um seinen Freund und bittet Justus, Peter und Bob um Hilfe. Er hat einen seltsamen Anruf von Jayden erhalten – direkt von Sumatra. Aber wie ist der junge Mann dort hingekommen und vor allem warum? Die drei Detektive übernehmen den Fall. Doch bald schon nehmen die Ermittlungen eine unerwartete Wendung …",
   "veröffentlichungsdatum" : "2024-09-06",
+  "kapitel" : [
+    {
+      "titel" : "Ein neuer Fall?",
+      "start" : 0,
+      "end" : 672147
+    },
+    {
+      "titel" : "Wappengrüße aus Indonesien",
+      "start" : 672147,
+      "end" : 1252773
+    },
+    {
+      "titel" : "Der Gefangene auf Sumatra",
+      "start" : 1252773,
+      "end" : 2089720
+    },
+    {
+      "titel" : "Das verräterische \"O\"",
+      "start" : 2089720,
+      "end" : 2749547
+    },
+    {
+      "titel" : "Drohendes Gefängnis",
+      "start" : 2749547,
+      "end" : 3262840
+    },
+    {
+      "titel" : "Abwehrmaßnahmen",
+      "start" : 3262840,
+      "end" : 3903680
+    },
+    {
+      "titel" : "Ein Drehbuch für ein Drehbuch",
+      "start" : 3903680,
+      "end" : 4757200
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Cornelius, Student",
+      "sprecher" : "Woody Mues"
+    },
+    {
+      "rolle" : "Jayden Cummings",
+      "sprecher" : "Sebastian König"
+    },
+    {
+      "rolle" : "Milanda, Studentin",
+      "sprecher" : "Anneke Schwabe"
+    },
+    {
+      "rolle" : "Odette",
+      "sprecher" : "Carla Becker"
+    },
+    {
+      "rolle" : "Dame",
+      "sprecher" : "Luise Lunow"
+    },
+    {
+      "rolle" : "Hillman",
+      "sprecher" : "Michael Baute"
+    },
+    {
+      "rolle" : "Nachbar",
+      "sprecher" : "Christoph Landwehr"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Goodween",
+      "sprecher" : "André Minninger"
+    },
+    {
+      "rolle" : "1. Student",
+      "sprecher" : "Thomas Cronauge"
+    },
+    {
+      "rolle" : "2. Student",
+      "sprecher" : "David J. Becher"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/229/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/229/ffmetadata.txt",
     "cover" : "http://dreimetadaten.de/data/Serie/229/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/5e/73/0a/5e730a04-ffae-00b6-8d13-4f8ab1e29f38/196872211771.jpg",
+    "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/drehbuch-der-tauschung",
     "appleMusic" : "https://music.apple.com/de/album/folge-229-drehbuch-der-t%C3%A4uschung/1753904987",
+    "spotify" : "https://open.spotify.com/intl-de/album/6SMOmIWODrO1gND2YPpjHf",
     "bookbeat" : "https://www.bookbeat.com/de/book/1388001"
   },
-  "unvollständig" : true
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ein neuer Fall?",
+          "start" : 0,
+          "end" : 672147
+        },
+        {
+          "titel" : "Wappengrüße aus Indonesien",
+          "start" : 672147,
+          "end" : 1252773
+        },
+        {
+          "titel" : "Der Gefangene auf Sumatra",
+          "start" : 1252773,
+          "end" : 2089720
+        },
+        {
+          "titel" : "Das verräterische \"O\"",
+          "start" : 2089720,
+          "end" : 2749547
+        },
+        {
+          "titel" : "Drohendes Gefängnis",
+          "start" : 2749547,
+          "end" : 3262840
+        },
+        {
+          "titel" : "Abwehrmaßnahmen",
+          "start" : 3262840,
+          "end" : 3903680
+        },
+        {
+          "titel" : "Ein Drehbuch für ein Drehbuch",
+          "start" : 3903680,
+          "end" : 4757200
+        }
+      ],
+      "ripLog" : "http://dreimetadaten.de/data/Serie/229/rip_log.txt"
+    }
+  ]
 }
