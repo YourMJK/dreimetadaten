@@ -102,6 +102,7 @@ extension MetadataRelationalModel {
 		var hörspielID: Hörspiel.ID
 		var position: UInt
 		var ripLog: Bool
+		var musicBrainzID: String?
 	}
 	
 	struct Track: Codable {
@@ -351,6 +352,7 @@ extension MetadataRelationalModel {
 			positionColumn(t)
 			t.column("ripLog", .boolean)
 				.notNull()
+			t.column("musicBrainzID", .text)
 			t.uniqueKey([Hörspiel.primaryKeyName, "position"])
 		}
 		// Track

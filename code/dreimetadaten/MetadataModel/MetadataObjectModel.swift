@@ -118,6 +118,7 @@ extension MetadataObjectModel {
 	struct Medium: Codable {
 		var tracks: [Kapitel]
 		var ripLog: String?
+		var musicBrainzID: String?
 	}
 	
 }
@@ -179,6 +180,7 @@ extension MetadataObjectModel {
 			
 			"tracks",
 			"ripLog",
+			"musicBrainzID",
 			
 			"json",
 			"ffmetadata",
@@ -422,7 +424,8 @@ extension MetadataObjectModel {
 						}
 					return Medium(
 						tracks: tracks,
-						ripLog: medium.ripLog ? "" : nil
+						ripLog: medium.ripLog ? "" : nil,
+						musicBrainzID: medium.musicBrainzID
 					)
 				}
 			let multipleMedien = medien.count > 1

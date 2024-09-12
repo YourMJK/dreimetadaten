@@ -61,4 +61,5 @@ struct Links {
 struct Medium {
 	var tracks: [Kapitel]
 	var ripLog: String?
+	var musicBrainzID: String?
 }
