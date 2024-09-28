@@ -1,0 +1,153 @@
+{
+  "nummer" : 15,
+  "titel" : "In der Geisterstadt",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein kleines Erdbeben erschüttert die kalifornische Küste und alle Einwohner flüchten an den nahen Strand. Innerhalb kürzester Zeit gleicht Rocky Beach einer Geisterstadt. Doch irgendetwas stimmt nicht und die drei ??? Kids haben einen schrecklichen Verdacht. Plötzlich sind sie ganz allein in einer menschenleeren Stadt – allein mit mächtigen Gegnern.",
+  "veröffentlichungsdatum" : "2010-05-21",
+  "kapitel" : [
+    {
+      "titel" : "Dosenwerfen",
+      "start" : 0,
+      "end" : 511627
+    },
+    {
+      "titel" : "Alarmstufe gelb",
+      "start" : 511627,
+      "end" : 976800
+    },
+    {
+      "titel" : "Big One",
+      "start" : 976800,
+      "end" : 1638840
+    },
+    {
+      "titel" : "Geisterstadt",
+      "start" : 1638840,
+      "end" : 2100613
+    },
+    {
+      "titel" : "Der große Coup",
+      "start" : 2100613,
+      "end" : 2798733
+    },
+    {
+      "titel" : "Millionenraub",
+      "start" : 2798733,
+      "end" : 3264640
+    },
+    {
+      "titel" : "Maskerade",
+      "start" : 3264640,
+      "end" : 3797360
+    },
+    {
+      "titel" : "Rattenfalle",
+      "start" : 3797360,
+      "end" : 4390907
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Michael Habeck"
+    },
+    {
+      "rolle" : "Doktor Keppler",
+      "sprecher" : "Ben Hecker"
+    },
+    {
+      "rolle" : "Eddy",
+      "sprecher" : "Klaus Nietz"
+    },
+    {
+      "rolle" : "Sancho",
+      "sprecher" : "Holger Umbreit"
+    },
+    {
+      "rolle" : "Nachrichtensprecher",
+      "sprecher" : "Martin Sailer"
+    },
+    {
+      "rolle" : "Alter Mann",
+      "sprecher" : "Jörg Gillner"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/015/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/015/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/in-der-geisterstadt-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092526142"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Dosenwerfen",
+          "start" : 0,
+          "end" : 511627
+        },
+        {
+          "titel" : "Alarmstufe gelb",
+          "start" : 511627,
+          "end" : 976800
+        },
+        {
+          "titel" : "Big One",
+          "start" : 976800,
+          "end" : 1638840
+        },
+        {
+          "titel" : "Geisterstadt",
+          "start" : 1638840,
+          "end" : 2100613
+        },
+        {
+          "titel" : "Der große Coup",
+          "start" : 2100613,
+          "end" : 2798733
+        },
+        {
+          "titel" : "Millionenraub",
+          "start" : 2798733,
+          "end" : 3264640
+        },
+        {
+          "titel" : "Maskerade",
+          "start" : 3264640,
+          "end" : 3797360
+        },
+        {
+          "titel" : "Rattenfalle",
+          "start" : 3797360,
+          "end" : 4390907
+        }
+      ],
+      "musicBrainzID" : "Zn6dRusdkyeb8qSCGw8WR0HdSQE-"
+    }
+  ]
+}

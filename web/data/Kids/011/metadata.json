@@ -1,0 +1,155 @@
+{
+  "nummer" : 11,
+  "titel" : "Fluch des Goldes",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Die drei ??? Kids können es nicht glauben: In den Magic Mountains wurde tatsächlich Gold gefunden. Kein Wunder, dass alle plötzlich verrückt spielen. Goldrausch in Rocky Beach. Nur Justus, Peter und Bob behalten die Nerven und eine abenteuerliche Jagd beginnt. Doch n den unbewohnten Wäldern und reißenden Flüssen lauern viele Gefahren.",
+  "veröffentlichungsdatum" : "2009-12-27",
+  "kapitel" : [
+    {
+      "titel" : "Millionen",
+      "start" : 0,
+      "end" : 424613
+    },
+    {
+      "titel" : "Gold! Gold! Gold!",
+      "start" : 424613,
+      "end" : 815973
+    },
+    {
+      "titel" : "Goldrausch",
+      "start" : 815973,
+      "end" : 1419360
+    },
+    {
+      "titel" : "Titus 1",
+      "start" : 1419360,
+      "end" : 1873867
+    },
+    {
+      "titel" : "Wiildschweinjagd",
+      "start" : 1873867,
+      "end" : 2333520
+    },
+    {
+      "titel" : "Lauschangriff",
+      "start" : 2333520,
+      "end" : 2947440
+    },
+    {
+      "titel" : "Verschleppt",
+      "start" : 2947440,
+      "end" : 3352533
+    },
+    {
+      "titel" : "Wildwasserfahrt",
+      "start" : 3352533,
+      "end" : 3824413
+    },
+    {
+      "titel" : "Falschgold",
+      "start" : 3824413,
+      "end" : 4346733
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Josh McBrian",
+      "sprecher" : "Joscha Fischer-Antze"
+    },
+    {
+      "rolle" : "Rod Dunken",
+      "sprecher" : "Eberhard Haar"
+    },
+    {
+      "rolle" : "John & Jack Sutter",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Michael Habeck"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/011/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/011/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/fluch-des-goldes-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092526621"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Millionen",
+          "start" : 0,
+          "end" : 424613
+        },
+        {
+          "titel" : "Gold! Gold! Gold!",
+          "start" : 424613,
+          "end" : 815973
+        },
+        {
+          "titel" : "Goldrausch",
+          "start" : 815973,
+          "end" : 1419360
+        },
+        {
+          "titel" : "Titus 1",
+          "start" : 1419360,
+          "end" : 1873867
+        },
+        {
+          "titel" : "Wiildschweinjagd",
+          "start" : 1873867,
+          "end" : 2333520
+        },
+        {
+          "titel" : "Lauschangriff",
+          "start" : 2333520,
+          "end" : 2947440
+        },
+        {
+          "titel" : "Verschleppt",
+          "start" : 2947440,
+          "end" : 3352533
+        },
+        {
+          "titel" : "Wildwasserfahrt",
+          "start" : 3352533,
+          "end" : 3824413
+        },
+        {
+          "titel" : "Falschgold",
+          "start" : 3824413,
+          "end" : 4346733
+        }
+      ],
+      "musicBrainzID" : "90tbJCp7PMcNpnKiLjwIkou7mNw-"
+    }
+  ]
+}

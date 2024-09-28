@@ -1,0 +1,153 @@
+{
+  "nummer" : 31,
+  "titel" : "Rückkehr der Saurier",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Die Nachricht von der Entdeckung eines Saurier-Friedhofs versetzt ganz Rocky Beach in Aufregung. Kann es wirklich sein, dass tief unter der Erde einige der Urzeitwesen überlebt haben? Doch schon bald zweifelt niemand mehr an der unglaublichen Geschichte. Nur die drei ??? Kids behalten einen kühlen Kopf.",
+  "veröffentlichungsdatum" : "2013-01-25",
+  "kapitel" : [
+    {
+      "titel" : "Saurier in Rocky Beach",
+      "start" : 0,
+      "end" : 325120
+    },
+    {
+      "titel" : "Knochenkunde",
+      "start" : 325120,
+      "end" : 683520
+    },
+    {
+      "titel" : "Urzeithöhle",
+      "start" : 683520,
+      "end" : 1132320
+    },
+    {
+      "titel" : "Dino-Museum",
+      "start" : 1132320,
+      "end" : 1842533
+    },
+    {
+      "titel" : "Angriff bei Nacht",
+      "start" : 1842533,
+      "end" : 2415187
+    },
+    {
+      "titel" : "Gefährliche Spur",
+      "start" : 2415187,
+      "end" : 2716147
+    },
+    {
+      "titel" : "Farbenrausch",
+      "start" : 2716147,
+      "end" : 3161173
+    },
+    {
+      "titel" : "Überlistet",
+      "start" : 3161173,
+      "end" : 3587000
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Professor Herbert",
+      "sprecher" : "Holger Fuchs"
+    },
+    {
+      "rolle" : "John Cheat",
+      "sprecher" : "Martin Schäfer"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Ole Jacobsen"
+    },
+    {
+      "rolle" : "Reporter",
+      "sprecher" : "Michael Krüger"
+    },
+    {
+      "rolle" : "Paul Stock",
+      "sprecher" : "Bodo Henkel"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/031/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/031/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/ruckkehr-der-saurier-1",
+    "appleMusic" : "https://music.apple.com/de/album/1110094649"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Saurier in Rocky Beach",
+          "start" : 0,
+          "end" : 325120
+        },
+        {
+          "titel" : "Knochenkunde",
+          "start" : 325120,
+          "end" : 683520
+        },
+        {
+          "titel" : "Urzeithöhle",
+          "start" : 683520,
+          "end" : 1132320
+        },
+        {
+          "titel" : "Dino-Museum",
+          "start" : 1132320,
+          "end" : 1842533
+        },
+        {
+          "titel" : "Angriff bei Nacht",
+          "start" : 1842533,
+          "end" : 2415187
+        },
+        {
+          "titel" : "Gefährliche Spur",
+          "start" : 2415187,
+          "end" : 2716147
+        },
+        {
+          "titel" : "Farbenrausch",
+          "start" : 2716147,
+          "end" : 3161173
+        },
+        {
+          "titel" : "Überlistet",
+          "start" : 3161173,
+          "end" : 3587000
+        }
+      ],
+      "musicBrainzID" : "viB7SLi.kAf0i.EpSOzD5MPspME-"
+    }
+  ]
+}

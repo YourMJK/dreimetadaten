@@ -1,0 +1,153 @@
+{
+  "nummer" : 57,
+  "titel" : "Der Weihnachtsdieb",
+  "autor" : "Boris Pfeiffer, Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Weihnachten steht vor der Tür und auf Justus, Peter und Bob warten 24 spannende Abenteuer. Jeden Tag stehen die drei ??? Kids vor einem neuen rätselhaften Fall. Findest auch du die Täter und kannst die verzwickten Ratekrimis lösen? Doch Vorsicht! Denn dabei geht es nicht nur um geklaute Tannenbäume …",
+  "veröffentlichungsdatum" : "2017-05-20",
+  "kapitel" : [
+    {
+      "titel" : "Schneeballschlacht",
+      "start" : 0,
+      "end" : 447200
+    },
+    {
+      "titel" : "Weihnachtswünsche",
+      "start" : 447200,
+      "end" : 1064213
+    },
+    {
+      "titel" : "Ein gutes Versteck",
+      "start" : 1064213,
+      "end" : 1538827
+    },
+    {
+      "titel" : "Der Weihnachtsdieb",
+      "start" : 1538827,
+      "end" : 2116707
+    },
+    {
+      "titel" : "Weihnachtsrätsel",
+      "start" : 2116707,
+      "end" : 2887720
+    },
+    {
+      "titel" : "Fallensteller",
+      "start" : 2887720,
+      "end" : 3419827
+    },
+    {
+      "titel" : "Plan C",
+      "start" : 3419827,
+      "end" : 4052040
+    },
+    {
+      "titel" : "Bescherung",
+      "start" : 4052040,
+      "end" : 4796707
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Weihnachtsdieb",
+      "sprecher" : "Jürgen Thormann"
+    },
+    {
+      "rolle" : "Chicken Billy",
+      "sprecher" : "Detlef Tams"
+    },
+    {
+      "rolle" : "Weihnachtsmann",
+      "sprecher" : "Michael Grimm"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/057/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/057/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-weihnachtsdieb",
+    "appleMusic" : "https://music.apple.com/de/album/1207844864"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Schneeballschlacht",
+          "start" : 0,
+          "end" : 447200
+        },
+        {
+          "titel" : "Weihnachtswünsche",
+          "start" : 447200,
+          "end" : 1064213
+        },
+        {
+          "titel" : "Ein gutes Versteck",
+          "start" : 1064213,
+          "end" : 1538827
+        },
+        {
+          "titel" : "Der Weihnachtsdieb",
+          "start" : 1538827,
+          "end" : 2116707
+        },
+        {
+          "titel" : "Weihnachtsrätsel",
+          "start" : 2116707,
+          "end" : 2887720
+        },
+        {
+          "titel" : "Fallensteller",
+          "start" : 2887720,
+          "end" : 3419827
+        },
+        {
+          "titel" : "Plan C",
+          "start" : 3419827,
+          "end" : 4052040
+        },
+        {
+          "titel" : "Bescherung",
+          "start" : 4052040,
+          "end" : 4796707
+        }
+      ],
+      "musicBrainzID" : "IQup_l.JHxNy6DF6SZonEOGkvno-"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "nummer" : 58,
+  "titel" : "Spur des Drachen",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein Drache in Rocky Beach! Ein unheimlicher Einbrecher mit Drachenmaske verbreitet Angst und Schrecken. Im Villenviertel macht er Jagd auf Schmuck und Diamanten. Zum Glück hinterlässt das Ungeheuer bei seinen Einbrüchen so einige Spuren. Für Die drei ??? Kids beginnt eine aufregende Verfolgungsjagd …",
+  "veröffentlichungsdatum" : "2017-05-19",
+  "kapitel" : [
+    {
+      "titel" : "Pleitegeier",
+      "start" : 0,
+      "end" : 581507
+    },
+    {
+      "titel" : "Drachenalarm",
+      "start" : 581507,
+      "end" : 1222653
+    },
+    {
+      "titel" : "Serieneinbruch",
+      "start" : 1222653,
+      "end" : 1855320
+    },
+    {
+      "titel" : "Streng geheim",
+      "start" : 1855320,
+      "end" : 2470600
+    },
+    {
+      "titel" : "Geldübergabe",
+      "start" : 2470600,
+      "end" : 2950253
+    },
+    {
+      "titel" : "Ausgetrickst",
+      "start" : 2950253,
+      "end" : 3566480
+    },
+    {
+      "titel" : "Gänsehaut",
+      "start" : 3566480,
+      "end" : 4310000
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Mrs. Carfioso",
+      "sprecher" : "Karen Schulz-Vobach"
+    },
+    {
+      "rolle" : "Mortimer",
+      "sprecher" : "Christian Melchert"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Polizistin",
+      "sprecher" : "Julia Casper"
+    },
+    {
+      "rolle" : "Simon Tender",
+      "sprecher" : "Bernhard Bettermann"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Nick Slater",
+      "sprecher" : "Brian Sommer"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/058/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/058/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/spur-des-drachen",
+    "appleMusic" : "https://music.apple.com/de/album/1207844655"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Pleitegeier",
+          "start" : 0,
+          "end" : 581507
+        },
+        {
+          "titel" : "Drachenalarm",
+          "start" : 581507,
+          "end" : 1222653
+        },
+        {
+          "titel" : "Serieneinbruch",
+          "start" : 1222653,
+          "end" : 1855320
+        },
+        {
+          "titel" : "Streng geheim",
+          "start" : 1855320,
+          "end" : 2470600
+        },
+        {
+          "titel" : "Geldübergabe",
+          "start" : 2470600,
+          "end" : 2950253
+        },
+        {
+          "titel" : "Ausgetrickst",
+          "start" : 2950253,
+          "end" : 3566480
+        },
+        {
+          "titel" : "Gänsehaut",
+          "start" : 3566480,
+          "end" : 4310000
+        }
+      ],
+      "musicBrainzID" : "HVbRv1lYsY5uUomeBi.XD2eVkDs-"
+    }
+  ]
+}

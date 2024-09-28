@@ -1,0 +1,143 @@
+{
+  "nummer" : 28,
+  "titel" : "Diamantenjagd",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Unglaublich: Liegen unter der Erde von Rocky Beach tatsächlich wertvolle Edelsteine? So zumindest erzählt es eine rätselhafte Legende vom alten Fred Fireman. Die drei ??? Kids müssen tief hinabsteigen, um das Geheimnis zu lösen. Doch sie sind nicht allein auf der spannenden Jagd nach den Diamanten.",
+  "veröffentlichungsdatum" : "2012-07-13",
+  "kapitel" : [
+    {
+      "titel" : "Backwettbewerb",
+      "start" : 0,
+      "end" : 375440
+    },
+    {
+      "titel" : "Edelsteinkunde",
+      "start" : 375440,
+      "end" : 897333
+    },
+    {
+      "titel" : "Kirchenschatz",
+      "start" : 897333,
+      "end" : 1459533
+    },
+    {
+      "titel" : "Privatvorstellung",
+      "start" : 1459533,
+      "end" : 2168120
+    },
+    {
+      "titel" : "Sesam, öffne dich!",
+      "start" : 2168120,
+      "end" : 2699733
+    },
+    {
+      "titel" : "Geisterstadt",
+      "start" : 2699733,
+      "end" : 3234987
+    },
+    {
+      "titel" : "Loch Rocky Beach",
+      "start" : 3234987,
+      "end" : 3813720
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Joanna",
+      "sprecher" : "Djuwita Müller"
+    },
+    {
+      "rolle" : "Ken",
+      "sprecher" : "Dirk Herold"
+    },
+    {
+      "rolle" : "Pastor Heyde",
+      "sprecher" : "Mathias Bauer"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Mr. Shaw",
+      "sprecher" : "Oliver Schmitz"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/028/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/028/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/diamantenjagd-1",
+    "appleMusic" : "https://music.apple.com/de/album/1110089816"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Backwettbewerb",
+          "start" : 0,
+          "end" : 375440
+        },
+        {
+          "titel" : "Edelsteinkunde",
+          "start" : 375440,
+          "end" : 897333
+        },
+        {
+          "titel" : "Kirchenschatz",
+          "start" : 897333,
+          "end" : 1459533
+        },
+        {
+          "titel" : "Privatvorstellung",
+          "start" : 1459533,
+          "end" : 2168120
+        },
+        {
+          "titel" : "Sesam, öffne dich!",
+          "start" : 2168120,
+          "end" : 2699733
+        },
+        {
+          "titel" : "Geisterstadt",
+          "start" : 2699733,
+          "end" : 3234987
+        },
+        {
+          "titel" : "Loch Rocky Beach",
+          "start" : 3234987,
+          "end" : 3813720
+        }
+      ],
+      "musicBrainzID" : "RmaezTILzbcukZN4imCRiGvCy8Y-"
+    }
+  ]
+}

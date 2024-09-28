@@ -1,0 +1,163 @@
+{
+  "nummer" : 54,
+  "titel" : "Zombie-Alarm",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Bei einem alten Schiffswrack finden die drei ??? Kids eine geheimnisvolle Flaschenpost. Sie stammt von einem Schiffsbrüchigen, dessen Geist einfach keine Ruhe finden will. Ist er wirklich ein Zombie? Ein Fall für starke Nerven.",
+  "veröffentlichungsdatum" : "2016-12-02",
+  "kapitel" : [
+    {
+      "titel" : "Geisterwrack",
+      "start" : 0,
+      "end" : 382587
+    },
+    {
+      "titel" : "Über den Wolken",
+      "start" : 382587,
+      "end" : 825320
+    },
+    {
+      "titel" : "Flaschenpost",
+      "start" : 825320,
+      "end" : 1196707
+    },
+    {
+      "titel" : "Champagnerpool",
+      "start" : 1196707,
+      "end" : 1669267
+    },
+    {
+      "titel" : "Die Legende",
+      "start" : 1669267,
+      "end" : 2153640
+    },
+    {
+      "titel" : "Seaworld",
+      "start" : 2153640,
+      "end" : 2549453
+    },
+    {
+      "titel" : "Heiße Diamanten",
+      "start" : 2549453,
+      "end" : 2952040
+    },
+    {
+      "titel" : "Starke Nerven",
+      "start" : 2952040,
+      "end" : 3285280
+    },
+    {
+      "titel" : "Codename \"Zombie\"",
+      "start" : 3285280,
+      "end" : 3703453
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Pilot",
+      "sprecher" : "Johann Jürgens"
+    },
+    {
+      "rolle" : "Jack",
+      "sprecher" : "Thomas Dehler"
+    },
+    {
+      "rolle" : "Gilbert",
+      "sprecher" : "Ingo Abel"
+    },
+    {
+      "rolle" : "Tiffman",
+      "sprecher" : "Stephan Baumecker"
+    },
+    {
+      "rolle" : "Bill Baxter",
+      "sprecher" : "Jürgen Heimüller"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/054/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/054/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/zombie-alarm",
+    "appleMusic" : "https://music.apple.com/de/album/1149252060"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Geisterwrack",
+          "start" : 0,
+          "end" : 382587
+        },
+        {
+          "titel" : "Über den Wolken",
+          "start" : 382587,
+          "end" : 825320
+        },
+        {
+          "titel" : "Flaschenpost",
+          "start" : 825320,
+          "end" : 1196707
+        },
+        {
+          "titel" : "Champagnerpool",
+          "start" : 1196707,
+          "end" : 1669267
+        },
+        {
+          "titel" : "Die Legende",
+          "start" : 1669267,
+          "end" : 2153640
+        },
+        {
+          "titel" : "Seaworld",
+          "start" : 2153640,
+          "end" : 2549453
+        },
+        {
+          "titel" : "Heiße Diamanten",
+          "start" : 2549453,
+          "end" : 2952040
+        },
+        {
+          "titel" : "Starke Nerven",
+          "start" : 2952040,
+          "end" : 3285280
+        },
+        {
+          "titel" : "Codename \"Zombie\"",
+          "start" : 3285280,
+          "end" : 3703453
+        }
+      ],
+      "musicBrainzID" : "xWGV2f6MgHbvuB8mhiNGQu.C9cQ-"
+    }
+  ]
+}

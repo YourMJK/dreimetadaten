@@ -1,0 +1,147 @@
+{
+  "nummer" : 88,
+  "titel" : "Schatz aus dem All",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Alle in Rocky Beach wollen den fantastischen Schatz aus dem All finden. Auch Justus, Peter und Bob sind mit von der Partie. Doch schon bald ahnen die drei Freunde, dass an der ganzen Sache etwas faul ist …",
+  "veröffentlichungsdatum" : "2022-06-03",
+  "kapitel" : [
+    {
+      "titel" : "Eine Million",
+      "start" : 0,
+      "end" : 511853
+    },
+    {
+      "titel" : "Rätselhafte Schatzsuche",
+      "start" : 511853,
+      "end" : 1258120
+    },
+    {
+      "titel" : "Am Gipfelkreuz",
+      "start" : 1258120,
+      "end" : 1919093
+    },
+    {
+      "titel" : "Schnitzeljagd",
+      "start" : 1919093,
+      "end" : 2720360
+    },
+    {
+      "titel" : "Kletterpark",
+      "start" : 2720360,
+      "end" : 3413947
+    },
+    {
+      "titel" : "Höhlenforscher",
+      "start" : 3413947,
+      "end" : 4077840
+    },
+    {
+      "titel" : "Doppeltes Spiel",
+      "start" : 4077840,
+      "end" : 4600653
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Janet Maxwell",
+      "sprecher" : "Lea Kalbhenn"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Forrest Fender",
+      "sprecher" : "Christian Jungwirth"
+    },
+    {
+      "rolle" : "Bruno",
+      "sprecher" : "Karim Khawatmi"
+    },
+    {
+      "rolle" : "Violetta",
+      "sprecher" : "Yesim Meisheit"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/088/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/088/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/schatz-aus-dem-all-1",
+    "appleMusic" : "https://music.apple.com/de/album/1613788881"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eine Million",
+          "start" : 0,
+          "end" : 511853
+        },
+        {
+          "titel" : "Rätselhafte Schatzsuche",
+          "start" : 511853,
+          "end" : 1258120
+        },
+        {
+          "titel" : "Am Gipfelkreuz",
+          "start" : 1258120,
+          "end" : 1919093
+        },
+        {
+          "titel" : "Schnitzeljagd",
+          "start" : 1919093,
+          "end" : 2720360
+        },
+        {
+          "titel" : "Kletterpark",
+          "start" : 2720360,
+          "end" : 3413947
+        },
+        {
+          "titel" : "Höhlenforscher",
+          "start" : 3413947,
+          "end" : 4077840
+        },
+        {
+          "titel" : "Doppeltes Spiel",
+          "start" : 4077840,
+          "end" : 4600653
+        }
+      ],
+      "musicBrainzID" : "MNBj6ufmSOcDdyLFLJkHU9uB4Uw-"
+    }
+  ]
+}

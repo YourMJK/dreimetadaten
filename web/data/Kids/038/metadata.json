@@ -1,0 +1,145 @@
+{
+  "nummer" : 38,
+  "titel" : "Stunde der Wahrheit",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Auf dem Schrottplatz tauchen seltsame Typen auf. Wollen sie wirklich nur Büchsen werfen? Oder steckt ein Geheimnis dahinter? Die drei ??? Kids müssen tief in die Trickkiste greifen, um ihren Gegnern zuvorzukommen.",
+  "veröffentlichungsdatum" : "2014-02-21",
+  "kapitel" : [
+    {
+      "titel" : "Dosenwerfen",
+      "start" : 0,
+      "end" : 516680
+    },
+    {
+      "titel" : "Seltsamer Kunde",
+      "start" : 516680,
+      "end" : 967427
+    },
+    {
+      "titel" : "Recherchen & Archiv",
+      "start" : 967427,
+      "end" : 1411107
+    },
+    {
+      "titel" : "Pressekonferenz",
+      "start" : 1411107,
+      "end" : 1936920
+    },
+    {
+      "titel" : "Unter acht Augen",
+      "start" : 1936920,
+      "end" : 2544093
+    },
+    {
+      "titel" : "Reporterehre",
+      "start" : 2544093,
+      "end" : 2834053
+    },
+    {
+      "titel" : "Doppelte Täuschung",
+      "start" : 2834053,
+      "end" : 3461507
+    },
+    {
+      "titel" : "Geld des Kaisers",
+      "start" : 3461507,
+      "end" : 4019227
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Johnson",
+      "sprecher" : "Lutz Riedel"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Ole Jacobsen"
+    },
+    {
+      "rolle" : "Mrs. Alexis",
+      "sprecher" : "Margot Rothweiler"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/038/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/038/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/stunde-der-wahrheit-1",
+    "appleMusic" : "https://music.apple.com/de/album/1112998417"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Dosenwerfen",
+          "start" : 0,
+          "end" : 516680
+        },
+        {
+          "titel" : "Seltsamer Kunde",
+          "start" : 516680,
+          "end" : 967427
+        },
+        {
+          "titel" : "Recherchen & Archiv",
+          "start" : 967427,
+          "end" : 1411107
+        },
+        {
+          "titel" : "Pressekonferenz",
+          "start" : 1411107,
+          "end" : 1936920
+        },
+        {
+          "titel" : "Unter acht Augen",
+          "start" : 1936920,
+          "end" : 2544093
+        },
+        {
+          "titel" : "Reporterehre",
+          "start" : 2544093,
+          "end" : 2834053
+        },
+        {
+          "titel" : "Doppelte Täuschung",
+          "start" : 2834053,
+          "end" : 3461507
+        },
+        {
+          "titel" : "Geld des Kaisers",
+          "start" : 3461507,
+          "end" : 4019227
+        }
+      ],
+      "musicBrainzID" : "2IdC0DCbhcRE3j20D0DEwjN1iZI-"
+    }
+  ]
+}

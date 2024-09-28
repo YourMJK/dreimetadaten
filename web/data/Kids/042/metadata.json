@@ -1,0 +1,147 @@
+{
+  "nummer" : 42,
+  "titel" : "Fußballgötter",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "\"Heute Nacht wird etwas geschehen, das mit Fußballgöttern und dunklen Weissagungen zu tun hat\", sagte Justus. Peter schüttelte sich. \"Wie kannst du dabei ruhig bleiben? Uns droht ein Sack voll Gefahren!\" Justus grinste. \"Ja, aber darauf sind wir bestens vorbereitet!\" In Rocky Beach findet ein Fußballturnier statt – und Justus Jonas ist als Torwart mit von der Partie. Doch schon bald zeigt sich, dass jemand hinter der goldenen Statue des Fußballgottes her ist. Die drei ??? müssen nicht nur das Endspiel gewinnen, sondern dabei auch noch einen gefährlichen Fall lösen …",
+  "veröffentlichungsdatum" : "2015-01-16",
+  "kapitel" : [
+    {
+      "titel" : "Anden-Teufel",
+      "start" : 0,
+      "end" : 392840
+    },
+    {
+      "titel" : "Die Nummer 1",
+      "start" : 392840,
+      "end" : 870960
+    },
+    {
+      "titel" : "Fußballtempel",
+      "start" : 870960,
+      "end" : 1283147
+    },
+    {
+      "titel" : "Sabotage",
+      "start" : 1283147,
+      "end" : 1784867
+    },
+    {
+      "titel" : "Geisterstunde",
+      "start" : 1784867,
+      "end" : 2382493
+    },
+    {
+      "titel" : "Coppa Cuichi",
+      "start" : 2382493,
+      "end" : 2816373
+    },
+    {
+      "titel" : "Blauer Eisenhut",
+      "start" : 2816373,
+      "end" : 3414400
+    },
+    {
+      "titel" : "Zweite Halbzeit",
+      "start" : 3414400,
+      "end" : 3894653
+    },
+    {
+      "titel" : "Nachspiel",
+      "start" : 3894653,
+      "end" : 4399293
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Leandro",
+      "sprecher" : "Tom Raczko"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Tempelwächter",
+      "sprecher" : "Mirko Thiele"
+    },
+    {
+      "rolle" : "Professor Miller",
+      "sprecher" : "Stefan Barth"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/042/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/042/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/fussballgotter1",
+    "appleMusic" : "https://music.apple.com/de/album/1134540244"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Anden-Teufel",
+          "start" : 0,
+          "end" : 392840
+        },
+        {
+          "titel" : "Die Nummer 1",
+          "start" : 392840,
+          "end" : 870960
+        },
+        {
+          "titel" : "Fußballtempel",
+          "start" : 870960,
+          "end" : 1283147
+        },
+        {
+          "titel" : "Sabotage",
+          "start" : 1283147,
+          "end" : 1784867
+        },
+        {
+          "titel" : "Geisterstunde",
+          "start" : 1784867,
+          "end" : 2382493
+        },
+        {
+          "titel" : "Coppa Cuichi",
+          "start" : 2382493,
+          "end" : 2816373
+        },
+        {
+          "titel" : "Blauer Eisenhut",
+          "start" : 2816373,
+          "end" : 3414400
+        },
+        {
+          "titel" : "Zweite Halbzeit",
+          "start" : 3414400,
+          "end" : 3894653
+        },
+        {
+          "titel" : "Nachspiel",
+          "start" : 3894653,
+          "end" : 4399293
+        }
+      ],
+      "musicBrainzID" : "ZGgpu7jKZciyX.vl4jI4SH2Jm2Y-"
+    }
+  ]
+}

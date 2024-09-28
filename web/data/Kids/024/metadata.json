@@ -1,0 +1,161 @@
+{
+  "nummer" : 24,
+  "titel" : "Im Bann des Zauberers",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Mitten auf dem Marktplatz von Rocky Beach findet eine Zaubershow statt. Einem mysteriösen Magier gelingt es dabei, das Publikum zu hypnotisieren. Auch die drei ??? Kids werden in seinen Bann gezogen. Doch der Zauberer führt anscheinend noch etwas ganz anderes im Schilde. Können die drei Freunde den Mann stoppen?",
+  "veröffentlichungsdatum" : "2011-11-11",
+  "kapitel" : [
+    {
+      "titel" : "Wasserrutsche",
+      "start" : 0,
+      "end" : 476280
+    },
+    {
+      "titel" : "Totalschaden",
+      "start" : 476280,
+      "end" : 1095133
+    },
+    {
+      "titel" : "Showtime!",
+      "start" : 1095133,
+      "end" : 1602333
+    },
+    {
+      "titel" : "Zarkadasch",
+      "start" : 1602333,
+      "end" : 2105080
+    },
+    {
+      "titel" : "Telefontricks",
+      "start" : 2105080,
+      "end" : 2438773
+    },
+    {
+      "titel" : "Bankgeheimnis",
+      "start" : 2438773,
+      "end" : 2821187
+    },
+    {
+      "titel" : "Bühnenpanne",
+      "start" : 2821187,
+      "end" : 3329880
+    },
+    {
+      "titel" : "Ausgezaubert",
+      "start" : 3329880,
+      "end" : 3847360
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Ole Jacobsen"
+    },
+    {
+      "rolle" : "Mr. Doodles",
+      "sprecher" : "Matthias Henkel"
+    },
+    {
+      "rolle" : "Zampani",
+      "sprecher" : "Christian Deutsch"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Lara",
+      "sprecher" : "Jennifer Böttcher"
+    },
+    {
+      "rolle" : "Leon",
+      "sprecher" : "Jens Wendland"
+    },
+    {
+      "rolle" : "Adam Stevens",
+      "sprecher" : "Jörg Schuler"
+    },
+    {
+      "rolle" : "Polizistin",
+      "sprecher" : "Djuwita Müller"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/024/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/024/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/im-bann-des-zauberers-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092521032"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Wasserrutsche",
+          "start" : 0,
+          "end" : 476280
+        },
+        {
+          "titel" : "Totalschaden",
+          "start" : 476280,
+          "end" : 1095133
+        },
+        {
+          "titel" : "Showtime!",
+          "start" : 1095133,
+          "end" : 1602333
+        },
+        {
+          "titel" : "Zarkadasch",
+          "start" : 1602333,
+          "end" : 2105080
+        },
+        {
+          "titel" : "Telefontricks",
+          "start" : 2105080,
+          "end" : 2438773
+        },
+        {
+          "titel" : "Bankgeheimnis",
+          "start" : 2438773,
+          "end" : 2821187
+        },
+        {
+          "titel" : "Bühnenpanne",
+          "start" : 2821187,
+          "end" : 3329880
+        },
+        {
+          "titel" : "Ausgezaubert",
+          "start" : 3329880,
+          "end" : 3847360
+        }
+      ],
+      "musicBrainzID" : "0mjI4heWUAe7CGR.gTTLJkaguDc-"
+    }
+  ]
+}

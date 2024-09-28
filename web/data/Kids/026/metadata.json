@@ -1,0 +1,153 @@
+{
+  "nummer" : 26,
+  "titel" : "Fußball-Alarm",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Fußballmeisterschaft in Rocky Beach! Doch es geht nicht nur um den Pokal – Onkel Titus' Schrottplatz steht auf dem Spiel. Die Mannschaft von Justus, Peter und Bob muss also in jedem Fall gewinnen! Aber die Meisterschaft entwickelt sich zu einem richtigen Krimi, denn ihre Gegner kämpfen mit allen Mitteln.",
+  "veröffentlichungsdatum" : "2012-03-02",
+  "kapitel" : [
+    {
+      "titel" : "EFC Rocky Beach",
+      "start" : 0,
+      "end" : 713347
+    },
+    {
+      "titel" : "Der dicke Otto",
+      "start" : 713347,
+      "end" : 1192227
+    },
+    {
+      "titel" : "Erzfeinde",
+      "start" : 1192227,
+      "end" : 1829920
+    },
+    {
+      "titel" : "Mannschaftsaufstellung",
+      "start" : 1829920,
+      "end" : 2493107
+    },
+    {
+      "titel" : "Zaungäste",
+      "start" : 2493107,
+      "end" : 2973627
+    },
+    {
+      "titel" : "Gefährliche Gegner",
+      "start" : 2973627,
+      "end" : 3467480
+    },
+    {
+      "titel" : "Anpfiff",
+      "start" : 3467480,
+      "end" : 3856147
+    },
+    {
+      "titel" : "Endspiel",
+      "start" : 3856147,
+      "end" : 4368613
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Notar Chandler",
+      "sprecher" : "Christian Melchert"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Bud Norris",
+      "sprecher" : "Tobias Brecklinghaus"
+    },
+    {
+      "rolle" : "Ernesto Porto",
+      "sprecher" : "Holger Löwenberg"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/026/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/026/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/fussball-alarm-3",
+    "appleMusic" : "https://music.apple.com/de/album/1092521933"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "EFC Rocky Beach",
+          "start" : 0,
+          "end" : 713347
+        },
+        {
+          "titel" : "Der dicke Otto",
+          "start" : 713347,
+          "end" : 1192227
+        },
+        {
+          "titel" : "Erzfeinde",
+          "start" : 1192227,
+          "end" : 1829920
+        },
+        {
+          "titel" : "Mannschaftsaufstellung",
+          "start" : 1829920,
+          "end" : 2493107
+        },
+        {
+          "titel" : "Zaungäste",
+          "start" : 2493107,
+          "end" : 2973627
+        },
+        {
+          "titel" : "Gefährliche Gegner",
+          "start" : 2973627,
+          "end" : 3467480
+        },
+        {
+          "titel" : "Anpfiff",
+          "start" : 3467480,
+          "end" : 3856147
+        },
+        {
+          "titel" : "Endspiel",
+          "start" : 3856147,
+          "end" : 4368613
+        }
+      ],
+      "musicBrainzID" : "r2tHK1sk4IRQ8Ugk4KAGqcChv3Y-"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "nummer" : 3,
+  "titel" : "Invasion der Fliegen",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Hunderte von Fliegen tummeln sich in Tante Mathildas Haus. Ein Albtraum! Wo kommen die alle her? Ist etwa das ganze Gerümpel auf Onkel Titus Schrottplatz daran schuld? Und was hat die \"Bock Wurstwaren KG\" und ihr zwielichtiger Juniorchef Bertholt von Bock damit zu tun? Justus, Peter und Bob wissen nur, sie müssen etwas tun oder es wird böse enden. Gemeinsam verfolgen sie die Spur der nervtötenden Brummer bis in einen düsteren Kanalschacht …",
+  "veröffentlichungsdatum" : "2009-05-13",
+  "kapitel" : [
+    {
+      "titel" : "Fliegenparade",
+      "start" : 0,
+      "end" : 238507
+    },
+    {
+      "titel" : "Justus in Dosen",
+      "start" : 238507,
+      "end" : 438187
+    },
+    {
+      "titel" : "Applaus für Bock",
+      "start" : 438187,
+      "end" : 716640
+    },
+    {
+      "titel" : "Schrottgeschichten",
+      "start" : 716640,
+      "end" : 978000
+    },
+    {
+      "titel" : "Kassenschlager",
+      "start" : 978000,
+      "end" : 1358613
+    },
+    {
+      "titel" : "Fliegenjagd",
+      "start" : 1358613,
+      "end" : 1755480
+    },
+    {
+      "titel" : "Kanalratten",
+      "start" : 1755480,
+      "end" : 2178360
+    },
+    {
+      "titel" : "Ablaufpläne",
+      "start" : 2178360,
+      "end" : 2525720
+    },
+    {
+      "titel" : "Durchgespült",
+      "start" : 2525720,
+      "end" : 2779733
+    },
+    {
+      "titel" : "Flussfahrt",
+      "start" : 2779733,
+      "end" : 3092080
+    },
+    {
+      "titel" : "Feueralarm",
+      "start" : 3092080,
+      "end" : 3322413
+    },
+    {
+      "titel" : "Verwurstet",
+      "start" : 3322413,
+      "end" : 3637040
+    },
+    {
+      "titel" : "Verbockt",
+      "start" : 3637040,
+      "end" : 3969013
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Lennardt Krüger"
+    },
+    {
+      "rolle" : "Berthold von Bock",
+      "sprecher" : "Martin Semmelrogge"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Michael Habeck"
+    },
+    {
+      "rolle" : "Empfangsdame",
+      "sprecher" : "Marisa Calcagno"
+    },
+    {
+      "rolle" : "Blackwater",
+      "sprecher" : "Isabel García"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/003/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/003/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/invasion-der-fliegen-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092525866"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Fliegenparade",
+          "start" : 0,
+          "end" : 238507
+        },
+        {
+          "titel" : "Justus in Dosen",
+          "start" : 238507,
+          "end" : 438187
+        },
+        {
+          "titel" : "Applaus für Bock",
+          "start" : 438187,
+          "end" : 716640
+        },
+        {
+          "titel" : "Schrottgeschichten",
+          "start" : 716640,
+          "end" : 978000
+        },
+        {
+          "titel" : "Kassenschlager",
+          "start" : 978000,
+          "end" : 1358613
+        },
+        {
+          "titel" : "Fliegenjagd",
+          "start" : 1358613,
+          "end" : 1755480
+        },
+        {
+          "titel" : "Kanalratten",
+          "start" : 1755480,
+          "end" : 2178360
+        },
+        {
+          "titel" : "Ablaufpläne",
+          "start" : 2178360,
+          "end" : 2525720
+        },
+        {
+          "titel" : "Durchgespült",
+          "start" : 2525720,
+          "end" : 2779733
+        },
+        {
+          "titel" : "Flussfahrt",
+          "start" : 2779733,
+          "end" : 3092080
+        },
+        {
+          "titel" : "Feueralarm",
+          "start" : 3092080,
+          "end" : 3322413
+        },
+        {
+          "titel" : "Verwurstet",
+          "start" : 3322413,
+          "end" : 3637040
+        },
+        {
+          "titel" : "Verbockt",
+          "start" : 3637040,
+          "end" : 3969013
+        }
+      ],
+      "musicBrainzID" : "MDXIbxky7ih3cF_fLam0dKCBSkk-"
+    }
+  ]
+}

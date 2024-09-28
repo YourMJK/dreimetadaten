@@ -1,0 +1,167 @@
+{
+  "nummer" : 35,
+  "titel" : "Im Wilden Westen",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "\"Das da vorne sind doch nie im Leben echte Indianer!\" Bob griff zur Wasserpistole. Justus schob seinen Hut tief ins Gesicht. \"Das werden wir erst wissen, wenn uns der erste Pfeil trifft.\" Für Filmaufnahmen verwandelt sich Rocky Beach in eine Westernstadt. Auch Justus, Peter und Bob sehen plötzlich wie richtige Cowboys auch. Doch leider gibt es im Wilden Westen auch eine Menge Bösewichte.",
+  "veröffentlichungsdatum" : "2013-10-04",
+  "kapitel" : [
+    {
+      "titel" : "Cowboy-Frühstück",
+      "start" : 0,
+      "end" : 493733
+    },
+    {
+      "titel" : "Stromausfall",
+      "start" : 493733,
+      "end" : 908080
+    },
+    {
+      "titel" : "Erzfeinde",
+      "start" : 908080,
+      "end" : 1396427
+    },
+    {
+      "titel" : "Sabotage",
+      "start" : 1396427,
+      "end" : 1874400
+    },
+    {
+      "titel" : "Topanga Beach",
+      "start" : 1874400,
+      "end" : 2593947
+    },
+    {
+      "titel" : "Indianer",
+      "start" : 2593947,
+      "end" : 3035000
+    },
+    {
+      "titel" : "Red Rock",
+      "start" : 3035000,
+      "end" : 3580707
+    },
+    {
+      "titel" : "Duell",
+      "start" : 3580707,
+      "end" : 4165773
+    },
+    {
+      "titel" : "Falscher Film",
+      "start" : 4165773,
+      "end" : 4602627
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Plimsfield",
+      "sprecher" : "Raimund Krone"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Camilla Fox",
+      "sprecher" : "Sabine König"
+    },
+    {
+      "rolle" : "Bud Norris",
+      "sprecher" : "Tobias Brecklinghaus"
+    },
+    {
+      "rolle" : "Gordon Flanders",
+      "sprecher" : "Detlef Tams"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/035/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/035/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/im-wilden-westen-1",
+    "appleMusic" : "https://music.apple.com/de/album/1112972954"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Cowboy-Frühstück",
+          "start" : 0,
+          "end" : 493733
+        },
+        {
+          "titel" : "Stromausfall",
+          "start" : 493733,
+          "end" : 908080
+        },
+        {
+          "titel" : "Erzfeinde",
+          "start" : 908080,
+          "end" : 1396427
+        },
+        {
+          "titel" : "Sabotage",
+          "start" : 1396427,
+          "end" : 1874400
+        },
+        {
+          "titel" : "Topanga Beach",
+          "start" : 1874400,
+          "end" : 2593947
+        },
+        {
+          "titel" : "Indianer",
+          "start" : 2593947,
+          "end" : 3035000
+        },
+        {
+          "titel" : "Red Rock",
+          "start" : 3035000,
+          "end" : 3580707
+        },
+        {
+          "titel" : "Duell",
+          "start" : 3580707,
+          "end" : 4165773
+        },
+        {
+          "titel" : "Falscher Film",
+          "start" : 4165773,
+          "end" : 4602627
+        }
+      ],
+      "musicBrainzID" : "cPVtbGXPJFJR_fmmhCR0N7yRoIc-"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "nummer" : 44,
+  "titel" : "Monster in Rocky Beach",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "In der Schlucht von Rocky Beach soll ein zotteliger Affenmensch unterwegs sein, ein sogenannter Bigfoot. Noch nie hat jemand ein solches Wesen gesehen, doch plötzlich tauchen Fotos auf und verräterische Fußspuren werden entdeckt. Die drei ??? Kids begeben sich auf eine gefährliche Monsterjagd.",
+  "veröffentlichungsdatum" : "2015-05-15",
+  "kapitel" : [
+    {
+      "titel" : "Bigfoot",
+      "start" : 0,
+      "end" : 385053
+    },
+    {
+      "titel" : "Reporterarbeit",
+      "start" : 385053,
+      "end" : 857093
+    },
+    {
+      "titel" : "Monsterjagd",
+      "start" : 857093,
+      "end" : 1327707
+    },
+    {
+      "titel" : "Yeti-Alarm",
+      "start" : 1327707,
+      "end" : 1699427
+    },
+    {
+      "titel" : "Browny",
+      "start" : 1699427,
+      "end" : 2245520
+    },
+    {
+      "titel" : "Minimonster",
+      "start" : 2245520,
+      "end" : 2740027
+    },
+    {
+      "titel" : "Superstar",
+      "start" : 2740027,
+      "end" : 3358747
+    },
+    {
+      "titel" : "Verdachtsmomente",
+      "start" : 3358747,
+      "end" : 3843307
+    },
+    {
+      "titel" : "Letzte Kapitel",
+      "start" : 3843307,
+      "end" : 4290640
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Reporter",
+      "sprecher" : "Tobias Brecklinghaus"
+    },
+    {
+      "rolle" : "Bill Tayler",
+      "sprecher" : "Crock Krumbiegel"
+    },
+    {
+      "rolle" : "Tony Strummer",
+      "sprecher" : "Steffen Lehmann"
+    },
+    {
+      "rolle" : "Mr. Blazar",
+      "sprecher" : "Monty Arnold"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/044/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/044/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/monster-in-rocky-beach2",
+    "appleMusic" : "https://music.apple.com/de/album/1134543461"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Bigfoot",
+          "start" : 0,
+          "end" : 385053
+        },
+        {
+          "titel" : "Reporterarbeit",
+          "start" : 385053,
+          "end" : 857093
+        },
+        {
+          "titel" : "Monsterjagd",
+          "start" : 857093,
+          "end" : 1327707
+        },
+        {
+          "titel" : "Yeti-Alarm",
+          "start" : 1327707,
+          "end" : 1699427
+        },
+        {
+          "titel" : "Browny",
+          "start" : 1699427,
+          "end" : 2245520
+        },
+        {
+          "titel" : "Minimonster",
+          "start" : 2245520,
+          "end" : 2740027
+        },
+        {
+          "titel" : "Superstar",
+          "start" : 2740027,
+          "end" : 3358747
+        },
+        {
+          "titel" : "Verdachtsmomente",
+          "start" : 3358747,
+          "end" : 3843307
+        },
+        {
+          "titel" : "Letzte Kapitel",
+          "start" : 3843307,
+          "end" : 4290640
+        }
+      ],
+      "musicBrainzID" : ".K_Ufb53OXgzI4EOqEMxUNUhoD4-"
+    }
+  ]
+}

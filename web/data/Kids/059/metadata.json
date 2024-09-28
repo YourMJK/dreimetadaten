@@ -1,0 +1,157 @@
+{
+  "nummer" : 59,
+  "titel" : "Fußballhelden",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Wer treibt im Kostüm des Fußballmaskottchens sein Unwesen? Niemand traut sich, die Maske zu lüften, denn das bringt angeblich Unglück! Die drei ??? Kids sind sich sicher: Hier ist eine fiese Verschwörung im Gange …",
+  "veröffentlichungsdatum" : "2017-07-28",
+  "kapitel" : [
+    {
+      "titel" : "PSC Rocky Beach",
+      "start" : 0,
+      "end" : 401680
+    },
+    {
+      "titel" : "Pokalspiel",
+      "start" : 401680,
+      "end" : 835573
+    },
+    {
+      "titel" : "Niespulver-Alarm",
+      "start" : 835573,
+      "end" : 1207547
+    },
+    {
+      "titel" : "Mieses Maskottchen",
+      "start" : 1207547,
+      "end" : 1575427
+    },
+    {
+      "titel" : "Heisse Spur",
+      "start" : 1575427,
+      "end" : 1813907
+    },
+    {
+      "titel" : "Hinter Gittern",
+      "start" : 1813907,
+      "end" : 2241200
+    },
+    {
+      "titel" : "Rutschpartie",
+      "start" : 2241200,
+      "end" : 2730480
+    },
+    {
+      "titel" : "Toooor!",
+      "start" : 2730480,
+      "end" : 3079440
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Trainer",
+      "sprecher" : "Sven Gerhardt"
+    },
+    {
+      "rolle" : "Steven",
+      "sprecher" : "Ben Steinhoff"
+    },
+    {
+      "rolle" : "Verkäufer",
+      "sprecher" : "Gerrit Stratmann"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Daniel Alexander"
+    },
+    {
+      "rolle" : "Maskottchen",
+      "sprecher" : "Daniel Montoya"
+    },
+    {
+      "rolle" : "Eddy",
+      "sprecher" : "Thomas Stecher"
+    },
+    {
+      "rolle" : "Mc Henry",
+      "sprecher" : "Achim Barrenstein"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/059/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/059/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/fussballhelden",
+    "appleMusic" : "https://music.apple.com/de/album/1233233340"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "PSC Rocky Beach",
+          "start" : 0,
+          "end" : 401680
+        },
+        {
+          "titel" : "Pokalspiel",
+          "start" : 401680,
+          "end" : 835573
+        },
+        {
+          "titel" : "Niespulver-Alarm",
+          "start" : 835573,
+          "end" : 1207547
+        },
+        {
+          "titel" : "Mieses Maskottchen",
+          "start" : 1207547,
+          "end" : 1575427
+        },
+        {
+          "titel" : "Heisse Spur",
+          "start" : 1575427,
+          "end" : 1813907
+        },
+        {
+          "titel" : "Hinter Gittern",
+          "start" : 1813907,
+          "end" : 2241200
+        },
+        {
+          "titel" : "Rutschpartie",
+          "start" : 2241200,
+          "end" : 2730480
+        },
+        {
+          "titel" : "Toooor!",
+          "start" : 2730480,
+          "end" : 3079440
+        }
+      ],
+      "musicBrainzID" : "2Hbw8Rn1_t0rOhssKMPDMBTXyhg-"
+    }
+  ]
+}

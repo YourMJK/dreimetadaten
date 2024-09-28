@@ -1,0 +1,195 @@
+{
+  "nummer" : 18,
+  "titel" : "Mission Maulwurf",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "\"Was ist, wenn sie uns entdecken?\", flüsterte Peter nervös. Justus zog sich die Maske über das Gesicht. \"Als Maulwurf muss man eben mit der Gefahr leben.\" Justus, Peter und Bob sehen nur eine Chance die Einbrecherbande zu überführen: Die drei ??? müssen sich unter die Gangster mischen. Die \"Mission Maulwurf\" beginnt.",
+  "veröffentlichungsdatum" : "2010-12-03",
+  "kapitel" : [
+    {
+      "titel" : "Villa Schrott",
+      "start" : 0,
+      "end" : 428987
+    },
+    {
+      "titel" : "Markttag",
+      "start" : 428987,
+      "end" : 872640
+    },
+    {
+      "titel" : "Mini-Gauner",
+      "start" : 872640,
+      "end" : 1299120
+    },
+    {
+      "titel" : "Kennwort Sharky",
+      "start" : 1299120,
+      "end" : 1923400
+    },
+    {
+      "titel" : "Mission Maulwurf",
+      "start" : 1923400,
+      "end" : 2399307
+    },
+    {
+      "titel" : "Mutprobe",
+      "start" : 2399307,
+      "end" : 2919973
+    },
+    {
+      "titel" : "Fluchtversuch",
+      "start" : 2919973,
+      "end" : 3357320
+    },
+    {
+      "titel" : "Der große Coup",
+      "start" : 3357320,
+      "end" : 3998253
+    },
+    {
+      "titel" : "Schlussakt",
+      "start" : 3998253,
+      "end" : 4640893
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mrs. Wilmers",
+      "sprecher" : "Lia Pahl"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Michael Habeck"
+    },
+    {
+      "rolle" : "Sergeant Jeffers",
+      "sprecher" : "Jens Wendland"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Polizistin",
+      "sprecher" : "Isabel García"
+    },
+    {
+      "rolle" : "Sharky",
+      "sprecher" : "Wolf-Joshua Peters"
+    },
+    {
+      "rolle" : "Lola",
+      "sprecher" : "Mary Muhsal"
+    },
+    {
+      "rolle" : "Nero",
+      "sprecher" : "Jannik Endemann"
+    },
+    {
+      "rolle" : "Mogli",
+      "sprecher" : "Jan-David Rönfeldt"
+    },
+    {
+      "rolle" : "Rico",
+      "sprecher" : "Simon Lardon"
+    },
+    {
+      "rolle" : "Kellnerin",
+      "sprecher" : "Dorothea Anna Hagena"
+    },
+    {
+      "rolle" : "Schuldirektor",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Zimmermann",
+      "sprecher" : "Ann Marie Blanck"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/018/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/018/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/mission-maulwurf",
+    "appleMusic" : "https://music.apple.com/de/album/1092521904"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Villa Schrott",
+          "start" : 0,
+          "end" : 428987
+        },
+        {
+          "titel" : "Markttag",
+          "start" : 428987,
+          "end" : 872640
+        },
+        {
+          "titel" : "Mini-Gauner",
+          "start" : 872640,
+          "end" : 1299120
+        },
+        {
+          "titel" : "Kennwort Sharky",
+          "start" : 1299120,
+          "end" : 1923400
+        },
+        {
+          "titel" : "Mission Maulwurf",
+          "start" : 1923400,
+          "end" : 2399307
+        },
+        {
+          "titel" : "Mutprobe",
+          "start" : 2399307,
+          "end" : 2919973
+        },
+        {
+          "titel" : "Fluchtversuch",
+          "start" : 2919973,
+          "end" : 3357320
+        },
+        {
+          "titel" : "Der große Coup",
+          "start" : 3357320,
+          "end" : 3998253
+        },
+        {
+          "titel" : "Schlussakt",
+          "start" : 3998253,
+          "end" : 4640893
+        }
+      ],
+      "musicBrainzID" : "Fiz9pbx8lyZk5AWooW6ivst.kMU-"
+    }
+  ]
+}

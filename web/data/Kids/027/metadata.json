@@ -1,0 +1,157 @@
+{
+  "nummer" : 27,
+  "titel" : "Die Schokofalle",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Das Rezept der köstlichsten Schokolade der Welt ist gestohlen worden. Klar, dass den drei ??? Kids besonders viel daran liegt, diesen Fall zu lösen. Doch wer steckt hinter der Industriespionage? Justus, Peter und Bob müssen der Sache auf den Grund gehen und die Spur führt sie direkt in eine Schokoladenfabrik.",
+  "veröffentlichungsdatum" : "2012-04-13",
+  "kapitel" : [
+    {
+      "titel" : "Salmonellen-Alarm",
+      "start" : 0,
+      "end" : 565853
+    },
+    {
+      "titel" : "Bill & Mickey",
+      "start" : 565853,
+      "end" : 1189480
+    },
+    {
+      "titel" : "Götterspeise der Azteken",
+      "start" : 1189480,
+      "end" : 1765813
+    },
+    {
+      "titel" : "Eintritt verboten!",
+      "start" : 1765813,
+      "end" : 2315773
+    },
+    {
+      "titel" : "Onkel Titus in Gefahr",
+      "start" : 2315773,
+      "end" : 2716320
+    },
+    {
+      "titel" : "Kühltransport",
+      "start" : 2716320,
+      "end" : 3117253
+    },
+    {
+      "titel" : "Flucht auf dem Fließband",
+      "start" : 3117253,
+      "end" : 3543040
+    },
+    {
+      "titel" : "Rache ist süß",
+      "start" : 3543040,
+      "end" : 4012480
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Harry",
+      "sprecher" : "Stephan Rau"
+    },
+    {
+      "rolle" : "Mickey",
+      "sprecher" : "Dirk Hardegen"
+    },
+    {
+      "rolle" : "Bill",
+      "sprecher" : "Peter Brück"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Mr. Trader",
+      "sprecher" : "Malcolm Andreasson"
+    },
+    {
+      "rolle" : "Scheich von Bessanien",
+      "sprecher" : "Jens Wendland"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/027/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/027/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-schokofalle-1",
+    "appleMusic" : "https://music.apple.com/de/album/1110089219"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Salmonellen-Alarm",
+          "start" : 0,
+          "end" : 565853
+        },
+        {
+          "titel" : "Bill & Mickey",
+          "start" : 565853,
+          "end" : 1189480
+        },
+        {
+          "titel" : "Götterspeise der Azteken",
+          "start" : 1189480,
+          "end" : 1765813
+        },
+        {
+          "titel" : "Eintritt verboten!",
+          "start" : 1765813,
+          "end" : 2315773
+        },
+        {
+          "titel" : "Onkel Titus in Gefahr",
+          "start" : 2315773,
+          "end" : 2716320
+        },
+        {
+          "titel" : "Kühltransport",
+          "start" : 2716320,
+          "end" : 3117253
+        },
+        {
+          "titel" : "Flucht auf dem Fließband",
+          "start" : 3117253,
+          "end" : 3543040
+        },
+        {
+          "titel" : "Rache ist süß",
+          "start" : 3543040,
+          "end" : 4012480
+        }
+      ],
+      "musicBrainzID" : "RayKbRT0iMk1U4pFSqReuLllD8w-"
+    }
+  ]
+}

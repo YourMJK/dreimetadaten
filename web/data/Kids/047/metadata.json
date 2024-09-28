@@ -1,0 +1,161 @@
+{
+  "nummer" : 47,
+  "titel" : "Falsche Fußall-Freunde",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "In Rocky Beach findet die Weltmeisterschaft im Strandfußball statt. Viele berühmte Fußballstars werden erwartet. Doch nicht alle Fußballfreunde spielen fair. Die drei ??? Kids stürzen sich in ein gefährliches Abenteuer.",
+  "veröffentlichungsdatum" : "2015-12-04",
+  "kapitel" : [
+    {
+      "titel" : "Standfußball",
+      "start" : 0,
+      "end" : 529733
+    },
+    {
+      "titel" : "Autogrammjäger",
+      "start" : 529733,
+      "end" : 923920
+    },
+    {
+      "titel" : "Verdeckte Ermittler",
+      "start" : 923920,
+      "end" : 1256560
+    },
+    {
+      "titel" : "Tätersuche",
+      "start" : 1256560,
+      "end" : 1721773
+    },
+    {
+      "titel" : "Fußballtraining",
+      "start" : 1721773,
+      "end" : 2250840
+    },
+    {
+      "titel" : "Gefährliche Wette",
+      "start" : 2250840,
+      "end" : 2864253
+    },
+    {
+      "titel" : "Ein raffinierter Plan",
+      "start" : 2864253,
+      "end" : 3246347
+    },
+    {
+      "titel" : "Endspiel",
+      "start" : 3246347,
+      "end" : 3732400
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Mr. Heines",
+      "sprecher" : "Steffen Quasebarth"
+    },
+    {
+      "rolle" : "Toni Manga",
+      "sprecher" : "Hendrik Riehemann"
+    },
+    {
+      "rolle" : "Bill Mardock",
+      "sprecher" : "José Rodriguez Melgarejo"
+    },
+    {
+      "rolle" : "John Dingo",
+      "sprecher" : "Patrick Mölleken"
+    },
+    {
+      "rolle" : "Hoteldirektor",
+      "sprecher" : "Michael Seeboth"
+    },
+    {
+      "rolle" : "Mrs. Blomquist",
+      "sprecher" : "Barbara Scheck"
+    },
+    {
+      "rolle" : "Mr. Tabbs",
+      "sprecher" : "Thomas Erich Killinger"
+    },
+    {
+      "rolle" : "Derek Kantoni",
+      "sprecher" : "Tobias Diakow"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/047/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/047/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/falsche-fussballfreunde-1",
+    "appleMusic" : "https://music.apple.com/de/album/1134560583"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Standfußball",
+          "start" : 0,
+          "end" : 529733
+        },
+        {
+          "titel" : "Autogrammjäger",
+          "start" : 529733,
+          "end" : 923920
+        },
+        {
+          "titel" : "Verdeckte Ermittler",
+          "start" : 923920,
+          "end" : 1256560
+        },
+        {
+          "titel" : "Tätersuche",
+          "start" : 1256560,
+          "end" : 1721773
+        },
+        {
+          "titel" : "Fußballtraining",
+          "start" : 1721773,
+          "end" : 2250840
+        },
+        {
+          "titel" : "Gefährliche Wette",
+          "start" : 2250840,
+          "end" : 2864253
+        },
+        {
+          "titel" : "Ein raffinierter Plan",
+          "start" : 2864253,
+          "end" : 3246347
+        },
+        {
+          "titel" : "Endspiel",
+          "start" : 3246347,
+          "end" : 3732400
+        }
+      ],
+      "musicBrainzID" : "HmTsw_I.80fkpqzyI84HEOVW14s-"
+    }
+  ]
+}

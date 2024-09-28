@@ -1,0 +1,159 @@
+{
+  "nummer" : 56,
+  "titel" : "Das Rätsel der Könige",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Seltsame Dinge geschehen im neuen Einkaufszentrum in der Nähe von Rocky Beach. Als die drei ??? Kids die Spuren verfolgen, stoßen sie auf einen wertvollen Königsschatz. Doch sie sind nicht die Einzigen, die das Rätsel der Könige lösen wollen.",
+  "veröffentlichungsdatum" : "2017-03-10",
+  "kapitel" : [
+    {
+      "titel" : "Wellenreiten",
+      "start" : 0,
+      "end" : 438840
+    },
+    {
+      "titel" : "Mega Park",
+      "start" : 438840,
+      "end" : 914067
+    },
+    {
+      "titel" : "Riesenwasserrutsche",
+      "start" : 914067,
+      "end" : 1239693
+    },
+    {
+      "titel" : "Feuerwerk",
+      "start" : 1239693,
+      "end" : 1679653
+    },
+    {
+      "titel" : "Geistervilla",
+      "start" : 1679653,
+      "end" : 2147253
+    },
+    {
+      "titel" : "Fluch der Könige",
+      "start" : 2147253,
+      "end" : 2678720
+    },
+    {
+      "titel" : "Schatzsucher",
+      "start" : 2678720,
+      "end" : 3065413
+    },
+    {
+      "titel" : "Krönung",
+      "start" : 3065413,
+      "end" : 3505360
+    },
+    {
+      "titel" : "Ritterschlag",
+      "start" : 3505360,
+      "end" : 3865947
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Kapitän",
+      "sprecher" : "Ansgar Döbertin"
+    },
+    {
+      "rolle" : "Clarissa",
+      "sprecher" : "Ilka Teichmüller"
+    },
+    {
+      "rolle" : "Henson",
+      "sprecher" : "Stefan Bergel"
+    },
+    {
+      "rolle" : "Bruckheimer",
+      "sprecher" : "Thorsten Kai Botenbender"
+    },
+    {
+      "rolle" : "Nelson",
+      "sprecher" : "Ludger Vortmann"
+    },
+    {
+      "rolle" : "Heinrich Lichtenstein",
+      "sprecher" : "Robert Frank"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/056/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/056/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/das-ratsel-der-konige",
+    "appleMusic" : "https://music.apple.com/de/album/1193156639"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Wellenreiten",
+          "start" : 0,
+          "end" : 438840
+        },
+        {
+          "titel" : "Mega Park",
+          "start" : 438840,
+          "end" : 914067
+        },
+        {
+          "titel" : "Riesenwasserrutsche",
+          "start" : 914067,
+          "end" : 1239693
+        },
+        {
+          "titel" : "Feuerwerk",
+          "start" : 1239693,
+          "end" : 1679653
+        },
+        {
+          "titel" : "Geistervilla",
+          "start" : 1679653,
+          "end" : 2147253
+        },
+        {
+          "titel" : "Fluch der Könige",
+          "start" : 2147253,
+          "end" : 2678720
+        },
+        {
+          "titel" : "Schatzsucher",
+          "start" : 2678720,
+          "end" : 3065413
+        },
+        {
+          "titel" : "Krönung",
+          "start" : 3065413,
+          "end" : 3505360
+        },
+        {
+          "titel" : "Ritterschlag",
+          "start" : 3505360,
+          "end" : 3865947
+        }
+      ],
+      "musicBrainzID" : "UvTtCBSlQkDaEVmCeZSf1fAMN6Y-"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "nummer" : 41,
+  "titel" : "Insel der Haie",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Auf Shark Island, einer kleinen Insel vor der Küste Kaliforniens soll ein Piratenfilm gedreht werden. Die drei ??? Kids sind mit dabei, doch plötzlich ist Peters Vater verschwunden. Sofort machen sich Justus, Peter und Bob auf die Suche nach ihm und entdecken dabei einen unterirdischen Gang, der sie in ungeahnte Tiefen des Meeres und in eine verkehrte Welt führt.",
+  "veröffentlichungsdatum" : "2014-11-28",
+  "kapitel" : [
+    {
+      "titel" : "Piratengeschichten",
+      "start" : 0,
+      "end" : 456360
+    },
+    {
+      "titel" : "Hai-Alarm",
+      "start" : 456360,
+      "end" : 1010320
+    },
+    {
+      "titel" : "Auf Tauchstation",
+      "start" : 1010320,
+      "end" : 1465200
+    },
+    {
+      "titel" : "Königin Calafia",
+      "start" : 1465200,
+      "end" : 1859067
+    },
+    {
+      "titel" : "Pim Pauls Geheimnis",
+      "start" : 1859067,
+      "end" : 2410947
+    },
+    {
+      "titel" : "In der Falle",
+      "start" : 2410947,
+      "end" : 3131107
+    },
+    {
+      "titel" : "Showtime",
+      "start" : 3131107,
+      "end" : 3696533
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Mr. Shaw",
+      "sprecher" : "Oliver Schmitz"
+    },
+    {
+      "rolle" : "Jack Wolfe",
+      "sprecher" : "Lutz Mackensy"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/041/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/041/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/insel-der-haie",
+    "appleMusic" : "https://music.apple.com/de/album/1134537437"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Piratengeschichten",
+          "start" : 0,
+          "end" : 456360
+        },
+        {
+          "titel" : "Hai-Alarm",
+          "start" : 456360,
+          "end" : 1010320
+        },
+        {
+          "titel" : "Auf Tauchstation",
+          "start" : 1010320,
+          "end" : 1465200
+        },
+        {
+          "titel" : "Königin Calafia",
+          "start" : 1465200,
+          "end" : 1859067
+        },
+        {
+          "titel" : "Pim Pauls Geheimnis",
+          "start" : 1859067,
+          "end" : 2410947
+        },
+        {
+          "titel" : "In der Falle",
+          "start" : 2410947,
+          "end" : 3131107
+        },
+        {
+          "titel" : "Showtime",
+          "start" : 3131107,
+          "end" : 3696533
+        }
+      ],
+      "musicBrainzID" : "V4KYcTdBrMvXVrAhh_iL1Te8L1U-"
+    }
+  ]
+}

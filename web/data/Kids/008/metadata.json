@@ -1,0 +1,183 @@
+{
+  "nummer" : 8,
+  "titel" : "Nacht unter Wölfen",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Justus, Bob und Peter können es nicht glauben: Sie selbst sollen mit Falschgeld bezahlt haben. Aber woher stammen die Blüten? Die Spuren führen quer durch Rocky Beach und im Zirkus Rondini erhalten sie einen entscheidenden Hinweis. Doch sieben hungrige Wölfe bewachen ein düsteres Geheimnis.",
+  "veröffentlichungsdatum" : "2009-10-13",
+  "kapitel" : [
+    {
+      "titel" : "Schwere Kunst",
+      "start" : 0,
+      "end" : 300760
+    },
+    {
+      "titel" : "Blütenzauber",
+      "start" : 300760,
+      "end" : 723747
+    },
+    {
+      "titel" : "Manege frei!",
+      "start" : 723747,
+      "end" : 1143133
+    },
+    {
+      "titel" : "Hausdurchsuchung",
+      "start" : 1143133,
+      "end" : 1554360
+    },
+    {
+      "titel" : "Spurensuche",
+      "start" : 1554360,
+      "end" : 1937907
+    },
+    {
+      "titel" : "Aushilfsjob",
+      "start" : 1937907,
+      "end" : 2457267
+    },
+    {
+      "titel" : "Polizeieinsatz",
+      "start" : 2457267,
+      "end" : 2985667
+    },
+    {
+      "titel" : "Versteckspiele",
+      "start" : 2985667,
+      "end" : 3495107
+    },
+    {
+      "titel" : "Nacht unter Wölfen",
+      "start" : 3495107,
+      "end" : 3885613
+    },
+    {
+      "titel" : "Zirkusparade",
+      "start" : 3885613,
+      "end" : 4280720
+    },
+    {
+      "titel" : "Wolfsjagd",
+      "start" : 4280720,
+      "end" : 4670187
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Rondini",
+      "sprecher" : "Volker Bogdan"
+    },
+    {
+      "rolle" : "Kassierer",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Templer",
+      "sprecher" : "Utz Richter"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Miss Harper",
+      "sprecher" : "Ruth Rockenschaub"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/008/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/008/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/nacht-unter-wolfen",
+    "appleMusic" : "https://music.apple.com/de/album/1092521938"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Schwere Kunst",
+          "start" : 0,
+          "end" : 300760
+        },
+        {
+          "titel" : "Blütenzauber",
+          "start" : 300760,
+          "end" : 723747
+        },
+        {
+          "titel" : "Manege frei!",
+          "start" : 723747,
+          "end" : 1143133
+        },
+        {
+          "titel" : "Hausdurchsuchung",
+          "start" : 1143133,
+          "end" : 1554360
+        },
+        {
+          "titel" : "Spurensuche",
+          "start" : 1554360,
+          "end" : 1937907
+        },
+        {
+          "titel" : "Aushilfsjob",
+          "start" : 1937907,
+          "end" : 2457267
+        },
+        {
+          "titel" : "Polizeieinsatz",
+          "start" : 2457267,
+          "end" : 2985667
+        },
+        {
+          "titel" : "Versteckspiele",
+          "start" : 2985667,
+          "end" : 3495107
+        },
+        {
+          "titel" : "Nacht unter Wölfen",
+          "start" : 3495107,
+          "end" : 3885613
+        },
+        {
+          "titel" : "Zirkusparade",
+          "start" : 3885613,
+          "end" : 4280720
+        },
+        {
+          "titel" : "Wolfsjagd",
+          "start" : 4280720,
+          "end" : 4670187
+        }
+      ],
+      "musicBrainzID" : "wM5FNJGKMcGBUHqZxXJKOpUwQIA-"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "nummer" : 51,
+  "titel" : "Tatort Kletterpark",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein neuer Kletterpark wir eröffnet, und die drei ??? Kids dürfen zusammen mit Bobs Vater als erste auf das Gelände. Doch schon bald merken sie, dass jemand mit Absicht die Besucher in große Gefahr bringt. Wer steckt hinter dieser bösen Sabotage? Ein Fall mit viel Nervenkitzel …",
+  "veröffentlichungsdatum" : "2016-05-13",
+  "kapitel" : [
+    {
+      "titel" : "Kirschernte",
+      "start" : 0,
+      "end" : 558693
+    },
+    {
+      "titel" : "Tarzanflug",
+      "start" : 558693,
+      "end" : 1162227
+    },
+    {
+      "titel" : "Sensationsreporter",
+      "start" : 1162227,
+      "end" : 1695067
+    },
+    {
+      "titel" : "Holzfäller",
+      "start" : 1695067,
+      "end" : 2415147
+    },
+    {
+      "titel" : "Höhenrettung",
+      "start" : 2415147,
+      "end" : 3148133
+    },
+    {
+      "titel" : "Erpresser",
+      "start" : 3148133,
+      "end" : 3719320
+    },
+    {
+      "titel" : "Schatzräuber",
+      "start" : 3719320,
+      "end" : 4375547
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Ole Jacobsen"
+    },
+    {
+      "rolle" : "Steve Landers",
+      "sprecher" : "Jacob Weigert"
+    },
+    {
+      "rolle" : "Ed Roney",
+      "sprecher" : "Goetz Bielefeldt"
+    },
+    {
+      "rolle" : "Paul Mandock",
+      "sprecher" : "Christopher Karatsonyi"
+    },
+    {
+      "rolle" : "Carter",
+      "sprecher" : "Rolf Berg"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Nick",
+      "sprecher" : "Christian Senger"
+    },
+    {
+      "rolle" : "Leila",
+      "sprecher" : "Claudia Urbschat-Mingues"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/051/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/051/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/tatort-kletterpark",
+    "appleMusic" : "https://music.apple.com/de/album/1098177344"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Kirschernte",
+          "start" : 0,
+          "end" : 558693
+        },
+        {
+          "titel" : "Tarzanflug",
+          "start" : 558693,
+          "end" : 1162227
+        },
+        {
+          "titel" : "Sensationsreporter",
+          "start" : 1162227,
+          "end" : 1695067
+        },
+        {
+          "titel" : "Holzfäller",
+          "start" : 1695067,
+          "end" : 2415147
+        },
+        {
+          "titel" : "Höhenrettung",
+          "start" : 2415147,
+          "end" : 3148133
+        },
+        {
+          "titel" : "Erpresser",
+          "start" : 3148133,
+          "end" : 3719320
+        },
+        {
+          "titel" : "Schatzräuber",
+          "start" : 3719320,
+          "end" : 4375547
+        }
+      ],
+      "musicBrainzID" : "xKEP_WUwNwFi6Hjqj8gNKHP8zC0-"
+    }
+  ]
+}

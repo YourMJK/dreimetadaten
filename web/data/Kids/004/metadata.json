@@ -1,0 +1,197 @@
+{
+  "nummer" : 4,
+  "titel" : "Chaos vor der Kamera",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Rasende Verfolgungsjagden, Autos, die in Flammen aufgehen, todesmutige Stunts: Justus, Peter und Bob finden es einfach cool, dass der neue Actionfilm bei ihnen auf dem Schrottplatz gedreht wird. Doch die Dreharbeiten stehen unter einem schlechten Stern. Bereits am ersten Tag müssen die Arbeiten wegen einer Panne eingestellt werden: die Feuerlöscher sind nicht ordnungsgemäß überprüft worden und leider – leer. Ein Versäumnis? Die drei Jungs glauben nicht daran und nehmen die Crew unter die Lupe: Einer von ihnen spielt ein falsches Spiel mit gefährlichen Folgen. Aber wer? Blitzartig stecken die drei Detektive wieder mitten in einem hochspannenden Fall.",
+  "veröffentlichungsdatum" : "2009-06-13",
+  "kapitel" : [
+    {
+      "titel" : "Schrotträtsel",
+      "start" : 0,
+      "end" : 337160
+    },
+    {
+      "titel" : "Szenenwechsel",
+      "start" : 337160,
+      "end" : 610627
+    },
+    {
+      "titel" : "Filmsternchen",
+      "start" : 610627,
+      "end" : 884240
+    },
+    {
+      "titel" : "Feuer und Flamme",
+      "start" : 884240,
+      "end" : 1282107
+    },
+    {
+      "titel" : "Heiße Spur",
+      "start" : 1282107,
+      "end" : 1617520
+    },
+    {
+      "titel" : "Nachtschatten",
+      "start" : 1617520,
+      "end" : 2055293
+    },
+    {
+      "titel" : "Hollywood",
+      "start" : 2055293,
+      "end" : 2312960
+    },
+    {
+      "titel" : "Kuchenpause",
+      "start" : 2312960,
+      "end" : 2629360
+    },
+    {
+      "titel" : "Sprungbereit",
+      "start" : 2629360,
+      "end" : 2995307
+    },
+    {
+      "titel" : "Am Abgrund",
+      "start" : 2995307,
+      "end" : 3339467
+    },
+    {
+      "titel" : "Showdown",
+      "start" : 3339467,
+      "end" : 3595547
+    },
+    {
+      "titel" : "Endeinstellung",
+      "start" : 3595547,
+      "end" : 3997640
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Jerry Blake",
+      "sprecher" : "Clemens Gerhard"
+    },
+    {
+      "rolle" : "Alan Burns",
+      "sprecher" : "Konstantin Graudus"
+    },
+    {
+      "rolle" : "Jim Norton",
+      "sprecher" : "Tilman Borck"
+    },
+    {
+      "rolle" : "Claudia Donnatelli",
+      "sprecher" : "Susanne Sternberg"
+    },
+    {
+      "rolle" : "Zentrale",
+      "sprecher" : "Marisa Calcagno"
+    },
+    {
+      "rolle" : "Stuntlehrer",
+      "sprecher" : "Robert Missler"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/004/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/004/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/chaos-vor-der-kamera-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092522053"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Schrotträtsel",
+          "start" : 0,
+          "end" : 337160
+        },
+        {
+          "titel" : "Szenenwechsel",
+          "start" : 337160,
+          "end" : 610627
+        },
+        {
+          "titel" : "Filmsternchen",
+          "start" : 610627,
+          "end" : 884240
+        },
+        {
+          "titel" : "Feuer und Flamme",
+          "start" : 884240,
+          "end" : 1282107
+        },
+        {
+          "titel" : "Heiße Spur",
+          "start" : 1282107,
+          "end" : 1617520
+        },
+        {
+          "titel" : "Nachtschatten",
+          "start" : 1617520,
+          "end" : 2055293
+        },
+        {
+          "titel" : "Hollywood",
+          "start" : 2055293,
+          "end" : 2312960
+        },
+        {
+          "titel" : "Kuchenpause",
+          "start" : 2312960,
+          "end" : 2629360
+        },
+        {
+          "titel" : "Sprungbereit",
+          "start" : 2629360,
+          "end" : 2995307
+        },
+        {
+          "titel" : "Am Abgrund",
+          "start" : 2995307,
+          "end" : 3339467
+        },
+        {
+          "titel" : "Showdown",
+          "start" : 3339467,
+          "end" : 3595547
+        },
+        {
+          "titel" : "Endeinstellung",
+          "start" : 3595547,
+          "end" : 3997640
+        }
+      ],
+      "musicBrainzID" : "OE1.OA_VAf27qmV7ZFYidRlccsU-"
+    }
+  ]
+}

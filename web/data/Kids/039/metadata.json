@@ -1,0 +1,149 @@
+{
+  "nummer" : 39,
+  "titel" : "Der verrückte Erfinder",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "In Rocky Beach findet ein Erfinderwettbewerb statt und durch Zufall sind die drei ??? Kids mit dabei. Doch plötzlich verschwindet ein leicht verrückter Professor. Hat es womöglich etwas mit seiner Erfindung zu tun? Justus, Peter und Bob verfolgen eine heiße Spur, die sie hoch hinaus bringt. Ein gefährlicher Fall.",
+  "veröffentlichungsdatum" : "2014-05-02",
+  "kapitel" : [
+    {
+      "titel" : "Durchgeknallt",
+      "start" : 0,
+      "end" : 684640
+    },
+    {
+      "titel" : "Messebesuch",
+      "start" : 684640,
+      "end" : 1189920
+    },
+    {
+      "titel" : "Erfindergeist",
+      "start" : 1189920,
+      "end" : 1782507
+    },
+    {
+      "titel" : "Bastelwerkstatt",
+      "start" : 1782507,
+      "end" : 2270320
+    },
+    {
+      "titel" : "Flugstunde",
+      "start" : 2270320,
+      "end" : 2873293
+    },
+    {
+      "titel" : "Befreiungsversuch",
+      "start" : 2873293,
+      "end" : 3514067
+    },
+    {
+      "titel" : "Endstation",
+      "start" : 3514067,
+      "end" : 4029947
+    },
+    {
+      "titel" : "SOS Ikarus",
+      "start" : 4029947,
+      "end" : 4547467
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Prof. Lindford",
+      "sprecher" : "Bert Stevens"
+    },
+    {
+      "rolle" : "Colby",
+      "sprecher" : "Marco Sven Reinbold"
+    },
+    {
+      "rolle" : "Dr. Ribman",
+      "sprecher" : "K. Dieter Klebsch"
+    },
+    {
+      "rolle" : "Montgomery",
+      "sprecher" : "Raphael Wilczek"
+    },
+    {
+      "rolle" : "Edward",
+      "sprecher" : "Michael Siller"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/039/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/039/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-verruckte-erfinder",
+    "appleMusic" : "https://music.apple.com/de/album/1115103972"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Durchgeknallt",
+          "start" : 0,
+          "end" : 684640
+        },
+        {
+          "titel" : "Messebesuch",
+          "start" : 684640,
+          "end" : 1189920
+        },
+        {
+          "titel" : "Erfindergeist",
+          "start" : 1189920,
+          "end" : 1782507
+        },
+        {
+          "titel" : "Bastelwerkstatt",
+          "start" : 1782507,
+          "end" : 2270320
+        },
+        {
+          "titel" : "Flugstunde",
+          "start" : 2270320,
+          "end" : 2873293
+        },
+        {
+          "titel" : "Befreiungsversuch",
+          "start" : 2873293,
+          "end" : 3514067
+        },
+        {
+          "titel" : "Endstation",
+          "start" : 3514067,
+          "end" : 4029947
+        },
+        {
+          "titel" : "SOS Ikarus",
+          "start" : 4029947,
+          "end" : 4547467
+        }
+      ],
+      "musicBrainzID" : "HYIuYfV1mXFRhEii5YzIJTA_Cdk-"
+    }
+  ]
+}

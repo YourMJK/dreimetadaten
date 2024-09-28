@@ -1,0 +1,151 @@
+{
+  "nummer" : 63,
+  "titel" : "Monster-Wolken",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Monster-Wolken über Rocky Beach! Hässliche Nebelfratzen lenken die Autofahrer ab und Flugzeuge geraten in Gefahr. Doch wer ist für das Chaos am Himmel verantwortlich? Justus, Peter und Bob müssen eingreifen …",
+  "veröffentlichungsdatum" : "2018-03-02",
+  "kapitel" : [
+    {
+      "titel" : "Himmelsstürmer",
+      "start" : 0,
+      "end" : 436573
+    },
+    {
+      "titel" : "Sabotage",
+      "start" : 436573,
+      "end" : 736333
+    },
+    {
+      "titel" : "Rätselhafte Spuren",
+      "start" : 736333,
+      "end" : 1157400
+    },
+    {
+      "titel" : "Helfer in der Not",
+      "start" : 1157400,
+      "end" : 1679720
+    },
+    {
+      "titel" : "Telefonwerbung",
+      "start" : 1679720,
+      "end" : 2325547
+    },
+    {
+      "titel" : "Stolperdraht",
+      "start" : 2325547,
+      "end" : 2619467
+    },
+    {
+      "titel" : "Himmelsradierer",
+      "start" : 2619467,
+      "end" : 3053453
+    },
+    {
+      "titel" : "Wolkenmonster",
+      "start" : 3053453,
+      "end" : 3469720
+    },
+    {
+      "titel" : "Funkfalle",
+      "start" : 3469720,
+      "end" : 3862547
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Colonel Edwards",
+      "sprecher" : "Hans-Eckart Eckhardt"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "David Miller",
+      "sprecher" : "Andreas Ersson"
+    },
+    {
+      "rolle" : "Telefondame",
+      "sprecher" : "Silke Haupt"
+    },
+    {
+      "rolle" : "Rocks",
+      "sprecher" : "Tim Moeseritz"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/063/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/063/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/monster-wolken",
+    "appleMusic" : "https://music.apple.com/de/album/1339183101"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Himmelsstürmer",
+          "start" : 0,
+          "end" : 436573
+        },
+        {
+          "titel" : "Sabotage",
+          "start" : 436573,
+          "end" : 736333
+        },
+        {
+          "titel" : "Rätselhafte Spuren",
+          "start" : 736333,
+          "end" : 1157400
+        },
+        {
+          "titel" : "Helfer in der Not",
+          "start" : 1157400,
+          "end" : 1679720
+        },
+        {
+          "titel" : "Telefonwerbung",
+          "start" : 1679720,
+          "end" : 2325547
+        },
+        {
+          "titel" : "Stolperdraht",
+          "start" : 2325547,
+          "end" : 2619467
+        },
+        {
+          "titel" : "Himmelsradierer",
+          "start" : 2619467,
+          "end" : 3053453
+        },
+        {
+          "titel" : "Wolkenmonster",
+          "start" : 3053453,
+          "end" : 3469720
+        },
+        {
+          "titel" : "Funkfalle",
+          "start" : 3469720,
+          "end" : 3862547
+        }
+      ],
+      "musicBrainzID" : "iRr_VYDud5geC.66n_Xn2IDW_Sg-"
+    }
+  ]
+}

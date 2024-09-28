@@ -1,0 +1,153 @@
+{
+  "nummer" : 13,
+  "titel" : "Im Reich der Rätsel",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Das Testament eines Spielerfinders führt die drei ??? Kids zu einem geheimnisvollen Schloss. Doch leicht wird es nicht, an das Erbe des reichen Mannes heranzukommen. Viele sonderbare Rätsel müssen gelöst werden und es geht in dunkle Gänge und schaurige Verließe. Ist alles etwa nur ein Spiel?",
+  "veröffentlichungsdatum" : "2010-03-12",
+  "kapitel" : [
+    {
+      "titel" : "Rätselraten",
+      "start" : 0,
+      "end" : 384680
+    },
+    {
+      "titel" : "Ferrari fahren",
+      "start" : 384680,
+      "end" : 837400
+    },
+    {
+      "titel" : "Schwieriges Erbe",
+      "start" : 837400,
+      "end" : 1437893
+    },
+    {
+      "titel" : "Schlossgespenster",
+      "start" : 1437893,
+      "end" : 2022067
+    },
+    {
+      "titel" : "Kellergeister",
+      "start" : 2022067,
+      "end" : 2672640
+    },
+    {
+      "titel" : "Bergtour",
+      "start" : 2672640,
+      "end" : 3285840
+    },
+    {
+      "titel" : "Schach matt!",
+      "start" : 3285840,
+      "end" : 3846867
+    },
+    {
+      "titel" : "Sonnenrätsel",
+      "start" : 3846867,
+      "end" : 4595320
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Michael Habeck"
+    },
+    {
+      "rolle" : "Stanley",
+      "sprecher" : "Marek Erhardt"
+    },
+    {
+      "rolle" : "Edmont",
+      "sprecher" : "Monty Arnold"
+    },
+    {
+      "rolle" : "Dunken",
+      "sprecher" : "Günter Lüdke"
+    },
+    {
+      "rolle" : "Isabell",
+      "sprecher" : "Christine Pappert"
+    },
+    {
+      "rolle" : "Edward",
+      "sprecher" : "Gerd Baltus"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/013/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/013/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/im-reich-der-ratsel-3",
+    "appleMusic" : "https://music.apple.com/de/album/1092525617"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Rätselraten",
+          "start" : 0,
+          "end" : 384680
+        },
+        {
+          "titel" : "Ferrari fahren",
+          "start" : 384680,
+          "end" : 837400
+        },
+        {
+          "titel" : "Schwieriges Erbe",
+          "start" : 837400,
+          "end" : 1437893
+        },
+        {
+          "titel" : "Schlossgespenster",
+          "start" : 1437893,
+          "end" : 2022067
+        },
+        {
+          "titel" : "Kellergeister",
+          "start" : 2022067,
+          "end" : 2672640
+        },
+        {
+          "titel" : "Bergtour",
+          "start" : 2672640,
+          "end" : 3285840
+        },
+        {
+          "titel" : "Schach matt!",
+          "start" : 3285840,
+          "end" : 3846867
+        },
+        {
+          "titel" : "Sonnenrätsel",
+          "start" : 3846867,
+          "end" : 4595320
+        }
+      ],
+      "musicBrainzID" : "gZIekHRG_Y2O4HJ9yfv9I6jVYjc-"
+    }
+  ]
+}

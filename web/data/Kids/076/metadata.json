@@ -1,0 +1,161 @@
+{
+  "nummer" : 76,
+  "titel" : "Blinde Passagiere",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Vor der Küste von Rocky Beach liegt ein großes Kreuzfahrtschiff vor Anker. Doch an Bord geschehen seltsame Dinge und anscheinend macht sich eine Diebesbande ans Werk. Justus, Peter und Bob gehen der Sache auf den Grund – und mischen sich unter die Passagiere.",
+  "veröffentlichungsdatum" : "2020-05-29",
+  "kapitel" : [
+    {
+      "titel" : "Pacific Star",
+      "start" : 0,
+      "end" : 646627
+    },
+    {
+      "titel" : "Landausflug",
+      "start" : 646627,
+      "end" : 1074933
+    },
+    {
+      "titel" : "Diebesfalle",
+      "start" : 1074933,
+      "end" : 1565627
+    },
+    {
+      "titel" : "Verfolgungsjagd",
+      "start" : 1565627,
+      "end" : 1950640
+    },
+    {
+      "titel" : "Auf frischer Tat",
+      "start" : 1950640,
+      "end" : 2298387
+    },
+    {
+      "titel" : "Strandparty",
+      "start" : 2298387,
+      "end" : 2934840
+    },
+    {
+      "titel" : "Reingefallen",
+      "start" : 2934840,
+      "end" : 3548093
+    },
+    {
+      "titel" : "Lichtzeichen",
+      "start" : 3548093,
+      "end" : 4015987
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Ernesto Porto",
+      "sprecher" : "Holger Löwenberg"
+    },
+    {
+      "rolle" : "Stuart Cameron",
+      "sprecher" : "Ingo Abel"
+    },
+    {
+      "rolle" : "Mr. Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Kapitän Parker",
+      "sprecher" : "Bodo Henkel"
+    },
+    {
+      "rolle" : "Vivian Baxter",
+      "sprecher" : "Tanja Lipinski"
+    },
+    {
+      "rolle" : "Jacobs",
+      "sprecher" : "Dennis Herrmann"
+    },
+    {
+      "rolle" : "Chester Baxter",
+      "sprecher" : "Hendrik Martz"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Küstenwache",
+      "sprecher" : "Ansgar Döbertin"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/076/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/076/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/blinde-passagiere",
+    "appleMusic" : "https://music.apple.com/de/album/1501322284"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Pacific Star",
+          "start" : 0,
+          "end" : 646627
+        },
+        {
+          "titel" : "Landausflug",
+          "start" : 646627,
+          "end" : 1074933
+        },
+        {
+          "titel" : "Diebesfalle",
+          "start" : 1074933,
+          "end" : 1565627
+        },
+        {
+          "titel" : "Verfolgungsjagd",
+          "start" : 1565627,
+          "end" : 1950640
+        },
+        {
+          "titel" : "Auf frischer Tat",
+          "start" : 1950640,
+          "end" : 2298387
+        },
+        {
+          "titel" : "Strandparty",
+          "start" : 2298387,
+          "end" : 2934840
+        },
+        {
+          "titel" : "Reingefallen",
+          "start" : 2934840,
+          "end" : 3548093
+        },
+        {
+          "titel" : "Lichtzeichen",
+          "start" : 3548093,
+          "end" : 4015987
+        }
+      ],
+      "musicBrainzID" : "WtzsuMbxsTK.wUBxUJ2ASpL8ijU-"
+    }
+  ]
+}

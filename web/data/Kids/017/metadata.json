@@ -1,0 +1,177 @@
+{
+  "nummer" : 17,
+  "titel" : "Rettet Atlantis!",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "In der Nähe von Rocky Beach eröffnet ein riesiger Aqua Park. Justus, Peter und Bob haben Glück und dürfen bei der Einweihungsfeier dabei sein. Es gibt Wasserrutschen, lustige Delfine aber auch gefährliche Haifische zu bestaunen. Doch es geht einiges schief bei dem Fest. Sabotage? Die drei ??? Kids übernehmen den gefährlichen Auftrag und tauchen bei ihren Ermittlungen in die Unterwasserwelt ein.",
+  "veröffentlichungsdatum" : "2010-10-01",
+  "kapitel" : [
+    {
+      "titel" : "Große Fische",
+      "start" : 0,
+      "end" : 442760
+    },
+    {
+      "titel" : "Atlantis",
+      "start" : 442760,
+      "end" : 868253
+    },
+    {
+      "titel" : "Betriebsstörung",
+      "start" : 868253,
+      "end" : 1369560
+    },
+    {
+      "titel" : "Stadt der Delfine",
+      "start" : 1369560,
+      "end" : 1863653
+    },
+    {
+      "titel" : "Delfinreiten",
+      "start" : 1863653,
+      "end" : 2264720
+    },
+    {
+      "titel" : "Auf Tauchfahrt",
+      "start" : 2264720,
+      "end" : 2817720
+    },
+    {
+      "titel" : "Gruselgrotte",
+      "start" : 2817720,
+      "end" : 3204307
+    },
+    {
+      "titel" : "SOS Badeinsel",
+      "start" : 3204307,
+      "end" : 3737080
+    },
+    {
+      "titel" : "Spürhund-Fische",
+      "start" : 3737080,
+      "end" : 4219400
+    },
+    {
+      "titel" : "Ausgetrickst",
+      "start" : 4219400,
+      "end" : 4725947
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Ole Jacobsen"
+    },
+    {
+      "rolle" : "Bronsky",
+      "sprecher" : "Caspar Besch"
+    },
+    {
+      "rolle" : "Mr. Hillmond",
+      "sprecher" : "Lutz Herkenrath"
+    },
+    {
+      "rolle" : "Empfangsdame",
+      "sprecher" : "Dorothea Anna Hagena"
+    },
+    {
+      "rolle" : "Cora Montano",
+      "sprecher" : "Julia Casper"
+    },
+    {
+      "rolle" : "Milian Montano",
+      "sprecher" : "Tobias Schmidt"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/017/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/017/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/rettet-atlantis",
+    "appleMusic" : "https://music.apple.com/de/album/1092526143"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Große Fische",
+          "start" : 0,
+          "end" : 442760
+        },
+        {
+          "titel" : "Atlantis",
+          "start" : 442760,
+          "end" : 868253
+        },
+        {
+          "titel" : "Betriebsstörung",
+          "start" : 868253,
+          "end" : 1369560
+        },
+        {
+          "titel" : "Stadt der Delfine",
+          "start" : 1369560,
+          "end" : 1863653
+        },
+        {
+          "titel" : "Delfinreiten",
+          "start" : 1863653,
+          "end" : 2264720
+        },
+        {
+          "titel" : "Auf Tauchfahrt",
+          "start" : 2264720,
+          "end" : 2817720
+        },
+        {
+          "titel" : "Gruselgrotte",
+          "start" : 2817720,
+          "end" : 3204307
+        },
+        {
+          "titel" : "SOS Badeinsel",
+          "start" : 3204307,
+          "end" : 3737080
+        },
+        {
+          "titel" : "Spürhund-Fische",
+          "start" : 3737080,
+          "end" : 4219400
+        },
+        {
+          "titel" : "Ausgetrickst",
+          "start" : 4219400,
+          "end" : 4725947
+        }
+      ],
+      "musicBrainzID" : "zLe7YYKOIA_ajiMAzE5_J7PKfMA-"
+    }
+  ]
+}

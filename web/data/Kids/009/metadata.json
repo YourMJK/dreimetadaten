@@ -1,0 +1,173 @@
+{
+  "nummer" : 9,
+  "titel" : "SOS über den Wolken",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Die drei ??? Kids ermitteln weiter! Alles fängt so toll an: Die drei Detektive werden für einen Aufräumjob mit einer Fahrt im Heißluftballon belohnt. Aber ein Sabotageakt macht aus dem Vergnügen schnell ein gefährliches Abenteuer. Wieder mit beiden Beinen fest auf dem Boden möchten die drei ??? die Hintergründe des Anschlags in Erfahrung bringen. Bis der Fall jedoch endgültig gelöst ist, gilt es eine zweite nicht ganz ungefährliche Ballonfahrt zu meistern.",
+  "veröffentlichungsdatum" : "2009-11-13",
+  "kapitel" : [
+    {
+      "titel" : "Tiefflieger",
+      "start" : 0,
+      "end" : 336453
+    },
+    {
+      "titel" : "Aufräumarbeiten",
+      "start" : 336453,
+      "end" : 796467
+    },
+    {
+      "titel" : "Big Mama",
+      "start" : 796467,
+      "end" : 1208080
+    },
+    {
+      "titel" : "Startklar",
+      "start" : 1208080,
+      "end" : 1545973
+    },
+    {
+      "titel" : "Sabotage",
+      "start" : 1545973,
+      "end" : 1890013
+    },
+    {
+      "titel" : "Spurensuche",
+      "start" : 1890013,
+      "end" : 2395293
+    },
+    {
+      "titel" : "Verdachtsmomente",
+      "start" : 2395293,
+      "end" : 3033107
+    },
+    {
+      "titel" : "Abgeführt",
+      "start" : 3033107,
+      "end" : 3610360
+    },
+    {
+      "titel" : "Neustart",
+      "start" : 3610360,
+      "end" : 4100320
+    },
+    {
+      "titel" : "SOS über den Wolken",
+      "start" : 4100320,
+      "end" : 4767347
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Dave Spencer",
+      "sprecher" : "Wolfgang Hartmann"
+    },
+    {
+      "rolle" : "Buddy",
+      "sprecher" : "Peter Jordan"
+    },
+    {
+      "rolle" : "Josef Higgins",
+      "sprecher" : "Michael Krüger"
+    },
+    {
+      "rolle" : "Mrs. Burton",
+      "sprecher" : "Lia Pahl"
+    },
+    {
+      "rolle" : "Kassierer",
+      "sprecher" : "Stefan Mitrenga"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/009/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/009/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/sos-uber-den-wolken-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092524593"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Tiefflieger",
+          "start" : 0,
+          "end" : 336453
+        },
+        {
+          "titel" : "Aufräumarbeiten",
+          "start" : 336453,
+          "end" : 796467
+        },
+        {
+          "titel" : "Big Mama",
+          "start" : 796467,
+          "end" : 1208080
+        },
+        {
+          "titel" : "Startklar",
+          "start" : 1208080,
+          "end" : 1545973
+        },
+        {
+          "titel" : "Sabotage",
+          "start" : 1545973,
+          "end" : 1890013
+        },
+        {
+          "titel" : "Spurensuche",
+          "start" : 1890013,
+          "end" : 2395293
+        },
+        {
+          "titel" : "Verdachtsmomente",
+          "start" : 2395293,
+          "end" : 3033107
+        },
+        {
+          "titel" : "Abgeführt",
+          "start" : 3033107,
+          "end" : 3610360
+        },
+        {
+          "titel" : "Neustart",
+          "start" : 3610360,
+          "end" : 4100320
+        },
+        {
+          "titel" : "SOS über den Wolken",
+          "start" : 4100320,
+          "end" : 4767347
+        }
+      ],
+      "musicBrainzID" : "WdIA.cXwvfCH0YxBBMPDONNxFAc-"
+    }
+  ]
+}

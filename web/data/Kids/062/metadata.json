@@ -1,0 +1,145 @@
+{
+  "nummer" : 62,
+  "titel" : "Gefahr im Dschungel",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Hilfe! Justus, Peter und Bob sind in einem gigantischen Dschungel-Haus gefangen! Und das nur, weil sie einem entführten Professor helfen wollten. Können die drei ??? Kids diesen Fall lösen?",
+  "veröffentlichungsdatum" : "2018-01-19",
+  "kapitel" : [
+    {
+      "titel" : "Schmetterlingsjagd",
+      "start" : 0,
+      "end" : 593573
+    },
+    {
+      "titel" : "Die Arche",
+      "start" : 593573,
+      "end" : 1110573
+    },
+    {
+      "titel" : "King Kong",
+      "start" : 1110573,
+      "end" : 1590227
+    },
+    {
+      "titel" : "Im Baumhaus",
+      "start" : 1590227,
+      "end" : 2238840
+    },
+    {
+      "titel" : "Tarzan",
+      "start" : 2238840,
+      "end" : 2682560
+    },
+    {
+      "titel" : "Geheimlabor",
+      "start" : 2682560,
+      "end" : 3156173
+    },
+    {
+      "titel" : "Falsches Spiel",
+      "start" : 3156173,
+      "end" : 3730040
+    },
+    {
+      "titel" : "Matschkopf",
+      "start" : 3730040,
+      "end" : 4277133
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Professor Hamilton",
+      "sprecher" : "Hans-Georg Körbel"
+    },
+    {
+      "rolle" : "Jenny Fields",
+      "sprecher" : "Charlotte Puder"
+    },
+    {
+      "rolle" : "Maschkow",
+      "sprecher" : "Milton Welsh"
+    },
+    {
+      "rolle" : "Jurij",
+      "sprecher" : "Michael Baral"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/062/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/062/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-drei-fragezeichen-kids-62-gefahr-im-dschungel-3",
+    "appleMusic" : "https://music.apple.com/de/album/1321933872"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Schmetterlingsjagd",
+          "start" : 0,
+          "end" : 593573
+        },
+        {
+          "titel" : "Die Arche",
+          "start" : 593573,
+          "end" : 1110573
+        },
+        {
+          "titel" : "King Kong",
+          "start" : 1110573,
+          "end" : 1590227
+        },
+        {
+          "titel" : "Im Baumhaus",
+          "start" : 1590227,
+          "end" : 2238840
+        },
+        {
+          "titel" : "Tarzan",
+          "start" : 2238840,
+          "end" : 2682560
+        },
+        {
+          "titel" : "Geheimlabor",
+          "start" : 2682560,
+          "end" : 3156173
+        },
+        {
+          "titel" : "Falsches Spiel",
+          "start" : 3156173,
+          "end" : 3730040
+        },
+        {
+          "titel" : "Matschkopf",
+          "start" : 3730040,
+          "end" : 4277133
+        }
+      ],
+      "musicBrainzID" : "OJiVG7f5t5rsnYEW5qrvmdn6wkM-"
+    }
+  ]
+}

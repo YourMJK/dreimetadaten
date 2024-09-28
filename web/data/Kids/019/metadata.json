@@ -1,0 +1,149 @@
+{
+  "nummer" : 19,
+  "titel" : "Spur in die Wildnis",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Die drei ??? Kids können es kaum glauben: Sie dürfen bei der California Action Tour mitmachen und mit Glück 10.000 Dollar gewinnen. Bei dem Wettkampf müssen die Detektive spannende Abenteuer allein in der Wildnis bestehen. Doch irgendjemand treibt ein falsches Spiel und es wird plötzlich richtig gefährlich. Jetzt sind starke Nerven gefragt …",
+  "veröffentlichungsdatum" : "2011-01-28",
+  "kapitel" : [
+    {
+      "titel" : "Radio Show",
+      "start" : 0,
+      "end" : 382853
+    },
+    {
+      "titel" : "Feuerzauber",
+      "start" : 382853,
+      "end" : 816987
+    },
+    {
+      "titel" : "Eiersuche",
+      "start" : 816987,
+      "end" : 1404893
+    },
+    {
+      "titel" : "Wasserschlacht",
+      "start" : 1404893,
+      "end" : 1892987
+    },
+    {
+      "titel" : "Wettangeln",
+      "start" : 1892987,
+      "end" : 2500467
+    },
+    {
+      "titel" : "Seiltricks",
+      "start" : 2500467,
+      "end" : 3052253
+    },
+    {
+      "titel" : "Nugget City",
+      "start" : 3052253,
+      "end" : 3754573
+    },
+    {
+      "titel" : "Das vierte Fragezeichen",
+      "start" : 3754573,
+      "end" : 4332653
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tom Bentley",
+      "sprecher" : "John Ment"
+    },
+    {
+      "rolle" : "Steven Summers",
+      "sprecher" : "René Dawn-Claude"
+    },
+    {
+      "rolle" : "Stuart Mc Marshall",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Michael Milton",
+      "sprecher" : "Stefan Mitrenga"
+    },
+    {
+      "rolle" : "Judy Clarke",
+      "sprecher" : "Uta Dänekamp"
+    },
+    {
+      "rolle" : "Alwood Striker",
+      "sprecher" : "Till Demtrøder"
+    },
+    {
+      "rolle" : "Terence Mulligan",
+      "sprecher" : "Ansgar Döbertin"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/019/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/019/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/spur-in-die-wildnis",
+    "appleMusic" : "https://music.apple.com/de/album/1092527170"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Radio Show",
+          "start" : 0,
+          "end" : 382853
+        },
+        {
+          "titel" : "Feuerzauber",
+          "start" : 382853,
+          "end" : 816987
+        },
+        {
+          "titel" : "Eiersuche",
+          "start" : 816987,
+          "end" : 1404893
+        },
+        {
+          "titel" : "Wasserschlacht",
+          "start" : 1404893,
+          "end" : 1892987
+        },
+        {
+          "titel" : "Wettangeln",
+          "start" : 1892987,
+          "end" : 2500467
+        },
+        {
+          "titel" : "Seiltricks",
+          "start" : 2500467,
+          "end" : 3052253
+        },
+        {
+          "titel" : "Nugget City",
+          "start" : 3052253,
+          "end" : 3754573
+        },
+        {
+          "titel" : "Das vierte Fragezeichen",
+          "start" : 3754573,
+          "end" : 4332653
+        }
+      ],
+      "musicBrainzID" : "KnPkCyRdlJWs67xYaZZIgMuGJA4-"
+    }
+  ]
+}

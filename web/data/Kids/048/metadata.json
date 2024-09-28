@@ -1,0 +1,147 @@
+{
+  "nummer" : 48,
+  "titel" : "Tanz der Skelette",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein alter Piratengeist versucht, den Surflehrer aus seiner Strandhütte zu vertreiben. Als nachts auch noch leuchtende Skelette auftauchen und schaurige Tänze aufführen, eilen die drei ??? ihrem Freund zu Hilfe. Doch keiner der Detektive ahnt, was sich hinter den Spukgestalten für ein Geheimnis verbirgt …",
+  "veröffentlichungsdatum" : "2016-01-15",
+  "kapitel" : [
+    {
+      "titel" : "Schauermärchen",
+      "start" : 0,
+      "end" : 453160
+    },
+    {
+      "titel" : "Verflixte Seifenplanke",
+      "start" : 453160,
+      "end" : 1107947
+    },
+    {
+      "titel" : "Jerrys Bucht",
+      "start" : 1107947,
+      "end" : 1713200
+    },
+    {
+      "titel" : "Tanz der Skelette",
+      "start" : 1713200,
+      "end" : 2236013
+    },
+    {
+      "titel" : "Plaste und Elaste",
+      "start" : 2236013,
+      "end" : 2762360
+    },
+    {
+      "titel" : "Gefangen",
+      "start" : 2762360,
+      "end" : 3293600
+    },
+    {
+      "titel" : "Justus' Plan",
+      "start" : 3293600,
+      "end" : 3767787
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Fischer",
+      "sprecher" : "José Rodriguez Melgarejo"
+    },
+    {
+      "rolle" : "Jerry Schlacks",
+      "sprecher" : "Isaak Dentler"
+    },
+    {
+      "rolle" : "Billy Rotten",
+      "sprecher" : "Sven Riemann"
+    },
+    {
+      "rolle" : "Gregor",
+      "sprecher" : "Christoph Stelzner"
+    },
+    {
+      "rolle" : "Wachmann",
+      "sprecher" : "Patrick Mölleken"
+    },
+    {
+      "rolle" : "Egon Mondulsky",
+      "sprecher" : "Michael-Che Koch"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/048/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/048/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/tanz-der-skelette-1",
+    "appleMusic" : "https://music.apple.com/de/album/1134548664"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Schauermärchen",
+          "start" : 0,
+          "end" : 453160
+        },
+        {
+          "titel" : "Verflixte Seifenplanke",
+          "start" : 453160,
+          "end" : 1107947
+        },
+        {
+          "titel" : "Jerrys Bucht",
+          "start" : 1107947,
+          "end" : 1713200
+        },
+        {
+          "titel" : "Tanz der Skelette",
+          "start" : 1713200,
+          "end" : 2236013
+        },
+        {
+          "titel" : "Plaste und Elaste",
+          "start" : 2236013,
+          "end" : 2762360
+        },
+        {
+          "titel" : "Gefangen",
+          "start" : 2762360,
+          "end" : 3293600
+        },
+        {
+          "titel" : "Justus' Plan",
+          "start" : 3293600,
+          "end" : 3767787
+        }
+      ],
+      "musicBrainzID" : "z5PWfJ43rPNR4xnykMQHKLnywBU-"
+    }
+  ]
+}

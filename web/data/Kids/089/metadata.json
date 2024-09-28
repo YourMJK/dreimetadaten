@@ -1,0 +1,169 @@
+{
+  "nummer" : 89,
+  "titel" : "Im Geistergarten",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Unheimliche Touristen streifen durch Rocky Beach und lassen ihre Drohnen am Himmel aufsteigen. Als im Rathaus auch noch alte Stadtpläne gestohlen werden, fragen sich die drei ??? Kids: Was geht hier vor?",
+  "veröffentlichungsdatum" : "2022-07-29",
+  "kapitel" : [
+    {
+      "titel" : "Ausspioniert",
+      "start" : 0,
+      "end" : 319067
+    },
+    {
+      "titel" : "Heiße Spur",
+      "start" : 319067,
+      "end" : 874147
+    },
+    {
+      "titel" : "Trickreicher Zugang",
+      "start" : 874147,
+      "end" : 1338733
+    },
+    {
+      "titel" : "Bücherwürmer",
+      "start" : 1338733,
+      "end" : 1813360
+    },
+    {
+      "titel" : "Geschichtsstunde",
+      "start" : 1813360,
+      "end" : 2506187
+    },
+    {
+      "titel" : "Mission Mofa",
+      "start" : 2506187,
+      "end" : 3054187
+    },
+    {
+      "titel" : "Perfekte Tarnung",
+      "start" : 3054187,
+      "end" : 3530907
+    },
+    {
+      "titel" : "Schatzsuche",
+      "start" : 3530907,
+      "end" : 4281573
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Kurt",
+      "sprecher" : "Florian Merländer"
+    },
+    {
+      "rolle" : "James",
+      "sprecher" : "Thomas Wolff"
+    },
+    {
+      "rolle" : "Mrs. Becker",
+      "sprecher" : "Sabine Lorenz"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Mr. Hiller",
+      "sprecher" : "Markus Manig"
+    },
+    {
+      "rolle" : "Mr. Benson",
+      "sprecher" : "Tobias Brecklinghaus"
+    },
+    {
+      "rolle" : "Miss Bennett",
+      "sprecher" : "Jana Kozewa"
+    },
+    {
+      "rolle" : "Pförtner",
+      "sprecher" : "Andreas Ersson"
+    },
+    {
+      "rolle" : "Mr. Loew",
+      "sprecher" : "Gilles Karolyi"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Vorsitzender",
+      "sprecher" : "Ingo Abel"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/089/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/089/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/im-geistergarten-1",
+    "appleMusic" : "https://music.apple.com/de/album/1683337782"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ausspioniert",
+          "start" : 0,
+          "end" : 319067
+        },
+        {
+          "titel" : "Heiße Spur",
+          "start" : 319067,
+          "end" : 874147
+        },
+        {
+          "titel" : "Trickreicher Zugang",
+          "start" : 874147,
+          "end" : 1338733
+        },
+        {
+          "titel" : "Bücherwürmer",
+          "start" : 1338733,
+          "end" : 1813360
+        },
+        {
+          "titel" : "Geschichtsstunde",
+          "start" : 1813360,
+          "end" : 2506187
+        },
+        {
+          "titel" : "Mission Mofa",
+          "start" : 2506187,
+          "end" : 3054187
+        },
+        {
+          "titel" : "Perfekte Tarnung",
+          "start" : 3054187,
+          "end" : 3530907
+        },
+        {
+          "titel" : "Schatzsuche",
+          "start" : 3530907,
+          "end" : 4281573
+        }
+      ],
+      "musicBrainzID" : "RL3NRzDHSTanePibcxiKBOtzUXQ-"
+    }
+  ]
+}

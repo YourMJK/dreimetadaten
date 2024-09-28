@@ -1,0 +1,137 @@
+{
+  "nummer" : 83,
+  "titel" : "Fußball-Diebe",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Großes Fußball-Finale in Rocky Beach und natürlich sind Justus, Peter und Bob dabei. Doch es scheint, als hätte Peter sein Fußball-Talent verloren. Schnell haben Bob und Justus einen Verdacht und schon bald zeigt sich, dass hier irgendwer ganz fies manipuliert. Die drei ??? Kids ermitteln.",
+  "veröffentlichungsdatum" : "2021-07-30",
+  "kapitel" : [
+    {
+      "titel" : "Torwarttraining",
+      "start" : 0,
+      "end" : 459560
+    },
+    {
+      "titel" : "Spieltag",
+      "start" : 459560,
+      "end" : 1052133
+    },
+    {
+      "titel" : "Halbzeitpause",
+      "start" : 1052133,
+      "end" : 1564893
+    },
+    {
+      "titel" : "Zweite Halbzeit",
+      "start" : 1564893,
+      "end" : 2155707
+    },
+    {
+      "titel" : "Spieleberater",
+      "start" : 2155707,
+      "end" : 2654320
+    },
+    {
+      "titel" : "Eiskalt erwischt",
+      "start" : 2654320,
+      "end" : 3269747
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Trainer",
+      "sprecher" : "Otto Strecker"
+    },
+    {
+      "rolle" : "John Edwards",
+      "sprecher" : "Stefan Naas"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Balljunge",
+      "sprecher" : "Bo Ersson"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Jack Adams",
+      "sprecher" : "Daniel Kröhnert"
+    },
+    {
+      "rolle" : "Steve Wallbuilder",
+      "sprecher" : "Florian Clyde"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/083/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/083/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/fussball-diebe-1",
+    "appleMusic" : "https://music.apple.com/de/album/1568955355"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Torwarttraining",
+          "start" : 0,
+          "end" : 459560
+        },
+        {
+          "titel" : "Spieltag",
+          "start" : 459560,
+          "end" : 1052133
+        },
+        {
+          "titel" : "Halbzeitpause",
+          "start" : 1052133,
+          "end" : 1564893
+        },
+        {
+          "titel" : "Zweite Halbzeit",
+          "start" : 1564893,
+          "end" : 2155707
+        },
+        {
+          "titel" : "Spieleberater",
+          "start" : 2155707,
+          "end" : 2654320
+        },
+        {
+          "titel" : "Eiskalt erwischt",
+          "start" : 2654320,
+          "end" : 3269747
+        }
+      ],
+      "musicBrainzID" : "J4ZBlvy7unWZc25Zh9W1GgoxkX0-"
+    }
+  ]
+}

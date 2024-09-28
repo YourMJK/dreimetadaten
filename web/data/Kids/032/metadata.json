@@ -1,0 +1,159 @@
+{
+  "nummer" : 32,
+  "titel" : "Die Gruselfalle",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Die drei ??? Kids stehen vor einem Rätsel: Wie sollen sie jemanden helfen, von dem sie gar nicht wissen, ob es ihn überhaupt gibt? Haben sie es wirklich mit einem unheimlichen Unsichtbaren zu tun? Doch plötzlich sind die drei Detektive nicht mehr die einzigen, die sich für den gruseligen Fall interessieren.",
+  "veröffentlichungsdatum" : "2013-03-01",
+  "kapitel" : [
+    {
+      "titel" : "Meisterdieb",
+      "start" : 0,
+      "end" : 293467
+    },
+    {
+      "titel" : "Spuk im Schrott",
+      "start" : 293467,
+      "end" : 716640
+    },
+    {
+      "titel" : "Verfolgungswahn",
+      "start" : 716640,
+      "end" : 1243773
+    },
+    {
+      "titel" : "Stimme aus dem Nichts",
+      "start" : 1243773,
+      "end" : 1782053
+    },
+    {
+      "titel" : "Projekt Tarnkappe",
+      "start" : 1782053,
+      "end" : 2243000
+    },
+    {
+      "titel" : "Notfallplan",
+      "start" : 2243000,
+      "end" : 2505520
+    },
+    {
+      "titel" : "Schwarzes Theater",
+      "start" : 2505520,
+      "end" : 2811720
+    },
+    {
+      "titel" : "Die Mausefalle",
+      "start" : 2811720,
+      "end" : 3192173
+    },
+    {
+      "titel" : "Magisch angezogen",
+      "start" : 3192173,
+      "end" : 3654187
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Harry Baker",
+      "sprecher" : "Sven Dahlem"
+    },
+    {
+      "rolle" : "Mr. Kay",
+      "sprecher" : "Ingo Albrecht"
+    },
+    {
+      "rolle" : "Mr. Karst",
+      "sprecher" : "Mario Hassert"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/032/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/032/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-gruselfalle-1",
+    "appleMusic" : "https://music.apple.com/de/album/1112948510"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Meisterdieb",
+          "start" : 0,
+          "end" : 293467
+        },
+        {
+          "titel" : "Spuk im Schrott",
+          "start" : 293467,
+          "end" : 716640
+        },
+        {
+          "titel" : "Verfolgungswahn",
+          "start" : 716640,
+          "end" : 1243773
+        },
+        {
+          "titel" : "Stimme aus dem Nichts",
+          "start" : 1243773,
+          "end" : 1782053
+        },
+        {
+          "titel" : "Projekt Tarnkappe",
+          "start" : 1782053,
+          "end" : 2243000
+        },
+        {
+          "titel" : "Notfallplan",
+          "start" : 2243000,
+          "end" : 2505520
+        },
+        {
+          "titel" : "Schwarzes Theater",
+          "start" : 2505520,
+          "end" : 2811720
+        },
+        {
+          "titel" : "Die Mausefalle",
+          "start" : 2811720,
+          "end" : 3192173
+        },
+        {
+          "titel" : "Magisch angezogen",
+          "start" : 3192173,
+          "end" : 3654187
+        }
+      ],
+      "musicBrainzID" : "ibvz.ZOs6myxWc688p18NkIlXJ8-"
+    }
+  ]
+}

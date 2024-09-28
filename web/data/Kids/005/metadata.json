@@ -1,0 +1,177 @@
+{
+  "nummer" : 5,
+  "titel" : "Flucht in die Zukunft",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Was ist mit John Smith geschehen? Der schrullige Tüftler hat behauptet, eine Zeitmaschine entwickelt zu haben, nun ist er spurlos verschwunden. Onkel Titus bekommt den Auftrag, seine Wohnung zu entrümpeln und die drei Jungs begleiten ihn. Dort finden sie einen merkwürdigen Apparat etwa die Zeitmaschine? Wurde Smith in eine andere Dimension versetzt? Es gibt für die drei Jungdetektive nur einen Weg, ihm zu helfen: Sie müssen die Zeitmaschine zum Laufen bringen.",
+  "veröffentlichungsdatum" : "2009-07-13",
+  "kapitel" : [
+    {
+      "titel" : "Räumungsbefehl",
+      "start" : 0,
+      "end" : 372813
+    },
+    {
+      "titel" : "Unter Deck",
+      "start" : 372813,
+      "end" : 917453
+    },
+    {
+      "titel" : "Zahltag",
+      "start" : 917453,
+      "end" : 1525627
+    },
+    {
+      "titel" : "Zurück an Bord",
+      "start" : 1525627,
+      "end" : 2138627
+    },
+    {
+      "titel" : "Eispause",
+      "start" : 2138627,
+      "end" : 2650947
+    },
+    {
+      "titel" : "Absteigerduell",
+      "start" : 2650947,
+      "end" : 3184627
+    },
+    {
+      "titel" : "Das Tastenrätsel",
+      "start" : 3184627,
+      "end" : 3564307
+    },
+    {
+      "titel" : "Zeitsprünge",
+      "start" : 3564307,
+      "end" : 3839787
+    },
+    {
+      "titel" : "Zurück in die Vergangenheit",
+      "start" : 3839787,
+      "end" : 4250867
+    },
+    {
+      "titel" : "Flucht in die Zukunft",
+      "start" : 4250867,
+      "end" : 4762680
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "John Smith",
+      "sprecher" : "Smudo"
+    },
+    {
+      "rolle" : "Porto",
+      "sprecher" : "Holger Löwenberg"
+    },
+    {
+      "rolle" : "Zarkow",
+      "sprecher" : "Wolf Frass"
+    },
+    {
+      "rolle" : "Miguel Venetti",
+      "sprecher" : "Mario Grete"
+    },
+    {
+      "rolle" : "Ramon Venetti",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Robert Missler"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/005/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/005/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/flucht-in-die-zukunft-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092521899"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Räumungsbefehl",
+          "start" : 0,
+          "end" : 372813
+        },
+        {
+          "titel" : "Unter Deck",
+          "start" : 372813,
+          "end" : 917453
+        },
+        {
+          "titel" : "Zahltag",
+          "start" : 917453,
+          "end" : 1525627
+        },
+        {
+          "titel" : "Zurück an Bord",
+          "start" : 1525627,
+          "end" : 2138627
+        },
+        {
+          "titel" : "Eispause",
+          "start" : 2138627,
+          "end" : 2650947
+        },
+        {
+          "titel" : "Absteigerduell",
+          "start" : 2650947,
+          "end" : 3184627
+        },
+        {
+          "titel" : "Das Tastenrätsel",
+          "start" : 3184627,
+          "end" : 3564307
+        },
+        {
+          "titel" : "Zeitsprünge",
+          "start" : 3564307,
+          "end" : 3839787
+        },
+        {
+          "titel" : "Zurück in die Vergangenheit",
+          "start" : 3839787,
+          "end" : 4250867
+        },
+        {
+          "titel" : "Flucht in die Zukunft",
+          "start" : 4250867,
+          "end" : 4762680
+        }
+      ],
+      "musicBrainzID" : "JgBkMpxWHNAs08NUmWexBjZZJhI-"
+    }
+  ]
+}

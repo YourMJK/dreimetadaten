@@ -1,0 +1,159 @@
+{
+  "nummer" : 12,
+  "titel" : "Internetpiraten",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Schon wieder haben die Computerdiebe zugeschlagen und diesmal hat es sogar Bobs Vater erwischt. Klar, dass die drei ??? den Fall übernehmen und Operation ?Pegasus? beginnt. Doch jemand treibt ein doppeltes Spiel und die Spur führt zu einem alten Schiffswrack. Starke Nerven sind gefragt, denn anscheinend sind sie nicht die einzigen an Bord.",
+  "veröffentlichungsdatum" : "2010-02-05",
+  "kapitel" : [
+    {
+      "titel" : "Computerschaden",
+      "start" : 0,
+      "end" : 245627
+    },
+    {
+      "titel" : "Probesurfen",
+      "start" : 245627,
+      "end" : 654987
+    },
+    {
+      "titel" : "Geheimsache \"Pegasus\"",
+      "start" : 654987,
+      "end" : 1038267
+    },
+    {
+      "titel" : "Kontaktaufnahme",
+      "start" : 1038267,
+      "end" : 1414613
+    },
+    {
+      "titel" : "Geldübergabe",
+      "start" : 1414613,
+      "end" : 1946640
+    },
+    {
+      "titel" : "Recherche",
+      "start" : 1946640,
+      "end" : 2598760
+    },
+    {
+      "titel" : "Pacific Star",
+      "start" : 2598760,
+      "end" : 3178453
+    },
+    {
+      "titel" : "Piraten an Bord",
+      "start" : 3178453,
+      "end" : 3815987
+    },
+    {
+      "titel" : "SOS",
+      "start" : 3815987,
+      "end" : 4505853
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Ole Jacobsen"
+    },
+    {
+      "rolle" : "Smithers",
+      "sprecher" : "Michael Prelle"
+    },
+    {
+      "rolle" : "Sandy",
+      "sprecher" : "Nadine Schreier"
+    },
+    {
+      "rolle" : "Mike",
+      "sprecher" : "Tim Knauer"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/012/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/012/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/internetpiraten-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092527217"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Computerschaden",
+          "start" : 0,
+          "end" : 245627
+        },
+        {
+          "titel" : "Probesurfen",
+          "start" : 245627,
+          "end" : 654987
+        },
+        {
+          "titel" : "Geheimsache \"Pegasus\"",
+          "start" : 654987,
+          "end" : 1038267
+        },
+        {
+          "titel" : "Kontaktaufnahme",
+          "start" : 1038267,
+          "end" : 1414613
+        },
+        {
+          "titel" : "Geldübergabe",
+          "start" : 1414613,
+          "end" : 1946640
+        },
+        {
+          "titel" : "Recherche",
+          "start" : 1946640,
+          "end" : 2598760
+        },
+        {
+          "titel" : "Pacific Star",
+          "start" : 2598760,
+          "end" : 3178453
+        },
+        {
+          "titel" : "Piraten an Bord",
+          "start" : 3178453,
+          "end" : 3815987
+        },
+        {
+          "titel" : "SOS",
+          "start" : 3815987,
+          "end" : 4505853
+        }
+      ],
+      "musicBrainzID" : "Zuy58N_owD55_RkCpzMQuVPaor8-"
+    }
+  ]
+}

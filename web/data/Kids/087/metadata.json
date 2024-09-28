@@ -1,0 +1,145 @@
+{
+  "nummer" : 87,
+  "titel" : "Das Geisterspiel",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Peters Lieblings-Basketball Mannschaft spielt in Rocky Beach. Während des Turniers passieren unerklärliche Dinge. Ist etwa ein Geist im Stadion? Die drei ??? Kids sind sich sicher, dass jemand anderes dahintersteckt …",
+  "veröffentlichungsdatum" : "2022-03-18",
+  "kapitel" : [
+    {
+      "titel" : "Training",
+      "start" : 0,
+      "end" : 329827
+    },
+    {
+      "titel" : "Spezialeinheit",
+      "start" : 329827,
+      "end" : 940280
+    },
+    {
+      "titel" : "Geheimgang",
+      "start" : 940280,
+      "end" : 1396933
+    },
+    {
+      "titel" : "Geisterspieler",
+      "start" : 1396933,
+      "end" : 1842213
+    },
+    {
+      "titel" : "Schlangenfrau",
+      "start" : 1842213,
+      "end" : 2342307
+    },
+    {
+      "titel" : "Sprung ins Nichts",
+      "start" : 2342307,
+      "end" : 2893067
+    },
+    {
+      "titel" : "Geisterstimme",
+      "start" : 2893067,
+      "end" : 3241693
+    },
+    {
+      "titel" : "Finale",
+      "start" : 3241693,
+      "end" : 3638653
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Ordner",
+      "sprecher" : "Patrick Winczewski"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Herbie Baumann",
+      "sprecher" : "Tom Vogt"
+    },
+    {
+      "rolle" : "Sabrina Jackson",
+      "sprecher" : "Hanna Schulz"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Jacob Jackson",
+      "sprecher" : "Gilles Karolyi"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/087/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/087/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/das-geisterspiel-1",
+    "appleMusic" : "https://music.apple.com/de/album/1606704347"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Training",
+          "start" : 0,
+          "end" : 329827
+        },
+        {
+          "titel" : "Spezialeinheit",
+          "start" : 329827,
+          "end" : 940280
+        },
+        {
+          "titel" : "Geheimgang",
+          "start" : 940280,
+          "end" : 1396933
+        },
+        {
+          "titel" : "Geisterspieler",
+          "start" : 1396933,
+          "end" : 1842213
+        },
+        {
+          "titel" : "Schlangenfrau",
+          "start" : 1842213,
+          "end" : 2342307
+        },
+        {
+          "titel" : "Sprung ins Nichts",
+          "start" : 2342307,
+          "end" : 2893067
+        },
+        {
+          "titel" : "Geisterstimme",
+          "start" : 2893067,
+          "end" : 3241693
+        },
+        {
+          "titel" : "Finale",
+          "start" : 3241693,
+          "end" : 3638653
+        }
+      ],
+      "musicBrainzID" : "a8wTpvdXldepaBqL7I4dWIPUDMQ-"
+    }
+  ]
+}

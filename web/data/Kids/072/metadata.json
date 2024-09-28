@@ -1,0 +1,169 @@
+{
+  "nummer" : 72,
+  "titel" : "Die Laser-Falle",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Leuchtende Termitenhügel sind die Attraktion im Nationalpark Termiten-City. Das wollen sich Justus, Peter und Bob natürlich nicht entgehen lassen. Doch plötzlich werden Besucher von den kleinen Insekten scheinbar ausgeraubt. Die drei Detektive brauchen jetzt starke Nerven.",
+  "veröffentlichungsdatum" : "2019-09-27",
+  "kapitel" : [
+    {
+      "titel" : "Termiten-City",
+      "start" : 0,
+      "end" : 410667
+    },
+    {
+      "titel" : "Souvenirs",
+      "start" : 410667,
+      "end" : 905493
+    },
+    {
+      "titel" : "Fremde Welten",
+      "start" : 905493,
+      "end" : 1313240
+    },
+    {
+      "titel" : "Leuchtkäfer",
+      "start" : 1313240,
+      "end" : 1720947
+    },
+    {
+      "titel" : "Laser-Falle",
+      "start" : 1720947,
+      "end" : 2133587
+    },
+    {
+      "titel" : "Abstieg",
+      "start" : 2133587,
+      "end" : 2439840
+    },
+    {
+      "titel" : "Termitenangriff",
+      "start" : 2439840,
+      "end" : 2890107
+    },
+    {
+      "titel" : "Hubschraubereinsatz",
+      "start" : 2890107,
+      "end" : 3258440
+    },
+    {
+      "titel" : "Verdacht",
+      "start" : 3258440,
+      "end" : 3746853
+    },
+    {
+      "titel" : "Termitenkönig",
+      "start" : 3746853,
+      "end" : 4337147
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Klotzki",
+      "sprecher" : "Marko Bräutigam"
+    },
+    {
+      "rolle" : "Stryker",
+      "sprecher" : "Robert Frank"
+    },
+    {
+      "rolle" : "Busfahrer",
+      "sprecher" : "Ansgar Döbertin"
+    },
+    {
+      "rolle" : "Ranger",
+      "sprecher" : "Thomas Dehler"
+    },
+    {
+      "rolle" : "Nedderburg",
+      "sprecher" : "Rainer Gerlach"
+    },
+    {
+      "rolle" : "Wanderer",
+      "sprecher" : "Frank Röth"
+    },
+    {
+      "rolle" : "Pilot",
+      "sprecher" : "Frank Kessler"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/072/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/072/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-laser-falle",
+    "appleMusic" : "https://music.apple.com/de/album/1471657941"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Termiten-City",
+          "start" : 0,
+          "end" : 410667
+        },
+        {
+          "titel" : "Souvenirs",
+          "start" : 410667,
+          "end" : 905493
+        },
+        {
+          "titel" : "Fremde Welten",
+          "start" : 905493,
+          "end" : 1313240
+        },
+        {
+          "titel" : "Leuchtkäfer",
+          "start" : 1313240,
+          "end" : 1720947
+        },
+        {
+          "titel" : "Laser-Falle",
+          "start" : 1720947,
+          "end" : 2133587
+        },
+        {
+          "titel" : "Abstieg",
+          "start" : 2133587,
+          "end" : 2439840
+        },
+        {
+          "titel" : "Termitenangriff",
+          "start" : 2439840,
+          "end" : 2890107
+        },
+        {
+          "titel" : "Hubschraubereinsatz",
+          "start" : 2890107,
+          "end" : 3258440
+        },
+        {
+          "titel" : "Verdacht",
+          "start" : 3258440,
+          "end" : 3746853
+        },
+        {
+          "titel" : "Termitenkönig",
+          "start" : 3746853,
+          "end" : 4337147
+        }
+      ],
+      "musicBrainzID" : "ZYsQAJro7fHGjcdaEL3sFDR7ktQ-"
+    }
+  ]
+}

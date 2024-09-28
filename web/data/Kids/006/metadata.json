@@ -1,0 +1,183 @@
+{
+  "nummer" : 6,
+  "titel" : "Gefahr im Gruselgarten",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Es ist Jahrmarkt in Rocky Beach! Die drei Fragezeichen haben Freikarten bekommen, unter anderem auch für den Gruselgarten. Dort begegnen ihnen seltsame Gestalten: ein narbengesichtiger Feuerspucker oder die geheimnisvolle Hellseherin Madame Vandorra. Aber irgendetwas stimmt hier nicht – das riechen die Spürnasen sofort! Als sich auch noch Onkel Titus und Tante Mathilda im Gruselgarten vergnügen, ist plötzlich Titus Brieftasche weg – oder doch nicht? Schnell sind die drei Kids mitten in einem neuen Fall …",
+  "veröffentlichungsdatum" : "2009-08-13",
+  "kapitel" : [
+    {
+      "titel" : "Überraschungsangriff",
+      "start" : 0,
+      "end" : 323360
+    },
+    {
+      "titel" : "Höllentor",
+      "start" : 323360,
+      "end" : 670147
+    },
+    {
+      "titel" : "Blick in die Zukunft",
+      "start" : 670147,
+      "end" : 1222520
+    },
+    {
+      "titel" : "Goldene Experimente",
+      "start" : 1222520,
+      "end" : 1652987
+    },
+    {
+      "titel" : "Zielwerfen",
+      "start" : 1652987,
+      "end" : 1951707
+    },
+    {
+      "titel" : "Dollarkrise",
+      "start" : 1951707,
+      "end" : 2367267
+    },
+    {
+      "titel" : "Freie Auswahl",
+      "start" : 2367267,
+      "end" : 2785253
+    },
+    {
+      "titel" : "Gorillajagd",
+      "start" : 2785253,
+      "end" : 3110973
+    },
+    {
+      "titel" : "In der Falle",
+      "start" : 3110973,
+      "end" : 3515107
+    },
+    {
+      "titel" : "Phase Rot",
+      "start" : 3515107,
+      "end" : 3816027
+    },
+    {
+      "titel" : "Zündende Idee",
+      "start" : 3816027,
+      "end" : 4437347
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Madame Vandorra",
+      "sprecher" : "Nina Hagen"
+    },
+    {
+      "rolle" : "Professor",
+      "sprecher" : "Monty Arnold"
+    },
+    {
+      "rolle" : "Pablo",
+      "sprecher" : "Jochen Piel"
+    },
+    {
+      "rolle" : "Feuerschlucker",
+      "sprecher" : "Erik Schäffler"
+    },
+    {
+      "rolle" : "Kobold",
+      "sprecher" : "Robert Missler"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/006/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/006/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/gefahr-im-gruselgarten-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092521960"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Überraschungsangriff",
+          "start" : 0,
+          "end" : 323360
+        },
+        {
+          "titel" : "Höllentor",
+          "start" : 323360,
+          "end" : 670147
+        },
+        {
+          "titel" : "Blick in die Zukunft",
+          "start" : 670147,
+          "end" : 1222520
+        },
+        {
+          "titel" : "Goldene Experimente",
+          "start" : 1222520,
+          "end" : 1652987
+        },
+        {
+          "titel" : "Zielwerfen",
+          "start" : 1652987,
+          "end" : 1951707
+        },
+        {
+          "titel" : "Dollarkrise",
+          "start" : 1951707,
+          "end" : 2367267
+        },
+        {
+          "titel" : "Freie Auswahl",
+          "start" : 2367267,
+          "end" : 2785253
+        },
+        {
+          "titel" : "Gorillajagd",
+          "start" : 2785253,
+          "end" : 3110973
+        },
+        {
+          "titel" : "In der Falle",
+          "start" : 3110973,
+          "end" : 3515107
+        },
+        {
+          "titel" : "Phase Rot",
+          "start" : 3515107,
+          "end" : 3816027
+        },
+        {
+          "titel" : "Zündende Idee",
+          "start" : 3816027,
+          "end" : 4437347
+        }
+      ],
+      "musicBrainzID" : "SbH1gPyVnWDIgY4azqBkXntQfzk-"
+    }
+  ]
+}

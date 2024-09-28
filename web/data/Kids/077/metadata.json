@@ -1,0 +1,149 @@
+{
+  "nummer" : 77,
+  "titel" : "Die Musikdiebe",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Aus dem Tonstudio des Popstars Modena wurde ein Song gestohlen. Kann Modena ihrem Team nicht mehr vertrauen? Als Chorsänger getarnt begeben sich die drei ??? Kids auf die Spur des Diebes.",
+  "veröffentlichungsdatum" : "2020-07-31",
+  "kapitel" : [
+    {
+      "titel" : "Klaviertransport",
+      "start" : 0,
+      "end" : 414773
+    },
+    {
+      "titel" : "Popstar zu Besuch",
+      "start" : 414773,
+      "end" : 1048507
+    },
+    {
+      "titel" : "Tonstudio Leierschwanz",
+      "start" : 1048507,
+      "end" : 1462667
+    },
+    {
+      "titel" : "Bauchredner",
+      "start" : 1462667,
+      "end" : 1947333
+    },
+    {
+      "titel" : "Klangwunder",
+      "start" : 1947333,
+      "end" : 2268400
+    },
+    {
+      "titel" : "Geräusche-Jagd",
+      "start" : 2268400,
+      "end" : 2910627
+    },
+    {
+      "titel" : "Fliegendes Mikrofon",
+      "start" : 2910627,
+      "end" : 3494213
+    },
+    {
+      "titel" : "Schlussakkord",
+      "start" : 3494213,
+      "end" : 3885733
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Modena",
+      "sprecher" : "Annabelle Krieg"
+    },
+    {
+      "rolle" : "John de Meza",
+      "sprecher" : "Frank Ramond"
+    },
+    {
+      "rolle" : "Mutter von Josy",
+      "sprecher" : "Anja Welzel"
+    },
+    {
+      "rolle" : "Josy",
+      "sprecher" : "Anni Salander"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/077/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/077/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-musikdiebe",
+    "appleMusic" : "https://music.apple.com/de/album/1515518227"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Klaviertransport",
+          "start" : 0,
+          "end" : 414773
+        },
+        {
+          "titel" : "Popstar zu Besuch",
+          "start" : 414773,
+          "end" : 1048507
+        },
+        {
+          "titel" : "Tonstudio Leierschwanz",
+          "start" : 1048507,
+          "end" : 1462667
+        },
+        {
+          "titel" : "Bauchredner",
+          "start" : 1462667,
+          "end" : 1947333
+        },
+        {
+          "titel" : "Klangwunder",
+          "start" : 1947333,
+          "end" : 2268400
+        },
+        {
+          "titel" : "Geräusche-Jagd",
+          "start" : 2268400,
+          "end" : 2910627
+        },
+        {
+          "titel" : "Fliegendes Mikrofon",
+          "start" : 2910627,
+          "end" : 3494213
+        },
+        {
+          "titel" : "Schlussakkord",
+          "start" : 3494213,
+          "end" : 3885733
+        }
+      ],
+      "musicBrainzID" : "9uSP7d2_Yga37QhPU2yU5jippLQ-"
+    }
+  ]
+}

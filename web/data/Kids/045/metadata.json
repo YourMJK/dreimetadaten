@@ -1,0 +1,153 @@
+{
+  "nummer" : 45,
+  "titel" : "Ein Fall für Superhelden",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Es gab einen lauten Knall, und der Wagen stand in Flammen. Mr. Jeffers brüllte durch ein Megafon: \"Die Kameras in Bereitschaft! Auftritt des Superhelden! Drei, zwei, eins und Action!\" Justus tritt als Werbestar einer Cornflakes-Firma auf. Im Superman-Kostüm soll er vor laufender Kamera Heldentaten vollbringen. Doch schon bald kommen die drei ??? Kids einem bösen Werbeschwindel auf die Spur …",
+  "veröffentlichungsdatum" : "2015-07-10",
+  "kapitel" : [
+    {
+      "titel" : "Goldene Cornflakes",
+      "start" : 0,
+      "end" : 466987
+    },
+    {
+      "titel" : "Super-Justus",
+      "start" : 466987,
+      "end" : 1167893
+    },
+    {
+      "titel" : "Heldentaten",
+      "start" : 1167893,
+      "end" : 1800187
+    },
+    {
+      "titel" : "Das schwarze Phantom",
+      "start" : 1800187,
+      "end" : 2474547
+    },
+    {
+      "titel" : "Tresorknacker",
+      "start" : 2474547,
+      "end" : 3070707
+    },
+    {
+      "titel" : "Der Erzfeind",
+      "start" : 3070707,
+      "end" : 3756733
+    },
+    {
+      "titel" : "Countdown",
+      "start" : 3756733,
+      "end" : 4312173
+    },
+    {
+      "titel" : "Super-Tricks",
+      "start" : 4312173,
+      "end" : 4792960
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Liza",
+      "sprecher" : "Lara Trautmann"
+    },
+    {
+      "rolle" : "David Jeffers",
+      "sprecher" : "Volker Brandt"
+    },
+    {
+      "rolle" : "Jason Roberts",
+      "sprecher" : "Ralf Spengler"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Ms. Fletcher",
+      "sprecher" : "Carmen Molinar"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/045/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/045/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/ein-fall-fur-superhelden1",
+    "appleMusic" : "https://music.apple.com/de/album/1134564507"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Goldene Cornflakes",
+          "start" : 0,
+          "end" : 466987
+        },
+        {
+          "titel" : "Super-Justus",
+          "start" : 466987,
+          "end" : 1167893
+        },
+        {
+          "titel" : "Heldentaten",
+          "start" : 1167893,
+          "end" : 1800187
+        },
+        {
+          "titel" : "Das schwarze Phantom",
+          "start" : 1800187,
+          "end" : 2474547
+        },
+        {
+          "titel" : "Tresorknacker",
+          "start" : 2474547,
+          "end" : 3070707
+        },
+        {
+          "titel" : "Der Erzfeind",
+          "start" : 3070707,
+          "end" : 3756733
+        },
+        {
+          "titel" : "Countdown",
+          "start" : 3756733,
+          "end" : 4312173
+        },
+        {
+          "titel" : "Super-Tricks",
+          "start" : 4312173,
+          "end" : 4792960
+        }
+      ],
+      "musicBrainzID" : "3dfTk5sq0bB1Wt0ELo0Sgv1Ij5Y-"
+    }
+  ]
+}

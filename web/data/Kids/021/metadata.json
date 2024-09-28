@@ -1,0 +1,161 @@
+{
+  "nummer" : 21,
+  "titel" : "Die Geisterjäger",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Sonderbare Dinge geschehen in der Villa von Mrs. Almond. Spukt es etwa in den alten Gemäuern? Diesmal versuchen sich die drei ??? Kids als Geisterjäger. Vom Keller bis zum Dachboden wird alles unter die Lupe genommen. Doch mit wem haben sie sich hier bloß angelegt? Gänsehaut ist angesagt.",
+  "veröffentlichungsdatum" : "2011-06-24",
+  "kapitel" : [
+    {
+      "titel" : "Kellergeister",
+      "start" : 0,
+      "end" : 642080
+    },
+    {
+      "titel" : "Erfinderpech",
+      "start" : 642080,
+      "end" : 1172613
+    },
+    {
+      "titel" : "Totenkopfkiste",
+      "start" : 1172613,
+      "end" : 1862120
+    },
+    {
+      "titel" : "Geisterjagd",
+      "start" : 1862120,
+      "end" : 2558747
+    },
+    {
+      "titel" : "Piratenburg",
+      "start" : 2558747,
+      "end" : 3066307
+    },
+    {
+      "titel" : "Gummigeister",
+      "start" : 3066307,
+      "end" : 3433867
+    },
+    {
+      "titel" : "Der Graf ohne Kopf",
+      "start" : 3433867,
+      "end" : 3901600
+    },
+    {
+      "titel" : "Otto, das Schlossgespenst",
+      "start" : 3901600,
+      "end" : 4316307
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Michael Habeck"
+    },
+    {
+      "rolle" : "Mr. Laslokow",
+      "sprecher" : "Joscha Fischer-Antze"
+    },
+    {
+      "rolle" : "Mrs. Almond",
+      "sprecher" : "Karin Eckhold"
+    },
+    {
+      "rolle" : "Mr. Doyle",
+      "sprecher" : "Frank Jordan"
+    },
+    {
+      "rolle" : "Mrs. Doyle",
+      "sprecher" : "Tina Eschmann"
+    },
+    {
+      "rolle" : "Alan McEdwin",
+      "sprecher" : "Andreas Torwesten"
+    },
+    {
+      "rolle" : "Sophie Higgins",
+      "sprecher" : "Christina Puciata"
+    },
+    {
+      "rolle" : "Paul Higgins",
+      "sprecher" : "Konrad Halver"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/021/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/021/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-geisterjager-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092520364"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Kellergeister",
+          "start" : 0,
+          "end" : 642080
+        },
+        {
+          "titel" : "Erfinderpech",
+          "start" : 642080,
+          "end" : 1172613
+        },
+        {
+          "titel" : "Totenkopfkiste",
+          "start" : 1172613,
+          "end" : 1862120
+        },
+        {
+          "titel" : "Geisterjagd",
+          "start" : 1862120,
+          "end" : 2558747
+        },
+        {
+          "titel" : "Piratenburg",
+          "start" : 2558747,
+          "end" : 3066307
+        },
+        {
+          "titel" : "Gummigeister",
+          "start" : 3066307,
+          "end" : 3433867
+        },
+        {
+          "titel" : "Der Graf ohne Kopf",
+          "start" : 3433867,
+          "end" : 3901600
+        },
+        {
+          "titel" : "Otto, das Schlossgespenst",
+          "start" : 3901600,
+          "end" : 4316307
+        }
+      ],
+      "musicBrainzID" : "qQSb7uEQYA5YQizL0hYYboN.hRY-"
+    }
+  ]
+}

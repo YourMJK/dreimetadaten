@@ -1,0 +1,157 @@
+{
+  "nummer" : 36,
+  "titel" : "Mission Mars",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein Weltraumabenteuer mitten in Rocky Beach? Wird die Stadt tatsächlich Zeuge einer spektakulären Marslandung? So unglaublich das Abenteuer auch klingen mag, so spricht trotzdem vieles dafür. Die drei ??? Kids können es kaum fassen. Doch der Countdown läuft bereits.",
+  "veröffentlichungsdatum" : "2013-11-29",
+  "kapitel" : [
+    {
+      "titel" : "Fremde Welten",
+      "start" : 0,
+      "end" : 367520
+    },
+    {
+      "titel" : "Norris' Bar",
+      "start" : 367520,
+      "end" : 872720
+    },
+    {
+      "titel" : "Gefährliche Gegner",
+      "start" : 872720,
+      "end" : 1386653
+    },
+    {
+      "titel" : "Reporteralarm",
+      "start" : 1386653,
+      "end" : 1837320
+    },
+    {
+      "titel" : "In der Höhle des Löwen",
+      "start" : 1837320,
+      "end" : 2409613
+    },
+    {
+      "titel" : "Roter Sand",
+      "start" : 2409613,
+      "end" : 2882827
+    },
+    {
+      "titel" : "Lautlos im Weltraum",
+      "start" : 2882827,
+      "end" : 3313200
+    },
+    {
+      "titel" : "Schritte auf dem Mars",
+      "start" : 3313200,
+      "end" : 3937813
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Bud Norris",
+      "sprecher" : "Tobias Brecklinghaus"
+    },
+    {
+      "rolle" : "Spout",
+      "sprecher" : "Thomas Arnold"
+    },
+    {
+      "rolle" : "Calvin",
+      "sprecher" : "Christian Blecken"
+    },
+    {
+      "rolle" : "Haushälterin",
+      "sprecher" : "Elga Schütz"
+    },
+    {
+      "rolle" : "Professor Flaw",
+      "sprecher" : "Oliver Krietsch-Matzura"
+    },
+    {
+      "rolle" : "Buller",
+      "sprecher" : "Stefan Mitrenga"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/036/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/036/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/mission-mars-1",
+    "appleMusic" : "https://music.apple.com/de/album/1112988770"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Fremde Welten",
+          "start" : 0,
+          "end" : 367520
+        },
+        {
+          "titel" : "Norris' Bar",
+          "start" : 367520,
+          "end" : 872720
+        },
+        {
+          "titel" : "Gefährliche Gegner",
+          "start" : 872720,
+          "end" : 1386653
+        },
+        {
+          "titel" : "Reporteralarm",
+          "start" : 1386653,
+          "end" : 1837320
+        },
+        {
+          "titel" : "In der Höhle des Löwen",
+          "start" : 1837320,
+          "end" : 2409613
+        },
+        {
+          "titel" : "Roter Sand",
+          "start" : 2409613,
+          "end" : 2882827
+        },
+        {
+          "titel" : "Lautlos im Weltraum",
+          "start" : 2882827,
+          "end" : 3313200
+        },
+        {
+          "titel" : "Schritte auf dem Mars",
+          "start" : 3313200,
+          "end" : 3937813
+        }
+      ],
+      "musicBrainzID" : "tZWGl.BooJ65umHosGTpc_Q4iIw-"
+    }
+  ]
+}

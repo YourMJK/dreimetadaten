@@ -1,0 +1,141 @@
+{
+  "nummer" : 49,
+  "titel" : "Der singende Geist",
+  "autor" : "Boris Pfeiffer, Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Onkel Titus hat auf einer Auktion eine alte Standuhr ersteigert. Doch kaum steht diese auf dem Schrottplatz, sind auf einmal jede Menge Leute hinter ihr her. Welches Geheimnis versteckt sich in der Uhr? Und was weiß das rätselhafte Mädchen mit der Stimme, die Glas zerspringen lässt? Ein singender Geist führt die drei ??? Kids auf eine gefährliche Spur …",
+  "veröffentlichungsdatum" : "2016-03-04",
+  "kapitel" : [
+    {
+      "titel" : "Schwerstarbeit",
+      "start" : 0,
+      "end" : 561133
+    },
+    {
+      "titel" : "Meckertante",
+      "start" : 561133,
+      "end" : 1117693
+    },
+    {
+      "titel" : "Geisterstunde",
+      "start" : 1117693,
+      "end" : 1670307
+    },
+    {
+      "titel" : "Rätselfalle",
+      "start" : 1670307,
+      "end" : 2444813
+    },
+    {
+      "titel" : "Blechmonster",
+      "start" : 2444813,
+      "end" : 3016813
+    },
+    {
+      "titel" : "Unter Tage",
+      "start" : 3016813,
+      "end" : 3609053
+    },
+    {
+      "titel" : "Gespenstertricks",
+      "start" : 3609053,
+      "end" : 4109800
+    },
+    {
+      "titel" : "Firemans Erbe",
+      "start" : 4109800,
+      "end" : 4684987
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mrs. Wilmers",
+      "sprecher" : "Karin Buchholz"
+    },
+    {
+      "rolle" : "Elisabeth Fireman",
+      "sprecher" : "Mia Diekow"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/049/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/049/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-singende-geist-4",
+    "appleMusic" : "https://music.apple.com/de/album/1147619383"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Schwerstarbeit",
+          "start" : 0,
+          "end" : 561133
+        },
+        {
+          "titel" : "Meckertante",
+          "start" : 561133,
+          "end" : 1117693
+        },
+        {
+          "titel" : "Geisterstunde",
+          "start" : 1117693,
+          "end" : 1670307
+        },
+        {
+          "titel" : "Rätselfalle",
+          "start" : 1670307,
+          "end" : 2444813
+        },
+        {
+          "titel" : "Blechmonster",
+          "start" : 2444813,
+          "end" : 3016813
+        },
+        {
+          "titel" : "Unter Tage",
+          "start" : 3016813,
+          "end" : 3609053
+        },
+        {
+          "titel" : "Gespenstertricks",
+          "start" : 3609053,
+          "end" : 4109800
+        },
+        {
+          "titel" : "Firemans Erbe",
+          "start" : 4109800,
+          "end" : 4684987
+        }
+      ],
+      "musicBrainzID" : "cY0FPqNTn8Q9J_u5MZ8dOLG2768-"
+    }
+  ]
+}

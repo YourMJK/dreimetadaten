@@ -1,0 +1,163 @@
+{
+  "nummer" : 70,
+  "titel" : "Aufbruch ins All",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Justus, Peter und Bob freuen sich auf ein Inselabenteuer vor der Küste von Rocky Beach. Doch plötzlich taucht aus dem Wasser etwas Unheimliches auf. Ist eine Weltraumstation ins Meer gestürzt? Die drei Detektive ermitteln.",
+  "veröffentlichungsdatum" : "2019-05-31",
+  "kapitel" : [
+    {
+      "titel" : "Inselforscher",
+      "start" : 0,
+      "end" : 366960
+    },
+    {
+      "titel" : "Geisterschiff",
+      "start" : 366960,
+      "end" : 832480
+    },
+    {
+      "titel" : "Aquanauten",
+      "start" : 832480,
+      "end" : 1372320
+    },
+    {
+      "titel" : "Auf Tauchstation",
+      "start" : 1372320,
+      "end" : 1915707
+    },
+    {
+      "titel" : "Heimlich an Bord",
+      "start" : 1915707,
+      "end" : 2484107
+    },
+    {
+      "titel" : "Notkanal 16",
+      "start" : 2484107,
+      "end" : 3037907
+    },
+    {
+      "titel" : "Unterwasserjagd",
+      "start" : 3037907,
+      "end" : 3398547
+    },
+    {
+      "titel" : "Selbstzerstörung",
+      "start" : 3398547,
+      "end" : 3886947
+    },
+    {
+      "titel" : "Aufgeflogen",
+      "start" : 3886947,
+      "end" : 4260680
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Fischer",
+      "sprecher" : "Marko Bräutigam"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "John Miller",
+      "sprecher" : "Frank Kessler"
+    },
+    {
+      "rolle" : "Ringo",
+      "sprecher" : "Moritz Lindbergh"
+    },
+    {
+      "rolle" : "Jason",
+      "sprecher" : "Daniel Sellier"
+    },
+    {
+      "rolle" : "Fowler",
+      "sprecher" : "François Smesny"
+    },
+    {
+      "rolle" : "Dr. Tiggert",
+      "sprecher" : "Frank Röth"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/070/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/070/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/aufbruch-ins-all",
+    "appleMusic" : "https://music.apple.com/de/album/1458535921"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Inselforscher",
+          "start" : 0,
+          "end" : 366960
+        },
+        {
+          "titel" : "Geisterschiff",
+          "start" : 366960,
+          "end" : 832480
+        },
+        {
+          "titel" : "Aquanauten",
+          "start" : 832480,
+          "end" : 1372320
+        },
+        {
+          "titel" : "Auf Tauchstation",
+          "start" : 1372320,
+          "end" : 1915707
+        },
+        {
+          "titel" : "Heimlich an Bord",
+          "start" : 1915707,
+          "end" : 2484107
+        },
+        {
+          "titel" : "Notkanal 16",
+          "start" : 2484107,
+          "end" : 3037907
+        },
+        {
+          "titel" : "Unterwasserjagd",
+          "start" : 3037907,
+          "end" : 3398547
+        },
+        {
+          "titel" : "Selbstzerstörung",
+          "start" : 3398547,
+          "end" : 3886947
+        },
+        {
+          "titel" : "Aufgeflogen",
+          "start" : 3886947,
+          "end" : 4260680
+        }
+      ],
+      "musicBrainzID" : "agyCRnfFDI8.vGlqTZrBiSqTBpA-"
+    }
+  ]
+}

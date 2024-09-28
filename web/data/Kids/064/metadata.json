@@ -1,0 +1,151 @@
+{
+  "nummer" : 64,
+  "titel" : "In der Schatzhöhle",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Die drei ??? Kids haben einen Schnupperkurs im Höhlentauchen gewonnen. Doch ein Taucher ist unter falschen Namen angemeldet und entfernt sich heimlich von der Gruppe. Justus, Peter und Bob verfolgen ihn und entdecken eine Schatzhöhle!",
+  "veröffentlichungsdatum" : "2018-08-15",
+  "kapitel" : [
+    {
+      "titel" : "Hauptgewinn",
+      "start" : 0,
+      "end" : 402227
+    },
+    {
+      "titel" : "Höhlentauchen",
+      "start" : 402227,
+      "end" : 803613
+    },
+    {
+      "titel" : "Abgetaucht",
+      "start" : 803613,
+      "end" : 1267000
+    },
+    {
+      "titel" : "Geisterlicht",
+      "start" : 1267000,
+      "end" : 1675880
+    },
+    {
+      "titel" : "Schatztaucher",
+      "start" : 1675880,
+      "end" : 2076173
+    },
+    {
+      "titel" : "Polizeiarbeit",
+      "start" : 2076173,
+      "end" : 2562720
+    },
+    {
+      "titel" : "Phantombilder",
+      "start" : 2562720,
+      "end" : 3157173
+    },
+    {
+      "titel" : "Miese Erpresser",
+      "start" : 3157173,
+      "end" : 3652320
+    },
+    {
+      "titel" : "Geheimplan",
+      "start" : 3652320,
+      "end" : 4061907
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tim Miller",
+      "sprecher" : "Christian Stark"
+    },
+    {
+      "rolle" : "Clemens",
+      "sprecher" : "Otto Strecker"
+    },
+    {
+      "rolle" : "Big Digger",
+      "sprecher" : "Rainer Gerlach"
+    },
+    {
+      "rolle" : "Erika",
+      "sprecher" : "Eva Michaelis"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/064/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/064/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/in-der-schatzhohle",
+    "appleMusic" : "https://music.apple.com/de/album/1349263233"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Hauptgewinn",
+          "start" : 0,
+          "end" : 402227
+        },
+        {
+          "titel" : "Höhlentauchen",
+          "start" : 402227,
+          "end" : 803613
+        },
+        {
+          "titel" : "Abgetaucht",
+          "start" : 803613,
+          "end" : 1267000
+        },
+        {
+          "titel" : "Geisterlicht",
+          "start" : 1267000,
+          "end" : 1675880
+        },
+        {
+          "titel" : "Schatztaucher",
+          "start" : 1675880,
+          "end" : 2076173
+        },
+        {
+          "titel" : "Polizeiarbeit",
+          "start" : 2076173,
+          "end" : 2562720
+        },
+        {
+          "titel" : "Phantombilder",
+          "start" : 2562720,
+          "end" : 3157173
+        },
+        {
+          "titel" : "Miese Erpresser",
+          "start" : 3157173,
+          "end" : 3652320
+        },
+        {
+          "titel" : "Geheimplan",
+          "start" : 3652320,
+          "end" : 4061907
+        }
+      ],
+      "musicBrainzID" : "JSu8cajYympXdzihHsdo8bgKR8Y-"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "nummer" : 20,
+  "titel" : "Die Schmugglerinsel",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Onkel Titus hat eine ganze Insel geerbt. Natürlich lassen es sich die drei ??? Kids nicht nehmen, \"Magic Island\" zu erforschen. Doch anscheinend sind sie nicht allein auf der Insel. Sie finden rätselhafte Fußabdrücke und die Spur führt in eine geheimnisvolle Felsenhöhle. Das Abenteuer beginnt.",
+  "veröffentlichungsdatum" : "2011-03-04",
+  "kapitel" : [
+    {
+      "titel" : "Millionenerbe",
+      "start" : 0,
+      "end" : 492907
+    },
+    {
+      "titel" : "Magic Island",
+      "start" : 492907,
+      "end" : 1012120
+    },
+    {
+      "titel" : "Robinsons Dschungel",
+      "start" : 1012120,
+      "end" : 1501960
+    },
+    {
+      "titel" : "Hotel Leuchtturm",
+      "start" : 1501960,
+      "end" : 2116720
+    },
+    {
+      "titel" : "Containerspiele",
+      "start" : 2116720,
+      "end" : 2767880
+    },
+    {
+      "titel" : "Blinde Passagiere",
+      "start" : 2767880,
+      "end" : 3301067
+    },
+    {
+      "titel" : "Schmugglertricks",
+      "start" : 3301067,
+      "end" : 3773307
+    },
+    {
+      "titel" : "Riesenrutsche",
+      "start" : 3773307,
+      "end" : 4200987
+    },
+    {
+      "titel" : "SOS",
+      "start" : 4200987,
+      "end" : 4702987
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Sekretärin",
+      "sprecher" : "Kristine Ehlers"
+    },
+    {
+      "rolle" : "Notar Chandler",
+      "sprecher" : "Christian Melchert"
+    },
+    {
+      "rolle" : "Kapitän Dexter",
+      "sprecher" : "Manfred Reddemann"
+    },
+    {
+      "rolle" : "Commander",
+      "sprecher" : "Gustav-Adolph Artz"
+    },
+    {
+      "rolle" : "Rick",
+      "sprecher" : "Christian Stark"
+    },
+    {
+      "rolle" : "Kalknase",
+      "sprecher" : "Rasmus Borowski"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/020/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/020/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-schmugglerinsel-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092527789"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Millionenerbe",
+          "start" : 0,
+          "end" : 492907
+        },
+        {
+          "titel" : "Magic Island",
+          "start" : 492907,
+          "end" : 1012120
+        },
+        {
+          "titel" : "Robinsons Dschungel",
+          "start" : 1012120,
+          "end" : 1501960
+        },
+        {
+          "titel" : "Hotel Leuchtturm",
+          "start" : 1501960,
+          "end" : 2116720
+        },
+        {
+          "titel" : "Containerspiele",
+          "start" : 2116720,
+          "end" : 2767880
+        },
+        {
+          "titel" : "Blinde Passagiere",
+          "start" : 2767880,
+          "end" : 3301067
+        },
+        {
+          "titel" : "Schmugglertricks",
+          "start" : 3301067,
+          "end" : 3773307
+        },
+        {
+          "titel" : "Riesenrutsche",
+          "start" : 3773307,
+          "end" : 4200987
+        },
+        {
+          "titel" : "SOS",
+          "start" : 4200987,
+          "end" : 4702987
+        }
+      ],
+      "musicBrainzID" : "5TNRhHd0ygmBQ24G6j8rncE.lEg-"
+    }
+  ]
+}

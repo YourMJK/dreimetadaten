@@ -1,0 +1,171 @@
+{
+  "nummer" : 22,
+  "titel" : "Einarmige Banditen",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Die drei ??? Kids können es kaum glauben: In Rocky Beach finden verbotene Glücksspiele statt. Selbst Onkel Titus versucht sich an den bunten Automaten – den \"Einarmigen Banditen\". Doch als Justus, Peter und Bob die Ermittlungen aufnehmen, wird?s gefährlich. Anscheinend mögen es einige dunkle Gestalten nicht, wenn sie bei ihren Geschäften gestört werden.",
+  "veröffentlichungsdatum" : "2011-08-19",
+  "kapitel" : [
+    {
+      "titel" : "Jackpot",
+      "start" : 0,
+      "end" : 645813
+    },
+    {
+      "titel" : "Jimmys Garage",
+      "start" : 645813,
+      "end" : 1162213
+    },
+    {
+      "titel" : "Polizeikontrolle",
+      "start" : 1162213,
+      "end" : 1631187
+    },
+    {
+      "titel" : "Calimbra",
+      "start" : 1631187,
+      "end" : 2082013
+    },
+    {
+      "titel" : "Nichts geht mehr",
+      "start" : 2082013,
+      "end" : 2566107
+    },
+    {
+      "titel" : "Hotel Redrock",
+      "start" : 2566107,
+      "end" : 3068627
+    },
+    {
+      "titel" : "Norris Bar",
+      "start" : 3068627,
+      "end" : 3535440
+    },
+    {
+      "titel" : "Schmiergeld",
+      "start" : 3535440,
+      "end" : 4143613
+    },
+    {
+      "titel" : "Zahltag",
+      "start" : 4143613,
+      "end" : 4520000
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Jimmy",
+      "sprecher" : "Winfried Glatzeder"
+    },
+    {
+      "rolle" : "Ben",
+      "sprecher" : "Dieter B. Gerlach"
+    },
+    {
+      "rolle" : "Dan",
+      "sprecher" : "Peter Kirchberger"
+    },
+    {
+      "rolle" : "Ellen Snider",
+      "sprecher" : "Ines Rudolph-Bräuer"
+    },
+    {
+      "rolle" : "Sergeant Raider",
+      "sprecher" : "Kai Bronisch"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Bud Norris",
+      "sprecher" : "Tobias Brecklinghaus"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/022/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/022/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/einarmige-banditen-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092521920"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Jackpot",
+          "start" : 0,
+          "end" : 645813
+        },
+        {
+          "titel" : "Jimmys Garage",
+          "start" : 645813,
+          "end" : 1162213
+        },
+        {
+          "titel" : "Polizeikontrolle",
+          "start" : 1162213,
+          "end" : 1631187
+        },
+        {
+          "titel" : "Calimbra",
+          "start" : 1631187,
+          "end" : 2082013
+        },
+        {
+          "titel" : "Nichts geht mehr",
+          "start" : 2082013,
+          "end" : 2566107
+        },
+        {
+          "titel" : "Hotel Redrock",
+          "start" : 2566107,
+          "end" : 3068627
+        },
+        {
+          "titel" : "Norris Bar",
+          "start" : 3068627,
+          "end" : 3535440
+        },
+        {
+          "titel" : "Schmiergeld",
+          "start" : 3535440,
+          "end" : 4143613
+        },
+        {
+          "titel" : "Zahltag",
+          "start" : 4143613,
+          "end" : 4520000
+        }
+      ],
+      "musicBrainzID" : "4dCBdNfj0AG3UmOA6CrSJZfE4PA-"
+    }
+  ]
+}

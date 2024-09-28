@@ -1,0 +1,167 @@
+{
+  "nummer" : 37,
+  "titel" : "Der Fluch der Indianer",
+  "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Die Bewohner von Rocky Beach sind geschockt: Ein fremder Indianer prophezeit ihnen großes Unglück. Doch was hat der merkwürdige Fluch zu bedeuten? Welches Rätsel steckt hinter dem Erscheinen des Mannes? Ein verzwickter Fall für die drei ??? Kids.",
+  "veröffentlichungsdatum" : "2014-01-17",
+  "kapitel" : [
+    {
+      "titel" : "Indianerbesuch",
+      "start" : 0,
+      "end" : 483587
+    },
+    {
+      "titel" : "Alles verflucht",
+      "start" : 483587,
+      "end" : 1067960
+    },
+    {
+      "titel" : "Mann über Bord!",
+      "start" : 1067960,
+      "end" : 1500360
+    },
+    {
+      "titel" : "Nähstube",
+      "start" : 1500360,
+      "end" : 1956760
+    },
+    {
+      "titel" : "Dunkle Schatten",
+      "start" : 1956760,
+      "end" : 2468240
+    },
+    {
+      "titel" : "Puzzlearbeit",
+      "start" : 2468240,
+      "end" : 3026253
+    },
+    {
+      "titel" : "Das rote Auge",
+      "start" : 3026253,
+      "end" : 3467373
+    },
+    {
+      "titel" : "Falsche Schlange",
+      "start" : 3467373,
+      "end" : 3878400
+    },
+    {
+      "titel" : "Alte Verträge",
+      "start" : 3878400,
+      "end" : 4370280
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Ron Hill",
+      "sprecher" : "Abelardo Decamilli"
+    },
+    {
+      "rolle" : "Dickens",
+      "sprecher" : "Tom Steinbrecher"
+    },
+    {
+      "rolle" : "Osterreicher",
+      "sprecher" : "Guido Zimmermann"
+    },
+    {
+      "rolle" : "Easterman",
+      "sprecher" : "Stefan Müller-Ruppert"
+    },
+    {
+      "rolle" : "Passant",
+      "sprecher" : "Stephan Baumecker"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/037/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/037/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-fluch-der-indianer-1",
+    "appleMusic" : "https://music.apple.com/de/album/1112989580"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Indianerbesuch",
+          "start" : 0,
+          "end" : 483587
+        },
+        {
+          "titel" : "Alles verflucht",
+          "start" : 483587,
+          "end" : 1067960
+        },
+        {
+          "titel" : "Mann über Bord!",
+          "start" : 1067960,
+          "end" : 1500360
+        },
+        {
+          "titel" : "Nähstube",
+          "start" : 1500360,
+          "end" : 1956760
+        },
+        {
+          "titel" : "Dunkle Schatten",
+          "start" : 1956760,
+          "end" : 2468240
+        },
+        {
+          "titel" : "Puzzlearbeit",
+          "start" : 2468240,
+          "end" : 3026253
+        },
+        {
+          "titel" : "Das rote Auge",
+          "start" : 3026253,
+          "end" : 3467373
+        },
+        {
+          "titel" : "Falsche Schlange",
+          "start" : 3467373,
+          "end" : 3878400
+        },
+        {
+          "titel" : "Alte Verträge",
+          "start" : 3878400,
+          "end" : 4370280
+        }
+      ],
+      "musicBrainzID" : "wuwqDigwWJtsYRiY.SrK0dkLdL8-"
+    }
+  ]
+}

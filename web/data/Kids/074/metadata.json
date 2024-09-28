@@ -1,0 +1,157 @@
+{
+  "nummer" : 74,
+  "titel" : "Das Schienen-Monster",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Justus, Peter und Bob dürfen in einem supermodernen Zug mitreisen. Während sie die coole Technik testen, fällt plötzlich im gesamten Zug der Strom aus. Wer steckt dahinter? Die drei Detektive ermitteln in einem neuen Fall!",
+  "veröffentlichungsdatum" : "2020-02-14",
+  "kapitel" : [
+    {
+      "titel" : "Verschnupft",
+      "start" : 0,
+      "end" : 624293
+    },
+    {
+      "titel" : "Lindwurm",
+      "start" : 624293,
+      "end" : 1321627
+    },
+    {
+      "titel" : "Dienobot",
+      "start" : 1321627,
+      "end" : 1718920
+    },
+    {
+      "titel" : "Moderne Zeiten",
+      "start" : 1718920,
+      "end" : 2243187
+    },
+    {
+      "titel" : "Sesam, öffne dich!",
+      "start" : 2243187,
+      "end" : 2702667
+    },
+    {
+      "titel" : "Cobra-Alarm",
+      "start" : 2702667,
+      "end" : 3155453
+    },
+    {
+      "titel" : "Volltreffer",
+      "start" : 3155453,
+      "end" : 3640360
+    },
+    {
+      "titel" : "Mausefalle",
+      "start" : 3640360,
+      "end" : 4047480
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Mac Stew",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Mr. Borgs",
+      "sprecher" : "Gregor Höppner"
+    },
+    {
+      "rolle" : "Dienobot",
+      "sprecher" : "Sebastian Walch"
+    },
+    {
+      "rolle" : "Operator",
+      "sprecher" : "Lisa Maria Mino"
+    },
+    {
+      "rolle" : "Cobra 1",
+      "sprecher" : "Andreas Ersson"
+    },
+    {
+      "rolle" : "Cobra 2",
+      "sprecher" : "Thomas Güthaus"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/074/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/074/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/das-schienen-monster",
+    "appleMusic" : "https://music.apple.com/de/album/1488586881"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Verschnupft",
+          "start" : 0,
+          "end" : 624293
+        },
+        {
+          "titel" : "Lindwurm",
+          "start" : 624293,
+          "end" : 1321627
+        },
+        {
+          "titel" : "Dienobot",
+          "start" : 1321627,
+          "end" : 1718920
+        },
+        {
+          "titel" : "Moderne Zeiten",
+          "start" : 1718920,
+          "end" : 2243187
+        },
+        {
+          "titel" : "Sesam, öffne dich!",
+          "start" : 2243187,
+          "end" : 2702667
+        },
+        {
+          "titel" : "Cobra-Alarm",
+          "start" : 2702667,
+          "end" : 3155453
+        },
+        {
+          "titel" : "Volltreffer",
+          "start" : 3155453,
+          "end" : 3640360
+        },
+        {
+          "titel" : "Mausefalle",
+          "start" : 3640360,
+          "end" : 4047480
+        }
+      ],
+      "musicBrainzID" : "yVe0CgNe7stVsu2yO4cFTkMrlxQ-"
+    }
+  ]
+}

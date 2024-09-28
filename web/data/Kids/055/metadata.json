@@ -1,0 +1,155 @@
+{
+  "nummer" : 55,
+  "titel" : "Der schwarze Joker",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Justus, Bob und Peter sind verwirrt. Sollte wirklich ihr Erzfeind Skinny Norris hinter den fiesen Streichen stecken, die eine unheimliche Gestalt den Bewohnern von Rocky Beach spielt? Der Unbekannte nennt sich \"Der schwarze Joker\" und macht selbst vor Tante Mathildas frische Wäsche nicht halt. Also nehmen die drei ??? Kids die Verfolgung auf – doch mit dem schwarzen Joker ist nicht zu spaßen …",
+  "veröffentlichungsdatum" : "2017-01-20",
+  "kapitel" : [
+    {
+      "titel" : "Lieferdienst",
+      "start" : 0,
+      "end" : 711867
+    },
+    {
+      "titel" : "Scherzkekse",
+      "start" : 711867,
+      "end" : 1325840
+    },
+    {
+      "titel" : "Erzfeinde",
+      "start" : 1325840,
+      "end" : 1729360
+    },
+    {
+      "titel" : "Poltergeister",
+      "start" : 1729360,
+      "end" : 2144920
+    },
+    {
+      "titel" : "Knallfroschalarm",
+      "start" : 2144920,
+      "end" : 2603307
+    },
+    {
+      "titel" : "Fiese Streiche",
+      "start" : 2603307,
+      "end" : 3109453
+    },
+    {
+      "titel" : "Der schwarze Joker",
+      "start" : 3109453,
+      "end" : 3836413
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mrs. Miller",
+      "sprecher" : "Astrid Schulz"
+    },
+    {
+      "rolle" : "Henry",
+      "sprecher" : "Florian Wein"
+    },
+    {
+      "rolle" : "Weissenegger",
+      "sprecher" : "Bodo Henkel"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Mrs. Bennet",
+      "sprecher" : "Katherina Wolter"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Mr. Reed",
+      "sprecher" : "Fabian Monasterios"
+    },
+    {
+      "rolle" : "Mr. Osborn",
+      "sprecher" : "Dirk Hardegen"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Robert Missler"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/055/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/055/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-schwarze-joker1",
+    "appleMusic" : "https://music.apple.com/de/album/1176893386"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Lieferdienst",
+          "start" : 0,
+          "end" : 711867
+        },
+        {
+          "titel" : "Scherzkekse",
+          "start" : 711867,
+          "end" : 1325840
+        },
+        {
+          "titel" : "Erzfeinde",
+          "start" : 1325840,
+          "end" : 1729360
+        },
+        {
+          "titel" : "Poltergeister",
+          "start" : 1729360,
+          "end" : 2144920
+        },
+        {
+          "titel" : "Knallfroschalarm",
+          "start" : 2144920,
+          "end" : 2603307
+        },
+        {
+          "titel" : "Fiese Streiche",
+          "start" : 2603307,
+          "end" : 3109453
+        },
+        {
+          "titel" : "Der schwarze Joker",
+          "start" : 3109453,
+          "end" : 3836413
+        }
+      ],
+      "musicBrainzID" : "KazYj8EcS4zX924ewZUNNf1hnWo-"
+    }
+  ]
+}

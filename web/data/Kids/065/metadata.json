@@ -1,0 +1,179 @@
+{
+  "nummer" : 65,
+  "titel" : "Mission Goldhund",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein junger Hund taucht bei den drei ??? Kids auf und weicht ihnen nicht mehr von der Seite. Was will er von ihnen? Sein Halsband ist aus echtem Gold und schon bald geraten Justus, Peter und Bob in eine gefährliche Verfolgungsjagd …",
+  "veröffentlichungsdatum" : "2018-07-27",
+  "kapitel" : [
+    {
+      "titel" : "Endlich Ferien!",
+      "start" : 0,
+      "end" : 464413
+    },
+    {
+      "titel" : "Auf der Flucht",
+      "start" : 464413,
+      "end" : 973453
+    },
+    {
+      "titel" : "Beim Tierarzt",
+      "start" : 973453,
+      "end" : 1496333
+    },
+    {
+      "titel" : "Eiszeit",
+      "start" : 1496333,
+      "end" : 1949360
+    },
+    {
+      "titel" : "Bootsfahrt",
+      "start" : 1949360,
+      "end" : 2459387
+    },
+    {
+      "titel" : "Miss Medusa",
+      "start" : 2459387,
+      "end" : 3057280
+    },
+    {
+      "titel" : "Hollywood",
+      "start" : 3057280,
+      "end" : 3468333
+    },
+    {
+      "titel" : "Applaus, Applaus!",
+      "start" : 3468333,
+      "end" : 3867280
+    },
+    {
+      "titel" : "Spezialeinheit",
+      "start" : 3867280,
+      "end" : 4344493
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Radiomoderator",
+      "sprecher" : "Christian Blecken"
+    },
+    {
+      "rolle" : "Jim",
+      "sprecher" : "Thomas Arnold"
+    },
+    {
+      "rolle" : "John",
+      "sprecher" : "Sven Brieger"
+    },
+    {
+      "rolle" : "Sergeant Bofinger",
+      "sprecher" : "Michael Lott"
+    },
+    {
+      "rolle" : "Doktor Marx",
+      "sprecher" : "Karim Khawatmi"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Emily Carter",
+      "sprecher" : "Lara Trautmann"
+    },
+    {
+      "rolle" : "Miss Medusa",
+      "sprecher" : "Jana Kozewa"
+    },
+    {
+      "rolle" : "Pressefrau",
+      "sprecher" : "Tina Haseney"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/065/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/065/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/mission-goldhund",
+    "appleMusic" : "https://music.apple.com/de/album/1373160803"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Endlich Ferien!",
+          "start" : 0,
+          "end" : 464413
+        },
+        {
+          "titel" : "Auf der Flucht",
+          "start" : 464413,
+          "end" : 973453
+        },
+        {
+          "titel" : "Beim Tierarzt",
+          "start" : 973453,
+          "end" : 1496333
+        },
+        {
+          "titel" : "Eiszeit",
+          "start" : 1496333,
+          "end" : 1949360
+        },
+        {
+          "titel" : "Bootsfahrt",
+          "start" : 1949360,
+          "end" : 2459387
+        },
+        {
+          "titel" : "Miss Medusa",
+          "start" : 2459387,
+          "end" : 3057280
+        },
+        {
+          "titel" : "Hollywood",
+          "start" : 3057280,
+          "end" : 3468333
+        },
+        {
+          "titel" : "Applaus, Applaus!",
+          "start" : 3468333,
+          "end" : 3867280
+        },
+        {
+          "titel" : "Spezialeinheit",
+          "start" : 3867280,
+          "end" : 4344493
+        }
+      ],
+      "musicBrainzID" : "jEWJHFo_j3zeKIB1xlBv89GyRXM-"
+    }
+  ]
+}

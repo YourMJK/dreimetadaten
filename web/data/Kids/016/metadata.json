@@ -1,0 +1,191 @@
+{
+  "nummer" : 16,
+  "titel" : "Der magische Brunnen",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Phantastische Dinge geschehen plötzlich in Rocky Beach: Der Brunnen füllt sich mit Münzen, Schneeberge bei 30 Grad und auf dem Jahrmarkt erhält jeder den Hauptgewinn. Doch so ganz trauen die drei ??? Kids dem Schlaraffenland nicht und sie schöpfen einen Verdacht: Alles was geschah, stand in einem bekannten Kinderbuch. Nur das Ende der Geschichte muss neu geschrieben werden.",
+  "veröffentlichungsdatum" : "2010-08-20",
+  "kapitel" : [
+    {
+      "titel" : "Geldregen",
+      "start" : 0,
+      "end" : 346333
+    },
+    {
+      "titel" : "Penny-Jagd",
+      "start" : 346333,
+      "end" : 780947
+    },
+    {
+      "titel" : "Goldene Zeiten",
+      "start" : 780947,
+      "end" : 1345973
+    },
+    {
+      "titel" : "Schlaraffenland",
+      "start" : 1345973,
+      "end" : 1691413
+    },
+    {
+      "titel" : "Juwelenraub",
+      "start" : 1691413,
+      "end" : 2366587
+    },
+    {
+      "titel" : "Internatsgeschichten",
+      "start" : 2366587,
+      "end" : 2984200
+    },
+    {
+      "titel" : "Nachtausflug",
+      "start" : 2984200,
+      "end" : 3439533
+    },
+    {
+      "titel" : "Schabernack",
+      "start" : 3439533,
+      "end" : 3949827
+    },
+    {
+      "titel" : "Künstlerpech",
+      "start" : 3949827,
+      "end" : 4354907
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Michael Habeck"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Jerry Hey",
+      "sprecher" : "Michael Krüger"
+    },
+    {
+      "rolle" : "Pinkerton",
+      "sprecher" : "Rudolf Danielewicz"
+    },
+    {
+      "rolle" : "Zentrale",
+      "sprecher" : "Isabel García"
+    },
+    {
+      "rolle" : "Sergeant Jeffers",
+      "sprecher" : "Jens Wendland"
+    },
+    {
+      "rolle" : "Woodcraft",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Taxifahrer",
+      "sprecher" : "Wolf-Joshua Peters"
+    },
+    {
+      "rolle" : "Rosalie Greenfield",
+      "sprecher" : "Aranka Mamero-Jaenke"
+    },
+    {
+      "rolle" : "Arthur Greenfield",
+      "sprecher" : "Eckart Dux"
+    },
+    {
+      "rolle" : "Bradshore",
+      "sprecher" : "Stephan Schwartz"
+    },
+    {
+      "rolle" : "Christopher King",
+      "sprecher" : "Peter Weis"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/016/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/016/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-magische-brunnen-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092521849"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Geldregen",
+          "start" : 0,
+          "end" : 346333
+        },
+        {
+          "titel" : "Penny-Jagd",
+          "start" : 346333,
+          "end" : 780947
+        },
+        {
+          "titel" : "Goldene Zeiten",
+          "start" : 780947,
+          "end" : 1345973
+        },
+        {
+          "titel" : "Schlaraffenland",
+          "start" : 1345973,
+          "end" : 1691413
+        },
+        {
+          "titel" : "Juwelenraub",
+          "start" : 1691413,
+          "end" : 2366587
+        },
+        {
+          "titel" : "Internatsgeschichten",
+          "start" : 2366587,
+          "end" : 2984200
+        },
+        {
+          "titel" : "Nachtausflug",
+          "start" : 2984200,
+          "end" : 3439533
+        },
+        {
+          "titel" : "Schabernack",
+          "start" : 3439533,
+          "end" : 3949827
+        },
+        {
+          "titel" : "Künstlerpech",
+          "start" : 3949827,
+          "end" : 4354907
+        }
+      ],
+      "musicBrainzID" : "KJrEZqLAhtK8_XNGqTdAlL3xQcg-"
+    }
+  ]
+}

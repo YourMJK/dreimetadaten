@@ -1,0 +1,163 @@
+{
+  "nummer" : 78,
+  "titel" : "Schrottplatz in Gefahr",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Der Schrottplatz von Onkel Titus brennt! Ausgerechnet vor der großen \"20-Jahre-Jubiläumsfeier\". Die drei ??? Kids sind ganz sicher: \ndas kann kein Zufall sein … Rätselhafte Spuren führen Justus, Peter und Bob hinaus aus Rocky Beach und weit zurück in die Vergangenheit …",
+  "veröffentlichungsdatum" : "2020-09-25",
+  "kapitel" : [
+    {
+      "titel" : "Jubiläum: 20 Jahre!",
+      "start" : 0,
+      "end" : 354733
+    },
+    {
+      "titel" : "Feueralarm",
+      "start" : 354733,
+      "end" : 814627
+    },
+    {
+      "titel" : "Brandforscher",
+      "start" : 814627,
+      "end" : 1298947
+    },
+    {
+      "titel" : "Geisterstadt",
+      "start" : 1298947,
+      "end" : 2126933
+    },
+    {
+      "titel" : "Mono See",
+      "start" : 2126933,
+      "end" : 2574013
+    },
+    {
+      "titel" : "Minenarbeiter",
+      "start" : 2574013,
+      "end" : 3000960
+    },
+    {
+      "titel" : "Kellergeister",
+      "start" : 3000960,
+      "end" : 3411333
+    },
+    {
+      "titel" : "Schatzjäger",
+      "start" : 3411333,
+      "end" : 3748413
+    },
+    {
+      "titel" : "Goldregen",
+      "start" : 3748413,
+      "end" : 4142120
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Rinker",
+      "sprecher" : "Manfred Lehmann"
+    },
+    {
+      "rolle" : "Marvin",
+      "sprecher" : "Sebastian Führ"
+    },
+    {
+      "rolle" : "Eva",
+      "sprecher" : "Christine Schaller"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Ole Jacobsen"
+    },
+    {
+      "rolle" : "Santiago",
+      "sprecher" : "Douglas Welbat"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/078/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/078/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/schrottplatz-in-gefahr-1",
+    "appleMusic" : "https://music.apple.com/de/album/1524265516"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Jubiläum: 20 Jahre!",
+          "start" : 0,
+          "end" : 354733
+        },
+        {
+          "titel" : "Feueralarm",
+          "start" : 354733,
+          "end" : 814627
+        },
+        {
+          "titel" : "Brandforscher",
+          "start" : 814627,
+          "end" : 1298947
+        },
+        {
+          "titel" : "Geisterstadt",
+          "start" : 1298947,
+          "end" : 2126933
+        },
+        {
+          "titel" : "Mono See",
+          "start" : 2126933,
+          "end" : 2574013
+        },
+        {
+          "titel" : "Minenarbeiter",
+          "start" : 2574013,
+          "end" : 3000960
+        },
+        {
+          "titel" : "Kellergeister",
+          "start" : 3000960,
+          "end" : 3411333
+        },
+        {
+          "titel" : "Schatzjäger",
+          "start" : 3411333,
+          "end" : 3748413
+        },
+        {
+          "titel" : "Goldregen",
+          "start" : 3748413,
+          "end" : 4142120
+        }
+      ],
+      "musicBrainzID" : "Qw23.lhxzVrwNsEo36scrvzjtNg-"
+    }
+  ]
+}

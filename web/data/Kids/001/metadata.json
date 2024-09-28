@@ -1,0 +1,175 @@
+{
+  "nummer" : 1,
+  "titel" : "Panik im Paradies",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Bereits in der ersten Folge machen die drei berühmten Detektive ihrem Namen alle Ehre. Eigentlich haben Justus, Peter und Bob ja gerade Ferien. Doch dann treffen sie den kuriosen Kapitän Larson, der einen kleinen Privatzoo besitzt. Als plötzlich alle seine Tiere krank werden und keine Besucher mehr kommen, wird die Neugier der Fragezeichen geweckt. Schon bald ahnen sie, dass da jemand ein düsteres Geheimnis hütet. Es riecht gewaltig nach Abenteuer!!!",
+  "veröffentlichungsdatum" : "2009-03-13",
+  "kapitel" : [
+    {
+      "titel" : "Nichts geht ohne Tante Mathilda",
+      "start" : 0,
+      "end" : 351520
+    },
+    {
+      "titel" : "Kannibalen in Sicht",
+      "start" : 351520,
+      "end" : 774320
+    },
+    {
+      "titel" : "Larsons Paradies",
+      "start" : 774320,
+      "end" : 1151960
+    },
+    {
+      "titel" : "Affenjagd",
+      "start" : 1151960,
+      "end" : 1676533
+    },
+    {
+      "titel" : "Tränen unter Palmen",
+      "start" : 1676533,
+      "end" : 2075173
+    },
+    {
+      "titel" : "Schatzkarten und UFOs",
+      "start" : 2075173,
+      "end" : 2346280
+    },
+    {
+      "titel" : "Alarmstufe rot!",
+      "start" : 2346280,
+      "end" : 2851907
+    },
+    {
+      "titel" : "Schreie in der Nacht",
+      "start" : 2851907,
+      "end" : 3184600
+    },
+    {
+      "titel" : "Dschungelfieber",
+      "start" : 3184600,
+      "end" : 3612680
+    },
+    {
+      "titel" : "Der rote Skorpion",
+      "start" : 3612680,
+      "end" : 3916853
+    },
+    {
+      "titel" : "Schlangenzauber",
+      "start" : 3916853,
+      "end" : 4281040
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Doktor Dreyfuss",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Erik Larson",
+      "sprecher" : "Jürgen Kluckert"
+    },
+    {
+      "rolle" : "Gerald Hauser",
+      "sprecher" : "Wolfgang Kaven"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/001/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/001/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/panik-im-paradies-3",
+    "appleMusic" : "https://music.apple.com/de/album/1092525638"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Nichts geht ohne Tante Mathilda",
+          "start" : 0,
+          "end" : 351520
+        },
+        {
+          "titel" : "Kannibalen in Sicht",
+          "start" : 351520,
+          "end" : 774320
+        },
+        {
+          "titel" : "Larsons Paradies",
+          "start" : 774320,
+          "end" : 1151960
+        },
+        {
+          "titel" : "Affenjagd",
+          "start" : 1151960,
+          "end" : 1676533
+        },
+        {
+          "titel" : "Tränen unter Palmen",
+          "start" : 1676533,
+          "end" : 2075173
+        },
+        {
+          "titel" : "Schatzkarten und UFOs",
+          "start" : 2075173,
+          "end" : 2346280
+        },
+        {
+          "titel" : "Alarmstufe rot!",
+          "start" : 2346280,
+          "end" : 2851907
+        },
+        {
+          "titel" : "Schreie in der Nacht",
+          "start" : 2851907,
+          "end" : 3184600
+        },
+        {
+          "titel" : "Dschungelfieber",
+          "start" : 3184600,
+          "end" : 3612680
+        },
+        {
+          "titel" : "Der rote Skorpion",
+          "start" : 3612680,
+          "end" : 3916853
+        },
+        {
+          "titel" : "Schlangenzauber",
+          "start" : 3916853,
+          "end" : 4281040
+        }
+      ],
+      "musicBrainzID" : "FGViNDQCxW6rnD7N7xCm0FDGM6c-"
+    }
+  ]
+}

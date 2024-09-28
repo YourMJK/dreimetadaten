@@ -1,0 +1,153 @@
+{
+  "nummer" : 40,
+  "titel" : "Brennendes Eis",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Was für ein Glück! Die drei ??? Kids haben einen Urlaub in der neu gebauten Pazifik Skiarena gewonnen. Aber bei der Eröffnung der überdachten Skipiste geht Einiges schief, denn der Schnee schmilzt plötzlich weg. Nachschub gibt es in den Bergen – doch dort machen sie eine ungeheure Entdeckung.",
+  "veröffentlichungsdatum" : "2014-08-29",
+  "kapitel" : [
+    {
+      "titel" : "Hauptgewinn",
+      "start" : 0,
+      "end" : 410187
+    },
+    {
+      "titel" : "Skiurlaub",
+      "start" : 410187,
+      "end" : 1084893
+    },
+    {
+      "titel" : "Eiskalte Nachtwächter",
+      "start" : 1084893,
+      "end" : 1811733
+    },
+    {
+      "titel" : "Brennendes Eis",
+      "start" : 1811733,
+      "end" : 2299547
+    },
+    {
+      "titel" : "Schlittenrennen",
+      "start" : 2299547,
+      "end" : 2798107
+    },
+    {
+      "titel" : "Blaue Kaiserin",
+      "start" : 2798107,
+      "end" : 3567080
+    },
+    {
+      "titel" : "Schussfahrt",
+      "start" : 3567080,
+      "end" : 4149573
+    },
+    {
+      "titel" : "Feuerwerk",
+      "start" : 4149573,
+      "end" : 4788680
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Arnold Pichler",
+      "sprecher" : "Markus Sulzbacher"
+    },
+    {
+      "rolle" : "LKW-Fahrer",
+      "sprecher" : "Ansgar Döbertin"
+    },
+    {
+      "rolle" : "Jack Coburn",
+      "sprecher" : "Erich Räuker"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Jim Dockers",
+      "sprecher" : "Stefan Müller-Ruppert"
+    },
+    {
+      "rolle" : "Tiffman",
+      "sprecher" : "Stephan Baumecker"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/040/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/040/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/brennendes-eis",
+    "appleMusic" : "https://music.apple.com/de/album/1115104534"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Hauptgewinn",
+          "start" : 0,
+          "end" : 410187
+        },
+        {
+          "titel" : "Skiurlaub",
+          "start" : 410187,
+          "end" : 1084893
+        },
+        {
+          "titel" : "Eiskalte Nachtwächter",
+          "start" : 1084893,
+          "end" : 1811733
+        },
+        {
+          "titel" : "Brennendes Eis",
+          "start" : 1811733,
+          "end" : 2299547
+        },
+        {
+          "titel" : "Schlittenrennen",
+          "start" : 2299547,
+          "end" : 2798107
+        },
+        {
+          "titel" : "Blaue Kaiserin",
+          "start" : 2798107,
+          "end" : 3567080
+        },
+        {
+          "titel" : "Schussfahrt",
+          "start" : 3567080,
+          "end" : 4149573
+        },
+        {
+          "titel" : "Feuerwerk",
+          "start" : 4149573,
+          "end" : 4788680
+        }
+      ],
+      "musicBrainzID" : "fZbTY2j8IrY6_eeVMrwBzAjSF9Q-"
+    }
+  ]
+}

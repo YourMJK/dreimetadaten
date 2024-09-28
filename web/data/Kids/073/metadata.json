@@ -1,0 +1,169 @@
+{
+  "nummer" : 73,
+  "titel" : "Surfstrand in Gefahr",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Gibt es wirklich Einhörner? Ein alter Surfer behauptet, dass er das sagenumwobene Tier tatsächlich gesehen hat. Natürlich will ganz Rocky Beach das Wunderwesen mit dem magischen Horn hautnah erleben. Justus, Peter und Bob gehen der Sache auf den Grund.",
+  "veröffentlichungsdatum" : "2019-11-15",
+  "kapitel" : [
+    {
+      "titel" : "Ferienzeit",
+      "start" : 0,
+      "end" : 541200
+    },
+    {
+      "titel" : "Dunkle Wolken",
+      "start" : 541200,
+      "end" : 1019347
+    },
+    {
+      "titel" : "Rätselhafte Spuren",
+      "start" : 1019347,
+      "end" : 1562560
+    },
+    {
+      "titel" : "Eispause",
+      "start" : 1562560,
+      "end" : 2195787
+    },
+    {
+      "titel" : "Perfekte Welle",
+      "start" : 2195787,
+      "end" : 2664600
+    },
+    {
+      "titel" : "Magisches Einhorn",
+      "start" : 2664600,
+      "end" : 3430827
+    },
+    {
+      "titel" : "Verwandlungszauber",
+      "start" : 3430827,
+      "end" : 4042507
+    },
+    {
+      "titel" : "Shaka!",
+      "start" : 4042507,
+      "end" : 4677960
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Andy",
+      "sprecher" : "Martin Keßler"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Jayden",
+      "sprecher" : "Daniel Sellier"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Marc Snyder",
+      "sprecher" : "Moritz Lindbergh"
+    },
+    {
+      "rolle" : "Mr. Pinkert",
+      "sprecher" : "Peter Nottmeier"
+    },
+    {
+      "rolle" : "Mrs. Higgers",
+      "sprecher" : "Karin Grüger"
+    },
+    {
+      "rolle" : "Olivia",
+      "sprecher" : "Cathlen Gawlich"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Reporterin",
+      "sprecher" : "Sabine König"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/073/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/073/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/Surfstrand-in-Gefahr",
+    "appleMusic" : "https://music.apple.com/de/album/1479539513"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ferienzeit",
+          "start" : 0,
+          "end" : 541200
+        },
+        {
+          "titel" : "Dunkle Wolken",
+          "start" : 541200,
+          "end" : 1019347
+        },
+        {
+          "titel" : "Rätselhafte Spuren",
+          "start" : 1019347,
+          "end" : 1562560
+        },
+        {
+          "titel" : "Eispause",
+          "start" : 1562560,
+          "end" : 2195787
+        },
+        {
+          "titel" : "Perfekte Welle",
+          "start" : 2195787,
+          "end" : 2664600
+        },
+        {
+          "titel" : "Magisches Einhorn",
+          "start" : 2664600,
+          "end" : 3430827
+        },
+        {
+          "titel" : "Verwandlungszauber",
+          "start" : 3430827,
+          "end" : 4042507
+        },
+        {
+          "titel" : "Shaka!",
+          "start" : 4042507,
+          "end" : 4677960
+        }
+      ],
+      "musicBrainzID" : "PfpbWGVbgbVIcx_qTT2IKGHbRJE-"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "nummer" : 85,
+  "titel" : "Falscher Alarm",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Kommissar Reynolds wird mit falschen Funksprüchen zu angeblichen Tatorten gerufen. Sogar der Schrottplatz soll überfallen worden sein. Die drei Detektive begeben sich auf eine abenteuerliche Spurensuche.",
+  "veröffentlichungsdatum" : "2021-12-03",
+  "kapitel" : [
+    {
+      "titel" : "Falscher Alarm",
+      "start" : 0,
+      "end" : 537520
+    },
+    {
+      "titel" : "Überfall",
+      "start" : 537520,
+      "end" : 978067
+    },
+    {
+      "titel" : "Kennwort \"Kirschkuchen\"",
+      "start" : 978067,
+      "end" : 1425653
+    },
+    {
+      "titel" : "Geisterbücher",
+      "start" : 1425653,
+      "end" : 1846760
+    },
+    {
+      "titel" : "Alte Kunst",
+      "start" : 1846760,
+      "end" : 2310427
+    },
+    {
+      "titel" : "Hoch hinauf",
+      "start" : 2310427,
+      "end" : 2770600
+    },
+    {
+      "titel" : "Im Untergrund",
+      "start" : 2770600,
+      "end" : 3050280
+    },
+    {
+      "titel" : "Tresorknacker",
+      "start" : 3050280,
+      "end" : 3432173
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Sergeant Bofinger",
+      "sprecher" : "Michael Lott"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Miss Bennett",
+      "sprecher" : "Jana Kozewa"
+    },
+    {
+      "rolle" : "Anna Gallinowa",
+      "sprecher" : "Beate Gerlach"
+    },
+    {
+      "rolle" : "Albert Vitor",
+      "sprecher" : "Florian Walter"
+    },
+    {
+      "rolle" : "Georgy",
+      "sprecher" : "Samuel Zekarias"
+    },
+    {
+      "rolle" : "Mr. Schenker",
+      "sprecher" : "Robert Steudtner"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/085/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/085/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/falscher-alarm-3",
+    "appleMusic" : "https://music.apple.com/de/album/1587166954"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Falscher Alarm",
+          "start" : 0,
+          "end" : 537520
+        },
+        {
+          "titel" : "Überfall",
+          "start" : 537520,
+          "end" : 978067
+        },
+        {
+          "titel" : "Kennwort \"Kirschkuchen\"",
+          "start" : 978067,
+          "end" : 1425653
+        },
+        {
+          "titel" : "Geisterbücher",
+          "start" : 1425653,
+          "end" : 1846760
+        },
+        {
+          "titel" : "Alte Kunst",
+          "start" : 1846760,
+          "end" : 2310427
+        },
+        {
+          "titel" : "Hoch hinauf",
+          "start" : 2310427,
+          "end" : 2770600
+        },
+        {
+          "titel" : "Im Untergrund",
+          "start" : 2770600,
+          "end" : 3050280
+        },
+        {
+          "titel" : "Tresorknacker",
+          "start" : 3050280,
+          "end" : 3432173
+        }
+      ],
+      "musicBrainzID" : "7RMqKcOSbubsR.XbJ5VI0O0EEVA-"
+    }
+  ]
+}

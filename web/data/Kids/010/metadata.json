@@ -1,0 +1,189 @@
+{
+  "nummer" : 10,
+  "titel" : "Spuk in Rocky Beach",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Unheimliche Dinge geschehen in Rocky Beach. Gruselige Geistererscheinungen, rätselhafte Kornkreise und gespenstische Schattenwesen. Kein Wunder, dass sich auch das Fernsehen dafür interessiert. Doch die drei ??? Kids wollen nicht so richtig an UFOs und Außerirdische glauben. Ein Fall für starke Nerven.",
+  "veröffentlichungsdatum" : "2009-12-13",
+  "kapitel" : [
+    {
+      "titel" : "Vollmond",
+      "start" : 0,
+      "end" : 503080
+    },
+    {
+      "titel" : "Stadtgespräche",
+      "start" : 503080,
+      "end" : 847027
+    },
+    {
+      "titel" : "Massenbewegung",
+      "start" : 847027,
+      "end" : 1224707
+    },
+    {
+      "titel" : "Kornkreise",
+      "start" : 1224707,
+      "end" : 1623200
+    },
+    {
+      "titel" : "Taranbajaa",
+      "start" : 1623200,
+      "end" : 2127267
+    },
+    {
+      "titel" : "Rauchzeichen",
+      "start" : 2127267,
+      "end" : 2581827
+    },
+    {
+      "titel" : "Gruselkino",
+      "start" : 2581827,
+      "end" : 3036307
+    },
+    {
+      "titel" : "Film ab!",
+      "start" : 3036307,
+      "end" : 3508373
+    },
+    {
+      "titel" : "Gullygeister",
+      "start" : 3508373,
+      "end" : 3859240
+    },
+    {
+      "titel" : "Big Bäng",
+      "start" : 3859240,
+      "end" : 4254187
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Susan Sanders",
+      "sprecher" : "Alexandra Doerk"
+    },
+    {
+      "rolle" : "Tibor",
+      "sprecher" : "Mirko Thiele"
+    },
+    {
+      "rolle" : "Maja",
+      "sprecher" : "Claudia Schermutzki"
+    },
+    {
+      "rolle" : "Ältere Dame",
+      "sprecher" : "Irmgard Jedamzik"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Tammo Kaulbarsch"
+    },
+    {
+      "rolle" : "Eliot",
+      "sprecher" : "Jens Wendland"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Michael Habeck"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Jeremy Randolph",
+      "sprecher" : "Douglas Welbat"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/010/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/010/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/spuk-in-rocky-beach-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092525596"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Vollmond",
+          "start" : 0,
+          "end" : 503080
+        },
+        {
+          "titel" : "Stadtgespräche",
+          "start" : 503080,
+          "end" : 847027
+        },
+        {
+          "titel" : "Massenbewegung",
+          "start" : 847027,
+          "end" : 1224707
+        },
+        {
+          "titel" : "Kornkreise",
+          "start" : 1224707,
+          "end" : 1623200
+        },
+        {
+          "titel" : "Taranbajaa",
+          "start" : 1623200,
+          "end" : 2127267
+        },
+        {
+          "titel" : "Rauchzeichen",
+          "start" : 2127267,
+          "end" : 2581827
+        },
+        {
+          "titel" : "Gruselkino",
+          "start" : 2581827,
+          "end" : 3036307
+        },
+        {
+          "titel" : "Film ab!",
+          "start" : 3036307,
+          "end" : 3508373
+        },
+        {
+          "titel" : "Gullygeister",
+          "start" : 3508373,
+          "end" : 3859240
+        },
+        {
+          "titel" : "Big Bäng",
+          "start" : 3859240,
+          "end" : 4254187
+        }
+      ],
+      "musicBrainzID" : "D_9g0RcE27VQMCwvkWzC3JaQr7I-"
+    }
+  ]
+}

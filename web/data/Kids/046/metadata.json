@@ -1,0 +1,145 @@
+{
+  "nummer" : 46,
+  "titel" : "Jagd auf das Dino-Ei",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Justus nahm das Ei in die Hand und hielt es sich vorsichtig ans Ohr. \"Wahnsinn! Da drin bewegt sich was!\" Peter riss vor Schreck die Augen auf. \"Leg sofort das Ei weg, Just!\" Die Reise in den Safaripark auf Conga Island hat es in sich. Ein verrückter Pilot, wilde Tiere und ein Inselgeheimnis bescheren den drei ??? Kids eines ihrer gefährlichsten Abenteuer …",
+  "veröffentlichungsdatum" : "2015-10-02",
+  "kapitel" : [
+    {
+      "titel" : "Safari",
+      "start" : 0,
+      "end" : 545147
+    },
+    {
+      "titel" : "Flugangst",
+      "start" : 545147,
+      "end" : 994000
+    },
+    {
+      "titel" : "Conga Island",
+      "start" : 994000,
+      "end" : 1460813
+    },
+    {
+      "titel" : "Dschungeltour",
+      "start" : 1460813,
+      "end" : 1925120
+    },
+    {
+      "titel" : "Tal der Echsen",
+      "start" : 1925120,
+      "end" : 2516107
+    },
+    {
+      "titel" : "Riesenwasserrutsche",
+      "start" : 2516107,
+      "end" : 3157307
+    },
+    {
+      "titel" : "Lauschangriff",
+      "start" : 3157307,
+      "end" : 3635080
+    },
+    {
+      "titel" : "Dino-Ei",
+      "start" : 3635080,
+      "end" : 4099227
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Ole Jacobsen"
+    },
+    {
+      "rolle" : "Smitty",
+      "sprecher" : "Christian Reimer"
+    },
+    {
+      "rolle" : "Prof. Dooley",
+      "sprecher" : "Thomas Zieler"
+    },
+    {
+      "rolle" : "Rebecca",
+      "sprecher" : "Irina von Bentheim"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/046/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/046/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/jagd-auf-das-dino-ei-1",
+    "appleMusic" : "https://music.apple.com/de/album/1134546821"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Safari",
+          "start" : 0,
+          "end" : 545147
+        },
+        {
+          "titel" : "Flugangst",
+          "start" : 545147,
+          "end" : 994000
+        },
+        {
+          "titel" : "Conga Island",
+          "start" : 994000,
+          "end" : 1460813
+        },
+        {
+          "titel" : "Dschungeltour",
+          "start" : 1460813,
+          "end" : 1925120
+        },
+        {
+          "titel" : "Tal der Echsen",
+          "start" : 1925120,
+          "end" : 2516107
+        },
+        {
+          "titel" : "Riesenwasserrutsche",
+          "start" : 2516107,
+          "end" : 3157307
+        },
+        {
+          "titel" : "Lauschangriff",
+          "start" : 3157307,
+          "end" : 3635080
+        },
+        {
+          "titel" : "Dino-Ei",
+          "start" : 3635080,
+          "end" : 4099227
+        }
+      ],
+      "musicBrainzID" : "9M207hvy_0ykIRURmWN96Zs2oO0-"
+    }
+  ]
+}

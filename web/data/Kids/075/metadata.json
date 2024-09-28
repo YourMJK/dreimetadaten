@@ -1,0 +1,170 @@
+{
+  "nummer" : 75,
+  "titel" : "Der Fußball-Roboter",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein wirklich außergewöhnliches Fußballturnier findet auf dem Marktplatz in Rocky Beach statt. Fußball-Roboter spielen im K.-o.-System gegeneinander. Aber gleich zu Beginn des Turniers passieren mysteriöse Dinge. Im Finale müssen die drei ??? Kids gegen einen Roboter antreten, der alle Tricks draufhat.",
+  "veröffentlichungsdatum" : "2020-04-17",
+  "kapitel" : [
+    {
+      "titel" : "Anstoß",
+      "start" : 0,
+      "end" : 805160
+    },
+    {
+      "titel" : "Fußball-Fieber",
+      "start" : 805160,
+      "end" : 1426413
+    },
+    {
+      "titel" : "Trainingsstunde",
+      "start" : 1426413,
+      "end" : 1903053
+    },
+    {
+      "titel" : "Heiße Spur",
+      "start" : 1903053,
+      "end" : 2449867
+    },
+    {
+      "titel" : "Einsame Insel",
+      "start" : 2449867,
+      "end" : 2993040
+    },
+    {
+      "titel" : "Robinson",
+      "start" : 2993040,
+      "end" : 3332453
+    },
+    {
+      "titel" : "Anpfiff",
+      "start" : 3332453,
+      "end" : 3736053
+    },
+    {
+      "titel" : "Harte Gegner",
+      "start" : 3736053,
+      "end" : 4291013
+    },
+    {
+      "titel" : "Finale",
+      "start" : 4291013,
+      "end" : 4775613
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Elton Maskata",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Mr. Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Robinson",
+      "sprecher" : "Marko Bräutigam"
+    },
+    {
+      "rolle" : "Louis",
+      "sprecher" : "Felix Würgler"
+    },
+    {
+      "rolle" : "Anthony Silverman",
+      "sprecher" : "Till Hagen"
+    },
+    {
+      "rolle" : "Spielleiter",
+      "sprecher" : "Markus Krane"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/075/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/075/ffmetadata.txt",
+    "appleMusic" : "https://music.apple.com/de/album/1495018958"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Anstoß",
+          "start" : 0,
+          "end" : 805160
+        },
+        {
+          "titel" : "Fußball-Fieber",
+          "start" : 805160,
+          "end" : 1426413
+        },
+        {
+          "titel" : "Trainingsstunde",
+          "start" : 1426413,
+          "end" : 1903053
+        },
+        {
+          "titel" : "Heiße Spur",
+          "start" : 1903053,
+          "end" : 2449867
+        },
+        {
+          "titel" : "Einsame Insel",
+          "start" : 2449867,
+          "end" : 2993040
+        },
+        {
+          "titel" : "Robinson",
+          "start" : 2993040,
+          "end" : 3332453
+        },
+        {
+          "titel" : "Anpfiff",
+          "start" : 3332453,
+          "end" : 3736053
+        },
+        {
+          "titel" : "Harte Gegner",
+          "start" : 3736053,
+          "end" : 4291013
+        },
+        {
+          "titel" : "Finale",
+          "start" : 4291013,
+          "end" : 4775613
+        }
+      ],
+      "musicBrainzID" : "C5I04prj9E2fgyFvwdo9os9cZto-"
+    }
+  ]
+}

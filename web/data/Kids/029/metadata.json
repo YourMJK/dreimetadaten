@@ -1,0 +1,147 @@
+{
+  "nummer" : 29,
+  "titel" : "Monsterpilze",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein neues Abenteuer wartet auf die drei Detektive. Riesige Pilze, monströse Kirschen und Insekten so groß wie Kühlschränke! Wirklich seltsame Dinge geschehen in Rocky Beach. Hat der verrückte Erfinder seine Finger im Spiel? Eins ist klar: Die drei ??? Kids haben einen schwierigen Fall zu lösen.",
+  "veröffentlichungsdatum" : "2012-09-28",
+  "kapitel" : [
+    {
+      "titel" : "Riesenkirschen",
+      "start" : 0,
+      "end" : 550093
+    },
+    {
+      "titel" : "Monsterschmetterling",
+      "start" : 550093,
+      "end" : 1113587
+    },
+    {
+      "titel" : "Titelhelden",
+      "start" : 1113587,
+      "end" : 1753533
+    },
+    {
+      "titel" : "Plasmagenese",
+      "start" : 1753533,
+      "end" : 2669627
+    },
+    {
+      "titel" : "Gammastrahler",
+      "start" : 2669627,
+      "end" : 3169053
+    },
+    {
+      "titel" : "Millionendeal",
+      "start" : 3169053,
+      "end" : 3804227
+    },
+    {
+      "titel" : "Hubschraubereinsatz",
+      "start" : 3804227,
+      "end" : 4356600
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Doktor Dryfuss",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Larry Blix",
+      "sprecher" : "Michael Krüger"
+    },
+    {
+      "rolle" : "Dustin Harper",
+      "sprecher" : "Christian Jungwirth"
+    },
+    {
+      "rolle" : "McCooper",
+      "sprecher" : "Maximilian Krings"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/029/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/029/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/monsterpilze-1",
+    "appleMusic" : "https://music.apple.com/de/album/1110094707"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Riesenkirschen",
+          "start" : 0,
+          "end" : 550093
+        },
+        {
+          "titel" : "Monsterschmetterling",
+          "start" : 550093,
+          "end" : 1113587
+        },
+        {
+          "titel" : "Titelhelden",
+          "start" : 1113587,
+          "end" : 1753533
+        },
+        {
+          "titel" : "Plasmagenese",
+          "start" : 1753533,
+          "end" : 2669627
+        },
+        {
+          "titel" : "Gammastrahler",
+          "start" : 2669627,
+          "end" : 3169053
+        },
+        {
+          "titel" : "Millionendeal",
+          "start" : 3169053,
+          "end" : 3804227
+        },
+        {
+          "titel" : "Hubschraubereinsatz",
+          "start" : 3804227,
+          "end" : 4356600
+        }
+      ],
+      "musicBrainzID" : "SCnKNNCFOnh9XKuv142DwWP7HXQ-"
+    }
+  ]
+}

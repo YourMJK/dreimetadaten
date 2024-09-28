@@ -1,0 +1,145 @@
+{
+  "nummer" : 34,
+  "titel" : "Falsches Gold",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Vier rätselhafte alte Münzen und ein Adler, der nicht mehr fliegen soll. Welches Geheimnis verbirgt sich in der verbotenen Werkstatt? Eins wird schnell klar: Es geht um viele Millionen. Die drei ??? Kids müssen sich durch eine ganze Menge Dreck wühlen, bis sie alle Unklarheiten in diesem Fall bereinigt haben …",
+  "veröffentlichungsdatum" : "2013-08-30",
+  "kapitel" : [
+    {
+      "titel" : "Totalschaden",
+      "start" : 0,
+      "end" : 258440
+    },
+    {
+      "titel" : "Golddollar",
+      "start" : 258440,
+      "end" : 800627
+    },
+    {
+      "titel" : "Krankenbesuch",
+      "start" : 800627,
+      "end" : 1181107
+    },
+    {
+      "titel" : "Lateinstunde",
+      "start" : 1181107,
+      "end" : 1844000
+    },
+    {
+      "titel" : "Gedenkmünzen",
+      "start" : 1844000,
+      "end" : 2451027
+    },
+    {
+      "titel" : "Eingesperrt",
+      "start" : 2451027,
+      "end" : 2917253
+    },
+    {
+      "titel" : "Taschenspielertricks",
+      "start" : 2917253,
+      "end" : 3302680
+    },
+    {
+      "titel" : "Geldübergabe",
+      "start" : 3302680,
+      "end" : 3798587
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Edward Augustus",
+      "sprecher" : "Michael Grimm"
+    },
+    {
+      "rolle" : "George Forger",
+      "sprecher" : "Robert Glatzeder"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Blackbeard",
+      "sprecher" : "Klaus Hoser"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/034/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/034/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/falsches-gold-1",
+    "appleMusic" : "https://music.apple.com/de/album/1112966083"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Totalschaden",
+          "start" : 0,
+          "end" : 258440
+        },
+        {
+          "titel" : "Golddollar",
+          "start" : 258440,
+          "end" : 800627
+        },
+        {
+          "titel" : "Krankenbesuch",
+          "start" : 800627,
+          "end" : 1181107
+        },
+        {
+          "titel" : "Lateinstunde",
+          "start" : 1181107,
+          "end" : 1844000
+        },
+        {
+          "titel" : "Gedenkmünzen",
+          "start" : 1844000,
+          "end" : 2451027
+        },
+        {
+          "titel" : "Eingesperrt",
+          "start" : 2451027,
+          "end" : 2917253
+        },
+        {
+          "titel" : "Taschenspielertricks",
+          "start" : 2917253,
+          "end" : 3302680
+        },
+        {
+          "titel" : "Geldübergabe",
+          "start" : 3302680,
+          "end" : 3798587
+        }
+      ],
+      "musicBrainzID" : "JrqIR1XXhVx3JCUIIts.SynupL0-"
+    }
+  ]
+}

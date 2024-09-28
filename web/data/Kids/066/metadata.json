@@ -1,0 +1,171 @@
+{
+  "nummer" : 66,
+  "titel" : "Geheimnis im Meer",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Wer macht der Hauptdarstellerin des Unterwasser-Musicals am Strand von Rocky Beach nur das Leben schwer? Die kleine Meerjungfrau gerät von einer Gefahr in die nächste. Natürlich sind die drei ??? Kids zur Stelle, um den Fall zu lösen.",
+  "veröffentlichungsdatum" : "2018-09-28",
+  "kapitel" : [
+    {
+      "titel" : "Angelausflug",
+      "start" : 0,
+      "end" : 520040
+    },
+    {
+      "titel" : "Geheimnis im Meer",
+      "start" : 520040,
+      "end" : 1052400
+    },
+    {
+      "titel" : "Technikpanne",
+      "start" : 1052400,
+      "end" : 1484253
+    },
+    {
+      "titel" : "Spezialeffekte",
+      "start" : 1484253,
+      "end" : 1968973
+    },
+    {
+      "titel" : "Sabotage",
+      "start" : 1968973,
+      "end" : 2466840
+    },
+    {
+      "titel" : "Familiengeheimnis",
+      "start" : 2466840,
+      "end" : 3040360
+    },
+    {
+      "titel" : "Sonderkommando",
+      "start" : 3040360,
+      "end" : 3484987
+    },
+    {
+      "titel" : "Operation Sandwurm",
+      "start" : 3484987,
+      "end" : 4047427
+    },
+    {
+      "titel" : "Flutwelle",
+      "start" : 4047427,
+      "end" : 4551533
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Helen",
+      "sprecher" : "Eva Thärichen"
+    },
+    {
+      "rolle" : "Marvin Lord",
+      "sprecher" : "Martin Gleitze"
+    },
+    {
+      "rolle" : "Eric",
+      "sprecher" : "Jörn Linnenbröker"
+    },
+    {
+      "rolle" : "Camilla",
+      "sprecher" : "Anke Reitzenstein"
+    },
+    {
+      "rolle" : "Kira",
+      "sprecher" : "Shalin Rogall"
+    },
+    {
+      "rolle" : "Hancock",
+      "sprecher" : "Jochen Drechsler"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Miller",
+      "sprecher" : "Felix Würgler"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/066/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/066/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/geheimnis-im-meer",
+    "appleMusic" : "https://music.apple.com/de/album/1406277822"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Angelausflug",
+          "start" : 0,
+          "end" : 520040
+        },
+        {
+          "titel" : "Geheimnis im Meer",
+          "start" : 520040,
+          "end" : 1052400
+        },
+        {
+          "titel" : "Technikpanne",
+          "start" : 1052400,
+          "end" : 1484253
+        },
+        {
+          "titel" : "Spezialeffekte",
+          "start" : 1484253,
+          "end" : 1968973
+        },
+        {
+          "titel" : "Sabotage",
+          "start" : 1968973,
+          "end" : 2466840
+        },
+        {
+          "titel" : "Familiengeheimnis",
+          "start" : 2466840,
+          "end" : 3040360
+        },
+        {
+          "titel" : "Sonderkommando",
+          "start" : 3040360,
+          "end" : 3484987
+        },
+        {
+          "titel" : "Operation Sandwurm",
+          "start" : 3484987,
+          "end" : 4047427
+        },
+        {
+          "titel" : "Flutwelle",
+          "start" : 4047427,
+          "end" : 4551533
+        }
+      ],
+      "musicBrainzID" : "fajgIy87_sOlTkohSXpx5cW15_s-"
+    }
+  ]
+}

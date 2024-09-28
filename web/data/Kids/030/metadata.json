@@ -1,0 +1,153 @@
+{
+  "nummer" : 30,
+  "titel" : "Im Geisterschiff",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Bei einem Sturm werden merkwürdige Dinge an die Küste von Rocky Beach gespült. Handelt es sich hier wirklich um die Überreste eines alten Schiffswracks? Die drei ??? Kids gehen der Sache sprichwörtlich auf den Grund und müssen tief hinabtauchen. Doch was sie zu sehen bekommen, hätten Justus, Peter und Bob nicht in ihren kühnsten Träumen erwartet.",
+  "veröffentlichungsdatum" : "2012-12-30",
+  "kapitel" : [
+    {
+      "titel" : "Drachenwetter",
+      "start" : 0,
+      "end" : 476387
+    },
+    {
+      "titel" : "Geisterschiff",
+      "start" : 476387,
+      "end" : 1136053
+    },
+    {
+      "titel" : "Abgetaucht",
+      "start" : 1136053,
+      "end" : 1745480
+    },
+    {
+      "titel" : "Poseidon",
+      "start" : 1745480,
+      "end" : 2380120
+    },
+    {
+      "titel" : "Wracksucher",
+      "start" : 2380120,
+      "end" : 3114933
+    },
+    {
+      "titel" : "Totenkopfsuppe",
+      "start" : 3114933,
+      "end" : 3859747
+    },
+    {
+      "titel" : "Geisterschrift",
+      "start" : 3859747,
+      "end" : 4324027
+    },
+    {
+      "titel" : "Wunder geschehen",
+      "start" : 4324027,
+      "end" : 4793573
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Mr. Jenkins",
+      "sprecher" : "Christoph Jablonka"
+    },
+    {
+      "rolle" : "Julia Jenkins",
+      "sprecher" : "Mareike Fell"
+    },
+    {
+      "rolle" : "Leon Murdock",
+      "sprecher" : "Patrick Bach"
+    },
+    {
+      "rolle" : "Ernesto Porto",
+      "sprecher" : "Holger Löwenberg"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/030/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/030/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/im-geisterschiff-1",
+    "appleMusic" : "https://music.apple.com/de/album/1110091371"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Drachenwetter",
+          "start" : 0,
+          "end" : 476387
+        },
+        {
+          "titel" : "Geisterschiff",
+          "start" : 476387,
+          "end" : 1136053
+        },
+        {
+          "titel" : "Abgetaucht",
+          "start" : 1136053,
+          "end" : 1745480
+        },
+        {
+          "titel" : "Poseidon",
+          "start" : 1745480,
+          "end" : 2380120
+        },
+        {
+          "titel" : "Wracksucher",
+          "start" : 2380120,
+          "end" : 3114933
+        },
+        {
+          "titel" : "Totenkopfsuppe",
+          "start" : 3114933,
+          "end" : 3859747
+        },
+        {
+          "titel" : "Geisterschrift",
+          "start" : 3859747,
+          "end" : 4324027
+        },
+        {
+          "titel" : "Wunder geschehen",
+          "start" : 4324027,
+          "end" : 4793573
+        }
+      ],
+      "musicBrainzID" : "qlk5AmHO21NcAlgaNmeHGH93zy8-"
+    }
+  ]
+}

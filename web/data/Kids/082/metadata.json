@@ -1,0 +1,161 @@
+{
+  "nummer" : 82,
+  "titel" : "Die Delfin-Piraten",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Justus, Peter und Bob besuchen eine Auswilderungsstation für gefangene Delfine. Seit Kurzem verschwinden die schutzbedürftigen Tiere auf mysteriöse Weise immer wieder von dort. Stecken etwa fiese Diebe dahinter?",
+  "veröffentlichungsdatum" : "2021-05-28",
+  "kapitel" : [
+    {
+      "titel" : "Kampf dem Plastik",
+      "start" : 0,
+      "end" : 449320
+    },
+    {
+      "titel" : "Surfweltmeister",
+      "start" : 449320,
+      "end" : 1068120
+    },
+    {
+      "titel" : "Delfinschwimmen",
+      "start" : 1068120,
+      "end" : 1745987
+    },
+    {
+      "titel" : "Geldübergabe",
+      "start" : 1745987,
+      "end" : 2326800
+    },
+    {
+      "titel" : "Online-Recherche",
+      "start" : 2326800,
+      "end" : 2894920
+    },
+    {
+      "titel" : "Voll erwischt",
+      "start" : 2894920,
+      "end" : 3501507
+    },
+    {
+      "titel" : "Ausbrecherkönige",
+      "start" : 3501507,
+      "end" : 3954507
+    },
+    {
+      "titel" : "Delfinretter",
+      "start" : 3954507,
+      "end" : 4535360
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Clara Conners",
+      "sprecher" : "Magdalena Montasser"
+    },
+    {
+      "rolle" : "Eniya Conners",
+      "sprecher" : "Viola Müller"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Mr. Flynt",
+      "sprecher" : "Frank Röth"
+    },
+    {
+      "rolle" : "Franco",
+      "sprecher" : "Mathias Kunze"
+    },
+    {
+      "rolle" : "Jimbo",
+      "sprecher" : "Robert Moeck"
+    },
+    {
+      "rolle" : "Carter",
+      "sprecher" : "Matthias Scherwenikas"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/082/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/082/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-delfin-piraten-1",
+    "appleMusic" : "https://music.apple.com/de/album/1559050329"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Kampf dem Plastik",
+          "start" : 0,
+          "end" : 449320
+        },
+        {
+          "titel" : "Surfweltmeister",
+          "start" : 449320,
+          "end" : 1068120
+        },
+        {
+          "titel" : "Delfinschwimmen",
+          "start" : 1068120,
+          "end" : 1745987
+        },
+        {
+          "titel" : "Geldübergabe",
+          "start" : 1745987,
+          "end" : 2326800
+        },
+        {
+          "titel" : "Online-Recherche",
+          "start" : 2326800,
+          "end" : 2894920
+        },
+        {
+          "titel" : "Voll erwischt",
+          "start" : 2894920,
+          "end" : 3501507
+        },
+        {
+          "titel" : "Ausbrecherkönige",
+          "start" : 3501507,
+          "end" : 3954507
+        },
+        {
+          "titel" : "Delfinretter",
+          "start" : 3954507,
+          "end" : 4535360
+        }
+      ],
+      "musicBrainzID" : "gnT334pZNFwmW7rKOeyZcISJE8M-"
+    }
+  ]
+}

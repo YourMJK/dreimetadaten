@@ -1,0 +1,175 @@
+{
+  "nummer" : 14,
+  "titel" : "Gefahr aus dem All",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Kometen rasen auf die Erde zu und riesige Meteoriten stürzen vom Himmel. Das zumindest könnte passieren, wenn die Erfindung des genialen Professors in falsche Hände gerät. Den drei ??? bleibt nicht viel Zeit für ihren gefährlichen Auftrag. Der Countdown läuft und dann taucht auch noch ihr Erzfeind auf …",
+  "veröffentlichungsdatum" : "2010-03-12",
+  "kapitel" : [
+    {
+      "titel" : "Weltuntergang",
+      "start" : 0,
+      "end" : 510467
+    },
+    {
+      "titel" : "Spinnenspray",
+      "start" : 510467,
+      "end" : 1154467
+    },
+    {
+      "titel" : "Mondsteine",
+      "start" : 1154467,
+      "end" : 1591440
+    },
+    {
+      "titel" : "Entführt!",
+      "start" : 1591440,
+      "end" : 2033533
+    },
+    {
+      "titel" : "Eisenfaust",
+      "start" : 2033533,
+      "end" : 2485667
+    },
+    {
+      "titel" : "Hafenratten",
+      "start" : 2485667,
+      "end" : 3025920
+    },
+    {
+      "titel" : "Schatzsuche",
+      "start" : 3025920,
+      "end" : 3519507
+    },
+    {
+      "titel" : "Lasershow",
+      "start" : 3519507,
+      "end" : 4070293
+    },
+    {
+      "titel" : "Verschrottung",
+      "start" : 4070293,
+      "end" : 4490173
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Janet Lindsay",
+      "sprecher" : "Merete Brettschneider"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Randolph Appelton",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Elliot Rattler",
+      "sprecher" : "Nicolas König"
+    },
+    {
+      "rolle" : "Jimmy Rattler",
+      "sprecher" : "Ron Matz"
+    },
+    {
+      "rolle" : "1. Entführer",
+      "sprecher" : "Timon Hoffmann"
+    },
+    {
+      "rolle" : "2. Entführer",
+      "sprecher" : "Thomas Karallus"
+    },
+    {
+      "rolle" : "Eisenfaust",
+      "sprecher" : "Heiko Lange"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/014/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/014/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/gefahr-aus-dem-all-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092521435"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Weltuntergang",
+          "start" : 0,
+          "end" : 510467
+        },
+        {
+          "titel" : "Spinnenspray",
+          "start" : 510467,
+          "end" : 1154467
+        },
+        {
+          "titel" : "Mondsteine",
+          "start" : 1154467,
+          "end" : 1591440
+        },
+        {
+          "titel" : "Entführt!",
+          "start" : 1591440,
+          "end" : 2033533
+        },
+        {
+          "titel" : "Eisenfaust",
+          "start" : 2033533,
+          "end" : 2485667
+        },
+        {
+          "titel" : "Hafenratten",
+          "start" : 2485667,
+          "end" : 3025920
+        },
+        {
+          "titel" : "Schatzsuche",
+          "start" : 3025920,
+          "end" : 3519507
+        },
+        {
+          "titel" : "Lasershow",
+          "start" : 3519507,
+          "end" : 4070293
+        },
+        {
+          "titel" : "Verschrottung",
+          "start" : 4070293,
+          "end" : 4490173
+        }
+      ],
+      "musicBrainzID" : "3cdoT1GsnY1DDqb5.9TXTghiy8U-"
+    }
+  ]
+}

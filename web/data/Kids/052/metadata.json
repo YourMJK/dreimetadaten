@@ -1,0 +1,137 @@
+{
+  "nummer" : 52,
+  "titel" : "Mächtige Magier",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "In Rocky Beach findet ein großer Zauberwettbewerb statt. Doch irgendjemand will dem mächtigen Magier Harris schaden. Aber wer steckt dahinter? Um den Fall zu lösen, müssen die drei ??? Kids selbst ein paar Zaubertricks anwenden. Hokuspokus Fidibus!",
+  "veröffentlichungsdatum" : "2016-07-22",
+  "kapitel" : [
+    {
+      "titel" : "Abrakadabra",
+      "start" : 0,
+      "end" : 640360
+    },
+    {
+      "titel" : "Zaubertheater",
+      "start" : 640360,
+      "end" : 1072067
+    },
+    {
+      "titel" : "Der große Harris",
+      "start" : 1072067,
+      "end" : 1721107
+    },
+    {
+      "titel" : "Spezialeinheit",
+      "start" : 1721107,
+      "end" : 2201960
+    },
+    {
+      "titel" : "Trickkiste",
+      "start" : 2201960,
+      "end" : 2677427
+    },
+    {
+      "titel" : "Schlossknacker",
+      "start" : 2677427,
+      "end" : 3109280
+    },
+    {
+      "titel" : "Doktor Lauschari",
+      "start" : 3109280,
+      "end" : 3535227
+    },
+    {
+      "titel" : "Die drei Mumien",
+      "start" : 3535227,
+      "end" : 4181973
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Adam",
+      "sprecher" : "Jeffrey Wipprecht"
+    },
+    {
+      "rolle" : "Harris",
+      "sprecher" : "Ernst Walter Siemon"
+    },
+    {
+      "rolle" : "Matthias",
+      "sprecher" : "Sven Philipp"
+    },
+    {
+      "rolle" : "Bühnenansager",
+      "sprecher" : "BJ"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/052/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/052/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/machtige-magier1",
+    "appleMusic" : "https://music.apple.com/de/album/1108467631"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Abrakadabra",
+          "start" : 0,
+          "end" : 640360
+        },
+        {
+          "titel" : "Zaubertheater",
+          "start" : 640360,
+          "end" : 1072067
+        },
+        {
+          "titel" : "Der große Harris",
+          "start" : 1072067,
+          "end" : 1721107
+        },
+        {
+          "titel" : "Spezialeinheit",
+          "start" : 1721107,
+          "end" : 2201960
+        },
+        {
+          "titel" : "Trickkiste",
+          "start" : 2201960,
+          "end" : 2677427
+        },
+        {
+          "titel" : "Schlossknacker",
+          "start" : 2677427,
+          "end" : 3109280
+        },
+        {
+          "titel" : "Doktor Lauschari",
+          "start" : 3109280,
+          "end" : 3535227
+        },
+        {
+          "titel" : "Die drei Mumien",
+          "start" : 3535227,
+          "end" : 4181973
+        }
+      ],
+      "musicBrainzID" : "h6OkkvHp.5A8c9VcmdQ00aNmr1k-"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "nummer" : 43,
+  "titel" : "Duell der Ritter",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "\"Was war das?\", rief Peter erschrocken und sah sich unsicher um. Auf der obersten Treppenstufe stand ein Mann in einem schwarzen Umhang. Seine Augen waren mit einer Maske bedeckt und in der Hand trug er einen langen Säbel. \"Tod dem König!\", brüllte er. Auf Burg Drachenfels finden Ritterspiele statt, mit einer Menge spannender Wettkämpfe. Dem Sieger winkt viel Geld und die Tochter des Königs. Doch nicht alle kämpfen mit fairen Mitteln. Bald schon sind die drei ??? einem gefährlichen schwarzen Ritter auf der Spur …",
+  "veröffentlichungsdatum" : "2015-03-06",
+  "kapitel" : [
+    {
+      "titel" : "Burg Drachenfels",
+      "start" : 0,
+      "end" : 585133
+    },
+    {
+      "titel" : "Tod dem König!",
+      "start" : 585133,
+      "end" : 1387493
+    },
+    {
+      "titel" : "Heldentat",
+      "start" : 1387493,
+      "end" : 2063133
+    },
+    {
+      "titel" : "Ritterspiele",
+      "start" : 2063133,
+      "end" : 2878653
+    },
+    {
+      "titel" : "Geheimgänge",
+      "start" : 2878653,
+      "end" : 3719613
+    },
+    {
+      "titel" : "Duell der Ritter",
+      "start" : 3719613,
+      "end" : 4474507
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Drachenfels",
+      "sprecher" : "Lutz Mackensy"
+    },
+    {
+      "rolle" : "David Hooks",
+      "sprecher" : "Daniel Montoya"
+    },
+    {
+      "rolle" : "Leibgarde",
+      "sprecher" : "Stefan Mitrenga"
+    },
+    {
+      "rolle" : "Amalie",
+      "sprecher" : "Julia Casper"
+    },
+    {
+      "rolle" : "Adebar",
+      "sprecher" : "Michael Krüger"
+    },
+    {
+      "rolle" : "Schwarzer Ritter",
+      "sprecher" : "Raúl Semmler"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/043/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/043/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/duell-der-ritter-2",
+    "appleMusic" : "https://music.apple.com/de/album/1134540248"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Burg Drachenfels",
+          "start" : 0,
+          "end" : 585133
+        },
+        {
+          "titel" : "Tod dem König!",
+          "start" : 585133,
+          "end" : 1387493
+        },
+        {
+          "titel" : "Heldentat",
+          "start" : 1387493,
+          "end" : 2063133
+        },
+        {
+          "titel" : "Ritterspiele",
+          "start" : 2063133,
+          "end" : 2878653
+        },
+        {
+          "titel" : "Geheimgänge",
+          "start" : 2878653,
+          "end" : 3719613
+        },
+        {
+          "titel" : "Duell der Ritter",
+          "start" : 3719613,
+          "end" : 4474507
+        }
+      ],
+      "musicBrainzID" : "CjLvrHQDCWvRLtupvTx2N093Gaw-"
+    }
+  ]
+}

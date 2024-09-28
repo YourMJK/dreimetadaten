@@ -1,0 +1,179 @@
+{
+  "nummer" : 80,
+  "titel" : "Gefährlicher Nebel",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Undurchdringlicher Nebel zieht durch Rocky Beach. Überall, wo er auftaucht, passieren mysteriöse Diebstähle. Was hat die Legende des Geisternebels damit zu tun? Justus, Peter und Bob behalten den Durchblick und haben bald einen heißen Verdacht.",
+  "veröffentlichungsdatum" : "2021-02-05",
+  "kapitel" : [
+    {
+      "titel" : "Käpt'n Rabraxus",
+      "start" : 0,
+      "end" : 516347
+    },
+    {
+      "titel" : "Flohmarkt",
+      "start" : 516347,
+      "end" : 1140987
+    },
+    {
+      "titel" : "Eiskalter Nebel",
+      "start" : 1140987,
+      "end" : 1761680
+    },
+    {
+      "titel" : "Hollywood",
+      "start" : 1761680,
+      "end" : 2180720
+    },
+    {
+      "titel" : "Nebliger Auftrag",
+      "start" : 2180720,
+      "end" : 2740053
+    },
+    {
+      "titel" : "Rattenalarm",
+      "start" : 2740053,
+      "end" : 3169693
+    },
+    {
+      "titel" : "Santa Monica",
+      "start" : 3169693,
+      "end" : 3576053
+    },
+    {
+      "titel" : "Juwelendiebe",
+      "start" : 3576053,
+      "end" : 3995893
+    },
+    {
+      "titel" : "Rabraxus' Rache",
+      "start" : 3995893,
+      "end" : 4517813
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Fischer",
+      "sprecher" : "Marko Bräutigam"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Besucher im Café",
+      "sprecher" : "Angela Döbertin, Ansgar Döbertin"
+    },
+    {
+      "rolle" : "Mr. Shaw",
+      "sprecher" : "Oliver Schmitz"
+    },
+    {
+      "rolle" : "Steve Gilmore",
+      "sprecher" : "Sascha Rotermund"
+    },
+    {
+      "rolle" : "Victoria",
+      "sprecher" : "Nadine Schreier"
+    },
+    {
+      "rolle" : "Larry",
+      "sprecher" : "Thomas Stecher"
+    },
+    {
+      "rolle" : "Chris",
+      "sprecher" : "Dennis Herrmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/080/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/080/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/gefahrlicher-nebel-1",
+    "appleMusic" : "https://music.apple.com/de/album/1539905640"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Käpt'n Rabraxus",
+          "start" : 0,
+          "end" : 516347
+        },
+        {
+          "titel" : "Flohmarkt",
+          "start" : 516347,
+          "end" : 1140987
+        },
+        {
+          "titel" : "Eiskalter Nebel",
+          "start" : 1140987,
+          "end" : 1761680
+        },
+        {
+          "titel" : "Hollywood",
+          "start" : 1761680,
+          "end" : 2180720
+        },
+        {
+          "titel" : "Nebliger Auftrag",
+          "start" : 2180720,
+          "end" : 2740053
+        },
+        {
+          "titel" : "Rattenalarm",
+          "start" : 2740053,
+          "end" : 3169693
+        },
+        {
+          "titel" : "Santa Monica",
+          "start" : 3169693,
+          "end" : 3576053
+        },
+        {
+          "titel" : "Juwelendiebe",
+          "start" : 3576053,
+          "end" : 3995893
+        },
+        {
+          "titel" : "Rabraxus' Rache",
+          "start" : 3995893,
+          "end" : 4517813
+        }
+      ],
+      "musicBrainzID" : "SrJGZjpatXroVDg7hHrI7GPbb6k-"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "nummer" : 7,
+  "titel" : "Gruft der Piraten",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Durch Zufall entdecken Justus, Peter und Bob rätselhafte Spuren eines versunkenen Schiffes. Ein gefährliches Abenteuer auf dem Grund des Meeres beginnt. Was hat es mit dem Teufelsriff auf sich? Und was bedeuten die Zeichen auf der geheimen Schatzkarte? Doch Die drei ??? Kids sind nicht die einzigen, die sich für das Gold der Piraten interessieren …",
+  "veröffentlichungsdatum" : "2009-09-13",
+  "kapitel" : [
+    {
+      "titel" : "Wasserschlacht",
+      "start" : 0,
+      "end" : 403640
+    },
+    {
+      "titel" : "Kapitän Nemo",
+      "start" : 403640,
+      "end" : 717853
+    },
+    {
+      "titel" : "Schatzsuche",
+      "start" : 717853,
+      "end" : 1046427
+    },
+    {
+      "titel" : "Glocke im Teufelsriff",
+      "start" : 1046427,
+      "end" : 1356507
+    },
+    {
+      "titel" : "Geheimversteck",
+      "start" : 1356507,
+      "end" : 1652773
+    },
+    {
+      "titel" : "Piratenlieder",
+      "start" : 1652773,
+      "end" : 1989400
+    },
+    {
+      "titel" : "Rätselhafte Schatzkarte",
+      "start" : 1989400,
+      "end" : 2388387
+    },
+    {
+      "titel" : "Abstieg ins Nichts",
+      "start" : 2388387,
+      "end" : 2882613
+    },
+    {
+      "titel" : "Höhlenforscher",
+      "start" : 2882613,
+      "end" : 3468693
+    },
+    {
+      "titel" : "Gruft der Piraten",
+      "start" : 3468693,
+      "end" : 4012840
+    },
+    {
+      "titel" : "Goldrausch",
+      "start" : 4012840,
+      "end" : 4591773
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Kapitän Nemo",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Miller",
+      "sprecher" : "Guido Zimmermann"
+    },
+    {
+      "rolle" : "Jimbo",
+      "sprecher" : "Jörg Gillner"
+    },
+    {
+      "rolle" : "Old Baby Boy",
+      "sprecher" : "Hans Kahlert"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/007/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/007/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/gruft-der-piraten-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092534848"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Wasserschlacht",
+          "start" : 0,
+          "end" : 403640
+        },
+        {
+          "titel" : "Kapitän Nemo",
+          "start" : 403640,
+          "end" : 717853
+        },
+        {
+          "titel" : "Schatzsuche",
+          "start" : 717853,
+          "end" : 1046427
+        },
+        {
+          "titel" : "Glocke im Teufelsriff",
+          "start" : 1046427,
+          "end" : 1356507
+        },
+        {
+          "titel" : "Geheimversteck",
+          "start" : 1356507,
+          "end" : 1652773
+        },
+        {
+          "titel" : "Piratenlieder",
+          "start" : 1652773,
+          "end" : 1989400
+        },
+        {
+          "titel" : "Rätselhafte Schatzkarte",
+          "start" : 1989400,
+          "end" : 2388387
+        },
+        {
+          "titel" : "Abstieg ins Nichts",
+          "start" : 2388387,
+          "end" : 2882613
+        },
+        {
+          "titel" : "Höhlenforscher",
+          "start" : 2882613,
+          "end" : 3468693
+        },
+        {
+          "titel" : "Gruft der Piraten",
+          "start" : 3468693,
+          "end" : 4012840
+        },
+        {
+          "titel" : "Goldrausch",
+          "start" : 4012840,
+          "end" : 4591773
+        }
+      ],
+      "musicBrainzID" : "Ll.kBMqYgAltkzxGJ6fvuah2XH4-"
+    }
+  ]
+}

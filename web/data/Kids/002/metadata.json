@@ -1,0 +1,177 @@
+{
+  "nummer" : 2,
+  "titel" : "Radio Rocky Beach",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "\"Hier ist Radio Rocky Beach, der coolste Sender zwischen Miami und Alaska!\" DJ Wolfman ist mit seinem Piratensender immer auf der richtigen Welle – da sind sich auch die drei Detektive einig. Doch währenddessen wird nicht nur Tante Mathildas Wagen aufgebrochen, auch anderswo in Rocky Beach gibt es regelmäßig zu DJ Wolfmans Sendezeit Einbrüche. Justus ist sicher: Da muss es einen Zusammenhang geben. Aber wo sollen die drei Fragezeichen mit ihren Ermittlungen anfangen? Ah, eine Idee: Sie wollen den Übeltätern dazwischenfunken …",
+  "veröffentlichungsdatum" : "2009-04-13",
+  "kapitel" : [
+    {
+      "titel" : "Hektik bei Titus",
+      "start" : 0,
+      "end" : 359373
+    },
+    {
+      "titel" : "Spurensuche",
+      "start" : 359373,
+      "end" : 764893
+    },
+    {
+      "titel" : "Polizeiarbeit",
+      "start" : 764893,
+      "end" : 1181707
+    },
+    {
+      "titel" : "Fred Fireman",
+      "start" : 1181707,
+      "end" : 1670387
+    },
+    {
+      "titel" : "Hinter Gittern",
+      "start" : 1670387,
+      "end" : 2052067
+    },
+    {
+      "titel" : "Radio Rocky Beach",
+      "start" : 2052067,
+      "end" : 2475947
+    },
+    {
+      "titel" : "Wunschhits",
+      "start" : 2475947,
+      "end" : 2798320
+    },
+    {
+      "titel" : "Auf der Lauer",
+      "start" : 2798320,
+      "end" : 3160800
+    },
+    {
+      "titel" : "Auf Sendung",
+      "start" : 3160800,
+      "end" : 3559533
+    },
+    {
+      "titel" : "Heimliche Helden",
+      "start" : 3559533,
+      "end" : 4027480
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "DJ Wolfram",
+      "sprecher" : "Sky du Mont"
+    },
+    {
+      "rolle" : "Lara",
+      "sprecher" : "Tanja Dose"
+    },
+    {
+      "rolle" : "Polizeizentrale",
+      "sprecher" : "Marisa Calcagno"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Polizist Steven",
+      "sprecher" : "Andreas Ersson"
+    },
+    {
+      "rolle" : "Stationvoice \"Radio Rocky Beach\"",
+      "sprecher" : "Wolfgang Kühne"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/002/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/002/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/radio-rocky-beach-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092534740"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Hektik bei Titus",
+          "start" : 0,
+          "end" : 359373
+        },
+        {
+          "titel" : "Spurensuche",
+          "start" : 359373,
+          "end" : 764893
+        },
+        {
+          "titel" : "Polizeiarbeit",
+          "start" : 764893,
+          "end" : 1181707
+        },
+        {
+          "titel" : "Fred Fireman",
+          "start" : 1181707,
+          "end" : 1670387
+        },
+        {
+          "titel" : "Hinter Gittern",
+          "start" : 1670387,
+          "end" : 2052067
+        },
+        {
+          "titel" : "Radio Rocky Beach",
+          "start" : 2052067,
+          "end" : 2475947
+        },
+        {
+          "titel" : "Wunschhits",
+          "start" : 2475947,
+          "end" : 2798320
+        },
+        {
+          "titel" : "Auf der Lauer",
+          "start" : 2798320,
+          "end" : 3160800
+        },
+        {
+          "titel" : "Auf Sendung",
+          "start" : 3160800,
+          "end" : 3559533
+        },
+        {
+          "titel" : "Heimliche Helden",
+          "start" : 3559533,
+          "end" : 4027480
+        }
+      ],
+      "musicBrainzID" : "vOLrXNigky5cF_Ot9EdoaQEbbM8-"
+    }
+  ]
+}

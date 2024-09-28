@@ -1,0 +1,155 @@
+{
+  "nummer" : 60,
+  "titel" : "Gespensterjagd",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Im großen Kino von Rocky Beach spukt es! Doch nicht nur dort, überall in der Stadt tauchen plötzlich geisterhafte Gestalten auf. Und das alles an Halloween! Die drei ??? Kids gehen auf Gespensterjagd.",
+  "veröffentlichungsdatum" : "2017-09-29",
+  "kapitel" : [
+    {
+      "titel" : "Klappergespenster",
+      "start" : 0,
+      "end" : 492707
+    },
+    {
+      "titel" : "Friedhofsgeschichten",
+      "start" : 492707,
+      "end" : 1057320
+    },
+    {
+      "titel" : "Auf der Titelseite",
+      "start" : 1057320,
+      "end" : 1622987
+    },
+    {
+      "titel" : "Katzenbande",
+      "start" : 1622987,
+      "end" : 2184240
+    },
+    {
+      "titel" : "Geister-Labyrinth",
+      "start" : 2184240,
+      "end" : 2729547
+    },
+    {
+      "titel" : "Halloween",
+      "start" : 2729547,
+      "end" : 3399160
+    },
+    {
+      "titel" : "Gruseltheater",
+      "start" : 3399160,
+      "end" : 4225533
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Snyder",
+      "sprecher" : "Elmar Gutmann"
+    },
+    {
+      "rolle" : "Mann",
+      "sprecher" : "Holger Löwenberg"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Maria Collodi",
+      "sprecher" : "Irmelin Krause-Latarius"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Giuseppe Collodi",
+      "sprecher" : "Ernst Meincke"
+    },
+    {
+      "rolle" : "Kinder",
+      "sprecher" : "Lentje Ehlers, Lolle Ehlers"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/060/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/060/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/gespensterjagd",
+    "appleMusic" : "https://music.apple.com/de/album/1257755625"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Klappergespenster",
+          "start" : 0,
+          "end" : 492707
+        },
+        {
+          "titel" : "Friedhofsgeschichten",
+          "start" : 492707,
+          "end" : 1057320
+        },
+        {
+          "titel" : "Auf der Titelseite",
+          "start" : 1057320,
+          "end" : 1622987
+        },
+        {
+          "titel" : "Katzenbande",
+          "start" : 1622987,
+          "end" : 2184240
+        },
+        {
+          "titel" : "Geister-Labyrinth",
+          "start" : 2184240,
+          "end" : 2729547
+        },
+        {
+          "titel" : "Halloween",
+          "start" : 2729547,
+          "end" : 3399160
+        },
+        {
+          "titel" : "Gruseltheater",
+          "start" : 3399160,
+          "end" : 4225533
+        }
+      ],
+      "musicBrainzID" : "HSXi23a5.DZmHRn0woLu.8XEVaA-"
+    }
+  ]
+}

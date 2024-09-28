@@ -1,0 +1,167 @@
+{
+  "nummer" : 69,
+  "titel" : "Die Rätselfalle",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein Hilferuf versteckt in einem Kreuzworträtsel! Das haben die drei ??? Kids noch nie erlebt. Wer braucht ihre Hilfe? Die Spur führt in ein geheimnisvolles Seniorenheim. Dort geht die spannende Rätseljagd weiter …",
+  "veröffentlichungsdatum" : "2019-03-15",
+  "kapitel" : [
+    {
+      "titel" : "Klapperkasten",
+      "start" : 0,
+      "end" : 454253
+    },
+    {
+      "titel" : "Geisterkralle",
+      "start" : 454253,
+      "end" : 976747
+    },
+    {
+      "titel" : "Sonnige Tage",
+      "start" : 976747,
+      "end" : 1450027
+    },
+    {
+      "titel" : "Glastiere",
+      "start" : 1450027,
+      "end" : 1884840
+    },
+    {
+      "titel" : "Kellergeist",
+      "start" : 1884840,
+      "end" : 2340107
+    },
+    {
+      "titel" : "Rüstige Rentner",
+      "start" : 2340107,
+      "end" : 2926253
+    },
+    {
+      "titel" : "Mission X",
+      "start" : 2926253,
+      "end" : 3483347
+    },
+    {
+      "titel" : "Blitzpulver",
+      "start" : 3483347,
+      "end" : 3915733
+    },
+    {
+      "titel" : "Des Rätsels Lösung",
+      "start" : 3915733,
+      "end" : 4349173
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Mr. Moses",
+      "sprecher" : "Detlef Bruns"
+    },
+    {
+      "rolle" : "Mrs. Winter",
+      "sprecher" : "Daniela Thuar"
+    },
+    {
+      "rolle" : "Mrs. Edvin",
+      "sprecher" : "Eva-Maria Kurz"
+    },
+    {
+      "rolle" : "Mr. Stone",
+      "sprecher" : "Roman Rossa"
+    },
+    {
+      "rolle" : "Mrs. Fischer",
+      "sprecher" : "Luise Lunow"
+    },
+    {
+      "rolle" : "Tiffman",
+      "sprecher" : "Stephan Baumecker"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/069/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/069/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-ratsel-falle",
+    "appleMusic" : "https://music.apple.com/de/album/1449570341"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Klapperkasten",
+          "start" : 0,
+          "end" : 454253
+        },
+        {
+          "titel" : "Geisterkralle",
+          "start" : 454253,
+          "end" : 976747
+        },
+        {
+          "titel" : "Sonnige Tage",
+          "start" : 976747,
+          "end" : 1450027
+        },
+        {
+          "titel" : "Glastiere",
+          "start" : 1450027,
+          "end" : 1884840
+        },
+        {
+          "titel" : "Kellergeist",
+          "start" : 1884840,
+          "end" : 2340107
+        },
+        {
+          "titel" : "Rüstige Rentner",
+          "start" : 2340107,
+          "end" : 2926253
+        },
+        {
+          "titel" : "Mission X",
+          "start" : 2926253,
+          "end" : 3483347
+        },
+        {
+          "titel" : "Blitzpulver",
+          "start" : 3483347,
+          "end" : 3915733
+        },
+        {
+          "titel" : "Des Rätsels Lösung",
+          "start" : 3915733,
+          "end" : 4349173
+        }
+      ],
+      "musicBrainzID" : "CVEFCVakq0HGChgZODHScKJhw4w-"
+    }
+  ]
+}

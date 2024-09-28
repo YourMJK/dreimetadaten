@@ -1,0 +1,145 @@
+{
+  "nummer" : 79,
+  "titel" : "Achtung, Abenteuer!",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Diebstahl im Kunstmuseum von Rocky Beach. Justus glaubt, eine heiße Spur gefunden zu haben. Die drei ??? Kids ermitteln und geraten in eine gefährliche Lage.",
+  "veröffentlichungsdatum" : "2020-11-27",
+  "kapitel" : [
+    {
+      "titel" : "Hilferuf",
+      "start" : 0,
+      "end" : 524560
+    },
+    {
+      "titel" : "Spurlos verschwunden",
+      "start" : 524560,
+      "end" : 824507
+    },
+    {
+      "titel" : "Räuberleiter",
+      "start" : 824507,
+      "end" : 1209333
+    },
+    {
+      "titel" : "Verhörtricks",
+      "start" : 1209333,
+      "end" : 1587360
+    },
+    {
+      "titel" : "Kletterwald",
+      "start" : 1587360,
+      "end" : 1996587
+    },
+    {
+      "titel" : "Am Marterpfahl",
+      "start" : 1996587,
+      "end" : 2539547
+    },
+    {
+      "titel" : "Der goldene Falke",
+      "start" : 2539547,
+      "end" : 3040707
+    },
+    {
+      "titel" : "Fallensteller",
+      "start" : 3040707,
+      "end" : 3528520
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Stéphane Bittoun"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Platzwart",
+      "sprecher" : "Urs Rechn"
+    },
+    {
+      "rolle" : "James",
+      "sprecher" : "Tobias Lelle"
+    },
+    {
+      "rolle" : "Mr. Lane",
+      "sprecher" : "Jochen Drechsler"
+    },
+    {
+      "rolle" : "Mr. Kent",
+      "sprecher" : "Marius Clarén"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/079/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/079/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/achtung-abenteuer-1",
+    "appleMusic" : "https://music.apple.com/de/album/1530167507"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Hilferuf",
+          "start" : 0,
+          "end" : 524560
+        },
+        {
+          "titel" : "Spurlos verschwunden",
+          "start" : 524560,
+          "end" : 824507
+        },
+        {
+          "titel" : "Räuberleiter",
+          "start" : 824507,
+          "end" : 1209333
+        },
+        {
+          "titel" : "Verhörtricks",
+          "start" : 1209333,
+          "end" : 1587360
+        },
+        {
+          "titel" : "Kletterwald",
+          "start" : 1587360,
+          "end" : 1996587
+        },
+        {
+          "titel" : "Am Marterpfahl",
+          "start" : 1996587,
+          "end" : 2539547
+        },
+        {
+          "titel" : "Der goldene Falke",
+          "start" : 2539547,
+          "end" : 3040707
+        },
+        {
+          "titel" : "Fallensteller",
+          "start" : 3040707,
+          "end" : 3528520
+        }
+      ],
+      "musicBrainzID" : "q0nFrsuSwe5Gs5SVDaKljpBqyZQ-"
+    }
+  ]
+}

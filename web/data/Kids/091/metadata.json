@@ -1,0 +1,143 @@
+{
+  "nummer" : 91,
+  "titel" : "Gefahr im Spiegelkabinett",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Onkel Titus kauft ein altes Spiegelkabinett. Bei genauerer Inspektion hören die drei ??? Kids plötzlich rätselhafte Reime. Vielleicht kann der berühmte Rätselerfinder Mr. Think helfen? Doch als Justus, Peter und Bob in seiner Villa ankommen, fehlt von ihm jede Spur …",
+  "veröffentlichungsdatum" : "2023-02-03",
+  "kapitel" : [
+    {
+      "titel" : "Katze im Sack",
+      "start" : 0,
+      "end" : 458400
+    },
+    {
+      "titel" : "Bastelstunde",
+      "start" : 458400,
+      "end" : 954853
+    },
+    {
+      "titel" : "Rätselraten",
+      "start" : 954853,
+      "end" : 1494733
+    },
+    {
+      "titel" : "Spukschlösser",
+      "start" : 1494733,
+      "end" : 2258480
+    },
+    {
+      "titel" : "Auf ins Topangatal!",
+      "start" : 2258480,
+      "end" : 2892813
+    },
+    {
+      "titel" : "Rätsel über Rätsel",
+      "start" : 2892813,
+      "end" : 3629467
+    },
+    {
+      "titel" : "Viele Fragen",
+      "start" : 3629467,
+      "end" : 4318587
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Mr. Miller",
+      "sprecher" : "Alexander Ziegenbein"
+    },
+    {
+      "rolle" : "Sergeant Bofinger",
+      "sprecher" : "Michael Lott"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Mr. Think",
+      "sprecher" : "Stephan Baumecker"
+    },
+    {
+      "rolle" : "Miss Bennett",
+      "sprecher" : "Jana Kozewa"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/091/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/091/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/gefahr-im-spiegelkabinett-1",
+    "appleMusic" : "https://music.apple.com/de/album/1752873259"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Katze im Sack",
+          "start" : 0,
+          "end" : 458400
+        },
+        {
+          "titel" : "Bastelstunde",
+          "start" : 458400,
+          "end" : 954853
+        },
+        {
+          "titel" : "Rätselraten",
+          "start" : 954853,
+          "end" : 1494733
+        },
+        {
+          "titel" : "Spukschlösser",
+          "start" : 1494733,
+          "end" : 2258480
+        },
+        {
+          "titel" : "Auf ins Topangatal!",
+          "start" : 2258480,
+          "end" : 2892813
+        },
+        {
+          "titel" : "Rätsel über Rätsel",
+          "start" : 2892813,
+          "end" : 3629467
+        },
+        {
+          "titel" : "Viele Fragen",
+          "start" : 3629467,
+          "end" : 4318587
+        }
+      ],
+      "musicBrainzID" : "HvxhO45ZBGXIZOPvycedytw7bhU-"
+    }
+  ]
+}

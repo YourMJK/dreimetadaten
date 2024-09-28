@@ -1,0 +1,141 @@
+{
+  "nummer" : 61,
+  "titel" : "Alarm im Dino-Park",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Werden die Dinosaurier-Skelette im Dino-Park nachts wirklich lebendig und bedrohen den Parkbesitzer? Justus, Peter und Bob übernehmen den Fall und begeben sich in ein waghalsiges Urzeit-Abenteuer.",
+  "veröffentlichungsdatum" : "2017-12-01",
+  "kapitel" : [
+    {
+      "titel" : "Zeitreise",
+      "start" : 0,
+      "end" : 454387
+    },
+    {
+      "titel" : "Dino-Park",
+      "start" : 454387,
+      "end" : 905533
+    },
+    {
+      "titel" : "Tanz der Saurier",
+      "start" : 905533,
+      "end" : 1267533
+    },
+    {
+      "titel" : "Auge in Auge",
+      "start" : 1267533,
+      "end" : 1666387
+    },
+    {
+      "titel" : "Miese Erpresser",
+      "start" : 1666387,
+      "end" : 2234533
+    },
+    {
+      "titel" : "Marktbesuch",
+      "start" : 2234533,
+      "end" : 2588907
+    },
+    {
+      "titel" : "Riskanter Plan",
+      "start" : 2588907,
+      "end" : 3124333
+    },
+    {
+      "titel" : "Ausgetrickst",
+      "start" : 3124333,
+      "end" : 3669787
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Paul Primus Pimbel",
+      "sprecher" : "Josef Vossenkuhl"
+    },
+    {
+      "rolle" : "Markthändler",
+      "sprecher" : "Gerrit Stratmann"
+    },
+    {
+      "rolle" : "Herbert Jackson",
+      "sprecher" : "Hendrik Martz"
+    },
+    {
+      "rolle" : "Tom",
+      "sprecher" : "Claudio Pagonis"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/061/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/061/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/alarm-im-dino-park",
+    "appleMusic" : "https://music.apple.com/de/album/1281905742"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Zeitreise",
+          "start" : 0,
+          "end" : 454387
+        },
+        {
+          "titel" : "Dino-Park",
+          "start" : 454387,
+          "end" : 905533
+        },
+        {
+          "titel" : "Tanz der Saurier",
+          "start" : 905533,
+          "end" : 1267533
+        },
+        {
+          "titel" : "Auge in Auge",
+          "start" : 1267533,
+          "end" : 1666387
+        },
+        {
+          "titel" : "Miese Erpresser",
+          "start" : 1666387,
+          "end" : 2234533
+        },
+        {
+          "titel" : "Marktbesuch",
+          "start" : 2234533,
+          "end" : 2588907
+        },
+        {
+          "titel" : "Riskanter Plan",
+          "start" : 2588907,
+          "end" : 3124333
+        },
+        {
+          "titel" : "Ausgetrickst",
+          "start" : 3124333,
+          "end" : 3669787
+        }
+      ],
+      "musicBrainzID" : "WwsKtmZEV_7vsA5N3IAkCTrXrls-"
+    }
+  ]
+}

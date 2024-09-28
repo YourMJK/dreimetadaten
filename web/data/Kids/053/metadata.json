@@ -1,0 +1,161 @@
+{
+  "nummer" : 53,
+  "titel" : "Geheimnis der Tiere",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Kann es sein, dass sich niemand um die Tiere des verstorbenen Anthony Sparks kümmern will? Justus, Peter und Bob haben ein großes Herz und nehmen sie bei sich auf. Dabei kommen die drei ??? Kids einem lang gehüteten Geheimnis auf die Spur.",
+  "veröffentlichungsdatum" : "2016-09-30",
+  "kapitel" : [
+    {
+      "titel" : "Auftragsarbeit",
+      "start" : 0,
+      "end" : 460053
+    },
+    {
+      "titel" : "Arche Noah",
+      "start" : 460053,
+      "end" : 968773
+    },
+    {
+      "titel" : "Diebe in der Nacht",
+      "start" : 968773,
+      "end" : 1479173
+    },
+    {
+      "titel" : "Erfolgsautor",
+      "start" : 1479173,
+      "end" : 1938280
+    },
+    {
+      "titel" : "Geheimnisverrat",
+      "start" : 1938280,
+      "end" : 2620427
+    },
+    {
+      "titel" : "Leuchtturmgeschichten",
+      "start" : 2620427,
+      "end" : 3394093
+    },
+    {
+      "titel" : "Sternzeichen",
+      "start" : 3394093,
+      "end" : 4065667
+    },
+    {
+      "titel" : "Countdown",
+      "start" : 4065667,
+      "end" : 4563400
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Elisabeth Bennett",
+      "sprecher" : "Petra Konradi"
+    },
+    {
+      "rolle" : "Simon Sparks",
+      "sprecher" : "Tom Solo"
+    },
+    {
+      "rolle" : "Papagei",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Allan Bennet",
+      "sprecher" : "Linus Kraus"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Ms. Robinson",
+      "sprecher" : "Denise Monteiro"
+    },
+    {
+      "rolle" : "Ernesto Porto",
+      "sprecher" : "Holger Löwenberg"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/053/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/053/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/geheimnis-der-tiere1",
+    "appleMusic" : "https://music.apple.com/de/album/1128771972"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Auftragsarbeit",
+          "start" : 0,
+          "end" : 460053
+        },
+        {
+          "titel" : "Arche Noah",
+          "start" : 460053,
+          "end" : 968773
+        },
+        {
+          "titel" : "Diebe in der Nacht",
+          "start" : 968773,
+          "end" : 1479173
+        },
+        {
+          "titel" : "Erfolgsautor",
+          "start" : 1479173,
+          "end" : 1938280
+        },
+        {
+          "titel" : "Geheimnisverrat",
+          "start" : 1938280,
+          "end" : 2620427
+        },
+        {
+          "titel" : "Leuchtturmgeschichten",
+          "start" : 2620427,
+          "end" : 3394093
+        },
+        {
+          "titel" : "Sternzeichen",
+          "start" : 3394093,
+          "end" : 4065667
+        },
+        {
+          "titel" : "Countdown",
+          "start" : 4065667,
+          "end" : 4563400
+        }
+      ],
+      "musicBrainzID" : "_tmuwFK9Y6MqueKiSMTTV.xnqpE-"
+    }
+  ]
+}

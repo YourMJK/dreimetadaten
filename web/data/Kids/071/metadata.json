@@ -1,0 +1,173 @@
+{
+  "nummer" : 71,
+  "titel" : "Tatort Trampolin",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Die neueste Attraktion in Rocky Beach ist ein spektakulärer Jump-Park. Doch kurz nach der Eröffnung kommt es zu rätselhaften Pannen. Wer will den Park ruinieren? Die drei ??? Kids machen sich auf die Suche nach dem Täter und geraten dabei selbst in Gefahr.",
+  "veröffentlichungsdatum" : "2019-07-26",
+  "kapitel" : [
+    {
+      "titel" : "Jump-Park",
+      "start" : 0,
+      "end" : 574627
+    },
+    {
+      "titel" : "Sabotage",
+      "start" : 574627,
+      "end" : 1014107
+    },
+    {
+      "titel" : "Schrottplatz-Golf",
+      "start" : 1014107,
+      "end" : 1530280
+    },
+    {
+      "titel" : "Auf Tauchstation",
+      "start" : 1530280,
+      "end" : 2177200
+    },
+    {
+      "titel" : "Bungee-Springer",
+      "start" : 2177200,
+      "end" : 2710600
+    },
+    {
+      "titel" : "Familienstreit",
+      "start" : 2710600,
+      "end" : 3396240
+    },
+    {
+      "titel" : "Zombie-Ball",
+      "start" : 3396240,
+      "end" : 4128027
+    },
+    {
+      "titel" : "Falsche Wahrheiten",
+      "start" : 4128027,
+      "end" : 4701613
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Mr. Andrews",
+      "sprecher" : "Ole Jacobsen"
+    },
+    {
+      "rolle" : "Kira Clarkson",
+      "sprecher" : "Mareike Fell"
+    },
+    {
+      "rolle" : "Huck Snyder",
+      "sprecher" : "Tom Solo"
+    },
+    {
+      "rolle" : "Robinson",
+      "sprecher" : "Gilles Karolyi"
+    },
+    {
+      "rolle" : "Michael",
+      "sprecher" : "François Smesny"
+    },
+    {
+      "rolle" : "Kapitän Nemo",
+      "sprecher" : "Christian Blecken"
+    },
+    {
+      "rolle" : "Meerjungfrau",
+      "sprecher" : "Moira May"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Mädchen",
+      "sprecher" : "Helene Blanck"
+    },
+    {
+      "rolle" : "Mutter",
+      "sprecher" : "Silke Haupt"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/071/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/071/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/tatort-trampolin",
+    "appleMusic" : "https://music.apple.com/de/album/1463752980"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Jump-Park",
+          "start" : 0,
+          "end" : 574627
+        },
+        {
+          "titel" : "Sabotage",
+          "start" : 574627,
+          "end" : 1014107
+        },
+        {
+          "titel" : "Schrottplatz-Golf",
+          "start" : 1014107,
+          "end" : 1530280
+        },
+        {
+          "titel" : "Auf Tauchstation",
+          "start" : 1530280,
+          "end" : 2177200
+        },
+        {
+          "titel" : "Bungee-Springer",
+          "start" : 2177200,
+          "end" : 2710600
+        },
+        {
+          "titel" : "Familienstreit",
+          "start" : 2710600,
+          "end" : 3396240
+        },
+        {
+          "titel" : "Zombie-Ball",
+          "start" : 3396240,
+          "end" : 4128027
+        },
+        {
+          "titel" : "Falsche Wahrheiten",
+          "start" : 4128027,
+          "end" : 4701613
+        }
+      ],
+      "musicBrainzID" : "Xlcq3D5LKzlacEeSY71GKHhEoeE-"
+    }
+  ]
+}

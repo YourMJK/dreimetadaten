@@ -1,0 +1,157 @@
+{
+  "nummer" : 23,
+  "titel" : "Feuer in Rocky Beach",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Feueralarm in Rocky Beach, denn mitten in der Nacht brennt Onkel Titus Schuppen ab. Doch dies bleibt nicht der einzige rätselhafte Brand. Ist das Zufall? Oder ist hier ein Feuerteufel am Werk? Ein Fall für die drei ??? Kids, die für ihre Ermittlungen sogar in die Jugendfeuerwehr eintreten. Es gibt viele Spuren, aber nur eine führt zur Lösung.",
+  "veröffentlichungsdatum" : "2011-09-30",
+  "kapitel" : [
+    {
+      "titel" : "Feueralarm",
+      "start" : 0,
+      "end" : 459533
+    },
+    {
+      "titel" : "Ursachenforschung",
+      "start" : 459533,
+      "end" : 989067
+    },
+    {
+      "titel" : "Katzenrettung",
+      "start" : 989067,
+      "end" : 1615613
+    },
+    {
+      "titel" : "Feuerteuel",
+      "start" : 1615613,
+      "end" : 2328240
+    },
+    {
+      "titel" : "Großeinsatz",
+      "start" : 2328240,
+      "end" : 3000013
+    },
+    {
+      "titel" : "Geldübergabe",
+      "start" : 3000013,
+      "end" : 3488133
+    },
+    {
+      "titel" : "Brandeinsatz",
+      "start" : 3488133,
+      "end" : 4259693
+    },
+    {
+      "titel" : "Wasser marsch!",
+      "start" : 4259693,
+      "end" : 4769693
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Gordon Flanders",
+      "sprecher" : "Detlef Tams"
+    },
+    {
+      "rolle" : "Blomburt",
+      "sprecher" : "Santiago Ziesmer"
+    },
+    {
+      "rolle" : "Mr. Doyle",
+      "sprecher" : "Tobias Brecklinghaus"
+    },
+    {
+      "rolle" : "Mrs. Martens",
+      "sprecher" : "Karin M. Schneider"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Mr. Corps",
+      "sprecher" : "Hans-Georg Körbel"
+    },
+    {
+      "rolle" : "Mrs. Corps",
+      "sprecher" : "Karin Buchholz"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/023/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/023/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/feuer-in-rocky-beach-1",
+    "appleMusic" : "https://music.apple.com/de/album/1092522056"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Feueralarm",
+          "start" : 0,
+          "end" : 459533
+        },
+        {
+          "titel" : "Ursachenforschung",
+          "start" : 459533,
+          "end" : 989067
+        },
+        {
+          "titel" : "Katzenrettung",
+          "start" : 989067,
+          "end" : 1615613
+        },
+        {
+          "titel" : "Feuerteuel",
+          "start" : 1615613,
+          "end" : 2328240
+        },
+        {
+          "titel" : "Großeinsatz",
+          "start" : 2328240,
+          "end" : 3000013
+        },
+        {
+          "titel" : "Geldübergabe",
+          "start" : 3000013,
+          "end" : 3488133
+        },
+        {
+          "titel" : "Brandeinsatz",
+          "start" : 3488133,
+          "end" : 4259693
+        },
+        {
+          "titel" : "Wasser marsch!",
+          "start" : 4259693,
+          "end" : 4769693
+        }
+      ],
+      "musicBrainzID" : "T6itXzaUrDidIIewXtQpFni2Q.w-"
+    }
+  ]
+}

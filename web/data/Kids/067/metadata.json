@@ -1,0 +1,159 @@
+{
+  "nummer" : 67,
+  "titel" : "Der goldene Drache",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein Drache in Rocky Beach! Während eines Unwetters streckt er seinen Kopf zwischen den Wolken hervor und speit Gold! Ist an der alten Legende tatsächlich etwas Wahres dran? Justus, Peter und Bob gehen der Sache auf den Grund.",
+  "veröffentlichungsdatum" : "2018-11-30",
+  "kapitel" : [
+    {
+      "titel" : "Stürmische Zeiten",
+      "start" : 0,
+      "end" : 356733
+    },
+    {
+      "titel" : "Drachengold",
+      "start" : 356733,
+      "end" : 782427
+    },
+    {
+      "titel" : "Alte Legenden",
+      "start" : 782427,
+      "end" : 1205867
+    },
+    {
+      "titel" : "Verrückte Geschichten",
+      "start" : 1205867,
+      "end" : 1702213
+    },
+    {
+      "titel" : "Glücksbringer",
+      "start" : 1702213,
+      "end" : 2072413
+    },
+    {
+      "titel" : "Donnerwetter",
+      "start" : 2072413,
+      "end" : 2564253
+    },
+    {
+      "titel" : "Drachenwerkstatt",
+      "start" : 2564253,
+      "end" : 3059413
+    },
+    {
+      "titel" : "Goldmagnet",
+      "start" : 3059413,
+      "end" : 3846000
+    },
+    {
+      "titel" : "Verfolgungsfahrt",
+      "start" : 3846000,
+      "end" : 4328520
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Fischer",
+      "sprecher" : "Uli Krohm"
+    },
+    {
+      "rolle" : "Silver",
+      "sprecher" : "Thomas Nero Wolff"
+    },
+    {
+      "rolle" : "Nick Brady",
+      "sprecher" : "Patrick Winczewski"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "John Brady",
+      "sprecher" : "Lutz Riedel"
+    },
+    {
+      "rolle" : "Tiffman",
+      "sprecher" : "Stephan Baumecker"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/067/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/067/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-goldene-drache",
+    "appleMusic" : "https://music.apple.com/de/album/1436948056"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Stürmische Zeiten",
+          "start" : 0,
+          "end" : 356733
+        },
+        {
+          "titel" : "Drachengold",
+          "start" : 356733,
+          "end" : 782427
+        },
+        {
+          "titel" : "Alte Legenden",
+          "start" : 782427,
+          "end" : 1205867
+        },
+        {
+          "titel" : "Verrückte Geschichten",
+          "start" : 1205867,
+          "end" : 1702213
+        },
+        {
+          "titel" : "Glücksbringer",
+          "start" : 1702213,
+          "end" : 2072413
+        },
+        {
+          "titel" : "Donnerwetter",
+          "start" : 2072413,
+          "end" : 2564253
+        },
+        {
+          "titel" : "Drachenwerkstatt",
+          "start" : 2564253,
+          "end" : 3059413
+        },
+        {
+          "titel" : "Goldmagnet",
+          "start" : 3059413,
+          "end" : 3846000
+        },
+        {
+          "titel" : "Verfolgungsfahrt",
+          "start" : 3846000,
+          "end" : 4328520
+        }
+      ],
+      "musicBrainzID" : "JA1I3wzCKI7QquBvIYdLoexNGoQ-"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "nummer" : 33,
+  "titel" : "Nacht im Kerker",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Rocky Beach wird durch einen spektakulären Juwelenraub erschüttert. Heldenhaft rettet Kommissar Reynolds den Juwelier aus den Flammen. Doch plötzlich steht er selbst unter Verdacht und wird festgenommen. Natürlich glauben die drei ??? Kids an seine Unschuld und wollen ihm helfen. Aber dafür müssen sie selbst ins Gefängnis und sitzen hinter Gittern …",
+  "veröffentlichungsdatum" : "2013-05-10",
+  "kapitel" : [
+    {
+      "titel" : "Ausbrecherkönig",
+      "start" : 0,
+      "end" : 254387
+    },
+    {
+      "titel" : "Fluchthubschrauber",
+      "start" : 254387,
+      "end" : 854533
+    },
+    {
+      "titel" : "Unter Verdacht",
+      "start" : 854533,
+      "end" : 1243387
+    },
+    {
+      "titel" : "Eismänner",
+      "start" : 1243387,
+      "end" : 1801613
+    },
+    {
+      "titel" : "Nachtruhe",
+      "start" : 1801613,
+      "end" : 2421347
+    },
+    {
+      "titel" : "Dreiste Diebe",
+      "start" : 2421347,
+      "end" : 3213253
+    },
+    {
+      "titel" : "Am Tatort",
+      "start" : 3213253,
+      "end" : 3732200
+    },
+    {
+      "titel" : "Fluchtversuch",
+      "start" : 3732200,
+      "end" : 4312147
+    },
+    {
+      "titel" : "Jagdfieber",
+      "start" : 4312147,
+      "end" : 4794067
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Klaus Dittmann"
+    },
+    {
+      "rolle" : "Juwelier Pendelton",
+      "sprecher" : "André Beyer"
+    },
+    {
+      "rolle" : "Marvin Thompson",
+      "sprecher" : "Florian Walter"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Robert Missler"
+    },
+    {
+      "rolle" : "Hilfspolizist Duncan",
+      "sprecher" : "Robert Steudtner"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/033/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/033/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/nacht-im-kerker-1",
+    "appleMusic" : "https://music.apple.com/de/album/1112966058"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Ausbrecherkönig",
+          "start" : 0,
+          "end" : 254387
+        },
+        {
+          "titel" : "Fluchthubschrauber",
+          "start" : 254387,
+          "end" : 854533
+        },
+        {
+          "titel" : "Unter Verdacht",
+          "start" : 854533,
+          "end" : 1243387
+        },
+        {
+          "titel" : "Eismänner",
+          "start" : 1243387,
+          "end" : 1801613
+        },
+        {
+          "titel" : "Nachtruhe",
+          "start" : 1801613,
+          "end" : 2421347
+        },
+        {
+          "titel" : "Dreiste Diebe",
+          "start" : 2421347,
+          "end" : 3213253
+        },
+        {
+          "titel" : "Am Tatort",
+          "start" : 3213253,
+          "end" : 3732200
+        },
+        {
+          "titel" : "Fluchtversuch",
+          "start" : 3732200,
+          "end" : 4312147
+        },
+        {
+          "titel" : "Jagdfieber",
+          "start" : 4312147,
+          "end" : 4794067
+        }
+      ],
+      "musicBrainzID" : "j1LO8fJVvPTA6kQ3G5ixWPvnVGw-"
+    }
+  ]
+}

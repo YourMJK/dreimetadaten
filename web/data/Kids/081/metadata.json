@@ -1,0 +1,157 @@
+{
+  "nummer" : 81,
+  "titel" : "Turbo-Rennen",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Rocky Beach im Stockcar-Fieber. Beim Rennen kommt es zum Diebstahl, und ausgerechnet die berühmte Rennfahrerin Viola Drew wird verdächtigt. Die drei ??? Kids versuchen, deren Unschuld zu beweisen, und stürzen sich kopfüber in ein rasantes Abenteuer!",
+  "veröffentlichungsdatum" : "2021-03-26",
+  "kapitel" : [
+    {
+      "titel" : "Kiesgrubenrennen",
+      "start" : 0,
+      "end" : 401213
+    },
+    {
+      "titel" : "Große Eröffnung",
+      "start" : 401213,
+      "end" : 805853
+    },
+    {
+      "titel" : "Sammlerstücke",
+      "start" : 805853,
+      "end" : 1460667
+    },
+    {
+      "titel" : "Kuchenpause",
+      "start" : 1460667,
+      "end" : 2018707
+    },
+    {
+      "titel" : "Fahrstunde",
+      "start" : 2018707,
+      "end" : 2578267
+    },
+    {
+      "titel" : "Nachtwache",
+      "start" : 2578267,
+      "end" : 3188253
+    },
+    {
+      "titel" : "Jagd auf den Erlkönig",
+      "start" : 3188253,
+      "end" : 3617453
+    },
+    {
+      "titel" : "Das große Rennen",
+      "start" : 3617453,
+      "end" : 4051267
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Viola Drew",
+      "sprecher" : "Lisa Marie Becker"
+    },
+    {
+      "rolle" : "Mechaniker",
+      "sprecher" : "Oliver Stritzel"
+    },
+    {
+      "rolle" : "Mr. Conolly",
+      "sprecher" : "Bernd Egger"
+    },
+    {
+      "rolle" : "Ben Butcher",
+      "sprecher" : "Engelbert von Nordhausen"
+    },
+    {
+      "rolle" : "Checker",
+      "sprecher" : "Hannes Wegener"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Rennleitung",
+      "sprecher" : "Andreas Ersson"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/081/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/081/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/turbo-rennen-1",
+    "appleMusic" : "https://music.apple.com/de/album/1549188908"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Kiesgrubenrennen",
+          "start" : 0,
+          "end" : 401213
+        },
+        {
+          "titel" : "Große Eröffnung",
+          "start" : 401213,
+          "end" : 805853
+        },
+        {
+          "titel" : "Sammlerstücke",
+          "start" : 805853,
+          "end" : 1460667
+        },
+        {
+          "titel" : "Kuchenpause",
+          "start" : 1460667,
+          "end" : 2018707
+        },
+        {
+          "titel" : "Fahrstunde",
+          "start" : 2018707,
+          "end" : 2578267
+        },
+        {
+          "titel" : "Nachtwache",
+          "start" : 2578267,
+          "end" : 3188253
+        },
+        {
+          "titel" : "Jagd auf den Erlkönig",
+          "start" : 3188253,
+          "end" : 3617453
+        },
+        {
+          "titel" : "Das große Rennen",
+          "start" : 3617453,
+          "end" : 4051267
+        }
+      ],
+      "musicBrainzID" : "tI27hoEsnpLvFsYKhhS1iOa3ecA-"
+    }
+  ]
+}

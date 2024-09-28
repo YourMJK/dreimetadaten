@@ -1,0 +1,141 @@
+{
+  "nummer" : 50,
+  "titel" : "Schatz der Piraten",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "beschreibung" : "Ein uralter Brief erzählt von der Zeit des Goldrausches in Kalifornien und bringt Die drei ??? Kids zum Schiffswrack der Santa Anna. Auf dem verlassenen Schiff finden Justus, Peter und Bob eine Schatzkarte. Diese führt sie zu einer Pirateninsel. Doch nicht nur die drei Detektive sind hinter dem Piratenschatz her. Eine spannende Jagd beginnt …",
+  "veröffentlichungsdatum" : "2016-04-04",
+  "kapitel" : [
+    {
+      "titel" : "Filmstars",
+      "start" : 0,
+      "end" : 518027
+    },
+    {
+      "titel" : "Recherche",
+      "start" : 518027,
+      "end" : 1017920
+    },
+    {
+      "titel" : "Piratengold",
+      "start" : 1017920,
+      "end" : 1441080
+    },
+    {
+      "titel" : "Kopflose Madonna",
+      "start" : 1441080,
+      "end" : 1811773
+    },
+    {
+      "titel" : "Auf hoher See",
+      "start" : 1811773,
+      "end" : 2297053
+    },
+    {
+      "titel" : "Schatzinsel",
+      "start" : 2297053,
+      "end" : 2712653
+    },
+    {
+      "titel" : "Indianer",
+      "start" : 2712653,
+      "end" : 3185093
+    },
+    {
+      "titel" : "Durchgespühlt",
+      "start" : 3185093,
+      "end" : 3806053
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Mr. Shaw",
+      "sprecher" : "Oliver Schmitz"
+    },
+    {
+      "rolle" : "Arthur Plitschking",
+      "sprecher" : "Felix Würgler"
+    },
+    {
+      "rolle" : "Marvin",
+      "sprecher" : "Florian Seigerschmidt"
+    },
+    {
+      "rolle" : "Museumswärter",
+      "sprecher" : "Richard Heinrich"
+    },
+    {
+      "rolle" : "John Horse",
+      "sprecher" : "Hubert Burczek"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/050/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/050/ffmetadata.txt",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/schatz-der-piraten1",
+    "appleMusic" : "https://music.apple.com/de/album/1147641684"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Filmstars",
+          "start" : 0,
+          "end" : 518027
+        },
+        {
+          "titel" : "Recherche",
+          "start" : 518027,
+          "end" : 1017920
+        },
+        {
+          "titel" : "Piratengold",
+          "start" : 1017920,
+          "end" : 1441080
+        },
+        {
+          "titel" : "Kopflose Madonna",
+          "start" : 1441080,
+          "end" : 1811773
+        },
+        {
+          "titel" : "Auf hoher See",
+          "start" : 1811773,
+          "end" : 2297053
+        },
+        {
+          "titel" : "Schatzinsel",
+          "start" : 2297053,
+          "end" : 2712653
+        },
+        {
+          "titel" : "Indianer",
+          "start" : 2712653,
+          "end" : 3185093
+        },
+        {
+          "titel" : "Durchgespühlt",
+          "start" : 3185093,
+          "end" : 3806053
+        }
+      ],
+      "musicBrainzID" : "RnZ.1dtPEDpmsZwv7QAV50keKz4-"
+    }
+  ]
+}
