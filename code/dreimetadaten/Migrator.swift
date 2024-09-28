@@ -94,7 +94,7 @@ class Migrator {
 				kurzbeschreibung: objectItem.kurzbeschreibung,
 				beschreibung: objectItem.beschreibung,
 				metabeschreibung: objectItem.metabeschreibung,
-				veröffentlichungsdatum: try objectItem.veröffentlichungsdatum.map(dateComponents(from:)),
+				veröffentlichungsdatum: try objectItem.veröffentlichungsdatum.map(Self.dateComponents(from:)),
 				unvollständig: objectItem.unvollständig ?? false,
 				cover: objectItem.links?.cover != nil ? 1 : 0,
 				urlCoverApple: objectItem.links?.cover_itunes,
@@ -328,7 +328,7 @@ class Migrator {
 		relationalModel.sprechrolleTeil.append(relationalItem)
 	}
 	
-	private func dateComponents(from string: String) throws -> DatabaseDateComponents {
+	static func dateComponents(from string: String) throws -> DatabaseDateComponents {
 		let stringComponents = string.split(separator: "-")
 		func component(_ index: Int) -> Int? {
 			Int(stringComponents[index])
