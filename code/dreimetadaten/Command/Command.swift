@@ -14,7 +14,7 @@ struct Command: ParsableCommand {
 	static let configuration = CommandConfiguration(
 		commandName: executableName,
 		version: "2.1.0",
-		subcommands: [Load.self, Export.self, WebBuild.self, Migrate.self, Import.self],
+		subcommands: [Load.self, Export.self, WebBuild.self, Migrate.self],
 		helpMessageLabelColumnWidth: 20
 	)
 	
