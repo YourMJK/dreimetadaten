@@ -98,6 +98,7 @@ extension Command.WebBuild {
 		case spezial
 		case kurzgeschichten
 		case die_dr3i
+		case kids
 		
 		case statistik
 		case all
@@ -108,6 +109,7 @@ extension Command.WebBuild {
 				case .spezial: return [.collection(type: .spezial)]
 				case .kurzgeschichten: return [.collection(type: .kurzgeschichten)]
 				case .die_dr3i: return [.collection(type: .die_dr3i)]
+				case .kids: return [.collection(type: .kids)]
 				case .statistik: return [.statistik]
 				case .all:
 					return CollectionType.allCases.map(Page.collection(type:)) + [

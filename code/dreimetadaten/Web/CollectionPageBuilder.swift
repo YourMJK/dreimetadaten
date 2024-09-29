@@ -56,8 +56,9 @@ class CollectionPageBuilder: PageBuilder {
 		
 		// Headers
 		table.startRow()
-		let headerCoverWidth: UInt = countLinks([\.cover, \.cover_itunes, \.cover_kosmos])
-		let headerPlattformWidth: UInt = countLinks([\.dreifragezeichen, \.appleMusic, \.spotify])
+		let hasRipLog = collection.compactMap(\.medien).joined().contains { $0.ripLog != nil }
+		let headerCoverWidth = countLinks([\.cover, \.cover_itunes, \.cover_kosmos])
+		let headerPlattformWidth = countLinks([\.dreifragezeichen, \.appleMusic, \.spotify])
 		let headerNr = "Nr."
 		let headerTitel = "Titel"
 		switch collectionType {
@@ -69,12 +70,18 @@ class CollectionPageBuilder: PageBuilder {
 			case .kurzgeschichten:
 				table.addCell(type: .th, content: "Sammlung")
 				table.addCell(type: .th, content: headerTitel)
-			case .die_dr3i, .kids:
+			case .die_dr3i:
+				table.addCell(type: .th, content: headerNr)
+				table.addCell(type: .th, content: headerTitel)
+			case .kids:
+				collection.reverse()
 				table.addCell(type: .th, content: headerNr)
 				table.addCell(type: .th, content: headerTitel)
 		}
 		table.addCell(type: .th, width: 2, content: "Metadaten")
-		table.addCell(type: .th, content: "Rip")
+		if hasRipLog {
+			table.addCell(type: .th, content: "Rip")
+		}
 		table.addCell(type: .th, width: headerCoverWidth, content: "Cover")
 		table.addCell(type: .th, width: headerPlattformWidth, content: "Plattform")
 		table.endRow()
@@ -178,11 +185,13 @@ class CollectionPageBuilder: PageBuilder {
 			try addLinks([("JSON", \.json)])
 			try addLinks([("FFmetadata", \.ffmetadata)])
 			// Rip Log
-			let ripLogs = hörspiel.medien?.map(\.ripLog) ?? []
-			let multipleRipLogs = ripLogs.count > 1
-			try addLinks(ripLogs.enumerated().map { (index, ripLog) in
-				("CD\(multipleRipLogs ? String(index+1) : "")", ripLog)
-			})
+			if hasRipLog {
+				let ripLogs = hörspiel.medien?.map(\.ripLog) ?? []
+				let multipleRipLogs = ripLogs.count > 1
+				try addLinks(ripLogs.enumerated().map { (index, ripLog) in
+					("CD\(multipleRipLogs ? String(index+1) : "")", ripLog)
+				})
+			}
 			// Cover
 			if hasLink[\.cover]! {
 				let name = "dreimetadaten"
