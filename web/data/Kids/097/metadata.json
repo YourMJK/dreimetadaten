@@ -1,0 +1,59 @@
+{
+  "nummer" : 97,
+  "titel" : "Die Fragezeichen-Falle",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "kurzbeschreibung" : "Trotz der Verhaftung eines Briefkastendiebes kommt Rocky Beach nicht zur Ruhe.",
+  "beschreibung" : "Plötzlich tauchen in der Stadt überall Fragezeichen auf. Doch wer außer den drei ??? Kids hinterlässt Kreidezeichen in den Farben Weiß, Rot und Blau?",
+  "veröffentlichungsdatum" : "2024-09-20",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Pförtner",
+      "sprecher" : "Andreas Hofer"
+    },
+    {
+      "rolle" : "John Simmons",
+      "sprecher" : "Felix Würgler"
+    },
+    {
+      "rolle" : "Gloria",
+      "sprecher" : "Bianca Krahl"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/097/metadata.json",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/6b/2b/36/6b2b36e9-5b2c-4dfe-b47c-eff6f4d8847a/196872211818.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-fragezeichen-falle",
+    "appleMusic" : "https://music.apple.com/de/album/1758038649",
+    "spotify" : "https://open.spotify.com/intl-de/album/0pIth1U2QD7sdvjt4xpRvS"
+  },
+  "unvollständig" : true
+}
