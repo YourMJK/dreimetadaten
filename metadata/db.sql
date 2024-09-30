@@ -23329,4 +23329,7 @@ INSERT INTO "hörspielSkriptautor" VALUES(402,931);
 INSERT INTO "hörspielSkriptautor" VALUES(403,931);
 INSERT INTO "hörspielSkriptautor" VALUES(404,931);
 INSERT INTO "hörspielSkriptautor" VALUES(405,931);
+INSERT INTO "hörspielSkriptautor" VALUES(69,235);
+INSERT INTO "hörspielSkriptautor" VALUES(70,235);
+INSERT INTO "hörspielSkriptautor" VALUES(74,235);
 COMMIT;
