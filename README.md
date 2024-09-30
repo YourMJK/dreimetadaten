@@ -1,7 +1,8 @@
 # dreimetadaten
 #### Die drei ??? Metadaten – Datenbank, API und Website: [dreimetadaten.de](https://dreimetadaten.de)
 
-Vollständige und korrekte Metadaten zu allen *Die drei ???* Folgen, inklusive Spezial-Folgen, DiE DR3i und Kurzgeschichten.  
+Vollständige und korrekte Metadaten zu allen *Die drei ???* Folgen, inklusive Spezial-Folgen, *DiE DR3i*, Kurzgeschichten und *Die drei ??? Kids*.
+
 Darunter:
 * Hochauflösende Coverbilder
 * Kapiteldaten mit Zeitangaben
@@ -32,8 +33,9 @@ Folgende Projekte greifen bereits auf diesen Datensatz zurück:
   <img src="model/relationalModel.svg" width="100%" height="100%">
 </a>
 
+<p>
 <details>
-<summary><h4>SQL Schema</h4></summary>
+<summary><b>SQL Schema</b></summary>
 
 ``` sql
 CREATE TABLE IF NOT EXISTS "hörspiel"(
@@ -84,6 +86,7 @@ CREATE TABLE IF NOT EXISTS "medium"(
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "position" INTEGER NOT NULL CHECK("position" > 0),
   "ripLog" BOOLEAN NOT NULL,
+  "musicBrainzID" TEXT,
   UNIQUE("hörspielID", "position")
 );
 CREATE TABLE IF NOT EXISTS "track"(
@@ -149,6 +152,7 @@ CREATE TABLE IF NOT EXISTS "hörspielSkriptautor"(
 ```
 
 </details>
+</p>
 
 ### Objekt-orientiertes Modell (JSON)
 
@@ -156,8 +160,9 @@ CREATE TABLE IF NOT EXISTS "hörspielSkriptautor"(
   <img src="model/objectModel.svg" width="100%" height="100%">
 </a>
 
+<p>
 <details>
-<summary><h4>JSON Schema (in Swift)</h4></summary>
+<summary><b>JSON Schema (in Swift)</b></summary>
 
 ``` swift
 struct MetadataObjectModel {
@@ -223,10 +228,12 @@ struct Links {
 struct Medium {
   var tracks: [Kapitel]
   var ripLog: String?
+  var musicBrainzID: String?
 }
 ```
 
 </details>
+</p>
 
 ## Beitragen
 **Die "Single Source of Truth" für die Metadaten ist die SQL-Datenbank**.  
