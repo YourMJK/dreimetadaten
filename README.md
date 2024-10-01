@@ -235,6 +235,10 @@ struct Medium {
 </details>
 </p>
 
+## Unterstützen über GitHub Sponsors
+Wenn dir dieses Projekt gefällt oder der Datensatz hilfreich war, würde ich mich sehr über deine [Unterstützung durch eine Spende](https://github.com/sponsors/YourMJK) freuen!  
+Das Geld hilft mir, die Kosten für das Hosting und die CDs zu tragen und motiviert mich, die Daten zu erweitern und weiterhin zeitnah aktuell zu halten :)
+
 ## Beitragen
 **Die "Single Source of Truth" für die Metadaten ist die SQL-Datenbank**.  
 Alle anderen Formate (wie TSV, JSON, `ffmetadata`) werden davon abgeleitet.  
