@@ -32,6 +32,7 @@ extension MetadataObjectModel {
 		var kapitel: [Kapitel]?
 		var sprechrollen: [Sprechrolle]?
 		var links: Links?
+		var ids: IDs?
 		var unvollständig: Bool?
 		var medien: [Medium]?
 		var teile: [Teil]?
@@ -115,6 +116,10 @@ extension MetadataObjectModel {
 		var bookbeat: String?
 	}
 	
+	struct IDs: Codable {
+		var dreimetadaten: UInt
+	}
+	
 	struct Medium: Codable {
 		var tracks: [Kapitel]
 		var ripLog: String?
@@ -166,6 +171,7 @@ extension MetadataObjectModel {
 			"kapitel",
 			"sprechrollen",
 			"links",
+			"ids",
 			"unvollständig",
 			"medien",
 			"teile",
@@ -191,7 +197,9 @@ extension MetadataObjectModel {
 			"dreifragezeichen",
 			"appleMusic",
 			"spotify",
-			"bookbeat"
+			"bookbeat",
+			
+			"dreimetadaten",
 		]
 		static func prefixedKeyString(keyString: String) -> String {
 			let number = Self.ordering.firstIndex(of: keyString) ?? 99
@@ -327,6 +335,7 @@ extension MetadataObjectModel {
 			to.sprechrollen = from.sprechrollen
 			to.medien = from.medien
 			to.links = from.links
+			to.ids = from.ids
 			to.unvollständig = from.unvollständig
 		}
 		
@@ -466,6 +475,9 @@ extension MetadataObjectModel {
 				appleMusic: hörspiel.urlAppleMusic,
 				spotify: hörspiel.urlSpotify,
 				bookbeat: hörspiel.urlBookbeat
+			)
+			hörspielObject.ids = IDs(
+				dreimetadaten: hörspiel.hörspielID
 			)
 			hörspielObject.unvollständig = hörspiel.unvollständig ? true : nil
 			

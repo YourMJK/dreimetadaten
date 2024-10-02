@@ -18,6 +18,7 @@ class Hörspiel {
 	var kapitel: [Kapitel]?
 	var sprechrollen: [Sprechrolle]?
 	var links: Links?
+	var ids: IDs?
 	var unvollständig: Bool?
 	var medien: [Medium]?
 	var teile: [Teil]?
@@ -56,6 +57,10 @@ struct Links {
 	var appleMusic: String?
 	var spotify: String?
 	var bookbeat: String?
+}
+
+struct IDs {
+	var dreimetadaten: UInt
 }
 
 struct Medium {
