@@ -126,5 +126,8 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/175/2/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/2/ffmetadata.txt"
+  },
+  "ids" : {
+    "dreimetadaten" : 227
   }
 }

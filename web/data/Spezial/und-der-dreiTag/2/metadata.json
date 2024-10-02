@@ -161,5 +161,8 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt"
+  },
+  "ids" : {
+    "dreimetadaten" : 162
   }
 }

@@ -144,5 +144,8 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/150/3/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/150/3/ffmetadata.txt"
+  },
+  "ids" : {
+    "dreimetadaten" : 177
   }
 }

@@ -140,6 +140,9 @@
     "spotify" : "https://open.spotify.com/intl-de/album/4lLOJQU6QBH5cxmERE77La",
     "bookbeat" : "https://www.bookbeat.com/de/book/534852"
   },
+  "ids" : {
+    "dreimetadaten" : 234
+  },
   "medien" : [
     {
       "tracks" : [
@@ -296,6 +299,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 235
       }
     },
     {
@@ -371,6 +377,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 236
       }
     },
     {
@@ -421,6 +430,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/3/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/3/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 237
       }
     },
     {
@@ -497,6 +509,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/4/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/4/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 238
       }
     },
     {
@@ -552,6 +567,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/5/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/5/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 239
       }
     },
     {
@@ -632,6 +650,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/6/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/6/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 240
       }
     }
   ]

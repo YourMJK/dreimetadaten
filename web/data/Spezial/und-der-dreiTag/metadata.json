@@ -196,6 +196,9 @@
     "spotify" : "https://open.spotify.com/intl-de/album/3JJeehFIJTxhrltC6e44VT",
     "bookbeat" : "https://www.bookbeat.com/de/book/535017"
   },
+  "ids" : {
+    "dreimetadaten" : 160
+  },
   "medien" : [
     {
       "tracks" : [
@@ -587,6 +590,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 161
       }
     },
     {
@@ -752,6 +758,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 162
       }
     },
     {
@@ -968,6 +977,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 163
       }
     }
   ]

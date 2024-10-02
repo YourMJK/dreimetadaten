@@ -147,6 +147,9 @@
     "spotify" : "https://open.spotify.com/intl-de/album/1nL3AddBvZ845zMyXRowgs",
     "bookbeat" : "https://www.bookbeat.com/de/book/534932"
   },
+  "ids" : {
+    "dreimetadaten" : 186
+  },
   "medien" : [
     {
       "tracks" : [
@@ -288,6 +291,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 187
       }
     },
     {
@@ -329,6 +335,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 188
       }
     },
     {
@@ -378,6 +387,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 189
       }
     },
     {
@@ -403,6 +415,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/4/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/4/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 190
       }
     },
     {
@@ -456,6 +471,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/5/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/5/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 191
       }
     },
     {
@@ -481,6 +499,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/6/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/6/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 192
       }
     },
     {
@@ -522,6 +543,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/7/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/7/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 193
       }
     },
     {
@@ -567,6 +591,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/8/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/8/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 194
       }
     },
     {
@@ -625,6 +652,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/9/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/9/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 195
       }
     },
     {
@@ -650,6 +680,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/10/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/10/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 196
       }
     },
     {
@@ -699,6 +732,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/11/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/11/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 197
       }
     },
     {
@@ -756,6 +792,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/12/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/12/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 198
       }
     }
   ]

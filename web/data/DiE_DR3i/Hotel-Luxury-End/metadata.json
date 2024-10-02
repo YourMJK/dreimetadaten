@@ -75,6 +75,9 @@
     "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/metadata.json",
     "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/cover.png"
   },
+  "ids" : {
+    "dreimetadaten" : 128
+  },
   "medien" : [
     {
       "tracks" : [
@@ -475,6 +478,9 @@
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/cover.png"
+      },
+      "ids" : {
+        "dreimetadaten" : 129
       }
     },
     {
@@ -614,6 +620,9 @@
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/cover.png"
+      },
+      "ids" : {
+        "dreimetadaten" : 130
       }
     }
   ]

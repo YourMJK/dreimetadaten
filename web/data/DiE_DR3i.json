@@ -210,6 +210,9 @@
           "http://dreimetadaten.de/data/DiE_DR3i/1/cover3.png"
         ]
       },
+      "ids" : {
+        "dreimetadaten" : 125
+      },
       "medien" : [
         {
           "tracks" : [
@@ -481,6 +484,9 @@
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/2/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/2/cover.png"
       },
+      "ids" : {
+        "dreimetadaten" : 126
+      },
       "medien" : [
         {
           "tracks" : [
@@ -674,6 +680,9 @@
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/3/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/3/cover.png"
       },
+      "ids" : {
+        "dreimetadaten" : 127
+      },
       "medien" : [
         {
           "tracks" : [
@@ -823,6 +832,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/metadata.json",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/cover.png"
+      },
+      "ids" : {
+        "dreimetadaten" : 128
       },
       "medien" : [
         {
@@ -1224,6 +1236,9 @@
             "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/metadata.json",
             "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/ffmetadata.txt",
             "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/1/cover.png"
+          },
+          "ids" : {
+            "dreimetadaten" : 129
           }
         },
         {
@@ -1363,6 +1378,9 @@
             "json" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/metadata.json",
             "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/ffmetadata.txt",
             "cover" : "http://dreimetadaten.de/data/DiE_DR3i/Hotel-Luxury-End/2/cover.png"
+          },
+          "ids" : {
+            "dreimetadaten" : 130
           }
         }
       ]
@@ -1494,6 +1512,9 @@
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/4/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/4/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/4/cover.png"
+      },
+      "ids" : {
+        "dreimetadaten" : 131
       },
       "medien" : [
         {
@@ -1669,6 +1690,9 @@
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/5/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/5/cover.png"
       },
+      "ids" : {
+        "dreimetadaten" : 132
+      },
       "medien" : [
         {
           "tracks" : [
@@ -1841,6 +1865,9 @@
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/6/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/6/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/6/cover.png"
+      },
+      "ids" : {
+        "dreimetadaten" : 133
       },
       "medien" : [
         {
@@ -2027,6 +2054,9 @@
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/7/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/7/cover.png"
       },
+      "ids" : {
+        "dreimetadaten" : 134
+      },
       "medien" : [
         {
           "tracks" : [
@@ -2200,6 +2230,9 @@
         "json" : "http://dreimetadaten.de/data/DiE_DR3i/8/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/8/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/DiE_DR3i/8/cover.png"
+      },
+      "ids" : {
+        "dreimetadaten" : 135
       },
       "medien" : [
         {

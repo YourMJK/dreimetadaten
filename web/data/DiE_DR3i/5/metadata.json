@@ -109,6 +109,9 @@
     "ffmetadata" : "http://dreimetadaten.de/data/DiE_DR3i/5/ffmetadata.txt",
     "cover" : "http://dreimetadaten.de/data/DiE_DR3i/5/cover.png"
   },
+  "ids" : {
+    "dreimetadaten" : 132
+  },
   "medien" : [
     {
       "tracks" : [

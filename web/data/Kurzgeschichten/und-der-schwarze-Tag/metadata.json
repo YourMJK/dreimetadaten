@@ -148,6 +148,9 @@
     "spotify" : "https://open.spotify.com/intl-de/album/7ehMwTyKuIM4zdiltMxE4X",
     "bookbeat" : "https://www.bookbeat.com/de/book/535117"
   },
+  "ids" : {
+    "dreimetadaten" : 260
+  },
   "medien" : [
     {
       "tracks" : [
@@ -297,6 +300,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 261
       }
     },
     {
@@ -357,6 +363,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 262
       }
     },
     {
@@ -428,6 +437,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 263
       }
     },
     {
@@ -511,6 +523,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/4/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/4/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 264
       }
     },
     {
@@ -590,6 +605,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/5/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/5/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 265
       }
     },
     {
@@ -650,6 +668,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/6/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/6/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 266
       }
     }
   ]

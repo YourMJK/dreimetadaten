@@ -123,6 +123,9 @@
     "spotify" : "https://open.spotify.com/intl-de/album/0sIRyuExi7jBQmOpHyyY78",
     "bookbeat" : "https://www.bookbeat.com/de/book/534792"
   },
+  "ids" : {
+    "dreimetadaten" : 140
+  },
   "medien" : [
     {
       "tracks" : [
@@ -475,6 +478,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/125/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/1/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 141
       }
     },
     {
@@ -632,6 +638,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/125/2/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/2/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 142
       }
     },
     {
@@ -799,6 +808,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/125/3/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/3/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 143
       }
     }
   ]

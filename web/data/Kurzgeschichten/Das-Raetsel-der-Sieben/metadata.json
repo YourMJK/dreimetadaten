@@ -141,6 +141,9 @@
     "spotify" : "https://open.spotify.com/intl-de/album/2AEzTekSWfyfzJH56jmhET",
     "bookbeat" : "https://www.bookbeat.com/de/book/534898"
   },
+  "ids" : {
+    "dreimetadaten" : 210
+  },
   "medien" : [
     {
       "tracks" : [
@@ -338,6 +341,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 211
       }
     },
     {
@@ -405,6 +411,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 212
       }
     },
     {
@@ -461,6 +470,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 213
       }
     },
     {
@@ -532,6 +544,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/4/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/4/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 214
       }
     },
     {
@@ -601,6 +616,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/5/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/5/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 215
       }
     },
     {
@@ -665,6 +683,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/6/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/6/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 216
       }
     },
     {
@@ -725,6 +746,9 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/7/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/7/ffmetadata.txt"
+      },
+      "ids" : {
+        "dreimetadaten" : 217
       }
     }
   ]
