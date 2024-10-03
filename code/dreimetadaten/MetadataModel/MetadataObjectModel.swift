@@ -114,6 +114,7 @@ extension MetadataObjectModel {
 		var appleMusic: String?
 		var spotify: String?
 		var bookbeat: String?
+		var amazonMusic: String?
 	}
 	
 	struct IDs: Codable {
@@ -121,6 +122,7 @@ extension MetadataObjectModel {
 		var appleMusic: String?
 		var spotify: String?
 		var bookbeat: String?
+		var amazonMusic: String?
 	}
 	
 	struct Medium: Codable {
@@ -203,6 +205,7 @@ extension MetadataObjectModel {
 			"appleMusic",
 			"spotify",
 			"bookbeat",
+			"amazonMusic",
 		]
 		static func prefixedKeyString(keyString: String) -> String {
 			let number = Self.ordering.firstIndex(of: keyString) ?? 99
@@ -326,7 +329,6 @@ extension MetadataObjectModel {
 			collection.isEmpty ? nil : collection
 		}
 		func copy(from: Hörspiel, to: Hörspiel) {
-			to.teile = from.teile
 			to.titel = from.titel
 			to.autor = from.autor
 			to.hörspielskriptautor = from.hörspielskriptautor
@@ -336,10 +338,11 @@ extension MetadataObjectModel {
 			to.veröffentlichungsdatum = from.veröffentlichungsdatum
 			to.kapitel = from.kapitel
 			to.sprechrollen = from.sprechrollen
-			to.medien = from.medien
 			to.links = from.links
 			to.ids = from.ids
 			to.unvollständig = from.unvollständig
+			to.medien = from.medien
+			to.teile = from.teile
 		}
 		
 		var hörspielObjects = [MetadataRelationalModel.Hörspiel.ID: MetadataObjectModel.Hörspiel]()
@@ -477,13 +480,15 @@ extension MetadataObjectModel {
 				dreifragezeichen: hörspiel.urlDreifragezeichen,
 				appleMusic: hörspiel.idAppleMusic.map { "https://music.apple.com/de/album/\($0)" },
 				spotify: hörspiel.idSpotify.map { "https://open.spotify.com/intl-de/album/\($0)" },
-				bookbeat: hörspiel.idBookbeat.map { "https://www.bookbeat.com/de/book/\($0)" }
+				bookbeat: hörspiel.idBookbeat.map { "https://www.bookbeat.com/de/book/\($0)" },
+				amazonMusic: hörspiel.idAmazonMusic.map { "https://music.amazon.de/albums/\($0)" }
 			)
 			hörspielObject.ids = IDs(
 				dreimetadaten: hörspiel.hörspielID,
 				appleMusic: hörspiel.idAppleMusic,
 				spotify: hörspiel.idSpotify,
-				bookbeat: hörspiel.idBookbeat
+				bookbeat: hörspiel.idBookbeat,
+				amazonMusic: hörspiel.idAmazonMusic
 			)
 			hörspielObject.unvollständig = hörspiel.unvollständig ? true : nil
 			

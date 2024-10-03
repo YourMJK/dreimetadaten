@@ -52,7 +52,8 @@ CREATE TABLE IF NOT EXISTS "hörspiel"(
   "urlDreifragezeichen" TEXT,
   "idAppleMusic" TEXT,
   "idSpotify" TEXT,
-  "idBookbeat" TEXT
+  "idBookbeat" TEXT,
+  "idAmazonMusic" TEXT
 );
 CREATE TABLE IF NOT EXISTS "hörspielTeil"(
   "teil" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
@@ -224,6 +225,7 @@ struct Links {
   var appleMusic: String?
   var spotify: String?
   var bookbeat: String?
+  var amazonMusic: String?
 }
 
 struct IDs {
@@ -231,6 +233,7 @@ struct IDs {
   var appleMusic: String?
   var spotify: String?
   var bookbeat: String?
+  var amazonMusic: String?
 }
 
 struct Medium {

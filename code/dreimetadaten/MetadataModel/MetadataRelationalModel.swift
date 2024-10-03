@@ -84,6 +84,7 @@ extension MetadataRelationalModel {
 		var idAppleMusic: String?
 		var idSpotify: String?
 		var idBookbeat: String?
+		var idAmazonMusic: String?
 	}
 	
 	struct HörspielTeil: Codable {
@@ -299,6 +300,7 @@ extension MetadataRelationalModel {
 			t.column("idAppleMusic", .text)
 			t.column("idSpotify", .text)
 			t.column("idBookbeat", .text)
+			t.column("idAmazonMusic", .text)
 		}
 		// HörspielTeil
 		try db.create(table: HörspielTeil.databaseTableName) { t in

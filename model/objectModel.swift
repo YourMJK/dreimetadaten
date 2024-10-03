@@ -57,6 +57,7 @@ struct Links {
 	var appleMusic: String?
 	var spotify: String?
 	var bookbeat: String?
+	var amazonMusic: String?
 }
 
 struct IDs {
@@ -64,6 +65,7 @@ struct IDs {
 	var appleMusic: String?
 	var spotify: String?
 	var bookbeat: String?
+	var amazonMusic: String?
 }
 
 struct Medium {
