@@ -204,27 +204,9 @@ struct WebDataExporter {
 			}
 		}
 		
-		try index(named: "apple-music") { hörspiel in
-			guard let link = hörspiel.links?.appleMusic else { return nil }
-			guard let id = URL(string: link)?.lastPathComponent else {
-				throw IndexerError.invalidAppleMusicURL(url: link)
-			}
-			return id
-		}
-		try index(named: "spotify") { hörspiel in
-			guard let link = hörspiel.links?.spotify else { return nil }
-			guard let id = URL(string: link)?.lastPathComponent else {
-				throw IndexerError.invalidAppleMusicURL(url: link)
-			}
-			return id
-		}
-		try index(named: "bookbeat") { hörspiel in
-			guard let link = hörspiel.links?.bookbeat else { return nil }
-			guard let id = URL(string: link)?.lastPathComponent else {
-				throw IndexerError.invalidBookbeatURL(url: link)
-			}
-			return id
-		}
+		try index(named: "apple-music", \.ids?.appleMusic)
+		try index(named: "spotify", \.ids?.spotify)
+		try index(named: "bookbeat", \.ids?.bookbeat)
 	}
 	
 	

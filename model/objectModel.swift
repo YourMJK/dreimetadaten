@@ -61,6 +61,9 @@ struct Links {
 
 struct IDs {
 	var dreimetadaten: UInt
+	var appleMusic: String?
+	var spotify: String?
+	var bookbeat: String?
 }
 
 struct Medium {
