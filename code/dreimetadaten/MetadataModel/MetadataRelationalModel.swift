@@ -81,9 +81,9 @@ extension MetadataRelationalModel {
 		var urlCoverApple: String?
 		var urlCoverKosmos: String?
 		var urlDreifragezeichen: String?
-		var urlAppleMusic: String?
-		var urlSpotify: String?
-		var urlBookbeat: String?
+		var idAppleMusic: String?
+		var idSpotify: String?
+		var idBookbeat: String?
 	}
 	
 	struct HörspielTeil: Codable {
@@ -296,9 +296,9 @@ extension MetadataRelationalModel {
 			t.column("urlCoverApple", .text)
 			t.column("urlCoverKosmos", .text)
 			t.column("urlDreifragezeichen", .text)
-			t.column("urlAppleMusic", .text)
-			t.column("urlSpotify", .text)
-			t.column("urlBookbeat", .text)
+			t.column("idAppleMusic", .text)
+			t.column("idSpotify", .text)
+			t.column("idBookbeat", .text)
 		}
 		// HörspielTeil
 		try db.create(table: HörspielTeil.databaseTableName) { t in

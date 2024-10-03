@@ -472,9 +472,9 @@ extension MetadataObjectModel {
 				cover_itunes: hörspiel.urlCoverApple,
 				cover_kosmos: hörspiel.urlCoverKosmos,
 				dreifragezeichen: hörspiel.urlDreifragezeichen,
-				appleMusic: hörspiel.urlAppleMusic,
-				spotify: hörspiel.urlSpotify,
-				bookbeat: hörspiel.urlBookbeat
+				appleMusic: hörspiel.idAppleMusic.map { "https://music.apple.com/de/album/\($0)" },
+				spotify: hörspiel.idSpotify.map { "https://open.spotify.com/intl-de/album/\($0)" },
+				bookbeat: hörspiel.idBookbeat.map { "https://www.bookbeat.com/de/book/\($0)" }
 			)
 			hörspielObject.ids = IDs(
 				dreimetadaten: hörspiel.hörspielID
