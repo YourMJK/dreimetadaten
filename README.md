@@ -50,9 +50,9 @@ CREATE TABLE IF NOT EXISTS "hörspiel"(
   "urlCoverApple" TEXT,
   "urlCoverKosmos" TEXT,
   "urlDreifragezeichen" TEXT,
-  "urlAppleMusic" TEXT,
-  "urlSpotify" TEXT,
-  "urlBookbeat" TEXT
+  "idAppleMusic" TEXT,
+  "idSpotify" TEXT,
+  "idBookbeat" TEXT
 );
 CREATE TABLE IF NOT EXISTS "hörspielTeil"(
   "teil" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
