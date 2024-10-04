@@ -115,12 +115,14 @@
     "ffmetadata" : "http://dreimetadaten.de/data/Kids/075/ffmetadata.txt",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music123/v4/be/2f/d1/be2fd144-3bb9-9ff8-d212-69e53da36fae/886447878514.jpg",
     "appleMusic" : "https://music.apple.com/de/album/1495018958",
-    "spotify" : "https://open.spotify.com/intl-de/album/4M3VGzWy7xxm93zGw0xqAU"
+    "spotify" : "https://open.spotify.com/intl-de/album/4M3VGzWy7xxm93zGw0xqAU",
+    "amazonMusic" : "https://music.amazon.de/albums/B083WP4CD6"
   },
   "ids" : {
     "dreimetadaten" : 383,
     "appleMusic" : "1495018958",
-    "spotify" : "4M3VGzWy7xxm93zGw0xqAU"
+    "spotify" : "4M3VGzWy7xxm93zGw0xqAU",
+    "amazonMusic" : "B083WP4CD6"
   },
   "medien" : [
     {

@@ -8,11 +8,13 @@
     "json" : "http://dreimetadaten.de/data/Serie/230/metadata.json",
     "cover" : "http://dreimetadaten.de/data/Serie/230/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/f6/3c/1b/f63c1b22-f6dc-6cef-65e1-509fbab4650a/196872212150.jpg",
-    "appleMusic" : "https://music.apple.com/de/album/1764904056"
+    "appleMusic" : "https://music.apple.com/de/album/1764904056",
+    "amazonMusic" : "https://music.amazon.de/albums/B0DF7PZZRW"
   },
   "ids" : {
     "dreimetadaten" : 308,
-    "appleMusic" : "1764904056"
+    "appleMusic" : "1764904056",
+    "amazonMusic" : "B0DF7PZZRW"
   },
   "unvollständig" : true
 }

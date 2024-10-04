@@ -103,12 +103,14 @@
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music18/v4/74/6a/1e/746a1ed6-65ea-02aa-05ae-e6354f53e526/886445756685.jpg",
     "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/ein-fall-fur-superhelden1",
     "appleMusic" : "https://music.apple.com/de/album/1134564507",
-    "spotify" : "https://open.spotify.com/intl-de/album/4Al8xe9LlMxHWhIddbienL"
+    "spotify" : "https://open.spotify.com/intl-de/album/4Al8xe9LlMxHWhIddbienL",
+    "amazonMusic" : "https://music.amazon.de/albums/B01IG5FXYS"
   },
   "ids" : {
     "dreimetadaten" : 353,
     "appleMusic" : "1134564507",
-    "spotify" : "4Al8xe9LlMxHWhIddbienL"
+    "spotify" : "4Al8xe9LlMxHWhIddbienL",
+    "amazonMusic" : "B01IG5FXYS"
   },
   "medien" : [
     {

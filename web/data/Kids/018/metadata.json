@@ -140,12 +140,14 @@
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music69/v4/c1/eb/e4/c1ebe4b4-31d9-0f85-15ea-3bc6b238615c/886445747874.jpg",
     "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/mission-maulwurf",
     "appleMusic" : "https://music.apple.com/de/album/1092521904",
-    "spotify" : "https://open.spotify.com/intl-de/album/5Z6HPLDixzbX8TNK889Fr8"
+    "spotify" : "https://open.spotify.com/intl-de/album/5Z6HPLDixzbX8TNK889Fr8",
+    "amazonMusic" : "https://music.amazon.de/albums/B01CUS12OC"
   },
   "ids" : {
     "dreimetadaten" : 326,
     "appleMusic" : "1092521904",
-    "spotify" : "5Z6HPLDixzbX8TNK889Fr8"
+    "spotify" : "5Z6HPLDixzbX8TNK889Fr8",
+    "amazonMusic" : "B01CUS12OC"
   },
   "medien" : [
     {
