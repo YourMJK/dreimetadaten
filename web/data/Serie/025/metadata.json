@@ -119,14 +119,16 @@
     "appleMusic" : "https://music.apple.com/de/album/1092535345",
     "spotify" : "https://open.spotify.com/intl-de/album/6RXr8BmKNSK9Zk11k0I7Dl",
     "bookbeat" : "https://www.bookbeat.com/de/book/534589",
-    "amazonMusic" : "https://music.amazon.de/albums/B01CV1CDBO"
+    "amazonMusic" : "https://music.amazon.de/albums/B01CV1CDBO",
+    "amazon" : "https://www.amazon.de/gp/product/B00005Q4XS"
   },
   "ids" : {
     "dreimetadaten" : 25,
     "appleMusic" : "1092535345",
     "spotify" : "6RXr8BmKNSK9Zk11k0I7Dl",
     "bookbeat" : "534589",
-    "amazonMusic" : "B01CV1CDBO"
+    "amazonMusic" : "B01CV1CDBO",
+    "amazon" : "B00005Q4XS"
   },
   "medien" : [
     {

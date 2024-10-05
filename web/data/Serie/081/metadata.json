@@ -101,14 +101,16 @@
     "appleMusic" : "https://music.apple.com/de/album/1112967702",
     "spotify" : "https://open.spotify.com/intl-de/album/2s5u6hCaMpTIvZtBRvQzha",
     "bookbeat" : "https://www.bookbeat.com/de/book/534653",
-    "amazonMusic" : "https://music.amazon.de/albums/B01FIMAUKO"
+    "amazonMusic" : "https://music.amazon.de/albums/B01FIMAUKO",
+    "amazon" : "https://www.amazon.de/gp/product/B000024B03"
   },
   "ids" : {
     "dreimetadaten" : 81,
     "appleMusic" : "1112967702",
     "spotify" : "2s5u6hCaMpTIvZtBRvQzha",
     "bookbeat" : "534653",
-    "amazonMusic" : "B01FIMAUKO"
+    "amazonMusic" : "B01FIMAUKO",
+    "amazon" : "B000024B03"
   },
   "medien" : [
     {
