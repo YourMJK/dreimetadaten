@@ -164,6 +164,8 @@ struct WebDataExporter {
 	
 	func createIndex(at outputDir: URL) throws {
 		try Self.createDirectoryIfNeccessary(at: outputDir)
+		let jsonEncoder = JSONEncoder()
+		jsonEncoder.outputFormatting = [.prettyPrinted, .sortedKeys, .withoutEscapingSlashes]
 		
 		let hörspiele = CollectionType.allCases
 			.map {
@@ -186,6 +188,7 @@ struct WebDataExporter {
 			let indexDir = outputDir.appendingPathComponent(name)
 			try Self.createDirectoryIfNeccessary(at: indexDir)
 			var keys = Set<String>()
+			var dictionary = [String: String]()
 			
 			for hörspiel in hörspiele {
 				guard let key = try mapClosure(hörspiel) else {
@@ -201,9 +204,20 @@ struct WebDataExporter {
 				let destinationFile = try fileURLForLink(jsonLink)
 				let destinationRelativePath = Command.relativePath(of: destinationFile, toDirectory: indexDir)
 				try Self.createAndOverwriteSymlink(at: sourceFile, to: destinationRelativePath)
+				
+				dictionary[key] = jsonLink
 			}
+			
+			let jsonFile = outputDir.appendingPathComponent("\(name).json")
+			var jsonData = try jsonEncoder.encode(dictionary)
+			jsonData.append("\n".data(using: .utf8)!)
+			try jsonData.write(to: jsonFile)
 		}
 		
+		try index(named: "dreimetadaten") { hörspiel in
+			let id = hörspiel.ids?.dreimetadaten
+			return id.map { String($0) }
+		}
 		try index(named: "apple-music", \.ids?.appleMusic)
 		try index(named: "spotify", \.ids?.spotify)
 		try index(named: "bookbeat", \.ids?.bookbeat)
