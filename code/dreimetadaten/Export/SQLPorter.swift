@@ -35,7 +35,8 @@ struct SQLPorter {
 		
 		// Append schema first, then data
 		try sqliteCommand(arguments: [
-			".schema --indent --nosys",
+			// Manually querying sqlite_master because ".schema --indent --nosys" inserts new automatic comments each time after VIEW definitions
+			"SELECT sql||';' FROM sqlite_master WHERE name NOT LIKE 'sqlite_%'",
 			".dump --data-only --nosys",
 		], output: handle)
 		

@@ -1,6 +1,6 @@
 PRAGMA foreign_keys=ON;
 BEGIN TRANSACTION;
-CREATE TABLE IF NOT EXISTS "hörspiel"(
+CREATE TABLE "hörspiel"(
   "hörspielID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   "titel" TEXT NOT NULL,
   "kurzbeschreibung" TEXT,
@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS "hörspiel"(
   "idAmazonMusic" TEXT,
   "idAmazon" TEXT
 );
-CREATE TABLE IF NOT EXISTS "hörspielTeil"(
+CREATE TABLE "hörspielTeil"(
   "teil" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "hörspiel" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "position" INTEGER NOT NULL CHECK("position" > 0),
@@ -26,26 +26,26 @@ CREATE TABLE IF NOT EXISTS "hörspielTeil"(
   UNIQUE("hörspiel", "position"),
   UNIQUE("hörspiel", "buchstabe")
 );
-CREATE TABLE IF NOT EXISTS "serie"(
+CREATE TABLE "serie"(
   "nummer" INTEGER PRIMARY KEY NOT NULL,
   "hörspielID" INTEGER NOT NULL UNIQUE REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
 );
-CREATE TABLE IF NOT EXISTS "spezial"(
+CREATE TABLE "spezial"(
   "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "position" INTEGER NOT NULL UNIQUE CHECK("position" > 0)
 );
-CREATE TABLE IF NOT EXISTS "kurzgeschichten"(
+CREATE TABLE "kurzgeschichten"(
   "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
 );
-CREATE TABLE IF NOT EXISTS "dieDr3i"(
+CREATE TABLE "dieDr3i"(
   "nummer" INTEGER,
   "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
 );
-CREATE TABLE IF NOT EXISTS "kids"(
+CREATE TABLE "kids"(
   "nummer" INTEGER,
   "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
 );
-CREATE TABLE IF NOT EXISTS "medium"(
+CREATE TABLE "medium"(
   "mediumID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "position" INTEGER NOT NULL CHECK("position" > 0),
@@ -53,7 +53,7 @@ CREATE TABLE IF NOT EXISTS "medium"(
   "musicBrainzID" TEXT,
   UNIQUE("hörspielID", "position")
 );
-CREATE TABLE IF NOT EXISTS "track"(
+CREATE TABLE "track"(
   "trackID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   "mediumID" INTEGER NOT NULL REFERENCES "medium"("mediumID") ON DELETE CASCADE ON UPDATE CASCADE,
   "position" INTEGER NOT NULL CHECK("position" > 0),
@@ -61,26 +61,26 @@ CREATE TABLE IF NOT EXISTS "track"(
   "dauer" INTEGER NOT NULL CHECK("dauer" > 0),
   UNIQUE("mediumID", "position")
 );
-CREATE TABLE IF NOT EXISTS "kapitel"(
+CREATE TABLE "kapitel"(
   "trackID" INTEGER PRIMARY KEY NOT NULL REFERENCES "track"("trackID") ON DELETE CASCADE ON UPDATE CASCADE,
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "position" INTEGER NOT NULL CHECK("position" > 0),
   "abweichenderTitel" TEXT,
   UNIQUE("hörspielID", "position")
 );
-CREATE TABLE IF NOT EXISTS "person"(
+CREATE TABLE "person"(
   "personID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   "name" TEXT NOT NULL UNIQUE
 );
-CREATE TABLE IF NOT EXISTS "pseudonym"(
+CREATE TABLE "pseudonym"(
   "pseudonymID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   "name" TEXT NOT NULL UNIQUE
 );
-CREATE TABLE IF NOT EXISTS "rolle"(
+CREATE TABLE "rolle"(
   "rolleID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   "name" TEXT NOT NULL UNIQUE
 );
-CREATE TABLE IF NOT EXISTS "sprechrolle"(
+CREATE TABLE "sprechrolle"(
   "sprechrolleID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "rolleID" INTEGER NOT NULL REFERENCES "rolle"("rolleID") ON DELETE CASCADE ON UPDATE CASCADE,
@@ -88,14 +88,14 @@ CREATE TABLE IF NOT EXISTS "sprechrolle"(
   UNIQUE("hörspielID", "rolleID"),
   UNIQUE("hörspielID", "position")
 );
-CREATE TABLE IF NOT EXISTS "sprechrolleTeil"(
+CREATE TABLE "sprechrolleTeil"(
   "sprechrolleID" INTEGER NOT NULL REFERENCES "sprechrolle"("sprechrolleID") ON DELETE CASCADE ON UPDATE CASCADE,
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "position" INTEGER NOT NULL CHECK("position" > 0),
   PRIMARY KEY("sprechrolleID", "hörspielID"),
   UNIQUE("hörspielID", "position")
 );
-CREATE TABLE IF NOT EXISTS "spricht"(
+CREATE TABLE "spricht"(
   "sprechrolleID" INTEGER NOT NULL REFERENCES "sprechrolle"("sprechrolleID") ON DELETE CASCADE ON UPDATE CASCADE,
   "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
   "pseudonymID" INTEGER REFERENCES "pseudonym"("pseudonymID") ON DELETE SET NULL ON UPDATE CASCADE,
@@ -103,12 +103,12 @@ CREATE TABLE IF NOT EXISTS "spricht"(
   PRIMARY KEY("sprechrolleID", "personID"),
   UNIQUE("sprechrolleID", "position")
 );
-CREATE TABLE IF NOT EXISTS "hörspielBuchautor"(
+CREATE TABLE "hörspielBuchautor"(
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
   PRIMARY KEY("hörspielID", "personID")
 );
-CREATE TABLE IF NOT EXISTS "hörspielSkriptautor"(
+CREATE TABLE "hörspielSkriptautor"(
   "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
   "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
   PRIMARY KEY("hörspielID", "personID")
