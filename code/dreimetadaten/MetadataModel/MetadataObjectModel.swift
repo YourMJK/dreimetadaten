@@ -105,7 +105,6 @@ extension MetadataObjectModel {
 	struct Links: Codable {
 		var json: String?
 		var ffmetadata: String?
-		var xld_log: String?  // Only kept for backwards-compatibility
 		var cover: String?
 		var cover2: [String]?
 		var cover_itunes: String?
