@@ -15573,6 +15573,48 @@
       "kurzbeschreibung" : "Die drei ??? Kids auf Geisterjagd im alten Leuchtturm.",
       "beschreibung" : "Ein Lichtstrahl zeichnet gruselige Fratzen in den nebligen Himmel über dem Meer. Nach dem ersten Schrecken wollen Justus, Peter und Bob der Sache auf den Grund gehen. Treiben hier wirklich Geister ihr Unwesen?",
       "veröffentlichungsdatum" : "2023-05-19",
+      "kapitel" : [
+        {
+          "titel" : "Geisternacht",
+          "start" : 0,
+          "end" : 561173
+        },
+        {
+          "titel" : "Höllenfeuer",
+          "start" : 561173,
+          "end" : 1039373
+        },
+        {
+          "titel" : "Verhexte Seezeichen",
+          "start" : 1039373,
+          "end" : 1898720
+        },
+        {
+          "titel" : "Eiskaltes Verhör",
+          "start" : 1898720,
+          "end" : 2488133
+        },
+        {
+          "titel" : "Quetzalcoatl",
+          "start" : 2488133,
+          "end" : 3125000
+        },
+        {
+          "titel" : "Zeitreise",
+          "start" : 3125000,
+          "end" : 3765787
+        },
+        {
+          "titel" : "Schatzsucher",
+          "start" : 3765787,
+          "end" : 4281000
+        },
+        {
+          "titel" : "Zerplatzte Träume",
+          "start" : 4281000,
+          "end" : 4784280
+        }
+      ],
       "sprechrollen" : [
         {
           "rolle" : "Erzähler",
@@ -15629,6 +15671,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kids/092/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kids/092/ffmetadata.txt",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/76/f2/85/76f285d7-a636-0c4e-3f5a-a205df1f1036/196872226157.jpg",
         "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/spuk-im-leuchtturm-1",
         "appleMusic" : "https://music.apple.com/de/album/1752884104",
@@ -15643,7 +15686,53 @@
         "amazonMusic" : "B0C4FNJW6Y",
         "amazon" : "3803260752"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Geisternacht",
+              "start" : 0,
+              "end" : 561173
+            },
+            {
+              "titel" : "Höllenfeuer",
+              "start" : 561173,
+              "end" : 1039373
+            },
+            {
+              "titel" : "Verhexte Seezeichen",
+              "start" : 1039373,
+              "end" : 1898720
+            },
+            {
+              "titel" : "Eiskaltes Verhör",
+              "start" : 1898720,
+              "end" : 2488133
+            },
+            {
+              "titel" : "Quetzalcoatl",
+              "start" : 2488133,
+              "end" : 3125000
+            },
+            {
+              "titel" : "Zeitreise",
+              "start" : 3125000,
+              "end" : 3765787
+            },
+            {
+              "titel" : "Schatzsucher",
+              "start" : 3765787,
+              "end" : 4281000
+            },
+            {
+              "titel" : "Zerplatzte Träume",
+              "start" : 4281000,
+              "end" : 4784280
+            }
+          ],
+          "musicBrainzID" : "aKI8QvZnVxsvhGvEqci2Jnk8xIo-"
+        }
+      ]
     },
     {
       "nummer" : 93,
