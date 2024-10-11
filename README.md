@@ -173,6 +173,8 @@ struct MetadataObjectModel {
   var kurzgeschichten: [Hörspiel]?
   var die_dr3i: [Hörspiel]?
   var kids: [Hörspiel]?
+  
+  var dbInfo: DBInfo?
 }
 
 
@@ -243,6 +245,12 @@ struct Medium {
   var tracks: [Kapitel]
   var ripLog: String?
   var musicBrainzID: String?
+}
+
+
+struct DBInfo {
+  var version: String
+  var lastModified: String
 }
 ```
 

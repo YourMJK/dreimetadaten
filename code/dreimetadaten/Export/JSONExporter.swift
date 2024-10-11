@@ -14,7 +14,7 @@ struct JSONExporter {
 	let webDataURL: URL
 	
 	func export(to outputDir: URL) throws {
-		let objectModels = try MetadataObjectModel(fromDatabase: db, withBaseURL: webDataURL).separateByCollectionType()
+		let objectModels = try MetadataObjectModel(fromDatabase: db, withBaseURL: webDataURL).separateByCollectionType(withDBInfo: true)
 		
 		for (objectModel, collectionType) in objectModels {
 			let jsonURL = outputDir.appendingPathComponent(collectionType.jsonFile)

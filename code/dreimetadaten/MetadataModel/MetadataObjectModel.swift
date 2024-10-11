@@ -16,6 +16,8 @@ struct MetadataObjectModel: Codable {
 	var kurzgeschichten: [Hörspiel]?
 	var die_dr3i: [Hörspiel]?
 	var kids: [Hörspiel]?
+	
+	var dbInfo: DBInfo?
 }
 
 
@@ -132,6 +134,12 @@ extension MetadataObjectModel {
 		var musicBrainzID: String?
 	}
 	
+	
+	struct DBInfo: Codable {
+		var version: String
+		var lastModified: String
+	}
+	
 }
 
 
@@ -156,6 +164,10 @@ extension MetadataObjectModel {
 		}
 		
 		static let ordering: [String] = [
+			"dbInfo",
+			"version",
+			"lastModified",
+			
 			"serie",
 			"spezial",
 			"kurzgeschichten",
@@ -297,7 +309,7 @@ extension MetadataObjectModel {
 	
 	// MARK: - Collection Type Masking
 	
-	func separateByCollectionType() -> [(objectModel: Self, collectionType: CollectionType)] {
+	func separateByCollectionType(withDBInfo: Bool = false) -> [(objectModel: Self, collectionType: CollectionType)] {
 		CollectionType.allCases.map { collectionType in
 			var maskedObjectModel = Self()
 			switch collectionType.objectModelKeyPath {
@@ -307,6 +319,9 @@ extension MetadataObjectModel {
 					maskedObjectModel[keyPath: keyPath] = self[keyPath: keyPath]
 				default:
 					fatalError("Unrecognized type for CollectionType.objectModelKeyPath")
+			}
+			if withDBInfo {
+				maskedObjectModel.dbInfo = dbInfo
 			}
 			return (maskedObjectModel, collectionType)
 		}
@@ -634,6 +649,19 @@ extension MetadataObjectModel {
 				makeFolge(with: $0.nummer, hörspiel: &hörspiel)
 				try addURL(to: hörspiel, as: .kids)
 				return hörspiel
+			}
+		
+		
+		// version
+		dbInfo = try MetadataRelationalModel.Version
+			.order(Column("date").desc)
+			.fetchOne(db)
+			.map {
+				let versionNumber = "\($0.major).\($0.minor).\($0.patch)"
+				let formatter = ISO8601DateFormatter()
+				formatter.formatOptions = [.withInternetDateTime]
+				let timestamp = formatter.string(from: $0.date)
+				return DBInfo(version: versionNumber, lastModified: timestamp)
 			}
 	}
 	

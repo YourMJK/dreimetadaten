@@ -31,7 +31,7 @@ struct WebDataExporter {
 	func export(to outputDir: URL) throws {
 		try Self.createDirectoryIfNeccessary(at: outputDir)
 		
-		let objectModels = objectModel.separateByCollectionType()
+		let objectModels = objectModel.separateByCollectionType(withDBInfo: true)
 		var referencedFilePaths = Set<String>()
 		
 		for (objectModel, collectionType) in objectModels {
