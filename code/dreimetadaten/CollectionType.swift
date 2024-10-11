@@ -16,6 +16,8 @@ enum CollectionType: String, ArgumentEnum {
 	case die_dr3i
 	case kids
 	
+	static let allCasesJSONFile = "Alle.json"
+	
 	var name: String {
 		switch self {
 			case .serie: return "Serie"

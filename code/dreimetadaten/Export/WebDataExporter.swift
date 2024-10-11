@@ -62,6 +62,12 @@ struct WebDataExporter {
 			}
 		}
 		
+		// Export metadata of whole object model as JSON
+		let jsonURL = outputDir.appendingPathComponent(CollectionType.allCasesJSONFile)
+		referencedFilePaths.insert(jsonURL.relativePath)
+		let jsonString = try objectModel.jsonString()
+		try jsonString.write(to: jsonURL, atomically: true, encoding: .utf8)
+		
 		// Check referenced files and existing files
 		var existingFilePaths = Set<String>()
 		guard let enumerator = FileManager.default.enumerator(at: outputDir, includingPropertiesForKeys: [.isRegularFileKey], options: [.skipsHiddenFiles, .producesRelativePathURLs]) else {
