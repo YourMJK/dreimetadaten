@@ -113,6 +113,13 @@ CREATE TABLE "hörspielSkriptautor"(
   "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
   PRIMARY KEY("hörspielID", "personID")
 );
+CREATE TABLE "version"(
+  "major" INTEGER NOT NULL CHECK("major" >= 0),
+  "minor" INTEGER NOT NULL CHECK("minor" >= 0),
+  "patch" INTEGER NOT NULL CHECK("patch" >= 0),
+  "date" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY("major", "minor", "patch")
+);
 CREATE VIEW "alleIDs"("sammlung", "nummer", "hörspielID") AS
   SELECT 'serie', nummer, hörspielID FROM serie UNION
   SELECT 'spezial', NULL, hörspielID FROM spezial UNION
@@ -23358,4 +23365,13 @@ INSERT INTO "hörspielSkriptautor" VALUES(405,931);
 INSERT INTO "hörspielSkriptautor" VALUES(69,235);
 INSERT INTO "hörspielSkriptautor" VALUES(70,235);
 INSERT INTO "hörspielSkriptautor" VALUES(74,235);
+INSERT INTO version VALUES(2,0,0,'2024-08-05 02:17:04');
+INSERT INTO version VALUES(2,0,1,'2024-08-09 21:47:13');
+INSERT INTO version VALUES(2,0,2,'2024-08-10 10:34:45');
+INSERT INTO version VALUES(2,0,3,'2024-09-09 13:13:00');
+INSERT INTO version VALUES(2,0,4,'2024-09-10 00:38:38');
+INSERT INTO version VALUES(2,1,0,'2024-09-29 01:36:32');
+INSERT INTO version VALUES(2,2,0,'2024-10-07 23:31:09');
+INSERT INTO version VALUES(2,2,1,'2024-10-08 12:28:14');
+INSERT INTO version VALUES(2,2,2,'2024-10-10 02:30:50');
 COMMIT;

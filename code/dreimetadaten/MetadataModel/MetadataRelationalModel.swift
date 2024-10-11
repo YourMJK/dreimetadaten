@@ -182,6 +182,15 @@ extension MetadataRelationalModel {
 		var personID: Person.ID
 	}
 	
+	
+	struct Version: Codable {
+		var major: UInt
+		var minor: UInt
+		var patch: UInt
+		
+		var date: Date
+	}
+	
 }
 
 
@@ -249,6 +258,7 @@ extension MetadataRelationalModel.SprechrolleTeil: PersistableFetchableTableReco
 extension MetadataRelationalModel.Spricht: PersistableFetchableTableRecord { }
 extension MetadataRelationalModel.HörspielBuchautor: PersistableFetchableTableRecord { }
 extension MetadataRelationalModel.HörspielSkriptautor: PersistableFetchableTableRecord { }
+extension MetadataRelationalModel.Version: PersistableFetchableTableRecord { }
 
 
 // MARK: - Database Reading
