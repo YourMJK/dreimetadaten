@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.3.0",
-    "lastModified" : "2024-10-11T13:04:56Z"
+    "version" : "2.4.0",
+    "lastModified" : "2024-10-14T02:06:01Z"
   },
   "serie" : [
     {
@@ -116,7 +116,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4N9tvSjWfZXx3eHKblYEWQ",
         "bookbeat" : "https://www.bookbeat.com/de/book/534575",
         "amazonMusic" : "https://music.amazon.de/albums/B01CURZRWG",
-        "amazon" : "https://www.amazon.de/gp/product/B00005QXM1"
+        "amazon" : "https://www.amazon.de/gp/product/B00005QXM1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_CjlxsM5R4UV"
       },
       "ids" : {
         "dreimetadaten" : 1,
@@ -124,7 +125,8 @@
         "spotify" : "4N9tvSjWfZXx3eHKblYEWQ",
         "bookbeat" : "534575",
         "amazonMusic" : "B01CURZRWG",
-        "amazon" : "B00005QXM1"
+        "amazon" : "B00005QXM1",
+        "youTubeMusic" : "MPREb_CjlxsM5R4UV"
       },
       "medien" : [
         {
@@ -294,7 +296,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0xldqK4Ocdt8dwQSxUzt6x",
         "bookbeat" : "https://www.bookbeat.com/de/book/534626",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1D1CO",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4WZ"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4WZ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_dobEq0EsRwd"
       },
       "ids" : {
         "dreimetadaten" : 2,
@@ -302,7 +305,8 @@
         "spotify" : "0xldqK4Ocdt8dwQSxUzt6x",
         "bookbeat" : "534626",
         "amazonMusic" : "B01CV1D1CO",
-        "amazon" : "B00005Q4WZ"
+        "amazon" : "B00005Q4WZ",
+        "youTubeMusic" : "MPREb_dobEq0EsRwd"
       },
       "medien" : [
         {
@@ -468,7 +472,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/61OtrnMm1lqoMgMRb1aw7g",
         "bookbeat" : "https://www.bookbeat.com/de/book/534584",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1DGTW",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X1"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_P02M4rXCx1u"
       },
       "ids" : {
         "dreimetadaten" : 3,
@@ -476,7 +481,8 @@
         "spotify" : "61OtrnMm1lqoMgMRb1aw7g",
         "bookbeat" : "534584",
         "amazonMusic" : "B01CV1DGTW",
-        "amazon" : "B00005Q4X1"
+        "amazon" : "B00005Q4X1",
+        "youTubeMusic" : "MPREb_P02M4rXCx1u"
       },
       "medien" : [
         {
@@ -654,7 +660,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2w902iYtkf0ipmTImyLlsL",
         "bookbeat" : "https://www.bookbeat.com/de/book/534628",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1AKBO",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X3"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X3",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_f99mXl75sLR"
       },
       "ids" : {
         "dreimetadaten" : 4,
@@ -662,7 +669,8 @@
         "spotify" : "2w902iYtkf0ipmTImyLlsL",
         "bookbeat" : "534628",
         "amazonMusic" : "B01CV1AKBO",
-        "amazon" : "B00005Q4X3"
+        "amazon" : "B00005Q4X3",
+        "youTubeMusic" : "MPREb_f99mXl75sLR"
       },
       "medien" : [
         {
@@ -825,7 +833,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5YWM39RnabpxekZuHriTam",
         "bookbeat" : "https://www.bookbeat.com/de/book/534586",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1D94O",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X4"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X4",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_VAk0Fcx0KaM"
       },
       "ids" : {
         "dreimetadaten" : 5,
@@ -833,7 +842,8 @@
         "spotify" : "5YWM39RnabpxekZuHriTam",
         "bookbeat" : "534586",
         "amazonMusic" : "B01CV1D94O",
-        "amazon" : "B00005Q4X4"
+        "amazon" : "B00005Q4X4",
+        "youTubeMusic" : "MPREb_VAk0Fcx0KaM"
       },
       "medien" : [
         {
@@ -1007,7 +1017,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/54eP8BYMR270sTqklv83V0",
         "bookbeat" : "https://www.bookbeat.com/de/book/534673",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1CF62",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X5"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X5",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Ptve9f8NomH"
       },
       "ids" : {
         "dreimetadaten" : 6,
@@ -1015,7 +1026,8 @@
         "spotify" : "54eP8BYMR270sTqklv83V0",
         "bookbeat" : "534673",
         "amazonMusic" : "B01CV1CF62",
-        "amazon" : "B00005Q4X5"
+        "amazon" : "B00005Q4X5",
+        "youTubeMusic" : "MPREb_Ptve9f8NomH"
       },
       "medien" : [
         {
@@ -1167,7 +1179,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3nGyW4ETDrDpInYEAQCyYS",
         "bookbeat" : "https://www.bookbeat.com/de/book/534558",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1E37G",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X6"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X6",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_pRlhfE8HVL8"
       },
       "ids" : {
         "dreimetadaten" : 7,
@@ -1175,7 +1188,8 @@
         "spotify" : "3nGyW4ETDrDpInYEAQCyYS",
         "bookbeat" : "534558",
         "amazonMusic" : "B01CV1E37G",
-        "amazon" : "B00005Q4X6"
+        "amazon" : "B00005Q4X6",
+        "youTubeMusic" : "MPREb_pRlhfE8HVL8"
       },
       "medien" : [
         {
@@ -1348,7 +1362,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6MRsf5IcfqJIogaNqtESnh",
         "bookbeat" : "https://www.bookbeat.com/de/book/534694",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1DCNW",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X7"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X7",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_o7lnsCv7pdf"
       },
       "ids" : {
         "dreimetadaten" : 8,
@@ -1356,7 +1371,8 @@
         "spotify" : "6MRsf5IcfqJIogaNqtESnh",
         "bookbeat" : "534694",
         "amazonMusic" : "B01CV1DCNW",
-        "amazon" : "B00005Q4X7"
+        "amazon" : "B00005Q4X7",
+        "youTubeMusic" : "MPREb_o7lnsCv7pdf"
       },
       "medien" : [
         {
@@ -1526,7 +1542,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0aNqdp5ayuUNsOdUwu8x0b",
         "bookbeat" : "https://www.bookbeat.com/de/book/534715",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1CFDU",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X8"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X8",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_XzL1YgEYcOH"
       },
       "ids" : {
         "dreimetadaten" : 9,
@@ -1534,7 +1551,8 @@
         "spotify" : "0aNqdp5ayuUNsOdUwu8x0b",
         "bookbeat" : "534715",
         "amazonMusic" : "B01CV1CFDU",
-        "amazon" : "B00005Q4X8"
+        "amazon" : "B00005Q4X8",
+        "youTubeMusic" : "MPREb_XzL1YgEYcOH"
       },
       "medien" : [
         {
@@ -1703,7 +1721,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4h75QQIxW1etThTuw6vWzg",
         "bookbeat" : "https://www.bookbeat.com/de/book/534564",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS26LA",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X9"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4X9",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_vw0saocJSTr"
       },
       "ids" : {
         "dreimetadaten" : 10,
@@ -1711,7 +1730,8 @@
         "spotify" : "4h75QQIxW1etThTuw6vWzg",
         "bookbeat" : "534564",
         "amazonMusic" : "B01CUS26LA",
-        "amazon" : "B00005Q4X9"
+        "amazon" : "B00005Q4X9",
+        "youTubeMusic" : "MPREb_vw0saocJSTr"
       },
       "medien" : [
         {
@@ -1858,7 +1878,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/07EhJ6uxWcQQWKeXJ1e8Lb",
         "bookbeat" : "https://www.bookbeat.com/de/book/534599",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1BC6Q",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XB"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XB",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_qLEQBcswZYD"
       },
       "ids" : {
         "dreimetadaten" : 11,
@@ -1866,7 +1887,8 @@
         "spotify" : "07EhJ6uxWcQQWKeXJ1e8Lb",
         "bookbeat" : "534599",
         "amazonMusic" : "B01CV1BC6Q",
-        "amazon" : "B00005Q4XB"
+        "amazon" : "B00005Q4XB",
+        "youTubeMusic" : "MPREb_qLEQBcswZYD"
       },
       "medien" : [
         {
@@ -2046,7 +2068,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0bSrvyOjOzFoFJfx3uaFgk",
         "bookbeat" : "https://www.bookbeat.com/de/book/534620",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS2QP6",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XD"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XD",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_BbmRcHYuDce"
       },
       "ids" : {
         "dreimetadaten" : 12,
@@ -2054,7 +2077,8 @@
         "spotify" : "0bSrvyOjOzFoFJfx3uaFgk",
         "bookbeat" : "534620",
         "amazonMusic" : "B01CUS2QP6",
-        "amazon" : "B00005Q4XD"
+        "amazon" : "B00005Q4XD",
+        "youTubeMusic" : "MPREb_BbmRcHYuDce"
       },
       "medien" : [
         {
@@ -2226,7 +2250,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2AZ7zFBophWEIuBPjAG60I",
         "bookbeat" : "https://www.bookbeat.com/de/book/534611",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1EMY0",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XE"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XE",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_BFErzMjyTt6"
       },
       "ids" : {
         "dreimetadaten" : 13,
@@ -2234,7 +2259,8 @@
         "spotify" : "2AZ7zFBophWEIuBPjAG60I",
         "bookbeat" : "534611",
         "amazonMusic" : "B01CV1EMY0",
-        "amazon" : "B00005Q4XE"
+        "amazon" : "B00005Q4XE",
+        "youTubeMusic" : "MPREb_BFErzMjyTt6"
       },
       "medien" : [
         {
@@ -2401,7 +2427,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3O5STjjugoL5cNKfeRuBiU",
         "bookbeat" : "https://www.bookbeat.com/de/book/534714",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1D17Y",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XF"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XF",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_RRfllbJ6zyP"
       },
       "ids" : {
         "dreimetadaten" : 14,
@@ -2409,7 +2436,8 @@
         "spotify" : "3O5STjjugoL5cNKfeRuBiU",
         "bookbeat" : "534714",
         "amazonMusic" : "B01CV1D17Y",
-        "amazon" : "B00005Q4XF"
+        "amazon" : "B00005Q4XF",
+        "youTubeMusic" : "MPREb_RRfllbJ6zyP"
       },
       "medien" : [
         {
@@ -2581,7 +2609,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2dQYcaTRh5qEYk2oH7WoBC",
         "bookbeat" : "https://www.bookbeat.com/de/book/534635",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1DYQW",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XG"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XG",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_TsRssjEBsGT"
       },
       "ids" : {
         "dreimetadaten" : 15,
@@ -2589,7 +2618,8 @@
         "spotify" : "2dQYcaTRh5qEYk2oH7WoBC",
         "bookbeat" : "534635",
         "amazonMusic" : "B01CV1DYQW",
-        "amazon" : "B00005Q4XG"
+        "amazon" : "B00005Q4XG",
+        "youTubeMusic" : "MPREb_TsRssjEBsGT"
       },
       "medien" : [
         {
@@ -2749,7 +2779,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/16dOhg07DVqoSxlS7ToLM5",
         "bookbeat" : "https://www.bookbeat.com/de/book/534685",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1AFPK",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XH"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XH",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_aT0GPmm8zrt"
       },
       "ids" : {
         "dreimetadaten" : 16,
@@ -2757,7 +2788,8 @@
         "spotify" : "16dOhg07DVqoSxlS7ToLM5",
         "bookbeat" : "534685",
         "amazonMusic" : "B01CV1AFPK",
-        "amazon" : "B00005Q4XH"
+        "amazon" : "B00005Q4XH",
+        "youTubeMusic" : "MPREb_aT0GPmm8zrt"
       },
       "medien" : [
         {
@@ -2920,7 +2952,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0CMsNalUakIcv6znyVLALr",
         "bookbeat" : "https://www.bookbeat.com/de/book/534660",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1DGV0",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XJ"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XJ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_X8GkYpVqSuR"
       },
       "ids" : {
         "dreimetadaten" : 17,
@@ -2928,7 +2961,8 @@
         "spotify" : "0CMsNalUakIcv6znyVLALr",
         "bookbeat" : "534660",
         "amazonMusic" : "B01CV1DGV0",
-        "amazon" : "B00005Q4XJ"
+        "amazon" : "B00005Q4XJ",
+        "youTubeMusic" : "MPREb_X8GkYpVqSuR"
       },
       "medien" : [
         {
@@ -3100,7 +3134,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1yqICFWBL4l7fJkrFWvfWL",
         "bookbeat" : "https://www.bookbeat.com/de/book/534513",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS0VYO",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XK"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XK",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ZSlMg6bNpmj"
       },
       "ids" : {
         "dreimetadaten" : 18,
@@ -3108,7 +3143,8 @@
         "spotify" : "1yqICFWBL4l7fJkrFWvfWL",
         "bookbeat" : "534513",
         "amazonMusic" : "B01CUS0VYO",
-        "amazon" : "B00005Q4XK"
+        "amazon" : "B00005Q4XK",
+        "youTubeMusic" : "MPREb_ZSlMg6bNpmj"
       },
       "medien" : [
         {
@@ -3271,7 +3307,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3JqJ2zIt3UzKug7onmbmAo",
         "bookbeat" : "https://www.bookbeat.com/de/book/534651",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1B6H6",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XL"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XL",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_6LhdNrDblu5"
       },
       "ids" : {
         "dreimetadaten" : 19,
@@ -3279,7 +3316,8 @@
         "spotify" : "3JqJ2zIt3UzKug7onmbmAo",
         "bookbeat" : "534651",
         "amazonMusic" : "B01CV1B6H6",
-        "amazon" : "B00005Q4XL"
+        "amazon" : "B00005Q4XL",
+        "youTubeMusic" : "MPREb_6LhdNrDblu5"
       },
       "medien" : [
         {
@@ -3446,7 +3484,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5ilbdbGu5eQRUIsbslyiLe",
         "bookbeat" : "https://www.bookbeat.com/de/book/534532",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS18ZU",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XM"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XM",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_77xOrc1sEuN"
       },
       "ids" : {
         "dreimetadaten" : 20,
@@ -3454,7 +3493,8 @@
         "spotify" : "5ilbdbGu5eQRUIsbslyiLe",
         "bookbeat" : "534532",
         "amazonMusic" : "B01CUS18ZU",
-        "amazon" : "B00005Q4XM"
+        "amazon" : "B00005Q4XM",
+        "youTubeMusic" : "MPREb_77xOrc1sEuN"
       },
       "medien" : [
         {
@@ -3628,7 +3668,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2koZEkq7vQnHjMP73gVXCo",
         "bookbeat" : "https://www.bookbeat.com/de/book/534590",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1BRDO",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XN"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XN",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_TGfi05lG5VC"
       },
       "ids" : {
         "dreimetadaten" : 21,
@@ -3636,7 +3677,8 @@
         "spotify" : "2koZEkq7vQnHjMP73gVXCo",
         "bookbeat" : "534590",
         "amazonMusic" : "B01CV1BRDO",
-        "amazon" : "B00005Q4XN"
+        "amazon" : "B00005Q4XN",
+        "youTubeMusic" : "MPREb_TGfi05lG5VC"
       },
       "medien" : [
         {
@@ -3814,7 +3856,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7i50aK2wKvszWNnay4DtxP",
         "bookbeat" : "https://www.bookbeat.com/de/book/534552",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS2X6I",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XO"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_7tMvVQ1Hp5e"
       },
       "ids" : {
         "dreimetadaten" : 22,
@@ -3822,7 +3865,8 @@
         "spotify" : "7i50aK2wKvszWNnay4DtxP",
         "bookbeat" : "534552",
         "amazonMusic" : "B01CUS2X6I",
-        "amazon" : "B00005Q4XO"
+        "amazon" : "B00005Q4XO",
+        "youTubeMusic" : "MPREb_7tMvVQ1Hp5e"
       },
       "medien" : [
         {
@@ -3999,7 +4043,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/67qFOAxbhNRHEIeOjQ9Zkp",
         "bookbeat" : "https://www.bookbeat.com/de/book/534631",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1BDGU",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XP"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XP",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_SJmOMNBOcA9"
       },
       "ids" : {
         "dreimetadaten" : 23,
@@ -4007,7 +4052,8 @@
         "spotify" : "67qFOAxbhNRHEIeOjQ9Zkp",
         "bookbeat" : "534631",
         "amazonMusic" : "B01CV1BDGU",
-        "amazon" : "B00005Q4XP"
+        "amazon" : "B00005Q4XP",
+        "youTubeMusic" : "MPREb_SJmOMNBOcA9"
       },
       "medien" : [
         {
@@ -4184,7 +4230,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/211IEWHi59nUsHx8li8G9r",
         "bookbeat" : "https://www.bookbeat.com/de/book/534671",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1BT9Q",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XQ"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_qk4tEZbBs1a"
       },
       "ids" : {
         "dreimetadaten" : 24,
@@ -4192,7 +4239,8 @@
         "spotify" : "211IEWHi59nUsHx8li8G9r",
         "bookbeat" : "534671",
         "amazonMusic" : "B01CV1BT9Q",
-        "amazon" : "B00005Q4XQ"
+        "amazon" : "B00005Q4XQ",
+        "youTubeMusic" : "MPREb_qk4tEZbBs1a"
       },
       "medien" : [
         {
@@ -4363,7 +4411,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6RXr8BmKNSK9Zk11k0I7Dl",
         "bookbeat" : "https://www.bookbeat.com/de/book/534589",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1CDBO",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XS"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XS",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_eDNZTFAAtVD"
       },
       "ids" : {
         "dreimetadaten" : 25,
@@ -4371,7 +4420,8 @@
         "spotify" : "6RXr8BmKNSK9Zk11k0I7Dl",
         "bookbeat" : "534589",
         "amazonMusic" : "B01CV1CDBO",
-        "amazon" : "B00005Q4XS"
+        "amazon" : "B00005Q4XS",
+        "youTubeMusic" : "MPREb_eDNZTFAAtVD"
       },
       "medien" : [
         {
@@ -4530,7 +4580,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2NSreywe8UbWo7BJVY3Spk",
         "bookbeat" : "https://www.bookbeat.com/de/book/534648",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1DECG",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XT"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XT",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_CRW9L6JmCS4"
       },
       "ids" : {
         "dreimetadaten" : 26,
@@ -4538,7 +4589,8 @@
         "spotify" : "2NSreywe8UbWo7BJVY3Spk",
         "bookbeat" : "534648",
         "amazonMusic" : "B01CV1DECG",
-        "amazon" : "B00005Q4XT"
+        "amazon" : "B00005Q4XT",
+        "youTubeMusic" : "MPREb_CRW9L6JmCS4"
       },
       "medien" : [
         {
@@ -4702,7 +4754,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2AisAUu4deLpNi6g6qlTLC",
         "bookbeat" : "https://www.bookbeat.com/de/book/534593",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1C20Q",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XU"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XU",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_A6o8yrRRNDE"
       },
       "ids" : {
         "dreimetadaten" : 27,
@@ -4710,7 +4763,8 @@
         "spotify" : "2AisAUu4deLpNi6g6qlTLC",
         "bookbeat" : "534593",
         "amazonMusic" : "B01CV1C20Q",
-        "amazon" : "B00005Q4XU"
+        "amazon" : "B00005Q4XU",
+        "youTubeMusic" : "MPREb_A6o8yrRRNDE"
       },
       "medien" : [
         {
@@ -4884,7 +4938,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7Dbd2rya9glmBLVxclcU4d",
         "bookbeat" : "https://www.bookbeat.com/de/book/534598",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1D8T0",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XV"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XV",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_NLfkcdfZets"
       },
       "ids" : {
         "dreimetadaten" : 28,
@@ -4892,7 +4947,8 @@
         "spotify" : "7Dbd2rya9glmBLVxclcU4d",
         "bookbeat" : "534598",
         "amazonMusic" : "B01CV1D8T0",
-        "amazon" : "B00005Q4XV"
+        "amazon" : "B00005Q4XV",
+        "youTubeMusic" : "MPREb_NLfkcdfZets"
       },
       "medien" : [
         {
@@ -5029,7 +5085,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5JHijjtr65MjdNOnNvD3Ec",
         "bookbeat" : "https://www.bookbeat.com/de/book/534665",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1ANBQ",
-        "amazon" : "https://www.amazon.de/gp/product/B000024SX1"
+        "amazon" : "https://www.amazon.de/gp/product/B000024SX1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_unuGzOim017"
       },
       "ids" : {
         "dreimetadaten" : 29,
@@ -5037,7 +5094,8 @@
         "spotify" : "5JHijjtr65MjdNOnNvD3Ec",
         "bookbeat" : "534665",
         "amazonMusic" : "B01CV1ANBQ",
-        "amazon" : "B000024SX1"
+        "amazon" : "B000024SX1",
+        "youTubeMusic" : "MPREb_unuGzOim017"
       },
       "medien" : [
         {
@@ -5235,7 +5293,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0zV9pnaXLuogDr6prsvb4M",
         "bookbeat" : "https://www.bookbeat.com/de/book/534634",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1B0RC",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XW"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Sa4GMxX8bKi"
       },
       "ids" : {
         "dreimetadaten" : 30,
@@ -5243,7 +5302,8 @@
         "spotify" : "0zV9pnaXLuogDr6prsvb4M",
         "bookbeat" : "534634",
         "amazonMusic" : "B01CV1B0RC",
-        "amazon" : "B00005Q4XW"
+        "amazon" : "B00005Q4XW",
+        "youTubeMusic" : "MPREb_Sa4GMxX8bKi"
       },
       "medien" : [
         {
@@ -5416,7 +5476,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0tPetsUWuZIC0E85x6eVN5",
         "bookbeat" : "https://www.bookbeat.com/de/book/534619",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1C9Y0",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XY"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XY",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_XKZZanlrNtK"
       },
       "ids" : {
         "dreimetadaten" : 31,
@@ -5424,7 +5485,8 @@
         "spotify" : "0tPetsUWuZIC0E85x6eVN5",
         "bookbeat" : "534619",
         "amazonMusic" : "B01CV1C9Y0",
-        "amazon" : "B00005Q4XY"
+        "amazon" : "B00005Q4XY",
+        "youTubeMusic" : "MPREb_XKZZanlrNtK"
       },
       "medien" : [
         {
@@ -5593,7 +5655,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7K3VEzD1rm0dgUGBi1i5PW",
         "bookbeat" : "https://www.bookbeat.com/de/book/534632",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1BZ8G",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XZ"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4XZ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_AnlXa3lBy6x"
       },
       "ids" : {
         "dreimetadaten" : 32,
@@ -5601,7 +5664,8 @@
         "spotify" : "7K3VEzD1rm0dgUGBi1i5PW",
         "bookbeat" : "534632",
         "amazonMusic" : "B01CV1BZ8G",
-        "amazon" : "B00005Q4XZ"
+        "amazon" : "B00005Q4XZ",
+        "youTubeMusic" : "MPREb_AnlXa3lBy6x"
       },
       "medien" : [
         {
@@ -5769,7 +5833,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1imKVIfJIM0vKNymevqKjP",
         "bookbeat" : "https://www.bookbeat.com/de/book/534687",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1C9NQ",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y1"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_pdDP45nKaJ4"
       },
       "ids" : {
         "dreimetadaten" : 33,
@@ -5777,7 +5842,8 @@
         "spotify" : "1imKVIfJIM0vKNymevqKjP",
         "bookbeat" : "534687",
         "amazonMusic" : "B01CV1C9NQ",
-        "amazon" : "B00005Q4Y1"
+        "amazon" : "B00005Q4Y1",
+        "youTubeMusic" : "MPREb_pdDP45nKaJ4"
       },
       "medien" : [
         {
@@ -5928,7 +5994,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2L18qTB1EfS4FuBk2M6QwV",
         "bookbeat" : "https://www.bookbeat.com/de/book/534606",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1E1IW",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y2"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y2",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_dLE9gWIUHHV"
       },
       "ids" : {
         "dreimetadaten" : 34,
@@ -5936,7 +6003,8 @@
         "spotify" : "2L18qTB1EfS4FuBk2M6QwV",
         "bookbeat" : "534606",
         "amazonMusic" : "B01CV1E1IW",
-        "amazon" : "B00005Q4Y2"
+        "amazon" : "B00005Q4Y2",
+        "youTubeMusic" : "MPREb_dLE9gWIUHHV"
       },
       "medien" : [
         {
@@ -6116,7 +6184,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2REEfC6tVMiYv1eKMlGiOX",
         "bookbeat" : "https://www.bookbeat.com/de/book/534654",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1BIZ6",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y3"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y3",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_aDmlRmASXVk"
       },
       "ids" : {
         "dreimetadaten" : 35,
@@ -6124,7 +6193,8 @@
         "spotify" : "2REEfC6tVMiYv1eKMlGiOX",
         "bookbeat" : "534654",
         "amazonMusic" : "B01CV1BIZ6",
-        "amazon" : "B00005Q4Y3"
+        "amazon" : "B00005Q4Y3",
+        "youTubeMusic" : "MPREb_aDmlRmASXVk"
       },
       "medien" : [
         {
@@ -6275,7 +6345,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4R24oyyqxGkczNpqWGCXBZ",
         "bookbeat" : "https://www.bookbeat.com/de/book/534658",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1CIPA",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y4"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y4",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Ifi25IQmfTn"
       },
       "ids" : {
         "dreimetadaten" : 36,
@@ -6283,7 +6354,8 @@
         "spotify" : "4R24oyyqxGkczNpqWGCXBZ",
         "bookbeat" : "534658",
         "amazonMusic" : "B01CV1CIPA",
-        "amazon" : "B00005Q4Y4"
+        "amazon" : "B00005Q4Y4",
+        "youTubeMusic" : "MPREb_Ifi25IQmfTn"
       },
       "medien" : [
         {
@@ -6442,7 +6514,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6R4gnRHXKgw2cxneWgTiEL",
         "bookbeat" : "https://www.bookbeat.com/de/book/534566",
         "amazonMusic" : "https://music.amazon.de/albums/B01CURZX1G",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y6"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y6",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_C7XAzcd3232"
       },
       "ids" : {
         "dreimetadaten" : 37,
@@ -6450,7 +6523,8 @@
         "spotify" : "6R4gnRHXKgw2cxneWgTiEL",
         "bookbeat" : "534566",
         "amazonMusic" : "B01CURZX1G",
-        "amazon" : "B00005Q4Y6"
+        "amazon" : "B00005Q4Y6",
+        "youTubeMusic" : "MPREb_C7XAzcd3232"
       },
       "medien" : [
         {
@@ -6601,7 +6675,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6d3Pavm0enVICdOvBEqxYA",
         "bookbeat" : "https://www.bookbeat.com/de/book/534608",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1BIBK",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y7"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y7",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_qyABd7taLO8"
       },
       "ids" : {
         "dreimetadaten" : 38,
@@ -6609,7 +6684,8 @@
         "spotify" : "6d3Pavm0enVICdOvBEqxYA",
         "bookbeat" : "534608",
         "amazonMusic" : "B01CV1BIBK",
-        "amazon" : "B00005Q4Y7"
+        "amazon" : "B00005Q4Y7",
+        "youTubeMusic" : "MPREb_qyABd7taLO8"
       },
       "medien" : [
         {
@@ -6748,7 +6824,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0AKPkUh4ElyZNipc0lZoiR",
         "bookbeat" : "https://www.bookbeat.com/de/book/534684",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1BL8U",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y9"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Y9",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Iq3yq5Qh2mo"
       },
       "ids" : {
         "dreimetadaten" : 39,
@@ -6756,7 +6833,8 @@
         "spotify" : "0AKPkUh4ElyZNipc0lZoiR",
         "bookbeat" : "534684",
         "amazonMusic" : "B01CV1BL8U",
-        "amazon" : "B00005Q4Y9"
+        "amazon" : "B00005Q4Y9",
+        "youTubeMusic" : "MPREb_Iq3yq5Qh2mo"
       },
       "medien" : [
         {
@@ -6935,7 +7013,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2IIw1KESZrJQBFdZQAWcKY",
         "bookbeat" : "https://www.bookbeat.com/de/book/534572",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS2GQK",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YB"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YB",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_9KPyir9pSi3"
       },
       "ids" : {
         "dreimetadaten" : 40,
@@ -6943,7 +7022,8 @@
         "spotify" : "2IIw1KESZrJQBFdZQAWcKY",
         "bookbeat" : "534572",
         "amazonMusic" : "B01CUS2GQK",
-        "amazon" : "B00005Q4YB"
+        "amazon" : "B00005Q4YB",
+        "youTubeMusic" : "MPREb_9KPyir9pSi3"
       },
       "medien" : [
         {
@@ -7102,7 +7182,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5KUXX8H2LNsuik46M5XLx0",
         "bookbeat" : "https://www.bookbeat.com/de/book/534559",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS0U7C",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YD"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YD",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_U85EaVyXGZB"
       },
       "ids" : {
         "dreimetadaten" : 41,
@@ -7110,7 +7191,8 @@
         "spotify" : "5KUXX8H2LNsuik46M5XLx0",
         "bookbeat" : "534559",
         "amazonMusic" : "B01CUS0U7C",
-        "amazon" : "B00005Q4YD"
+        "amazon" : "B00005Q4YD",
+        "youTubeMusic" : "MPREb_U85EaVyXGZB"
       },
       "medien" : [
         {
@@ -7285,7 +7367,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/24bba3w45LGGm7ps3qonkc",
         "bookbeat" : "https://www.bookbeat.com/de/book/534688",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1C6OI",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YF"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YF",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_w50H7POqXQI"
       },
       "ids" : {
         "dreimetadaten" : 42,
@@ -7293,7 +7376,8 @@
         "spotify" : "24bba3w45LGGm7ps3qonkc",
         "bookbeat" : "534688",
         "amazonMusic" : "B01CV1C6OI",
-        "amazon" : "B00005Q4YF"
+        "amazon" : "B00005Q4YF",
+        "youTubeMusic" : "MPREb_w50H7POqXQI"
       },
       "medien" : [
         {
@@ -7476,7 +7560,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/48QVzskevXtA0KpJjXzvb1",
         "bookbeat" : "https://www.bookbeat.com/de/book/534594",
         "amazonMusic" : "https://music.amazon.de/albums/B01CULEOG2",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YH"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YH",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_BSfTp5YPmc6"
       },
       "ids" : {
         "dreimetadaten" : 43,
@@ -7484,7 +7569,8 @@
         "spotify" : "48QVzskevXtA0KpJjXzvb1",
         "bookbeat" : "534594",
         "amazonMusic" : "B01CULEOG2",
-        "amazon" : "B00005Q4YH"
+        "amazon" : "B00005Q4YH",
+        "youTubeMusic" : "MPREb_BSfTp5YPmc6"
       },
       "medien" : [
         {
@@ -7644,7 +7730,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6JNNLdq9ELeKENK3RmxLWQ",
         "bookbeat" : "https://www.bookbeat.com/de/book/534609",
         "amazonMusic" : "https://music.amazon.de/albums/B01CULEB88",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YJ"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YJ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_e0EJOgfm846"
       },
       "ids" : {
         "dreimetadaten" : 44,
@@ -7652,7 +7739,8 @@
         "spotify" : "6JNNLdq9ELeKENK3RmxLWQ",
         "bookbeat" : "534609",
         "amazonMusic" : "B01CULEB88",
-        "amazon" : "B00005Q4YJ"
+        "amazon" : "B00005Q4YJ",
+        "youTubeMusic" : "MPREb_e0EJOgfm846"
       },
       "medien" : [
         {
@@ -7818,7 +7906,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/39mWWzaUZp0AXyN9Vnp4od",
         "bookbeat" : "https://www.bookbeat.com/de/book/534624",
         "amazonMusic" : "https://music.amazon.de/albums/B01CULD0R6",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YL"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YL",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_tQm8w2k2L36"
       },
       "ids" : {
         "dreimetadaten" : 45,
@@ -7826,7 +7915,8 @@
         "spotify" : "39mWWzaUZp0AXyN9Vnp4od",
         "bookbeat" : "534624",
         "amazonMusic" : "B01CULD0R6",
-        "amazon" : "B00005Q4YL"
+        "amazon" : "B00005Q4YL",
+        "youTubeMusic" : "MPREb_tQm8w2k2L36"
       },
       "medien" : [
         {
@@ -7993,7 +8083,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6YX4i7aMCYmn20zvAFM3lG",
         "bookbeat" : "https://www.bookbeat.com/de/book/534649",
         "amazonMusic" : "https://music.amazon.de/albums/B01CULE55C",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YN"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YN",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_mP6uKu9UuTK"
       },
       "ids" : {
         "dreimetadaten" : 46,
@@ -8001,7 +8092,8 @@
         "spotify" : "6YX4i7aMCYmn20zvAFM3lG",
         "bookbeat" : "534649",
         "amazonMusic" : "B01CULE55C",
-        "amazon" : "B00005Q4YN"
+        "amazon" : "B00005Q4YN",
+        "youTubeMusic" : "MPREb_mP6uKu9UuTK"
       },
       "medien" : [
         {
@@ -8160,7 +8252,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3iWNsrEs9D0FFlKFfscdvL",
         "bookbeat" : "https://www.bookbeat.com/de/book/534661",
         "amazonMusic" : "https://music.amazon.de/albums/B01CULD52G",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YP"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YP",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_JZwt9nOGfeJ"
       },
       "ids" : {
         "dreimetadaten" : 47,
@@ -8168,7 +8261,8 @@
         "spotify" : "3iWNsrEs9D0FFlKFfscdvL",
         "bookbeat" : "534661",
         "amazonMusic" : "B01CULD52G",
-        "amazon" : "B00005Q4YP"
+        "amazon" : "B00005Q4YP",
+        "youTubeMusic" : "MPREb_JZwt9nOGfeJ"
       },
       "medien" : [
         {
@@ -8327,7 +8421,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5IRxm1lo35PttzU8YLslZy",
         "bookbeat" : "https://www.bookbeat.com/de/book/534603",
         "amazonMusic" : "https://music.amazon.de/albums/B01CULD8CI",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YR"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YR",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_3LUmWUyP3Xp"
       },
       "ids" : {
         "dreimetadaten" : 48,
@@ -8335,7 +8430,8 @@
         "spotify" : "5IRxm1lo35PttzU8YLslZy",
         "bookbeat" : "534603",
         "amazonMusic" : "B01CULD8CI",
-        "amazon" : "B00005Q4YR"
+        "amazon" : "B00005Q4YR",
+        "youTubeMusic" : "MPREb_3LUmWUyP3Xp"
       },
       "medien" : [
         {
@@ -8491,7 +8587,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7t2SteAH5OnLLC1ghTAmka",
         "bookbeat" : "https://www.bookbeat.com/de/book/534682",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS31DW",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YT"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YT",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_QRkSM1HMkmB"
       },
       "ids" : {
         "dreimetadaten" : 49,
@@ -8499,7 +8596,8 @@
         "spotify" : "7t2SteAH5OnLLC1ghTAmka",
         "bookbeat" : "534682",
         "amazonMusic" : "B01CUS31DW",
-        "amazon" : "B00005Q4YT"
+        "amazon" : "B00005Q4YT",
+        "youTubeMusic" : "MPREb_QRkSM1HMkmB"
       },
       "medien" : [
         {
@@ -8655,7 +8753,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6DKfjDIB1BSYRGAi2YJYm3",
         "bookbeat" : "https://www.bookbeat.com/de/book/534561",
         "amazonMusic" : "https://music.amazon.de/albums/B01CULE89K",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YV"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YV",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_X4obxflvk4v"
       },
       "ids" : {
         "dreimetadaten" : 50,
@@ -8663,7 +8762,8 @@
         "spotify" : "6DKfjDIB1BSYRGAi2YJYm3",
         "bookbeat" : "534561",
         "amazonMusic" : "B01CULE89K",
-        "amazon" : "B00005Q4YV"
+        "amazon" : "B00005Q4YV",
+        "youTubeMusic" : "MPREb_X4obxflvk4v"
       },
       "medien" : [
         {
@@ -8807,7 +8907,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/71kiy6INV3LzsCddpTZoHf",
         "bookbeat" : "https://www.bookbeat.com/de/book/534655",
         "amazonMusic" : "https://music.amazon.de/albums/B01DQ2ZEMM",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YX"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YX",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_v6IHrEWngDT"
       },
       "ids" : {
         "dreimetadaten" : 51,
@@ -8815,7 +8916,8 @@
         "spotify" : "71kiy6INV3LzsCddpTZoHf",
         "bookbeat" : "534655",
         "amazonMusic" : "B01DQ2ZEMM",
-        "amazon" : "B00005Q4YX"
+        "amazon" : "B00005Q4YX",
+        "youTubeMusic" : "MPREb_v6IHrEWngDT"
       },
       "medien" : [
         {
@@ -8991,7 +9093,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3pXJh2A9gYzNt22rEIE5q7",
         "bookbeat" : "https://www.bookbeat.com/de/book/534604",
         "amazonMusic" : "https://music.amazon.de/albums/B01DQ306OC",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YZ"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4YZ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_HpAF9LSfRVc"
       },
       "ids" : {
         "dreimetadaten" : 52,
@@ -8999,7 +9102,8 @@
         "spotify" : "3pXJh2A9gYzNt22rEIE5q7",
         "bookbeat" : "534604",
         "amazonMusic" : "B01DQ306OC",
-        "amazon" : "B00005Q4YZ"
+        "amazon" : "B00005Q4YZ",
+        "youTubeMusic" : "MPREb_HpAF9LSfRVc"
       },
       "medien" : [
         {
@@ -9163,7 +9267,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0F9ebKwTd5RNZZOu49lWuF",
         "bookbeat" : "https://www.bookbeat.com/de/book/534560",
         "amazonMusic" : "https://music.amazon.de/albums/B01DQ30FCU",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Z1"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Z1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_9GkoEO2iOQ1"
       },
       "ids" : {
         "dreimetadaten" : 53,
@@ -9171,7 +9276,8 @@
         "spotify" : "0F9ebKwTd5RNZZOu49lWuF",
         "bookbeat" : "534560",
         "amazonMusic" : "B01DQ30FCU",
-        "amazon" : "B00005Q4Z1"
+        "amazon" : "B00005Q4Z1",
+        "youTubeMusic" : "MPREb_9GkoEO2iOQ1"
       },
       "medien" : [
         {
@@ -9336,7 +9442,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1Fg15cBLFliy6Kr60QqRan",
         "bookbeat" : "https://www.bookbeat.com/de/book/534577",
         "amazonMusic" : "https://music.amazon.de/albums/B01F43ZT30",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Z3"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Z3",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_6XjKEaoDbhn"
       },
       "ids" : {
         "dreimetadaten" : 54,
@@ -9344,7 +9451,8 @@
         "spotify" : "1Fg15cBLFliy6Kr60QqRan",
         "bookbeat" : "534577",
         "amazonMusic" : "B01F43ZT30",
-        "amazon" : "B00005Q4Z3"
+        "amazon" : "B00005Q4Z3",
+        "youTubeMusic" : "MPREb_6XjKEaoDbhn"
       },
       "medien" : [
         {
@@ -9512,7 +9620,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4oH2GUWlSSsSgVkxyPVHX1",
         "bookbeat" : "https://www.bookbeat.com/de/book/534672",
         "amazonMusic" : "https://music.amazon.de/albums/B01F440B8M",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Z5"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Z5",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_y28GSHgDDM7"
       },
       "ids" : {
         "dreimetadaten" : 55,
@@ -9520,7 +9629,8 @@
         "spotify" : "4oH2GUWlSSsSgVkxyPVHX1",
         "bookbeat" : "534672",
         "amazonMusic" : "B01F440B8M",
-        "amazon" : "B00005Q4Z5"
+        "amazon" : "B00005Q4Z5",
+        "youTubeMusic" : "MPREb_y28GSHgDDM7"
       },
       "medien" : [
         {
@@ -9688,7 +9798,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3fotka2Hbq0N7V9KKWIDdw",
         "bookbeat" : "https://www.bookbeat.com/de/book/537487",
         "amazonMusic" : "https://music.amazon.de/albums/B01F4420ZY",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Z7"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Z7",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_MqO96nL4kfv"
       },
       "ids" : {
         "dreimetadaten" : 56,
@@ -9696,7 +9807,8 @@
         "spotify" : "3fotka2Hbq0N7V9KKWIDdw",
         "bookbeat" : "537487",
         "amazonMusic" : "B01F4420ZY",
-        "amazon" : "B00005Q4Z7"
+        "amazon" : "B00005Q4Z7",
+        "youTubeMusic" : "MPREb_MqO96nL4kfv"
       },
       "medien" : [
         {
@@ -9856,7 +9968,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5W6dRiaeSVE7zUBYHbepak",
         "bookbeat" : "https://www.bookbeat.com/de/book/534574",
         "amazonMusic" : "https://music.amazon.de/albums/B01F43ZW5A",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Z9"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4Z9",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_jXgwLI78HG8"
       },
       "ids" : {
         "dreimetadaten" : 57,
@@ -9864,7 +9977,8 @@
         "spotify" : "5W6dRiaeSVE7zUBYHbepak",
         "bookbeat" : "534574",
         "amazonMusic" : "B01F43ZW5A",
-        "amazon" : "B00005Q4Z9"
+        "amazon" : "B00005Q4Z9",
+        "youTubeMusic" : "MPREb_jXgwLI78HG8"
       },
       "medien" : [
         {
@@ -10029,7 +10143,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6DWykdlgf60Mq02hPAGYVD",
         "bookbeat" : "https://www.bookbeat.com/de/book/534621",
         "amazonMusic" : "https://music.amazon.de/albums/B01F441NWK",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4WV"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4WV",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Wkuvj6nRlNx"
       },
       "ids" : {
         "dreimetadaten" : 58,
@@ -10037,7 +10152,8 @@
         "spotify" : "6DWykdlgf60Mq02hPAGYVD",
         "bookbeat" : "534621",
         "amazonMusic" : "B01F441NWK",
-        "amazon" : "B00005Q4WV"
+        "amazon" : "B00005Q4WV",
+        "youTubeMusic" : "MPREb_Wkuvj6nRlNx"
       },
       "medien" : [
         {
@@ -10201,7 +10317,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2qcA1EqAoUsqxXqIivY6Zc",
         "bookbeat" : "https://www.bookbeat.com/de/book/534650",
         "amazonMusic" : "https://music.amazon.de/albums/B01F440UDS",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4WW"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4WW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_9tGSvUuhaFF"
       },
       "ids" : {
         "dreimetadaten" : 59,
@@ -10209,7 +10326,8 @@
         "spotify" : "2qcA1EqAoUsqxXqIivY6Zc",
         "bookbeat" : "534650",
         "amazonMusic" : "B01F440UDS",
-        "amazon" : "B00005Q4WW"
+        "amazon" : "B00005Q4WW",
+        "youTubeMusic" : "MPREb_9tGSvUuhaFF"
       },
       "medien" : [
         {
@@ -10378,7 +10496,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7cBoiWgh1bTMZmCwJE0eMu",
         "bookbeat" : "https://www.bookbeat.com/de/book/534542",
         "amazonMusic" : "https://music.amazon.de/albums/B01F43Z90I",
-        "amazon" : "https://www.amazon.de/gp/product/B00005QXM0"
+        "amazon" : "https://www.amazon.de/gp/product/B00005QXM0",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_mresDC8YlOU"
       },
       "ids" : {
         "dreimetadaten" : 60,
@@ -10386,7 +10505,8 @@
         "spotify" : "7cBoiWgh1bTMZmCwJE0eMu",
         "bookbeat" : "534542",
         "amazonMusic" : "B01F43Z90I",
-        "amazon" : "B00005QXM0"
+        "amazon" : "B00005QXM0",
+        "youTubeMusic" : "MPREb_mresDC8YlOU"
       },
       "medien" : [
         {
@@ -10554,7 +10674,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/26M4ktHp3isOX6XJazAxPn",
         "bookbeat" : "https://www.bookbeat.com/de/book/534576",
         "amazonMusic" : "https://music.amazon.de/albums/B01F6D8A84",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4WX"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4WX",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_TfQC7TPKsyq"
       },
       "ids" : {
         "dreimetadaten" : 61,
@@ -10562,7 +10683,8 @@
         "spotify" : "26M4ktHp3isOX6XJazAxPn",
         "bookbeat" : "534576",
         "amazonMusic" : "B01F6D8A84",
-        "amazon" : "B00005Q4WX"
+        "amazon" : "B00005Q4WX",
+        "youTubeMusic" : "MPREb_TfQC7TPKsyq"
       },
       "medien" : [
         {
@@ -10730,7 +10852,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0biXUv1uGUaVsPcw8nAZCY",
         "bookbeat" : "https://www.bookbeat.com/de/book/534723",
         "amazonMusic" : "https://music.amazon.de/albums/B01F6D2NJQ",
-        "amazon" : "https://www.amazon.de/gp/product/B00005Q4WY"
+        "amazon" : "https://www.amazon.de/gp/product/B00005Q4WY",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_2y3O67Xbcqs"
       },
       "ids" : {
         "dreimetadaten" : 62,
@@ -10738,7 +10861,8 @@
         "spotify" : "0biXUv1uGUaVsPcw8nAZCY",
         "bookbeat" : "534723",
         "amazonMusic" : "B01F6D2NJQ",
-        "amazon" : "B00005Q4WY"
+        "amazon" : "B00005Q4WY",
+        "youTubeMusic" : "MPREb_2y3O67Xbcqs"
       },
       "medien" : [
         {
@@ -10907,7 +11031,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5GPTZKrD7eaCp9p6VOBuIN",
         "bookbeat" : "https://www.bookbeat.com/de/book/534601",
         "amazonMusic" : "https://music.amazon.de/albums/B01F6QHLO0",
-        "amazon" : "https://www.amazon.de/gp/product/B0000260G5"
+        "amazon" : "https://www.amazon.de/gp/product/B0000260G5",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_eDeggFnbAFg"
       },
       "ids" : {
         "dreimetadaten" : 63,
@@ -10915,7 +11040,8 @@
         "spotify" : "5GPTZKrD7eaCp9p6VOBuIN",
         "bookbeat" : "534601",
         "amazonMusic" : "B01F6QHLO0",
-        "amazon" : "B0000260G5"
+        "amazon" : "B0000260G5",
+        "youTubeMusic" : "MPREb_eDeggFnbAFg"
       },
       "medien" : [
         {
@@ -11084,7 +11210,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0tmMvsGyWRzVckCYgkvve3",
         "bookbeat" : "https://www.bookbeat.com/de/book/534613",
         "amazonMusic" : "https://music.amazon.de/albums/B01F6QGLI2",
-        "amazon" : "https://www.amazon.de/gp/product/B0000260KD"
+        "amazon" : "https://www.amazon.de/gp/product/B0000260KD",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_eGVnxSsOWvm"
       },
       "ids" : {
         "dreimetadaten" : 64,
@@ -11092,7 +11219,8 @@
         "spotify" : "0tmMvsGyWRzVckCYgkvve3",
         "bookbeat" : "534613",
         "amazonMusic" : "B01F6QGLI2",
-        "amazon" : "B0000260KD"
+        "amazon" : "B0000260KD",
+        "youTubeMusic" : "MPREb_eGVnxSsOWvm"
       },
       "medien" : [
         {
@@ -11268,7 +11396,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/62z7yW4RKhhuAp0RklmNvc",
         "bookbeat" : "https://www.bookbeat.com/de/book/534659",
         "amazonMusic" : "https://music.amazon.de/albums/B01F6QI23E",
-        "amazon" : "https://www.amazon.de/gp/product/B0000250O8"
+        "amazon" : "https://www.amazon.de/gp/product/B0000250O8",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_LPKbN6yer8H"
       },
       "ids" : {
         "dreimetadaten" : 65,
@@ -11276,7 +11405,8 @@
         "spotify" : "62z7yW4RKhhuAp0RklmNvc",
         "bookbeat" : "534659",
         "amazonMusic" : "B01F6QI23E",
-        "amazon" : "B0000250O8"
+        "amazon" : "B0000250O8",
+        "youTubeMusic" : "MPREb_LPKbN6yer8H"
       },
       "medien" : [
         {
@@ -11436,7 +11566,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6qj4LD0zotutkIgEg9OvDj",
         "bookbeat" : "https://www.bookbeat.com/de/book/534615",
         "amazonMusic" : "https://music.amazon.de/albums/B01F6QGL1E",
-        "amazon" : "https://www.amazon.de/gp/product/B0000250OA"
+        "amazon" : "https://www.amazon.de/gp/product/B0000250OA",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_hcpgTvrjsk7"
       },
       "ids" : {
         "dreimetadaten" : 66,
@@ -11444,7 +11575,8 @@
         "spotify" : "6qj4LD0zotutkIgEg9OvDj",
         "bookbeat" : "534615",
         "amazonMusic" : "B01F6QGL1E",
-        "amazon" : "B0000250OA"
+        "amazon" : "B0000250OA",
+        "youTubeMusic" : "MPREb_hcpgTvrjsk7"
       },
       "medien" : [
         {
@@ -11608,7 +11740,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7Hjk98j1FSrHV5IHWmeeFh",
         "bookbeat" : "https://www.bookbeat.com/de/book/534568",
         "amazonMusic" : "https://music.amazon.de/albums/B01F6QGY5W",
-        "amazon" : "https://www.amazon.de/gp/product/B000024UQT"
+        "amazon" : "https://www.amazon.de/gp/product/B000024UQT",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ZBdDVpP0Ild"
       },
       "ids" : {
         "dreimetadaten" : 67,
@@ -11616,7 +11749,8 @@
         "spotify" : "7Hjk98j1FSrHV5IHWmeeFh",
         "bookbeat" : "534568",
         "amazonMusic" : "B01F6QGY5W",
-        "amazon" : "B000024UQT"
+        "amazon" : "B000024UQT",
+        "youTubeMusic" : "MPREb_ZBdDVpP0Ild"
       },
       "medien" : [
         {
@@ -11760,7 +11894,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/21pUsEhxssm6fvumGFmi35",
         "bookbeat" : "https://www.bookbeat.com/de/book/534927",
         "amazonMusic" : "https://music.amazon.de/albums/B01F6QN7V6",
-        "amazon" : "https://www.amazon.de/gp/product/B000024UQV"
+        "amazon" : "https://www.amazon.de/gp/product/B000024UQV",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_dJXoBs1frzG"
       },
       "ids" : {
         "dreimetadaten" : 68,
@@ -11768,7 +11903,8 @@
         "spotify" : "21pUsEhxssm6fvumGFmi35",
         "bookbeat" : "534927",
         "amazonMusic" : "B01F6QN7V6",
-        "amazon" : "B000024UQV"
+        "amazon" : "B000024UQV",
+        "youTubeMusic" : "MPREb_dJXoBs1frzG"
       },
       "medien" : [
         {
@@ -11945,7 +12081,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2erJcBofKBO6GFMqDPppsU",
         "bookbeat" : "https://www.bookbeat.com/de/book/534704",
         "amazonMusic" : "https://music.amazon.de/albums/B01F6QO3BO",
-        "amazon" : "https://www.amazon.de/gp/product/B000025QXH"
+        "amazon" : "https://www.amazon.de/gp/product/B000025QXH",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_mR0qxa9SeLT"
       },
       "ids" : {
         "dreimetadaten" : 69,
@@ -11953,7 +12090,8 @@
         "spotify" : "2erJcBofKBO6GFMqDPppsU",
         "bookbeat" : "534704",
         "amazonMusic" : "B01F6QO3BO",
-        "amazon" : "B000025QXH"
+        "amazon" : "B000025QXH",
+        "youTubeMusic" : "MPREb_mR0qxa9SeLT"
       },
       "medien" : [
         {
@@ -12121,7 +12259,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4mlQEwk6I0XuksZCYTtatz",
         "bookbeat" : "https://www.bookbeat.com/de/book/534625",
         "amazonMusic" : "https://music.amazon.de/albums/B01F6QK63I",
-        "amazon" : "https://www.amazon.de/gp/product/B000025QY2"
+        "amazon" : "https://www.amazon.de/gp/product/B000025QY2",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_oYJxMAAwwaW"
       },
       "ids" : {
         "dreimetadaten" : 70,
@@ -12129,7 +12268,8 @@
         "spotify" : "4mlQEwk6I0XuksZCYTtatz",
         "bookbeat" : "534625",
         "amazonMusic" : "B01F6QK63I",
-        "amazon" : "B000025QY2"
+        "amazon" : "B000025QY2",
+        "youTubeMusic" : "MPREb_oYJxMAAwwaW"
       },
       "medien" : [
         {
@@ -12310,7 +12450,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6EEN6onzbHIOxnwUkGfKhv",
         "bookbeat" : "https://www.bookbeat.com/de/book/534588",
         "amazonMusic" : "https://music.amazon.de/albums/B01FI931TY",
-        "amazon" : "https://www.amazon.de/gp/product/B000024RIB"
+        "amazon" : "https://www.amazon.de/gp/product/B000024RIB",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_7iC3BlItIKR"
       },
       "ids" : {
         "dreimetadaten" : 71,
@@ -12318,7 +12459,8 @@
         "spotify" : "6EEN6onzbHIOxnwUkGfKhv",
         "bookbeat" : "534588",
         "amazonMusic" : "B01FI931TY",
-        "amazon" : "B000024RIB"
+        "amazon" : "B000024RIB",
+        "youTubeMusic" : "MPREb_7iC3BlItIKR"
       },
       "medien" : [
         {
@@ -12494,7 +12636,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2GQjkF0ceIse6jVZkUuAQc",
         "bookbeat" : "https://www.bookbeat.com/de/book/534725",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM4WAS",
-        "amazon" : "https://www.amazon.de/gp/product/B000024RIE"
+        "amazon" : "https://www.amazon.de/gp/product/B000024RIE",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_1kvvFii7oC0"
       },
       "ids" : {
         "dreimetadaten" : 72,
@@ -12502,7 +12645,8 @@
         "spotify" : "2GQjkF0ceIse6jVZkUuAQc",
         "bookbeat" : "534725",
         "amazonMusic" : "B01FIM4WAS",
-        "amazon" : "B000024RIE"
+        "amazon" : "B000024RIE",
+        "youTubeMusic" : "MPREb_1kvvFii7oC0"
       },
       "medien" : [
         {
@@ -12662,7 +12806,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1K8kXLhNnHSdPvtUwf74DE",
         "bookbeat" : "https://www.bookbeat.com/de/book/534720",
         "amazonMusic" : "https://music.amazon.de/albums/B01FI96OHK",
-        "amazon" : "https://www.amazon.de/gp/product/B000024I2H"
+        "amazon" : "https://www.amazon.de/gp/product/B000024I2H",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_quMhEQUfoZB"
       },
       "ids" : {
         "dreimetadaten" : 73,
@@ -12670,7 +12815,8 @@
         "spotify" : "1K8kXLhNnHSdPvtUwf74DE",
         "bookbeat" : "534720",
         "amazonMusic" : "B01FI96OHK",
-        "amazon" : "B000024I2H"
+        "amazon" : "B000024I2H",
+        "youTubeMusic" : "MPREb_quMhEQUfoZB"
       },
       "medien" : [
         {
@@ -12847,7 +12993,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/69VLqtWA1bpguYRCFRAxQl",
         "bookbeat" : "https://www.bookbeat.com/de/book/534701",
         "amazonMusic" : "https://music.amazon.de/albums/B01FILZ3LG",
-        "amazon" : "https://www.amazon.de/gp/product/B000024I2K"
+        "amazon" : "https://www.amazon.de/gp/product/B000024I2K",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_cwZ5wuMR36Y"
       },
       "ids" : {
         "dreimetadaten" : 74,
@@ -12855,7 +13002,8 @@
         "spotify" : "69VLqtWA1bpguYRCFRAxQl",
         "bookbeat" : "534701",
         "amazonMusic" : "B01FILZ3LG",
-        "amazon" : "B000024I2K"
+        "amazon" : "B000024I2K",
+        "youTubeMusic" : "MPREb_cwZ5wuMR36Y"
       },
       "medien" : [
         {
@@ -13011,7 +13159,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2IqfdlQamN3vCWN3CKLEVI",
         "bookbeat" : "https://www.bookbeat.com/de/book/534697",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM7UI4",
-        "amazon" : "https://www.amazon.de/gp/product/B000025JQJ"
+        "amazon" : "https://www.amazon.de/gp/product/B000025JQJ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_TyxIQyunzqR"
       },
       "ids" : {
         "dreimetadaten" : 75,
@@ -13019,7 +13168,8 @@
         "spotify" : "2IqfdlQamN3vCWN3CKLEVI",
         "bookbeat" : "534697",
         "amazonMusic" : "B01FIM7UI4",
-        "amazon" : "B000025JQJ"
+        "amazon" : "B000025JQJ",
+        "youTubeMusic" : "MPREb_TyxIQyunzqR"
       },
       "medien" : [
         {
@@ -13183,7 +13333,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6RDPGc2budsdTw1lj8f2O5",
         "bookbeat" : "https://www.bookbeat.com/de/book/534667",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIMB8EQ",
-        "amazon" : "https://www.amazon.de/gp/product/B0000263M1"
+        "amazon" : "https://www.amazon.de/gp/product/B0000263M1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_95bq2dcVgBD"
       },
       "ids" : {
         "dreimetadaten" : 76,
@@ -13191,7 +13342,8 @@
         "spotify" : "6RDPGc2budsdTw1lj8f2O5",
         "bookbeat" : "534667",
         "amazonMusic" : "B01FIMB8EQ",
-        "amazon" : "B0000263M1"
+        "amazon" : "B0000263M1",
+        "youTubeMusic" : "MPREb_95bq2dcVgBD"
       },
       "medien" : [
         {
@@ -13354,7 +13506,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3CMN8Y4kjoG4sFwlOEpfsV",
         "bookbeat" : "https://www.bookbeat.com/de/book/534662",
         "amazonMusic" : "https://music.amazon.de/albums/B01FILZBRC",
-        "amazon" : "https://www.amazon.de/gp/product/B000026ENI"
+        "amazon" : "https://www.amazon.de/gp/product/B000026ENI",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_dMH9jiYMcbo"
       },
       "ids" : {
         "dreimetadaten" : 77,
@@ -13362,7 +13515,8 @@
         "spotify" : "3CMN8Y4kjoG4sFwlOEpfsV",
         "bookbeat" : "534662",
         "amazonMusic" : "B01FILZBRC",
-        "amazon" : "B000026ENI"
+        "amazon" : "B000026ENI",
+        "youTubeMusic" : "MPREb_dMH9jiYMcbo"
       },
       "medien" : [
         {
@@ -13511,7 +13665,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6t7Y1H4dUM0d4JycenVskN",
         "bookbeat" : "https://www.bookbeat.com/de/book/534710",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM4YGA",
-        "amazon" : "https://www.amazon.de/gp/product/B000025GYB"
+        "amazon" : "https://www.amazon.de/gp/product/B000025GYB",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_gQObtteP7BK"
       },
       "ids" : {
         "dreimetadaten" : 78,
@@ -13519,7 +13674,8 @@
         "spotify" : "6t7Y1H4dUM0d4JycenVskN",
         "bookbeat" : "534710",
         "amazonMusic" : "B01FIM4YGA",
-        "amazon" : "B000025GYB"
+        "amazon" : "B000025GYB",
+        "youTubeMusic" : "MPREb_gQObtteP7BK"
       },
       "medien" : [
         {
@@ -13684,7 +13840,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1rDYlXZy6vN4wqqQ6buqOr",
         "bookbeat" : "https://www.bookbeat.com/de/book/534683",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM0OUK",
-        "amazon" : "https://www.amazon.de/gp/product/B000025HPJ"
+        "amazon" : "https://www.amazon.de/gp/product/B000025HPJ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Ljjo9h7mEUM"
       },
       "ids" : {
         "dreimetadaten" : 79,
@@ -13692,7 +13849,8 @@
         "spotify" : "1rDYlXZy6vN4wqqQ6buqOr",
         "bookbeat" : "534683",
         "amazonMusic" : "B01FIM0OUK",
-        "amazon" : "B000025HPJ"
+        "amazon" : "B000025HPJ",
+        "youTubeMusic" : "MPREb_Ljjo9h7mEUM"
       },
       "medien" : [
         {
@@ -13823,7 +13981,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4izXuApLzBWtWHrFqgcrxL",
         "bookbeat" : "https://www.bookbeat.com/de/book/534706",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM7OV2",
-        "amazon" : "https://www.amazon.de/gp/product/B000024C9K"
+        "amazon" : "https://www.amazon.de/gp/product/B000024C9K",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_gZ4gGnC2RHn"
       },
       "ids" : {
         "dreimetadaten" : 80,
@@ -13831,7 +13990,8 @@
         "spotify" : "4izXuApLzBWtWHrFqgcrxL",
         "bookbeat" : "534706",
         "amazonMusic" : "B01FIM7OV2",
-        "amazon" : "B000024C9K"
+        "amazon" : "B000024C9K",
+        "youTubeMusic" : "MPREb_gZ4gGnC2RHn"
       },
       "medien" : [
         {
@@ -13975,7 +14135,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2s5u6hCaMpTIvZtBRvQzha",
         "bookbeat" : "https://www.bookbeat.com/de/book/534653",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIMAUKO",
-        "amazon" : "https://www.amazon.de/gp/product/B000024B03"
+        "amazon" : "https://www.amazon.de/gp/product/B000024B03",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_MeygzPs9ST6"
       },
       "ids" : {
         "dreimetadaten" : 81,
@@ -13983,7 +14144,8 @@
         "spotify" : "2s5u6hCaMpTIvZtBRvQzha",
         "bookbeat" : "534653",
         "amazonMusic" : "B01FIMAUKO",
-        "amazon" : "B000024B03"
+        "amazon" : "B000024B03",
+        "youTubeMusic" : "MPREb_MeygzPs9ST6"
       },
       "medien" : [
         {
@@ -14111,7 +14273,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7iysTnwaaFrPPWAuUyyi0c",
         "bookbeat" : "https://www.bookbeat.com/de/book/534721",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM52F2",
-        "amazon" : "https://www.amazon.de/gp/product/B0000245M1"
+        "amazon" : "https://www.amazon.de/gp/product/B0000245M1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Wo4uFdKdbYm"
       },
       "ids" : {
         "dreimetadaten" : 82,
@@ -14119,7 +14282,8 @@
         "spotify" : "7iysTnwaaFrPPWAuUyyi0c",
         "bookbeat" : "534721",
         "amazonMusic" : "B01FIM52F2",
-        "amazon" : "B0000245M1"
+        "amazon" : "B0000245M1",
+        "youTubeMusic" : "MPREb_Wo4uFdKdbYm"
       },
       "medien" : [
         {
@@ -14255,7 +14419,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3yofHdHiOLtVZlxWCZ4XBB",
         "bookbeat" : "https://www.bookbeat.com/de/book/534717",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIMB2O2",
-        "amazon" : "https://www.amazon.de/gp/product/B000023YP0"
+        "amazon" : "https://www.amazon.de/gp/product/B000023YP0",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_oqqrdwv7xkv"
       },
       "ids" : {
         "dreimetadaten" : 83,
@@ -14263,7 +14428,8 @@
         "spotify" : "3yofHdHiOLtVZlxWCZ4XBB",
         "bookbeat" : "534717",
         "amazonMusic" : "B01FIMB2O2",
-        "amazon" : "B000023YP0"
+        "amazon" : "B000023YP0",
+        "youTubeMusic" : "MPREb_oqqrdwv7xkv"
       },
       "medien" : [
         {
@@ -14391,7 +14557,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3bhsXwKIDwVK5LTkDCICp0",
         "bookbeat" : "https://www.bookbeat.com/de/book/534663",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM4PPU",
-        "amazon" : "https://www.amazon.de/gp/product/B000023YP2"
+        "amazon" : "https://www.amazon.de/gp/product/B000023YP2",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Wi4MD2mFNJG"
       },
       "ids" : {
         "dreimetadaten" : 84,
@@ -14399,7 +14566,8 @@
         "spotify" : "3bhsXwKIDwVK5LTkDCICp0",
         "bookbeat" : "534663",
         "amazonMusic" : "B01FIM4PPU",
-        "amazon" : "B000023YP2"
+        "amazon" : "B000023YP2",
+        "youTubeMusic" : "MPREb_Wi4MD2mFNJG"
       },
       "medien" : [
         {
@@ -14535,7 +14703,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2eeodcwD9HXpcA2rvoFkIq",
         "bookbeat" : "https://www.bookbeat.com/de/book/534696",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM3MAE",
-        "amazon" : "https://www.amazon.de/gp/product/B000028DS1"
+        "amazon" : "https://www.amazon.de/gp/product/B000028DS1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_oqrXgS1bib4"
       },
       "ids" : {
         "dreimetadaten" : 85,
@@ -14543,7 +14712,8 @@
         "spotify" : "2eeodcwD9HXpcA2rvoFkIq",
         "bookbeat" : "534696",
         "amazonMusic" : "B01FIM3MAE",
-        "amazon" : "B000028DS1"
+        "amazon" : "B000028DS1",
+        "youTubeMusic" : "MPREb_oqrXgS1bib4"
       },
       "medien" : [
         {
@@ -14679,7 +14849,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4uF9MjchYgq5jjPi5x5YZy",
         "bookbeat" : "https://www.bookbeat.com/de/book/534739",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM9686",
-        "amazon" : "https://www.amazon.de/gp/product/B00002DFKR"
+        "amazon" : "https://www.amazon.de/gp/product/B00002DFKR",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_MqR92Ip7xmT"
       },
       "ids" : {
         "dreimetadaten" : 86,
@@ -14687,7 +14858,8 @@
         "spotify" : "4uF9MjchYgq5jjPi5x5YZy",
         "bookbeat" : "534739",
         "amazonMusic" : "B01FIM9686",
-        "amazon" : "B00002DFKR"
+        "amazon" : "B00002DFKR",
+        "youTubeMusic" : "MPREb_MqR92Ip7xmT"
       },
       "medien" : [
         {
@@ -14831,7 +15003,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1KpWkUQaj5ECJsrb8SrPl4",
         "bookbeat" : "https://www.bookbeat.com/de/book/534677",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM47BC",
-        "amazon" : "https://www.amazon.de/gp/product/B00002DE6A"
+        "amazon" : "https://www.amazon.de/gp/product/B00002DE6A",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_7jBPIT5IDt9"
       },
       "ids" : {
         "dreimetadaten" : 87,
@@ -14839,7 +15012,8 @@
         "spotify" : "1KpWkUQaj5ECJsrb8SrPl4",
         "bookbeat" : "534677",
         "amazonMusic" : "B01FIM47BC",
-        "amazon" : "B00002DE6A"
+        "amazon" : "B00002DE6A",
+        "youTubeMusic" : "MPREb_7jBPIT5IDt9"
       },
       "medien" : [
         {
@@ -15003,7 +15177,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3CZCwdMpj2jnjI43ZlnY5T",
         "bookbeat" : "https://www.bookbeat.com/de/book/534732",
         "amazonMusic" : "https://music.amazon.de/albums/B01FILW5BW",
-        "amazon" : "https://www.amazon.de/gp/product/B000039DE9"
+        "amazon" : "https://www.amazon.de/gp/product/B000039DE9",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_6rn2Oh8mb5V"
       },
       "ids" : {
         "dreimetadaten" : 88,
@@ -15011,7 +15186,8 @@
         "spotify" : "3CZCwdMpj2jnjI43ZlnY5T",
         "bookbeat" : "534732",
         "amazonMusic" : "B01FILW5BW",
-        "amazon" : "B000039DE9"
+        "amazon" : "B000039DE9",
+        "youTubeMusic" : "MPREb_6rn2Oh8mb5V"
       },
       "medien" : [
         {
@@ -15147,7 +15323,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3TcIn19pVz5LXE8UleuLuX",
         "bookbeat" : "https://www.bookbeat.com/de/book/534700",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIMAG94",
-        "amazon" : "https://www.amazon.de/gp/product/B00004T0VC"
+        "amazon" : "https://www.amazon.de/gp/product/B00004T0VC",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_1xR6sl1xLot"
       },
       "ids" : {
         "dreimetadaten" : 89,
@@ -15155,7 +15332,8 @@
         "spotify" : "3TcIn19pVz5LXE8UleuLuX",
         "bookbeat" : "534700",
         "amazonMusic" : "B01FIMAG94",
-        "amazon" : "B00004T0VC"
+        "amazon" : "B00004T0VC",
+        "youTubeMusic" : "MPREb_1xR6sl1xLot"
       },
       "medien" : [
         {
@@ -15275,7 +15453,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2dlgtHB8z7ZhSl1fsSb0Ic",
         "bookbeat" : "https://www.bookbeat.com/de/book/534738",
         "amazonMusic" : "https://music.amazon.de/albums/B01FILXSTA",
-        "amazon" : "https://www.amazon.de/gp/product/B00004T0VD"
+        "amazon" : "https://www.amazon.de/gp/product/B00004T0VD",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_LP7ZJQ00oTD"
       },
       "ids" : {
         "dreimetadaten" : 90,
@@ -15283,7 +15462,8 @@
         "spotify" : "2dlgtHB8z7ZhSl1fsSb0Ic",
         "bookbeat" : "534738",
         "amazonMusic" : "B01FILXSTA",
-        "amazon" : "B00004T0VD"
+        "amazon" : "B00004T0VD",
+        "youTubeMusic" : "MPREb_LP7ZJQ00oTD"
       },
       "medien" : [
         {
@@ -15407,7 +15587,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0Jh7gzQaOscoFndb3raq2l",
         "bookbeat" : "https://www.bookbeat.com/de/book/534722",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM2CFU",
-        "amazon" : "https://www.amazon.de/gp/product/B00004W15N"
+        "amazon" : "https://www.amazon.de/gp/product/B00004W15N",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_DUvHb3QUm2s"
       },
       "ids" : {
         "dreimetadaten" : 91,
@@ -15415,7 +15596,8 @@
         "spotify" : "0Jh7gzQaOscoFndb3raq2l",
         "bookbeat" : "534722",
         "amazonMusic" : "B01FIM2CFU",
-        "amazon" : "B00004W15N"
+        "amazon" : "B00004W15N",
+        "youTubeMusic" : "MPREb_DUvHb3QUm2s"
       },
       "medien" : [
         {
@@ -15539,7 +15721,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7yMRFgR8FRyWwiLHzQQa2B",
         "bookbeat" : "https://www.bookbeat.com/de/book/534730",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIMBDYQ",
-        "amazon" : "https://www.amazon.de/gp/product/B00004Z3I6"
+        "amazon" : "https://www.amazon.de/gp/product/B00004Z3I6",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_m8J0N1kindi"
       },
       "ids" : {
         "dreimetadaten" : 92,
@@ -15547,7 +15730,8 @@
         "spotify" : "7yMRFgR8FRyWwiLHzQQa2B",
         "bookbeat" : "534730",
         "amazonMusic" : "B01FIMBDYQ",
-        "amazon" : "B00004Z3I6"
+        "amazon" : "B00004Z3I6",
+        "youTubeMusic" : "MPREb_m8J0N1kindi"
       },
       "medien" : [
         {
@@ -15676,7 +15860,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7a9rwqPkVdU4FC2cWFudVO",
         "bookbeat" : "https://www.bookbeat.com/de/book/534692",
         "amazonMusic" : "https://music.amazon.de/albums/B01FILZH12",
-        "amazon" : "https://www.amazon.de/gp/product/B0000525LB"
+        "amazon" : "https://www.amazon.de/gp/product/B0000525LB",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_VaxEzP8nO9x"
       },
       "ids" : {
         "dreimetadaten" : 93,
@@ -15684,7 +15869,8 @@
         "spotify" : "7a9rwqPkVdU4FC2cWFudVO",
         "bookbeat" : "534692",
         "amazonMusic" : "B01FILZH12",
-        "amazon" : "B0000525LB"
+        "amazon" : "B0000525LB",
+        "youTubeMusic" : "MPREb_VaxEzP8nO9x"
       },
       "medien" : [
         {
@@ -15829,7 +16015,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3UHj03eU7OnDuMVCTLbmcj",
         "bookbeat" : "https://www.bookbeat.com/de/book/534699",
         "amazonMusic" : "https://music.amazon.de/albums/B01FILYUI8",
-        "amazon" : "https://www.amazon.de/gp/product/B0000525LD"
+        "amazon" : "https://www.amazon.de/gp/product/B0000525LD",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_rTna3RQ8ifa"
       },
       "ids" : {
         "dreimetadaten" : 94,
@@ -15837,7 +16024,8 @@
         "spotify" : "3UHj03eU7OnDuMVCTLbmcj",
         "bookbeat" : "534699",
         "amazonMusic" : "B01FILYUI8",
-        "amazon" : "B0000525LD"
+        "amazon" : "B0000525LD",
+        "youTubeMusic" : "MPREb_rTna3RQ8ifa"
       },
       "medien" : [
         {
@@ -15969,7 +16157,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4KEZWleMTT8lDaQDLgozFc",
         "bookbeat" : "https://www.bookbeat.com/de/book/534713",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM4DDY",
-        "amazon" : "https://www.amazon.de/gp/product/B000058B2H"
+        "amazon" : "https://www.amazon.de/gp/product/B000058B2H",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_41U4HtpJz0d"
       },
       "ids" : {
         "dreimetadaten" : 95,
@@ -15977,7 +16166,8 @@
         "spotify" : "4KEZWleMTT8lDaQDLgozFc",
         "bookbeat" : "534713",
         "amazonMusic" : "B01FIM4DDY",
-        "amazon" : "B000058B2H"
+        "amazon" : "B000058B2H",
+        "youTubeMusic" : "MPREb_41U4HtpJz0d"
       },
       "medien" : [
         {
@@ -16127,7 +16317,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5ub4r9Q0YVMrWuOEesu6dR",
         "bookbeat" : "https://www.bookbeat.com/de/book/534703",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM4G68",
-        "amazon" : "https://www.amazon.de/gp/product/B00005AT5T"
+        "amazon" : "https://www.amazon.de/gp/product/B00005AT5T",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Fg90mr3zk1d"
       },
       "ids" : {
         "dreimetadaten" : 96,
@@ -16135,7 +16326,8 @@
         "spotify" : "5ub4r9Q0YVMrWuOEesu6dR",
         "bookbeat" : "534703",
         "amazonMusic" : "B01FIM4G68",
-        "amazon" : "B00005AT5T"
+        "amazon" : "B00005AT5T",
+        "youTubeMusic" : "MPREb_Fg90mr3zk1d"
       },
       "medien" : [
         {
@@ -16284,7 +16476,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2bfJa4PRKVb7as86HZv8Df",
         "bookbeat" : "https://www.bookbeat.com/de/book/534668",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM3NXK",
-        "amazon" : "https://www.amazon.de/gp/product/B00005K345"
+        "amazon" : "https://www.amazon.de/gp/product/B00005K345",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_RYKY1YZBcGr"
       },
       "ids" : {
         "dreimetadaten" : 97,
@@ -16292,7 +16485,8 @@
         "spotify" : "2bfJa4PRKVb7as86HZv8Df",
         "bookbeat" : "534668",
         "amazonMusic" : "B01FIM3NXK",
-        "amazon" : "B00005K345"
+        "amazon" : "B00005K345",
+        "youTubeMusic" : "MPREb_RYKY1YZBcGr"
       },
       "medien" : [
         {
@@ -16461,7 +16655,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4C4o7tHpT20QrdsvmI70uI",
         "bookbeat" : "https://www.bookbeat.com/de/book/534727",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM5T8M",
-        "amazon" : "https://www.amazon.de/gp/product/B00005MAWJ"
+        "amazon" : "https://www.amazon.de/gp/product/B00005MAWJ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_o8nY9GWcDME"
       },
       "ids" : {
         "dreimetadaten" : 98,
@@ -16469,7 +16664,8 @@
         "spotify" : "4C4o7tHpT20QrdsvmI70uI",
         "bookbeat" : "534727",
         "amazonMusic" : "B01FIM5T8M",
-        "amazon" : "B00005MAWJ"
+        "amazon" : "B00005MAWJ",
+        "youTubeMusic" : "MPREb_o8nY9GWcDME"
       },
       "medien" : [
         {
@@ -16641,7 +16837,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3haGZZ8x7PyaGxiqcLmLf9",
         "bookbeat" : "https://www.bookbeat.com/de/book/534670",
         "amazonMusic" : "https://music.amazon.de/albums/B01FILXTRQ",
-        "amazon" : "https://www.amazon.de/gp/product/B00005NU3G"
+        "amazon" : "https://www.amazon.de/gp/product/B00005NU3G",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_fyWPgLVJ46H"
       },
       "ids" : {
         "dreimetadaten" : 99,
@@ -16649,7 +16846,8 @@
         "spotify" : "3haGZZ8x7PyaGxiqcLmLf9",
         "bookbeat" : "534670",
         "amazonMusic" : "B01FILXTRQ",
-        "amazon" : "B00005NU3G"
+        "amazon" : "B00005NU3G",
+        "youTubeMusic" : "MPREb_fyWPgLVJ46H"
       },
       "medien" : [
         {
@@ -16778,7 +16976,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6zwBnyiy9Hy9TAser0DOuL",
         "bookbeat" : "https://www.bookbeat.com/de/book/534766",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM4KKU",
-        "amazon" : "https://www.amazon.de/gp/product/B00005OBYS"
+        "amazon" : "https://www.amazon.de/gp/product/B00005OBYS",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_rTJZ10YuZau"
       },
       "ids" : {
         "dreimetadaten" : 100,
@@ -16786,7 +16985,8 @@
         "spotify" : "6zwBnyiy9Hy9TAser0DOuL",
         "bookbeat" : "534766",
         "amazonMusic" : "B01FIM4KKU",
-        "amazon" : "B00005OBYS"
+        "amazon" : "B00005OBYS",
+        "youTubeMusic" : "MPREb_rTJZ10YuZau"
       },
       "medien" : [
         {
@@ -17306,7 +17506,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1DZAe0qMw8Pq9EPoX6gETA",
         "bookbeat" : "https://www.bookbeat.com/de/book/534733",
         "amazonMusic" : "https://music.amazon.de/albums/B01FILXIMC",
-        "amazon" : "https://www.amazon.de/gp/product/B00005RW59"
+        "amazon" : "https://www.amazon.de/gp/product/B00005RW59",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_mqyjIavWOEl"
       },
       "ids" : {
         "dreimetadaten" : 104,
@@ -17314,7 +17515,8 @@
         "spotify" : "1DZAe0qMw8Pq9EPoX6gETA",
         "bookbeat" : "534733",
         "amazonMusic" : "B01FILXIMC",
-        "amazon" : "B00005RW59"
+        "amazon" : "B00005RW59",
+        "youTubeMusic" : "MPREb_mqyjIavWOEl"
       },
       "medien" : [
         {
@@ -17462,7 +17664,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3NYWEuwAPt4PIJ4OeNxmzO",
         "bookbeat" : "https://www.bookbeat.com/de/book/534740",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM32RM",
-        "amazon" : "https://www.amazon.de/gp/product/B000060MPP"
+        "amazon" : "https://www.amazon.de/gp/product/B000060MPP",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_DC6eGt0NwbJ"
       },
       "ids" : {
         "dreimetadaten" : 105,
@@ -17470,7 +17673,8 @@
         "spotify" : "3NYWEuwAPt4PIJ4OeNxmzO",
         "bookbeat" : "534740",
         "amazonMusic" : "B01FIM32RM",
-        "amazon" : "B000060MPP"
+        "amazon" : "B000060MPP",
+        "youTubeMusic" : "MPREb_DC6eGt0NwbJ"
       },
       "medien" : [
         {
@@ -17627,7 +17831,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4ADdmpObDUmBdvyJ9oNz5o",
         "bookbeat" : "https://www.bookbeat.com/de/book/534681",
         "amazonMusic" : "https://music.amazon.de/albums/B01FJ28B72",
-        "amazon" : "https://www.amazon.de/gp/product/B0000646HU"
+        "amazon" : "https://www.amazon.de/gp/product/B0000646HU",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_JeQhWA3HsCh"
       },
       "ids" : {
         "dreimetadaten" : 106,
@@ -17635,7 +17840,8 @@
         "spotify" : "4ADdmpObDUmBdvyJ9oNz5o",
         "bookbeat" : "534681",
         "amazonMusic" : "B01FJ28B72",
-        "amazon" : "B0000646HU"
+        "amazon" : "B0000646HU",
+        "youTubeMusic" : "MPREb_JeQhWA3HsCh"
       },
       "medien" : [
         {
@@ -17791,7 +17997,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6joRNVLN69v3eSnxM86BSM",
         "bookbeat" : "https://www.bookbeat.com/de/book/534676",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM5ORS",
-        "amazon" : "https://www.amazon.de/gp/product/B000068VRY"
+        "amazon" : "https://www.amazon.de/gp/product/B000068VRY",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_uVfspNkoZew"
       },
       "ids" : {
         "dreimetadaten" : 107,
@@ -17799,7 +18006,8 @@
         "spotify" : "6joRNVLN69v3eSnxM86BSM",
         "bookbeat" : "534676",
         "amazonMusic" : "B01FIM5ORS",
-        "amazon" : "B000068VRY"
+        "amazon" : "B000068VRY",
+        "youTubeMusic" : "MPREb_uVfspNkoZew"
       },
       "medien" : [
         {
@@ -17951,7 +18159,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6Mi4Smq7Fn8qNOg6Xnf0In",
         "bookbeat" : "https://www.bookbeat.com/de/book/534693",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM2YFS",
-        "amazon" : "https://www.amazon.de/gp/product/B00006IGJ7"
+        "amazon" : "https://www.amazon.de/gp/product/B00006IGJ7",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ahKznSua1BR"
       },
       "ids" : {
         "dreimetadaten" : 108,
@@ -17959,7 +18168,8 @@
         "spotify" : "6Mi4Smq7Fn8qNOg6Xnf0In",
         "bookbeat" : "534693",
         "amazonMusic" : "B01FIM2YFS",
-        "amazon" : "B00006IGJ7"
+        "amazon" : "B00006IGJ7",
+        "youTubeMusic" : "MPREb_ahKznSua1BR"
       },
       "medien" : [
         {
@@ -18141,7 +18351,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4eX1wH67TDcYPZ1ZsjtPb6",
         "bookbeat" : "https://www.bookbeat.com/de/book/534735",
         "amazonMusic" : "https://music.amazon.de/albums/B01FUVGJ26",
-        "amazon" : "https://www.amazon.de/gp/product/B00006IGJC"
+        "amazon" : "https://www.amazon.de/gp/product/B00006IGJC",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_nJz7Y7QxK61"
       },
       "ids" : {
         "dreimetadaten" : 109,
@@ -18149,7 +18360,8 @@
         "spotify" : "4eX1wH67TDcYPZ1ZsjtPb6",
         "bookbeat" : "534735",
         "amazonMusic" : "B01FUVGJ26",
-        "amazon" : "B00006IGJC"
+        "amazon" : "B00006IGJC",
+        "youTubeMusic" : "MPREb_nJz7Y7QxK61"
       },
       "medien" : [
         {
@@ -18309,7 +18521,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3kBby5GJMI4U97XljKcPFD",
         "bookbeat" : "https://www.bookbeat.com/de/book/534731",
         "amazonMusic" : "https://music.amazon.de/albums/B01FUVDIR0",
-        "amazon" : "https://www.amazon.de/gp/product/B00007KMO8"
+        "amazon" : "https://www.amazon.de/gp/product/B00007KMO8",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_IsrT7cnoVBi"
       },
       "ids" : {
         "dreimetadaten" : 110,
@@ -18317,7 +18530,8 @@
         "spotify" : "3kBby5GJMI4U97XljKcPFD",
         "bookbeat" : "534731",
         "amazonMusic" : "B01FUVDIR0",
-        "amazon" : "B00007KMO8"
+        "amazon" : "B00007KMO8",
+        "youTubeMusic" : "MPREb_IsrT7cnoVBi"
       },
       "medien" : [
         {
@@ -18466,7 +18680,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3v4W4AFaI8uO7J88ojaSkS",
         "bookbeat" : "https://www.bookbeat.com/de/book/534705",
         "amazonMusic" : "https://music.amazon.de/albums/B01FV2Y7HI",
-        "amazon" : "https://www.amazon.de/gp/product/B00008O885"
+        "amazon" : "https://www.amazon.de/gp/product/B00008O885",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Vcxu1tftkBk"
       },
       "ids" : {
         "dreimetadaten" : 111,
@@ -18474,7 +18689,8 @@
         "spotify" : "3v4W4AFaI8uO7J88ojaSkS",
         "bookbeat" : "534705",
         "amazonMusic" : "B01FV2Y7HI",
-        "amazon" : "B00008O885"
+        "amazon" : "B00008O885",
+        "youTubeMusic" : "MPREb_Vcxu1tftkBk"
       },
       "medien" : [
         {
@@ -18643,7 +18859,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4RZllDAKF3DeDz6jZJFXTa",
         "bookbeat" : "https://www.bookbeat.com/de/book/534712",
         "amazonMusic" : "https://music.amazon.de/albums/B01FV2YJMG",
-        "amazon" : "https://www.amazon.de/gp/product/B00008O887"
+        "amazon" : "https://www.amazon.de/gp/product/B00008O887",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_EPwQJLnyQXX"
       },
       "ids" : {
         "dreimetadaten" : 112,
@@ -18651,7 +18868,8 @@
         "spotify" : "4RZllDAKF3DeDz6jZJFXTa",
         "bookbeat" : "534712",
         "amazonMusic" : "B01FV2YJMG",
-        "amazon" : "B00008O887"
+        "amazon" : "B00008O887",
+        "youTubeMusic" : "MPREb_EPwQJLnyQXX"
       },
       "medien" : [
         {
@@ -18819,7 +19037,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1OBHPhBUih26oQTqxLvJTQ",
         "bookbeat" : "https://www.bookbeat.com/de/book/534711",
         "amazonMusic" : "https://music.amazon.de/albums/B01FV2YOSK",
-        "amazon" : "https://www.amazon.de/gp/product/B00009KATV"
+        "amazon" : "https://www.amazon.de/gp/product/B00009KATV",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Fl29xvwp7WN"
       },
       "ids" : {
         "dreimetadaten" : 113,
@@ -18827,7 +19046,8 @@
         "spotify" : "1OBHPhBUih26oQTqxLvJTQ",
         "bookbeat" : "534711",
         "amazonMusic" : "B01FV2YOSK",
-        "amazon" : "B00009KATV"
+        "amazon" : "B00009KATV",
+        "youTubeMusic" : "MPREb_Fl29xvwp7WN"
       },
       "medien" : [
         {
@@ -19033,7 +19253,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7b9OiVsktCZyldiAnjkVDx",
         "bookbeat" : "https://www.bookbeat.com/de/book/534737",
         "amazonMusic" : "https://music.amazon.de/albums/B01FV2XFK8",
-        "amazon" : "https://www.amazon.de/gp/product/B0000AGDWP"
+        "amazon" : "https://www.amazon.de/gp/product/B0000AGDWP",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ppZ5ZwFDtna"
       },
       "ids" : {
         "dreimetadaten" : 114,
@@ -19041,7 +19262,8 @@
         "spotify" : "7b9OiVsktCZyldiAnjkVDx",
         "bookbeat" : "534737",
         "amazonMusic" : "B01FV2XFK8",
-        "amazon" : "B0000AGDWP"
+        "amazon" : "B0000AGDWP",
+        "youTubeMusic" : "MPREb_ppZ5ZwFDtna"
       },
       "medien" : [
         {
@@ -19248,7 +19470,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0WBhXS0uAYuL1sYb6vjYeS",
         "bookbeat" : "https://www.bookbeat.com/de/book/534719",
         "amazonMusic" : "https://music.amazon.de/albums/B01FV2X6D4",
-        "amazon" : "https://www.amazon.de/gp/product/B0000CDUJC"
+        "amazon" : "https://www.amazon.de/gp/product/B0000CDUJC",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_XRwz0PPu4B2"
       },
       "ids" : {
         "dreimetadaten" : 115,
@@ -19256,7 +19479,8 @@
         "spotify" : "0WBhXS0uAYuL1sYb6vjYeS",
         "bookbeat" : "534719",
         "amazonMusic" : "B01FV2X6D4",
-        "amazon" : "B0000CDUJC"
+        "amazon" : "B0000CDUJC",
+        "youTubeMusic" : "MPREb_XRwz0PPu4B2"
       },
       "medien" : [
         {
@@ -19463,7 +19687,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3bFvjy9IyWd7GrzN2dr0Hi",
         "bookbeat" : "https://www.bookbeat.com/de/book/534708",
         "amazonMusic" : "https://music.amazon.de/albums/B01FV2YMVY",
-        "amazon" : "https://www.amazon.de/gp/product/B0000TEUXO"
+        "amazon" : "https://www.amazon.de/gp/product/B0000TEUXO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_bgW8UXW4K4I"
       },
       "ids" : {
         "dreimetadaten" : 116,
@@ -19471,7 +19696,8 @@
         "spotify" : "3bFvjy9IyWd7GrzN2dr0Hi",
         "bookbeat" : "534708",
         "amazonMusic" : "B01FV2YMVY",
-        "amazon" : "B0000TEUXO"
+        "amazon" : "B0000TEUXO",
+        "youTubeMusic" : "MPREb_bgW8UXW4K4I"
       },
       "medien" : [
         {
@@ -19677,7 +19903,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5L2KCw21QT3JKg1KKuqSeF",
         "bookbeat" : "https://www.bookbeat.com/de/book/534726",
         "amazonMusic" : "https://music.amazon.de/albums/B01FV2ZI0I",
-        "amazon" : "https://www.amazon.de/gp/product/B0001A7U9I"
+        "amazon" : "https://www.amazon.de/gp/product/B0001A7U9I",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_le1BBPy52WG"
       },
       "ids" : {
         "dreimetadaten" : 117,
@@ -19685,7 +19912,8 @@
         "spotify" : "5L2KCw21QT3JKg1KKuqSeF",
         "bookbeat" : "534726",
         "amazonMusic" : "B01FV2ZI0I",
-        "amazon" : "B0001A7U9I"
+        "amazon" : "B0001A7U9I",
+        "youTubeMusic" : "MPREb_le1BBPy52WG"
       },
       "medien" : [
         {
@@ -19909,7 +20137,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5Hafee7JOUqNVqtsrCtrTZ",
         "bookbeat" : "https://www.bookbeat.com/de/book/534734",
         "amazonMusic" : "https://music.amazon.de/albums/B01FV2X7LU",
-        "amazon" : "https://www.amazon.de/gp/product/B0001M6GFA"
+        "amazon" : "https://www.amazon.de/gp/product/B0001M6GFA",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_5syYODAGIMH"
       },
       "ids" : {
         "dreimetadaten" : 118,
@@ -19917,7 +20146,8 @@
         "spotify" : "5Hafee7JOUqNVqtsrCtrTZ",
         "bookbeat" : "534734",
         "amazonMusic" : "B01FV2X7LU",
-        "amazon" : "B0001M6GFA"
+        "amazon" : "B0001M6GFA",
+        "youTubeMusic" : "MPREb_5syYODAGIMH"
       },
       "medien" : [
         {
@@ -20113,7 +20343,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3piMnopGsrEAKd1EZxsU3i",
         "bookbeat" : "https://www.bookbeat.com/de/book/534690",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ0IJPE",
-        "amazon" : "https://www.amazon.de/gp/product/B00026B27C"
+        "amazon" : "https://www.amazon.de/gp/product/B00026B27C",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_bW5ZeHHydip"
       },
       "ids" : {
         "dreimetadaten" : 119,
@@ -20121,7 +20352,8 @@
         "spotify" : "3piMnopGsrEAKd1EZxsU3i",
         "bookbeat" : "534690",
         "amazonMusic" : "B01HQ0IJPE",
-        "amazon" : "B00026B27C"
+        "amazon" : "B00026B27C",
+        "youTubeMusic" : "MPREb_bW5ZeHHydip"
       },
       "medien" : [
         {
@@ -20306,7 +20538,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3rxr4SLE2EG0EAlpSeI99o",
         "bookbeat" : "https://www.bookbeat.com/de/book/534746",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ54ZPC",
-        "amazon" : "https://www.amazon.de/gp/product/B0002V1YLQ"
+        "amazon" : "https://www.amazon.de/gp/product/B0002V1YLQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_somoWcJ0a1g"
       },
       "ids" : {
         "dreimetadaten" : 120,
@@ -20314,7 +20547,8 @@
         "spotify" : "3rxr4SLE2EG0EAlpSeI99o",
         "bookbeat" : "534746",
         "amazonMusic" : "B01HQ54ZPC",
-        "amazon" : "B0002V1YLQ"
+        "amazon" : "B0002V1YLQ",
+        "youTubeMusic" : "MPREb_somoWcJ0a1g"
       },
       "medien" : [
         {
@@ -20526,7 +20760,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1GKXpMQRKEyZI8pL62VUIP",
         "bookbeat" : "https://www.bookbeat.com/de/book/534707",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ4ZPCA",
-        "amazon" : "https://www.amazon.de/gp/product/B0002E48QG"
+        "amazon" : "https://www.amazon.de/gp/product/B0002E48QG",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_JwReJkqXwWg"
       },
       "ids" : {
         "dreimetadaten" : 121,
@@ -20534,7 +20769,8 @@
         "spotify" : "1GKXpMQRKEyZI8pL62VUIP",
         "bookbeat" : "534707",
         "amazonMusic" : "B01HQ4ZPCA",
-        "amazon" : "B0002E48QG"
+        "amazon" : "B0002E48QG",
+        "youTubeMusic" : "MPREb_JwReJkqXwWg"
       },
       "medien" : [
         {
@@ -20754,7 +20990,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7rPDg8NlFJ1a2HMTQvVaB2",
         "bookbeat" : "https://www.bookbeat.com/de/book/534718",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ0IZPS",
-        "amazon" : "https://www.amazon.de/gp/product/B00069W5JO"
+        "amazon" : "https://www.amazon.de/gp/product/B00069W5JO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_LMxJEBaxu4d"
       },
       "ids" : {
         "dreimetadaten" : 123,
@@ -20762,7 +20999,8 @@
         "spotify" : "7rPDg8NlFJ1a2HMTQvVaB2",
         "bookbeat" : "534718",
         "amazonMusic" : "B01HQ0IZPS",
-        "amazon" : "B00069W5JO"
+        "amazon" : "B00069W5JO",
+        "youTubeMusic" : "MPREb_LMxJEBaxu4d"
       },
       "medien" : [
         {
@@ -20955,7 +21193,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6fVTJQKJBku1yaOmZOnfwg",
         "bookbeat" : "https://www.bookbeat.com/de/book/534674",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ50KQK",
-        "amazon" : "https://www.amazon.de/gp/product/B0006TRODQ"
+        "amazon" : "https://www.amazon.de/gp/product/B0006TRODQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_uneCtajybZ5"
       },
       "ids" : {
         "dreimetadaten" : 124,
@@ -20963,7 +21202,8 @@
         "spotify" : "6fVTJQKJBku1yaOmZOnfwg",
         "bookbeat" : "534674",
         "amazonMusic" : "B01HQ50KQK",
-        "amazon" : "B0006TRODQ"
+        "amazon" : "B0006TRODQ",
+        "youTubeMusic" : "MPREb_uneCtajybZ5"
       },
       "medien" : [
         {
@@ -21163,7 +21403,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6d21lwV9Imn3ObWUyV1UN2",
         "bookbeat" : "https://www.bookbeat.com/de/book/534847",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ4XR7A",
-        "amazon" : "https://www.amazon.de/gp/product/B0007QRAQO"
+        "amazon" : "https://www.amazon.de/gp/product/B0007QRAQO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Zn4b6u9kQsJ"
       },
       "ids" : {
         "dreimetadaten" : 136,
@@ -21171,7 +21412,8 @@
         "spotify" : "6d21lwV9Imn3ObWUyV1UN2",
         "bookbeat" : "534847",
         "amazonMusic" : "B01HQ4XR7A",
-        "amazon" : "B0007QRAQO"
+        "amazon" : "B0007QRAQO",
+        "youTubeMusic" : "MPREb_Zn4b6u9kQsJ"
       },
       "medien" : [
         {
@@ -21365,7 +21607,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/68NWcgqeCQMZ3QcPJXBhzH",
         "bookbeat" : "https://www.bookbeat.com/de/book/534796",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ57OX2",
-        "amazon" : "https://www.amazon.de/gp/product/B0014RI7TO"
+        "amazon" : "https://www.amazon.de/gp/product/B0014RI7TO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_0NxhkAIJLnH"
       },
       "ids" : {
         "dreimetadaten" : 137,
@@ -21373,7 +21616,8 @@
         "spotify" : "68NWcgqeCQMZ3QcPJXBhzH",
         "bookbeat" : "534796",
         "amazonMusic" : "B01HQ57OX2",
-        "amazon" : "B0014RI7TO"
+        "amazon" : "B0014RI7TO",
+        "youTubeMusic" : "MPREb_0NxhkAIJLnH"
       },
       "medien" : [
         {
@@ -21541,7 +21785,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3HgetGSMzg6bGM6b67YZcj",
         "bookbeat" : "https://www.bookbeat.com/de/book/534736",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ51LXQ",
-        "amazon" : "https://www.amazon.de/gp/product/B0016ZMTFM"
+        "amazon" : "https://www.amazon.de/gp/product/B0016ZMTFM",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_izG2JoiQRpI"
       },
       "ids" : {
         "dreimetadaten" : 138,
@@ -21549,7 +21794,8 @@
         "spotify" : "3HgetGSMzg6bGM6b67YZcj",
         "bookbeat" : "534736",
         "amazonMusic" : "B01HQ51LXQ",
-        "amazon" : "B0016ZMTFM"
+        "amazon" : "B0016ZMTFM",
+        "youTubeMusic" : "MPREb_izG2JoiQRpI"
       },
       "medien" : [
         {
@@ -21747,7 +21993,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0LoesJ9VnJPrlvIDz4u4Xt",
         "bookbeat" : "https://www.bookbeat.com/de/book/534751",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ503DK",
-        "amazon" : "https://www.amazon.de/gp/product/B0017KY68O"
+        "amazon" : "https://www.amazon.de/gp/product/B0017KY68O",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_hRynGBieuaw"
       },
       "ids" : {
         "dreimetadaten" : 139,
@@ -21755,7 +22002,8 @@
         "spotify" : "0LoesJ9VnJPrlvIDz4u4Xt",
         "bookbeat" : "534751",
         "amazonMusic" : "B01HQ503DK",
-        "amazon" : "B0017KY68O"
+        "amazon" : "B0017KY68O",
+        "youTubeMusic" : "MPREb_hRynGBieuaw"
       },
       "medien" : [
         {
@@ -21965,7 +22213,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0sIRyuExi7jBQmOpHyyY78",
         "bookbeat" : "https://www.bookbeat.com/de/book/534792",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ53VC0",
-        "amazon" : "https://www.amazon.de/gp/product/B001ET21L2"
+        "amazon" : "https://www.amazon.de/gp/product/B001ET21L2",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_WZffCpMhJmS"
       },
       "ids" : {
         "dreimetadaten" : 140,
@@ -21973,7 +22222,8 @@
         "spotify" : "0sIRyuExi7jBQmOpHyyY78",
         "bookbeat" : "534792",
         "amazonMusic" : "B01HQ53VC0",
-        "amazon" : "B001ET21L2"
+        "amazon" : "B001ET21L2",
+        "youTubeMusic" : "MPREb_WZffCpMhJmS"
       },
       "medien" : [
         {
@@ -22785,7 +23035,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0AnyLaLPx339iGaxjqVfob",
         "bookbeat" : "https://www.bookbeat.com/de/book/534802",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ53472",
-        "amazon" : "https://www.amazon.de/gp/product/B001GHD3U0"
+        "amazon" : "https://www.amazon.de/gp/product/B001GHD3U0",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_7hdUgjJdGyn"
       },
       "ids" : {
         "dreimetadaten" : 144,
@@ -22793,7 +23044,8 @@
         "spotify" : "0AnyLaLPx339iGaxjqVfob",
         "bookbeat" : "534802",
         "amazonMusic" : "B01HQ53472",
-        "amazon" : "B001GHD3U0"
+        "amazon" : "B001GHD3U0",
+        "youTubeMusic" : "MPREb_7hdUgjJdGyn"
       },
       "medien" : [
         {
@@ -22996,7 +23248,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0mp5HVWlYinEYa7Y4Q2vau",
         "bookbeat" : "https://www.bookbeat.com/de/book/534747",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ558IA",
-        "amazon" : "https://www.amazon.de/gp/product/B001I4YVBQ"
+        "amazon" : "https://www.amazon.de/gp/product/B001I4YVBQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_yEvtoOE2CCX"
       },
       "ids" : {
         "dreimetadaten" : 145,
@@ -23004,7 +23257,8 @@
         "spotify" : "0mp5HVWlYinEYa7Y4Q2vau",
         "bookbeat" : "534747",
         "amazonMusic" : "B01HQ558IA",
-        "amazon" : "B001I4YVBQ"
+        "amazon" : "B001I4YVBQ",
+        "youTubeMusic" : "MPREb_yEvtoOE2CCX"
       },
       "medien" : [
         {
@@ -23200,7 +23454,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3XXYXmCEe185oHxigCRo97",
         "bookbeat" : "https://www.bookbeat.com/de/book/534748",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ4YQZC",
-        "amazon" : "https://www.amazon.de/gp/product/B001MZ9PZS"
+        "amazon" : "https://www.amazon.de/gp/product/B001MZ9PZS",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_vDJ1JOJ0RRi"
       },
       "ids" : {
         "dreimetadaten" : 146,
@@ -23208,7 +23463,8 @@
         "spotify" : "3XXYXmCEe185oHxigCRo97",
         "bookbeat" : "534748",
         "amazonMusic" : "B01HQ4YQZC",
-        "amazon" : "B001MZ9PZS"
+        "amazon" : "B001MZ9PZS",
+        "youTubeMusic" : "MPREb_vDJ1JOJ0RRi"
       },
       "medien" : [
         {
@@ -23457,7 +23713,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1lD4RdnibVS7QhtZqCal9E",
         "bookbeat" : "https://www.bookbeat.com/de/book/534838",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ50UYC",
-        "amazon" : "https://www.amazon.de/gp/product/B001P2T0NU"
+        "amazon" : "https://www.amazon.de/gp/product/B001P2T0NU",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_FruRmueIv9t"
       },
       "ids" : {
         "dreimetadaten" : 147,
@@ -23465,7 +23722,8 @@
         "spotify" : "1lD4RdnibVS7QhtZqCal9E",
         "bookbeat" : "534838",
         "amazonMusic" : "B01HQ50UYC",
-        "amazon" : "B001P2T0NU"
+        "amazon" : "B001P2T0NU",
+        "youTubeMusic" : "MPREb_FruRmueIv9t"
       },
       "medien" : [
         {
@@ -23719,7 +23977,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5l5CFSjzSdhbflqmplcTFX",
         "bookbeat" : "https://www.bookbeat.com/de/book/534742",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQH0CBQ",
-        "amazon" : "https://www.amazon.de/gp/product/B002011V0A"
+        "amazon" : "https://www.amazon.de/gp/product/B002011V0A",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_jSBisd870qm"
       },
       "ids" : {
         "dreimetadaten" : 148,
@@ -23727,7 +23986,8 @@
         "spotify" : "5l5CFSjzSdhbflqmplcTFX",
         "bookbeat" : "534742",
         "amazonMusic" : "B01HQH0CBQ",
-        "amazon" : "B002011V0A"
+        "amazon" : "B002011V0A",
+        "youTubeMusic" : "MPREb_jSBisd870qm"
       },
       "medien" : [
         {
@@ -23936,7 +24196,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4eorcDi9eRfsi7X0A91Z7u",
         "bookbeat" : "https://www.bookbeat.com/de/book/534821",
         "amazonMusic" : "https://music.amazon.de/albums/B01N8PLM66",
-        "amazon" : "https://www.amazon.de/gp/product/B0020IPMRG"
+        "amazon" : "https://www.amazon.de/gp/product/B0020IPMRG",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_zNml79TtFvx"
       },
       "ids" : {
         "dreimetadaten" : 149,
@@ -23944,7 +24205,8 @@
         "spotify" : "4eorcDi9eRfsi7X0A91Z7u",
         "bookbeat" : "534821",
         "amazonMusic" : "B01N8PLM66",
-        "amazon" : "B0020IPMRG"
+        "amazon" : "B0020IPMRG",
+        "youTubeMusic" : "MPREb_zNml79TtFvx"
       },
       "medien" : [
         {
@@ -24130,7 +24392,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/23wcElHGWpunC23ggr4PcW",
         "bookbeat" : "https://www.bookbeat.com/de/book/534749",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ51YLU",
-        "amazon" : "https://www.amazon.de/gp/product/B0020IPMSA"
+        "amazon" : "https://www.amazon.de/gp/product/B0020IPMSA",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_I8sw4W15l3j"
       },
       "ids" : {
         "dreimetadaten" : 150,
@@ -24138,7 +24401,8 @@
         "spotify" : "23wcElHGWpunC23ggr4PcW",
         "bookbeat" : "534749",
         "amazonMusic" : "B01HQ51YLU",
-        "amazon" : "B0020IPMSA"
+        "amazon" : "B0020IPMSA",
+        "youTubeMusic" : "MPREb_I8sw4W15l3j"
       },
       "medien" : [
         {
@@ -24312,7 +24576,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1juMQy6yZVmk9Za6HeiicB",
         "bookbeat" : "https://www.bookbeat.com/de/book/534830",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ4ZM8M",
-        "amazon" : "https://www.amazon.de/gp/product/B002BF484Q"
+        "amazon" : "https://www.amazon.de/gp/product/B002BF484Q",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_jivmSTp61F3"
       },
       "ids" : {
         "dreimetadaten" : 151,
@@ -24320,7 +24585,8 @@
         "spotify" : "1juMQy6yZVmk9Za6HeiicB",
         "bookbeat" : "534830",
         "amazonMusic" : "B01HQ4ZM8M",
-        "amazon" : "B002BF484Q"
+        "amazon" : "B002BF484Q",
+        "youTubeMusic" : "MPREb_jivmSTp61F3"
       },
       "medien" : [
         {
@@ -24506,7 +24772,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1Cta130Rwp5vH1ddfAChbU",
         "bookbeat" : "https://www.bookbeat.com/de/book/534831",
         "amazonMusic" : "https://music.amazon.de/albums/B002O48OC6",
-        "amazon" : "https://www.amazon.de/gp/product/B002BF485A"
+        "amazon" : "https://www.amazon.de/gp/product/B002BF485A",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_jrnvqQ1ZPl1"
       },
       "ids" : {
         "dreimetadaten" : 152,
@@ -24514,7 +24781,8 @@
         "spotify" : "1Cta130Rwp5vH1ddfAChbU",
         "bookbeat" : "534831",
         "amazonMusic" : "B002O48OC6",
-        "amazon" : "B002BF485A"
+        "amazon" : "B002BF485A",
+        "youTubeMusic" : "MPREb_jrnvqQ1ZPl1"
       },
       "medien" : [
         {
@@ -24736,7 +25004,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0TmWLedytkxVuP9b5Hqeqq",
         "bookbeat" : "https://www.bookbeat.com/de/book/534768",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ52JCI",
-        "amazon" : "https://www.amazon.de/gp/product/B002RKPWKO"
+        "amazon" : "https://www.amazon.de/gp/product/B002RKPWKO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_QV7EWHtIKl7"
       },
       "ids" : {
         "dreimetadaten" : 153,
@@ -24744,7 +25013,8 @@
         "spotify" : "0TmWLedytkxVuP9b5Hqeqq",
         "bookbeat" : "534768",
         "amazonMusic" : "B01HQ52JCI",
-        "amazon" : "B002RKPWKO"
+        "amazon" : "B002RKPWKO",
+        "youTubeMusic" : "MPREb_QV7EWHtIKl7"
       },
       "medien" : [
         {
@@ -24982,7 +25252,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5HiWGQmaCRaxdaon49Iw9S",
         "bookbeat" : "https://www.bookbeat.com/de/book/534765",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ4Z02K",
-        "amazon" : "https://www.amazon.de/gp/product/B002USGZYK"
+        "amazon" : "https://www.amazon.de/gp/product/B002USGZYK",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_HAKQeSvXImI"
       },
       "ids" : {
         "dreimetadaten" : 154,
@@ -24990,7 +25261,8 @@
         "spotify" : "5HiWGQmaCRaxdaon49Iw9S",
         "bookbeat" : "534765",
         "amazonMusic" : "B01HQ4Z02K",
-        "amazon" : "B002USGZYK"
+        "amazon" : "B002USGZYK",
+        "youTubeMusic" : "MPREb_HAKQeSvXImI"
       },
       "medien" : [
         {
@@ -25192,7 +25464,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3m7fR2wOkytZHq9m4QeBkB",
         "bookbeat" : "https://www.bookbeat.com/de/book/534745",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGXCTG",
-        "amazon" : "https://www.amazon.de/gp/product/B003273MKS"
+        "amazon" : "https://www.amazon.de/gp/product/B003273MKS",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_zSXBcp2ErWv"
       },
       "ids" : {
         "dreimetadaten" : 155,
@@ -25200,7 +25473,8 @@
         "spotify" : "3m7fR2wOkytZHq9m4QeBkB",
         "bookbeat" : "534745",
         "amazonMusic" : "B01HQGXCTG",
-        "amazon" : "B003273MKS"
+        "amazon" : "B003273MKS",
+        "youTubeMusic" : "MPREb_zSXBcp2ErWv"
       },
       "medien" : [
         {
@@ -25394,7 +25668,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/79enDMGQWH7LQ5weNB96g7",
         "bookbeat" : "https://www.bookbeat.com/de/book/534777",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ51PCS",
-        "amazon" : "https://www.amazon.de/gp/product/B0037W5CQK"
+        "amazon" : "https://www.amazon.de/gp/product/B0037W5CQK",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_nuQ2VssDyjl"
       },
       "ids" : {
         "dreimetadaten" : 156,
@@ -25402,7 +25677,8 @@
         "spotify" : "79enDMGQWH7LQ5weNB96g7",
         "bookbeat" : "534777",
         "amazonMusic" : "B01HQ51PCS",
-        "amazon" : "B0037W5CQK"
+        "amazon" : "B0037W5CQK",
+        "youTubeMusic" : "MPREb_nuQ2VssDyjl"
       },
       "medien" : [
         {
@@ -25632,7 +25908,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6RJf8I60kNhnYxlnw7eTGv",
         "bookbeat" : "https://www.bookbeat.com/de/book/534772",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ51AGO",
-        "amazon" : "https://www.amazon.de/gp/product/B0037W5CXI"
+        "amazon" : "https://www.amazon.de/gp/product/B0037W5CXI",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_7qLD1UxRxVU"
       },
       "ids" : {
         "dreimetadaten" : 157,
@@ -25640,7 +25917,8 @@
         "spotify" : "6RJf8I60kNhnYxlnw7eTGv",
         "bookbeat" : "534772",
         "amazonMusic" : "B01HQ51AGO",
-        "amazon" : "B0037W5CXI"
+        "amazon" : "B0037W5CXI",
+        "youTubeMusic" : "MPREb_7qLD1UxRxVU"
       },
       "medien" : [
         {
@@ -25839,7 +26117,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3HxAtK23R2gFkW000mdaFT",
         "bookbeat" : "https://www.bookbeat.com/de/book/534743",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ53F6M",
-        "amazon" : "https://www.amazon.de/gp/product/B0037W5D64"
+        "amazon" : "https://www.amazon.de/gp/product/B0037W5D64",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_9COmyELrPAu"
       },
       "ids" : {
         "dreimetadaten" : 158,
@@ -25847,7 +26126,8 @@
         "spotify" : "3HxAtK23R2gFkW000mdaFT",
         "bookbeat" : "534743",
         "amazonMusic" : "B01HQ53F6M",
-        "amazon" : "B0037W5D64"
+        "amazon" : "B0037W5D64",
+        "youTubeMusic" : "MPREb_9COmyELrPAu"
       },
       "medien" : [
         {
@@ -26064,7 +26344,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6gxj68DOHRSVlEM4xzwtRy",
         "bookbeat" : "https://www.bookbeat.com/de/book/534774",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGZAAK",
-        "amazon" : "https://www.amazon.de/gp/product/B003HEE4M6"
+        "amazon" : "https://www.amazon.de/gp/product/B003HEE4M6",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_qJh3CMeJLMd"
       },
       "ids" : {
         "dreimetadaten" : 159,
@@ -26072,7 +26353,8 @@
         "spotify" : "6gxj68DOHRSVlEM4xzwtRy",
         "bookbeat" : "534774",
         "amazonMusic" : "B01HQGZAAK",
-        "amazon" : "B003HEE4M6"
+        "amazon" : "B003HEE4M6",
+        "youTubeMusic" : "MPREb_qJh3CMeJLMd"
       },
       "medien" : [
         {
@@ -26306,7 +26588,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/71moidSHTwJsc2N70axEce",
         "bookbeat" : "https://www.bookbeat.com/de/book/534814",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ54PRK",
-        "amazon" : "https://www.amazon.de/gp/product/B003HEE4MQ"
+        "amazon" : "https://www.amazon.de/gp/product/B003HEE4MQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_JyudRChmx7m"
       },
       "ids" : {
         "dreimetadaten" : 164,
@@ -26314,7 +26597,8 @@
         "spotify" : "71moidSHTwJsc2N70axEce",
         "bookbeat" : "534814",
         "amazonMusic" : "B01HQ54PRK",
-        "amazon" : "B003HEE4MQ"
+        "amazon" : "B003HEE4MQ",
+        "youTubeMusic" : "MPREb_JyudRChmx7m"
       },
       "medien" : [
         {
@@ -26514,7 +26798,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4Y7Pxv7pzLmKVJowmBwOkd",
         "bookbeat" : "https://www.bookbeat.com/de/book/534773",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ53OMC",
-        "amazon" : "https://www.amazon.de/gp/product/B003Y9JNP2"
+        "amazon" : "https://www.amazon.de/gp/product/B003Y9JNP2",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_BIHeAVgWO5b"
       },
       "ids" : {
         "dreimetadaten" : 165,
@@ -26522,7 +26807,8 @@
         "spotify" : "4Y7Pxv7pzLmKVJowmBwOkd",
         "bookbeat" : "534773",
         "amazonMusic" : "B01HQ53OMC",
-        "amazon" : "B003Y9JNP2"
+        "amazon" : "B003Y9JNP2",
+        "youTubeMusic" : "MPREb_BIHeAVgWO5b"
       },
       "medien" : [
         {
@@ -26723,7 +27009,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2RxTF6MhAVOtudVNOyHTQz",
         "bookbeat" : "https://www.bookbeat.com/de/book/535016",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ5200O",
-        "amazon" : "https://www.amazon.de/gp/product/B004C4IISQ"
+        "amazon" : "https://www.amazon.de/gp/product/B004C4IISQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_6gOoCKotf3n"
       },
       "ids" : {
         "dreimetadaten" : 166,
@@ -26731,7 +27018,8 @@
         "spotify" : "2RxTF6MhAVOtudVNOyHTQz",
         "bookbeat" : "535016",
         "amazonMusic" : "B01HQ5200O",
-        "amazon" : "B004C4IISQ"
+        "amazon" : "B004C4IISQ",
+        "youTubeMusic" : "MPREb_6gOoCKotf3n"
       },
       "medien" : [
         {
@@ -26936,7 +27224,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6TjzBTmeDakBgh5NOGj1BC",
         "bookbeat" : "https://www.bookbeat.com/de/book/534832",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ50V14",
-        "amazon" : "https://www.amazon.de/gp/product/B004GNH578"
+        "amazon" : "https://www.amazon.de/gp/product/B004GNH578",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_97OWSH2CP4X"
       },
       "ids" : {
         "dreimetadaten" : 167,
@@ -26944,7 +27233,8 @@
         "spotify" : "6TjzBTmeDakBgh5NOGj1BC",
         "bookbeat" : "534832",
         "amazonMusic" : "B01HQ50V14",
-        "amazon" : "B004GNH578"
+        "amazon" : "B004GNH578",
+        "youTubeMusic" : "MPREb_97OWSH2CP4X"
       },
       "medien" : [
         {
@@ -27189,7 +27479,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3D9Jf4mdOBoeyrKpffYBvy",
         "bookbeat" : "https://www.bookbeat.com/de/book/534845",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ4Y760",
-        "amazon" : "https://www.amazon.de/gp/product/B004OHXAD4"
+        "amazon" : "https://www.amazon.de/gp/product/B004OHXAD4",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_8y9X0rwqlOt"
       },
       "ids" : {
         "dreimetadaten" : 169,
@@ -27197,7 +27488,8 @@
         "spotify" : "3D9Jf4mdOBoeyrKpffYBvy",
         "bookbeat" : "534845",
         "amazonMusic" : "B01HQ4Y760",
-        "amazon" : "B004OHXAD4"
+        "amazon" : "B004OHXAD4",
+        "youTubeMusic" : "MPREb_8y9X0rwqlOt"
       },
       "medien" : [
         {
@@ -27418,7 +27710,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/35aU9bfmxPGdjiRA4JMuFd",
         "bookbeat" : "https://www.bookbeat.com/de/book/534752",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ4WT6U",
-        "amazon" : "https://www.amazon.de/gp/product/B004VU04YC"
+        "amazon" : "https://www.amazon.de/gp/product/B004VU04YC",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_MmySQplFkwC"
       },
       "ids" : {
         "dreimetadaten" : 170,
@@ -27426,7 +27719,8 @@
         "spotify" : "35aU9bfmxPGdjiRA4JMuFd",
         "bookbeat" : "534752",
         "amazonMusic" : "B01HQ4WT6U",
-        "amazon" : "B004VU04YC"
+        "amazon" : "B004VU04YC",
+        "youTubeMusic" : "MPREb_MmySQplFkwC"
       },
       "medien" : [
         {
@@ -27596,7 +27890,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2uOsf31oenHRd4DVxCSjn9",
         "bookbeat" : "https://www.bookbeat.com/de/book/534757",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ5364I",
-        "amazon" : "https://www.amazon.de/gp/product/B0050F9Y3O"
+        "amazon" : "https://www.amazon.de/gp/product/B0050F9Y3O",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_VM8HnZLWbsW"
       },
       "ids" : {
         "dreimetadaten" : 171,
@@ -27604,7 +27899,8 @@
         "spotify" : "2uOsf31oenHRd4DVxCSjn9",
         "bookbeat" : "534757",
         "amazonMusic" : "B01HQ5364I",
-        "amazon" : "B0050F9Y3O"
+        "amazon" : "B0050F9Y3O",
+        "youTubeMusic" : "MPREb_VM8HnZLWbsW"
       },
       "medien" : [
         {
@@ -27815,7 +28111,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7K7dfMc3VwHOKtENI1BWTD",
         "bookbeat" : "https://www.bookbeat.com/de/book/534783",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ52P5O",
-        "amazon" : "https://www.amazon.de/gp/product/B005DIVEFE"
+        "amazon" : "https://www.amazon.de/gp/product/B005DIVEFE",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_rhyJ9OEReHa"
       },
       "ids" : {
         "dreimetadaten" : 173,
@@ -27823,7 +28120,8 @@
         "spotify" : "7K7dfMc3VwHOKtENI1BWTD",
         "bookbeat" : "534783",
         "amazonMusic" : "B01HQ52P5O",
-        "amazon" : "B005DIVEFE"
+        "amazon" : "B005DIVEFE",
+        "youTubeMusic" : "MPREb_rhyJ9OEReHa"
       },
       "medien" : [
         {
@@ -28054,7 +28352,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6cPgVsZ6TPyVIP9BHP5ty5",
         "bookbeat" : "https://www.bookbeat.com/de/book/534776",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGWYJK",
-        "amazon" : "https://www.amazon.de/gp/product/B005GJFGR2"
+        "amazon" : "https://www.amazon.de/gp/product/B005GJFGR2",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_dZY4ECBQ2ym"
       },
       "ids" : {
         "dreimetadaten" : 174,
@@ -28062,7 +28361,8 @@
         "spotify" : "6cPgVsZ6TPyVIP9BHP5ty5",
         "bookbeat" : "534776",
         "amazonMusic" : "B01HQGWYJK",
-        "amazon" : "B005GJFGR2"
+        "amazon" : "B005GJFGR2",
+        "youTubeMusic" : "MPREb_dZY4ECBQ2ym"
       },
       "medien" : [
         {
@@ -28960,7 +29260,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3u0OSCwiOblOhm4dKjwLN5",
         "bookbeat" : "https://www.bookbeat.com/de/book/534797",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ51YQU",
-        "amazon" : "https://www.amazon.de/gp/product/B0063N9V4E"
+        "amazon" : "https://www.amazon.de/gp/product/B0063N9V4E",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_OUMhf1Wb8if"
       },
       "ids" : {
         "dreimetadaten" : 179,
@@ -28968,7 +29269,8 @@
         "spotify" : "3u0OSCwiOblOhm4dKjwLN5",
         "bookbeat" : "534797",
         "amazonMusic" : "B01HQ51YQU",
-        "amazon" : "B0063N9V4E"
+        "amazon" : "B0063N9V4E",
+        "youTubeMusic" : "MPREb_OUMhf1Wb8if"
       },
       "medien" : [
         {
@@ -29216,7 +29518,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5iNeANVy4supl8HowB9V2h",
         "bookbeat" : "https://www.bookbeat.com/de/book/534833",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ4ZPI4",
-        "amazon" : "https://www.amazon.de/gp/product/B006N2Q7EM"
+        "amazon" : "https://www.amazon.de/gp/product/B006N2Q7EM",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_FIsjTZgUNVi"
       },
       "ids" : {
         "dreimetadaten" : 180,
@@ -29224,7 +29527,8 @@
         "spotify" : "5iNeANVy4supl8HowB9V2h",
         "bookbeat" : "534833",
         "amazonMusic" : "B01HQ4ZPI4",
-        "amazon" : "B006N2Q7EM"
+        "amazon" : "B006N2Q7EM",
+        "youTubeMusic" : "MPREb_FIsjTZgUNVi"
       },
       "medien" : [
         {
@@ -29443,7 +29747,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7nxSEeJiQwI34VwnWT83C9",
         "bookbeat" : "https://www.bookbeat.com/de/book/534755",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ4Y45Y",
-        "amazon" : "https://www.amazon.de/gp/product/B006ZJJ7T0"
+        "amazon" : "https://www.amazon.de/gp/product/B006ZJJ7T0",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_YxJwgUP4OyV"
       },
       "ids" : {
         "dreimetadaten" : 181,
@@ -29451,7 +29756,8 @@
         "spotify" : "7nxSEeJiQwI34VwnWT83C9",
         "bookbeat" : "534755",
         "amazonMusic" : "B01HQ4Y45Y",
-        "amazon" : "B006ZJJ7T0"
+        "amazon" : "B006ZJJ7T0",
+        "youTubeMusic" : "MPREb_YxJwgUP4OyV"
       },
       "medien" : [
         {
@@ -29692,7 +29998,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3uggg8gNlh1kpBxLeOfFTV",
         "bookbeat" : "https://www.bookbeat.com/de/book/534744",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQH0V3A",
-        "amazon" : "https://www.amazon.de/gp/product/B0071J4AEU"
+        "amazon" : "https://www.amazon.de/gp/product/B0071J4AEU",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_1EY3YpiLSIw"
       },
       "ids" : {
         "dreimetadaten" : 182,
@@ -29700,7 +30007,8 @@
         "spotify" : "3uggg8gNlh1kpBxLeOfFTV",
         "bookbeat" : "534744",
         "amazonMusic" : "B01HQH0V3A",
-        "amazon" : "B0071J4AEU"
+        "amazon" : "B0071J4AEU",
+        "youTubeMusic" : "MPREb_1EY3YpiLSIw"
       },
       "medien" : [
         {
@@ -29933,7 +30241,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/623V90QowsF4WSqV3cHGKf",
         "bookbeat" : "https://www.bookbeat.com/de/book/534841",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQH0NQU",
-        "amazon" : "https://www.amazon.de/gp/product/B0071J4APY"
+        "amazon" : "https://www.amazon.de/gp/product/B0071J4APY",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_aMFGlYhe1fi"
       },
       "ids" : {
         "dreimetadaten" : 183,
@@ -29941,7 +30250,8 @@
         "spotify" : "623V90QowsF4WSqV3cHGKf",
         "bookbeat" : "534841",
         "amazonMusic" : "B01HQH0NQU",
-        "amazon" : "B0071J4APY"
+        "amazon" : "B0071J4APY",
+        "youTubeMusic" : "MPREb_aMFGlYhe1fi"
       },
       "medien" : [
         {
@@ -30184,7 +30494,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/78wUIvkGT2CdWW0ngeEy8V",
         "bookbeat" : "https://www.bookbeat.com/de/book/534857",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGY2J0",
-        "amazon" : "https://www.amazon.de/gp/product/B0071J4AYK"
+        "amazon" : "https://www.amazon.de/gp/product/B0071J4AYK",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ECEvZojXScN"
       },
       "ids" : {
         "dreimetadaten" : 184,
@@ -30192,7 +30503,8 @@
         "spotify" : "78wUIvkGT2CdWW0ngeEy8V",
         "bookbeat" : "534857",
         "amazonMusic" : "B01HQGY2J0",
-        "amazon" : "B0071J4AYK"
+        "amazon" : "B0071J4AYK",
+        "youTubeMusic" : "MPREb_ECEvZojXScN"
       },
       "medien" : [
         {
@@ -30416,7 +30728,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0pdXEEgKjfh4H0aZg4IOTS",
         "bookbeat" : "https://www.bookbeat.com/de/book/534829",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGYAQ0",
-        "amazon" : "https://www.amazon.de/gp/product/B0071J4B76"
+        "amazon" : "https://www.amazon.de/gp/product/B0071J4B76",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Udnqg1Stfxl"
       },
       "ids" : {
         "dreimetadaten" : 185,
@@ -30424,7 +30737,8 @@
         "spotify" : "0pdXEEgKjfh4H0aZg4IOTS",
         "bookbeat" : "534829",
         "amazonMusic" : "B01HQGYAQ0",
-        "amazon" : "B0071J4B76"
+        "amazon" : "B0071J4B76",
+        "youTubeMusic" : "MPREb_Udnqg1Stfxl"
       },
       "medien" : [
         {
@@ -30649,7 +30963,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3uFt95otJjaxH8o40tPtIS",
         "bookbeat" : "https://www.bookbeat.com/de/book/534813",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ50OH0",
-        "amazon" : "https://www.amazon.de/gp/product/B0071J4BGW"
+        "amazon" : "https://www.amazon.de/gp/product/B0071J4BGW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_jVvldecT0CJ"
       },
       "ids" : {
         "dreimetadaten" : 199,
@@ -30657,7 +30972,8 @@
         "spotify" : "3uFt95otJjaxH8o40tPtIS",
         "bookbeat" : "534813",
         "amazonMusic" : "B01HQ50OH0",
-        "amazon" : "B0071J4BGW"
+        "amazon" : "B0071J4BGW",
+        "youTubeMusic" : "MPREb_jVvldecT0CJ"
       },
       "medien" : [
         {
@@ -30858,7 +31174,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4rCAnDrNJ96srnBEoA0ISj",
         "bookbeat" : "https://www.bookbeat.com/de/book/534750",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ4YFMG",
-        "amazon" : "https://www.amazon.de/gp/product/B009TC7FZS"
+        "amazon" : "https://www.amazon.de/gp/product/B009TC7FZS",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ZmllYLCw1ry"
       },
       "ids" : {
         "dreimetadaten" : 200,
@@ -30866,7 +31183,8 @@
         "spotify" : "4rCAnDrNJ96srnBEoA0ISj",
         "bookbeat" : "534750",
         "amazonMusic" : "B01HQ4YFMG",
-        "amazon" : "B009TC7FZS"
+        "amazon" : "B009TC7FZS",
+        "youTubeMusic" : "MPREb_ZmllYLCw1ry"
       },
       "medien" : [
         {
@@ -31058,7 +31376,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2F6VxgWbGCUpTU9ux6Dtbi",
         "bookbeat" : "https://www.bookbeat.com/de/book/534741",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGX8O0",
-        "amazon" : "https://www.amazon.de/gp/product/B009TC7GHU"
+        "amazon" : "https://www.amazon.de/gp/product/B009TC7GHU",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_zzA1Wsl8XZc"
       },
       "ids" : {
         "dreimetadaten" : 201,
@@ -31066,7 +31385,8 @@
         "spotify" : "2F6VxgWbGCUpTU9ux6Dtbi",
         "bookbeat" : "534741",
         "amazonMusic" : "B01HQGX8O0",
-        "amazon" : "B009TC7GHU"
+        "amazon" : "B009TC7GHU",
+        "youTubeMusic" : "MPREb_zzA1Wsl8XZc"
       },
       "medien" : [
         {
@@ -31269,7 +31589,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1GEzdjI5N25iuGjvypRscs",
         "bookbeat" : "https://www.bookbeat.com/de/book/534756",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQH0N3I",
-        "amazon" : "https://www.amazon.de/gp/product/B00BK8Z20O"
+        "amazon" : "https://www.amazon.de/gp/product/B00BK8Z20O",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_wen5af1ilQt"
       },
       "ids" : {
         "dreimetadaten" : 202,
@@ -31277,7 +31598,8 @@
         "spotify" : "1GEzdjI5N25iuGjvypRscs",
         "bookbeat" : "534756",
         "amazonMusic" : "B01HQH0N3I",
-        "amazon" : "B00BK8Z20O"
+        "amazon" : "B00BK8Z20O",
+        "youTubeMusic" : "MPREb_wen5af1ilQt"
       },
       "medien" : [
         {
@@ -31486,7 +31808,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7beppYTqtHAEPKoXyodssF",
         "bookbeat" : "https://www.bookbeat.com/de/book/534800",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGWSJG",
-        "amazon" : "https://www.amazon.de/gp/product/B00CJPRI5E"
+        "amazon" : "https://www.amazon.de/gp/product/B00CJPRI5E",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Ia1xixURwDy"
       },
       "ids" : {
         "dreimetadaten" : 203,
@@ -31494,7 +31817,8 @@
         "spotify" : "7beppYTqtHAEPKoXyodssF",
         "bookbeat" : "534800",
         "amazonMusic" : "B01HQGWSJG",
-        "amazon" : "B00CJPRI5E"
+        "amazon" : "B00CJPRI5E",
+        "youTubeMusic" : "MPREb_Ia1xixURwDy"
       },
       "medien" : [
         {
@@ -31660,7 +31984,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4fv0pPN7ZjbUiejSTxTPZh",
         "bookbeat" : "https://www.bookbeat.com/de/book/534809",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGX97G",
-        "amazon" : "https://www.amazon.de/gp/product/B00D4FB71O"
+        "amazon" : "https://www.amazon.de/gp/product/B00D4FB71O",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_j8OddX7XGia"
       },
       "ids" : {
         "dreimetadaten" : 204,
@@ -31668,7 +31993,8 @@
         "spotify" : "4fv0pPN7ZjbUiejSTxTPZh",
         "bookbeat" : "534809",
         "amazonMusic" : "B01HQGX97G",
-        "amazon" : "B00D4FB71O"
+        "amazon" : "B00D4FB71O",
+        "youTubeMusic" : "MPREb_j8OddX7XGia"
       },
       "medien" : [
         {
@@ -31863,7 +32189,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3An657Q0wkVp4nIDg2zpcB",
         "bookbeat" : "https://www.bookbeat.com/de/book/534846",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGZ802",
-        "amazon" : "https://www.amazon.de/gp/product/B00D4FCCS6"
+        "amazon" : "https://www.amazon.de/gp/product/B00D4FCCS6",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_uP5FLd53eO1"
       },
       "ids" : {
         "dreimetadaten" : 205,
@@ -31871,7 +32198,8 @@
         "spotify" : "3An657Q0wkVp4nIDg2zpcB",
         "bookbeat" : "534846",
         "amazonMusic" : "B01HQGZ802",
-        "amazon" : "B00D4FCCS6"
+        "amazon" : "B00D4FCCS6",
+        "youTubeMusic" : "MPREb_uP5FLd53eO1"
       },
       "medien" : [
         {
@@ -32068,7 +32396,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4izJKxYT4fTwIZjoXNgkX7",
         "bookbeat" : "https://www.bookbeat.com/de/book/534754",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGXL9M",
-        "amazon" : "https://www.amazon.de/gp/product/B00D4F8X70"
+        "amazon" : "https://www.amazon.de/gp/product/B00D4F8X70",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_jXULcuTl1lc"
       },
       "ids" : {
         "dreimetadaten" : 207,
@@ -32076,7 +32405,8 @@
         "spotify" : "4izJKxYT4fTwIZjoXNgkX7",
         "bookbeat" : "534754",
         "amazonMusic" : "B01HQGXL9M",
-        "amazon" : "B00D4F8X70"
+        "amazon" : "B00D4F8X70",
+        "youTubeMusic" : "MPREb_jXULcuTl1lc"
       },
       "medien" : [
         {
@@ -32244,7 +32574,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/427kScPIeUSfoNKCNercMC",
         "bookbeat" : "https://www.bookbeat.com/de/book/534753",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGWOFO",
-        "amazon" : "https://www.amazon.de/gp/product/B00GDTIDVK"
+        "amazon" : "https://www.amazon.de/gp/product/B00GDTIDVK",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_rdN6J4LJMa5"
       },
       "ids" : {
         "dreimetadaten" : 208,
@@ -32252,7 +32583,8 @@
         "spotify" : "427kScPIeUSfoNKCNercMC",
         "bookbeat" : "534753",
         "amazonMusic" : "B01HQGWOFO",
-        "amazon" : "B00GDTIDVK"
+        "amazon" : "B00GDTIDVK",
+        "youTubeMusic" : "MPREb_rdN6J4LJMa5"
       },
       "medien" : [
         {
@@ -32481,7 +32813,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7kskBahbrQWCOiaXKuoPjE",
         "bookbeat" : "https://www.bookbeat.com/de/book/534767",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGVG0I",
-        "amazon" : "https://www.amazon.de/gp/product/B00GNUUQVO"
+        "amazon" : "https://www.amazon.de/gp/product/B00GNUUQVO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_DvCroh54Q3i"
       },
       "ids" : {
         "dreimetadaten" : 209,
@@ -32489,7 +32822,8 @@
         "spotify" : "7kskBahbrQWCOiaXKuoPjE",
         "bookbeat" : "534767",
         "amazonMusic" : "B01HQGVG0I",
-        "amazon" : "B00GNUUQVO"
+        "amazon" : "B00GNUUQVO",
+        "youTubeMusic" : "MPREb_DvCroh54Q3i"
       },
       "medien" : [
         {
@@ -32722,7 +33056,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/77aawQqgLQZxPb9kwSg0JR",
         "bookbeat" : "https://www.bookbeat.com/de/book/534911",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGVJ1E",
-        "amazon" : "https://www.amazon.de/gp/product/B00IGJOWM4"
+        "amazon" : "https://www.amazon.de/gp/product/B00IGJOWM4",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_WP5w01uGTXt"
       },
       "ids" : {
         "dreimetadaten" : 218,
@@ -32730,7 +33065,8 @@
         "spotify" : "77aawQqgLQZxPb9kwSg0JR",
         "bookbeat" : "534911",
         "amazonMusic" : "B01HQGVJ1E",
-        "amazon" : "B00IGJOWM4"
+        "amazon" : "B00IGJOWM4",
+        "youTubeMusic" : "MPREb_WP5w01uGTXt"
       },
       "medien" : [
         {
@@ -32927,7 +33263,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5PEHeYcUhz1Aq02ZB1pUgJ",
         "bookbeat" : "https://www.bookbeat.com/de/book/534882",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGZO4M",
-        "amazon" : "https://www.amazon.de/gp/product/B00JBUIWJQ"
+        "amazon" : "https://www.amazon.de/gp/product/B00JBUIWJQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_l2eiIqNa3zZ"
       },
       "ids" : {
         "dreimetadaten" : 219,
@@ -32935,7 +33272,8 @@
         "spotify" : "5PEHeYcUhz1Aq02ZB1pUgJ",
         "bookbeat" : "534882",
         "amazonMusic" : "B01HQGZO4M",
-        "amazon" : "B00JBUIWJQ"
+        "amazon" : "B00JBUIWJQ",
+        "youTubeMusic" : "MPREb_l2eiIqNa3zZ"
       },
       "medien" : [
         {
@@ -33152,7 +33490,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/62CKj2RCiWDDUtBWTn4KxQ",
         "bookbeat" : "https://www.bookbeat.com/de/book/534764",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGYQAU",
-        "amazon" : "https://www.amazon.de/gp/product/B00JBUMQ7U"
+        "amazon" : "https://www.amazon.de/gp/product/B00JBUMQ7U",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_nZZzohhP2Kg"
       },
       "ids" : {
         "dreimetadaten" : 220,
@@ -33160,7 +33499,8 @@
         "spotify" : "62CKj2RCiWDDUtBWTn4KxQ",
         "bookbeat" : "534764",
         "amazonMusic" : "B01HQGYQAU",
-        "amazon" : "B00JBUMQ7U"
+        "amazon" : "B00JBUMQ7U",
+        "youTubeMusic" : "MPREb_nZZzohhP2Kg"
       },
       "medien" : [
         {
@@ -33381,7 +33721,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6YbaUGc6ZeR1YnDFGQJV8F",
         "bookbeat" : "https://www.bookbeat.com/de/book/534762",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGXJXU",
-        "amazon" : "https://www.amazon.de/gp/product/B00JBUK3SE"
+        "amazon" : "https://www.amazon.de/gp/product/B00JBUK3SE",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_KKU34ENyYcU"
       },
       "ids" : {
         "dreimetadaten" : 221,
@@ -33389,7 +33730,8 @@
         "spotify" : "6YbaUGc6ZeR1YnDFGQJV8F",
         "bookbeat" : "534762",
         "amazonMusic" : "B01HQGXJXU",
-        "amazon" : "B00JBUK3SE"
+        "amazon" : "B00JBUK3SE",
+        "youTubeMusic" : "MPREb_KKU34ENyYcU"
       },
       "medien" : [
         {
@@ -33582,7 +33924,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6Anfub4AoVHg9bhJ7js0L0",
         "bookbeat" : "https://www.bookbeat.com/de/book/534827",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGW7AQ",
-        "amazon" : "https://www.amazon.de/gp/product/B00NGJDUMW"
+        "amazon" : "https://www.amazon.de/gp/product/B00NGJDUMW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_xt5IIx4C2aO"
       },
       "ids" : {
         "dreimetadaten" : 222,
@@ -33590,7 +33933,8 @@
         "spotify" : "6Anfub4AoVHg9bhJ7js0L0",
         "bookbeat" : "534827",
         "amazonMusic" : "B01HQGW7AQ",
-        "amazon" : "B00NGJDUMW"
+        "amazon" : "B00NGJDUMW",
+        "youTubeMusic" : "MPREb_xt5IIx4C2aO"
       },
       "medien" : [
         {
@@ -33779,7 +34123,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2ALDCHCHdawewN1sduWVQQ",
         "bookbeat" : "https://www.bookbeat.com/de/book/534822",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGXW00",
-        "amazon" : "https://www.amazon.de/gp/product/B00P34RNJO"
+        "amazon" : "https://www.amazon.de/gp/product/B00P34RNJO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_fOoyR0M22k1"
       },
       "ids" : {
         "dreimetadaten" : 223,
@@ -33787,7 +34132,8 @@
         "spotify" : "2ALDCHCHdawewN1sduWVQQ",
         "bookbeat" : "534822",
         "amazonMusic" : "B01HQGXW00",
-        "amazon" : "B00P34RNJO"
+        "amazon" : "B00P34RNJO",
+        "youTubeMusic" : "MPREb_fOoyR0M22k1"
       },
       "medien" : [
         {
@@ -33962,7 +34308,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5RoL0jdWMoJ8KRFVOeFYtX",
         "bookbeat" : "https://www.bookbeat.com/de/book/534782",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGYD3K",
-        "amazon" : "https://www.amazon.de/gp/product/B00R8PY6I2"
+        "amazon" : "https://www.amazon.de/gp/product/B00R8PY6I2",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_UBW5XcERM5l"
       },
       "ids" : {
         "dreimetadaten" : 224,
@@ -33970,7 +34317,8 @@
         "spotify" : "5RoL0jdWMoJ8KRFVOeFYtX",
         "bookbeat" : "534782",
         "amazonMusic" : "B01HQGYD3K",
-        "amazon" : "B00R8PY6I2"
+        "amazon" : "B00R8PY6I2",
+        "youTubeMusic" : "MPREb_UBW5XcERM5l"
       },
       "medien" : [
         {
@@ -34179,7 +34527,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4uggmrJ3Xpm1e2tcz6laze",
         "bookbeat" : "https://www.bookbeat.com/de/book/534922",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQRDLXW",
-        "amazon" : "https://www.amazon.de/gp/product/B00U35N6BW"
+        "amazon" : "https://www.amazon.de/gp/product/B00U35N6BW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_dze5LKpqXMN"
       },
       "ids" : {
         "dreimetadaten" : 225,
@@ -34187,7 +34536,8 @@
         "spotify" : "4uggmrJ3Xpm1e2tcz6laze",
         "bookbeat" : "534922",
         "amazonMusic" : "B01HQRDLXW",
-        "amazon" : "B00U35N6BW"
+        "amazon" : "B00U35N6BW",
+        "youTubeMusic" : "MPREb_dze5LKpqXMN"
       },
       "medien" : [
         {
@@ -34913,7 +35263,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4qbxSVpr3NxRjdIVC411ue",
         "bookbeat" : "https://www.bookbeat.com/de/book/534884",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGVAAY",
-        "amazon" : "https://www.amazon.de/gp/product/B00WNJ0Y9S"
+        "amazon" : "https://www.amazon.de/gp/product/B00WNJ0Y9S",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_eFXsrU1WF3r"
       },
       "ids" : {
         "dreimetadaten" : 229,
@@ -34921,7 +35272,8 @@
         "spotify" : "4qbxSVpr3NxRjdIVC411ue",
         "bookbeat" : "534884",
         "amazonMusic" : "B01HQGVAAY",
-        "amazon" : "B00WNJ0Y9S"
+        "amazon" : "B00WNJ0Y9S",
+        "youTubeMusic" : "MPREb_eFXsrU1WF3r"
       },
       "medien" : [
         {
@@ -35110,7 +35462,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0w6Khy7kpqTXrEDITf0rZ0",
         "bookbeat" : "https://www.bookbeat.com/de/book/534879",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGWNHI",
-        "amazon" : "https://www.amazon.de/gp/product/B011WEVVTG"
+        "amazon" : "https://www.amazon.de/gp/product/B011WEVVTG",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_P9umIvI58ic"
       },
       "ids" : {
         "dreimetadaten" : 230,
@@ -35118,7 +35471,8 @@
         "spotify" : "0w6Khy7kpqTXrEDITf0rZ0",
         "bookbeat" : "534879",
         "amazonMusic" : "B01HQGWNHI",
-        "amazon" : "B011WEVVTG"
+        "amazon" : "B011WEVVTG",
+        "youTubeMusic" : "MPREb_P9umIvI58ic"
       },
       "medien" : [
         {
@@ -35284,7 +35638,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3w5glP0mzKfTanzXpAjN27",
         "bookbeat" : "https://www.bookbeat.com/de/book/534923",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGYEXO",
-        "amazon" : "https://www.amazon.de/gp/product/B013FOUV0G"
+        "amazon" : "https://www.amazon.de/gp/product/B013FOUV0G",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_EvJNCNejJb9"
       },
       "ids" : {
         "dreimetadaten" : 231,
@@ -35292,7 +35647,8 @@
         "spotify" : "3w5glP0mzKfTanzXpAjN27",
         "bookbeat" : "534923",
         "amazonMusic" : "B01HQGYEXO",
-        "amazon" : "B013FOUV0G"
+        "amazon" : "B013FOUV0G",
+        "youTubeMusic" : "MPREb_EvJNCNejJb9"
       },
       "medien" : [
         {
@@ -35473,7 +35829,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4IZ7Lsm5le7HJPtaGLCrjO",
         "bookbeat" : "https://www.bookbeat.com/de/book/534870",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQGX63S",
-        "amazon" : "https://www.amazon.de/gp/product/B0187HW618"
+        "amazon" : "https://www.amazon.de/gp/product/B0187HW618",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_P63eHxtQVyc"
       },
       "ids" : {
         "dreimetadaten" : 232,
@@ -35481,7 +35838,8 @@
         "spotify" : "4IZ7Lsm5le7HJPtaGLCrjO",
         "bookbeat" : "534870",
         "amazonMusic" : "B01HQGX63S",
-        "amazon" : "B0187HW618"
+        "amazon" : "B0187HW618",
+        "youTubeMusic" : "MPREb_P63eHxtQVyc"
       },
       "medien" : [
         {
@@ -35645,7 +36003,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6tioH9PNiZbmUT54MsiX5k",
         "bookbeat" : "https://www.bookbeat.com/de/book/534758",
         "amazonMusic" : "https://music.amazon.de/albums/B01DPX0OEU",
-        "amazon" : "https://www.amazon.de/gp/product/B019JL716G"
+        "amazon" : "https://www.amazon.de/gp/product/B019JL716G",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_jXCTlzS2i74"
       },
       "ids" : {
         "dreimetadaten" : 233,
@@ -35653,7 +36012,8 @@
         "spotify" : "6tioH9PNiZbmUT54MsiX5k",
         "bookbeat" : "534758",
         "amazonMusic" : "B01DPX0OEU",
-        "amazon" : "B019JL716G"
+        "amazon" : "B019JL716G",
+        "youTubeMusic" : "MPREb_jXCTlzS2i74"
       },
       "medien" : [
         {
@@ -35833,7 +36193,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/18xyskqkEGnVfVFhznkFIK",
         "bookbeat" : "https://www.bookbeat.com/de/book/534881",
         "amazonMusic" : "https://music.amazon.de/albums/B01HQ0IRGU",
-        "amazon" : "https://www.amazon.de/gp/product/B01C9LDQOE"
+        "amazon" : "https://www.amazon.de/gp/product/B01C9LDQOE",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_85C3EpiLOF8"
       },
       "ids" : {
         "dreimetadaten" : 241,
@@ -35841,7 +36202,8 @@
         "spotify" : "18xyskqkEGnVfVFhznkFIK",
         "bookbeat" : "534881",
         "amazonMusic" : "B01HQ0IRGU",
-        "amazon" : "B01C9LDQOE"
+        "amazon" : "B01C9LDQOE",
+        "youTubeMusic" : "MPREb_85C3EpiLOF8"
       },
       "medien" : [
         {
@@ -36040,7 +36402,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4zCPToY7AoTqvOKf4HRqAN",
         "bookbeat" : "https://www.bookbeat.com/de/book/534909",
         "amazonMusic" : "https://music.amazon.de/albums/B01MXEWVI5",
-        "amazon" : "https://www.amazon.de/gp/product/B01F9PMZZI"
+        "amazon" : "https://www.amazon.de/gp/product/B01F9PMZZI",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_pX9aM01TL8L"
       },
       "ids" : {
         "dreimetadaten" : 242,
@@ -36048,7 +36411,8 @@
         "spotify" : "4zCPToY7AoTqvOKf4HRqAN",
         "bookbeat" : "534909",
         "amazonMusic" : "B01MXEWVI5",
-        "amazon" : "B01F9PMZZI"
+        "amazon" : "B01F9PMZZI",
+        "youTubeMusic" : "MPREb_pX9aM01TL8L"
       },
       "medien" : [
         {
@@ -36231,7 +36595,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1qhlRmclvYWkrYkLnFxFZN",
         "bookbeat" : "https://www.bookbeat.com/de/book/534914",
         "amazonMusic" : "https://music.amazon.de/albums/B01N0BMGGB",
-        "amazon" : "https://www.amazon.de/gp/product/B01IJ4YG5I"
+        "amazon" : "https://www.amazon.de/gp/product/B01IJ4YG5I",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_hs5VfkpWsmO"
       },
       "ids" : {
         "dreimetadaten" : 243,
@@ -36239,7 +36604,8 @@
         "spotify" : "1qhlRmclvYWkrYkLnFxFZN",
         "bookbeat" : "534914",
         "amazonMusic" : "B01N0BMGGB",
-        "amazon" : "B01IJ4YG5I"
+        "amazon" : "B01IJ4YG5I",
+        "youTubeMusic" : "MPREb_hs5VfkpWsmO"
       },
       "medien" : [
         {
@@ -36413,7 +36779,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5B7w9vkfh979tEyzwkLk9k",
         "bookbeat" : "https://www.bookbeat.com/de/book/534803",
         "amazonMusic" : "https://music.amazon.de/albums/B01N79HUOR",
-        "amazon" : "https://www.amazon.de/gp/product/B01M0SODUD"
+        "amazon" : "https://www.amazon.de/gp/product/B01M0SODUD",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_hEszPawam18"
       },
       "ids" : {
         "dreimetadaten" : 245,
@@ -36421,7 +36788,8 @@
         "spotify" : "5B7w9vkfh979tEyzwkLk9k",
         "bookbeat" : "534803",
         "amazonMusic" : "B01N79HUOR",
-        "amazon" : "B01M0SODUD"
+        "amazon" : "B01M0SODUD",
+        "youTubeMusic" : "MPREb_hEszPawam18"
       },
       "medien" : [
         {
@@ -36592,7 +36960,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7eHh5PAxQBt5KBWzd3a10G",
         "bookbeat" : "https://www.bookbeat.com/de/book/534834",
         "amazonMusic" : "https://music.amazon.de/albums/B01MR91ZMN",
-        "amazon" : "https://www.amazon.de/gp/product/B01MXBOURY"
+        "amazon" : "https://www.amazon.de/gp/product/B01MXBOURY",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Y2FFK9x5Ao2"
       },
       "ids" : {
         "dreimetadaten" : 246,
@@ -36600,7 +36969,8 @@
         "spotify" : "7eHh5PAxQBt5KBWzd3a10G",
         "bookbeat" : "534834",
         "amazonMusic" : "B01MR91ZMN",
-        "amazon" : "B01MXBOURY"
+        "amazon" : "B01MXBOURY",
+        "youTubeMusic" : "MPREb_Y2FFK9x5Ao2"
       },
       "medien" : [
         {
@@ -36781,7 +37151,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/5kevid18ttcAPK1vk0kLtc",
         "bookbeat" : "https://www.bookbeat.com/de/book/534820",
         "amazonMusic" : "https://music.amazon.de/albums/B06WP9XS7B",
-        "amazon" : "https://www.amazon.de/gp/product/B01N4H1ZIS"
+        "amazon" : "https://www.amazon.de/gp/product/B01N4H1ZIS",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Z4xtntB6mHZ"
       },
       "ids" : {
         "dreimetadaten" : 247,
@@ -36789,7 +37160,8 @@
         "spotify" : "5kevid18ttcAPK1vk0kLtc",
         "bookbeat" : "534820",
         "amazonMusic" : "B06WP9XS7B",
-        "amazon" : "B01N4H1ZIS"
+        "amazon" : "B01N4H1ZIS",
+        "youTubeMusic" : "MPREb_Z4xtntB6mHZ"
       },
       "medien" : [
         {
@@ -36973,7 +37345,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6uj8JeIgluMibSu8Divkbh",
         "bookbeat" : "https://www.bookbeat.com/de/book/534873",
         "amazonMusic" : "https://music.amazon.de/albums/B06Y5WSQSG",
-        "amazon" : "https://www.amazon.de/gp/product/B06XDWCK1T"
+        "amazon" : "https://www.amazon.de/gp/product/B06XDWCK1T",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_l5A4H15Vjcx"
       },
       "ids" : {
         "dreimetadaten" : 249,
@@ -36981,7 +37354,8 @@
         "spotify" : "6uj8JeIgluMibSu8Divkbh",
         "bookbeat" : "534873",
         "amazonMusic" : "B06Y5WSQSG",
-        "amazon" : "B06XDWCK1T"
+        "amazon" : "B06XDWCK1T",
+        "youTubeMusic" : "MPREb_l5A4H15Vjcx"
       },
       "medien" : [
         {
@@ -37171,7 +37545,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/22soWryC08ctyMNb6NrMGD",
         "bookbeat" : "https://www.bookbeat.com/de/book/534850",
         "amazonMusic" : "https://music.amazon.de/albums/B073V4GW9F",
-        "amazon" : "https://www.amazon.de/gp/product/B07286LJN2"
+        "amazon" : "https://www.amazon.de/gp/product/B07286LJN2",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_GTsdORhpMrC"
       },
       "ids" : {
         "dreimetadaten" : 251,
@@ -37179,7 +37554,8 @@
         "spotify" : "22soWryC08ctyMNb6NrMGD",
         "bookbeat" : "534850",
         "amazonMusic" : "B073V4GW9F",
-        "amazon" : "B07286LJN2"
+        "amazon" : "B07286LJN2",
+        "youTubeMusic" : "MPREb_GTsdORhpMrC"
       },
       "medien" : [
         {
@@ -37360,7 +37736,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/02MXdFaVMz0qQJjmivjI8g",
         "bookbeat" : "https://www.bookbeat.com/de/book/534894",
         "amazonMusic" : "https://music.amazon.de/albums/B076BWSJ9C",
-        "amazon" : "https://www.amazon.de/gp/product/B073XYSFX8"
+        "amazon" : "https://www.amazon.de/gp/product/B073XYSFX8",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_PJz5BWMHV4W"
       },
       "ids" : {
         "dreimetadaten" : 253,
@@ -37368,7 +37745,8 @@
         "spotify" : "02MXdFaVMz0qQJjmivjI8g",
         "bookbeat" : "534894",
         "amazonMusic" : "B076BWSJ9C",
-        "amazon" : "B073XYSFX8"
+        "amazon" : "B073XYSFX8",
+        "youTubeMusic" : "MPREb_PJz5BWMHV4W"
       },
       "medien" : [
         {
@@ -37517,7 +37895,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/100ZHoBX994GlckxjoGpma",
         "bookbeat" : "https://www.bookbeat.com/de/book/534910",
         "amazonMusic" : "https://music.amazon.de/albums/B077SJTLX2",
-        "amazon" : "https://www.amazon.de/gp/product/B075NVY35J"
+        "amazon" : "https://www.amazon.de/gp/product/B075NVY35J",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_T2wKX587lh2"
       },
       "ids" : {
         "dreimetadaten" : 254,
@@ -37525,7 +37904,8 @@
         "spotify" : "100ZHoBX994GlckxjoGpma",
         "bookbeat" : "534910",
         "amazonMusic" : "B077SJTLX2",
-        "amazon" : "B075NVY35J"
+        "amazon" : "B075NVY35J",
+        "youTubeMusic" : "MPREb_T2wKX587lh2"
       },
       "medien" : [
         {
@@ -37670,7 +38050,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2ICtKWqLqMBTzi7UeByhKd",
         "bookbeat" : "https://www.bookbeat.com/de/book/534775",
         "amazonMusic" : "https://music.amazon.de/albums/B078PD5WFM",
-        "amazon" : "https://www.amazon.de/gp/product/B077BHS9NZ"
+        "amazon" : "https://www.amazon.de/gp/product/B077BHS9NZ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_hYed3W0121H"
       },
       "ids" : {
         "dreimetadaten" : 255,
@@ -37678,7 +38059,8 @@
         "spotify" : "2ICtKWqLqMBTzi7UeByhKd",
         "bookbeat" : "534775",
         "amazonMusic" : "B078PD5WFM",
-        "amazon" : "B077BHS9NZ"
+        "amazon" : "B077BHS9NZ",
+        "youTubeMusic" : "MPREb_hYed3W0121H"
       },
       "medien" : [
         {
@@ -37845,7 +38227,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1qag2AiFcxXU1UaIgrDFff",
         "bookbeat" : "https://www.bookbeat.com/de/book/534903",
         "amazonMusic" : "https://music.amazon.de/albums/B079TWCRN4",
-        "amazon" : "https://www.amazon.de/gp/product/B0788XRY88"
+        "amazon" : "https://www.amazon.de/gp/product/B0788XRY88",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_dQa1iVlH0Wz"
       },
       "ids" : {
         "dreimetadaten" : 256,
@@ -37853,7 +38236,8 @@
         "spotify" : "1qag2AiFcxXU1UaIgrDFff",
         "bookbeat" : "534903",
         "amazonMusic" : "B079TWCRN4",
-        "amazon" : "B0788XRY88"
+        "amazon" : "B0788XRY88",
+        "youTubeMusic" : "MPREb_dQa1iVlH0Wz"
       },
       "medien" : [
         {
@@ -38040,7 +38424,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4m6VlVOWfrUVhWWrueMo7p",
         "bookbeat" : "https://www.bookbeat.com/de/book/534825",
         "amazonMusic" : "https://music.amazon.de/albums/B07DVW5KZM",
-        "amazon" : "https://www.amazon.de/gp/product/B07B14J26K"
+        "amazon" : "https://www.amazon.de/gp/product/B07B14J26K",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_JM0RdTW0ma9"
       },
       "ids" : {
         "dreimetadaten" : 257,
@@ -38048,7 +38433,8 @@
         "spotify" : "4m6VlVOWfrUVhWWrueMo7p",
         "bookbeat" : "534825",
         "amazonMusic" : "B07DVW5KZM",
-        "amazon" : "B07B14J26K"
+        "amazon" : "B07B14J26K",
+        "youTubeMusic" : "MPREb_JM0RdTW0ma9"
       },
       "medien" : [
         {
@@ -38231,7 +38617,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2oKngJQA5TdxF5QcP3uZEf",
         "bookbeat" : "https://www.bookbeat.com/de/book/534771",
         "amazonMusic" : "https://music.amazon.de/albums/B07FY3HTBJ",
-        "amazon" : "https://www.amazon.de/gp/product/B07CQR5T61"
+        "amazon" : "https://www.amazon.de/gp/product/B07CQR5T61",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_37H5mC6m31Y"
       },
       "ids" : {
         "dreimetadaten" : 258,
@@ -38239,7 +38626,8 @@
         "spotify" : "2oKngJQA5TdxF5QcP3uZEf",
         "bookbeat" : "534771",
         "amazonMusic" : "B07FY3HTBJ",
-        "amazon" : "B07CQR5T61"
+        "amazon" : "B07CQR5T61",
+        "youTubeMusic" : "MPREb_37H5mC6m31Y"
       },
       "medien" : [
         {
@@ -38393,7 +38781,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3pbXIzVk7CA5VM2ltxu9TN",
         "bookbeat" : "https://www.bookbeat.com/de/book/534900",
         "amazonMusic" : "https://music.amazon.de/albums/B07HP13J8G",
-        "amazon" : "https://www.amazon.de/gp/product/B07FDP7ZPG"
+        "amazon" : "https://www.amazon.de/gp/product/B07FDP7ZPG",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_RMeFcnfoALn"
       },
       "ids" : {
         "dreimetadaten" : 259,
@@ -38401,7 +38790,8 @@
         "spotify" : "3pbXIzVk7CA5VM2ltxu9TN",
         "bookbeat" : "534900",
         "amazonMusic" : "B07HP13J8G",
-        "amazon" : "B07FDP7ZPG"
+        "amazon" : "B07FDP7ZPG",
+        "youTubeMusic" : "MPREb_RMeFcnfoALn"
       },
       "medien" : [
         {
@@ -38559,7 +38949,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/39a7bHWZyWPxwukCHPrTly",
         "bookbeat" : "https://www.bookbeat.com/de/book/534839",
         "amazonMusic" : "https://music.amazon.de/albums/B07KCSGCD1",
-        "amazon" : "https://www.amazon.de/gp/product/B07HCN5MRR"
+        "amazon" : "https://www.amazon.de/gp/product/B07HCN5MRR",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_qu56XAo4jR8"
       },
       "ids" : {
         "dreimetadaten" : 267,
@@ -38567,7 +38958,8 @@
         "spotify" : "39a7bHWZyWPxwukCHPrTly",
         "bookbeat" : "534839",
         "amazonMusic" : "B07KCSGCD1",
-        "amazon" : "B07HCN5MRR"
+        "amazon" : "B07HCN5MRR",
+        "youTubeMusic" : "MPREb_qu56XAo4jR8"
       },
       "medien" : [
         {
@@ -38760,7 +39152,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0GRoTtX1wI16M7GSnnN96R",
         "bookbeat" : "https://www.bookbeat.com/de/book/534925",
         "amazonMusic" : "https://music.amazon.de/albums/B07L5NLJ9J",
-        "amazon" : "https://www.amazon.de/gp/product/B07JYQNL8Y"
+        "amazon" : "https://www.amazon.de/gp/product/B07JYQNL8Y",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_2uAQ4zqjMCK"
       },
       "ids" : {
         "dreimetadaten" : 268,
@@ -38768,7 +39161,8 @@
         "spotify" : "0GRoTtX1wI16M7GSnnN96R",
         "bookbeat" : "534925",
         "amazonMusic" : "B07L5NLJ9J",
-        "amazon" : "B07JYQNL8Y"
+        "amazon" : "B07JYQNL8Y",
+        "youTubeMusic" : "MPREb_2uAQ4zqjMCK"
       },
       "medien" : [
         {
@@ -38960,7 +39354,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4piiNuehCc4VjN8NBIcnRt",
         "bookbeat" : "https://www.bookbeat.com/de/book/534808",
         "amazonMusic" : "https://music.amazon.de/albums/B07PMLSBX1",
-        "amazon" : "https://www.amazon.de/gp/product/B07KLRS8X1"
+        "amazon" : "https://www.amazon.de/gp/product/B07KLRS8X1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_IulubClVR26"
       },
       "ids" : {
         "dreimetadaten" : 270,
@@ -38968,7 +39363,8 @@
         "spotify" : "4piiNuehCc4VjN8NBIcnRt",
         "bookbeat" : "534808",
         "amazonMusic" : "B07PMLSBX1",
-        "amazon" : "B07KLRS8X1"
+        "amazon" : "B07KLRS8X1",
+        "youTubeMusic" : "MPREb_IulubClVR26"
       },
       "medien" : [
         {
@@ -39131,7 +39527,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7bTKP2hU0LRks1bXN1R7ko",
         "bookbeat" : "https://www.bookbeat.com/de/book/534804",
         "amazonMusic" : "https://music.amazon.de/albums/B07RCJ2WYK",
-        "amazon" : "https://www.amazon.de/gp/product/B07M5XHQQH"
+        "amazon" : "https://www.amazon.de/gp/product/B07M5XHQQH",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ZaASqSPgMBJ"
       },
       "ids" : {
         "dreimetadaten" : 271,
@@ -39139,7 +39536,8 @@
         "spotify" : "7bTKP2hU0LRks1bXN1R7ko",
         "bookbeat" : "534804",
         "amazonMusic" : "B07RCJ2WYK",
-        "amazon" : "B07M5XHQQH"
+        "amazon" : "B07M5XHQQH",
+        "youTubeMusic" : "MPREb_ZaASqSPgMBJ"
       },
       "medien" : [
         {
@@ -39453,7 +39851,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/09Ckx1JLgPsQHHGuSIt2j3",
         "bookbeat" : "https://www.bookbeat.com/de/book/534865",
         "amazonMusic" : "https://music.amazon.de/albums/B07RF8FSNS",
-        "amazon" : "https://www.amazon.de/gp/product/B07RP4V3JM"
+        "amazon" : "https://www.amazon.de/gp/product/B07RP4V3JM",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_IwhrCEOD8VK"
       },
       "ids" : {
         "dreimetadaten" : 272,
@@ -39461,7 +39860,8 @@
         "spotify" : "09Ckx1JLgPsQHHGuSIt2j3",
         "bookbeat" : "534865",
         "amazonMusic" : "B07RF8FSNS",
-        "amazon" : "B07RP4V3JM"
+        "amazon" : "B07RP4V3JM",
+        "youTubeMusic" : "MPREb_IwhrCEOD8VK"
       },
       "medien" : [
         {
@@ -39724,7 +40124,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4FxNfDSXqAg8N1D8NBtvZ5",
         "bookbeat" : "https://www.bookbeat.com/de/book/534853",
         "amazonMusic" : "https://music.amazon.de/albums/B07TNZKQTK",
-        "amazon" : "https://www.amazon.de/gp/product/B07SZGT189"
+        "amazon" : "https://www.amazon.de/gp/product/B07SZGT189",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_rhGCx33jtcl"
       },
       "ids" : {
         "dreimetadaten" : 273,
@@ -39732,7 +40133,8 @@
         "spotify" : "4FxNfDSXqAg8N1D8NBtvZ5",
         "bookbeat" : "534853",
         "amazonMusic" : "B07TNZKQTK",
-        "amazon" : "B07SZGT189"
+        "amazon" : "B07SZGT189",
+        "youTubeMusic" : "MPREb_rhGCx33jtcl"
       },
       "medien" : [
         {
@@ -39883,7 +40285,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4Exxckn0GwbhnGl6N4um2N",
         "bookbeat" : "https://www.bookbeat.com/de/book/534819",
         "amazonMusic" : "https://music.amazon.de/albums/B07XQM5ZGB",
-        "amazon" : "https://www.amazon.de/gp/product/B07WNKTYZ1"
+        "amazon" : "https://www.amazon.de/gp/product/B07WNKTYZ1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_NWge9QVeRhb"
       },
       "ids" : {
         "dreimetadaten" : 275,
@@ -39891,7 +40294,8 @@
         "spotify" : "4Exxckn0GwbhnGl6N4um2N",
         "bookbeat" : "534819",
         "amazonMusic" : "B07XQM5ZGB",
-        "amazon" : "B07WNKTYZ1"
+        "amazon" : "B07WNKTYZ1",
+        "youTubeMusic" : "MPREb_NWge9QVeRhb"
       },
       "medien" : [
         {
@@ -40037,7 +40441,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/79Drf49yNdGLBzzHMGGmBz",
         "bookbeat" : "https://www.bookbeat.com/de/book/534770",
         "amazonMusic" : "https://music.amazon.de/albums/B081VQ9FJM",
-        "amazon" : "https://www.amazon.de/gp/product/B07Z761FJL"
+        "amazon" : "https://www.amazon.de/gp/product/B07Z761FJL",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_OcjOlVUzIhr"
       },
       "ids" : {
         "dreimetadaten" : 276,
@@ -40045,7 +40450,8 @@
         "spotify" : "79Drf49yNdGLBzzHMGGmBz",
         "bookbeat" : "534770",
         "amazonMusic" : "B081VQ9FJM",
-        "amazon" : "B07Z761FJL"
+        "amazon" : "B07Z761FJL",
+        "youTubeMusic" : "MPREb_OcjOlVUzIhr"
       },
       "medien" : [
         {
@@ -40190,7 +40596,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1yMMjH3tDN9GyXiADzTkL9",
         "bookbeat" : "https://www.bookbeat.com/de/book/534871",
         "amazonMusic" : "https://music.amazon.de/albums/B083V4GQS5",
-        "amazon" : "https://www.amazon.de/gp/product/B082BVMW5P"
+        "amazon" : "https://www.amazon.de/gp/product/B082BVMW5P",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_GIwb66Fn7nK"
       },
       "ids" : {
         "dreimetadaten" : 278,
@@ -40198,7 +40605,8 @@
         "spotify" : "1yMMjH3tDN9GyXiADzTkL9",
         "bookbeat" : "534871",
         "amazonMusic" : "B083V4GQS5",
-        "amazon" : "B082BVMW5P"
+        "amazon" : "B082BVMW5P",
+        "youTubeMusic" : "MPREb_GIwb66Fn7nK"
       },
       "medien" : [
         {
@@ -40357,7 +40765,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2Sw9FBHOoT6fBhYxHsRFxq",
         "bookbeat" : "https://www.bookbeat.com/de/book/534872",
         "amazonMusic" : "https://music.amazon.de/albums/B085DVYFT9",
-        "amazon" : "https://www.amazon.de/gp/product/B084DD8WLD"
+        "amazon" : "https://www.amazon.de/gp/product/B084DD8WLD",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_d8Wijt3BLbF"
       },
       "ids" : {
         "dreimetadaten" : 279,
@@ -40365,7 +40774,8 @@
         "spotify" : "2Sw9FBHOoT6fBhYxHsRFxq",
         "bookbeat" : "534872",
         "amazonMusic" : "B085DVYFT9",
-        "amazon" : "B084DD8WLD"
+        "amazon" : "B084DD8WLD",
+        "youTubeMusic" : "MPREb_d8Wijt3BLbF"
       },
       "medien" : [
         {
@@ -40500,7 +40910,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7khAMIQlYBmW7mI9cphDhJ",
         "bookbeat" : "https://www.bookbeat.com/de/book/534812",
         "amazonMusic" : "https://music.amazon.de/albums/B0875QLY3R",
-        "amazon" : "https://www.amazon.de/gp/product/B086PVSM6P"
+        "amazon" : "https://www.amazon.de/gp/product/B086PVSM6P",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_17H4HcDXF0p"
       },
       "ids" : {
         "dreimetadaten" : 280,
@@ -40508,7 +40919,8 @@
         "spotify" : "7khAMIQlYBmW7mI9cphDhJ",
         "bookbeat" : "534812",
         "amazonMusic" : "B0875QLY3R",
-        "amazon" : "B086PVSM6P"
+        "amazon" : "B086PVSM6P",
+        "youTubeMusic" : "MPREb_17H4HcDXF0p"
       },
       "medien" : [
         {
@@ -40655,7 +41067,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6BxvBG51szGmlg5x3F1rHj",
         "bookbeat" : "https://www.bookbeat.com/de/book/534851",
         "amazonMusic" : "https://music.amazon.de/albums/B08BTZT2VK",
-        "amazon" : "https://www.amazon.de/gp/product/B08BDBWF8D"
+        "amazon" : "https://www.amazon.de/gp/product/B08BDBWF8D",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_jRMBkYYqGpW"
       },
       "ids" : {
         "dreimetadaten" : 281,
@@ -40663,7 +41076,8 @@
         "spotify" : "6BxvBG51szGmlg5x3F1rHj",
         "bookbeat" : "534851",
         "amazonMusic" : "B08BTZT2VK",
-        "amazon" : "B08BDBWF8D"
+        "amazon" : "B08BDBWF8D",
+        "youTubeMusic" : "MPREb_jRMBkYYqGpW"
       },
       "medien" : [
         {
@@ -40826,7 +41240,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6WgRUQY49NRG6JT6dJ4xEq",
         "bookbeat" : "https://www.bookbeat.com/de/book/534907",
         "amazonMusic" : "https://music.amazon.de/albums/B08GSLZTRL",
-        "amazon" : "https://www.amazon.de/gp/product/B08KQ1LP4C"
+        "amazon" : "https://www.amazon.de/gp/product/B08KQ1LP4C",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_xGF9yHUmEtU"
       },
       "ids" : {
         "dreimetadaten" : 284,
@@ -40834,7 +41249,8 @@
         "spotify" : "6WgRUQY49NRG6JT6dJ4xEq",
         "bookbeat" : "534907",
         "amazonMusic" : "B08GSLZTRL",
-        "amazon" : "B08KQ1LP4C"
+        "amazon" : "B08KQ1LP4C",
+        "youTubeMusic" : "MPREb_xGF9yHUmEtU"
       },
       "medien" : [
         {
@@ -40982,7 +41398,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0q4FbI22wSMrzgWh5vgHi9",
         "bookbeat" : "https://www.bookbeat.com/de/book/534801",
         "amazonMusic" : "https://music.amazon.de/albums/B08PKZ38BM",
-        "amazon" : "https://www.amazon.de/gp/product/B08PJJHXMW"
+        "amazon" : "https://www.amazon.de/gp/product/B08PJJHXMW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_fLyw4YTKVbT"
       },
       "ids" : {
         "dreimetadaten" : 285,
@@ -40990,7 +41407,8 @@
         "spotify" : "0q4FbI22wSMrzgWh5vgHi9",
         "bookbeat" : "534801",
         "amazonMusic" : "B08PKZ38BM",
-        "amazon" : "B08PJJHXMW"
+        "amazon" : "B08PJJHXMW",
+        "youTubeMusic" : "MPREb_fLyw4YTKVbT"
       },
       "medien" : [
         {
@@ -41130,7 +41548,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3ieWqOL150wJOcft7iZHKZ",
         "bookbeat" : "https://www.bookbeat.com/de/book/530260",
         "amazonMusic" : "https://music.amazon.de/albums/B08XJRFG5G",
-        "amazon" : "https://www.amazon.de/gp/product/B08VTWDX88"
+        "amazon" : "https://www.amazon.de/gp/product/B08VTWDX88",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_grVKTPg4o4W"
       },
       "ids" : {
         "dreimetadaten" : 286,
@@ -41138,7 +41557,8 @@
         "spotify" : "3ieWqOL150wJOcft7iZHKZ",
         "bookbeat" : "530260",
         "amazonMusic" : "B08XJRFG5G",
-        "amazon" : "B08VTWDX88"
+        "amazon" : "B08VTWDX88",
+        "youTubeMusic" : "MPREb_grVKTPg4o4W"
       },
       "medien" : [
         {
@@ -41281,7 +41701,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7pZotNNAYOkeHNvJRKzYRk",
         "bookbeat" : "https://www.bookbeat.com/de/book/542462",
         "amazonMusic" : "https://music.amazon.de/albums/B095Z1MNWM",
-        "amazon" : "https://www.amazon.de/gp/product/B0923ZXVBV"
+        "amazon" : "https://www.amazon.de/gp/product/B0923ZXVBV",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_HukcGnTxtRX"
       },
       "ids" : {
         "dreimetadaten" : 287,
@@ -41289,7 +41710,8 @@
         "spotify" : "7pZotNNAYOkeHNvJRKzYRk",
         "bookbeat" : "542462",
         "amazonMusic" : "B095Z1MNWM",
-        "amazon" : "B0923ZXVBV"
+        "amazon" : "B0923ZXVBV",
+        "youTubeMusic" : "MPREb_HukcGnTxtRX"
       },
       "medien" : [
         {
@@ -41437,7 +41859,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2zHMeFNQQxKOmUgmppOjIM",
         "bookbeat" : "https://www.bookbeat.com/de/book/571004",
         "amazonMusic" : "https://music.amazon.de/albums/B098PDRJP6",
-        "amazon" : "https://www.amazon.de/gp/product/B095GJ5P26"
+        "amazon" : "https://www.amazon.de/gp/product/B095GJ5P26",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_qAIR8oYBPRT"
       },
       "ids" : {
         "dreimetadaten" : 288,
@@ -41445,7 +41868,8 @@
         "spotify" : "2zHMeFNQQxKOmUgmppOjIM",
         "bookbeat" : "571004",
         "amazonMusic" : "B098PDRJP6",
-        "amazon" : "B095GJ5P26"
+        "amazon" : "B095GJ5P26",
+        "youTubeMusic" : "MPREb_qAIR8oYBPRT"
       },
       "medien" : [
         {
@@ -41614,7 +42038,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/4BZfSV9maCil4l4yftT74F",
         "bookbeat" : "https://www.bookbeat.com/de/book/589622",
         "amazonMusic" : "https://music.amazon.de/albums/B09G6NG43Q",
-        "amazon" : "https://www.amazon.de/gp/product/B095GNPF4F"
+        "amazon" : "https://www.amazon.de/gp/product/B095GNPF4F",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_AIlPRxntO6S"
       },
       "ids" : {
         "dreimetadaten" : 289,
@@ -41622,7 +42047,8 @@
         "spotify" : "4BZfSV9maCil4l4yftT74F",
         "bookbeat" : "589622",
         "amazonMusic" : "B09G6NG43Q",
-        "amazon" : "B095GNPF4F"
+        "amazon" : "B095GNPF4F",
+        "youTubeMusic" : "MPREb_AIlPRxntO6S"
       },
       "medien" : [
         {
@@ -41778,7 +42204,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1cJ3fNx6K47p4eDFqhnvsA",
         "bookbeat" : "https://www.bookbeat.com/de/book/619004",
         "amazonMusic" : "https://music.amazon.de/albums/B09L5142C5",
-        "amazon" : "https://www.amazon.de/gp/product/B09FS2TQ56"
+        "amazon" : "https://www.amazon.de/gp/product/B09FS2TQ56",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_qASQBtNpSkn"
       },
       "ids" : {
         "dreimetadaten" : 290,
@@ -41786,7 +42213,8 @@
         "spotify" : "1cJ3fNx6K47p4eDFqhnvsA",
         "bookbeat" : "619004",
         "amazonMusic" : "B09L5142C5",
-        "amazon" : "B09FS2TQ56"
+        "amazon" : "B09FS2TQ56",
+        "youTubeMusic" : "MPREb_qASQBtNpSkn"
       },
       "medien" : [
         {
@@ -41943,7 +42371,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/76pYNMMVZTiuNy3IoXcavU",
         "bookbeat" : "https://www.bookbeat.com/de/book/642464",
         "amazonMusic" : "https://music.amazon.de/albums/B09QSXWW5H",
-        "amazon" : "https://www.amazon.de/gp/product/B09KN9YWBW"
+        "amazon" : "https://www.amazon.de/gp/product/B09KN9YWBW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_17RtMp1snzb"
       },
       "ids" : {
         "dreimetadaten" : 291,
@@ -41951,7 +42380,8 @@
         "spotify" : "76pYNMMVZTiuNy3IoXcavU",
         "bookbeat" : "642464",
         "amazonMusic" : "B09QSXWW5H",
-        "amazon" : "B09KN9YWBW"
+        "amazon" : "B09KN9YWBW",
+        "youTubeMusic" : "MPREb_17RtMp1snzb"
       },
       "medien" : [
         {
@@ -42115,7 +42545,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2BkEUZY7Da7bqlUjmMA2Cq",
         "bookbeat" : "https://www.bookbeat.com/de/book/662396",
         "amazonMusic" : "https://music.amazon.de/albums/B09TXT7KPS",
-        "amazon" : "https://www.amazon.de/gp/product/B09QFG5258"
+        "amazon" : "https://www.amazon.de/gp/product/B09QFG5258",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_rIGIM1J0KZn"
       },
       "ids" : {
         "dreimetadaten" : 292,
@@ -42123,7 +42554,8 @@
         "spotify" : "2BkEUZY7Da7bqlUjmMA2Cq",
         "bookbeat" : "662396",
         "amazonMusic" : "B09TXT7KPS",
-        "amazon" : "B09QFG5258"
+        "amazon" : "B09QFG5258",
+        "youTubeMusic" : "MPREb_rIGIM1J0KZn"
       },
       "medien" : [
         {
@@ -42300,7 +42732,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1WlRnNunbHpnRTTVkxMRnd",
         "bookbeat" : "https://www.bookbeat.com/de/book/761983",
         "amazonMusic" : "https://music.amazon.de/albums/B0C2ZP3WZJ",
-        "amazon" : "https://www.amazon.de/gp/product/B09TMZ3SDQ"
+        "amazon" : "https://www.amazon.de/gp/product/B09TMZ3SDQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_1Av0lBYpi57"
       },
       "ids" : {
         "dreimetadaten" : 293,
@@ -42308,7 +42741,8 @@
         "spotify" : "1WlRnNunbHpnRTTVkxMRnd",
         "bookbeat" : "761983",
         "amazonMusic" : "B0C2ZP3WZJ",
-        "amazon" : "B09TMZ3SDQ"
+        "amazon" : "B09TMZ3SDQ",
+        "youTubeMusic" : "MPREb_1Av0lBYpi57"
       },
       "medien" : [
         {
@@ -42480,7 +42914,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2WwOKZLpFWrvw3O9CISod1",
         "bookbeat" : "https://www.bookbeat.com/de/book/786796",
         "amazonMusic" : "https://music.amazon.de/albums/B0C2ZPCFWJ",
-        "amazon" : "https://www.amazon.de/gp/product/B09ZFJDS9M"
+        "amazon" : "https://www.amazon.de/gp/product/B09ZFJDS9M",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Vw6qBEZGeQV"
       },
       "ids" : {
         "dreimetadaten" : 294,
@@ -42488,7 +42923,8 @@
         "spotify" : "2WwOKZLpFWrvw3O9CISod1",
         "bookbeat" : "786796",
         "amazonMusic" : "B0C2ZPCFWJ",
-        "amazon" : "B09ZFJDS9M"
+        "amazon" : "B09ZFJDS9M",
+        "youTubeMusic" : "MPREb_Vw6qBEZGeQV"
       },
       "medien" : [
         {
@@ -42660,7 +43096,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6ewdyVIW2LurJhYGU0UBAa",
         "bookbeat" : "https://www.bookbeat.com/de/book/860080",
         "amazonMusic" : "https://music.amazon.de/albums/B0C2ZP7GVB",
-        "amazon" : "https://www.amazon.de/gp/product/B0B6792J65"
+        "amazon" : "https://www.amazon.de/gp/product/B0B6792J65",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_O8PBlrDNMlN"
       },
       "ids" : {
         "dreimetadaten" : 296,
@@ -42668,7 +43105,8 @@
         "spotify" : "6ewdyVIW2LurJhYGU0UBAa",
         "bookbeat" : "860080",
         "amazonMusic" : "B0C2ZP7GVB",
-        "amazon" : "B0B6792J65"
+        "amazon" : "B0B6792J65",
+        "youTubeMusic" : "MPREb_O8PBlrDNMlN"
       },
       "medien" : [
         {
@@ -42842,7 +43280,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/01i4iyB40EU7Qgd6EgKoZt",
         "bookbeat" : "https://www.bookbeat.com/de/book/910724",
         "amazonMusic" : "https://music.amazon.de/albums/B0C2ZQ121D",
-        "amazon" : "https://www.amazon.de/gp/product/B0BF2ZX1S1"
+        "amazon" : "https://www.amazon.de/gp/product/B0BF2ZX1S1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_sPZuvLfaE4d"
       },
       "ids" : {
         "dreimetadaten" : 297,
@@ -42850,7 +43289,8 @@
         "spotify" : "01i4iyB40EU7Qgd6EgKoZt",
         "bookbeat" : "910724",
         "amazonMusic" : "B0C2ZQ121D",
-        "amazon" : "B0BF2ZX1S1"
+        "amazon" : "B0BF2ZX1S1",
+        "youTubeMusic" : "MPREb_sPZuvLfaE4d"
       },
       "medien" : [
         {
@@ -43017,7 +43457,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/1KpVSqapKAUAtAepWWxPWs",
         "bookbeat" : "https://www.bookbeat.com/de/book/1014454",
         "amazonMusic" : "https://music.amazon.de/albums/B0C9TTW5JH",
-        "amazon" : "https://www.amazon.de/gp/product/B0BKCB2TQH"
+        "amazon" : "https://www.amazon.de/gp/product/B0BKCB2TQH",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_J2ygWS3lObQ"
       },
       "ids" : {
         "dreimetadaten" : 298,
@@ -43025,7 +43466,8 @@
         "spotify" : "1KpVSqapKAUAtAepWWxPWs",
         "bookbeat" : "1014454",
         "amazonMusic" : "B0C9TTW5JH",
-        "amazon" : "B0BKCB2TQH"
+        "amazon" : "B0BKCB2TQH",
+        "youTubeMusic" : "MPREb_J2ygWS3lObQ"
       },
       "medien" : [
         {
@@ -43202,7 +43644,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3o2Gwvg8lqLNRnlV1v1s5K",
         "bookbeat" : "https://www.bookbeat.com/de/book/1086938",
         "amazonMusic" : "https://music.amazon.de/albums/B0C46L44ZK",
-        "amazon" : "https://www.amazon.de/gp/product/B0BRJRSNGX"
+        "amazon" : "https://www.amazon.de/gp/product/B0BRJRSNGX",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_8Loo1oIUKQG"
       },
       "ids" : {
         "dreimetadaten" : 299,
@@ -43210,7 +43653,8 @@
         "spotify" : "3o2Gwvg8lqLNRnlV1v1s5K",
         "bookbeat" : "1086938",
         "amazonMusic" : "B0C46L44ZK",
-        "amazon" : "B0BRJRSNGX"
+        "amazon" : "B0BRJRSNGX",
+        "youTubeMusic" : "MPREb_8Loo1oIUKQG"
       },
       "medien" : [
         {
@@ -43387,7 +43831,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/451jKBwuSNrNgLlqEAZfra",
         "bookbeat" : "https://www.bookbeat.com/de/book/1106229",
         "amazonMusic" : "https://music.amazon.de/albums/B0C471NF65",
-        "amazon" : "https://www.amazon.de/gp/product/B0BX4XBMJH"
+        "amazon" : "https://www.amazon.de/gp/product/B0BX4XBMJH",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ypnkznQU9SZ"
       },
       "ids" : {
         "dreimetadaten" : 300,
@@ -43395,7 +43840,8 @@
         "spotify" : "451jKBwuSNrNgLlqEAZfra",
         "bookbeat" : "1106229",
         "amazonMusic" : "B0C471NF65",
-        "amazon" : "B0BX4XBMJH"
+        "amazon" : "B0BX4XBMJH",
+        "youTubeMusic" : "MPREb_ypnkznQU9SZ"
       },
       "medien" : [
         {
@@ -43555,7 +44001,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/7JhdaReI98XYFrzb3jJPFa",
         "bookbeat" : "https://www.bookbeat.com/de/book/1185118",
         "amazonMusic" : "https://music.amazon.de/albums/B0CC369BBB",
-        "amazon" : "https://www.amazon.de/gp/product/B0C6CCCP8Z"
+        "amazon" : "https://www.amazon.de/gp/product/B0C6CCCP8Z",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_D10s8l1XXB2"
       },
       "ids" : {
         "dreimetadaten" : 302,
@@ -43563,7 +44010,8 @@
         "spotify" : "7JhdaReI98XYFrzb3jJPFa",
         "bookbeat" : "1185118",
         "amazonMusic" : "B0CC369BBB",
-        "amazon" : "B0C6CCCP8Z"
+        "amazon" : "B0C6CCCP8Z",
+        "youTubeMusic" : "MPREb_D10s8l1XXB2"
       },
       "medien" : [
         {
@@ -43801,7 +44249,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/0FuC7q4bJG41g1naKBx4ot",
         "bookbeat" : "https://www.bookbeat.com/de/book/1229917",
         "amazonMusic" : "https://music.amazon.de/albums/B0CNHBLW4Y",
-        "amazon" : "https://www.amazon.de/gp/product/B0CJCWK69J"
+        "amazon" : "https://www.amazon.de/gp/product/B0CJCWK69J",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_4kqZ3QwOQ6W"
       },
       "ids" : {
         "dreimetadaten" : 303,
@@ -43809,7 +44258,8 @@
         "spotify" : "0FuC7q4bJG41g1naKBx4ot",
         "bookbeat" : "1229917",
         "amazonMusic" : "B0CNHBLW4Y",
-        "amazon" : "B0CJCWK69J"
+        "amazon" : "B0CJCWK69J",
+        "youTubeMusic" : "MPREb_4kqZ3QwOQ6W"
       },
       "medien" : [
         {
@@ -44023,7 +44473,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/3Sv5tE8PcAlGY6Ys2ISQXF",
         "bookbeat" : "https://www.bookbeat.com/de/book/1251667",
         "amazonMusic" : "https://music.amazon.de/albums/B0CSDM75XC",
-        "amazon" : "https://www.amazon.de/gp/product/B0CN8HNBHR"
+        "amazon" : "https://www.amazon.de/gp/product/B0CN8HNBHR",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_bDYlhlG3dO2"
       },
       "ids" : {
         "dreimetadaten" : 304,
@@ -44031,7 +44482,8 @@
         "spotify" : "3Sv5tE8PcAlGY6Ys2ISQXF",
         "bookbeat" : "1251667",
         "amazonMusic" : "B0CSDM75XC",
-        "amazon" : "B0CN8HNBHR"
+        "amazon" : "B0CN8HNBHR",
+        "youTubeMusic" : "MPREb_bDYlhlG3dO2"
       },
       "medien" : [
         {
@@ -44175,7 +44627,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/2CMXywsh8wVXXCmr2bLTZ6",
         "bookbeat" : "https://www.bookbeat.com/de/book/1277361",
         "amazonMusic" : "https://music.amazon.de/albums/B0CWLH2J1G",
-        "amazon" : "https://www.amazon.de/gp/product/B0CR9HKJFF"
+        "amazon" : "https://www.amazon.de/gp/product/B0CR9HKJFF",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_6nCVRIxhPRE"
       },
       "ids" : {
         "dreimetadaten" : 305,
@@ -44183,7 +44636,8 @@
         "spotify" : "2CMXywsh8wVXXCmr2bLTZ6",
         "bookbeat" : "1277361",
         "amazonMusic" : "B0CWLH2J1G",
-        "amazon" : "B0CR9HKJFF"
+        "amazon" : "B0CR9HKJFF",
+        "youTubeMusic" : "MPREb_6nCVRIxhPRE"
       },
       "medien" : [
         {
@@ -44321,7 +44775,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6sNAlohza1ZTWVMGhFTGJW",
         "bookbeat" : "https://www.bookbeat.com/de/book/1321147",
         "amazonMusic" : "https://music.amazon.de/albums/B0D361L8SC",
-        "amazon" : "https://www.amazon.de/gp/product/B0CXRSZ1GT"
+        "amazon" : "https://www.amazon.de/gp/product/B0CXRSZ1GT",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_MVYljhSoKYA"
       },
       "ids" : {
         "dreimetadaten" : 306,
@@ -44329,7 +44784,8 @@
         "spotify" : "6sNAlohza1ZTWVMGhFTGJW",
         "bookbeat" : "1321147",
         "amazonMusic" : "B0D361L8SC",
-        "amazon" : "B0CXRSZ1GT"
+        "amazon" : "B0CXRSZ1GT",
+        "youTubeMusic" : "MPREb_MVYljhSoKYA"
       },
       "medien" : [
         {
@@ -44496,7 +44952,8 @@
         "spotify" : "https://open.spotify.com/intl-de/album/6SMOmIWODrO1gND2YPpjHf",
         "bookbeat" : "https://www.bookbeat.com/de/book/1388001",
         "amazonMusic" : "https://music.amazon.de/albums/B0D811L69G",
-        "amazon" : "https://www.amazon.de/gp/product/B0D85S18ZR"
+        "amazon" : "https://www.amazon.de/gp/product/B0D85S18ZR",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_i9FNZSVOEG3"
       },
       "ids" : {
         "dreimetadaten" : 307,
@@ -44504,7 +44961,8 @@
         "spotify" : "6SMOmIWODrO1gND2YPpjHf",
         "bookbeat" : "1388001",
         "amazonMusic" : "B0D811L69G",
-        "amazon" : "B0D85S18ZR"
+        "amazon" : "B0D85S18ZR",
+        "youTubeMusic" : "MPREb_i9FNZSVOEG3"
       },
       "medien" : [
         {

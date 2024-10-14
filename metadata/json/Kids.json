@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.3.0",
-    "lastModified" : "2024-10-11T13:04:56Z"
+    "version" : "2.4.0",
+    "lastModified" : "2024-10-14T02:06:01Z"
   },
   "kids" : [
     {
@@ -118,14 +118,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092525638",
         "spotify" : "https://open.spotify.com/intl-de/album/5mQg8r5ivI0IX5bTV57KyN",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS25SE",
-        "amazon" : "https://www.amazon.de/gp/product/B001Q2RWNO"
+        "amazon" : "https://www.amazon.de/gp/product/B001Q2RWNO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_M30IAeDA4oy"
       },
       "ids" : {
         "dreimetadaten" : 309,
         "appleMusic" : "1092525638",
         "spotify" : "5mQg8r5ivI0IX5bTV57KyN",
         "amazonMusic" : "B01CUS25SE",
-        "amazon" : "B001Q2RWNO"
+        "amazon" : "B001Q2RWNO",
+        "youTubeMusic" : "MPREb_M30IAeDA4oy"
       },
       "medien" : [
         {
@@ -311,14 +313,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092534740",
         "spotify" : "https://open.spotify.com/intl-de/album/50d2KMK7GtbCTfLqxDfHIS",
         "amazonMusic" : "https://music.amazon.de/albums/B01CV1A0HS",
-        "amazon" : "https://www.amazon.de/gp/product/B001Q2RWO8"
+        "amazon" : "https://www.amazon.de/gp/product/B001Q2RWO8",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_yO3Or2FiD5t"
       },
       "ids" : {
         "dreimetadaten" : 310,
         "appleMusic" : "1092534740",
         "spotify" : "50d2KMK7GtbCTfLqxDfHIS",
         "amazonMusic" : "B01CV1A0HS",
-        "amazon" : "B001Q2RWO8"
+        "amazon" : "B001Q2RWO8",
+        "youTubeMusic" : "MPREb_yO3Or2FiD5t"
       },
       "medien" : [
         {
@@ -510,14 +514,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092525866",
         "spotify" : "https://open.spotify.com/intl-de/album/0jhxRM2HsImXg5W28JfUv8",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS1TGI",
-        "amazon" : "https://www.amazon.de/gp/product/B001Q2RWOS"
+        "amazon" : "https://www.amazon.de/gp/product/B001Q2RWOS",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_DDqYUg3vcpZ"
       },
       "ids" : {
         "dreimetadaten" : 311,
         "appleMusic" : "1092525866",
         "spotify" : "0jhxRM2HsImXg5W28JfUv8",
         "amazonMusic" : "B01CUS1TGI",
-        "amazon" : "B001Q2RWOS"
+        "amazon" : "B001Q2RWOS",
+        "youTubeMusic" : "MPREb_DDqYUg3vcpZ"
       },
       "medien" : [
         {
@@ -723,14 +729,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092522053",
         "spotify" : "https://open.spotify.com/intl-de/album/30w9IzSbHHevllaU299TMh",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS1V20",
-        "amazon" : "https://www.amazon.de/gp/product/B002L1FEXO"
+        "amazon" : "https://www.amazon.de/gp/product/B002L1FEXO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_LTH4DRafIbw"
       },
       "ids" : {
         "dreimetadaten" : 312,
         "appleMusic" : "1092522053",
         "spotify" : "30w9IzSbHHevllaU299TMh",
         "amazonMusic" : "B01CUS1V20",
-        "amazon" : "B002L1FEXO"
+        "amazon" : "B002L1FEXO",
+        "youTubeMusic" : "MPREb_LTH4DRafIbw"
       },
       "medien" : [
         {
@@ -921,14 +929,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092521899",
         "spotify" : "https://open.spotify.com/intl-de/album/1wNy1x9hCcnmU1vhT7S2Tc",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS2LGK",
-        "amazon" : "https://www.amazon.de/gp/product/B002L1FEY8"
+        "amazon" : "https://www.amazon.de/gp/product/B002L1FEY8",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_wI7vHrqM4By"
       },
       "ids" : {
         "dreimetadaten" : 313,
         "appleMusic" : "1092521899",
         "spotify" : "1wNy1x9hCcnmU1vhT7S2Tc",
         "amazonMusic" : "B01CUS2LGK",
-        "amazon" : "B002L1FEY8"
+        "amazon" : "B002L1FEY8",
+        "youTubeMusic" : "MPREb_wI7vHrqM4By"
       },
       "medien" : [
         {
@@ -1110,14 +1120,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092521960",
         "spotify" : "https://open.spotify.com/intl-de/album/4TSPWdUo2J4w6VuwQgUK2e",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS15GW",
-        "amazon" : "https://www.amazon.de/gp/product/B002L1FEYS"
+        "amazon" : "https://www.amazon.de/gp/product/B002L1FEYS",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_kQz1uNuHKMD"
       },
       "ids" : {
         "dreimetadaten" : 314,
         "appleMusic" : "1092521960",
         "spotify" : "4TSPWdUo2J4w6VuwQgUK2e",
         "amazonMusic" : "B01CUS15GW",
-        "amazon" : "B002L1FEYS"
+        "amazon" : "B002L1FEYS",
+        "youTubeMusic" : "MPREb_kQz1uNuHKMD"
       },
       "medien" : [
         {
@@ -1300,14 +1312,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092534848",
         "spotify" : "https://open.spotify.com/intl-de/album/2rleLzoiSWt5IVyZpkkVHA",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS4IEI",
-        "amazon" : "https://www.amazon.de/gp/product/B001Q2RWPC"
+        "amazon" : "https://www.amazon.de/gp/product/B001Q2RWPC",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_C62NnSSbT3J"
       },
       "ids" : {
         "dreimetadaten" : 315,
         "appleMusic" : "1092534848",
         "spotify" : "2rleLzoiSWt5IVyZpkkVHA",
         "amazonMusic" : "B01CUS4IEI",
-        "amazon" : "B001Q2RWPC"
+        "amazon" : "B001Q2RWPC",
+        "youTubeMusic" : "MPREb_C62NnSSbT3J"
       },
       "medien" : [
         {
@@ -1494,14 +1508,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092521938",
         "spotify" : "https://open.spotify.com/intl-de/album/3RRqQIyDs7AkO3TPbmuRpt",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS3JS4",
-        "amazon" : "https://www.amazon.de/gp/product/B001Q2RWPW"
+        "amazon" : "https://www.amazon.de/gp/product/B001Q2RWPW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_8orkZiwm9CG"
       },
       "ids" : {
         "dreimetadaten" : 316,
         "appleMusic" : "1092521938",
         "spotify" : "3RRqQIyDs7AkO3TPbmuRpt",
         "amazonMusic" : "B01CUS3JS4",
-        "amazon" : "B001Q2RWPW"
+        "amazon" : "B001Q2RWPW",
+        "youTubeMusic" : "MPREb_8orkZiwm9CG"
       },
       "medien" : [
         {
@@ -1683,14 +1699,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092524593",
         "spotify" : "https://open.spotify.com/intl-de/album/7A5GQZrirxYgjWCTGpbnbs",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS1MAG",
-        "amazon" : "https://www.amazon.de/gp/product/B0025T4YRE"
+        "amazon" : "https://www.amazon.de/gp/product/B0025T4YRE",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_iqUA0OGplOT"
       },
       "ids" : {
         "dreimetadaten" : 317,
         "appleMusic" : "1092524593",
         "spotify" : "7A5GQZrirxYgjWCTGpbnbs",
         "amazonMusic" : "B01CUS1MAG",
-        "amazon" : "B0025T4YRE"
+        "amazon" : "B0025T4YRE",
+        "youTubeMusic" : "MPREb_iqUA0OGplOT"
       },
       "medien" : [
         {
@@ -1883,14 +1901,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092525596",
         "spotify" : "https://open.spotify.com/intl-de/album/6PRRmyf0vuFwPeuVLdDq4q",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS0UW2",
-        "amazon" : "https://www.amazon.de/gp/product/B002L1FEZC"
+        "amazon" : "https://www.amazon.de/gp/product/B002L1FEZC",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_C9JKjq4tlj6"
       },
       "ids" : {
         "dreimetadaten" : 318,
         "appleMusic" : "1092525596",
         "spotify" : "6PRRmyf0vuFwPeuVLdDq4q",
         "amazonMusic" : "B01CUS0UW2",
-        "amazon" : "B002L1FEZC"
+        "amazon" : "B002L1FEZC",
+        "youTubeMusic" : "MPREb_C9JKjq4tlj6"
       },
       "medien" : [
         {
@@ -2054,14 +2074,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092526621",
         "spotify" : "https://open.spotify.com/intl-de/album/6GPxCYDZkEqCLPc7BeCFYb",
         "amazonMusic" : "https://music.amazon.de/albums/B01CURZNKM",
-        "amazon" : "https://www.amazon.de/gp/product/B002RKPWLI"
+        "amazon" : "https://www.amazon.de/gp/product/B002RKPWLI",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_OL0xAgYenFz"
       },
       "ids" : {
         "dreimetadaten" : 319,
         "appleMusic" : "1092526621",
         "spotify" : "6GPxCYDZkEqCLPc7BeCFYb",
         "amazonMusic" : "B01CURZNKM",
-        "amazon" : "B002RKPWLI"
+        "amazon" : "B002RKPWLI",
+        "youTubeMusic" : "MPREb_OL0xAgYenFz"
       },
       "medien" : [
         {
@@ -2224,14 +2246,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092527217",
         "spotify" : "https://open.spotify.com/intl-de/album/3aYsZOOX3BVsCcHC0MQq3f",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS45KA",
-        "amazon" : "https://www.amazon.de/gp/product/B002YCI0PE"
+        "amazon" : "https://www.amazon.de/gp/product/B002YCI0PE",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_llQVNPBtfZY"
       },
       "ids" : {
         "dreimetadaten" : 320,
         "appleMusic" : "1092527217",
         "spotify" : "3aYsZOOX3BVsCcHC0MQq3f",
         "amazonMusic" : "B01CUS45KA",
-        "amazon" : "B002YCI0PE"
+        "amazon" : "B002YCI0PE",
+        "youTubeMusic" : "MPREb_llQVNPBtfZY"
       },
       "medien" : [
         {
@@ -2393,14 +2417,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092525617",
         "spotify" : "https://open.spotify.com/intl-de/album/7xFfmSVyP8y9gcXRPG7xmT",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS0ZTK",
-        "amazon" : "https://www.amazon.de/gp/product/B003273MLW"
+        "amazon" : "https://www.amazon.de/gp/product/B003273MLW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ihpiDpbBDQ5"
       },
       "ids" : {
         "dreimetadaten" : 321,
         "appleMusic" : "1092525617",
         "spotify" : "7xFfmSVyP8y9gcXRPG7xmT",
         "amazonMusic" : "B01CUS0ZTK",
-        "amazon" : "B003273MLW"
+        "amazon" : "B003273MLW",
+        "youTubeMusic" : "MPREb_ihpiDpbBDQ5"
       },
       "medien" : [
         {
@@ -2574,14 +2600,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092521435",
         "spotify" : "https://open.spotify.com/intl-de/album/1WTFQcnnJZRhRLkA6Pemom",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS18JG",
-        "amazon" : "https://www.amazon.de/gp/product/B003273MMG"
+        "amazon" : "https://www.amazon.de/gp/product/B003273MMG",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_E5DK7SqImJu"
       },
       "ids" : {
         "dreimetadaten" : 322,
         "appleMusic" : "1092521435",
         "spotify" : "1WTFQcnnJZRhRLkA6Pemom",
         "amazonMusic" : "B01CUS18JG",
-        "amazon" : "B003273MMG"
+        "amazon" : "B003273MMG",
+        "youTubeMusic" : "MPREb_E5DK7SqImJu"
       },
       "medien" : [
         {
@@ -2743,14 +2771,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092526142",
         "spotify" : "https://open.spotify.com/intl-de/album/3Dn23cUQU7RehW7QeBt3cJ",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS3LHS",
-        "amazon" : "https://www.amazon.de/gp/product/B003BF8V6G"
+        "amazon" : "https://www.amazon.de/gp/product/B003BF8V6G",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_JpHlCrQE8k5"
       },
       "ids" : {
         "dreimetadaten" : 323,
         "appleMusic" : "1092526142",
         "spotify" : "3Dn23cUQU7RehW7QeBt3cJ",
         "amazonMusic" : "B01CUS3LHS",
-        "amazon" : "B003BF8V6G"
+        "amazon" : "B003BF8V6G",
+        "youTubeMusic" : "MPREb_JpHlCrQE8k5"
       },
       "medien" : [
         {
@@ -2940,14 +2970,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092521849",
         "spotify" : "https://open.spotify.com/intl-de/album/2xo9X40JoJuDO64Iy5mpNY",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS1NX2",
-        "amazon" : "https://www.amazon.de/gp/product/B003Q96OBG"
+        "amazon" : "https://www.amazon.de/gp/product/B003Q96OBG",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_U51OnpK8Lwx"
       },
       "ids" : {
         "dreimetadaten" : 324,
         "appleMusic" : "1092521849",
         "spotify" : "2xo9X40JoJuDO64Iy5mpNY",
         "amazonMusic" : "B01CUS1NX2",
-        "amazon" : "B003Q96OBG"
+        "amazon" : "B003Q96OBG",
+        "youTubeMusic" : "MPREb_U51OnpK8Lwx"
       },
       "medien" : [
         {
@@ -3123,14 +3155,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092526143",
         "spotify" : "https://open.spotify.com/intl-de/album/2RJHP6Kw1jZrp56WCqtiQW",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS2JOY",
-        "amazon" : "https://www.amazon.de/gp/product/B003TQBBHS"
+        "amazon" : "https://www.amazon.de/gp/product/B003TQBBHS",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_y3TtZZfe4JE"
       },
       "ids" : {
         "dreimetadaten" : 325,
         "appleMusic" : "1092526143",
         "spotify" : "2RJHP6Kw1jZrp56WCqtiQW",
         "amazonMusic" : "B01CUS2JOY",
-        "amazon" : "B003TQBBHS"
+        "amazon" : "B003TQBBHS",
+        "youTubeMusic" : "MPREb_y3TtZZfe4JE"
       },
       "medien" : [
         {
@@ -3334,14 +3368,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092521904",
         "spotify" : "https://open.spotify.com/intl-de/album/5Z6HPLDixzbX8TNK889Fr8",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS12OC",
-        "amazon" : "https://www.amazon.de/gp/product/B00447KI6Q"
+        "amazon" : "https://www.amazon.de/gp/product/B00447KI6Q",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Dxu7iTzVv4t"
       },
       "ids" : {
         "dreimetadaten" : 326,
         "appleMusic" : "1092521904",
         "spotify" : "5Z6HPLDixzbX8TNK889Fr8",
         "amazonMusic" : "B01CUS12OC",
-        "amazon" : "B00447KI6Q"
+        "amazon" : "B00447KI6Q",
+        "youTubeMusic" : "MPREb_Dxu7iTzVv4t"
       },
       "medien" : [
         {
@@ -3499,14 +3535,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092527170",
         "spotify" : "https://open.spotify.com/intl-de/album/5NmTdnYuPpnDlF9zBTnwHT",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS15RG",
-        "amazon" : "https://www.amazon.de/gp/product/B004C4IITU"
+        "amazon" : "https://www.amazon.de/gp/product/B004C4IITU",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_oAb1BTxVrpB"
       },
       "ids" : {
         "dreimetadaten" : 327,
         "appleMusic" : "1092527170",
         "spotify" : "5NmTdnYuPpnDlF9zBTnwHT",
         "amazonMusic" : "B01CUS15RG",
-        "amazon" : "B004C4IITU"
+        "amazon" : "B004C4IITU",
+        "youTubeMusic" : "MPREb_oAb1BTxVrpB"
       },
       "medien" : [
         {
@@ -3672,14 +3710,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092527789",
         "spotify" : "https://open.spotify.com/intl-de/album/0WwfV73hIbVsEfIUJxFCMN",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS441K",
-        "amazon" : "https://www.amazon.de/gp/product/B004GNH57S"
+        "amazon" : "https://www.amazon.de/gp/product/B004GNH57S",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_xqG79BvoJ1c"
       },
       "ids" : {
         "dreimetadaten" : 328,
         "appleMusic" : "1092527789",
         "spotify" : "0WwfV73hIbVsEfIUJxFCMN",
         "amazonMusic" : "B01CUS441K",
-        "amazon" : "B004GNH57S"
+        "amazon" : "B004GNH57S",
+        "youTubeMusic" : "MPREb_xqG79BvoJ1c"
       },
       "medien" : [
         {
@@ -3849,14 +3889,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092520364",
         "spotify" : "https://open.spotify.com/intl-de/album/3sMdBpUspSRJxhr2oze3le",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS3MUE",
-        "amazon" : "https://www.amazon.de/gp/product/B004VU04GK"
+        "amazon" : "https://www.amazon.de/gp/product/B004VU04GK",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_pmuUCPCtGn8"
       },
       "ids" : {
         "dreimetadaten" : 329,
         "appleMusic" : "1092520364",
         "spotify" : "3sMdBpUspSRJxhr2oze3le",
         "amazonMusic" : "B01CUS3MUE",
-        "amazon" : "B004VU04GK"
+        "amazon" : "B004VU04GK",
+        "youTubeMusic" : "MPREb_pmuUCPCtGn8"
       },
       "medien" : [
         {
@@ -4026,14 +4068,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092521920",
         "spotify" : "https://open.spotify.com/intl-de/album/2ILrLgqLA1pterp2pZoChc",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS2R3W",
-        "amazon" : "https://www.amazon.de/gp/product/B0050F9Y1G"
+        "amazon" : "https://www.amazon.de/gp/product/B0050F9Y1G",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_JgyXSwDrSyl"
       },
       "ids" : {
         "dreimetadaten" : 330,
         "appleMusic" : "1092521920",
         "spotify" : "2ILrLgqLA1pterp2pZoChc",
         "amazonMusic" : "B01CUS2R3W",
-        "amazon" : "B0050F9Y1G"
+        "amazon" : "B0050F9Y1G",
+        "youTubeMusic" : "MPREb_JgyXSwDrSyl"
       },
       "medien" : [
         {
@@ -4199,14 +4243,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092522056",
         "spotify" : "https://open.spotify.com/intl-de/album/5PEjckgsqkxbpDlgz30wTk",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS24RG",
-        "amazon" : "https://www.amazon.de/gp/product/B005DIVG4S"
+        "amazon" : "https://www.amazon.de/gp/product/B005DIVG4S",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_lUkTdxS2C4C"
       },
       "ids" : {
         "dreimetadaten" : 331,
         "appleMusic" : "1092522056",
         "spotify" : "5PEjckgsqkxbpDlgz30wTk",
         "amazonMusic" : "B01CUS24RG",
-        "amazon" : "B005DIVG4S"
+        "amazon" : "B005DIVG4S",
+        "youTubeMusic" : "MPREb_lUkTdxS2C4C"
       },
       "medien" : [
         {
@@ -4371,14 +4417,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092521032",
         "spotify" : "https://open.spotify.com/intl-de/album/1GsVIL0B05ykaxM0sjjik8",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS3SR6",
-        "amazon" : "https://www.amazon.de/gp/product/B005GJFMQM"
+        "amazon" : "https://www.amazon.de/gp/product/B005GJFMQM",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_XYMKkXrslQD"
       },
       "ids" : {
         "dreimetadaten" : 332,
         "appleMusic" : "1092521032",
         "spotify" : "1GsVIL0B05ykaxM0sjjik8",
         "amazonMusic" : "B01CUS3SR6",
-        "amazon" : "B005GJFMQM"
+        "amazon" : "B005GJFMQM",
+        "youTubeMusic" : "MPREb_XYMKkXrslQD"
       },
       "medien" : [
         {
@@ -4539,14 +4587,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092520692",
         "spotify" : "https://open.spotify.com/intl-de/album/5nCCuIqR5MsRi3tI90Vu4T",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS1X9Q",
-        "amazon" : "https://www.amazon.de/gp/product/B0063N9VNU"
+        "amazon" : "https://www.amazon.de/gp/product/B0063N9VNU",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_kUapVLmx9Rh"
       },
       "ids" : {
         "dreimetadaten" : 333,
         "appleMusic" : "1092520692",
         "spotify" : "5nCCuIqR5MsRi3tI90Vu4T",
         "amazonMusic" : "B01CUS1X9Q",
-        "amazon" : "B0063N9VNU"
+        "amazon" : "B0063N9VNU",
+        "youTubeMusic" : "MPREb_kUapVLmx9Rh"
       },
       "medien" : [
         {
@@ -4703,14 +4753,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1092521933",
         "spotify" : "https://open.spotify.com/intl-de/album/7zlnjYjJotwmyxPWee0s9W",
         "amazonMusic" : "https://music.amazon.de/albums/B01CUS2DHM",
-        "amazon" : "https://www.amazon.de/gp/product/B006N2Q79W"
+        "amazon" : "https://www.amazon.de/gp/product/B006N2Q79W",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_CK6Qkn15Xus"
       },
       "ids" : {
         "dreimetadaten" : 334,
         "appleMusic" : "1092521933",
         "spotify" : "7zlnjYjJotwmyxPWee0s9W",
         "amazonMusic" : "B01CUS2DHM",
-        "amazon" : "B006N2Q79W"
+        "amazon" : "B006N2Q79W",
+        "youTubeMusic" : "MPREb_CK6Qkn15Xus"
       },
       "medien" : [
         {
@@ -4871,14 +4923,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1110089219",
         "spotify" : "https://open.spotify.com/intl-de/album/0BiK4U6FaICuYqpUQ553Qo",
         "amazonMusic" : "https://music.amazon.de/albums/B01FDMQFWG",
-        "amazon" : "https://www.amazon.de/gp/product/B006ZJJ7BI"
+        "amazon" : "https://www.amazon.de/gp/product/B006ZJJ7BI",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_kA0OFnKY89n"
       },
       "ids" : {
         "dreimetadaten" : 335,
         "appleMusic" : "1110089219",
         "spotify" : "0BiK4U6FaICuYqpUQ553Qo",
         "amazonMusic" : "B01FDMQFWG",
-        "amazon" : "B006ZJJ7BI"
+        "amazon" : "B006ZJJ7BI",
+        "youTubeMusic" : "MPREb_kA0OFnKY89n"
       },
       "medien" : [
         {
@@ -5030,14 +5084,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1110089816",
         "spotify" : "https://open.spotify.com/intl-de/album/4BTfGkg67lPD7pnV9YABGC",
         "amazonMusic" : "https://music.amazon.de/albums/B01F2KUV92",
-        "amazon" : "https://www.amazon.de/gp/product/B0071J7INA"
+        "amazon" : "https://www.amazon.de/gp/product/B0071J7INA",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_xj7Fu6zF47G"
       },
       "ids" : {
         "dreimetadaten" : 336,
         "appleMusic" : "1110089816",
         "spotify" : "4BTfGkg67lPD7pnV9YABGC",
         "amazonMusic" : "B01F2KUV92",
-        "amazon" : "B0071J7INA"
+        "amazon" : "B0071J7INA",
+        "youTubeMusic" : "MPREb_xj7Fu6zF47G"
       },
       "medien" : [
         {
@@ -5188,14 +5244,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1110094707",
         "spotify" : "https://open.spotify.com/intl-de/album/4fIWqTa6s849HB2NInOgyF",
         "amazonMusic" : "https://music.amazon.de/albums/B01F2KWFNM",
-        "amazon" : "https://www.amazon.de/gp/product/B0071J7IS0"
+        "amazon" : "https://www.amazon.de/gp/product/B0071J7IS0",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ngQ6udZinj8"
       },
       "ids" : {
         "dreimetadaten" : 337,
         "appleMusic" : "1110094707",
         "spotify" : "4fIWqTa6s849HB2NInOgyF",
         "amazonMusic" : "B01F2KWFNM",
-        "amazon" : "B0071J7IS0"
+        "amazon" : "B0071J7IS0",
+        "youTubeMusic" : "MPREb_ngQ6udZinj8"
       },
       "medien" : [
         {
@@ -5347,14 +5405,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1110091371",
         "spotify" : "https://open.spotify.com/intl-de/album/5Dlq8pYslsD1dstLQR7NFw",
         "amazonMusic" : "https://music.amazon.de/albums/B01F2KULAQ",
-        "amazon" : "https://www.amazon.de/gp/product/B0071J7IVC"
+        "amazon" : "https://www.amazon.de/gp/product/B0071J7IVC",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_US432ZjRrZy"
       },
       "ids" : {
         "dreimetadaten" : 338,
         "appleMusic" : "1110091371",
         "spotify" : "5Dlq8pYslsD1dstLQR7NFw",
         "amazonMusic" : "B01F2KULAQ",
-        "amazon" : "B0071J7IVC"
+        "amazon" : "B0071J7IVC",
+        "youTubeMusic" : "MPREb_US432ZjRrZy"
       },
       "medien" : [
         {
@@ -5511,14 +5571,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1110094649",
         "spotify" : "https://open.spotify.com/intl-de/album/49GuQzqAa08WMB8fjtEBj4",
         "amazonMusic" : "https://music.amazon.de/albums/B01F2KTZ8U",
-        "amazon" : "https://www.amazon.de/gp/product/B009TBIKA8"
+        "amazon" : "https://www.amazon.de/gp/product/B009TBIKA8",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_zwoaZSTMxLv"
       },
       "ids" : {
         "dreimetadaten" : 339,
         "appleMusic" : "1110094649",
         "spotify" : "49GuQzqAa08WMB8fjtEBj4",
         "amazonMusic" : "B01F2KTZ8U",
-        "amazon" : "B009TBIKA8"
+        "amazon" : "B009TBIKA8",
+        "youTubeMusic" : "MPREb_zwoaZSTMxLv"
       },
       "medien" : [
         {
@@ -5676,14 +5738,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1112948510",
         "spotify" : "https://open.spotify.com/intl-de/album/3UzZjgfXxnjPigAfCYQCr5",
         "amazonMusic" : "https://music.amazon.de/albums/B01FI9683U",
-        "amazon" : "https://www.amazon.de/gp/product/B009TBIL1G"
+        "amazon" : "https://www.amazon.de/gp/product/B009TBIL1G",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_SQwVk2Sg2yx"
       },
       "ids" : {
         "dreimetadaten" : 340,
         "appleMusic" : "1112948510",
         "spotify" : "3UzZjgfXxnjPigAfCYQCr5",
         "amazonMusic" : "B01FI9683U",
-        "amazon" : "B009TBIL1G"
+        "amazon" : "B009TBIL1G",
+        "youTubeMusic" : "MPREb_SQwVk2Sg2yx"
       },
       "medien" : [
         {
@@ -5850,14 +5914,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1112966058",
         "spotify" : "https://open.spotify.com/intl-de/album/5cJ4xmPFjEhOCQIBoYwmWi",
         "amazonMusic" : "https://music.amazon.de/albums/B01FILYG1Y",
-        "amazon" : "https://www.amazon.de/gp/product/B00C25DK3A"
+        "amazon" : "https://www.amazon.de/gp/product/B00C25DK3A",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_4ZHO6Qgr4ok"
       },
       "ids" : {
         "dreimetadaten" : 341,
         "appleMusic" : "1112966058",
         "spotify" : "5cJ4xmPFjEhOCQIBoYwmWi",
         "amazonMusic" : "B01FILYG1Y",
-        "amazon" : "B00C25DK3A"
+        "amazon" : "B00C25DK3A",
+        "youTubeMusic" : "MPREb_4ZHO6Qgr4ok"
       },
       "medien" : [
         {
@@ -6011,14 +6077,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1112966083",
         "spotify" : "https://open.spotify.com/intl-de/album/7ATza45Jb2B3MhSD0icgPi",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM5G0I",
-        "amazon" : "https://www.amazon.de/gp/product/B00D4FAK4E"
+        "amazon" : "https://www.amazon.de/gp/product/B00D4FAK4E",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_4R0yuf4xqZE"
       },
       "ids" : {
         "dreimetadaten" : 342,
         "appleMusic" : "1112966083",
         "spotify" : "7ATza45Jb2B3MhSD0icgPi",
         "amazonMusic" : "B01FIM5G0I",
-        "amazon" : "B00D4FAK4E"
+        "amazon" : "B00D4FAK4E",
+        "youTubeMusic" : "MPREb_4R0yuf4xqZE"
       },
       "medien" : [
         {
@@ -6184,14 +6252,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1112972954",
         "spotify" : "https://open.spotify.com/intl-de/album/1bK1QqLOaESZgs2pXYY4J6",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM5WP2",
-        "amazon" : "https://www.amazon.de/gp/product/B00D4FA6PW"
+        "amazon" : "https://www.amazon.de/gp/product/B00D4FA6PW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_p1fsnhKSCjf"
       },
       "ids" : {
         "dreimetadaten" : 343,
         "appleMusic" : "1112972954",
         "spotify" : "1bK1QqLOaESZgs2pXYY4J6",
         "amazonMusic" : "B01FIM5WP2",
-        "amazon" : "B00D4FA6PW"
+        "amazon" : "B00D4FA6PW",
+        "youTubeMusic" : "MPREb_p1fsnhKSCjf"
       },
       "medien" : [
         {
@@ -6357,14 +6427,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1112988770",
         "spotify" : "https://open.spotify.com/intl-de/album/6GUPPV35zx22eO4g9tctKN",
         "amazonMusic" : "https://music.amazon.de/albums/B01FILYMAY",
-        "amazon" : "https://www.amazon.de/gp/product/B00D4F8Z8M"
+        "amazon" : "https://www.amazon.de/gp/product/B00D4F8Z8M",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_83DALQRIo8N"
       },
       "ids" : {
         "dreimetadaten" : 344,
         "appleMusic" : "1112988770",
         "spotify" : "6GUPPV35zx22eO4g9tctKN",
         "amazonMusic" : "B01FILYMAY",
-        "amazon" : "B00D4F8Z8M"
+        "amazon" : "B00D4F8Z8M",
+        "youTubeMusic" : "MPREb_83DALQRIo8N"
       },
       "medien" : [
         {
@@ -6530,14 +6602,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1112989580",
         "spotify" : "https://open.spotify.com/intl-de/album/24r6U8cWYIB4bQeMGhNB2Q",
         "amazonMusic" : "https://music.amazon.de/albums/B01FIM2NW2",
-        "amazon" : "https://www.amazon.de/gp/product/B00GDTICTS"
+        "amazon" : "https://www.amazon.de/gp/product/B00GDTICTS",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_WPEuqb5jr8g"
       },
       "ids" : {
         "dreimetadaten" : 345,
         "appleMusic" : "1112989580",
         "spotify" : "24r6U8cWYIB4bQeMGhNB2Q",
         "amazonMusic" : "B01FIM2NW2",
-        "amazon" : "B00GDTICTS"
+        "amazon" : "B00GDTICTS",
+        "youTubeMusic" : "MPREb_WPEuqb5jr8g"
       },
       "medien" : [
         {
@@ -6691,14 +6765,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1112998417",
         "spotify" : "https://open.spotify.com/intl-de/album/7o6y1qwFIJolo0ZKUpPTR9",
         "amazonMusic" : "https://music.amazon.de/albums/B01FJ28UAK",
-        "amazon" : "https://www.amazon.de/gp/product/B09KX1GYDH"
+        "amazon" : "https://www.amazon.de/gp/product/B09KX1GYDH",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_FScIUD8pada"
       },
       "ids" : {
         "dreimetadaten" : 346,
         "appleMusic" : "1112998417",
         "spotify" : "7o6y1qwFIJolo0ZKUpPTR9",
         "amazonMusic" : "B01FJ28UAK",
-        "amazon" : "B09KX1GYDH"
+        "amazon" : "B09KX1GYDH",
+        "youTubeMusic" : "MPREb_FScIUD8pada"
       },
       "medien" : [
         {
@@ -6851,14 +6927,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1115103972",
         "spotify" : "https://open.spotify.com/intl-de/album/6NkPN8kGJftA5ZURbZTKve",
         "amazonMusic" : "https://music.amazon.de/albums/B01FUGDGG8",
-        "amazon" : "https://www.amazon.de/gp/product/B00IGJOXEG"
+        "amazon" : "https://www.amazon.de/gp/product/B00IGJOXEG",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_bzfX5gGokE0"
       },
       "ids" : {
         "dreimetadaten" : 347,
         "appleMusic" : "1115103972",
         "spotify" : "6NkPN8kGJftA5ZURbZTKve",
         "amazonMusic" : "B01FUGDGG8",
-        "amazon" : "B00IGJOXEG"
+        "amazon" : "B00IGJOXEG",
+        "youTubeMusic" : "MPREb_bzfX5gGokE0"
       },
       "medien" : [
         {
@@ -7015,14 +7093,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1115104534",
         "spotify" : "https://open.spotify.com/intl-de/album/12IDORrv50mRmb7501PgiI",
         "amazonMusic" : "https://music.amazon.de/albums/B01FUGA6D4",
-        "amazon" : "https://www.amazon.de/gp/product/3803232589"
+        "amazon" : "https://www.amazon.de/gp/product/3803232589",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_z7QTMRLh4Id"
       },
       "ids" : {
         "dreimetadaten" : 348,
         "appleMusic" : "1115104534",
         "spotify" : "12IDORrv50mRmb7501PgiI",
         "amazonMusic" : "B01FUGA6D4",
-        "amazon" : "3803232589"
+        "amazon" : "3803232589",
+        "youTubeMusic" : "MPREb_z7QTMRLh4Id"
       },
       "medien" : [
         {
@@ -7150,14 +7230,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1134537437",
         "spotify" : "https://open.spotify.com/intl-de/album/3ixBUKtl7HtxSZECC3YnNb",
         "amazonMusic" : "https://music.amazon.de/albums/B01IG5NS90",
-        "amazon" : "https://www.amazon.de/gp/product/3803232902"
+        "amazon" : "https://www.amazon.de/gp/product/3803232902",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_wwT5ek0mAFz"
       },
       "ids" : {
         "dreimetadaten" : 349,
         "appleMusic" : "1134537437",
         "spotify" : "3ixBUKtl7HtxSZECC3YnNb",
         "amazonMusic" : "B01IG5NS90",
-        "amazon" : "3803232902"
+        "amazon" : "3803232902",
+        "youTubeMusic" : "MPREb_wwT5ek0mAFz"
       },
       "medien" : [
         {
@@ -7298,14 +7380,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1134540244",
         "spotify" : "https://open.spotify.com/intl-de/album/6sS4r99PFfzH6Gxc1Z3evg",
         "amazonMusic" : "https://music.amazon.de/albums/B01IG5G7HA",
-        "amazon" : "https://www.amazon.de/gp/product/3803232910"
+        "amazon" : "https://www.amazon.de/gp/product/3803232910",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_cV9ahgayLGm"
       },
       "ids" : {
         "dreimetadaten" : 350,
         "appleMusic" : "1134540244",
         "spotify" : "6sS4r99PFfzH6Gxc1Z3evg",
         "amazonMusic" : "B01IG5G7HA",
-        "amazon" : "3803232910"
+        "amazon" : "3803232910",
+        "youTubeMusic" : "MPREb_cV9ahgayLGm"
       },
       "medien" : [
         {
@@ -7449,14 +7533,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1134540248",
         "spotify" : "https://open.spotify.com/intl-de/album/5J0AsPaix5KTMNjTFpj624",
         "amazonMusic" : "https://music.amazon.de/albums/B01IG5JPSS",
-        "amazon" : "https://www.amazon.de/gp/product/B00P35TQ3Y"
+        "amazon" : "https://www.amazon.de/gp/product/B00P35TQ3Y",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_NtcD0oX7tKX"
       },
       "ids" : {
         "dreimetadaten" : 351,
         "appleMusic" : "1134540248",
         "spotify" : "5J0AsPaix5KTMNjTFpj624",
         "amazonMusic" : "B01IG5JPSS",
-        "amazon" : "B00P35TQ3Y"
+        "amazon" : "B00P35TQ3Y",
+        "youTubeMusic" : "MPREb_NtcD0oX7tKX"
       },
       "medien" : [
         {
@@ -7600,14 +7686,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1134543461",
         "spotify" : "https://open.spotify.com/intl-de/album/5fIxmzKdFvtbRIeRBEeptA",
         "amazonMusic" : "https://music.amazon.de/albums/B01IG5JFS8",
-        "amazon" : "https://www.amazon.de/gp/product/B00U35N6D0"
+        "amazon" : "https://www.amazon.de/gp/product/B00U35N6D0",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_PRzOGkP86hq"
       },
       "ids" : {
         "dreimetadaten" : 352,
         "appleMusic" : "1134543461",
         "spotify" : "5fIxmzKdFvtbRIeRBEeptA",
         "amazonMusic" : "B01IG5JFS8",
-        "amazon" : "B00U35N6D0"
+        "amazon" : "B00U35N6D0",
+        "youTubeMusic" : "MPREb_PRzOGkP86hq"
       },
       "medien" : [
         {
@@ -7769,14 +7857,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1134564507",
         "spotify" : "https://open.spotify.com/intl-de/album/4Al8xe9LlMxHWhIddbienL",
         "amazonMusic" : "https://music.amazon.de/albums/B01IG5FXYS",
-        "amazon" : "https://www.amazon.de/gp/product/B00VZQYW20"
+        "amazon" : "https://www.amazon.de/gp/product/B00VZQYW20",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_Cgu5jEP3oaj"
       },
       "ids" : {
         "dreimetadaten" : 353,
         "appleMusic" : "1134564507",
         "spotify" : "4Al8xe9LlMxHWhIddbienL",
         "amazonMusic" : "B01IG5FXYS",
-        "amazon" : "B00VZQYW20"
+        "amazon" : "B00VZQYW20",
+        "youTubeMusic" : "MPREb_Cgu5jEP3oaj"
       },
       "medien" : [
         {
@@ -7925,14 +8015,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1134546821",
         "spotify" : "https://open.spotify.com/intl-de/album/6eQDj0n1wU2dEXO7vr1Bmm",
         "amazonMusic" : "https://music.amazon.de/albums/B01IG5IT08",
-        "amazon" : "https://www.amazon.de/gp/product/B00VZQYZMW"
+        "amazon" : "https://www.amazon.de/gp/product/B00VZQYZMW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_1l8BdDRq43g"
       },
       "ids" : {
         "dreimetadaten" : 354,
         "appleMusic" : "1134546821",
         "spotify" : "6eQDj0n1wU2dEXO7vr1Bmm",
         "amazonMusic" : "B01IG5IT08",
-        "amazon" : "B00VZQYZMW"
+        "amazon" : "B00VZQYZMW",
+        "youTubeMusic" : "MPREb_1l8BdDRq43g"
       },
       "medien" : [
         {
@@ -8097,14 +8189,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1134560583",
         "spotify" : "https://open.spotify.com/intl-de/album/42cBTxTbzCzbYm0sd4VUxU",
         "amazonMusic" : "https://music.amazon.de/albums/B01IG5JX7G",
-        "amazon" : "https://www.amazon.de/gp/product/3803232961"
+        "amazon" : "https://www.amazon.de/gp/product/3803232961",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ytBVcAqtOd3"
       },
       "ids" : {
         "dreimetadaten" : 355,
         "appleMusic" : "1134560583",
         "spotify" : "42cBTxTbzCzbYm0sd4VUxU",
         "amazonMusic" : "B01IG5JX7G",
-        "amazon" : "3803232961"
+        "amazon" : "3803232961",
+        "youTubeMusic" : "MPREb_ytBVcAqtOd3"
       },
       "medien" : [
         {
@@ -8260,14 +8354,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1134548664",
         "spotify" : "https://open.spotify.com/intl-de/album/105UQAEjLpiqUCUK6x6i3g",
         "amazonMusic" : "https://music.amazon.de/albums/B01IG5G5TA",
-        "amazon" : "https://www.amazon.de/gp/product/B017E530DM"
+        "amazon" : "https://www.amazon.de/gp/product/B017E530DM",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ZRF0Kww4nbN"
       },
       "ids" : {
         "dreimetadaten" : 356,
         "appleMusic" : "1134548664",
         "spotify" : "105UQAEjLpiqUCUK6x6i3g",
         "amazonMusic" : "B01IG5G5TA",
-        "amazon" : "B017E530DM"
+        "amazon" : "B017E530DM",
+        "youTubeMusic" : "MPREb_ZRF0Kww4nbN"
       },
       "medien" : [
         {
@@ -8407,14 +8503,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1147619383",
         "spotify" : "https://open.spotify.com/intl-de/album/1cCB23DWt7mRHBFvTsX87C",
         "amazonMusic" : "https://music.amazon.de/albums/B01L9Q2A1K",
-        "amazon" : "https://www.amazon.de/gp/product/3803232988"
+        "amazon" : "https://www.amazon.de/gp/product/3803232988",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_MOYhThckvaG"
       },
       "ids" : {
         "dreimetadaten" : 357,
         "appleMusic" : "1147619383",
         "spotify" : "1cCB23DWt7mRHBFvTsX87C",
         "amazonMusic" : "B01L9Q2A1K",
-        "amazon" : "3803232988"
+        "amazon" : "3803232988",
+        "youTubeMusic" : "MPREb_MOYhThckvaG"
       },
       "medien" : [
         {
@@ -8559,14 +8657,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1147641684",
         "spotify" : "https://open.spotify.com/intl-de/album/7zUg7xSxAAkwntDiX1yhGJ",
         "amazonMusic" : "https://music.amazon.de/albums/B01L9Q3DSE",
-        "amazon" : "https://www.amazon.de/gp/product/3803232996"
+        "amazon" : "https://www.amazon.de/gp/product/3803232996",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_SNgWqzWfIOe"
       },
       "ids" : {
         "dreimetadaten" : 358,
         "appleMusic" : "1147641684",
         "spotify" : "7zUg7xSxAAkwntDiX1yhGJ",
         "amazonMusic" : "B01L9Q3DSE",
-        "amazon" : "3803232996"
+        "amazon" : "3803232996",
+        "youTubeMusic" : "MPREb_SNgWqzWfIOe"
       },
       "medien" : [
         {
@@ -8726,14 +8826,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1098177344",
         "spotify" : "https://open.spotify.com/intl-de/album/2Vu69KfWoS6eAzwnhqssWk",
         "amazonMusic" : "https://music.amazon.de/albums/B01DMXGTZ6",
-        "amazon" : "https://www.amazon.de/gp/product/3803260337"
+        "amazon" : "https://www.amazon.de/gp/product/3803260337",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_zhXiPSrJmAb"
       },
       "ids" : {
         "dreimetadaten" : 359,
         "appleMusic" : "1098177344",
         "spotify" : "2Vu69KfWoS6eAzwnhqssWk",
         "amazonMusic" : "B01DMXGTZ6",
-        "amazon" : "3803260337"
+        "amazon" : "3803260337",
+        "youTubeMusic" : "MPREb_zhXiPSrJmAb"
       },
       "medien" : [
         {
@@ -8869,14 +8971,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1108467631",
         "spotify" : "https://open.spotify.com/intl-de/album/6g5MSdVTrKY3f1ZzsqUhXw",
         "amazonMusic" : "https://music.amazon.de/albums/B01EY4QTRU",
-        "amazon" : "https://www.amazon.de/gp/product/3803260345"
+        "amazon" : "https://www.amazon.de/gp/product/3803260345",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_eRxyoMVvYd1"
       },
       "ids" : {
         "dreimetadaten" : 360,
         "appleMusic" : "1108467631",
         "spotify" : "6g5MSdVTrKY3f1ZzsqUhXw",
         "amazonMusic" : "B01EY4QTRU",
-        "amazon" : "3803260345"
+        "amazon" : "3803260345",
+        "youTubeMusic" : "MPREb_eRxyoMVvYd1"
       },
       "medien" : [
         {
@@ -9041,14 +9145,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1128771972",
         "spotify" : "https://open.spotify.com/intl-de/album/3ahySlDFUrzxatkaJUC2hV",
         "amazonMusic" : "https://music.amazon.de/albums/B01HOW0L0A",
-        "amazon" : "https://www.amazon.de/gp/product/3803260353"
+        "amazon" : "https://www.amazon.de/gp/product/3803260353",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_vee0Yu4adN2"
       },
       "ids" : {
         "dreimetadaten" : 361,
         "appleMusic" : "1128771972",
         "spotify" : "3ahySlDFUrzxatkaJUC2hV",
         "amazonMusic" : "B01HOW0L0A",
-        "amazon" : "3803260353"
+        "amazon" : "3803260353",
+        "youTubeMusic" : "MPREb_vee0Yu4adN2"
       },
       "medien" : [
         {
@@ -9210,14 +9316,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1149252060",
         "spotify" : "https://open.spotify.com/intl-de/album/4bM4QL65khBjHgvAEW1glL",
         "amazonMusic" : "https://music.amazon.de/albums/B01LGN6D2I",
-        "amazon" : "https://www.amazon.de/gp/product/3803260361"
+        "amazon" : "https://www.amazon.de/gp/product/3803260361",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_gMDvbFrkTWV"
       },
       "ids" : {
         "dreimetadaten" : 362,
         "appleMusic" : "1149252060",
         "spotify" : "4bM4QL65khBjHgvAEW1glL",
         "amazonMusic" : "B01LGN6D2I",
-        "amazon" : "3803260361"
+        "amazon" : "3803260361",
+        "youTubeMusic" : "MPREb_gMDvbFrkTWV"
       },
       "medien" : [
         {
@@ -9386,14 +9494,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1176893386",
         "spotify" : "https://open.spotify.com/intl-de/album/2UNXd8SieHWtTM5g0VMeGv",
         "amazonMusic" : "https://music.amazon.de/albums/B01N942EC5",
-        "amazon" : "https://www.amazon.de/gp/product/B01M6DL1LL"
+        "amazon" : "https://www.amazon.de/gp/product/B01M6DL1LL",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_rxpznp8mvbR"
       },
       "ids" : {
         "dreimetadaten" : 363,
         "appleMusic" : "1176893386",
         "spotify" : "2UNXd8SieHWtTM5g0VMeGv",
         "amazonMusic" : "B01N942EC5",
-        "amazon" : "B01M6DL1LL"
+        "amazon" : "B01M6DL1LL",
+        "youTubeMusic" : "MPREb_rxpznp8mvbR"
       },
       "medien" : [
         {
@@ -9546,14 +9656,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1193156639",
         "spotify" : "https://open.spotify.com/intl-de/album/0zmK2RPZSiThN6xwxDFNrL",
         "amazonMusic" : "https://music.amazon.de/albums/B01NBSW289",
-        "amazon" : "https://www.amazon.de/gp/product/3803260388"
+        "amazon" : "https://www.amazon.de/gp/product/3803260388",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_wFNoKVlJ7oe"
       },
       "ids" : {
         "dreimetadaten" : 364,
         "appleMusic" : "1193156639",
         "spotify" : "0zmK2RPZSiThN6xwxDFNrL",
         "amazonMusic" : "B01NBSW289",
-        "amazon" : "3803260388"
+        "amazon" : "3803260388",
+        "youTubeMusic" : "MPREb_wFNoKVlJ7oe"
       },
       "medien" : [
         {
@@ -9715,14 +9827,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1207844864",
         "spotify" : "https://open.spotify.com/intl-de/album/23RIS8PEXnZUs0AwqmstMS",
         "amazonMusic" : "https://music.amazon.de/albums/B06VXVLLXC",
-        "amazon" : "https://www.amazon.de/gp/product/3803260396"
+        "amazon" : "https://www.amazon.de/gp/product/3803260396",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_UqQ0KVJw9NC"
       },
       "ids" : {
         "dreimetadaten" : 365,
         "appleMusic" : "1207844864",
         "spotify" : "23RIS8PEXnZUs0AwqmstMS",
         "amazonMusic" : "B06VXVLLXC",
-        "amazon" : "3803260396"
+        "amazon" : "3803260396",
+        "youTubeMusic" : "MPREb_UqQ0KVJw9NC"
       },
       "medien" : [
         {
@@ -9886,14 +10000,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1207844655",
         "spotify" : "https://open.spotify.com/intl-de/album/2KpYeQgAWPq3skEUb1A8qb",
         "amazonMusic" : "https://music.amazon.de/albums/B06VXVJ79N",
-        "amazon" : "https://www.amazon.de/gp/product/380326040X"
+        "amazon" : "https://www.amazon.de/gp/product/380326040X",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_zvBTvJnvCgm"
       },
       "ids" : {
         "dreimetadaten" : 366,
         "appleMusic" : "1207844655",
         "spotify" : "2KpYeQgAWPq3skEUb1A8qb",
         "amazonMusic" : "B06VXVJ79N",
-        "amazon" : "380326040X"
+        "amazon" : "380326040X",
+        "youTubeMusic" : "MPREb_zvBTvJnvCgm"
       },
       "medien" : [
         {
@@ -10049,14 +10165,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1233233340",
         "spotify" : "https://open.spotify.com/intl-de/album/66YZOif5ogyl1O0rFT28HM",
         "amazonMusic" : "https://music.amazon.de/albums/B071959RJ3",
-        "amazon" : "https://www.amazon.de/gp/product/3803260418"
+        "amazon" : "https://www.amazon.de/gp/product/3803260418",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_I29xGC8boLJ"
       },
       "ids" : {
         "dreimetadaten" : 367,
         "appleMusic" : "1233233340",
         "spotify" : "66YZOif5ogyl1O0rFT28HM",
         "amazonMusic" : "B071959RJ3",
-        "amazon" : "3803260418"
+        "amazon" : "3803260418",
+        "youTubeMusic" : "MPREb_I29xGC8boLJ"
       },
       "medien" : [
         {
@@ -10220,14 +10338,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1257755625",
         "spotify" : "https://open.spotify.com/intl-de/album/5XKW97txqaNv82dIUDWf6D",
         "amazonMusic" : "https://music.amazon.de/albums/B073V3P2YG",
-        "amazon" : "https://www.amazon.de/gp/product/3803260426"
+        "amazon" : "https://www.amazon.de/gp/product/3803260426",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_0JJIIitrxLO"
       },
       "ids" : {
         "dreimetadaten" : 368,
         "appleMusic" : "1257755625",
         "spotify" : "5XKW97txqaNv82dIUDWf6D",
         "amazonMusic" : "B073V3P2YG",
-        "amazon" : "3803260426"
+        "amazon" : "3803260426",
+        "youTubeMusic" : "MPREb_0JJIIitrxLO"
       },
       "medien" : [
         {
@@ -10367,14 +10487,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1281905742",
         "spotify" : "https://open.spotify.com/intl-de/album/2ZQKn9GVeJalLEuh3BvuOB",
         "amazonMusic" : "https://music.amazon.de/albums/B075KDSFWX",
-        "amazon" : "https://www.amazon.de/gp/product/3803260434"
+        "amazon" : "https://www.amazon.de/gp/product/3803260434",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_N4BF83kMBwx"
       },
       "ids" : {
         "dreimetadaten" : 369,
         "appleMusic" : "1281905742",
         "spotify" : "2ZQKn9GVeJalLEuh3BvuOB",
         "amazonMusic" : "B075KDSFWX",
-        "amazon" : "3803260434"
+        "amazon" : "3803260434",
+        "youTubeMusic" : "MPREb_N4BF83kMBwx"
       },
       "medien" : [
         {
@@ -10523,14 +10645,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1321933872",
         "spotify" : "https://open.spotify.com/intl-de/album/3KD5QNC2k1328SsuYFIjiq",
         "amazonMusic" : "https://music.amazon.de/albums/B077Z55ZKX",
-        "amazon" : "https://www.amazon.de/gp/product/B0775CT31J"
+        "amazon" : "https://www.amazon.de/gp/product/B0775CT31J",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_QauJA3chtpC"
       },
       "ids" : {
         "dreimetadaten" : 370,
         "appleMusic" : "1321933872",
         "spotify" : "3KD5QNC2k1328SsuYFIjiq",
         "amazonMusic" : "B077Z55ZKX",
-        "amazon" : "B0775CT31J"
+        "amazon" : "B0775CT31J",
+        "youTubeMusic" : "MPREb_QauJA3chtpC"
       },
       "medien" : [
         {
@@ -10680,14 +10804,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1339183101",
         "spotify" : "https://open.spotify.com/intl-de/album/39QjW5XIE81HsWRjjyaVH0",
         "amazonMusic" : "https://music.amazon.de/albums/B07981KFZZ",
-        "amazon" : "https://www.amazon.de/gp/product/3803260450"
+        "amazon" : "https://www.amazon.de/gp/product/3803260450",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_dO8bUdWSjeB"
       },
       "ids" : {
         "dreimetadaten" : 371,
         "appleMusic" : "1339183101",
         "spotify" : "39QjW5XIE81HsWRjjyaVH0",
         "amazonMusic" : "B07981KFZZ",
-        "amazon" : "3803260450"
+        "amazon" : "3803260450",
+        "youTubeMusic" : "MPREb_dO8bUdWSjeB"
       },
       "medien" : [
         {
@@ -10842,14 +10968,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1349263233",
         "spotify" : "https://open.spotify.com/intl-de/album/6Om3zELCMatFreSN4FMeOG",
         "amazonMusic" : "https://music.amazon.de/albums/B079TZXN1R",
-        "amazon" : "https://www.amazon.de/gp/product/3803260469"
+        "amazon" : "https://www.amazon.de/gp/product/3803260469",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_NmBZxNq2bGz"
       },
       "ids" : {
         "dreimetadaten" : 372,
         "appleMusic" : "1349263233",
         "spotify" : "6Om3zELCMatFreSN4FMeOG",
         "amazonMusic" : "B079TZXN1R",
-        "amazon" : "3803260469"
+        "amazon" : "3803260469",
+        "youTubeMusic" : "MPREb_NmBZxNq2bGz"
       },
       "medien" : [
         {
@@ -11032,14 +11160,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1373160803",
         "spotify" : "https://open.spotify.com/intl-de/album/4ErYqkUdfkAmsgltEPJKH7",
         "amazonMusic" : "https://music.amazon.de/albums/B07C7XBGTK",
-        "amazon" : "https://www.amazon.de/gp/product/3803260477"
+        "amazon" : "https://www.amazon.de/gp/product/3803260477",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_a6U29oVTOMn"
       },
       "ids" : {
         "dreimetadaten" : 373,
         "appleMusic" : "1373160803",
         "spotify" : "4ErYqkUdfkAmsgltEPJKH7",
         "amazonMusic" : "B07C7XBGTK",
-        "amazon" : "3803260477"
+        "amazon" : "3803260477",
+        "youTubeMusic" : "MPREb_a6U29oVTOMn"
       },
       "medien" : [
         {
@@ -11214,14 +11344,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1406277822",
         "spotify" : "https://open.spotify.com/intl-de/album/6xSlKWjaEpc6SMJ69uVKYT",
         "amazonMusic" : "https://music.amazon.de/albums/B07F6B4258",
-        "amazon" : "https://www.amazon.de/gp/product/3803260485"
+        "amazon" : "https://www.amazon.de/gp/product/3803260485",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_4m0FNgRD8US"
       },
       "ids" : {
         "dreimetadaten" : 374,
         "appleMusic" : "1406277822",
         "spotify" : "6xSlKWjaEpc6SMJ69uVKYT",
         "amazonMusic" : "B07F6B4258",
-        "amazon" : "3803260485"
+        "amazon" : "3803260485",
+        "youTubeMusic" : "MPREb_4m0FNgRD8US"
       },
       "medien" : [
         {
@@ -11384,14 +11516,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1436948056",
         "spotify" : "https://open.spotify.com/intl-de/album/5qvokPibHLO3e47oV4wyhz",
         "amazonMusic" : "https://music.amazon.de/albums/B07HK8RRJ1",
-        "amazon" : "https://www.amazon.de/gp/product/3803260493"
+        "amazon" : "https://www.amazon.de/gp/product/3803260493",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_d13Y1wDz18K"
       },
       "ids" : {
         "dreimetadaten" : 375,
         "appleMusic" : "1436948056",
         "spotify" : "5qvokPibHLO3e47oV4wyhz",
         "amazonMusic" : "B07HK8RRJ1",
-        "amazon" : "3803260493"
+        "amazon" : "3803260493",
+        "youTubeMusic" : "MPREb_d13Y1wDz18K"
       },
       "medien" : [
         {
@@ -11578,14 +11712,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1441756871",
         "spotify" : "https://open.spotify.com/intl-de/album/0zDRwoqvJYhvfhcvQYzfcZ",
         "amazonMusic" : "https://music.amazon.de/albums/B07KCPSM2M",
-        "amazon" : "https://www.amazon.de/gp/product/B07KZ36GY1"
+        "amazon" : "https://www.amazon.de/gp/product/B07KZ36GY1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_DZHkdxAMPLg"
       },
       "ids" : {
         "dreimetadaten" : 376,
         "appleMusic" : "1441756871",
         "spotify" : "0zDRwoqvJYhvfhcvQYzfcZ",
         "amazonMusic" : "B07KCPSM2M",
-        "amazon" : "B07KZ36GY1"
+        "amazon" : "B07KZ36GY1",
+        "youTubeMusic" : "MPREb_DZHkdxAMPLg"
       },
       "medien" : [
         {
@@ -11756,14 +11892,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1449570341",
         "spotify" : "https://open.spotify.com/intl-de/album/6QpCsN1do9sWdzxMzP6vAm",
         "amazonMusic" : "https://music.amazon.de/albums/B07MTFTBZS",
-        "amazon" : "https://www.amazon.de/gp/product/B07KZ4MP9F"
+        "amazon" : "https://www.amazon.de/gp/product/B07KZ4MP9F",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_s9yOmltsASh"
       },
       "ids" : {
         "dreimetadaten" : 377,
         "appleMusic" : "1449570341",
         "spotify" : "6QpCsN1do9sWdzxMzP6vAm",
         "amazonMusic" : "B07MTFTBZS",
-        "amazon" : "B07KZ4MP9F"
+        "amazon" : "B07KZ4MP9F",
+        "youTubeMusic" : "MPREb_s9yOmltsASh"
       },
       "medien" : [
         {
@@ -11930,14 +12068,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1458535921",
         "spotify" : "https://open.spotify.com/intl-de/album/1ntNbHEo93jDj2JgZtLMrS",
         "amazonMusic" : "https://music.amazon.de/albums/B07Q4YRLYZ",
-        "amazon" : "https://www.amazon.de/gp/product/3803260531"
+        "amazon" : "https://www.amazon.de/gp/product/3803260531",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_PSKg045rpV2"
       },
       "ids" : {
         "dreimetadaten" : 378,
         "appleMusic" : "1458535921",
         "spotify" : "1ntNbHEo93jDj2JgZtLMrS",
         "amazonMusic" : "B07Q4YRLYZ",
-        "amazon" : "3803260531"
+        "amazon" : "3803260531",
+        "youTubeMusic" : "MPREb_PSKg045rpV2"
       },
       "medien" : [
         {
@@ -12119,14 +12259,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1463752980",
         "spotify" : "https://open.spotify.com/intl-de/album/1RrOzTtLYceG05edrb7YNQ",
         "amazonMusic" : "https://music.amazon.de/albums/B07RT5GVYC",
-        "amazon" : "https://www.amazon.de/gp/product/B07QMB57LN"
+        "amazon" : "https://www.amazon.de/gp/product/B07QMB57LN",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_0fgeyhp81js"
       },
       "ids" : {
         "dreimetadaten" : 379,
         "appleMusic" : "1463752980",
         "spotify" : "1RrOzTtLYceG05edrb7YNQ",
         "amazonMusic" : "B07RT5GVYC",
-        "amazon" : "B07QMB57LN"
+        "amazon" : "B07QMB57LN",
+        "youTubeMusic" : "MPREb_0fgeyhp81js"
       },
       "medien" : [
         {
@@ -12289,14 +12431,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1471657941",
         "spotify" : "https://open.spotify.com/intl-de/album/0xynCTUxYMlBA1IcPfAgKq",
         "amazonMusic" : "https://music.amazon.de/albums/B07TTV4HKD",
-        "amazon" : "https://www.amazon.de/gp/product/3803260558"
+        "amazon" : "https://www.amazon.de/gp/product/3803260558",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_cB2YxPwYOkb"
       },
       "ids" : {
         "dreimetadaten" : 380,
         "appleMusic" : "1471657941",
         "spotify" : "0xynCTUxYMlBA1IcPfAgKq",
         "amazonMusic" : "B07TTV4HKD",
-        "amazon" : "3803260558"
+        "amazon" : "3803260558",
+        "youTubeMusic" : "MPREb_cB2YxPwYOkb"
       },
       "medien" : [
         {
@@ -12479,14 +12623,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1479539513",
         "spotify" : "https://open.spotify.com/intl-de/album/7JrHsowbMVguSku3JG2tLS",
         "amazonMusic" : "https://music.amazon.de/albums/B07XQGQTFF",
-        "amazon" : "https://www.amazon.de/gp/product/3803260566"
+        "amazon" : "https://www.amazon.de/gp/product/3803260566",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_eVuiMtMewlt"
       },
       "ids" : {
         "dreimetadaten" : 381,
         "appleMusic" : "1479539513",
         "spotify" : "7JrHsowbMVguSku3JG2tLS",
         "amazonMusic" : "B07XQGQTFF",
-        "amazon" : "3803260566"
+        "amazon" : "3803260566",
+        "youTubeMusic" : "MPREb_eVuiMtMewlt"
       },
       "medien" : [
         {
@@ -12647,14 +12793,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1488586881",
         "spotify" : "https://open.spotify.com/intl-de/album/7KEMmRYdYTyOkHaoocjwp7",
         "amazonMusic" : "https://music.amazon.de/albums/B081VMC5LF",
-        "amazon" : "https://www.amazon.de/gp/product/B07ZWBQK5K"
+        "amazon" : "https://www.amazon.de/gp/product/B07ZWBQK5K",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_2RRMBUt3pQe"
       },
       "ids" : {
         "dreimetadaten" : 382,
         "appleMusic" : "1488586881",
         "spotify" : "7KEMmRYdYTyOkHaoocjwp7",
         "amazonMusic" : "B081VMC5LF",
-        "amazon" : "B07ZWBQK5K"
+        "amazon" : "B07ZWBQK5K",
+        "youTubeMusic" : "MPREb_2RRMBUt3pQe"
       },
       "medien" : [
         {
@@ -12823,14 +12971,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1495018958",
         "spotify" : "https://open.spotify.com/intl-de/album/4M3VGzWy7xxm93zGw0xqAU",
         "amazonMusic" : "https://music.amazon.de/albums/B083WP4CD6",
-        "amazon" : "https://www.amazon.de/gp/product/3803260582"
+        "amazon" : "https://www.amazon.de/gp/product/3803260582",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_T9rn4fKWQaY"
       },
       "ids" : {
         "dreimetadaten" : 383,
         "appleMusic" : "1495018958",
         "spotify" : "4M3VGzWy7xxm93zGw0xqAU",
         "amazonMusic" : "B083WP4CD6",
-        "amazon" : "3803260582"
+        "amazon" : "3803260582",
+        "youTubeMusic" : "MPREb_T9rn4fKWQaY"
       },
       "medien" : [
         {
@@ -13000,14 +13150,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1501322284",
         "spotify" : "https://open.spotify.com/intl-de/album/6nSehzQCvelIRQu84k5N7E",
         "amazonMusic" : "https://music.amazon.de/albums/B085DW8M19",
-        "amazon" : "https://www.amazon.de/gp/product/3803260590"
+        "amazon" : "https://www.amazon.de/gp/product/3803260590",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_5dzynL9gO98"
       },
       "ids" : {
         "dreimetadaten" : 384,
         "appleMusic" : "1501322284",
         "spotify" : "6nSehzQCvelIRQu84k5N7E",
         "amazonMusic" : "B085DW8M19",
-        "amazon" : "3803260590"
+        "amazon" : "3803260590",
+        "youTubeMusic" : "MPREb_5dzynL9gO98"
       },
       "medien" : [
         {
@@ -13160,14 +13312,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1515518227",
         "spotify" : "https://open.spotify.com/intl-de/album/75If2drFgUUJdC6eQ0dZYl",
         "amazonMusic" : "https://music.amazon.de/albums/B0897YKYB7",
-        "amazon" : "https://www.amazon.de/gp/product/B087HDY51G"
+        "amazon" : "https://www.amazon.de/gp/product/B087HDY51G",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_eTgUjV1iLMQ"
       },
       "ids" : {
         "dreimetadaten" : 385,
         "appleMusic" : "1515518227",
         "spotify" : "75If2drFgUUJdC6eQ0dZYl",
         "amazonMusic" : "B0897YKYB7",
-        "amazon" : "B087HDY51G"
+        "amazon" : "B087HDY51G",
+        "youTubeMusic" : "MPREb_eTgUjV1iLMQ"
       },
       "medien" : [
         {
@@ -13329,14 +13483,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1524265516",
         "spotify" : "https://open.spotify.com/intl-de/album/15aFL9eaT1bjrURanvEKEn",
         "amazonMusic" : "https://music.amazon.de/albums/B08D9LV999",
-        "amazon" : "https://www.amazon.de/gp/product/3803260612"
+        "amazon" : "https://www.amazon.de/gp/product/3803260612",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_WDn1liHCfSR"
       },
       "ids" : {
         "dreimetadaten" : 386,
         "appleMusic" : "1524265516",
         "spotify" : "15aFL9eaT1bjrURanvEKEn",
         "amazonMusic" : "B08D9LV999",
-        "amazon" : "3803260612"
+        "amazon" : "3803260612",
+        "youTubeMusic" : "MPREb_WDn1liHCfSR"
       },
       "medien" : [
         {
@@ -13490,14 +13646,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1530167507",
         "spotify" : "https://open.spotify.com/intl-de/album/5GOZBi4hHD6rvJI1zp7ryf",
         "amazonMusic" : "https://music.amazon.de/albums/B08H8S68KG",
-        "amazon" : "https://www.amazon.de/gp/product/3803260620"
+        "amazon" : "https://www.amazon.de/gp/product/3803260620",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_7TnBFEIKVdh"
       },
       "ids" : {
         "dreimetadaten" : 387,
         "appleMusic" : "1530167507",
         "spotify" : "5GOZBi4hHD6rvJI1zp7ryf",
         "amazonMusic" : "B08H8S68KG",
-        "amazon" : "3803260620"
+        "amazon" : "3803260620",
+        "youTubeMusic" : "MPREb_7TnBFEIKVdh"
       },
       "medien" : [
         {
@@ -13675,14 +13833,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1539905640",
         "spotify" : "https://open.spotify.com/intl-de/album/5EeUZitOFX7Nad5yp2CFud",
         "amazonMusic" : "https://music.amazon.de/albums/B08N6X44JT",
-        "amazon" : "https://www.amazon.de/gp/product/B08M21XL33"
+        "amazon" : "https://www.amazon.de/gp/product/B08M21XL33",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_yfoq49xVBcc"
       },
       "ids" : {
         "dreimetadaten" : 388,
         "appleMusic" : "1539905640",
         "spotify" : "5EeUZitOFX7Nad5yp2CFud",
         "amazonMusic" : "B08N6X44JT",
-        "amazon" : "B08M21XL33"
+        "amazon" : "B08M21XL33",
+        "youTubeMusic" : "MPREb_yfoq49xVBcc"
       },
       "medien" : [
         {
@@ -13848,14 +14008,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1549188908",
         "spotify" : "https://open.spotify.com/intl-de/album/3NOIKGCYKsL3nCCgzksldt",
         "amazonMusic" : "https://music.amazon.de/albums/B08T6HJN4L",
-        "amazon" : "https://www.amazon.de/gp/product/B08Q5QGG1S"
+        "amazon" : "https://www.amazon.de/gp/product/B08Q5QGG1S",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_LX6mspETFMR"
       },
       "ids" : {
         "dreimetadaten" : 389,
         "appleMusic" : "1549188908",
         "spotify" : "3NOIKGCYKsL3nCCgzksldt",
         "amazonMusic" : "B08T6HJN4L",
-        "amazon" : "B08Q5QGG1S"
+        "amazon" : "B08Q5QGG1S",
+        "youTubeMusic" : "MPREb_LX6mspETFMR"
       },
       "medien" : [
         {
@@ -14020,14 +14182,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1559050329",
         "spotify" : "https://open.spotify.com/intl-de/album/5n6gdqMbunkR1J0MhqTaV8",
         "amazonMusic" : "https://music.amazon.de/albums/B08ZHR44P1",
-        "amazon" : "https://www.amazon.de/gp/product/B08WTBPT54"
+        "amazon" : "https://www.amazon.de/gp/product/B08WTBPT54",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_q26yrtNp5jc"
       },
       "ids" : {
         "dreimetadaten" : 390,
         "appleMusic" : "1559050329",
         "spotify" : "5n6gdqMbunkR1J0MhqTaV8",
         "amazonMusic" : "B08ZHR44P1",
-        "amazon" : "B08WTBPT54"
+        "amazon" : "B08WTBPT54",
+        "youTubeMusic" : "MPREb_q26yrtNp5jc"
       },
       "medien" : [
         {
@@ -14178,14 +14342,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1568955355",
         "spotify" : "https://open.spotify.com/intl-de/album/0rjlBTxlkcd3aFoYS1HPCn",
         "amazonMusic" : "https://music.amazon.de/albums/B0957RJP5X",
-        "amazon" : "https://www.amazon.de/gp/product/B0931QRK1M"
+        "amazon" : "https://www.amazon.de/gp/product/B0931QRK1M",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ecFuQBFHS0A"
       },
       "ids" : {
         "dreimetadaten" : 391,
         "appleMusic" : "1568955355",
         "spotify" : "0rjlBTxlkcd3aFoYS1HPCn",
         "amazonMusic" : "B0957RJP5X",
-        "amazon" : "B0931QRK1M"
+        "amazon" : "B0931QRK1M",
+        "youTubeMusic" : "MPREb_ecFuQBFHS0A"
       },
       "medien" : [
         {
@@ -14352,14 +14518,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1576834649",
         "spotify" : "https://open.spotify.com/intl-de/album/11uIA0NksKWJ2xjjTMvO8x",
         "amazonMusic" : "https://music.amazon.de/albums/B099NKP6X5",
-        "amazon" : "https://www.amazon.de/gp/product/3803260671"
+        "amazon" : "https://www.amazon.de/gp/product/3803260671",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_byodPGO4lHc"
       },
       "ids" : {
         "dreimetadaten" : 392,
         "appleMusic" : "1576834649",
         "spotify" : "11uIA0NksKWJ2xjjTMvO8x",
         "amazonMusic" : "B099NKP6X5",
-        "amazon" : "3803260671"
+        "amazon" : "3803260671",
+        "youTubeMusic" : "MPREb_byodPGO4lHc"
       },
       "medien" : [
         {
@@ -14520,14 +14688,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1587166954",
         "spotify" : "https://open.spotify.com/intl-de/album/2FRfGv6pQommVYHmqJKqU5",
         "amazonMusic" : "https://music.amazon.de/albums/B09GZS3SXD",
-        "amazon" : "https://www.amazon.de/gp/product/380326068X"
+        "amazon" : "https://www.amazon.de/gp/product/380326068X",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_XGtfaq1cENi"
       },
       "ids" : {
         "dreimetadaten" : 393,
         "appleMusic" : "1587166954",
         "spotify" : "2FRfGv6pQommVYHmqJKqU5",
         "amazonMusic" : "B09GZS3SXD",
-        "amazon" : "380326068X"
+        "amazon" : "380326068X",
+        "youTubeMusic" : "MPREb_XGtfaq1cENi"
       },
       "medien" : [
         {
@@ -14692,14 +14862,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1596439738",
         "spotify" : "https://open.spotify.com/intl-de/album/3CVr8yD3EmmbTAD3mgdkst",
         "amazonMusic" : "https://music.amazon.de/albums/B09M8WC32Y",
-        "amazon" : "https://www.amazon.de/gp/product/B09HL3TTC5"
+        "amazon" : "https://www.amazon.de/gp/product/B09HL3TTC5",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_0Js5cmNfBYc"
       },
       "ids" : {
         "dreimetadaten" : 394,
         "appleMusic" : "1596439738",
         "spotify" : "3CVr8yD3EmmbTAD3mgdkst",
         "amazonMusic" : "B09M8WC32Y",
-        "amazon" : "B09HL3TTC5"
+        "amazon" : "B09HL3TTC5",
+        "youTubeMusic" : "MPREb_0Js5cmNfBYc"
       },
       "medien" : [
         {
@@ -14848,14 +15020,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1606704347",
         "spotify" : "https://open.spotify.com/intl-de/album/3M7f1Ta7DdY49Cj0bsHchW",
         "amazonMusic" : "https://music.amazon.de/albums/B09R1YS463",
-        "amazon" : "https://www.amazon.de/gp/product/B09LGTRV89"
+        "amazon" : "https://www.amazon.de/gp/product/B09LGTRV89",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ha5lYYtp6sQ"
       },
       "ids" : {
         "dreimetadaten" : 395,
         "appleMusic" : "1606704347",
         "spotify" : "3M7f1Ta7DdY49Cj0bsHchW",
         "amazonMusic" : "B09R1YS463",
-        "amazon" : "B09LGTRV89"
+        "amazon" : "B09LGTRV89",
+        "youTubeMusic" : "MPREb_ha5lYYtp6sQ"
       },
       "medien" : [
         {
@@ -15011,14 +15185,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1613788881",
         "spotify" : "https://open.spotify.com/intl-de/album/1wzirotAAliqPA1p0GPl08",
         "amazonMusic" : "https://music.amazon.de/albums/B09VBX3LRY",
-        "amazon" : "https://www.amazon.de/gp/product/380326071X"
+        "amazon" : "https://www.amazon.de/gp/product/380326071X",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_vijWYBEtc34"
       },
       "ids" : {
         "dreimetadaten" : 396,
         "appleMusic" : "1613788881",
         "spotify" : "1wzirotAAliqPA1p0GPl08",
         "amazonMusic" : "B09VBX3LRY",
-        "amazon" : "380326071X"
+        "amazon" : "380326071X",
+        "youTubeMusic" : "MPREb_vijWYBEtc34"
       },
       "medien" : [
         {
@@ -15186,14 +15362,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1683337782",
         "spotify" : "https://open.spotify.com/intl-de/album/7HIZJWnLo11Fsv68HPhjgj",
         "amazonMusic" : "https://music.amazon.de/albums/B0C2ZQ5HXD",
-        "amazon" : "https://www.amazon.de/gp/product/B09YHS9HVB"
+        "amazon" : "https://www.amazon.de/gp/product/B09YHS9HVB",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_T1ZroTQdwee"
       },
       "ids" : {
         "dreimetadaten" : 397,
         "appleMusic" : "1683337782",
         "spotify" : "7HIZJWnLo11Fsv68HPhjgj",
         "amazonMusic" : "B0C2ZQ5HXD",
-        "amazon" : "B09YHS9HVB"
+        "amazon" : "B09YHS9HVB",
+        "youTubeMusic" : "MPREb_T1ZroTQdwee"
       },
       "medien" : [
         {
@@ -15358,14 +15536,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1683339484",
         "spotify" : "https://open.spotify.com/intl-de/album/41Wrbk3iySSFbBnbixychu",
         "amazonMusic" : "https://music.amazon.de/albums/B0C2ZPNS7K",
-        "amazon" : "https://www.amazon.de/gp/product/3803260736"
+        "amazon" : "https://www.amazon.de/gp/product/3803260736",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_SQKUBRxL24l"
       },
       "ids" : {
         "dreimetadaten" : 398,
         "appleMusic" : "1683339484",
         "spotify" : "41Wrbk3iySSFbBnbixychu",
         "amazonMusic" : "B0C2ZPNS7K",
-        "amazon" : "3803260736"
+        "amazon" : "3803260736",
+        "youTubeMusic" : "MPREb_SQKUBRxL24l"
       },
       "medien" : [
         {
@@ -15517,14 +15697,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1752873259",
         "spotify" : "https://open.spotify.com/intl-de/album/3cbOXb1xkJF65KRjBBqlmL",
         "amazonMusic" : "https://music.amazon.de/albums/B0C2ZMWZPF",
-        "amazon" : "https://www.amazon.de/gp/product/3803260744"
+        "amazon" : "https://www.amazon.de/gp/product/3803260744",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_IyFSoSP9Pk2"
       },
       "ids" : {
         "dreimetadaten" : 399,
         "appleMusic" : "1752873259",
         "spotify" : "3cbOXb1xkJF65KRjBBqlmL",
         "amazonMusic" : "B0C2ZMWZPF",
-        "amazon" : "3803260744"
+        "amazon" : "3803260744",
+        "youTubeMusic" : "MPREb_IyFSoSP9Pk2"
       },
       "medien" : [
         {
@@ -15681,14 +15863,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1752884104",
         "spotify" : "https://open.spotify.com/intl-de/album/4793v2qgBpisdJjWcSCjt2",
         "amazonMusic" : "https://music.amazon.de/albums/B0C4FNJW6Y",
-        "amazon" : "https://www.amazon.de/gp/product/3803260752"
+        "amazon" : "https://www.amazon.de/gp/product/3803260752",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_DUUZCUvM4PN"
       },
       "ids" : {
         "dreimetadaten" : 400,
         "appleMusic" : "1752884104",
         "spotify" : "4793v2qgBpisdJjWcSCjt2",
         "amazonMusic" : "B0C4FNJW6Y",
-        "amazon" : "3803260752"
+        "amazon" : "3803260752",
+        "youTubeMusic" : "MPREb_DUUZCUvM4PN"
       },
       "medien" : [
         {
@@ -15795,14 +15979,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1752883023",
         "spotify" : "https://open.spotify.com/intl-de/album/6FLO3ExDCl0GwkzjCQGq0x",
         "amazonMusic" : "https://music.amazon.de/albums/B0CBKGYN17",
-        "amazon" : "https://www.amazon.de/gp/product/3803260760"
+        "amazon" : "https://www.amazon.de/gp/product/3803260760",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_hm8CRqa8D1z"
       },
       "ids" : {
         "dreimetadaten" : 401,
         "appleMusic" : "1752883023",
         "spotify" : "6FLO3ExDCl0GwkzjCQGq0x",
         "amazonMusic" : "B0CBKGYN17",
-        "amazon" : "3803260760"
+        "amazon" : "3803260760",
+        "youTubeMusic" : "MPREb_hm8CRqa8D1z"
       },
       "unvollständig" : true
     },
@@ -15875,14 +16061,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1696317849",
         "spotify" : "https://open.spotify.com/intl-de/album/4I3xNROKxdLC2GFcpp8o2R",
         "amazonMusic" : "https://music.amazon.de/albums/B0CLM37Y9F",
-        "amazon" : "https://www.amazon.de/gp/product/3803260779"
+        "amazon" : "https://www.amazon.de/gp/product/3803260779",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_T1wG9f36MYp"
       },
       "ids" : {
         "dreimetadaten" : 402,
         "appleMusic" : "1696317849",
         "spotify" : "4I3xNROKxdLC2GFcpp8o2R",
         "amazonMusic" : "B0CLM37Y9F",
-        "amazon" : "3803260779"
+        "amazon" : "3803260779",
+        "youTubeMusic" : "MPREb_T1wG9f36MYp"
       },
       "unvollständig" : true
     },
@@ -15959,14 +16147,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1752882887",
         "spotify" : "https://open.spotify.com/intl-de/album/3xIGmydqrJOShru5bQmSVa",
         "amazonMusic" : "https://music.amazon.de/albums/B0CQPHMYT2",
-        "amazon" : "https://www.amazon.de/gp/product/B0CM55379Q"
+        "amazon" : "https://www.amazon.de/gp/product/B0CM55379Q",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_AFqOn4hH4Xk"
       },
       "ids" : {
         "dreimetadaten" : 403,
         "appleMusic" : "1752882887",
         "spotify" : "3xIGmydqrJOShru5bQmSVa",
         "amazonMusic" : "B0CQPHMYT2",
-        "amazon" : "B0CM55379Q"
+        "amazon" : "B0CM55379Q",
+        "youTubeMusic" : "MPREb_AFqOn4hH4Xk"
       },
       "unvollständig" : true
     },
@@ -16039,14 +16229,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1752883247",
         "spotify" : "https://open.spotify.com/intl-de/album/4MvsJSPLzWm6irgVI2PXfo",
         "amazonMusic" : "https://music.amazon.de/albums/B0CYDMQ5YF",
-        "amazon" : "https://www.amazon.de/gp/product/3803260795"
+        "amazon" : "https://www.amazon.de/gp/product/3803260795",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_SG88zG4JQkl"
       },
       "ids" : {
         "dreimetadaten" : 404,
         "appleMusic" : "1752883247",
         "spotify" : "4MvsJSPLzWm6irgVI2PXfo",
         "amazonMusic" : "B0CYDMQ5YF",
-        "amazon" : "3803260795"
+        "amazon" : "3803260795",
+        "youTubeMusic" : "MPREb_SG88zG4JQkl"
       },
       "unvollständig" : true
     },
@@ -16107,14 +16299,16 @@
         "appleMusic" : "https://music.apple.com/de/album/1758038649",
         "spotify" : "https://open.spotify.com/intl-de/album/0pIth1U2QD7sdvjt4xpRvS",
         "amazonMusic" : "https://music.amazon.de/albums/B0D9QBZ2SY",
-        "amazon" : "https://www.amazon.de/gp/product/3803260809"
+        "amazon" : "https://www.amazon.de/gp/product/3803260809",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_wVmLQHMEe8s"
       },
       "ids" : {
         "dreimetadaten" : 405,
         "appleMusic" : "1758038649",
         "spotify" : "0pIth1U2QD7sdvjt4xpRvS",
         "amazonMusic" : "B0D9QBZ2SY",
-        "amazon" : "3803260809"
+        "amazon" : "3803260809",
+        "youTubeMusic" : "MPREb_wVmLQHMEe8s"
       },
       "unvollständig" : true
     }
