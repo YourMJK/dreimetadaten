@@ -86,6 +86,7 @@ extension MetadataRelationalModel {
 		var idBookbeat: String?
 		var idAmazonMusic: String?
 		var idAmazon: String?
+		var idYouTubeMusic: String?
 	}
 	
 	struct HörspielTeil: Codable {
