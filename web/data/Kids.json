@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.4.0",
-    "lastModified" : "2024-10-14T02:06:01Z"
+    "version" : "2.4.1",
+    "lastModified" : "2024-10-16T01:44:56Z"
   },
   "kids" : [
     {
@@ -5299,6 +5299,32 @@
       ]
     },
     {
+      "titel" : "Adventskalender",
+      "autor" : "Ulf Blanck",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "beschreibung" : "Weihnachten steht vor der Tür und auf Justus, Peter und Bob warten 24 spannende Abenteuer. Jeden Tag stehen die drei ??? Kids vor einem neuen rätselhaften Fall. Findest auch du die Täter und kannst die verzwickten Ratekrimis lösen? Doch Vorsicht! Denn dabei geht es nicht nur um geklaute Tannenbäume …",
+      "veröffentlichungsdatum" : "2012-11-30",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/Adventskalender/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music115/v4/95/95/f3/9595f34b-7bfb-c283-92d5-a5c5851c8c2b/886447023242.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/adventskalender-3",
+        "appleMusic" : "https://music.apple.com/de/album/1406309686",
+        "spotify" : "https://open.spotify.com/intl-de/album/0Pg0kbjNl7PC22ghcSqKih-40",
+        "amazonMusic" : "https://music.amazon.de/albums/B07F6F4PMH",
+        "amazon" : "https://www.amazon.de/gp/product/3803231175",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_dVGHbrL7AoF"
+      },
+      "ids" : {
+        "dreimetadaten" : 406,
+        "appleMusic" : "1406309686",
+        "spotify" : "0Pg0kbjNl7PC22ghcSqKih-40",
+        "amazonMusic" : "B07F6F4PMH",
+        "amazon" : "3803231175",
+        "youTubeMusic" : "MPREb_dVGHbrL7AoF"
+      },
+      "unvollständig" : true
+    },
+    {
       "nummer" : 30,
       "titel" : "Im Geisterschiff",
       "autor" : "Ulf Blanck",
@@ -9205,6 +9231,58 @@
       ]
     },
     {
+      "titel" : "Adventskalender: Ein Rätsel in 24 Tagen",
+      "autor" : "Boris Pfeiffer",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "beschreibung" : "Vorweihnachtszeit in Rocky Beach. Ein riesiger, begehbarer Adventskalender ist die Attraktion auf dem Weihnachtsmarkt. Doch schon am ersten Tag steckt hinter der Tür keine schöne Adventsüberraschung, sondern ein übler Scherz! Die drei ??? Kids müssen all ihr Können aufbieten, um das Weihnachtsfest zu retten.",
+      "veröffentlichungsdatum" : "2016-11-04",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-Ein-Raetsel-in-24-Tagen/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music118/v4/ac/9b/b3/ac9bb3ec-b42b-0e04-c1da-d672a6fb7e73/886446331560.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/adventskalender-ein-ratsel-in-24-tagen",
+        "appleMusic" : "https://music.apple.com/de/album/1294728211",
+        "spotify" : "https://open.spotify.com/intl-de/album/4SVQrvQkXzYC1nU7DfDJx2-53",
+        "amazonMusic" : "https://music.amazon.de/albums/B076BWVV61",
+        "amazon" : "https://www.amazon.de/gp/product/3803231167",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_rC0JIHiKvc1"
+      },
+      "ids" : {
+        "dreimetadaten" : 407,
+        "appleMusic" : "1294728211",
+        "spotify" : "4SVQrvQkXzYC1nU7DfDJx2-53",
+        "amazonMusic" : "B076BWVV61",
+        "amazon" : "3803231167",
+        "youTubeMusic" : "MPREb_rC0JIHiKvc1"
+      },
+      "unvollständig" : true
+    },
+    {
+      "titel" : "Adventskalender: 24 Tage im Weihnachtsland",
+      "autor" : "Ulf Blanck",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "beschreibung" : "Nur noch 24 Tage! Dann ist es endlich soweit und Weihnachten steht vor der Tür. Auch Justus, Peter und Bob können es kaum erwarten und die drei Freunde freuen sich auf das große Fest. In der Nähe von Rocky Beach gibt es etwas ganz Besonderes: das Weihnachtsland. Klar, dass sich die drei ??? Kids das einmal genauer ansehen wollen. Doch plötzlich geschehen hier Dinge, mit denen keiner gerechnet hat und von allen Seiten droht Gefahr. Wer steckt dahinter?",
+      "veröffentlichungsdatum" : "2016-11-04",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-24-Tage-im-Weihnachtsland/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music128/v4/bf/f3/74/bff374c3-f31b-81f1-178e-4f4159ccd90f/886446659749.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/adventskalender-24-tage-im-weihnachtsland",
+        "appleMusic" : "https://music.apple.com/de/album/1295156351",
+        "spotify" : "https://open.spotify.com/intl-de/album/7d8GIfIRWUNIZZXc5bjsrT-54",
+        "amazonMusic" : "https://music.amazon.de/albums/B076CWPSQ1",
+        "amazon" : "https://www.amazon.de/gp/product/3803231159",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_u5k0F8onyAr"
+      },
+      "ids" : {
+        "dreimetadaten" : 408,
+        "appleMusic" : "1295156351",
+        "spotify" : "7d8GIfIRWUNIZZXc5bjsrT-54",
+        "amazonMusic" : "B076CWPSQ1",
+        "amazon" : "3803231159",
+        "youTubeMusic" : "MPREb_u5k0F8onyAr"
+      },
+      "unvollständig" : true
+    },
+    {
       "nummer" : 54,
       "titel" : "Zombie-Alarm",
       "autor" : "Ben Nevis",
@@ -9721,172 +9799,6 @@
       ]
     },
     {
-      "nummer" : 57,
-      "titel" : "Der Weihnachtsdieb",
-      "autor" : "Boris Pfeiffer, Ulf Blanck",
-      "hörspielskriptautor" : "Ulf Blanck",
-      "beschreibung" : "Weihnachten steht vor der Tür und auf Justus, Peter und Bob warten 24 spannende Abenteuer. Jeden Tag stehen die drei ??? Kids vor einem neuen rätselhaften Fall. Findest auch du die Täter und kannst die verzwickten Ratekrimis lösen? Doch Vorsicht! Denn dabei geht es nicht nur um geklaute Tannenbäume …",
-      "veröffentlichungsdatum" : "2017-05-20",
-      "kapitel" : [
-        {
-          "titel" : "Schneeballschlacht",
-          "start" : 0,
-          "end" : 447200
-        },
-        {
-          "titel" : "Weihnachtswünsche",
-          "start" : 447200,
-          "end" : 1064213
-        },
-        {
-          "titel" : "Ein gutes Versteck",
-          "start" : 1064213,
-          "end" : 1538827
-        },
-        {
-          "titel" : "Der Weihnachtsdieb",
-          "start" : 1538827,
-          "end" : 2116707
-        },
-        {
-          "titel" : "Weihnachtsrätsel",
-          "start" : 2116707,
-          "end" : 2887720
-        },
-        {
-          "titel" : "Fallensteller",
-          "start" : 2887720,
-          "end" : 3419827
-        },
-        {
-          "titel" : "Plan C",
-          "start" : 3419827,
-          "end" : 4052040
-        },
-        {
-          "titel" : "Bescherung",
-          "start" : 4052040,
-          "end" : 4796707
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Johannes Steck"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Jannik Schümann"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Yoshij Grimm"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "David Wittmann"
-        },
-        {
-          "rolle" : "Onkel Titus",
-          "sprecher" : "Achim Schülke"
-        },
-        {
-          "rolle" : "Tante Mathilda",
-          "sprecher" : "Ingrid Capelle"
-        },
-        {
-          "rolle" : "Skinny Norris",
-          "sprecher" : "Tim Kreuer"
-        },
-        {
-          "rolle" : "Kommissar Reynolds",
-          "sprecher" : "Klaus Dittmann"
-        },
-        {
-          "rolle" : "Porter",
-          "sprecher" : "Tommi Piper"
-        },
-        {
-          "rolle" : "Weihnachtsdieb",
-          "sprecher" : "Jürgen Thormann"
-        },
-        {
-          "rolle" : "Chicken Billy",
-          "sprecher" : "Detlef Tams"
-        },
-        {
-          "rolle" : "Weihnachtsmann",
-          "sprecher" : "Michael Grimm"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kids/057/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kids/057/ffmetadata.txt",
-        "cover_itunes" : "http://a1.mzstatic.com/r40/Music82/v4/59/0a/da/590adaae-2e4b-53cd-43c3-0151875334af/886445991895.jpg",
-        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-weihnachtsdieb",
-        "appleMusic" : "https://music.apple.com/de/album/1207844864",
-        "spotify" : "https://open.spotify.com/intl-de/album/23RIS8PEXnZUs0AwqmstMS",
-        "amazonMusic" : "https://music.amazon.de/albums/B06VXVLLXC",
-        "amazon" : "https://www.amazon.de/gp/product/3803260396",
-        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_UqQ0KVJw9NC"
-      },
-      "ids" : {
-        "dreimetadaten" : 365,
-        "appleMusic" : "1207844864",
-        "spotify" : "23RIS8PEXnZUs0AwqmstMS",
-        "amazonMusic" : "B06VXVLLXC",
-        "amazon" : "3803260396",
-        "youTubeMusic" : "MPREb_UqQ0KVJw9NC"
-      },
-      "medien" : [
-        {
-          "tracks" : [
-            {
-              "titel" : "Schneeballschlacht",
-              "start" : 0,
-              "end" : 447200
-            },
-            {
-              "titel" : "Weihnachtswünsche",
-              "start" : 447200,
-              "end" : 1064213
-            },
-            {
-              "titel" : "Ein gutes Versteck",
-              "start" : 1064213,
-              "end" : 1538827
-            },
-            {
-              "titel" : "Der Weihnachtsdieb",
-              "start" : 1538827,
-              "end" : 2116707
-            },
-            {
-              "titel" : "Weihnachtsrätsel",
-              "start" : 2116707,
-              "end" : 2887720
-            },
-            {
-              "titel" : "Fallensteller",
-              "start" : 2887720,
-              "end" : 3419827
-            },
-            {
-              "titel" : "Plan C",
-              "start" : 3419827,
-              "end" : 4052040
-            },
-            {
-              "titel" : "Bescherung",
-              "start" : 4052040,
-              "end" : 4796707
-            }
-          ],
-          "musicBrainzID" : "IQup_l.JHxNy6DF6SZonEOGkvno-"
-        }
-      ]
-    },
-    {
       "nummer" : 58,
       "titel" : "Spur des Drachen",
       "autor" : "Ulf Blanck",
@@ -10051,6 +9963,172 @@
             }
           ],
           "musicBrainzID" : "HVbRv1lYsY5uUomeBi.XD2eVkDs-"
+        }
+      ]
+    },
+    {
+      "nummer" : 57,
+      "titel" : "Der Weihnachtsdieb",
+      "autor" : "Boris Pfeiffer, Ulf Blanck",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "beschreibung" : "Weihnachten steht vor der Tür und auf Justus, Peter und Bob warten 24 spannende Abenteuer. Jeden Tag stehen die drei ??? Kids vor einem neuen rätselhaften Fall. Findest auch du die Täter und kannst die verzwickten Ratekrimis lösen? Doch Vorsicht! Denn dabei geht es nicht nur um geklaute Tannenbäume …",
+      "veröffentlichungsdatum" : "2017-05-20",
+      "kapitel" : [
+        {
+          "titel" : "Schneeballschlacht",
+          "start" : 0,
+          "end" : 447200
+        },
+        {
+          "titel" : "Weihnachtswünsche",
+          "start" : 447200,
+          "end" : 1064213
+        },
+        {
+          "titel" : "Ein gutes Versteck",
+          "start" : 1064213,
+          "end" : 1538827
+        },
+        {
+          "titel" : "Der Weihnachtsdieb",
+          "start" : 1538827,
+          "end" : 2116707
+        },
+        {
+          "titel" : "Weihnachtsrätsel",
+          "start" : 2116707,
+          "end" : 2887720
+        },
+        {
+          "titel" : "Fallensteller",
+          "start" : 2887720,
+          "end" : 3419827
+        },
+        {
+          "titel" : "Plan C",
+          "start" : 3419827,
+          "end" : 4052040
+        },
+        {
+          "titel" : "Bescherung",
+          "start" : 4052040,
+          "end" : 4796707
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Johannes Steck"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Jannik Schümann"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Yoshij Grimm"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "David Wittmann"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Ingrid Capelle"
+        },
+        {
+          "rolle" : "Skinny Norris",
+          "sprecher" : "Tim Kreuer"
+        },
+        {
+          "rolle" : "Kommissar Reynolds",
+          "sprecher" : "Klaus Dittmann"
+        },
+        {
+          "rolle" : "Porter",
+          "sprecher" : "Tommi Piper"
+        },
+        {
+          "rolle" : "Weihnachtsdieb",
+          "sprecher" : "Jürgen Thormann"
+        },
+        {
+          "rolle" : "Chicken Billy",
+          "sprecher" : "Detlef Tams"
+        },
+        {
+          "rolle" : "Weihnachtsmann",
+          "sprecher" : "Michael Grimm"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/057/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kids/057/ffmetadata.txt",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music82/v4/59/0a/da/590adaae-2e4b-53cd-43c3-0151875334af/886445991895.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-weihnachtsdieb",
+        "appleMusic" : "https://music.apple.com/de/album/1207844864",
+        "spotify" : "https://open.spotify.com/intl-de/album/23RIS8PEXnZUs0AwqmstMS",
+        "amazonMusic" : "https://music.amazon.de/albums/B06VXVLLXC",
+        "amazon" : "https://www.amazon.de/gp/product/3803260396",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_UqQ0KVJw9NC"
+      },
+      "ids" : {
+        "dreimetadaten" : 365,
+        "appleMusic" : "1207844864",
+        "spotify" : "23RIS8PEXnZUs0AwqmstMS",
+        "amazonMusic" : "B06VXVLLXC",
+        "amazon" : "3803260396",
+        "youTubeMusic" : "MPREb_UqQ0KVJw9NC"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Schneeballschlacht",
+              "start" : 0,
+              "end" : 447200
+            },
+            {
+              "titel" : "Weihnachtswünsche",
+              "start" : 447200,
+              "end" : 1064213
+            },
+            {
+              "titel" : "Ein gutes Versteck",
+              "start" : 1064213,
+              "end" : 1538827
+            },
+            {
+              "titel" : "Der Weihnachtsdieb",
+              "start" : 1538827,
+              "end" : 2116707
+            },
+            {
+              "titel" : "Weihnachtsrätsel",
+              "start" : 2116707,
+              "end" : 2887720
+            },
+            {
+              "titel" : "Fallensteller",
+              "start" : 2887720,
+              "end" : 3419827
+            },
+            {
+              "titel" : "Plan C",
+              "start" : 3419827,
+              "end" : 4052040
+            },
+            {
+              "titel" : "Bescherung",
+              "start" : 4052040,
+              "end" : 4796707
+            }
+          ],
+          "musicBrainzID" : "IQup_l.JHxNy6DF6SZonEOGkvno-"
         }
       ]
     },
@@ -10869,170 +10947,6 @@
       ]
     },
     {
-      "nummer" : 64,
-      "titel" : "In der Schatzhöhle",
-      "autor" : "Boris Pfeiffer",
-      "hörspielskriptautor" : "Ulf Blanck",
-      "beschreibung" : "Die drei ??? Kids haben einen Schnupperkurs im Höhlentauchen gewonnen. Doch ein Taucher ist unter falschen Namen angemeldet und entfernt sich heimlich von der Gruppe. Justus, Peter und Bob verfolgen ihn und entdecken eine Schatzhöhle!",
-      "veröffentlichungsdatum" : "2018-08-15",
-      "kapitel" : [
-        {
-          "titel" : "Hauptgewinn",
-          "start" : 0,
-          "end" : 402227
-        },
-        {
-          "titel" : "Höhlentauchen",
-          "start" : 402227,
-          "end" : 803613
-        },
-        {
-          "titel" : "Abgetaucht",
-          "start" : 803613,
-          "end" : 1267000
-        },
-        {
-          "titel" : "Geisterlicht",
-          "start" : 1267000,
-          "end" : 1675880
-        },
-        {
-          "titel" : "Schatztaucher",
-          "start" : 1675880,
-          "end" : 2076173
-        },
-        {
-          "titel" : "Polizeiarbeit",
-          "start" : 2076173,
-          "end" : 2562720
-        },
-        {
-          "titel" : "Phantombilder",
-          "start" : 2562720,
-          "end" : 3157173
-        },
-        {
-          "titel" : "Miese Erpresser",
-          "start" : 3157173,
-          "end" : 3652320
-        },
-        {
-          "titel" : "Geheimplan",
-          "start" : 3652320,
-          "end" : 4061907
-        }
-      ],
-      "sprechrollen" : [
-        {
-          "rolle" : "Erzähler",
-          "sprecher" : "Johannes Steck"
-        },
-        {
-          "rolle" : "Justus Jonas, Erster Detektiv",
-          "sprecher" : "Jannik Schümann"
-        },
-        {
-          "rolle" : "Peter Shaw, Zweiter Detektiv",
-          "sprecher" : "Yoshij Grimm"
-        },
-        {
-          "rolle" : "Bob Andrews, Recherchen und Archiv",
-          "sprecher" : "David Wittmann"
-        },
-        {
-          "rolle" : "Tim Miller",
-          "sprecher" : "Christian Stark"
-        },
-        {
-          "rolle" : "Clemens",
-          "sprecher" : "Otto Strecker"
-        },
-        {
-          "rolle" : "Big Digger",
-          "sprecher" : "Rainer Gerlach"
-        },
-        {
-          "rolle" : "Erika",
-          "sprecher" : "Eva Michaelis"
-        },
-        {
-          "rolle" : "Kommissar Reynolds",
-          "sprecher" : "Bert Franzke"
-        }
-      ],
-      "links" : {
-        "json" : "http://dreimetadaten.de/data/Kids/064/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Kids/064/ffmetadata.txt",
-        "cover_itunes" : "http://a1.mzstatic.com/r40/Music124/v4/e2/48/7e/e2487ea9-7542-9cb9-ac50-53e6565e3219/886446602677.jpg",
-        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/in-der-schatzhohle",
-        "appleMusic" : "https://music.apple.com/de/album/1349263233",
-        "spotify" : "https://open.spotify.com/intl-de/album/6Om3zELCMatFreSN4FMeOG",
-        "amazonMusic" : "https://music.amazon.de/albums/B079TZXN1R",
-        "amazon" : "https://www.amazon.de/gp/product/3803260469",
-        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_NmBZxNq2bGz"
-      },
-      "ids" : {
-        "dreimetadaten" : 372,
-        "appleMusic" : "1349263233",
-        "spotify" : "6Om3zELCMatFreSN4FMeOG",
-        "amazonMusic" : "B079TZXN1R",
-        "amazon" : "3803260469",
-        "youTubeMusic" : "MPREb_NmBZxNq2bGz"
-      },
-      "medien" : [
-        {
-          "tracks" : [
-            {
-              "titel" : "Hauptgewinn",
-              "start" : 0,
-              "end" : 402227
-            },
-            {
-              "titel" : "Höhlentauchen",
-              "start" : 402227,
-              "end" : 803613
-            },
-            {
-              "titel" : "Abgetaucht",
-              "start" : 803613,
-              "end" : 1267000
-            },
-            {
-              "titel" : "Geisterlicht",
-              "start" : 1267000,
-              "end" : 1675880
-            },
-            {
-              "titel" : "Schatztaucher",
-              "start" : 1675880,
-              "end" : 2076173
-            },
-            {
-              "titel" : "Polizeiarbeit",
-              "start" : 2076173,
-              "end" : 2562720
-            },
-            {
-              "titel" : "Phantombilder",
-              "start" : 2562720,
-              "end" : 3157173
-            },
-            {
-              "titel" : "Miese Erpresser",
-              "start" : 3157173,
-              "end" : 3652320
-            },
-            {
-              "titel" : "Geheimplan",
-              "start" : 3652320,
-              "end" : 4061907
-            }
-          ],
-          "musicBrainzID" : "JSu8cajYympXdzihHsdo8bgKR8Y-"
-        }
-      ]
-    },
-    {
       "nummer" : 65,
       "titel" : "Mission Goldhund",
       "autor" : "Ulf Blanck",
@@ -11221,6 +11135,170 @@
             }
           ],
           "musicBrainzID" : "jEWJHFo_j3zeKIB1xlBv89GyRXM-"
+        }
+      ]
+    },
+    {
+      "nummer" : 64,
+      "titel" : "In der Schatzhöhle",
+      "autor" : "Boris Pfeiffer",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "beschreibung" : "Die drei ??? Kids haben einen Schnupperkurs im Höhlentauchen gewonnen. Doch ein Taucher ist unter falschen Namen angemeldet und entfernt sich heimlich von der Gruppe. Justus, Peter und Bob verfolgen ihn und entdecken eine Schatzhöhle!",
+      "veröffentlichungsdatum" : "2018-08-15",
+      "kapitel" : [
+        {
+          "titel" : "Hauptgewinn",
+          "start" : 0,
+          "end" : 402227
+        },
+        {
+          "titel" : "Höhlentauchen",
+          "start" : 402227,
+          "end" : 803613
+        },
+        {
+          "titel" : "Abgetaucht",
+          "start" : 803613,
+          "end" : 1267000
+        },
+        {
+          "titel" : "Geisterlicht",
+          "start" : 1267000,
+          "end" : 1675880
+        },
+        {
+          "titel" : "Schatztaucher",
+          "start" : 1675880,
+          "end" : 2076173
+        },
+        {
+          "titel" : "Polizeiarbeit",
+          "start" : 2076173,
+          "end" : 2562720
+        },
+        {
+          "titel" : "Phantombilder",
+          "start" : 2562720,
+          "end" : 3157173
+        },
+        {
+          "titel" : "Miese Erpresser",
+          "start" : 3157173,
+          "end" : 3652320
+        },
+        {
+          "titel" : "Geheimplan",
+          "start" : 3652320,
+          "end" : 4061907
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Johannes Steck"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Jannik Schümann"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Yoshij Grimm"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "David Wittmann"
+        },
+        {
+          "rolle" : "Tim Miller",
+          "sprecher" : "Christian Stark"
+        },
+        {
+          "rolle" : "Clemens",
+          "sprecher" : "Otto Strecker"
+        },
+        {
+          "rolle" : "Big Digger",
+          "sprecher" : "Rainer Gerlach"
+        },
+        {
+          "rolle" : "Erika",
+          "sprecher" : "Eva Michaelis"
+        },
+        {
+          "rolle" : "Kommissar Reynolds",
+          "sprecher" : "Bert Franzke"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/064/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kids/064/ffmetadata.txt",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music124/v4/e2/48/7e/e2487ea9-7542-9cb9-ac50-53e6565e3219/886446602677.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/in-der-schatzhohle",
+        "appleMusic" : "https://music.apple.com/de/album/1349263233",
+        "spotify" : "https://open.spotify.com/intl-de/album/6Om3zELCMatFreSN4FMeOG",
+        "amazonMusic" : "https://music.amazon.de/albums/B079TZXN1R",
+        "amazon" : "https://www.amazon.de/gp/product/3803260469",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_NmBZxNq2bGz"
+      },
+      "ids" : {
+        "dreimetadaten" : 372,
+        "appleMusic" : "1349263233",
+        "spotify" : "6Om3zELCMatFreSN4FMeOG",
+        "amazonMusic" : "B079TZXN1R",
+        "amazon" : "3803260469",
+        "youTubeMusic" : "MPREb_NmBZxNq2bGz"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Hauptgewinn",
+              "start" : 0,
+              "end" : 402227
+            },
+            {
+              "titel" : "Höhlentauchen",
+              "start" : 402227,
+              "end" : 803613
+            },
+            {
+              "titel" : "Abgetaucht",
+              "start" : 803613,
+              "end" : 1267000
+            },
+            {
+              "titel" : "Geisterlicht",
+              "start" : 1267000,
+              "end" : 1675880
+            },
+            {
+              "titel" : "Schatztaucher",
+              "start" : 1675880,
+              "end" : 2076173
+            },
+            {
+              "titel" : "Polizeiarbeit",
+              "start" : 2076173,
+              "end" : 2562720
+            },
+            {
+              "titel" : "Phantombilder",
+              "start" : 2562720,
+              "end" : 3157173
+            },
+            {
+              "titel" : "Miese Erpresser",
+              "start" : 3157173,
+              "end" : 3652320
+            },
+            {
+              "titel" : "Geheimplan",
+              "start" : 3652320,
+              "end" : 4061907
+            }
+          ],
+          "musicBrainzID" : "JSu8cajYympXdzihHsdo8bgKR8Y-"
         }
       ]
     },
@@ -12317,6 +12395,31 @@
           "musicBrainzID" : "Xlcq3D5LKzlacEeSY71GKHhEoeE-"
         }
       ]
+    },
+    {
+      "titel" : "Adventskalender: 24 Tage im Weihnachtszirkus",
+      "autor" : "Ulf Blanck",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "beschreibung" : "Der berühmte Weihnachtszirkus Rossellini gastiert in Rocky Beach. Die drei ??? Kids sind begeistert und sehen sich natürlich die Vorstellung an. Doch plötzlich stockt ihnen der Atem: Fast wäre eine Hochseilartistin in die Tiefe gestürzt! Ist hier Sabotage im Spiel? Im Handumdrehen befinden sich Justus, Peter und Bob als verdeckte Ermittler in einem turbulenten Fall.",
+      "veröffentlichungsdatum" : "2019-09-20",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-24-Tage-im-Weihnachtszirkus/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music113/v4/43/22/1c/43221caa-6f55-4594-abb9-19f27cecdb3e/886447590430.jpg",
+        "appleMusic" : "https://music.apple.com/de/album/1477454609",
+        "spotify" : "https://open.spotify.com/intl-de/album/0tuslnSb2vi63lqnROhlSl-33",
+        "amazonMusic" : "https://music.amazon.de/albums/B07X7HTW5S",
+        "amazon" : "https://www.amazon.de/gp/product/3803231183",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_YYDfGGaRKUH"
+      },
+      "ids" : {
+        "dreimetadaten" : 409,
+        "appleMusic" : "1477454609",
+        "spotify" : "0tuslnSb2vi63lqnROhlSl-33",
+        "amazonMusic" : "B07X7HTW5S",
+        "amazon" : "3803231183",
+        "youTubeMusic" : "MPREb_YYDfGGaRKUH"
+      },
+      "unvollständig" : true
     },
     {
       "nummer" : 72,
@@ -14578,6 +14681,31 @@
       ]
     },
     {
+      "titel" : "Adventskalender: 24 Tage Chaos im Zoo",
+      "autor" : "Ulf Blanck",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "beschreibung" : "Ein Weihnachts-Zoo in Rocky Beach! Alle sind begeistert, bis jemand das Tor des Krokodilgeheges absichtlich öffnet. Und das ist nur der Anfang. Justus, Peter und Bob stürzen sich so kurz vor Weihnachten in ein gefährliches Abenteuer.",
+      "veröffentlichungsdatum" : "2021-10-15",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-24-Tage-Chaos-im-Zoo/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music115/v4/21/2f/0a/212f0afb-ca44-c65f-31c1-65bd30782b26/886449601448.jpg",
+        "appleMusic" : "https://music.apple.com/de/album/1588735880",
+        "spotify" : "https://open.spotify.com/intl-de/album/5ZcAMixtzUYEBZNVSrixNE-19",
+        "amazonMusic" : "https://music.amazon.de/albums/B09HR7X1MH",
+        "amazon" : "https://www.amazon.de/gp/product/3803231191",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_hThpGGQBpUr"
+      },
+      "ids" : {
+        "dreimetadaten" : 410,
+        "appleMusic" : "1588735880",
+        "spotify" : "5ZcAMixtzUYEBZNVSrixNE-19",
+        "amazonMusic" : "B09HR7X1MH",
+        "amazon" : "3803231191",
+        "youTubeMusic" : "MPREb_hThpGGQBpUr"
+      },
+      "unvollständig" : true
+    },
+    {
       "nummer" : 85,
       "titel" : "Falscher Alarm",
       "autor" : "Boris Pfeiffer",
@@ -15422,6 +15550,31 @@
       ]
     },
     {
+      "titel" : "Adventskalender: 24 Tage eingeschneit",
+      "autor" : "Ulf Blanck",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "beschreibung" : "Hilfe, Rocky Beach wird evakuiert! Und das kurz vor Weihnachten! Alle Einwohner begeben sich in ein leer stehendes Skidorf, hoch oben in den Bergen, und freuen sich über den Schnee. Doch im idyllischen Skiort passieren merkwürdige Dinge und Justus, Peter und Bob wittern ihren nächsten Fall.",
+      "veröffentlichungsdatum" : "2022-10-21",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-24-Tage-eingeschneit/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music116/v4/7c/2f/07/7c2f072a-8efc-5151-11e0-b006be1ba79e/196871068284.jpg",
+        "appleMusic" : "https://music.apple.com/de/album/1683338763",
+        "spotify" : "https://open.spotify.com/intl-de/album/5MXAyx7ZeQGGbHdR1HEbtU-13",
+        "amazonMusic" : "https://music.amazon.de/albums/B0C2ZPV15B",
+        "amazon" : "https://www.amazon.de/gp/product/3803233356",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_GddkyxtBoI1"
+      },
+      "ids" : {
+        "dreimetadaten" : 411,
+        "appleMusic" : "1683338763",
+        "spotify" : "5MXAyx7ZeQGGbHdR1HEbtU-13",
+        "amazonMusic" : "B0C2ZPV15B",
+        "amazon" : "3803233356",
+        "youTubeMusic" : "MPREb_GddkyxtBoI1"
+      },
+      "unvollständig" : true
+    },
+    {
       "nummer" : 90,
       "titel" : "Flug ins Nichts",
       "autor" : "Ulf Blanck",
@@ -15989,6 +16142,31 @@
         "amazonMusic" : "B0CBKGYN17",
         "amazon" : "3803260760",
         "youTubeMusic" : "MPREb_hm8CRqa8D1z"
+      },
+      "unvollständig" : true
+    },
+    {
+      "titel" : "Adventskalender: 24 Tage Weihnachtsspuk",
+      "autor" : "Ulf Blanck",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "beschreibung" : "Der Bürgermeister von Rocky Beach hat sich eine besondere Weihnachtsaktion ausgedacht: einen Adventskalender, der alle Bewohner auf eine spannende Rätsel-Schnitzeljagd schickt. Doch dann passieren merkwürdige Dinge und die drei ??? stecken mitten in ihrem nächsten Fall.",
+      "veröffentlichungsdatum" : "2023-10-20",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-24-Tage-Weihnachtsspuk/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/b0/4b/7a/b04b7ae4-eee9-1295-cdbb-6eb8df1fa9fa/196872226454.jpg",
+        "appleMusic" : "https://music.apple.com/de/album/1752884944",
+        "spotify" : "https://open.spotify.com/intl-de/album/5o3ryPeYmpRkmgEv4hnDmJ-6",
+        "amazonMusic" : "https://music.amazon.de/albums/B0CJCQ1362",
+        "amazon" : "https://www.amazon.de/gp/product/3803233364",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_W0GvbZ8c72h"
+      },
+      "ids" : {
+        "dreimetadaten" : 412,
+        "appleMusic" : "1752884944",
+        "spotify" : "5o3ryPeYmpRkmgEv4hnDmJ-6",
+        "amazonMusic" : "B0CJCQ1362",
+        "amazon" : "3803233364",
+        "youTubeMusic" : "MPREb_W0GvbZ8c72h"
       },
       "unvollständig" : true
     },
