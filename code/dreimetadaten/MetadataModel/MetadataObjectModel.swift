@@ -655,6 +655,9 @@ extension MetadataObjectModel {
 				try addURL(to: hörspiel, as: .kids)
 				return hörspiel
 			}
+			.sorted { (a, b) in
+				a.veröffentlichungsdatum ?? "" < b.veröffentlichungsdatum ?? ""
+			}
 		
 		
 		// version
