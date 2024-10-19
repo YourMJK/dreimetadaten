@@ -25,7 +25,7 @@ extension Command.Import {
 		@Option(name: .customLong("discID"), help: ArgumentHelp("The MusicBrainz Disc-ID to read track data from.", valueName: "id"))
 		var mbDiscID: String
 		
-		@Option(name: .long, help: ArgumentHelp("The position of the new \"medium\" to create.", valueName: "number"))
+		@Option(name: .long, help: ArgumentHelp("The position of the medium in the release and of the new \"medium\" to create.", valueName: "number"))
 		var position: UInt = 1
 		
 		@Option(name: .customLong("db"), help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))

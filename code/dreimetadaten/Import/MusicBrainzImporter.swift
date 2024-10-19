@@ -29,8 +29,9 @@ struct MusicBrainzImporter {
 		).insert(db)
 		
 		// Tracks
-		let chapters = try Self.chaptersFromTracks(discID: discID)
+		let chapters = try Self.chaptersFromTracks(discID: discID, mediaPosition: position)
 		let baseTrackID = try nextID(of: MetadataRelationalModel.Track.self, id: \.trackID)
+		let baseKapitelPosition = (try UInt.fetchOne(db, sql: "SELECT MAX(position) FROM kapitel WHERE hörspielID = \(hörspielID)") ?? 0) + 1
 		for (index, chapter) in chapters.enumerated() {
 			let index = UInt(index)
 			let trackID = baseTrackID + index
@@ -44,7 +45,7 @@ struct MusicBrainzImporter {
 			try MetadataRelationalModel.Kapitel(
 				trackID: trackID,
 				hörspielID: hörspielID,
-				position: index+1
+				position: baseKapitelPosition + index
 			).insert(db)
 		}
 	}
@@ -52,7 +53,7 @@ struct MusicBrainzImporter {
 	
 	typealias Chapter = (title: String, duration: UInt)
 	
-	private static func chaptersFromTracks(discID: String) throws -> [Chapter] {
+	private static func chaptersFromTracks(discID: String, mediaPosition: UInt) throws -> [Chapter] {
 		// Get disc data
 		guard let disc = try synchronousJSONRequest(to: "https://musicbrainz.org/ws/2/discid/\(discID)?fmt=json") as? [String: Any] else {
 			throw ImportError.jsonParsingFailed(errorMsg: "Disc top level not a dictionary")
@@ -71,8 +72,17 @@ struct MusicBrainzImporter {
 		guard let release = try synchronousJSONRequest(to: "https://musicbrainz.org/ws/2/release/\(releaseID)?inc=recordings&fmt=json") as? [String: Any] else {
 			throw ImportError.jsonParsingFailed(errorMsg: "Release top level not a dictionary")
 		}
-		guard let medium = (release["media"] as? [[String: Any]])?.first else {
-			throw ImportError.jsonParsingFailed(errorMsg: "Medium not found")
+		guard let media = (release["media"] as? [[String: Any]]) else {
+			throw ImportError.jsonParsingFailed(errorMsg: "Media not found")
+		}
+		let medium = try media.first {
+			guard let position = $0["position"] as? UInt else {
+				throw ImportError.jsonParsingFailed(errorMsg: "Media position not found")
+			}
+			return position == mediaPosition
+		}
+		guard let medium else {
+			throw ImportError.mediaPositionNotFound(position: mediaPosition, count: UInt(media.count))
 		}
 		guard let tracks = medium["tracks"] as? [[String: Any]] else {
 			throw ImportError.jsonParsingFailed(errorMsg: "Tracks not found")
@@ -168,6 +178,7 @@ struct MusicBrainzImporter {
 		case invalidURL(urlString: String)
 		case requestFailed(errorMsg: String)
 		case jsonParsingFailed(errorMsg: String)
+		case mediaPositionNotFound(position: UInt, count: UInt)
 		case unexpectedTrackSequence(expected: Int, actual: Int)
 		case trackAndOffsetCountDiffer(tracks: UInt, offsets: UInt)
 		case zeroTracks
@@ -178,6 +189,7 @@ struct MusicBrainzImporter {
 				case .invalidURL(let urlString): return "Invalid URL:  \(urlString)"
 				case .requestFailed(let errorMsg): return "Request to MusicBrainz failed:  \(errorMsg)"
 				case .jsonParsingFailed(let errorMsg): return "Parsing MusicBrainz JSON response failed:  \(errorMsg)"
+				case .mediaPositionNotFound(let position, let count): return "Medium with position \(position) not found in release, number of media is \(count)"
 				case .unexpectedTrackSequence(let expected, let actual): return "Expected next track position to be \(expected) but was \(actual)"
 				case .trackAndOffsetCountDiffer(let tracks, let offsets): return "Number of tracks (\(tracks) and number of offsets (\(offsets) don't match"
 				case .zeroTracks: return "No tracks were found"
