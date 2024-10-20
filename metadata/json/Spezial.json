@@ -1,9 +1,344 @@
 {
   "dbInfo" : {
-    "version" : "2.4.2",
-    "lastModified" : "2024-10-18T15:37:46Z"
+    "version" : "2.4.3",
+    "lastModified" : "2024-10-20T00:01:26Z"
   },
   "spezial" : [
+    {
+      "titel" : "Master of Chess (Live & Unplugged)",
+      "autor" : "Stefanie Burkart",
+      "hörspielskriptautor" : "Andreas Fröhlich",
+      "beschreibung" : "Eine Autopanne im strömenden Regen zwingt die drei ??? – Justus, Peter und Bob – dazu, Zuflucht auf Schloss Blackstone zu suchen.\nEin Blitz trifft die Stromleitung und hüllt das Schloss in Dunkelheit. Das alte Gemäuer macht einen gespenstischen Eindruck.\nDas bestätigt auch Graf Gallagher, der Schlossherr, der den drei ??? erzählt, dass es in seinem Schloss spukt: Die Figuren auf einem Jahrhunderte alten, marmornen Schachtisch bewegen sich jede Nacht wie von Geisterhand geführt. Doch immer nur um einen Zug – einen genial durchdachten Schachzug. Der Graf wird offensichtlich zum Spiel herausgefordert.\nDoch warum und von wem?\nDie drei Detektive ahnen schnell, dass es hier um viel mehr als nur eine Partie Schach geht …",
+      "metabeschreibung" : "Ungekürzter Live-Mitschnitt der Aufführung vom 30. September 2002 in Berlin.",
+      "veröffentlichungsdatum" : "2002-11-11",
+      "kapitel" : [
+        {
+          "titel" : "Autopanne im Central Valley",
+          "start" : 0,
+          "end" : 673840
+        },
+        {
+          "titel" : "Schloss Blackstone",
+          "start" : 673840,
+          "end" : 1484547
+        },
+        {
+          "titel" : "Der Schachgeist",
+          "start" : 1484547,
+          "end" : 2015333
+        },
+        {
+          "titel" : "Ein neuer Fall für die drei ???",
+          "start" : 2015333,
+          "end" : 2877373
+        },
+        {
+          "titel" : "Rätselhafte Verse",
+          "start" : 2877373,
+          "end" : 3383733
+        },
+        {
+          "titel" : "Kreuzverhör",
+          "start" : 3383733,
+          "end" : 3603066
+        },
+        {
+          "titel" : "\"Gib acht, dann findest du es eh!\"",
+          "start" : 3603066,
+          "end" : 4004546
+        },
+        {
+          "titel" : "Aufgerüttelt",
+          "start" : 4004546,
+          "end" : 4464306
+        },
+        {
+          "titel" : "Unter der Erde",
+          "start" : 4464306,
+          "end" : 5034480
+        },
+        {
+          "titel" : "The Master of Chess",
+          "start" : 5034480,
+          "end" : 5696786
+        },
+        {
+          "titel" : "Aus einem tiefen Schlaf erwacht",
+          "start" : 5696786,
+          "end" : 6320493
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Helmut Krauss"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Ana",
+          "sprecher" : "Frauke Poolman"
+        },
+        {
+          "rolle" : "Gräfin",
+          "sprecher" : "Frauke Poolman"
+        },
+        {
+          "rolle" : "Virginia Burnett",
+          "sprecher" : "Frauke Poolman"
+        },
+        {
+          "rolle" : "Graf",
+          "sprecher" : "Olaf Kreutzenbeck"
+        },
+        {
+          "rolle" : "Moe",
+          "sprecher" : "Olaf Kreutzenbeck"
+        },
+        {
+          "rolle" : "Passfellow",
+          "sprecher" : "Olaf Kreutzenbeck"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/Master-of-Chess-Live--Unplugged/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Master-of-Chess-Live--Unplugged/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Spezial/Master-of-Chess-Live--Unplugged/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music69/v4/70/72/c3/7072c380-c667-6b96-e17f-28e20a71b5cd/886445749342.jpg",
+        "appleMusic" : "https://music.apple.com/de/album/1092551485",
+        "spotify" : "https://open.spotify.com/intl-de/album/4uJPgDMOIRfoAumwwmpRbR",
+        "bookbeat" : "https://www.bookbeat.com/de/book/534787",
+        "amazonMusic" : "https://music.amazon.de/albums/B01CV1D3DQ",
+        "amazon" : "https://www.amazon.de/gp/product/B00006YXOJ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_zSanf1hlYJR"
+      },
+      "ids" : {
+        "dreimetadaten" : 413,
+        "appleMusic" : "1092551485",
+        "spotify" : "4uJPgDMOIRfoAumwwmpRbR",
+        "bookbeat" : "534787",
+        "amazonMusic" : "B01CV1D3DQ",
+        "amazon" : "B00006YXOJ",
+        "youTubeMusic" : "MPREb_zSanf1hlYJR"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Autopanne im Central Valley",
+              "start" : 0,
+              "end" : 673840
+            },
+            {
+              "titel" : "Schloss Blackstone",
+              "start" : 673840,
+              "end" : 1484547
+            },
+            {
+              "titel" : "Der Schachgeist",
+              "start" : 1484547,
+              "end" : 2015333
+            },
+            {
+              "titel" : "Ein neuer Fall für die drei ???",
+              "start" : 2015333,
+              "end" : 2877373
+            },
+            {
+              "titel" : "Rätselhafte Verse",
+              "start" : 2877373,
+              "end" : 3383733
+            }
+          ],
+          "musicBrainzID" : "Z0UBMYuzeO7MDMpGumyMIF96KhQ-"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Kreuzverhör",
+              "start" : 0,
+              "end" : 219333
+            },
+            {
+              "titel" : "\"Gib acht, dann findest du es eh!\"",
+              "start" : 219333,
+              "end" : 620813
+            },
+            {
+              "titel" : "Aufgerüttelt",
+              "start" : 620813,
+              "end" : 1080573
+            },
+            {
+              "titel" : "Unter der Erde",
+              "start" : 1080573,
+              "end" : 1650747
+            },
+            {
+              "titel" : "The Master of Chess",
+              "start" : 1650747,
+              "end" : 2313053
+            },
+            {
+              "titel" : "Aus einem tiefen Schlaf erwacht",
+              "start" : 2313053,
+              "end" : 2936760
+            },
+            {
+              "titel" : "Outtake Köln 2: \"Und da sind sie: Die drei ???!\"",
+              "start" : 2936760,
+              "end" : 3021333
+            },
+            {
+              "titel" : "Outtake Wuppertal: Küchen-Kachel-Chaos",
+              "start" : 3021333,
+              "end" : 3041640
+            },
+            {
+              "titel" : "Outtake Bremen: \"Ich erkläre das noch mal kurz!\"",
+              "start" : 3041640,
+              "end" : 3102627
+            },
+            {
+              "titel" : "Outtake Bremen: \"… und 1 und 2 und 3 und 4 …\"",
+              "start" : 3102627,
+              "end" : 3140240
+            },
+            {
+              "titel" : "Outtake Mühlheim-Kärlich: \"Ich glaube, er versucht, uns etwas zu erklären …\"",
+              "start" : 3140240,
+              "end" : 3188293
+            },
+            {
+              "titel" : "Outtake Hamburg 3: \"Peter!!!\"",
+              "start" : 3188293,
+              "end" : 3201267
+            },
+            {
+              "titel" : "Outtake Mannheim: In Schachbrett-Mannheim",
+              "start" : 3201267,
+              "end" : 3322573
+            },
+            {
+              "titel" : "Outtake Hamburg 2: \"Peter, kann ich ein bisschen was von deinem Knäckebrot abhaben?\"",
+              "start" : 3322573,
+              "end" : 3333853
+            },
+            {
+              "titel" : "Outtake Hamburg 3: Tanzschritte",
+              "start" : 3333853,
+              "end" : 3408053
+            },
+            {
+              "titel" : "Outtake Bremen: Peter auf Socken",
+              "start" : 3408053,
+              "end" : 3420827
+            },
+            {
+              "titel" : "Outtake Göttingen: \"Spät kommst du, aber du kommst!\"",
+              "start" : 3420827,
+              "end" : 3490747
+            },
+            {
+              "titel" : "Outtake Hamburg 2: \"Sie war es nicht.\"",
+              "start" : 3490747,
+              "end" : 3510853
+            },
+            {
+              "titel" : "Outtake Bremen: \"Das Haar ist noch da!\"",
+              "start" : 3510853,
+              "end" : 3658213
+            },
+            {
+              "titel" : "Outtake Hamburg 2: \"Ist auch nixe erlaubt zu stehlen Bestecke!\"",
+              "start" : 3658213,
+              "end" : 3686053
+            },
+            {
+              "titel" : "Outtake Köln 2: \"Gute Idee!\"",
+              "start" : 3686053,
+              "end" : 3757053
+            },
+            {
+              "titel" : "Outtake Hamburg 2: \"Jetzt kann ich's euch ja sagen …\"",
+              "start" : 3757053,
+              "end" : 3773813
+            },
+            {
+              "titel" : "Outtake Hannover: \"Frag doch mal rum!\"",
+              "start" : 3773813,
+              "end" : 3880600
+            },
+            {
+              "titel" : "Outtake Bremen: \"Das ist Ana mit einer Kerze …\"",
+              "start" : 3880600,
+              "end" : 3898680
+            },
+            {
+              "titel" : "Outtake Hamburg 2: \"Das Haar ist noch da!\"",
+              "start" : 3898680,
+              "end" : 3994893
+            },
+            {
+              "titel" : "Outtake Mühlheim-Kärlich: In der Hand hatte sie ein kleines Päckchen",
+              "start" : 3994893,
+              "end" : 4062680
+            },
+            {
+              "titel" : "Outtake Mühlheim-Kärlich: \"Das ist Ana mit einem Teeservice …\"",
+              "start" : 4062680,
+              "end" : 4093533
+            },
+            {
+              "titel" : "Outtake Köln 1: \"Wenn er so weiter macht, sieht er bald aus, wie ich!\"",
+              "start" : 4093533,
+              "end" : 4172933
+            },
+            {
+              "titel" : "Outtake Hannover: Steht im Manuskript",
+              "start" : 4172933,
+              "end" : 4235560
+            },
+            {
+              "titel" : "Outtake Hamburg 3: \"Das ist sehr, sehr gut, dass du uns das gezeigt hast, Moe!\"",
+              "start" : 4235560,
+              "end" : 4499613
+            },
+            {
+              "titel" : "Outtake München: \"Jetzt müssen wir nur noch die Felder auszählen!\"",
+              "start" : 4499613,
+              "end" : 4598613
+            },
+            {
+              "titel" : "Outtake Hamburg 3: \"Na also, geht doch!\"",
+              "start" : 4598613,
+              "end" : 4631160
+            },
+            {
+              "titel" : "Outtake Hamburg 2: Justus Wawrczeck",
+              "start" : 4631160,
+              "end" : 4651240
+            },
+            {
+              "titel" : "Outtake Köln 2: \"Das geschieht euch recht!\"",
+              "start" : 4651240,
+              "end" : 4693853
+            }
+          ],
+          "musicBrainzID" : "NqbCDFo0.graHvqHXjI.WTJnmcQ-"
+        }
+      ]
+    },
     {
       "titel" : "und der Super-Papagei 2004",
       "autor" : "Robert Arthur",
