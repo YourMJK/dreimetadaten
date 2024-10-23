@@ -16,6 +16,7 @@ struct MetadataObjectModel: Codable {
 	var kurzgeschichten: [Hörspiel]?
 	var die_dr3i: [Hörspiel]?
 	var kids: [Hörspiel]?
+	var sonstige: [Hörspiel]?
 	
 	var dbInfo: DBInfo?
 }
@@ -175,6 +176,7 @@ extension MetadataObjectModel {
 			"kurzgeschichten",
 			"die_dr3i",
 			"kids",
+			"sonstige",
 			
 			"nummer",
 			
@@ -596,68 +598,62 @@ extension MetadataObjectModel {
 			apply(url: url, to: hörspiel)
 		}
 		
+		// collections
 		func makeFolge(with nummer: UInt?, hörspiel: inout Hörspiel) {
 			guard let nummer else { return }
 			let folge = Folge(nummer: nummer)
 			copy(from: hörspiel, to: folge)
 			hörspiel = folge
 		}
+		func fetchAllAndMap<T: PersistableFetchableTableRecord>(
+			_ table: T.Type,
+			type: CollectionType,
+			id: (T) -> MetadataRelationalModel.Hörspiel.ID,
+			asFolge nummer: ((T) -> UInt?)? = nil,
+			order: ((T.Type) -> QueryInterfaceRequest<T>)? = nil
+		) throws -> [Hörspiel] {
+			// Order by primary key (hörspielID) or use custom ordering
+			let request: QueryInterfaceRequest<T> = order?(table) ?? table.orderByPrimaryKey()
+			return try request
+				.fetchAll(db)
+				.map {
+					// Find object
+					var hörspiel = try findHörspielObject(id: id($0), from: table)
+					// Convert to Folge if necessary
+					if let nummer {
+						makeFolge(with: nummer($0), hörspiel: &hörspiel)
+					}
+					// Add local directory URL
+					try addURL(to: hörspiel, as: type)
+					return hörspiel
+				}
+		}
 		
 		// serie
-		serie = try MetadataRelationalModel.SerieFolge
-			.orderByPrimaryKey()
-			.fetchAll(db)
+		serie = try fetchAllAndMap(MetadataRelationalModel.SerieFolge.self, type: .serie, id: \.hörspielID, asFolge: \.nummer)
 			.map {
-				var hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.SerieFolge.self)
-				makeFolge(with: $0.nummer, hörspiel: &hörspiel)
-				try addURL(to: hörspiel, as: .serie)
-				return hörspiel as! Folge
+				$0 as! Folge
 			}
 		
 		// spezial
-		spezial = try MetadataRelationalModel.SpezialFolge
-			.order(columnPosition)
-			.fetchAll(db)
-			.map {
-				let hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.SpezialFolge.self)
-				try addURL(to: hörspiel, as: .spezial)
-				return hörspiel
-			}
+		spezial = try fetchAllAndMap(MetadataRelationalModel.SpezialFolge.self, type: .spezial, id: \.hörspielID, order: {
+			$0.order(columnPosition)
+		})
 		
 		// kurzgeschichten
-		kurzgeschichten = try MetadataRelationalModel.KurzgeschichtenFolge
-			.orderByPrimaryKey()
-			.fetchAll(db)
-			.map {
-				let hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.KurzgeschichtenFolge.self)
-				try addURL(to: hörspiel, as: .kurzgeschichten)
-				return hörspiel
-			}
+		kurzgeschichten = try fetchAllAndMap(MetadataRelationalModel.KurzgeschichtenFolge.self, type: .kurzgeschichten, id: \.hörspielID)
 		
 		// die_dr3i
-		die_dr3i = try MetadataRelationalModel.DieDr3iFolge
-			.orderByPrimaryKey()
-			.fetchAll(db)
-			.map {
-				var hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.DieDr3iFolge.self)
-				makeFolge(with: $0.nummer, hörspiel: &hörspiel)
-				try addURL(to: hörspiel, as: .die_dr3i)
-				return hörspiel
-			}
+		die_dr3i = try fetchAllAndMap(MetadataRelationalModel.DieDr3iFolge.self, type: .die_dr3i, id: \.hörspielID, asFolge: \.nummer)
 		
 		// kids
-		kids = try MetadataRelationalModel.KidsFolge
-			.orderByPrimaryKey()
-			.fetchAll(db)
-			.map {
-				var hörspiel = try findHörspielObject(id: $0.hörspielID, from: MetadataRelationalModel.KidsFolge.self)
-				makeFolge(with: $0.nummer, hörspiel: &hörspiel)
-				try addURL(to: hörspiel, as: .kids)
-				return hörspiel
-			}
+		kids = try fetchAllAndMap(MetadataRelationalModel.KidsFolge.self, type: .kids, id: \.hörspielID, asFolge: \.nummer)
 			.sorted { (a, b) in
 				a.veröffentlichungsdatum ?? "" < b.veröffentlichungsdatum ?? ""
 			}
+		
+		// sonstige
+		sonstige = try fetchAllAndMap(MetadataRelationalModel.SonstigesHörspiel.self, type: .sonstige, id: \.hörspielID)
 		
 		
 		// version

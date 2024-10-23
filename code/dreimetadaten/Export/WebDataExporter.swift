@@ -175,7 +175,7 @@ struct WebDataExporter {
 		
 		let hörspiele = CollectionType.allCases
 			.map {
-				objectModel[keyPath: $0.objectModelKeyPath] as! [MetadataObjectModel.Hörspiel]
+				(objectModel[keyPath: $0.objectModelKeyPath] as! [MetadataObjectModel.Hörspiel]?) ?? []
 			}
 			.joined()
 		

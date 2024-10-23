@@ -77,6 +77,8 @@ class CollectionPageBuilder: PageBuilder {
 				collection.reverse()
 				table.addCell(type: .th, content: headerNr)
 				table.addCell(type: .th, content: headerTitel)
+			default:
+				fatalError("Collection type \"\(collectionType)\" not implemented")
 		}
 		table.addCell(type: .th, width: 2, content: "Metadaten")
 		if hasRipLog {
@@ -159,6 +161,9 @@ class CollectionPageBuilder: PageBuilder {
 						table.addEmptyCell()
 						table.addCell(class: .nr, content: hörspiel.titel ?? "")
 					}
+					
+				default:
+					fatalError("Collection type \"\(collectionType)\" not implemented")
 			}
 			
 			// Links

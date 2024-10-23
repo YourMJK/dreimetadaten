@@ -15,6 +15,7 @@ enum CollectionType: String, ArgumentEnum {
 	case kurzgeschichten
 	case die_dr3i
 	case kids
+	case sonstige
 	
 	static let allCasesJSONFile = "Alle.json"
 	
@@ -25,6 +26,7 @@ enum CollectionType: String, ArgumentEnum {
 			case .kurzgeschichten: return "Kurzgeschichten"
 			case .die_dr3i: return "DiE DR3i"
 			case .kids: return "Kids"
+			case .sonstige: return "Sonstige"
 		}
 	}
 	
@@ -40,6 +42,7 @@ enum CollectionType: String, ArgumentEnum {
 		switch self {
 			case .serie: return base
 			case .die_dr3i: return name
+			case .sonstige: return ""
 			default: return "\(base) \(name)"
 		}
 	}
@@ -63,6 +66,7 @@ enum CollectionType: String, ArgumentEnum {
 			case .kurzgeschichten: return \.kurzgeschichten
 			case .die_dr3i: return \.die_dr3i
 			case .kids: return \.kids
+			case .sonstige: return \.sonstige
 		}
 	}
 	

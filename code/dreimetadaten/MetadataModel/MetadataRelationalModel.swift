@@ -16,6 +16,7 @@ struct MetadataRelationalModel {
 	var kurzgeschichten: [KurzgeschichtenFolge] = []
 	var dieDr3i: [DieDr3iFolge] = []
 	var kids: [KidsFolge] = []
+	var sonstige: [SonstigesHörspiel] = []
 	
 	var hörspiel: [Hörspiel] = []
 	var hörspielTeil: [HörspielTeil] = []
@@ -63,6 +64,10 @@ extension MetadataRelationalModel {
 	struct KidsFolge: Codable {
 		var nummer: UInt?
 		
+		var hörspielID: Hörspiel.ID
+	}
+	
+	struct SonstigesHörspiel: Codable {
 		var hörspielID: Hörspiel.ID
 	}
 	
@@ -223,6 +228,10 @@ extension MetadataRelationalModel.KidsFolge: PersistableFetchableTableRecord, Id
 	static let databaseTableName = "kids"
 	var id: MetadataRelationalModel.Hörspiel.ID { hörspielID }
 }
+extension MetadataRelationalModel.SonstigesHörspiel: PersistableFetchableTableRecord, Identifiable {
+	static let databaseTableName = "sonstige"
+	var id: MetadataRelationalModel.Hörspiel.ID { hörspielID }
+}
 extension MetadataRelationalModel.Hörspiel: PersistableFetchableTableRecord, UniquePrimaryKeyName, Identifiable {
 	static let primaryKeyName = "hörspielID"
 	var id: ID { hörspielID }
@@ -278,6 +287,7 @@ extension MetadataRelationalModel {
 		try fetchAll(\.kurzgeschichten)
 		try fetchAll(\.dieDr3i)
 		try fetchAll(\.kids)
+		try fetchAll(\.sonstige)
 		try fetchAll(\.medium)
 		try fetchAll(\.track)
 		try fetchAll(\.kapitel)
@@ -353,6 +363,7 @@ extension MetadataRelationalModel {
 		try encodeTable(kurzgeschichten)
 		try encodeTable(dieDr3i)
 		try encodeTable(kids)
+		try encodeTable(sonstige)
 		try encodeTable(hörspiel)
 		try encodeTable(hörspielTeil)
 		try encodeTable(medium)

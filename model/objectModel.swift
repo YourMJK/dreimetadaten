@@ -4,6 +4,7 @@ struct MetadataObjectModel {
 	var kurzgeschichten: [Hörspiel]?
 	var die_dr3i: [Hörspiel]?
 	var kids: [Hörspiel]?
+	var sonstige: [Hörspiel]?
 	
 	var dbInfo: DBInfo?
 }
