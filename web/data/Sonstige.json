@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.4.3",
-    "lastModified" : "2024-10-20T00:01:26Z"
+    "version" : "2.5.0",
+    "lastModified" : "2024-10-23T01:02:25Z"
   },
   "sonstige" : [
     {
@@ -22,6 +22,31 @@
         "spotify" : "6GzVkk2Z68W4nhu4W9is7e",
         "amazonMusic" : "B0029Y3WYQ",
         "amazon" : "B00002DF5U"
+      },
+      "unvollständig" : true
+    },
+    {
+      "titel" : "Die Welt der drei ???",
+      "beschreibung" : "Wusstet ihr, dass Skinny Norris und Morton etwas gemeinsam haben? Dass Bobs Vater ganze vier und seine Mutter gar keinen Vornamen hat? Wer den Ausdruck \"spezialgelagerter Sonderfall\" erfand? Und ob Hugenay eigentlich noch mal aus dem Gefängnis kommt?\nAutor C. R. Rodenwald fasst nun endlich (fast) alles zusammen, was über die drei Detektive aus Rocky Beach und ihre abenteuerlichen Erlebnisse bekannt ist: Wissenswertes zu allen wichtigen Figuren der Serie, die Hintergründe der Entstehung, Fakten und kuriose Gegebenheiten – und klärt unter anderem auch die hypothetische Frage \"Wie groß müsste die Kleinstadt Rocky Beach eigentlich wirklich sein?\".",
+      "metabeschreibung" : "Ein Audio-Feature basierend auf dem gleichnamigen Buch von C. R. Rodenwald. Erzählt von Daniel Finger.\nMit O-Tönen, Statements, Zwischenrufen und Hörspielsequenzen.",
+      "veröffentlichungsdatum" : "2019-08-23",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Sonstige/Die-Welt-der-drei-/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music113/v4/0b/86/f3/0b86f33c-7355-64e6-a18f-4a030e6f8213/886447834695.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/die-welt-der-drei-fragezeichen",
+        "appleMusic" : "https://music.apple.com/de/album/1473823449",
+        "spotify" : "https://open.spotify.com/intl-de/album/7M0B7obT3Yne87GsGAvB4r",
+        "amazonMusic" : "https://music.amazon.de/albums/B07VHQX6BV",
+        "amazon" : "https://www.amazon.de/gp/product/B07VZ3QHDC",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_sL7uwWhB7Y3"
+      },
+      "ids" : {
+        "dreimetadaten" : 415,
+        "appleMusic" : "1473823449",
+        "spotify" : "7M0B7obT3Yne87GsGAvB4r",
+        "amazonMusic" : "B07VHQX6BV",
+        "amazon" : "B07VZ3QHDC",
+        "youTubeMusic" : "MPREb_sL7uwWhB7Y3"
       },
       "unvollständig" : true
     }
