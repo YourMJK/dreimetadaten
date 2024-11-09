@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.5.2",
-    "lastModified" : "2024-10-27T02:37:21Z"
+    "version" : "2.5.3",
+    "lastModified" : "2024-11-09T16:21:12Z"
   },
   "serie" : [
     {
@@ -45012,22 +45012,156 @@
       "titel" : "Der Tag der Toten",
       "autor" : "Marco Sonnleitner",
       "hörspielskriptautor" : "André Minninger",
+      "kurzbeschreibung" : "Skelette säumen Linus' Weg. Seit Tagen begegnen sie ihm auf Fotos, in der Post oder gar persönlich. Überall sieht der junge Mann die knöchernen Gestalten.",
+      "beschreibung" : "Verzweifelt wendet sich Linus an Justus, Peter und Bob. Können die drei Detektive ihm helfen, herauszufinden, was hinter diesen rätselhaften Begegnungen steckt? In Linus rufen die Skelette Erinnerungen an seine Kindheit hervor. Dinge, die er lange verdrängt hat. Wer will hier die Geister der Vergangenheit wecken?\nDie drei ??? übernehmen den Fall.",
       "veröffentlichungsdatum" : "2024-11-08",
+      "kapitel" : [
+        {
+          "titel" : "Prayer's Hill",
+          "start" : 0,
+          "end" : 626000
+        },
+        {
+          "titel" : "Der Tod im Garten",
+          "start" : 626000,
+          "end" : 1110307
+        },
+        {
+          "titel" : "Día de los Muertos",
+          "start" : 1110307,
+          "end" : 1650520
+        },
+        {
+          "titel" : "R.I.P.",
+          "start" : 1650520,
+          "end" : 2277973
+        },
+        {
+          "titel" : "Blick in die Vergangenheit",
+          "start" : 2277973,
+          "end" : 3067720
+        },
+        {
+          "titel" : "2-058",
+          "start" : 3067720,
+          "end" : 3556013
+        },
+        {
+          "titel" : "Hände hoch!",
+          "start" : 3556013,
+          "end" : 4209093
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Linus Wade",
+          "sprecher" : "Nico-Alexander Wilhelm"
+        },
+        {
+          "rolle" : "Sonja",
+          "sprecher" : "Manuela Eifrig"
+        },
+        {
+          "rolle" : "Quaid",
+          "sprecher" : "Stephan Benson"
+        },
+        {
+          "rolle" : "Mr. Zimmerman",
+          "sprecher" : "Charles Brauer"
+        },
+        {
+          "rolle" : "Ruby",
+          "sprecher" : "Katja Brügger"
+        },
+        {
+          "rolle" : "Rick Turner",
+          "sprecher" : "Helmut Zierl"
+        },
+        {
+          "rolle" : "IQ",
+          "sprecher" : "Götz Otto"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/230/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/230/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/230/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/f6/3c/1b/f63c1b22-f6dc-6cef-65e1-509fbab4650a/196872212150.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/der-tag-der-toten",
         "appleMusic" : "https://music.apple.com/de/album/1764904056",
+        "spotify" : "https://open.spotify.com/intl-de/album/154I9rUwPuFHj6snU4amYg",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1425507",
         "amazonMusic" : "https://music.amazon.de/albums/B0DF7PZZRW",
-        "amazon" : "https://www.amazon.de/gp/product/B0D8K4PKQG"
+        "amazon" : "https://www.amazon.de/gp/product/B0D8K4PKQG",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_eVuxrPAEmwj"
       },
       "ids" : {
         "dreimetadaten" : 308,
         "appleMusic" : "1764904056",
+        "spotify" : "154I9rUwPuFHj6snU4amYg",
+        "bookbeat" : "1425507",
         "amazonMusic" : "B0DF7PZZRW",
-        "amazon" : "B0D8K4PKQG"
+        "amazon" : "B0D8K4PKQG",
+        "youTubeMusic" : "MPREb_eVuxrPAEmwj"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Prayer's Hill",
+              "start" : 0,
+              "end" : 626000
+            },
+            {
+              "titel" : "Der Tod im Garten",
+              "start" : 626000,
+              "end" : 1110307
+            },
+            {
+              "titel" : "Día de los Muertos",
+              "start" : 1110307,
+              "end" : 1650520
+            },
+            {
+              "titel" : "R.I.P.",
+              "start" : 1650520,
+              "end" : 2277973
+            },
+            {
+              "titel" : "Blick in die Vergangenheit",
+              "start" : 2277973,
+              "end" : 3067720
+            },
+            {
+              "titel" : "2-058",
+              "start" : 3067720,
+              "end" : 3556013
+            },
+            {
+              "titel" : "Hände hoch!",
+              "start" : 3556013,
+              "end" : 4209093
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Serie/230/rip_log.txt"
+        }
+      ]
     }
   ],
   "spezial" : [
