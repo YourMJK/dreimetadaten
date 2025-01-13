@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.5.6",
-    "lastModified" : "2024-11-17T02:07:15Z"
+    "version" : "2.5.7",
+    "lastModified" : "2025-01-13T16:40:55Z"
   },
   "serie" : [
     {
@@ -45182,6 +45182,71 @@
         "appleMusic" : "1777986506",
         "amazonMusic" : "B0DM22TZFC",
         "amazon" : "B0DHYN364S"
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 232,
+      "titel" : "Die Stadt aus Gold",
+      "autor" : "Christoph Dittert",
+      "veröffentlichungsdatum" : "2025-03-21",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/232/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 417
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 233,
+      "titel" : "Die Nacht der Gewitter",
+      "autor" : "Marco Sonnleitner",
+      "veröffentlichungsdatum" : "2025-05-23",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/233/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 418
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 234,
+      "titel" : "und der lebende Tresor",
+      "autor" : "André Minninger",
+      "veröffentlichungsdatum" : "2025-07-25",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/234/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 419
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 235,
+      "titel" : "und das Fantasmofon",
+      "autor" : "Kari Erlhoff",
+      "veröffentlichungsdatum" : "2025-09-12",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/235/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 420
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 236,
+      "titel" : "Im Bann des Barrakudas",
+      "autor" : "Hendrik Buchna",
+      "veröffentlichungsdatum" : "2025-12-12",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/236/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 421
       },
       "unvollständig" : true
     }
