@@ -1,0 +1,135 @@
+X Lossless Decoder version 20240511 (157.1)
+
+XLD extraction logfile from 2025-01-18 15:14:56 +0100
+
+ / Die drei ??? - Folge 231: und der Dreiäugige Schakal
+
+Used drive : ASUS BW-16D1HT (revision 3.01)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 06:05:56 |         0    |    27430   
+        2  | 06:05:56 | 12:50:73 |     27431    |    85253   
+        3  | 18:56:54 | 11:37:69 |     85254    |   137597   
+        4  | 30:34:48 | 13:14:58 |    137598    |   197205   
+        5  | 43:49:31 | 11:14:52 |    197206    |   247807   
+        6  | 55:04:08 | 07:32:15 |    247808    |   281722   
+        7  | 62:36:23 | 13:11:64 |    281723    |   341111   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : Die drei ??? - Folge 231： und der Dreiäugige Schakal.m4a
+    CRC32 hash               : ADE82E6B
+    CRC32 hash (skip zero)   : 11B0A2A8
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : FA987FF8
+    CRC32 hash (skip zero)   : 708EC0D8
+    AccurateRip v1 signature : D40FD287
+    AccurateRip v2 signature : F268A626
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : E0F118F7
+    CRC32 hash (skip zero)   : 5CECC97A
+    AccurateRip v1 signature : DAD4477A
+    AccurateRip v2 signature : E530E686
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : AFF00162
+    CRC32 hash (skip zero)   : A92208C9
+    AccurateRip v1 signature : 2B7E6335
+    AccurateRip v2 signature : 99CC7BBB
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 24FF9404
+    CRC32 hash (skip zero)   : EA2442DE
+    AccurateRip v1 signature : F68EFE9C
+    AccurateRip v2 signature : 500706C2
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : 84469B9B
+    CRC32 hash (skip zero)   : 7A2D861D
+    AccurateRip v1 signature : 510EAA63
+    AccurateRip v2 signature : DD75DC4A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : 0B66980D
+    CRC32 hash (skip zero)   : 3E504ED1
+    AccurateRip v1 signature : 3250A078
+    AccurateRip v2 signature : 087E4927
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : ECB2E6AE
+    CRC32 hash (skip zero)   : 5AC87D78
+    AccurateRip v1 signature : 5D02FA5F
+    AccurateRip v2 signature : 20E689C1
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

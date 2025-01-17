@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.5.7",
-    "lastModified" : "2025-01-13T16:40:55Z"
+    "version" : "2.5.8",
+    "lastModified" : "2025-01-18T14:43:32Z"
   },
   "serie" : [
     {
@@ -45168,22 +45168,192 @@
       "titel" : "und der Dreiäugige Schakal",
       "autor" : "Ben Nevis",
       "hörspielskriptautor" : "André Minninger",
+      "kurzbeschreibung" : "Peter sitzt mit Kelly im Park, als ihm mulmig zumute wird. Irgendetwas stimmt hier nicht: Bobachtet die Statue des Dreiäugigen Schakals sie etwa?",
+      "beschreibung" : "Die beiden nehmen die Bronzefigur genauer unter die Lupe, als plötzlich etwas geschieht, mit dem niemand gerechnet hat! Peter und Kelly verlassen vor lauter Schreck fluchtartig den Park. Die Statue mit dem Schakalkopf hat eindeutig ein dunkles Geheimnis. Was verbirgt sich hinter der kalten Hülle? Justus und Bob stehen ihrem Freund zur Seite – die drei ??? beginnen ihre Recherche.",
       "veröffentlichungsdatum" : "2025-01-17",
+      "kapitel" : [
+        {
+          "titel" : "Das blanke Entsetzen!",
+          "start" : 0,
+          "end" : 365747
+        },
+        {
+          "titel" : "Die Spur des Pick-ups",
+          "start" : 365747,
+          "end" : 1136720
+        },
+        {
+          "titel" : "Rapper",
+          "start" : 1136720,
+          "end" : 1834640
+        },
+        {
+          "titel" : "Ein wahrer Freund",
+          "start" : 1834640,
+          "end" : 2629413
+        },
+        {
+          "titel" : "Fall gelöst?",
+          "start" : 2629413,
+          "end" : 3304107
+        },
+        {
+          "titel" : "Eine dunkle Nacht",
+          "start" : 3304107,
+          "end" : 3756307
+        },
+        {
+          "titel" : "Der Schlüssel zu allem",
+          "start" : 3756307,
+          "end" : 4548160
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Kelly",
+          "sprecher" : "Juliane Szalay"
+        },
+        {
+          "rolle" : "Kommissarin Merryweather",
+          "sprecher" : "Anne Moll"
+        },
+        {
+          "rolle" : "Nina Radamus",
+          "sprecher" : "Astrid Kollex"
+        },
+        {
+          "rolle" : "Luke Kingsbury",
+          "sprecher" : "Marcel Saibert"
+        },
+        {
+          "rolle" : "Jana",
+          "sprecher" : "Anika Baumann"
+        },
+        {
+          "rolle" : "Ryan Ford",
+          "sprecher" : "Michael Grimm"
+        },
+        {
+          "rolle" : "Constantin Krueger",
+          "sprecher" : "Martin May"
+        },
+        {
+          "rolle" : "Mick Manson",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Erik Schäffler"
+        },
+        {
+          "rolle" : "Travis",
+          "sprecher" : "Fabian Harloff"
+        },
+        {
+          "rolle" : "Breezy",
+          "sprecher" : "Sonja Stein"
+        },
+        {
+          "rolle" : "Big Rock",
+          "sprecher" : "Patrick Baehr"
+        },
+        {
+          "rolle" : "Joe",
+          "sprecher" : "Jürgen Holdorf"
+        },
+        {
+          "rolle" : "Hank",
+          "sprecher" : "Fabian Müller"
+        },
+        {
+          "rolle" : "Wächter",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Bankangestellter",
+          "sprecher" : "Martin Rowedder"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/231/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/231/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/231/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/bd/a7/19/bda71904-2ee5-ca28-2a2a-9ec91b87522e/196872231458.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/der-dreiaugige-schakal",
         "appleMusic" : "https://music.apple.com/de/album/1777986506",
+        "spotify" : "https://open.spotify.com/intl-de/album/6isiJbL3hh7e60KigIgKuY",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1509609",
         "amazonMusic" : "https://music.amazon.de/albums/B0DM22TZFC",
-        "amazon" : "https://www.amazon.de/gp/product/B0DHYN364S"
+        "amazon" : "https://www.amazon.de/gp/product/B0DHYN364S",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ZSOEgNJlMaw"
       },
       "ids" : {
         "dreimetadaten" : 416,
         "appleMusic" : "1777986506",
+        "spotify" : "6isiJbL3hh7e60KigIgKuY",
+        "bookbeat" : "1509609",
         "amazonMusic" : "B0DM22TZFC",
-        "amazon" : "B0DHYN364S"
+        "amazon" : "B0DHYN364S",
+        "youTubeMusic" : "MPREb_ZSOEgNJlMaw"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Das blanke Entsetzen!",
+              "start" : 0,
+              "end" : 365747
+            },
+            {
+              "titel" : "Die Spur des Pick-ups",
+              "start" : 365747,
+              "end" : 1136720
+            },
+            {
+              "titel" : "Rapper",
+              "start" : 1136720,
+              "end" : 1834640
+            },
+            {
+              "titel" : "Ein wahrer Freund",
+              "start" : 1834640,
+              "end" : 2629413
+            },
+            {
+              "titel" : "Fall gelöst?",
+              "start" : 2629413,
+              "end" : 3304107
+            },
+            {
+              "titel" : "Eine dunkle Nacht",
+              "start" : 3304107,
+              "end" : 3756307
+            },
+            {
+              "titel" : "Der Schlüssel zu allem",
+              "start" : 3756307,
+              "end" : 4548160
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Serie/231/rip_log.txt"
+        }
+      ]
     },
     {
       "nummer" : 232,
