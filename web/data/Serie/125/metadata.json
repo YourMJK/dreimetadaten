@@ -486,7 +486,8 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/125/1/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/1/ffmetadata.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/1/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/125/1/cover.png"
       },
       "ids" : {
         "dreimetadaten" : 141
@@ -646,7 +647,8 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/125/2/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/2/ffmetadata.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/2/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/125/2/cover.png"
       },
       "ids" : {
         "dreimetadaten" : 142
@@ -816,7 +818,8 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/125/3/metadata.json",
-        "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/3/ffmetadata.txt"
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/3/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/125/3/cover.png"
       },
       "ids" : {
         "dreimetadaten" : 143

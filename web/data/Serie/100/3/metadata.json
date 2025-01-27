@@ -90,7 +90,8 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/100/3/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/3/ffmetadata.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/100/3/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/100/3/cover.png"
   },
   "ids" : {
     "dreimetadaten" : 103

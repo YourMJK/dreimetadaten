@@ -125,7 +125,8 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/175/2/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/2/ffmetadata.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/2/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/175/2/cover.png"
   },
   "ids" : {
     "dreimetadaten" : 227
