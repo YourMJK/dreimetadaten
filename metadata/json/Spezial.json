@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.5.9",
-    "lastModified" : "2025-01-27T23:52:46Z"
+    "version" : "2.5.10",
+    "lastModified" : "2025-01-28T12:23:47Z"
   },
   "spezial" : [
     {
@@ -1350,7 +1350,8 @@
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt"
+            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt",
+            "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/cover.png"
           },
           "ids" : {
             "dreimetadaten" : 161
@@ -1518,7 +1519,8 @@
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt"
+            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/ffmetadata.txt",
+            "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/2/cover.png"
           },
           "ids" : {
             "dreimetadaten" : 162
@@ -1737,7 +1739,8 @@
           ],
           "links" : {
             "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/metadata.json",
-            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt"
+            "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/ffmetadata.txt",
+            "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/3/cover.png"
           },
           "ids" : {
             "dreimetadaten" : 163

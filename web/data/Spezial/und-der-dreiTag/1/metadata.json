@@ -170,7 +170,8 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/metadata.json",
-    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt"
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Spezial/und-der-dreiTag/1/cover.png"
   },
   "ids" : {
     "dreimetadaten" : 161
