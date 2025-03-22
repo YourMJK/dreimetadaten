@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.5.10",
-    "lastModified" : "2025-01-28T12:23:47Z"
+    "version" : "2.5.11",
+    "lastModified" : "2025-03-22T11:34:14Z"
   },
   "serie" : [
     {
@@ -45375,14 +45375,146 @@
       "nummer" : 232,
       "titel" : "Die Stadt aus Gold",
       "autor" : "Christoph Dittert",
+      "kurzbeschreibung" : "Eine Stadt, erbaut aus purem Gold. Das kann nicht mehr als eine Legende sein. Oder gibt es sie, verborgen in der Wildnis, etwa doch?",
+      "beschreibung" : "Das möchte auch Professor Mathewson herausfinden, doch ausgerechnet seine eigene Tochter stiehlt ihm seine Forschungsunterlagen. Verzweifelt wendet er sich an die drei ???. Die Detektive kennen Barbara und können sich nicht erklären, warum sie ihren Vater hintergeht und dann spurlos verschwindet. Weiß Barbara mehr über die Landkarte, die angeblich den Weg zur sagenumwobenen Stadt weist? Justus, Peter und Bob übernehmen den Fall.",
       "veröffentlichungsdatum" : "2025-03-21",
+      "kapitel" : [
+        {
+          "titel" : "Eine Freundin baut Mist",
+          "start" : 0,
+          "end" : 701200
+        },
+        {
+          "titel" : "Zufall – oder nicht?",
+          "start" : 701200,
+          "end" : 1415267
+        },
+        {
+          "titel" : "Was Barbara getan hat und warum",
+          "start" : 1415267,
+          "end" : 2058480
+        },
+        {
+          "titel" : "Die älteste Königin der Stadt",
+          "start" : 2058480,
+          "end" : 2548440
+        },
+        {
+          "titel" : "Giftschrank?",
+          "start" : 2548440,
+          "end" : 3255267
+        },
+        {
+          "titel" : "Labyrinth der Finsternis",
+          "start" : 3255267,
+          "end" : 4529120
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Professor Mathewson",
+          "sprecher" : "Stephan Schwartz"
+        },
+        {
+          "rolle" : "Barbara",
+          "sprecher" : "Tanja Geke"
+        },
+        {
+          "rolle" : "Faraday",
+          "sprecher" : "Eva Weissmann"
+        },
+        {
+          "rolle" : "Bruder Lukas/Harry",
+          "sprecher" : "Frank Roder"
+        },
+        {
+          "rolle" : "Bruder David",
+          "sprecher" : "Tobias Diakow"
+        },
+        {
+          "rolle" : "Bruder Jakob",
+          "sprecher" : "Gordon Piedesack"
+        },
+        {
+          "rolle" : "Abt Johannes",
+          "sprecher" : "Douglas Welbat"
+        }
+      ],
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/232/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Serie/232/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/232/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/232/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/a3/9e/f4/a39ef476-1d9f-25c4-1128-38c909116af9/196872231557.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/die-stadt-aus-gold",
+        "appleMusic" : "https://music.apple.com/de/album/1794782655",
+        "spotify" : "https://open.spotify.com/intl-de/album/1Qnn3AAN3Nquv7GlNk41YQ",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1571423",
+        "amazonMusic" : "https://music.amazon.de/albums/B0DW9FQ78L",
+        "amazon" : "https://www.amazon.de/gp/product/B0DNNYGDYD",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_qBgPKZ7IyA1"
       },
       "ids" : {
-        "dreimetadaten" : 417
+        "dreimetadaten" : 417,
+        "appleMusic" : "1794782655",
+        "spotify" : "1Qnn3AAN3Nquv7GlNk41YQ",
+        "bookbeat" : "1571423",
+        "amazonMusic" : "B0DW9FQ78L",
+        "amazon" : "B0DNNYGDYD",
+        "youTubeMusic" : "MPREb_qBgPKZ7IyA1"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Eine Freundin baut Mist",
+              "start" : 0,
+              "end" : 701200
+            },
+            {
+              "titel" : "Zufall – oder nicht?",
+              "start" : 701200,
+              "end" : 1415267
+            },
+            {
+              "titel" : "Was Barbara getan hat und warum",
+              "start" : 1415267,
+              "end" : 2058480
+            },
+            {
+              "titel" : "Die älteste Königin der Stadt",
+              "start" : 2058480,
+              "end" : 2548440
+            },
+            {
+              "titel" : "Giftschrank?",
+              "start" : 2548440,
+              "end" : 3255267
+            },
+            {
+              "titel" : "Labyrinth der Finsternis",
+              "start" : 3255267,
+              "end" : 4529120
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Serie/232/rip_log.txt"
+        }
+      ]
     },
     {
       "nummer" : 233,
