@@ -14,6 +14,7 @@ class Hörspiel {
 	var titel: String?
 	var autor: String?
 	var hörspielskriptautor: String?
+	var gesamtbeschreibung: String?
 	var kurzbeschreibung: String?
 	var beschreibung: String?
 	var metabeschreibung: String?

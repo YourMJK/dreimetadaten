@@ -28,6 +28,7 @@ extension MetadataObjectModel {
 		var titel: String?
 		var autor: String?
 		var hörspielskriptautor: String?
+		var gesamtbeschreibung: String?
 		var kurzbeschreibung: String?
 		var beschreibung: String?
 		var metabeschreibung: String?
@@ -186,6 +187,7 @@ extension MetadataObjectModel {
 			"titel",
 			"autor",
 			"hörspielskriptautor",
+			"gesamtbeschreibung",
 			"kurzbeschreibung",
 			"beschreibung",
 			"metabeschreibung",
@@ -354,6 +356,7 @@ extension MetadataObjectModel {
 			to.titel = from.titel
 			to.autor = from.autor
 			to.hörspielskriptautor = from.hörspielskriptautor
+			to.gesamtbeschreibung = from.gesamtbeschreibung
 			to.kurzbeschreibung = from.kurzbeschreibung
 			to.beschreibung = from.beschreibung
 			to.metabeschreibung = from.metabeschreibung
@@ -480,11 +483,17 @@ extension MetadataObjectModel {
 				return String.fromDatabaseValue($0.databaseValue)!
 			}
 			
+			// gesamtbeschreibung
+			// kurzbeschreibung + beschreibung, or metabeschreibung if both are nil
+			let beschreibungComponents = [hörspiel.kurzbeschreibung, hörspiel.beschreibung].compactMap { $0 }
+			let gesamtbeschreibung = beschreibungComponents.isEmpty ? hörspiel.metabeschreibung : beschreibungComponents.joined(separator: "\n")
+			
 			// Create and remember object model item
 			let hörspielObject = Hörspiel()
 			hörspielObject.titel = hörspiel.titel
 			hörspielObject.autor = buchautor
 			hörspielObject.hörspielskriptautor = skriptautor
+			hörspielObject.gesamtbeschreibung = gesamtbeschreibung
 			hörspielObject.kurzbeschreibung = hörspiel.kurzbeschreibung
 			hörspielObject.beschreibung = hörspiel.beschreibung
 			hörspielObject.metabeschreibung = hörspiel.metabeschreibung

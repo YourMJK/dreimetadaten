@@ -110,9 +110,8 @@ extension FFmetadata {
 			return nil
 		}()
 		
-		// Kurzbeschreibung + beschreibung as description, or metabeschreibung if both are nil
-		let descriptionComponents = [hörspiel.kurzbeschreibung, hörspiel.beschreibung].compactMap { $0 }
-		let description = descriptionComponents.isEmpty ? hörspiel.metabeschreibung : descriptionComponents.joined(separator: "\n")
+		// Gesamtbeschreibung as description
+		let description = hörspiel.gesamtbeschreibung
 		
 		// Veröffentlichungsdatum as date, assuming yyyy-MM-dd format
 		let date: DateComponents? = {
