@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.6.0",
-    "lastModified" : "2025-04-25T13:08:38Z"
+    "version" : "2.6.1",
+    "lastModified" : "2025-05-23T14:08:15Z"
   },
   "serie" : [
     {
@@ -45764,14 +45764,172 @@
       "nummer" : 233,
       "titel" : "Die Nacht der Gewitter",
       "autor" : "Marco Sonnleitner",
+      "hörspielskriptautor" : "André Minninger",
+      "gesamtbeschreibung" : "Helle Blitze und Donnergrollen überraschen die drei Detektive auf ihrem Weg nach Orange Bay, einem kleinen Ort direkt an der kalifornischen Pazifikküste.\nNur mit viel Glück kommen die drei ??? endlich an, denn die Brücke in den von hohen Küstenklippen umschlossenen Ort wurde vom Unwetter zerstört. Niemand kann Orange Bay mehr erreichen, geschweige denn verlassen. Dennoch verschwindet kurz darauf ein 1967er Ford Shelby Mustang GT Super Snake aus seiner Garage. Wer hat den wertvollen Wagen gestohlen? Abgeschottet von der Außenwelt machen sich Justus, Peter und Bob auf die Suche nach dem seltenen Auto.",
+      "kurzbeschreibung" : "Helle Blitze und Donnergrollen überraschen die drei Detektive auf ihrem Weg nach Orange Bay, einem kleinen Ort direkt an der kalifornischen Pazifikküste.",
+      "beschreibung" : "Nur mit viel Glück kommen die drei ??? endlich an, denn die Brücke in den von hohen Küstenklippen umschlossenen Ort wurde vom Unwetter zerstört. Niemand kann Orange Bay mehr erreichen, geschweige denn verlassen. Dennoch verschwindet kurz darauf ein 1967er Ford Shelby Mustang GT Super Snake aus seiner Garage. Wer hat den wertvollen Wagen gestohlen? Abgeschottet von der Außenwelt machen sich Justus, Peter und Bob auf die Suche nach dem seltenen Auto.",
       "veröffentlichungsdatum" : "2025-05-23",
+      "kapitel" : [
+        {
+          "titel" : "Die Gestalt im Gewitter",
+          "start" : 0,
+          "end" : 551427
+        },
+        {
+          "titel" : "Die silberne Kobra",
+          "start" : 551427,
+          "end" : 1343373
+        },
+        {
+          "titel" : "Die drei Verdächtigen",
+          "start" : 1343373,
+          "end" : 1915053
+        },
+        {
+          "titel" : "Mieses Verhalten",
+          "start" : 1915053,
+          "end" : 2975067
+        },
+        {
+          "titel" : "Das Versteck",
+          "start" : 2975067,
+          "end" : 3493813
+        },
+        {
+          "titel" : "Das unsichtbare Fenster",
+          "start" : 3493813,
+          "end" : 4127520
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Sarah Knight",
+          "sprecher" : "Tina Eschmann"
+        },
+        {
+          "rolle" : "Ted Knight",
+          "sprecher" : "Christian Rudolf"
+        },
+        {
+          "rolle" : "Pebble",
+          "sprecher" : "Leni-Ava Vennewald"
+        },
+        {
+          "rolle" : "Maddy",
+          "sprecher" : "Emilia Gebauer"
+        },
+        {
+          "rolle" : "Jordy Ryker",
+          "sprecher" : "Robert Knorr"
+        },
+        {
+          "rolle" : "Crockett",
+          "sprecher" : "Julian Greis"
+        },
+        {
+          "rolle" : "Basil Noop",
+          "sprecher" : "Tim Grobe"
+        },
+        {
+          "rolle" : "Sophia",
+          "sprecher" : "Maria Bruno"
+        },
+        {
+          "rolle" : "Hank",
+          "sprecher" : "Till Huster"
+        },
+        {
+          "rolle" : "Jimmy",
+          "sprecher" : "Tobias Schmitz"
+        },
+        {
+          "rolle" : "Morland McFade",
+          "sprecher" : "Wolf Frass"
+        },
+        {
+          "rolle" : "Brad Oven",
+          "sprecher" : "Rainer Schmitt"
+        },
+        {
+          "rolle" : "Mann",
+          "sprecher" : "Kai Rake"
+        }
+      ],
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/233/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Serie/233/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/233/ffmetadata.txt",
+        "cover" : "http://dreimetadaten.de/data/Serie/233/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/76/f0/60/76f06061-f519-095d-689b-42ae3d517fa1/196872231601.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/die-nacht-der-gewitter",
+        "appleMusic" : "https://music.apple.com/de/album/1807053258",
+        "spotify" : "https://open.spotify.com/intl-de/album/0qZ0R61AqoD2i8GnzUk91C",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1628294",
+        "amazonMusic" : "https://music.amazon.de/albums/B0F3XMYYYC",
+        "amazon" : "https://www.amazon.de/gp/product/B0DWQWGR2B",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_tUNcFHS9iQ1"
       },
       "ids" : {
-        "dreimetadaten" : 418
+        "dreimetadaten" : 418,
+        "appleMusic" : "1807053258",
+        "spotify" : "0qZ0R61AqoD2i8GnzUk91C",
+        "bookbeat" : "1628294",
+        "amazonMusic" : "B0F3XMYYYC",
+        "amazon" : "B0DWQWGR2B",
+        "youTubeMusic" : "MPREb_tUNcFHS9iQ1"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Die Gestalt im Gewitter",
+              "start" : 0,
+              "end" : 551427
+            },
+            {
+              "titel" : "Die silberne Kobra",
+              "start" : 551427,
+              "end" : 1343373
+            },
+            {
+              "titel" : "Die drei Verdächtigen",
+              "start" : 1343373,
+              "end" : 1915053
+            },
+            {
+              "titel" : "Mieses Verhalten",
+              "start" : 1915053,
+              "end" : 2975067
+            },
+            {
+              "titel" : "Das Versteck",
+              "start" : 2975067,
+              "end" : 3493813
+            },
+            {
+              "titel" : "Das unsichtbare Fenster",
+              "start" : 3493813,
+              "end" : 4127520
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Serie/233/rip_log.txt"
+        }
+      ]
     },
     {
       "nummer" : 234,
