@@ -32,7 +32,7 @@ Folgende Projekte greifen bereits auf diesen Datensatz zurück:
 ### Relationales Modell (SQL-Datenbank, TSV)
 
 <a href="model/relationalModel.svg?raw=1">
-  <img src="model/relationalModel.svg" width="100%" height="100%">
+  <img src="model/relationalModel.svg">
 </a>
 
 <p>
@@ -165,7 +165,7 @@ CREATE TABLE "hörspielSkriptautor"(
 ### Objekt-orientiertes Modell (JSON)
 
 <a href="model/objectModel.svg?raw=1">
-  <img src="model/objectModel.svg" width="100%" height="100%">
+  <img src="model/objectModel.svg">
 </a>
 
 <p>
