@@ -4,10 +4,20 @@
   "autor" : "André Minninger",
   "veröffentlichungsdatum" : "2025-07-25",
   "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/234/metadata.json"
+    "json" : "http://dreimetadaten.de/data/Serie/234/metadata.json",
+    "cover" : "http://dreimetadaten.de/data/Serie/234/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/8d/f6/b9/8df6b9b9-fb7a-3f1f-177c-52b2e0235db1/196872231670.jpg",
+    "appleMusic" : "https://music.apple.com/de/album/1817631978",
+    "spotify" : "https://open.spotify.com/intl-de/album/2aUTuKmWTFT7f5ClaWJNAD",
+    "amazonMusic" : "https://music.amazon.de/albums/B0FBGYRDNK",
+    "amazon" : "https://www.amazon.de/gp/product/B0F3RQFHFQ"
   },
   "ids" : {
-    "dreimetadaten" : 419
+    "dreimetadaten" : 419,
+    "appleMusic" : "1817631978",
+    "spotify" : "2aUTuKmWTFT7f5ClaWJNAD",
+    "amazonMusic" : "B0FBGYRDNK",
+    "amazon" : "B0F3RQFHFQ"
   },
   "unvollständig" : true
 }
