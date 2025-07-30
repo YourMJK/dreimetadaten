@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.6.4",
-    "lastModified" : "2025-07-14T11:21:57Z"
+    "version" : "2.6.5",
+    "lastModified" : "2025-07-30T00:58:14Z"
   },
   "serie" : [
     {
@@ -45936,24 +45936,166 @@
       "nummer" : 234,
       "titel" : "und der lebende Tresor",
       "autor" : "André Minninger",
+      "hörspielskriptautor" : "André Minninger",
+      "gesamtbeschreibung" : "Lucy Apple benötigt die Hilfe der Detektive, denn ihr Freund verbirgt etwas vor ihr. Bei den Ermittlungen stoßen die drei auf recht bizarre Vorkommnisse.\nSkeptisch beginnen die drei ??? mit den Recherchen zu Lucys Partner Ronald und heften sich an dessen Fersen. Doch bei ihren Ermittlungen geraten die Detektive nicht nur gehörig ins Schleudern, sondern in allergrößte Gefahr: Wer treibt hier mit wem ein übles Spiel? Ein mehr als außergewöhnlicher Fall für Justus, Peter und Bob. Können die drei ??? den lebenden Tresor knacken?",
+      "kurzbeschreibung" : "Lucy Apple benötigt die Hilfe der Detektive, denn ihr Freund verbirgt etwas vor ihr. Bei den Ermittlungen stoßen die drei auf recht bizarre Vorkommnisse.",
+      "beschreibung" : "Skeptisch beginnen die drei ??? mit den Recherchen zu Lucys Partner Ronald und heften sich an dessen Fersen. Doch bei ihren Ermittlungen geraten die Detektive nicht nur gehörig ins Schleudern, sondern in allergrößte Gefahr: Wer treibt hier mit wem ein übles Spiel? Ein mehr als außergewöhnlicher Fall für Justus, Peter und Bob. Können die drei ??? den lebenden Tresor knacken?",
       "veröffentlichungsdatum" : "2025-07-25",
+      "kapitel" : [
+        {
+          "titel" : "Erpressung",
+          "start" : 0,
+          "end" : 600960
+        },
+        {
+          "titel" : "Offensichtlich gelogen",
+          "start" : 600960,
+          "end" : 1139947
+        },
+        {
+          "titel" : "Amnesie",
+          "start" : 1139947,
+          "end" : 1510573
+        },
+        {
+          "titel" : "Auf dem Radar",
+          "start" : 1510573,
+          "end" : 2052133
+        },
+        {
+          "titel" : "Chloroform",
+          "start" : 2052133,
+          "end" : 2802653
+        },
+        {
+          "titel" : "Her mit der Tasche!",
+          "start" : 2802653,
+          "end" : 4045707
+        },
+        {
+          "titel" : "Zahlendreher",
+          "start" : 4045707,
+          "end" : 4868280
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Lucy Apple",
+          "sprecher" : "Anna Carlsson"
+        },
+        {
+          "rolle" : "Janet Madison",
+          "sprecher" : "Birte Kretschmer"
+        },
+        {
+          "rolle" : "Ronald Fletcher",
+          "sprecher" : "Tobias Meister"
+        },
+        {
+          "rolle" : "Mandy Coolman",
+          "sprecher" : "Philine Peters-Arnolds"
+        },
+        {
+          "rolle" : "Horrice",
+          "sprecher" : "François Smesny"
+        },
+        {
+          "rolle" : "Jasper",
+          "sprecher" : "Christian Rudolf"
+        },
+        {
+          "rolle" : "Ernest Lubitch",
+          "sprecher" : "Till Hagen"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Goodween",
+          "sprecher" : "André Minninger"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/234/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/234/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/234/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/8d/f6/b9/8df6b9b9-fb7a-3f1f-177c-52b2e0235db1/196872231670.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/der-lebende-tresor",
         "appleMusic" : "https://music.apple.com/de/album/1817631978",
         "spotify" : "https://open.spotify.com/intl-de/album/2aUTuKmWTFT7f5ClaWJNAD",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1664614",
         "amazonMusic" : "https://music.amazon.de/albums/B0FBGYRDNK",
-        "amazon" : "https://www.amazon.de/gp/product/B0F3RQFHFQ"
+        "amazon" : "https://www.amazon.de/gp/product/B0F3RQFHFQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_YlOcBvR4rp6"
       },
       "ids" : {
         "dreimetadaten" : 419,
         "appleMusic" : "1817631978",
         "spotify" : "2aUTuKmWTFT7f5ClaWJNAD",
+        "bookbeat" : "1664614",
         "amazonMusic" : "B0FBGYRDNK",
-        "amazon" : "B0F3RQFHFQ"
+        "amazon" : "B0F3RQFHFQ",
+        "youTubeMusic" : "MPREb_YlOcBvR4rp6"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Erpressung",
+              "start" : 0,
+              "end" : 600960
+            },
+            {
+              "titel" : "Offensichtlich gelogen",
+              "start" : 600960,
+              "end" : 1139947
+            },
+            {
+              "titel" : "Amnesie",
+              "start" : 1139947,
+              "end" : 1510573
+            },
+            {
+              "titel" : "Auf dem Radar",
+              "start" : 1510573,
+              "end" : 2052133
+            },
+            {
+              "titel" : "Chloroform",
+              "start" : 2052133,
+              "end" : 2802653
+            },
+            {
+              "titel" : "Her mit der Tasche!",
+              "start" : 2802653,
+              "end" : 4045707
+            },
+            {
+              "titel" : "Zahlendreher",
+              "start" : 4045707,
+              "end" : 4868280
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Serie/234/rip_log.txt"
+        }
+      ]
     },
     {
       "nummer" : 235,
