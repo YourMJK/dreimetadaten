@@ -1,6 +1,6 @@
-PRAGMA foreign_keys=OFF;
+PRAGMA foreign_keys=ON;
 BEGIN TRANSACTION;
-CREATE TABLE IF NOT EXISTS "hörspiel"(
+CREATE TABLE "hörspiel"(
   "hörspielID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
   "titel" TEXT NOT NULL,
   "kurzbeschreibung" TEXT,
@@ -18,7 +18,120 @@ CREATE TABLE IF NOT EXISTS "hörspiel"(
   "idAmazonMusic" TEXT,
   "idAmazon" TEXT,
   "idYouTubeMusic" TEXT
-, "idDeezer" TEXT);
+);
+CREATE TABLE "hörspielTeil"(
+  "teil" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "hörspiel" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "position" INTEGER NOT NULL CHECK("position" > 0),
+  "buchstabe" TEXT CHECK(LENGTH("buchstabe") = 1),
+  UNIQUE("hörspiel", "position"),
+  UNIQUE("hörspiel", "buchstabe")
+);
+CREATE TABLE "serie"(
+  "nummer" INTEGER PRIMARY KEY NOT NULL,
+  "hörspielID" INTEGER NOT NULL UNIQUE REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
+);
+CREATE TABLE "spezial"(
+  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "position" INTEGER NOT NULL UNIQUE CHECK("position" > 0)
+);
+CREATE TABLE "kurzgeschichten"(
+  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
+);
+CREATE TABLE "dieDr3i"(
+  "nummer" INTEGER,
+  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
+);
+CREATE TABLE "kids"(
+  "nummer" INTEGER,
+  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
+);
+CREATE TABLE "sonstige"(
+  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
+);
+CREATE TABLE "medium"(
+  "mediumID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "position" INTEGER NOT NULL CHECK("position" > 0),
+  "ripLog" BOOLEAN NOT NULL,
+  "musicBrainzID" TEXT,
+  UNIQUE("hörspielID", "position")
+);
+CREATE TABLE "track"(
+  "trackID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+  "mediumID" INTEGER NOT NULL REFERENCES "medium"("mediumID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "position" INTEGER NOT NULL CHECK("position" > 0),
+  "titel" TEXT NOT NULL,
+  "dauer" INTEGER NOT NULL CHECK("dauer" > 0),
+  UNIQUE("mediumID", "position")
+);
+CREATE TABLE "kapitel"(
+  "trackID" INTEGER PRIMARY KEY NOT NULL REFERENCES "track"("trackID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "position" INTEGER NOT NULL CHECK("position" > 0),
+  "abweichenderTitel" TEXT,
+  UNIQUE("hörspielID", "position")
+);
+CREATE TABLE "person"(
+  "personID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+  "name" TEXT NOT NULL UNIQUE
+);
+CREATE TABLE "pseudonym"(
+  "pseudonymID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+  "name" TEXT NOT NULL UNIQUE
+);
+CREATE TABLE "rolle"(
+  "rolleID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+  "name" TEXT NOT NULL UNIQUE
+);
+CREATE TABLE "sprechrolle"(
+  "sprechrolleID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "rolleID" INTEGER NOT NULL REFERENCES "rolle"("rolleID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "position" INTEGER NOT NULL CHECK("position" > 0),
+  UNIQUE("hörspielID", "rolleID"),
+  UNIQUE("hörspielID", "position")
+);
+CREATE TABLE "sprechrolleTeil"(
+  "sprechrolleID" INTEGER NOT NULL REFERENCES "sprechrolle"("sprechrolleID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "position" INTEGER NOT NULL CHECK("position" > 0),
+  PRIMARY KEY("sprechrolleID", "hörspielID"),
+  UNIQUE("hörspielID", "position")
+);
+CREATE TABLE "spricht"(
+  "sprechrolleID" INTEGER NOT NULL REFERENCES "sprechrolle"("sprechrolleID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "pseudonymID" INTEGER REFERENCES "pseudonym"("pseudonymID") ON DELETE SET NULL ON UPDATE CASCADE,
+  "position" INTEGER NOT NULL CHECK("position" > 0),
+  PRIMARY KEY("sprechrolleID", "personID"),
+  UNIQUE("sprechrolleID", "position")
+);
+CREATE TABLE "hörspielBuchautor"(
+  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
+  PRIMARY KEY("hörspielID", "personID")
+);
+CREATE TABLE "hörspielSkriptautor"(
+  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
+  PRIMARY KEY("hörspielID", "personID")
+);
+CREATE TABLE "version"(
+  "major" INTEGER NOT NULL CHECK("major" >= 0),
+  "minor" INTEGER NOT NULL CHECK("minor" >= 0),
+  "patch" INTEGER NOT NULL CHECK("patch" >= 0),
+  "date" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY("major", "minor", "patch")
+);
+CREATE VIEW "alleIDs"("sammlung", "nummer", "hörspielID") AS
+  SELECT 'serie', nummer, hörspielID FROM serie UNION
+  SELECT 'spezial', NULL, hörspielID FROM spezial UNION
+  SELECT 'kurzgeschichten', NULL, hörspielID FROM kurzgeschichten UNION
+  SELECT 'die_dr3i', nummer, hörspielID FROM dieDr3i UNION
+  SELECT 'kids', nummer, hörspielID FROM kids UNION
+  SELECT 'sonstige', NULL, hörspielID FROM sonstige;
+CREATE VIEW "alle" AS SELECT * FROM alleIDs JOIN hörspiel USING(hörspielID);
 INSERT INTO "hörspiel" VALUES(1,'und der Super-Papagei',NULL,replace('Der Auftrag an die drei Detektive hört sich recht harmlos an: Sie sollen einen entflogenen Papagei suchen. Doch kaum beginnen sie mit ihren Nachforschungen, da scheinen sich plötzlich noch einige andere Leute sehr für diesen Papagei zu interessieren. Vielleicht deshalb, weil er lateinische Sprüche zitieren kann? Aber bald geht es nicht mehr nur um einen, sondern um sieben Papageien – und alle sieben führen höchst seltsame Reden. Ob da nicht eine geheime Botschaft dahintersteckt? Jedenfalls sind auch ein jähzorniger Kunsthändler und ein berüchtigter Meisterdieb hinter den Vögeln her.\nDie drei ??? müssen sich ganz schön die hellen Köpfe zerbrechen, ehe sie diesen abenteuerlichen Fall aufklären und eine wohlverdiente Belohnung einheimsen …','\n',char(10)),NULL,'1979-10-12',0,1,'http://a1.mzstatic.com/us/r30/Music41/v4/c9/3f/e4/c93fe4aa-c385-ed18-2cb3-e4eeff284f5a/source','http://web.archive.org/web/20220115152728if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f1/48/5f/0743213880129.jpg','https://dreifragezeichen.de/produktwelt/details/und-der-super-papagei','1092529875','4N9tvSjWfZXx3eHKblYEWQ','534575','B01CURZRWG','B00005QXM1','MPREb_CjlxsM5R4UV','12761822');
 INSERT INTO "hörspiel" VALUES(2,'und der Phantomsee',NULL,'Welches Geheimnis verbirgt sich in einem vergilbten Brief und in den nach langer Zeit wieder aufgetauchten Aufzeichnungen des Seemanns Angus Gunn? Wurde tatsächlich in einer lange vergangenen Sturmnacht ein Piratenschatz von einem sinkenden Schiff gestohlen? Das möchten die drei Detektive Justus, Peter und Bob ebenfalls gerne wissen. Den Nachkommen von Gunn ist es bisher nicht gelungen, das Versteck des Schatzes ausfindig zu machen. Professor Shay, den diese Sache für seine Arbeit am Historischen Forschungsinstitut interessiert, hatte bislang auch kein Glück. Immer mehr Personen tauchen auf und machen sich verdächtig. Auch Java-Jim, ein undurchsichtiger Seemann, versucht den drei ??? zuvorzukommen. Und welche Rolle spielt Stebins, der wegen Unterschlagung im Gefängnis war und auf Bewährung frei ist? Der Professor vermutet, dass er und Java-Jim zusammenarbeiten …',NULL,'1979-10-13',0,1,'http://a1.mzstatic.com/us/r30/Music62/v4/87/1c/7f/871c7f1c-fdf1-bed9-bf1b-eb7ab73ec448/source','http://web.archive.org/web/20211227022703if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/36/60/e9/0743213880228.jpg','https://dreifragezeichen.de/produktwelt/details/und-der-phantomsee','1092530929','0xldqK4Ocdt8dwQSxUzt6x','534626','B01CV1D1CO','B00005Q4WZ','MPREb_dobEq0EsRwd','12761832');
 INSERT INTO "hörspiel" VALUES(3,'und der Karpatenhund',NULL,'"Bei mir spukt es!" Mit diesem verzweifelten Ausruf von Mr. Prentice beginnt ein neues Abenteuer für die drei ???. Ein Abenteuer, das immer verwickelter wird und bei dem sogar der sonst so superschlaue Erste Detektiv, Justus Jonas, eine Zeitlang völlig im Dunkeln tappt. – Welche unheimliche Gestalt geht in der Wohnung von Mr. Prentice ein und aus und versetzt diesen in immer größere Ängste und Schrecken? Was ist die Quelle jener gespenstischen Lichtblitze in seinem Arbeitszimmer, sechs Meter über der Straße? Wer hat die wertvolle gläserne Skulptur des Karpatenhundes verschwinden lassen, und wer versucht, allen Mietern den Aufenthalt in dem großen Appartementhaus unmöglich zu machen? Die wenigen Spuren weisen in verschiedene Richtungen, und für unser Detektivtrio gilt es wieder einmal, eine harte Nuss zu knacken. Werden sie Licht in das Dunkel bringen? …',NULL,'1979-10-14',0,1,'http://a1.mzstatic.com/us/r30/Music71/v4/a7/d8/54/a7d85469-a416-93a3-93ba-d8e82be2f8ae/source','http://web.archive.org/web/20220124230925if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/f9/72/9a/0743213880327.jpg','https://dreifragezeichen.de/produktwelt/details/und-der-karpatenhund-1','1092531572','61OtrnMm1lqoMgMRb1aw7g','534584','B01CV1DGTW','B00005Q4X1','MPREb_P02M4rXCx1u','12761824');
@@ -438,16 +551,8 @@ INSERT INTO "hörspiel" VALUES(416,'und der Dreiäugige Schakal','Peter sitzt mi
 INSERT INTO "hörspiel" VALUES(417,'Die Stadt aus Gold','Eine Stadt, erbaut aus purem Gold. Das kann nicht mehr als eine Legende sein. Oder gibt es sie, verborgen in der Wildnis, etwa doch?','Das möchte auch Professor Mathewson herausfinden, doch ausgerechnet seine eigene Tochter stiehlt ihm seine Forschungsunterlagen. Verzweifelt wendet er sich an die drei ???. Die Detektive kennen Barbara und können sich nicht erklären, warum sie ihren Vater hintergeht und dann spurlos verschwindet. Weiß Barbara mehr über die Landkarte, die angeblich den Weg zur sagenumwobenen Stadt weist? Justus, Peter und Bob übernehmen den Fall.',NULL,'2025-03-21',0,1,'http://a1.mzstatic.com/r40/Music221/v4/a3/9e/f4/a39ef476-1d9f-25c4-1128-38c909116af9/196872231557.jpg',NULL,'https://www.dreifragezeichen.de/produktwelt/details/die-stadt-aus-gold','1794782655','1Qnn3AAN3Nquv7GlNk41YQ','1571423','B0DW9FQ78L','B0DNNYGDYD','MPREb_qBgPKZ7IyA1','708969811');
 INSERT INTO "hörspiel" VALUES(418,'Die Nacht der Gewitter','Helle Blitze und Donnergrollen überraschen die drei Detektive auf ihrem Weg nach Orange Bay, einem kleinen Ort direkt an der kalifornischen Pazifikküste.','Nur mit viel Glück kommen die drei ??? endlich an, denn die Brücke in den von hohen Küstenklippen umschlossenen Ort wurde vom Unwetter zerstört. Niemand kann Orange Bay mehr erreichen, geschweige denn verlassen. Dennoch verschwindet kurz darauf ein 1967er Ford Shelby Mustang GT Super Snake aus seiner Garage. Wer hat den wertvollen Wagen gestohlen? Abgeschottet von der Außenwelt machen sich Justus, Peter und Bob auf die Suche nach dem seltenen Auto.',NULL,'2025-05-23',0,1,'http://a1.mzstatic.com/r40/Music221/v4/76/f0/60/76f06061-f519-095d-689b-42ae3d517fa1/196872231601.jpg',NULL,'https://www.dreifragezeichen.de/produktwelt/details/die-nacht-der-gewitter','1807053258','0qZ0R61AqoD2i8GnzUk91C','1628294','B0F3XMYYYC','B0DWQWGR2B','MPREb_tUNcFHS9iQ1','738897411');
 INSERT INTO "hörspiel" VALUES(419,'und der lebende Tresor','Lucy Apple benötigt die Hilfe der Detektive, denn ihr Freund verbirgt etwas vor ihr. Bei den Ermittlungen stoßen die drei auf recht bizarre Vorkommnisse.','Skeptisch beginnen die drei ??? mit den Recherchen zu Lucys Partner Ronald und heften sich an dessen Fersen. Doch bei ihren Ermittlungen geraten die Detektive nicht nur gehörig ins Schleudern, sondern in allergrößte Gefahr: Wer treibt hier mit wem ein übles Spiel? Ein mehr als außergewöhnlicher Fall für Justus, Peter und Bob. Können die drei ??? den lebenden Tresor knacken?',NULL,'2025-07-25',0,1,'http://a1.mzstatic.com/r40/Music221/v4/8d/f6/b9/8df6b9b9-fb7a-3f1f-177c-52b2e0235db1/196872231670.jpg',NULL,'https://www.dreifragezeichen.de/produktwelt/details/der-lebende-tresor','1817631978','2aUTuKmWTFT7f5ClaWJNAD','1664614','B0FBGYRDNK','B0F3RQFHFQ','MPREb_YlOcBvR4rp6','764998931');
-INSERT INTO "hörspiel" VALUES(420,'und das Fantasmofon',NULL,NULL,NULL,'2025-09-12',1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "hörspiel" VALUES(421,'Im Bann des Barrakudas',NULL,NULL,NULL,'2025-12-12',1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
-CREATE TABLE IF NOT EXISTS "hörspielTeil"(
-  "teil" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "hörspiel" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "position" INTEGER NOT NULL CHECK("position" > 0),
-  "buchstabe" TEXT CHECK(LENGTH("buchstabe") = 1),
-  UNIQUE("hörspiel", "position"),
-  UNIQUE("hörspiel", "buchstabe")
-);
+INSERT INTO "hörspiel" VALUES(420,'und das Fantasmofon',NULL,NULL,NULL,'2025-09-12',1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "hörspiel" VALUES(421,'Im Bann des Barrakudas',NULL,NULL,NULL,'2025-12-12',1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "hörspielTeil" VALUES(101,100,1,'A');
 INSERT INTO "hörspielTeil" VALUES(102,100,2,'B');
 INSERT INTO "hörspielTeil" VALUES(103,100,3,'C');
@@ -496,10 +601,6 @@ INSERT INTO "hörspielTeil" VALUES(263,260,3,NULL);
 INSERT INTO "hörspielTeil" VALUES(264,260,4,NULL);
 INSERT INTO "hörspielTeil" VALUES(265,260,5,NULL);
 INSERT INTO "hörspielTeil" VALUES(266,260,6,NULL);
-CREATE TABLE IF NOT EXISTS "serie"(
-  "nummer" INTEGER PRIMARY KEY NOT NULL,
-  "hörspielID" INTEGER NOT NULL UNIQUE REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
-);
 INSERT INTO serie VALUES(1,1);
 INSERT INTO serie VALUES(2,2);
 INSERT INTO serie VALUES(3,3);
@@ -736,10 +837,6 @@ INSERT INTO serie VALUES(233,418);
 INSERT INTO serie VALUES(234,419);
 INSERT INTO serie VALUES(235,420);
 INSERT INTO serie VALUES(236,421);
-CREATE TABLE IF NOT EXISTS "spezial"(
-  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "position" INTEGER NOT NULL UNIQUE CHECK("position" > 0)
-);
 INSERT INTO spezial VALUES(122,2);
 INSERT INTO spezial VALUES(160,3);
 INSERT INTO spezial VALUES(168,4);
@@ -758,17 +855,10 @@ INSERT INTO spezial VALUES(283,18);
 INSERT INTO spezial VALUES(295,10);
 INSERT INTO spezial VALUES(301,11);
 INSERT INTO spezial VALUES(413,1);
-CREATE TABLE IF NOT EXISTS "kurzgeschichten"(
-  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
-);
 INSERT INTO kurzgeschichten VALUES(186);
 INSERT INTO kurzgeschichten VALUES(210);
 INSERT INTO kurzgeschichten VALUES(234);
 INSERT INTO kurzgeschichten VALUES(260);
-CREATE TABLE IF NOT EXISTS "dieDr3i"(
-  "nummer" INTEGER,
-  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
-);
 INSERT INTO dieDr3i VALUES(1,125);
 INSERT INTO dieDr3i VALUES(2,126);
 INSERT INTO dieDr3i VALUES(3,127);
@@ -778,10 +868,6 @@ INSERT INTO dieDr3i VALUES(5,132);
 INSERT INTO dieDr3i VALUES(6,133);
 INSERT INTO dieDr3i VALUES(7,134);
 INSERT INTO dieDr3i VALUES(8,135);
-CREATE TABLE IF NOT EXISTS "kids"(
-  "nummer" INTEGER,
-  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
-);
 INSERT INTO kids VALUES(1,309);
 INSERT INTO kids VALUES(2,310);
 INSERT INTO kids VALUES(3,311);
@@ -886,19 +972,8 @@ INSERT INTO kids VALUES(NULL,409);
 INSERT INTO kids VALUES(NULL,410);
 INSERT INTO kids VALUES(NULL,411);
 INSERT INTO kids VALUES(NULL,412);
-CREATE TABLE IF NOT EXISTS "sonstige"(
-  "hörspielID" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE
-);
 INSERT INTO sonstige VALUES(414);
 INSERT INTO sonstige VALUES(415);
-CREATE TABLE IF NOT EXISTS "medium"(
-  "mediumID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "position" INTEGER NOT NULL CHECK("position" > 0),
-  "ripLog" BOOLEAN NOT NULL,
-  "musicBrainzID" TEXT,
-  UNIQUE("hörspielID", "position")
-);
 INSERT INTO medium VALUES(1,1,1,0,NULL);
 INSERT INTO medium VALUES(2,2,1,0,NULL);
 INSERT INTO medium VALUES(3,3,1,0,NULL);
@@ -1298,14 +1373,6 @@ INSERT INTO medium VALUES(396,416,1,1,NULL);
 INSERT INTO medium VALUES(397,417,1,1,NULL);
 INSERT INTO medium VALUES(398,418,1,1,NULL);
 INSERT INTO medium VALUES(399,419,1,1,NULL);
-CREATE TABLE IF NOT EXISTS "track"(
-  "trackID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  "mediumID" INTEGER NOT NULL REFERENCES "medium"("mediumID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "position" INTEGER NOT NULL CHECK("position" > 0),
-  "titel" TEXT NOT NULL,
-  "dauer" INTEGER NOT NULL CHECK("dauer" > 0),
-  UNIQUE("mediumID", "position")
-);
 INSERT INTO track VALUES(1,1,1,'Ein Hilferuf',356947);
 INSERT INTO track VALUES(2,1,2,'Ein Papagei spricht Latein',410773);
 INSERT INTO track VALUES(3,1,3,'Schneewittchen ist verschwunden',328467);
@@ -4954,13 +5021,6 @@ INSERT INTO track VALUES(3683,399,4,'Auf dem Radar',541560);
 INSERT INTO track VALUES(3684,399,5,'Chloroform',750520);
 INSERT INTO track VALUES(3685,399,6,'Her mit der Tasche!',1243054);
 INSERT INTO track VALUES(3686,399,7,'Zahlendreher',822573);
-CREATE TABLE IF NOT EXISTS "kapitel"(
-  "trackID" INTEGER PRIMARY KEY NOT NULL REFERENCES "track"("trackID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "position" INTEGER NOT NULL CHECK("position" > 0),
-  "abweichenderTitel" TEXT,
-  UNIQUE("hörspielID", "position")
-);
 INSERT INTO kapitel VALUES(1,1,1,NULL);
 INSERT INTO kapitel VALUES(2,1,2,NULL);
 INSERT INTO kapitel VALUES(3,1,3,NULL);
@@ -8521,10 +8581,6 @@ INSERT INTO kapitel VALUES(3683,419,4,NULL);
 INSERT INTO kapitel VALUES(3684,419,5,NULL);
 INSERT INTO kapitel VALUES(3685,419,6,NULL);
 INSERT INTO kapitel VALUES(3686,419,7,NULL);
-CREATE TABLE IF NOT EXISTS "person"(
-  "personID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  "name" TEXT NOT NULL UNIQUE
-);
 INSERT INTO person VALUES(1,'Robert Arthur');
 INSERT INTO person VALUES(2,'H. G. Francis');
 INSERT INTO person VALUES(3,'Peter Pasetti');
@@ -9741,10 +9797,6 @@ INSERT INTO person VALUES(1213,'Maria Bruno');
 INSERT INTO person VALUES(1214,'Tobias Schmitz');
 INSERT INTO person VALUES(1215,'Kai Rake');
 INSERT INTO person VALUES(1216,'Philine Peters-Arnolds');
-CREATE TABLE IF NOT EXISTS "pseudonym"(
-  "pseudonymID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  "name" TEXT NOT NULL UNIQUE
-);
 INSERT INTO pseudonym VALUES(1,'Juan Perez');
 INSERT INTO pseudonym VALUES(2,'Albert Giro');
 INSERT INTO pseudonym VALUES(3,'Heinz Überreiter');
@@ -9813,10 +9865,6 @@ INSERT INTO pseudonym VALUES(65,'Francesco Nieheim');
 INSERT INTO pseudonym VALUES(66,'Bruno Ploeger');
 INSERT INTO pseudonym VALUES(67,'Balancinha Blanc');
 INSERT INTO pseudonym VALUES(68,'Gunnar Bergmann');
-CREATE TABLE IF NOT EXISTS "rolle"(
-  "rolleID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  "name" TEXT NOT NULL UNIQUE
-);
 INSERT INTO rolle VALUES(1,'Hitchcock, Erzähler');
 INSERT INTO rolle VALUES(2,'Justus Jonas, Erster Detektiv');
 INSERT INTO rolle VALUES(3,'Peter Shaw, Zweiter Detektiv');
@@ -12254,14 +12302,6 @@ INSERT INTO rolle VALUES(2434,'Mandy Coolman');
 INSERT INTO rolle VALUES(2435,'Horrice');
 INSERT INTO rolle VALUES(2436,'Jasper');
 INSERT INTO rolle VALUES(2437,'Ernest Lubitch');
-CREATE TABLE IF NOT EXISTS "sprechrolle"(
-  "sprechrolleID" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "rolleID" INTEGER NOT NULL REFERENCES "rolle"("rolleID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "position" INTEGER NOT NULL CHECK("position" > 0),
-  UNIQUE("hörspielID", "rolleID"),
-  UNIQUE("hörspielID", "position")
-);
 INSERT INTO sprechrolle VALUES(1,1,1,1);
 INSERT INTO sprechrolle VALUES(2,1,2,2);
 INSERT INTO sprechrolle VALUES(3,1,3,3);
@@ -17322,13 +17362,6 @@ INSERT INTO sprechrolle VALUES(5067,419,2436,10);
 INSERT INTO sprechrolle VALUES(5068,419,2437,11);
 INSERT INTO sprechrolle VALUES(5069,419,436,12);
 INSERT INTO sprechrolle VALUES(5070,419,525,13);
-CREATE TABLE IF NOT EXISTS "sprechrolleTeil"(
-  "sprechrolleID" INTEGER NOT NULL REFERENCES "sprechrolle"("sprechrolleID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "position" INTEGER NOT NULL CHECK("position" > 0),
-  PRIMARY KEY("sprechrolleID", "hörspielID"),
-  UNIQUE("hörspielID", "position")
-);
 INSERT INTO sprechrolleTeil VALUES(1273,101,1);
 INSERT INTO sprechrolleTeil VALUES(1274,101,2);
 INSERT INTO sprechrolleTeil VALUES(1275,101,3);
@@ -17832,14 +17865,6 @@ INSERT INTO sprechrolleTeil VALUES(3112,266,4);
 INSERT INTO sprechrolleTeil VALUES(3139,266,5);
 INSERT INTO sprechrolleTeil VALUES(3140,266,6);
 INSERT INTO sprechrolleTeil VALUES(3141,266,7);
-CREATE TABLE IF NOT EXISTS "spricht"(
-  "sprechrolleID" INTEGER NOT NULL REFERENCES "sprechrolle"("sprechrolleID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "pseudonymID" INTEGER REFERENCES "pseudonym"("pseudonymID") ON DELETE SET NULL ON UPDATE CASCADE,
-  "position" INTEGER NOT NULL CHECK("position" > 0),
-  PRIMARY KEY("sprechrolleID", "personID"),
-  UNIQUE("sprechrolleID", "position")
-);
 INSERT INTO spricht VALUES(1,3,NULL,1);
 INSERT INTO spricht VALUES(2,4,NULL,1);
 INSERT INTO spricht VALUES(3,5,NULL,1);
@@ -22929,11 +22954,6 @@ INSERT INTO spricht VALUES(5067,427,NULL,1);
 INSERT INTO spricht VALUES(5068,836,NULL,1);
 INSERT INTO spricht VALUES(5069,168,NULL,1);
 INSERT INTO spricht VALUES(5070,220,NULL,1);
-CREATE TABLE IF NOT EXISTS "hörspielBuchautor"(
-  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
-  PRIMARY KEY("hörspielID", "personID")
-);
 INSERT INTO "hörspielBuchautor" VALUES(1,1);
 INSERT INTO "hörspielBuchautor" VALUES(2,15);
 INSERT INTO "hörspielBuchautor" VALUES(3,23);
@@ -23346,11 +23366,6 @@ INSERT INTO "hörspielBuchautor" VALUES(418,409);
 INSERT INTO "hörspielBuchautor" VALUES(419,220);
 INSERT INTO "hörspielBuchautor" VALUES(420,571);
 INSERT INTO "hörspielBuchautor" VALUES(421,464);
-CREATE TABLE IF NOT EXISTS "hörspielSkriptautor"(
-  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "personID" INTEGER NOT NULL REFERENCES "person"("personID") ON DELETE CASCADE ON UPDATE CASCADE,
-  PRIMARY KEY("hörspielID", "personID")
-);
 INSERT INTO "hörspielSkriptautor" VALUES(1,2);
 INSERT INTO "hörspielSkriptautor" VALUES(2,2);
 INSERT INTO "hörspielSkriptautor" VALUES(3,2);
@@ -23763,13 +23778,6 @@ INSERT INTO "hörspielSkriptautor" VALUES(416,220);
 INSERT INTO "hörspielSkriptautor" VALUES(417,220);
 INSERT INTO "hörspielSkriptautor" VALUES(418,220);
 INSERT INTO "hörspielSkriptautor" VALUES(419,220);
-CREATE TABLE IF NOT EXISTS "version"(
-  "major" INTEGER NOT NULL CHECK("major" >= 0),
-  "minor" INTEGER NOT NULL CHECK("minor" >= 0),
-  "patch" INTEGER NOT NULL CHECK("patch" >= 0),
-  "date" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  PRIMARY KEY("major", "minor", "patch")
-);
 INSERT INTO version VALUES(2,0,0,'2024-08-05 02:17:04');
 INSERT INTO version VALUES(2,0,1,'2024-08-09 21:47:13');
 INSERT INTO version VALUES(2,0,2,'2024-08-10 10:34:45');
@@ -23802,20 +23810,4 @@ INSERT INTO version VALUES(2,6,2,'2025-05-23 14:23:41');
 INSERT INTO version VALUES(2,6,3,'2025-06-03 00:23:43');
 INSERT INTO version VALUES(2,6,4,'2025-07-14 11:21:57');
 INSERT INTO version VALUES(2,6,5,'2025-07-30 00:58:14');
-DELETE FROM sqlite_sequence;
-INSERT INTO sqlite_sequence VALUES('hörspiel',421);
-INSERT INTO sqlite_sequence VALUES('medium',399);
-INSERT INTO sqlite_sequence VALUES('track',3686);
-INSERT INTO sqlite_sequence VALUES('person',1216);
-INSERT INTO sqlite_sequence VALUES('pseudonym',68);
-INSERT INTO sqlite_sequence VALUES('rolle',2437);
-INSERT INTO sqlite_sequence VALUES('sprechrolle',5070);
-CREATE VIEW "alleIDs"("sammlung", "nummer", "hörspielID") AS
-  SELECT 'serie', nummer, hörspielID FROM serie UNION
-  SELECT 'spezial', NULL, hörspielID FROM spezial UNION
-  SELECT 'kurzgeschichten', NULL, hörspielID FROM kurzgeschichten UNION
-  SELECT 'die_dr3i', nummer, hörspielID FROM dieDr3i UNION
-  SELECT 'kids', nummer, hörspielID FROM kids UNION
-  SELECT 'sonstige', NULL, hörspielID FROM sonstige;
-CREATE VIEW "alle" AS SELECT * FROM alleIDs JOIN hörspiel USING(hörspielID);
 COMMIT;
