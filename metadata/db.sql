@@ -17,7 +17,8 @@ CREATE TABLE "hörspiel"(
   "idBookbeat" TEXT,
   "idAmazonMusic" TEXT,
   "idAmazon" TEXT,
-  "idYouTubeMusic" TEXT
+  "idYouTubeMusic" TEXT,
+  "idDeezer" TEXT
 );
 CREATE TABLE "hörspielTeil"(
   "teil" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
@@ -551,8 +552,8 @@ INSERT INTO "hörspiel" VALUES(416,'und der Dreiäugige Schakal','Peter sitzt mi
 INSERT INTO "hörspiel" VALUES(417,'Die Stadt aus Gold','Eine Stadt, erbaut aus purem Gold. Das kann nicht mehr als eine Legende sein. Oder gibt es sie, verborgen in der Wildnis, etwa doch?','Das möchte auch Professor Mathewson herausfinden, doch ausgerechnet seine eigene Tochter stiehlt ihm seine Forschungsunterlagen. Verzweifelt wendet er sich an die drei ???. Die Detektive kennen Barbara und können sich nicht erklären, warum sie ihren Vater hintergeht und dann spurlos verschwindet. Weiß Barbara mehr über die Landkarte, die angeblich den Weg zur sagenumwobenen Stadt weist? Justus, Peter und Bob übernehmen den Fall.',NULL,'2025-03-21',0,1,'http://a1.mzstatic.com/r40/Music221/v4/a3/9e/f4/a39ef476-1d9f-25c4-1128-38c909116af9/196872231557.jpg',NULL,'https://www.dreifragezeichen.de/produktwelt/details/die-stadt-aus-gold','1794782655','1Qnn3AAN3Nquv7GlNk41YQ','1571423','B0DW9FQ78L','B0DNNYGDYD','MPREb_qBgPKZ7IyA1','708969811');
 INSERT INTO "hörspiel" VALUES(418,'Die Nacht der Gewitter','Helle Blitze und Donnergrollen überraschen die drei Detektive auf ihrem Weg nach Orange Bay, einem kleinen Ort direkt an der kalifornischen Pazifikküste.','Nur mit viel Glück kommen die drei ??? endlich an, denn die Brücke in den von hohen Küstenklippen umschlossenen Ort wurde vom Unwetter zerstört. Niemand kann Orange Bay mehr erreichen, geschweige denn verlassen. Dennoch verschwindet kurz darauf ein 1967er Ford Shelby Mustang GT Super Snake aus seiner Garage. Wer hat den wertvollen Wagen gestohlen? Abgeschottet von der Außenwelt machen sich Justus, Peter und Bob auf die Suche nach dem seltenen Auto.',NULL,'2025-05-23',0,1,'http://a1.mzstatic.com/r40/Music221/v4/76/f0/60/76f06061-f519-095d-689b-42ae3d517fa1/196872231601.jpg',NULL,'https://www.dreifragezeichen.de/produktwelt/details/die-nacht-der-gewitter','1807053258','0qZ0R61AqoD2i8GnzUk91C','1628294','B0F3XMYYYC','B0DWQWGR2B','MPREb_tUNcFHS9iQ1','738897411');
 INSERT INTO "hörspiel" VALUES(419,'und der lebende Tresor','Lucy Apple benötigt die Hilfe der Detektive, denn ihr Freund verbirgt etwas vor ihr. Bei den Ermittlungen stoßen die drei auf recht bizarre Vorkommnisse.','Skeptisch beginnen die drei ??? mit den Recherchen zu Lucys Partner Ronald und heften sich an dessen Fersen. Doch bei ihren Ermittlungen geraten die Detektive nicht nur gehörig ins Schleudern, sondern in allergrößte Gefahr: Wer treibt hier mit wem ein übles Spiel? Ein mehr als außergewöhnlicher Fall für Justus, Peter und Bob. Können die drei ??? den lebenden Tresor knacken?',NULL,'2025-07-25',0,1,'http://a1.mzstatic.com/r40/Music221/v4/8d/f6/b9/8df6b9b9-fb7a-3f1f-177c-52b2e0235db1/196872231670.jpg',NULL,'https://www.dreifragezeichen.de/produktwelt/details/der-lebende-tresor','1817631978','2aUTuKmWTFT7f5ClaWJNAD','1664614','B0FBGYRDNK','B0F3RQFHFQ','MPREb_YlOcBvR4rp6','764998931');
-INSERT INTO "hörspiel" VALUES(420,'und das Fantasmofon',NULL,NULL,NULL,'2025-09-12',1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
-INSERT INTO "hörspiel" VALUES(421,'Im Bann des Barrakudas',NULL,NULL,NULL,'2025-12-12',1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "hörspiel" VALUES(420,'und das Fantasmofon',NULL,NULL,NULL,'2025-09-12',1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+INSERT INTO "hörspiel" VALUES(421,'Im Bann des Barrakudas',NULL,NULL,NULL,'2025-12-12',1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "hörspielTeil" VALUES(101,100,1,'A');
 INSERT INTO "hörspielTeil" VALUES(102,100,2,'B');
 INSERT INTO "hörspielTeil" VALUES(103,100,3,'C');
