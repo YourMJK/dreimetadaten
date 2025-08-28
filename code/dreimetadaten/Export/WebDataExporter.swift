@@ -230,6 +230,7 @@ struct WebDataExporter {
 		try index(named: "amazon-music", \.ids?.amazonMusic)
 		try index(named: "amazon", \.ids?.amazon)
 		try index(named: "youtube-music", \.ids?.youTubeMusic)
+		try index(named: "deezer", \.ids?.deezer)
 	}
 	
 	

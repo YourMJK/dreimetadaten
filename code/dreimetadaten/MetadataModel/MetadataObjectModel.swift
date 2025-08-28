@@ -120,6 +120,7 @@ extension MetadataObjectModel {
 		var amazonMusic: String?
 		var amazon: String?
 		var youTubeMusic: String?
+		var deezer: String?
 	}
 	
 	struct IDs: Codable {
@@ -130,6 +131,7 @@ extension MetadataObjectModel {
 		var amazonMusic: String?
 		var amazon: String?
 		var youTubeMusic: String?
+		var deezer: String?
 	}
 	
 	struct Medium: Codable {
@@ -227,6 +229,7 @@ extension MetadataObjectModel {
 			"amazonMusic",
 			"amazon",
 			"youTubeMusic",
+			"deezer",
 		]
 		static func prefixedKeyString(keyString: String) -> String {
 			let number = Self.ordering.firstIndex(of: keyString) ?? 99
@@ -514,7 +517,8 @@ extension MetadataObjectModel {
 				bookbeat: hörspiel.idBookbeat.map { "https://www.bookbeat.com/de/book/\($0)" },
 				amazonMusic: hörspiel.idAmazonMusic.map { "https://music.amazon.de/albums/\($0)" },
 				amazon: hörspiel.idAmazon.map { "https://www.amazon.de/gp/product/\($0)" },
-				youTubeMusic: hörspiel.idYouTubeMusic.map { "https://music.youtube.com/browse/\($0)" }
+				youTubeMusic: hörspiel.idYouTubeMusic.map { "https://music.youtube.com/browse/\($0)" },
+				deezer: hörspiel.idDeezer.map { "https://www.deezer.com/de/album/\($0)" }
 			)
 			hörspielObject.ids = IDs(
 				dreimetadaten: hörspiel.hörspielID,
@@ -523,7 +527,8 @@ extension MetadataObjectModel {
 				bookbeat: hörspiel.idBookbeat,
 				amazonMusic: hörspiel.idAmazonMusic,
 				amazon: hörspiel.idAmazon,
-				youTubeMusic: hörspiel.idYouTubeMusic
+				youTubeMusic: hörspiel.idYouTubeMusic,
+				deezer: hörspiel.idDeezer
 			)
 			hörspielObject.unvollständig = hörspiel.unvollständig ? true : nil
 			

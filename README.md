@@ -57,7 +57,8 @@ CREATE TABLE "hörspiel"(
   "idBookbeat" TEXT,
   "idAmazonMusic" TEXT,
   "idAmazon" TEXT,
-  "idYouTubeMusic" TEXT
+  "idYouTubeMusic" TEXT,
+  "idDeezer" TEXT
 );
 CREATE TABLE "hörspielTeil"(
   "teil" INTEGER PRIMARY KEY NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
@@ -239,6 +240,7 @@ struct Links {
   var amazonMusic: String?
   var amazon: String?
   var youTubeMusic: String?
+  var deezer: String?
 }
 
 struct IDs {
@@ -249,6 +251,7 @@ struct IDs {
   var amazonMusic: String?
   var amazon: String?
   var youTubeMusic: String?
+  var deezer: String?
 }
 
 struct Medium {
