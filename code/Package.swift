@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
 	name: "dreimetadaten",
-	platforms: [.macOS(.v10_15)],
+	platforms: [.macOS(.v13)],
 	products: [
 		.executable(name: "dreimetadaten", targets: ["dreimetadaten"]),
 	],
