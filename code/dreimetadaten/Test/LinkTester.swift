@@ -12,7 +12,6 @@ import GRDB
 
 struct LinkTester {
 	let items: [MetadataObjectModel.Hörspiel]
-	private let urlSession: URLSession = .shared
 	
 	init(objectModel: MetadataObjectModel) {
 		// Consider root items of every collection
@@ -80,11 +79,9 @@ struct LinkTester {
 			let requestInstant = clock.now
 			
 			do {
-				// Send request and retrieve status code
-				let statusCode = try await test(url: url)
+				// Check URL
+				let (isValid, statusCode) = try await linkType.checkMethod.check(url: url)
 				
-				// Check status code
-				let isValid = linkType.checkMethod.isValid(statusCode: statusCode)
 				if !isValid {
 					failedLink((hörspielID, urlString, statusCode))
 				}
@@ -98,22 +95,6 @@ struct LinkTester {
 		}
 		
 		progress((filteredItems.count, filteredItems.count, nil))
-	}
-	
-	private func test(url: URL) async throws -> StatusCode {
-		let request = URLRequest(url: url)
-		// Default User-Agent works fine while the following custom one is "outdated"
-		//request.setValue("Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0", forHTTPHeaderField: "User-Agent")
-		
-		let (_, response) = try await urlSession.data(for: request)
-		guard let httpResponse = response as? HTTPURLResponse else {
-			throw RequestError.noHTTPResponse
-		}
-		guard let statusCode = StatusCode(httpResponse.statusCode) else {
-			throw RequestError.invalidStatusCode
-		}
-		
-		return statusCode
 	}
 }
 

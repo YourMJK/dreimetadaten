@@ -40,7 +40,8 @@ extension LinkTester {
 		var checkMethod: CheckMethod {
 			switch self {
 				//case .amazonMusic, .youTubeMusic: fatalError("Check method not implemented")
-				default: .is2XX
+				case .amazon: MetadataCheckMethod.getWith2XX
+				default: MetadataCheckMethod.headWith2XX
 			}
 		}
 		
