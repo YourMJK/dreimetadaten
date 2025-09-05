@@ -40,6 +40,7 @@ struct LinkTester {
 	func test(linkType: LinkType, startIndex: UInt = 0, syntaxOnly: Bool = false, progress: (Progress) -> Void, failedLink: (Result) -> Void) async throws {
 		let clock = ContinuousClock()
 		let interval = ContinuousClock.Duration.seconds(linkType.checkInterval)
+		let checkMethod = linkType.checkMethod
 		
 		// Filter only for items having linkType and skip items until startIndex
 		let filteredItems = items.filter {
@@ -80,7 +81,7 @@ struct LinkTester {
 			
 			do {
 				// Check URL
-				let (isValid, statusCode) = try await linkType.checkMethod.check(url: url)
+				let (isValid, statusCode) = try await checkMethod.check(url: url)
 				
 				if !isValid {
 					failedLink((hörspielID, urlString, statusCode))
@@ -117,6 +118,7 @@ extension LinkTester {
 	enum RequestError: LocalizedError {
 		case noHTTPResponse
 		case invalidStatusCode
+		case invalidBodyData
 		
 		var errorDescription: String? {
 			switch self {
@@ -124,6 +126,8 @@ extension LinkTester {
 					return "Response is not a HTTPURLResponse"
 				case .invalidStatusCode:
 					return "Response contains an invalid status code"
+				case .invalidBodyData:
+					return "Response contains invalid body data"
 			}
 		}
 	}

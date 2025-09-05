@@ -16,9 +16,9 @@ extension LinkTester {
 		case appleMusic
 		case spotify
 		case bookbeat
-		//case amazonMusic
+		case amazonMusic
 		case amazon
-		//case youTubeMusic
+		case youTubeMusic
 		case deezer
 		
 		
@@ -30,23 +30,37 @@ extension LinkTester {
 				case .appleMusic: \.appleMusic
 				case .spotify: \.spotify
 				case .bookbeat: \.bookbeat
-				//case .amazonMusic: \.amazonMusic
+				case .amazonMusic: \.amazonMusic
 				case .amazon: \.amazon
-				//case .youTubeMusic: \.youTubeMusic
+				case .youTubeMusic: \.youTubeMusic
 				case .deezer: \.deezer
 			}
 		}
 		
 		var checkMethod: CheckMethod {
 			switch self {
-				//case .amazonMusic, .youTubeMusic: fatalError("Check method not implemented")
-				case .amazon: MetadataCheckMethod.getWith2XX
-				default: MetadataCheckMethod.headWith2XX
+				case .amazonMusic:
+					MetadataCheckMethod.getWith2XX(
+						urlTransform: {
+							URL(string: "https://www.amazon.de/gp/product/\($0.lastPathComponent)")
+						},
+						userAgent: UserAgent.urlSessionDynamicVersion()
+					)
+					
+				case .amazon:
+					MetadataCheckMethod.getWith2XX(userAgent: UserAgent.urlSessionDynamicVersion())
+					
+				case .youTubeMusic:
+					ContentCheckMethod.youTubeMusic
+					
+				default:
+					MetadataCheckMethod.headWith2XX()
 			}
 		}
 		
 		var checkInterval: TimeInterval {
 			switch self {
+				case .amazonMusic, .amazon: 0.5
 				default: 0.25
 			}
 		}

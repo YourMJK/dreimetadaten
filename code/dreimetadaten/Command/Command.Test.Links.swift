@@ -71,9 +71,9 @@ extension Command.Test.Links {
 		case appleMusic
 		case spotify
 		case bookbeat
-		//case amazonMusic
+		case amazonMusic
 		case amazon
-		//case youTubeMusic
+		case youTubeMusic
 		case deezer
 		
 		case all
@@ -88,9 +88,9 @@ extension Command.Test.Links {
 				case .appleMusic: [.appleMusic]
 				case .spotify: [.spotify]
 				case .bookbeat: [.bookbeat]
-				//case .amazonMusic: [.amazonMusic]
+				case .amazonMusic: [.amazonMusic]
 				case .amazon: [.amazon]
-				//case .youTubeMusic: [.youTubeMusic]
+				case .youTubeMusic: [.youTubeMusic]
 				case .deezer: [.deezer]
 					
 				case .all: LinkTester.LinkType.allCases
@@ -103,9 +103,9 @@ extension Command.Test.Links {
 					.appleMusic,
 					.spotify,
 					.bookbeat,
-					//.amazonMusic,
+					.amazonMusic,
 					.amazon,
-					//.youTubeMusic,
+					.youTubeMusic,
 					.deezer,
 				]
 			}
