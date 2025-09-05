@@ -42,6 +42,9 @@ struct LinkTester {
 		let interval = ContinuousClock.Duration.seconds(linkType.checkInterval)
 		let checkMethod = linkType.checkMethod
 		
+		// Verify that test cases work before continuing
+		try await verifyTestCase(linkType: linkType, checkMethod: checkMethod)
+		
 		// Filter only for items having linkType and skip items until startIndex
 		let filteredItems = items.filter {
 			guard let links = $0.links, let _ = links[keyPath: linkType.keyPath] else {
@@ -97,6 +100,25 @@ struct LinkTester {
 		
 		progress((filteredItems.count, filteredItems.count, nil))
 	}
+	
+	func verifyTestCase(linkType: LinkType, checkMethod: CheckMethod) async throws {
+		guard let testCase = TestCase.all[linkType] else {
+			return
+		}
+		
+		func check(url urlString: String, shouldPass: Bool) async throws {
+			var result: (isValid: Bool, statusCode: StatusCode)?
+			if let url = URL(string: urlString) {
+				result = try? await checkMethod.check(url: url)
+			}
+			guard let result, result.isValid == shouldPass else {
+				throw MethodError.testCaseFailed(linkType: linkType, url: urlString, shouldPass: shouldPass, statusCode: result?.statusCode)
+			}
+		}
+		try await check(url: testCase.valid, shouldPass: true)
+		try await check(url: testCase.invalid, shouldPass: false)
+	}
+	
 }
 
 
@@ -111,6 +133,23 @@ extension LinkTester {
 			switch self {
 				case .missingHörspielID:
 					return "An item is missing a hörspielID"
+			}
+		}
+	}
+	
+	enum MethodError: LocalizedError {
+		case urlTransformFailed(url: URL)
+		case testCaseFailed(linkType: LinkType, url: String, shouldPass: Bool, statusCode: StatusCode?)
+		
+		var errorDescription: String? {
+			switch self {
+				case .urlTransformFailed(let url):
+					"Transforming URL failed: \(url)"
+				case .testCaseFailed(let linkType, let url, let shouldPass, let statusCode):
+					"""
+					Test case for \"\(linkType)\" failed (\(url), expected: \(shouldPass), response: \(statusCode.map { "\($0.value)" } ?? "-")).
+					Aborting because results for this link type may be misleading. Try again or fix method/test case.
+					"""
 			}
 		}
 	}

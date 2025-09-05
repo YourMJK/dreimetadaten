@@ -11,7 +11,7 @@ import SwiftSoup
 
 extension LinkTester {
 	protocol CheckMethod {
-		func check(url: URL) async throws -> (Bool, StatusCode?)
+		func check(url: URL) async throws -> (Bool, StatusCode)
 	}
 }
 
@@ -31,12 +31,12 @@ extension LinkTester {
 		}
 		
 		
-		func check(url: URL) async throws -> (Bool, StatusCode?) {
+		func check(url: URL) async throws -> (Bool, StatusCode) {
 			// Transform URL if specified
 			let requestURL: URL
 			if let urlTransform {
 				guard let transformedURL = urlTransform(url) else {
-					return (false, nil)
+					throw MethodError.urlTransformFailed(url: url)
 				}
 				requestURL = transformedURL
 			} else {
@@ -139,7 +139,7 @@ extension LinkTester {
 		}
 		
 		
-		func check(url: URL) async throws -> (Bool, StatusCode?) {
+		func check(url: URL) async throws -> (Bool, StatusCode) {
 			let (bodyData, statusCode) = try await sendRequest(url: url)
 			
 			// Check for successful status code
