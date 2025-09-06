@@ -12,8 +12,9 @@ import GRDB
 
 struct LinkTester {
 	let items: [MetadataObjectModel.Hörspiel]
+	let syntaxOnly: Bool
 	
-	init(objectModel: MetadataObjectModel) {
+	init(objectModel: MetadataObjectModel, syntaxOnly: Bool = false) {
 		// Consider root items of every collection
 		let rootItems = [objectModel.serie, objectModel.spezial, objectModel.kurzgeschichten, objectModel.die_dr3i, objectModel.kids, objectModel.sonstige]
 			.compactMap { $0 }
@@ -34,10 +35,43 @@ struct LinkTester {
 		}
 		
 		self.items = items
+		self.syntaxOnly = syntaxOnly
 	}
 	
 	
-	func test(linkType: LinkType, startIndex: UInt = 0, syntaxOnly: Bool = false, progress: (Progress) -> Void, failedLink: (Result) -> Void) async throws {
+	func test(linkTypes: Set<LinkType>, progress: @escaping ([LinkType: Progress]) -> Void, failedLink: @escaping (LinkType, Result) -> Void, failedType: @escaping (Error) -> Void) async {
+		var progressPerLinkType = [LinkType: Progress]()
+		
+		await withTaskGroup(of: Void.self) { group in
+			for linkType in linkTypes {
+				group.addTask {
+					do {
+						try await test(linkType: linkType) { singleProgress in
+							DispatchQueue.main.async {
+								progressPerLinkType[linkType] = singleProgress
+								progress(progressPerLinkType)
+							}
+						} failedLink: { result in
+							DispatchQueue.main.async {
+								failedLink(linkType, result)
+							}
+						}
+					}
+					catch {
+						DispatchQueue.main.async {
+							failedType(error)
+							progressPerLinkType.removeValue(forKey: linkType)
+							progress(progressPerLinkType)
+						}
+					}
+				}
+			}
+		}
+		DispatchQueue.main.sync { }
+	}
+	
+	
+	func test(linkType: LinkType, startIndex: UInt = 0, progress: (Progress) -> Void, failedLink: (Result) -> Void) async throws {
 		let clock = ContinuousClock()
 		let interval = ContinuousClock.Duration.seconds(linkType.checkInterval)
 		let checkMethod = linkType.checkMethod
