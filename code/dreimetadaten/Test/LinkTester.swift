@@ -13,8 +13,10 @@ import GRDB
 struct LinkTester {
 	let items: [MetadataObjectModel.Hörspiel]
 	let syntaxOnly: Bool
+	let retries: UInt
+	private let clock: ContinuousClock
 	
-	init(objectModel: MetadataObjectModel, syntaxOnly: Bool = false) {
+	init(objectModel: MetadataObjectModel, syntaxOnly: Bool = false, retries: UInt = 0) {
 		// Consider root items of every collection
 		let rootItems = [objectModel.serie, objectModel.spezial, objectModel.kurzgeschichten, objectModel.die_dr3i, objectModel.kids, objectModel.sonstige]
 			.compactMap { $0 }
@@ -36,6 +38,8 @@ struct LinkTester {
 		
 		self.items = items
 		self.syntaxOnly = syntaxOnly
+		self.retries = retries
+		self.clock = ContinuousClock()
 	}
 	
 	
@@ -62,12 +66,12 @@ struct LinkTester {
 	}
 	
 	func test(linkType: LinkType, startIndex: UInt = 0, progress: (Progress) async -> Void, failedLink: (Result) async -> Void) async throws {
-		let clock = ContinuousClock()
-		let interval = ContinuousClock.Duration.seconds(linkType.checkInterval)
 		let checkMethod = linkType.checkMethod
+		let interval: ContinuousClock.Duration = .seconds(linkType.checkInterval)
+		var lastRequest: ContinuousClock.Instant?
 		
 		// Verify that test cases work before continuing
-		try await verifyTestCase(linkType: linkType, checkMethod: checkMethod)
+		try await verifyTestCase(linkType: linkType, checkMethod: checkMethod, lastRequest: &lastRequest)
 		
 		// Filter only for items having linkType and skip items until startIndex
 		let filteredItems = items.filter {
@@ -104,12 +108,9 @@ struct LinkTester {
 			}
 			
 			await progress((index, filteredItems.count, (hörspielID, url)))
-			let requestInstant = clock.now
 			
 			do {
-				// Check URL
-				let (isValid, statusCode) = try await checkMethod.check(url: url)
-				
+				let (isValid, statusCode) = try await check(url: url, method: checkMethod, lastRequest: &lastRequest, interval: interval)
 				if !isValid {
 					await failedLink((hörspielID, urlString, statusCode))
 				}
@@ -117,30 +118,55 @@ struct LinkTester {
 			catch {
 				await failedLink((hörspielID, urlString, nil))
 			}
-			
-			// Wait before next request to respect rate limits
-			try? await Task.sleep(until: requestInstant + interval, clock: clock)
 		}
 		
 		await progress((filteredItems.count, filteredItems.count, nil))
 	}
 	
-	func verifyTestCase(linkType: LinkType, checkMethod: CheckMethod) async throws {
+	func verifyTestCase(linkType: LinkType, checkMethod: CheckMethod, lastRequest: inout ContinuousClock.Instant?) async throws {
 		guard let testCase = TestCase.all[linkType] else {
 			return
 		}
+		let interval: ContinuousClock.Duration = .seconds(linkType.checkInterval)
 		
-		func check(url urlString: String, shouldPass: Bool) async throws {
+		func checkCase(url urlString: String, shouldPass: Bool) async throws {
 			var result: (isValid: Bool, statusCode: StatusCode)?
 			if let url = URL(string: urlString) {
-				result = try? await checkMethod.check(url: url)
+				result = try? await check(url: url, method: checkMethod, lastRequest: &lastRequest, interval: interval)
 			}
 			guard let result, result.isValid == shouldPass else {
 				throw MethodError.testCaseFailed(linkType: linkType, url: urlString, shouldPass: shouldPass, statusCode: result?.statusCode)
 			}
 		}
-		try await check(url: testCase.valid, shouldPass: true)
-		try await check(url: testCase.invalid, shouldPass: false)
+		try await checkCase(url: testCase.valid, shouldPass: true)
+		try await checkCase(url: testCase.invalid, shouldPass: false)
+	}
+	
+	
+	private func check(url: URL, method: CheckMethod, lastRequest: inout ContinuousClock.Instant?, interval: ContinuousClock.Duration) async throws -> (Bool, StatusCode) {
+		var result: (isValid: Bool, statusCode: StatusCode)
+		var remainingTries = retries + 1
+		
+		repeat {
+			// Wait before next request to respect rate limits
+			await nextRequestInstant(lastRequest: &lastRequest, interval: interval)
+			
+			// Check URL
+			result = try await method.check(url: url)
+			guard !result.isValid else { break }
+			
+			remainingTries -= 1
+		}
+		while remainingTries > 0
+		
+		return result
+	}
+	
+	private func nextRequestInstant(lastRequest: inout ContinuousClock.Instant?, interval: ContinuousClock.Duration) async {
+		if let lastRequest {
+			try? await Task.sleep(until: lastRequest + interval, clock: clock)
+		}
+		lastRequest = .now
 	}
 	
 }

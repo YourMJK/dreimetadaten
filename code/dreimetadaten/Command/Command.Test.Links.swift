@@ -28,6 +28,9 @@ extension Command.Test {
 		@Option(name: .customLong("webDataURL"), help: ArgumentHelp("The URL pointing to the web data directory. Used as the base URL for generated metadata links.", valueName: "URL"))
 		var webDataURLString: String = Command.webDataURL.absoluteString
 		
+		@Option(name: .shortAndLong, help: ArgumentHelp("The number retries before considering a link failed.", valueName: "count"))
+		var retries: UInt = 1
+		
 		@Option(name: .customLong("skip"), help: ArgumentHelp("The number of items to skip at the start.", valueName: "count"))
 		var skipCount: UInt = 0
 		
@@ -47,7 +50,7 @@ extension Command.Test {
 			let objectModel = try await dbQueue.read { db in
 				try MetadataObjectModel(fromDatabase: db, withBaseURL: webDataURL)
 			}
-			let linkTester = LinkTester(objectModel: objectModel, syntaxOnly: syntaxOnly)
+			let linkTester = LinkTester(objectModel: objectModel, syntaxOnly: syntaxOnly, retries: retries)
 			
 			if parallel && linkTypes.count > 1 {
 				await parallelLinkTests(tester: linkTester, types: linkTypes)
