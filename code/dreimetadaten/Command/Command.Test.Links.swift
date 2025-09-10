@@ -94,7 +94,7 @@ extension Command.Test {
 			stderr(header)
 			
 			// Test link types
-			await tester.test(linkTypes: Set(types)) { totalProgress in
+			await tester.test(linkTypes: Set(types), progressHandler: .init { totalProgress in
 				let progressColumns = types.map {
 					let columnWidth = columnWidths[$0]!
 					guard let progress = totalProgress[$0] else {
@@ -110,7 +110,9 @@ extension Command.Test {
 			} failedType: { error in
 				stderr("")
 				Self.printError(error)
-			}
+			} completed: { _ in
+				stderr("")
+			})
 			stderr("")
 		}
 		
@@ -139,7 +141,7 @@ extension Command.Test {
 		}
 		
 		private static func printError(_ error: Error) {
-			stderr("\(error)")
+			stderr(error.localizedDescription)
 		}
 		
 	}

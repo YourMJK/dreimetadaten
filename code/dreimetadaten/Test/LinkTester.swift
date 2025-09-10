@@ -39,39 +39,29 @@ struct LinkTester {
 	}
 	
 	
-	func test(linkTypes: Set<LinkType>, progress: @escaping ([LinkType: Progress]) -> Void, failedLink: @escaping (LinkType, Result) -> Void, failedType: @escaping (Error) -> Void) async {
-		var progressPerLinkType = [LinkType: Progress]()
-		
+	func test(linkTypes: Set<LinkType>, progressHandler: ProgressHandler) async {
 		await withTaskGroup(of: Void.self) { group in
 			for linkType in linkTypes {
 				group.addTask {
 					do {
-						try await test(linkType: linkType) { singleProgress in
-							DispatchQueue.main.async {
-								progressPerLinkType[linkType] = singleProgress
-								progress(progressPerLinkType)
-							}
+						try await test(linkType: linkType) { progress in
+							await progressHandler.update(progress: progress, for: linkType)
 						} failedLink: { result in
-							DispatchQueue.main.async {
-								failedLink(linkType, result)
-							}
+							await progressHandler.failedLink(type: linkType, result: result)
 						}
+						await progressHandler.completed(type: linkType)
+						await progressHandler.update(progress: nil, for: linkType)
 					}
 					catch {
-						DispatchQueue.main.async {
-							failedType(error)
-							progressPerLinkType.removeValue(forKey: linkType)
-							progress(progressPerLinkType)
-						}
+						await progressHandler.failedType(error: error)
+						await progressHandler.update(progress: nil, for: linkType)
 					}
 				}
 			}
 		}
-		DispatchQueue.main.sync { }
 	}
 	
-	
-	func test(linkType: LinkType, startIndex: UInt = 0, progress: (Progress) -> Void, failedLink: (Result) -> Void) async throws {
+	func test(linkType: LinkType, startIndex: UInt = 0, progress: (Progress) async -> Void, failedLink: (Result) async -> Void) async throws {
 		let clock = ContinuousClock()
 		let interval = ContinuousClock.Duration.seconds(linkType.checkInterval)
 		let checkMethod = linkType.checkMethod
@@ -106,14 +96,14 @@ struct LinkTester {
 				components.host != nil,
 				let url = URL(string: urlString)
 			else {
-				failedLink((hörspielID, urlString, nil))
+				await failedLink((hörspielID, urlString, nil))
 				continue
 			}
 			guard !syntaxOnly else {
 				continue
 			}
 			
-			progress((index, filteredItems.count, (hörspielID, url)))
+			await progress((index, filteredItems.count, (hörspielID, url)))
 			let requestInstant = clock.now
 			
 			do {
@@ -121,18 +111,18 @@ struct LinkTester {
 				let (isValid, statusCode) = try await checkMethod.check(url: url)
 				
 				if !isValid {
-					failedLink((hörspielID, urlString, statusCode))
+					await failedLink((hörspielID, urlString, statusCode))
 				}
 			}
 			catch {
-				failedLink((hörspielID, urlString, nil))
+				await failedLink((hörspielID, urlString, nil))
 			}
 			
 			// Wait before next request to respect rate limits
 			try? await Task.sleep(until: requestInstant + interval, clock: clock)
 		}
 		
-		progress((filteredItems.count, filteredItems.count, nil))
+		await progress((filteredItems.count, filteredItems.count, nil))
 	}
 	
 	func verifyTestCase(linkType: LinkType, checkMethod: CheckMethod) async throws {
@@ -159,6 +149,35 @@ struct LinkTester {
 extension LinkTester {
 	typealias Progress = (checked: Int, total: Int, current: (hörspielID: UInt, url: URL)?)
 	typealias Result = (hörspielID: UInt, url: String, statusCode: StatusCode?)
+	
+	actor ProgressHandler {
+		var progressPerLinkType = [LinkType: Progress]()
+		private let progressCallback: ([LinkType: Progress]) -> Void
+		private let failedLinkCallback: (LinkType, Result) -> Void
+		private let failedTypeCallback: (Error) -> Void
+		private let completedCallback: (LinkType) -> Void
+		
+		init(progress: @escaping ([LinkType : Progress]) -> Void, failedLink: @escaping (LinkType, Result) -> Void, failedType: @escaping (Error) -> Void, completed: @escaping (LinkType) -> Void) {
+			self.progressCallback = progress
+			self.failedLinkCallback = failedLink
+			self.failedTypeCallback = failedType
+			self.completedCallback = completed
+		}
+		
+		func update(progress: Progress?, for linkType: LinkType) {
+			progressPerLinkType[linkType] = progress
+			progressCallback(progressPerLinkType)
+		}
+		func failedLink(type: LinkType, result: Result) {
+			failedLinkCallback(type, result)
+		}
+		func failedType(error: Error) {
+			failedTypeCallback(error)
+		}
+		func completed(type: LinkType) {
+			completedCallback(type)
+		}
+	}
 	
 	enum DatasetError: LocalizedError {
 		case missingHörspielID
