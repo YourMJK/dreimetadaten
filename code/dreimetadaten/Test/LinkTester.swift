@@ -18,18 +18,26 @@ struct LinkTester {
 	
 	init(objectModel: MetadataObjectModel, syntaxOnly: Bool = false, retries: UInt = 0) {
 		// Consider root items of every collection
-		let rootItems = [objectModel.serie, objectModel.spezial, objectModel.kurzgeschichten, objectModel.die_dr3i, objectModel.kids, objectModel.sonstige]
-			.compactMap { $0 }
+		let rootItems = CollectionType.allCases
+			.map(\.objectModelKeyPath)
+			.compactMap {
+				objectModel[keyPath: $0] as? [MetadataObjectModel.Hörspiel]
+			}
 			.joined()
 			.reversed()
 		var items = Array(rootItems)
 		
-		// Also consider teile of each item
-		var teile = [MetadataObjectModel.Hörspiel]()
-		for item in items {
-			teile.append(contentsOf: item.teile ?? [])
+		// Also consider (recursive) teile of each item
+		func addTeile(of item: MetadataObjectModel.Hörspiel) {
+			let teile = item.teile ?? []
+			items.append(contentsOf: teile)
+			for teil in teile {
+				addTeile(of: teil)
+			}
 		}
-		items.append(contentsOf: teile)
+		for rootItem in rootItems {
+			addTeile(of: rootItem)
+		}
 		
 		// Sort by hörspieldID in descending order (i.e. more recent items first)
 		items.sort {
