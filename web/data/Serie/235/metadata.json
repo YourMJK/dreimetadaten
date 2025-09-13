@@ -2,12 +2,154 @@
   "nummer" : 235,
   "titel" : "und das Fantasmofon",
   "autor" : "Kari Erlhoff",
+  "hörspielskriptautor" : "André Minninger",
+  "gesamtbeschreibung" : "Kann man mit einem Geistertelefon die Stimmen Verstorbener hören? Die drei ??? begeben sich in ein Künstlerhaus, um diese Theorie zu widerlegen.\nDort hat einst ein selbst ernannter Wundertechniker gelebt, der mit seinem Fantasmofon Kontakt ins Reich der Toten aufgenommen haben will. Heute sollen junge Musiker im Fogmire House Inspiration finden. Gar nicht so einfach, wenn das Licht flackert, unheimliche Stimmen flüstern und ein dumpfes Brummen ertönt. Können die drei Detektive dem Spuk ein Ende setzen? Justus, Peter und Bob machen sich auf die Suche nach dem Fantasmofon.",
+  "kurzbeschreibung" : "Kann man mit einem Geistertelefon die Stimmen Verstorbener hören? Die drei ??? begeben sich in ein Künstlerhaus, um diese Theorie zu widerlegen.",
+  "beschreibung" : "Dort hat einst ein selbst ernannter Wundertechniker gelebt, der mit seinem Fantasmofon Kontakt ins Reich der Toten aufgenommen haben will. Heute sollen junge Musiker im Fogmire House Inspiration finden. Gar nicht so einfach, wenn das Licht flackert, unheimliche Stimmen flüstern und ein dumpfes Brummen ertönt. Können die drei Detektive dem Spuk ein Ende setzen? Justus, Peter und Bob machen sich auf die Suche nach dem Fantasmofon.",
   "veröffentlichungsdatum" : "2025-09-12",
+  "kapitel" : [
+    {
+      "titel" : "Das Geistertelefon",
+      "start" : 0,
+      "end" : 542840
+    },
+    {
+      "titel" : "Fogmire House",
+      "start" : 542840,
+      "end" : 1309773
+    },
+    {
+      "titel" : "Gefahr in der Nacht",
+      "start" : 1309773,
+      "end" : 1949733
+    },
+    {
+      "titel" : "Neue Spuren",
+      "start" : 1949733,
+      "end" : 2828093
+    },
+    {
+      "titel" : "Volt und Ampere",
+      "start" : 2828093,
+      "end" : 3696507
+    },
+    {
+      "titel" : "Das Fantasmofon",
+      "start" : 3696507,
+      "end" : 4891240
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Dr. Sandra Sandler",
+      "sprecher" : "Victoria Trauttmansdorff"
+    },
+    {
+      "rolle" : "Archibald Belltone",
+      "sprecher" : "Constantin von Westphalen"
+    },
+    {
+      "rolle" : "Mr. Watts",
+      "sprecher" : "Peter Franke"
+    },
+    {
+      "rolle" : "Prof. Kapoor",
+      "sprecher" : "Sandra Keck"
+    },
+    {
+      "rolle" : "Jenna",
+      "sprecher" : "Henrike Fehrs"
+    },
+    {
+      "rolle" : "Ria",
+      "sprecher" : "Henrike Tönnes"
+    },
+    {
+      "rolle" : "Charlotte",
+      "sprecher" : "Ursula Sieg"
+    },
+    {
+      "rolle" : "Fogmire",
+      "sprecher" : "Michael Prelle"
+    },
+    {
+      "rolle" : "Blacky",
+      "sprecher" : "Heikedine Körting"
+    }
+  ],
   "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/235/metadata.json"
+    "json" : "http://dreimetadaten.de/data/Serie/235/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/235/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/235/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/c0/9a/3b/c09a3be7-5be5-c3f4-8903-a5f0d099023e/196872231724.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/die-drei-und-das-fantasmofon",
+    "appleMusic" : "https://music.apple.com/de/album/1829447719",
+    "spotify" : "https://open.spotify.com/intl-de/album/031exGT0P6IWBYY6faqoLV",
+    "amazonMusic" : "https://music.amazon.de/albums/B0FK5GQCXY",
+    "amazon" : "https://www.amazon.de/gp/product/B0FBHSYMZM",
+    "youTubeMusic" : "https://music.youtube.com/browse/MPREb_yxK3tprZXZS",
+    "deezer" : "https://www.deezer.com/de/album/795324851"
   },
   "ids" : {
-    "dreimetadaten" : 420
+    "dreimetadaten" : 420,
+    "appleMusic" : "1829447719",
+    "spotify" : "031exGT0P6IWBYY6faqoLV",
+    "amazonMusic" : "B0FK5GQCXY",
+    "amazon" : "B0FBHSYMZM",
+    "youTubeMusic" : "MPREb_yxK3tprZXZS",
+    "deezer" : "795324851"
   },
-  "unvollständig" : true
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Das Geistertelefon",
+          "start" : 0,
+          "end" : 542840
+        },
+        {
+          "titel" : "Fogmire House",
+          "start" : 542840,
+          "end" : 1309773
+        },
+        {
+          "titel" : "Gefahr in der Nacht",
+          "start" : 1309773,
+          "end" : 1949733
+        },
+        {
+          "titel" : "Neue Spuren",
+          "start" : 1949733,
+          "end" : 2828093
+        },
+        {
+          "titel" : "Volt und Ampere",
+          "start" : 2828093,
+          "end" : 3696507
+        },
+        {
+          "titel" : "Das Fantasmofon",
+          "start" : 3696507,
+          "end" : 4891240
+        }
+      ],
+      "ripLog" : "http://dreimetadaten.de/data/Serie/235/rip_log.txt"
+    }
+  ]
 }
