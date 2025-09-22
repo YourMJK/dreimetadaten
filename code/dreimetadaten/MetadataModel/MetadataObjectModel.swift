@@ -33,6 +33,7 @@ extension MetadataObjectModel {
 		var beschreibung: String?
 		var metabeschreibung: String?
 		var veröffentlichungsdatum: String?
+		var gesamtdauer: UInt?
 		var kapitel: [Kapitel]?
 		var sprechrollen: [Sprechrolle]?
 		var links: Links?
@@ -194,6 +195,7 @@ extension MetadataObjectModel {
 			"beschreibung",
 			"metabeschreibung",
 			"veröffentlichungsdatum",
+			"gesamtdauer",
 			"kapitel",
 			"sprechrollen",
 			"links",
@@ -364,6 +366,7 @@ extension MetadataObjectModel {
 			to.beschreibung = from.beschreibung
 			to.metabeschreibung = from.metabeschreibung
 			to.veröffentlichungsdatum = from.veröffentlichungsdatum
+			to.gesamtdauer = from.gesamtdauer
 			to.kapitel = from.kapitel
 			to.sprechrollen = from.sprechrollen
 			to.links = from.links
@@ -478,6 +481,9 @@ extension MetadataObjectModel {
 				}
 			}
 			
+			// gesamtdauer
+			let gesamtdauer = kapitelArray.last?.end.map(UInt.init) ?? nil
+			
 			// veröffentlichungsdatum
 			let veröffentlichungsdatum = try hörspiel.veröffentlichungsdatum.map {
 				guard $0.format == .YMD else {
@@ -501,6 +507,7 @@ extension MetadataObjectModel {
 			hörspielObject.beschreibung = hörspiel.beschreibung
 			hörspielObject.metabeschreibung = hörspiel.metabeschreibung
 			hörspielObject.veröffentlichungsdatum = veröffentlichungsdatum
+			hörspielObject.gesamtdauer = gesamtdauer
 			hörspielObject.kapitel = nilForEmpty(kapitelArray)
 			hörspielObject.sprechrollen = nilForEmpty(sprechrollen)
 			hörspielObject.medien = nilForEmpty(medien)
@@ -575,10 +582,16 @@ extension MetadataObjectModel {
 			gatherFromChildren(\.autor)
 			gatherFromChildren(\.hörspielskriptautor)
 			
+			// Assign if not empty
 			hörspiel.teile = nilForEmpty(teile)
-			if !teile.isEmpty {
-				hörspiel.links?.ffmetadata = nil
-			}
+			guard !teile.isEmpty else { continue }
+			
+			// gesamtdauer
+			let teileDauer = teile.compactMap(\.gesamtdauer)
+			hörspiel.gesamtdauer = !teileDauer.isEmpty ? teileDauer.reduce(0, +) : nil
+			
+			// Remove ffmetadata
+			hörspiel.links?.ffmetadata = nil
 		}
 		
 		// url

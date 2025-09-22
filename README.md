@@ -196,6 +196,7 @@ class Hörspiel {
   var beschreibung: String?
   var metabeschreibung: String?
   var veröffentlichungsdatum: String?
+  var gesamtdauer: UInt?
   var kapitel: [Kapitel]?
   var sprechrollen: [Sprechrolle]?
   var links: Links?
