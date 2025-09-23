@@ -85,27 +85,23 @@ extension Command.Test {
 			// Prepare columns
 			let maxNumber = 999
 			let minColumnWidth = Self.formatProgress((maxNumber, maxNumber, nil), details: false).count
-			var columnWidths: [LinkTester.LinkType: Int] = [:]
-			for type in types {
-				let name = "\(type)"
-				let columnWidth = max(name.count, minColumnWidth)
-				columnWidths[type] = columnWidth
-			}
+			let headerRow = types.map { "\($0)" }
+			var tableFormatter = TableFormatter(separator: "  ", minimumColumnWidth: minColumnWidth)
+			tableFormatter.updateColumnWidths(row: headerRow)
 			
 			// Print header
-			let header = Self.formatRow(types.map { ("\($0)", columnWidths[$0]!) })
+			let header = tableFormatter.format(row: headerRow)
 			stderr(header)
 			
 			// Test link types
 			await tester.test(linkTypes: Set(types), progressHandler: .init { totalProgress in
-				let progressColumns = types.map {
-					let columnWidth = columnWidths[$0]!
+				let progressRow = types.map {
 					guard let progress = totalProgress[$0] else {
-						return ("", columnWidth)
+						return ""
 					}
-					return (Self.formatProgress(progress, details: false), columnWidth)
+					return Self.formatProgress(progress, details: false)
 				}
-				let progressLine = Self.formatRow(progressColumns)
+				let progressLine = tableFormatter.format(row: progressRow)
 				stderr("\(Self.clearLineSequence)\(progressLine)", terminator: "")
 			} failedLink: { linkType, result in
 				stderr("")
@@ -126,16 +122,6 @@ extension Command.Test {
 			let item = details ? progress.current : nil
 			let itemDetails = item.map { " (ID=\($0.hörspielID), URL=\($0.url))" } ?? ""
 			return "\(progress.checked)/\(progress.total)\(itemDetails)"
-		}
-		
-		private static func formatRow<C: Collection>(_ columns: C) -> String where C.Element == (String, Int) {
-			columns
-				.map { (string, width) in
-					// Pad with spaces to the left
-					let padding = String(repeating: " ", count: width-string.count)
-					return padding + string
-				}
-				.joined(separator: "  ")
 		}
 		
 		private static func printFailedLink(result: LinkTester.Result) {
