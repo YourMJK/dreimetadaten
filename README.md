@@ -67,7 +67,8 @@ CREATE TABLE "hörspielTeil"(
   "position" INTEGER NOT NULL CHECK("position" > 0),
   "buchstabe" TEXT CHECK(LENGTH("buchstabe") = 1),
   UNIQUE("hörspiel", "position"),
-  UNIQUE("hörspiel", "buchstabe")
+  UNIQUE("hörspiel", "buchstabe"),
+  CHECK("teil" != "hörspiel")
 );
 CREATE TABLE "serie"(
   "nummer" INTEGER PRIMARY KEY NOT NULL,
@@ -136,7 +137,7 @@ CREATE TABLE "sprechrolle"(
 );
 CREATE TABLE "sprechrolleTeil"(
   "sprechrolleID" INTEGER NOT NULL REFERENCES "sprechrolle"("sprechrolleID") ON DELETE CASCADE ON UPDATE CASCADE,
-  "hörspielID" INTEGER NOT NULL REFERENCES "hörspiel"("hörspielID") ON DELETE CASCADE ON UPDATE CASCADE,
+  "hörspielID" INTEGER NOT NULL REFERENCES "hörspielTeil"("teil") ON DELETE CASCADE ON UPDATE CASCADE,
   "position" INTEGER NOT NULL CHECK("position" > 0),
   PRIMARY KEY("sprechrolleID", "hörspielID"),
   UNIQUE("hörspielID", "position")
