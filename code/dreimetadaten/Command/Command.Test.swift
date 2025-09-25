@@ -14,7 +14,7 @@ extension Command {
 	struct Test: AsyncParsableCommand {
 		static let configuration = CommandConfiguration(
 			abstract: "Test dataset completeness, validity and up-to-dateness.",
-			subcommands: [DB.self, Links.self],
+			subcommands: [DB.self, Strings.self, Links.self],
 			helpMessageLabelColumnWidth: 20,
 			alwaysCompactUsageOptions: true
 		)
