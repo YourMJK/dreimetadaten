@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.8.2",
-    "lastModified" : "2025-09-28T23:36:36Z"
+    "version" : "2.8.3",
+    "lastModified" : "2025-09-29T01:46:00Z"
   },
   "kids" : [
     {
@@ -16668,6 +16668,44 @@
       "kurzbeschreibung" : "Die Flügel der alten Windmühle in Rocky Beach drehen sich plötzlich bei absoluter Windstille.",
       "beschreibung" : "Wie kann das sein? Bei genauer Untersuchung stoßen die drei Freunde auf eine sagenhafte Legende.",
       "veröffentlichungsdatum" : "2023-08-04",
+      "gesamtdauer" : 3967213,
+      "kapitel" : [
+        {
+          "titel" : "Unheimliche Stimmen",
+          "start" : 0,
+          "end" : 393347
+        },
+        {
+          "titel" : "Geisterjäger",
+          "start" : 393347,
+          "end" : 1080213
+        },
+        {
+          "titel" : "Im Untergrund",
+          "start" : 1080213,
+          "end" : 1462147
+        },
+        {
+          "titel" : "Alte Legenden",
+          "start" : 1462147,
+          "end" : 2071600
+        },
+        {
+          "titel" : "Mysteriöse Mühle",
+          "start" : 2071600,
+          "end" : 2936347
+        },
+        {
+          "titel" : "Geheimkammer",
+          "start" : 2936347,
+          "end" : 3487667
+        },
+        {
+          "titel" : "Eiskalt erwischt",
+          "start" : 3487667,
+          "end" : 3967213
+        }
+      ],
       "sprechrollen" : [
         {
           "rolle" : "Erzähler",
@@ -16712,6 +16750,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kids/093/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kids/093/ffmetadata.txt",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music116/v4/b2/fa/c4/b2fac461-7ad1-e636-0436-f4314f765043/196589971944.jpg",
         "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-geistermuhle-1",
         "appleMusic" : "https://music.apple.com/de/album/1752883023",
@@ -16732,7 +16771,48 @@
         "youTubeMusic" : "MPREb_hm8CRqa8D1z",
         "deezer" : "603877642"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Unheimliche Stimmen",
+              "start" : 0,
+              "end" : 393347
+            },
+            {
+              "titel" : "Geisterjäger",
+              "start" : 393347,
+              "end" : 1080213
+            },
+            {
+              "titel" : "Im Untergrund",
+              "start" : 1080213,
+              "end" : 1462147
+            },
+            {
+              "titel" : "Alte Legenden",
+              "start" : 1462147,
+              "end" : 2071600
+            },
+            {
+              "titel" : "Mysteriöse Mühle",
+              "start" : 2071600,
+              "end" : 2936347
+            },
+            {
+              "titel" : "Geheimkammer",
+              "start" : 2936347,
+              "end" : 3487667
+            },
+            {
+              "titel" : "Eiskalt erwischt",
+              "start" : 3487667,
+              "end" : 3967213
+            }
+          ],
+          "musicBrainzID" : "1ktPm2YTCymmFSRrDhvD5Trn1Rw-"
+        }
+      ]
     },
     {
       "titel" : "Adventskalender: 24 Tage Weihnachtsspuk",
@@ -16773,6 +16853,44 @@
       "kurzbeschreibung" : "Vampir-Alarm in Rocky Beach.",
       "beschreibung" : "Flatterhafte Wesen werden am Nachthimmel gesichtet, und Fred Fireman hat plötzlich zwei verdächtige rote Punkte am Hals. Justus, Peter und Bob gehen der Sache auf den Grund, und eine gruselige Vampirjagd beginnt.",
       "veröffentlichungsdatum" : "2023-12-08",
+      "gesamtdauer" : 4432667,
+      "kapitel" : [
+        {
+          "titel" : "Sturmnacht",
+          "start" : 0,
+          "end" : 439267
+        },
+        {
+          "titel" : "Vampirgeschichten",
+          "start" : 439267,
+          "end" : 1016453
+        },
+        {
+          "titel" : "Fledermäuse",
+          "start" : 1016453,
+          "end" : 1503867
+        },
+        {
+          "titel" : "Falsche Fährte",
+          "start" : 1503867,
+          "end" : 1992680
+        },
+        {
+          "titel" : "Höhlenforscher",
+          "start" : 1992680,
+          "end" : 2673680
+        },
+        {
+          "titel" : "Tanz der Vampire",
+          "start" : 2673680,
+          "end" : 3603587
+        },
+        {
+          "titel" : "Fürst der Finsternis",
+          "start" : 3603587,
+          "end" : 4432667
+        }
+      ],
       "sprechrollen" : [
         {
           "rolle" : "Erzähler",
@@ -16829,6 +16947,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kids/094/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kids/094/ffmetadata.txt",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/f8/1e/09/f81e09a8-9de6-ec9d-60d5-ac9675236f15/196872226485.jpg",
         "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/falsche-vampire",
         "appleMusic" : "https://music.apple.com/de/album/1752882887",
@@ -16847,7 +16966,48 @@
         "amazon" : "3803260779",
         "youTubeMusic" : "MPREb_T1wG9f36MYp"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Sturmnacht",
+              "start" : 0,
+              "end" : 439267
+            },
+            {
+              "titel" : "Vampirgeschichten",
+              "start" : 439267,
+              "end" : 1016453
+            },
+            {
+              "titel" : "Fledermäuse",
+              "start" : 1016453,
+              "end" : 1503867
+            },
+            {
+              "titel" : "Falsche Fährte",
+              "start" : 1503867,
+              "end" : 1992680
+            },
+            {
+              "titel" : "Höhlenforscher",
+              "start" : 1992680,
+              "end" : 2673680
+            },
+            {
+              "titel" : "Tanz der Vampire",
+              "start" : 2673680,
+              "end" : 3603587
+            },
+            {
+              "titel" : "Fürst der Finsternis",
+              "start" : 3603587,
+              "end" : 4432667
+            }
+          ],
+          "musicBrainzID" : "D2mfLUT4Taze5yUqW9PK8iaSa.g-"
+        }
+      ]
     },
     {
       "nummer" : 95,
@@ -16858,6 +17018,49 @@
       "kurzbeschreibung" : "Einbruch in einer Villa!",
       "beschreibung" : "Bei der Untersuchung des Tatorts fällt den drei ??? Kids ein merkwürdiges Kreidezeichen auf. Was hat es damit auf sich? Justus, Peter und Bob müssen Kommissar Reynolds helfen, weitere Einbrüche zu verhindern.",
       "veröffentlichungsdatum" : "2024-03-08",
+      "gesamtdauer" : 3992453,
+      "kapitel" : [
+        {
+          "titel" : "Zeichensprache",
+          "start" : 0,
+          "end" : 497027
+        },
+        {
+          "titel" : "Auf frischer Tat",
+          "start" : 497027,
+          "end" : 1124933
+        },
+        {
+          "titel" : "Rotwelsch",
+          "start" : 1124933,
+          "end" : 1638173
+        },
+        {
+          "titel" : "Gute Tarnung",
+          "start" : 1638173,
+          "end" : 2132547
+        },
+        {
+          "titel" : "Observation",
+          "start" : 2132547,
+          "end" : 2684093
+        },
+        {
+          "titel" : "Falsche Spuren",
+          "start" : 2684093,
+          "end" : 3160707
+        },
+        {
+          "titel" : "Diebesfalle",
+          "start" : 3160707,
+          "end" : 3620067
+        },
+        {
+          "titel" : "Der Eisenhain",
+          "start" : 3620067,
+          "end" : 3992453
+        }
+      ],
       "sprechrollen" : [
         {
           "rolle" : "Erzähler",
@@ -16918,6 +17121,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kids/095/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kids/095/ffmetadata.txt",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/1a/db/6a/1adb6a6a-808a-3e4c-9836-e0b842815a88/196872226539.jpg",
         "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/geheime-zeichen",
         "appleMusic" : "https://music.apple.com/de/album/1752883247",
@@ -16936,7 +17140,53 @@
         "amazon" : "B0CM55379Q",
         "youTubeMusic" : "MPREb_AFqOn4hH4Xk"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Zeichensprache",
+              "start" : 0,
+              "end" : 497027
+            },
+            {
+              "titel" : "Auf frischer Tat",
+              "start" : 497027,
+              "end" : 1124933
+            },
+            {
+              "titel" : "Rotwelsch",
+              "start" : 1124933,
+              "end" : 1638173
+            },
+            {
+              "titel" : "Gute Tarnung",
+              "start" : 1638173,
+              "end" : 2132547
+            },
+            {
+              "titel" : "Observation",
+              "start" : 2132547,
+              "end" : 2684093
+            },
+            {
+              "titel" : "Falsche Spuren",
+              "start" : 2684093,
+              "end" : 3160707
+            },
+            {
+              "titel" : "Diebesfalle",
+              "start" : 3160707,
+              "end" : 3620067
+            },
+            {
+              "titel" : "Der Eisenhain",
+              "start" : 3620067,
+              "end" : 3992453
+            }
+          ],
+          "musicBrainzID" : "gtbmpYT2yhTgcXn4Kg3sHFTj4nQ-"
+        }
+      ]
     },
     {
       "nummer" : 96,
@@ -16947,6 +17197,54 @@
       "kurzbeschreibung" : "Onkel Titus ist verzweifelt, denn kaum ein Kunde verirrt sich mehr auf den Schrottplatz.",
       "beschreibung" : "Und beim neuen Konkurrenten sind gebrauchte Ersatzteile viel günstiger. Wie kann das sein? Justus, Peter und Bob nehmen die Ermittlungen auf und landen in der Höhle des Löwen.",
       "veröffentlichungsdatum" : "2024-05-17",
+      "gesamtdauer" : 4769640,
+      "kapitel" : [
+        {
+          "titel" : "Haufenprinzip",
+          "start" : 0,
+          "end" : 617827
+        },
+        {
+          "titel" : "Schrottroboter",
+          "start" : 617827,
+          "end" : 1251040
+        },
+        {
+          "titel" : "Verdeckte Ermittler",
+          "start" : 1251040,
+          "end" : 1845080
+        },
+        {
+          "titel" : "Komplett verschluckt",
+          "start" : 1845080,
+          "end" : 2349507
+        },
+        {
+          "titel" : "Dunkle Geschäfte",
+          "start" : 2349507,
+          "end" : 2809240
+        },
+        {
+          "titel" : "Meddox' Kartbahn",
+          "start" : 2809240,
+          "end" : 3346480
+        },
+        {
+          "titel" : "Das große Rennen",
+          "start" : 3346480,
+          "end" : 3871840
+        },
+        {
+          "titel" : "Angriff des Schrottroboters",
+          "start" : 3871840,
+          "end" : 4303293
+        },
+        {
+          "titel" : "Überraschungsbesuch",
+          "start" : 4303293,
+          "end" : 4769640
+        }
+      ],
       "sprechrollen" : [
         {
           "rolle" : "Erzähler",
@@ -17003,6 +17301,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kids/096/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kids/096/ffmetadata.txt",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/dd/0f/d0/dd0fd0c4-49eb-6306-d805-24b26d40aeb7/196872226546.jpg",
         "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-schrottkonig",
         "appleMusic" : "https://music.apple.com/de/album/1752883723",
@@ -17019,7 +17318,58 @@
         "amazon" : "3803260795",
         "youTubeMusic" : "MPREb_SG88zG4JQkl"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Haufenprinzip",
+              "start" : 0,
+              "end" : 617827
+            },
+            {
+              "titel" : "Schrottroboter",
+              "start" : 617827,
+              "end" : 1251040
+            },
+            {
+              "titel" : "Verdeckte Ermittler",
+              "start" : 1251040,
+              "end" : 1845080
+            },
+            {
+              "titel" : "Komplett verschluckt",
+              "start" : 1845080,
+              "end" : 2349507
+            },
+            {
+              "titel" : "Dunkle Geschäfte",
+              "start" : 2349507,
+              "end" : 2809240
+            },
+            {
+              "titel" : "Meddox' Kartbahn",
+              "start" : 2809240,
+              "end" : 3346480
+            },
+            {
+              "titel" : "Das große Rennen",
+              "start" : 3346480,
+              "end" : 3871840
+            },
+            {
+              "titel" : "Angriff des Schrottroboters",
+              "start" : 3871840,
+              "end" : 4303293
+            },
+            {
+              "titel" : "Überraschungsbesuch",
+              "start" : 4303293,
+              "end" : 4769640
+            }
+          ],
+          "musicBrainzID" : "9ePcMV1hXvMQrY5OCBIyfcjsloQ-"
+        }
+      ]
     },
     {
       "nummer" : 97,
@@ -17030,6 +17380,49 @@
       "kurzbeschreibung" : "Trotz der Verhaftung eines Briefkastendiebes kommt Rocky Beach nicht zur Ruhe.",
       "beschreibung" : "Plötzlich tauchen in der Stadt überall Fragezeichen auf. Doch wer außer den drei ??? Kids hinterlässt Kreidezeichen in den Farben Weiß, Rot und Blau?",
       "veröffentlichungsdatum" : "2024-09-20",
+      "gesamtdauer" : 3162133,
+      "kapitel" : [
+        {
+          "titel" : "Eiskalter Start",
+          "start" : 0,
+          "end" : 458720
+        },
+        {
+          "titel" : "Große Fragezeichen",
+          "start" : 458720,
+          "end" : 812773
+        },
+        {
+          "titel" : "Paternoster",
+          "start" : 812773,
+          "end" : 1162240
+        },
+        {
+          "titel" : "Pfeilschnelle Botschaft",
+          "start" : 1162240,
+          "end" : 1525333
+        },
+        {
+          "titel" : "Guter Plan",
+          "start" : 1525333,
+          "end" : 2091200
+        },
+        {
+          "titel" : "Heiße Spur",
+          "start" : 2091200,
+          "end" : 2420987
+        },
+        {
+          "titel" : "Räuberleiter",
+          "start" : 2420987,
+          "end" : 2791867
+        },
+        {
+          "titel" : "Beutejagd",
+          "start" : 2791867,
+          "end" : 3162133
+        }
+      ],
       "sprechrollen" : [
         {
           "rolle" : "Erzähler",
@@ -17074,6 +17467,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kids/097/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kids/097/ffmetadata.txt",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/6b/2b/36/6b2b36e9-5b2c-4dfe-b47c-eff6f4d8847a/196872211818.jpg",
         "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-fragezeichen-falle",
         "appleMusic" : "https://music.apple.com/de/album/1758038649",
@@ -17094,7 +17488,53 @@
         "youTubeMusic" : "MPREb_wVmLQHMEe8s",
         "deezer" : "622297231"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Eiskalter Start",
+              "start" : 0,
+              "end" : 458720
+            },
+            {
+              "titel" : "Große Fragezeichen",
+              "start" : 458720,
+              "end" : 812773
+            },
+            {
+              "titel" : "Paternoster",
+              "start" : 812773,
+              "end" : 1162240
+            },
+            {
+              "titel" : "Pfeilschnelle Botschaft",
+              "start" : 1162240,
+              "end" : 1525333
+            },
+            {
+              "titel" : "Guter Plan",
+              "start" : 1525333,
+              "end" : 2091200
+            },
+            {
+              "titel" : "Heiße Spur",
+              "start" : 2091200,
+              "end" : 2420987
+            },
+            {
+              "titel" : "Räuberleiter",
+              "start" : 2420987,
+              "end" : 2791867
+            },
+            {
+              "titel" : "Beutejagd",
+              "start" : 2791867,
+              "end" : 3162133
+            }
+          ],
+          "musicBrainzID" : "rhbs6GJAI84_pp7n6kySgZ9Q5iY-"
+        }
+      ]
     }
   ]
 }

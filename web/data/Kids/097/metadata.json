@@ -7,6 +7,49 @@
   "kurzbeschreibung" : "Trotz der Verhaftung eines Briefkastendiebes kommt Rocky Beach nicht zur Ruhe.",
   "beschreibung" : "Plötzlich tauchen in der Stadt überall Fragezeichen auf. Doch wer außer den drei ??? Kids hinterlässt Kreidezeichen in den Farben Weiß, Rot und Blau?",
   "veröffentlichungsdatum" : "2024-09-20",
+  "gesamtdauer" : 3162133,
+  "kapitel" : [
+    {
+      "titel" : "Eiskalter Start",
+      "start" : 0,
+      "end" : 458720
+    },
+    {
+      "titel" : "Große Fragezeichen",
+      "start" : 458720,
+      "end" : 812773
+    },
+    {
+      "titel" : "Paternoster",
+      "start" : 812773,
+      "end" : 1162240
+    },
+    {
+      "titel" : "Pfeilschnelle Botschaft",
+      "start" : 1162240,
+      "end" : 1525333
+    },
+    {
+      "titel" : "Guter Plan",
+      "start" : 1525333,
+      "end" : 2091200
+    },
+    {
+      "titel" : "Heiße Spur",
+      "start" : 2091200,
+      "end" : 2420987
+    },
+    {
+      "titel" : "Räuberleiter",
+      "start" : 2420987,
+      "end" : 2791867
+    },
+    {
+      "titel" : "Beutejagd",
+      "start" : 2791867,
+      "end" : 3162133
+    }
+  ],
   "sprechrollen" : [
     {
       "rolle" : "Erzähler",
@@ -51,6 +94,7 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kids/097/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/097/ffmetadata.txt",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/6b/2b/36/6b2b36e9-5b2c-4dfe-b47c-eff6f4d8847a/196872211818.jpg",
     "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-fragezeichen-falle",
     "appleMusic" : "https://music.apple.com/de/album/1758038649",
@@ -71,5 +115,51 @@
     "youTubeMusic" : "MPREb_wVmLQHMEe8s",
     "deezer" : "622297231"
   },
-  "unvollständig" : true
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Eiskalter Start",
+          "start" : 0,
+          "end" : 458720
+        },
+        {
+          "titel" : "Große Fragezeichen",
+          "start" : 458720,
+          "end" : 812773
+        },
+        {
+          "titel" : "Paternoster",
+          "start" : 812773,
+          "end" : 1162240
+        },
+        {
+          "titel" : "Pfeilschnelle Botschaft",
+          "start" : 1162240,
+          "end" : 1525333
+        },
+        {
+          "titel" : "Guter Plan",
+          "start" : 1525333,
+          "end" : 2091200
+        },
+        {
+          "titel" : "Heiße Spur",
+          "start" : 2091200,
+          "end" : 2420987
+        },
+        {
+          "titel" : "Räuberleiter",
+          "start" : 2420987,
+          "end" : 2791867
+        },
+        {
+          "titel" : "Beutejagd",
+          "start" : 2791867,
+          "end" : 3162133
+        }
+      ],
+      "musicBrainzID" : "rhbs6GJAI84_pp7n6kySgZ9Q5iY-"
+    }
+  ]
 }

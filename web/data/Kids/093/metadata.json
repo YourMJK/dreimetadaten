@@ -7,6 +7,44 @@
   "kurzbeschreibung" : "Die Flügel der alten Windmühle in Rocky Beach drehen sich plötzlich bei absoluter Windstille.",
   "beschreibung" : "Wie kann das sein? Bei genauer Untersuchung stoßen die drei Freunde auf eine sagenhafte Legende.",
   "veröffentlichungsdatum" : "2023-08-04",
+  "gesamtdauer" : 3967213,
+  "kapitel" : [
+    {
+      "titel" : "Unheimliche Stimmen",
+      "start" : 0,
+      "end" : 393347
+    },
+    {
+      "titel" : "Geisterjäger",
+      "start" : 393347,
+      "end" : 1080213
+    },
+    {
+      "titel" : "Im Untergrund",
+      "start" : 1080213,
+      "end" : 1462147
+    },
+    {
+      "titel" : "Alte Legenden",
+      "start" : 1462147,
+      "end" : 2071600
+    },
+    {
+      "titel" : "Mysteriöse Mühle",
+      "start" : 2071600,
+      "end" : 2936347
+    },
+    {
+      "titel" : "Geheimkammer",
+      "start" : 2936347,
+      "end" : 3487667
+    },
+    {
+      "titel" : "Eiskalt erwischt",
+      "start" : 3487667,
+      "end" : 3967213
+    }
+  ],
   "sprechrollen" : [
     {
       "rolle" : "Erzähler",
@@ -51,6 +89,7 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kids/093/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/093/ffmetadata.txt",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music116/v4/b2/fa/c4/b2fac461-7ad1-e636-0436-f4314f765043/196589971944.jpg",
     "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-geistermuhle-1",
     "appleMusic" : "https://music.apple.com/de/album/1752883023",
@@ -71,5 +110,46 @@
     "youTubeMusic" : "MPREb_hm8CRqa8D1z",
     "deezer" : "603877642"
   },
-  "unvollständig" : true
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Unheimliche Stimmen",
+          "start" : 0,
+          "end" : 393347
+        },
+        {
+          "titel" : "Geisterjäger",
+          "start" : 393347,
+          "end" : 1080213
+        },
+        {
+          "titel" : "Im Untergrund",
+          "start" : 1080213,
+          "end" : 1462147
+        },
+        {
+          "titel" : "Alte Legenden",
+          "start" : 1462147,
+          "end" : 2071600
+        },
+        {
+          "titel" : "Mysteriöse Mühle",
+          "start" : 2071600,
+          "end" : 2936347
+        },
+        {
+          "titel" : "Geheimkammer",
+          "start" : 2936347,
+          "end" : 3487667
+        },
+        {
+          "titel" : "Eiskalt erwischt",
+          "start" : 3487667,
+          "end" : 3967213
+        }
+      ],
+      "musicBrainzID" : "1ktPm2YTCymmFSRrDhvD5Trn1Rw-"
+    }
+  ]
 }

@@ -7,6 +7,54 @@
   "kurzbeschreibung" : "Onkel Titus ist verzweifelt, denn kaum ein Kunde verirrt sich mehr auf den Schrottplatz.",
   "beschreibung" : "Und beim neuen Konkurrenten sind gebrauchte Ersatzteile viel günstiger. Wie kann das sein? Justus, Peter und Bob nehmen die Ermittlungen auf und landen in der Höhle des Löwen.",
   "veröffentlichungsdatum" : "2024-05-17",
+  "gesamtdauer" : 4769640,
+  "kapitel" : [
+    {
+      "titel" : "Haufenprinzip",
+      "start" : 0,
+      "end" : 617827
+    },
+    {
+      "titel" : "Schrottroboter",
+      "start" : 617827,
+      "end" : 1251040
+    },
+    {
+      "titel" : "Verdeckte Ermittler",
+      "start" : 1251040,
+      "end" : 1845080
+    },
+    {
+      "titel" : "Komplett verschluckt",
+      "start" : 1845080,
+      "end" : 2349507
+    },
+    {
+      "titel" : "Dunkle Geschäfte",
+      "start" : 2349507,
+      "end" : 2809240
+    },
+    {
+      "titel" : "Meddox' Kartbahn",
+      "start" : 2809240,
+      "end" : 3346480
+    },
+    {
+      "titel" : "Das große Rennen",
+      "start" : 3346480,
+      "end" : 3871840
+    },
+    {
+      "titel" : "Angriff des Schrottroboters",
+      "start" : 3871840,
+      "end" : 4303293
+    },
+    {
+      "titel" : "Überraschungsbesuch",
+      "start" : 4303293,
+      "end" : 4769640
+    }
+  ],
   "sprechrollen" : [
     {
       "rolle" : "Erzähler",
@@ -63,6 +111,7 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kids/096/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/096/ffmetadata.txt",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/dd/0f/d0/dd0fd0c4-49eb-6306-d805-24b26d40aeb7/196872226546.jpg",
     "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/der-schrottkonig",
     "appleMusic" : "https://music.apple.com/de/album/1752883723",
@@ -79,5 +128,56 @@
     "amazon" : "3803260795",
     "youTubeMusic" : "MPREb_SG88zG4JQkl"
   },
-  "unvollständig" : true
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Haufenprinzip",
+          "start" : 0,
+          "end" : 617827
+        },
+        {
+          "titel" : "Schrottroboter",
+          "start" : 617827,
+          "end" : 1251040
+        },
+        {
+          "titel" : "Verdeckte Ermittler",
+          "start" : 1251040,
+          "end" : 1845080
+        },
+        {
+          "titel" : "Komplett verschluckt",
+          "start" : 1845080,
+          "end" : 2349507
+        },
+        {
+          "titel" : "Dunkle Geschäfte",
+          "start" : 2349507,
+          "end" : 2809240
+        },
+        {
+          "titel" : "Meddox' Kartbahn",
+          "start" : 2809240,
+          "end" : 3346480
+        },
+        {
+          "titel" : "Das große Rennen",
+          "start" : 3346480,
+          "end" : 3871840
+        },
+        {
+          "titel" : "Angriff des Schrottroboters",
+          "start" : 3871840,
+          "end" : 4303293
+        },
+        {
+          "titel" : "Überraschungsbesuch",
+          "start" : 4303293,
+          "end" : 4769640
+        }
+      ],
+      "musicBrainzID" : "9ePcMV1hXvMQrY5OCBIyfcjsloQ-"
+    }
+  ]
 }

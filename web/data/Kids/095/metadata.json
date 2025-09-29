@@ -7,6 +7,49 @@
   "kurzbeschreibung" : "Einbruch in einer Villa!",
   "beschreibung" : "Bei der Untersuchung des Tatorts fällt den drei ??? Kids ein merkwürdiges Kreidezeichen auf. Was hat es damit auf sich? Justus, Peter und Bob müssen Kommissar Reynolds helfen, weitere Einbrüche zu verhindern.",
   "veröffentlichungsdatum" : "2024-03-08",
+  "gesamtdauer" : 3992453,
+  "kapitel" : [
+    {
+      "titel" : "Zeichensprache",
+      "start" : 0,
+      "end" : 497027
+    },
+    {
+      "titel" : "Auf frischer Tat",
+      "start" : 497027,
+      "end" : 1124933
+    },
+    {
+      "titel" : "Rotwelsch",
+      "start" : 1124933,
+      "end" : 1638173
+    },
+    {
+      "titel" : "Gute Tarnung",
+      "start" : 1638173,
+      "end" : 2132547
+    },
+    {
+      "titel" : "Observation",
+      "start" : 2132547,
+      "end" : 2684093
+    },
+    {
+      "titel" : "Falsche Spuren",
+      "start" : 2684093,
+      "end" : 3160707
+    },
+    {
+      "titel" : "Diebesfalle",
+      "start" : 3160707,
+      "end" : 3620067
+    },
+    {
+      "titel" : "Der Eisenhain",
+      "start" : 3620067,
+      "end" : 3992453
+    }
+  ],
   "sprechrollen" : [
     {
       "rolle" : "Erzähler",
@@ -67,6 +110,7 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kids/095/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/095/ffmetadata.txt",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/1a/db/6a/1adb6a6a-808a-3e4c-9836-e0b842815a88/196872226539.jpg",
     "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/geheime-zeichen",
     "appleMusic" : "https://music.apple.com/de/album/1752883247",
@@ -85,5 +129,51 @@
     "amazon" : "B0CM55379Q",
     "youTubeMusic" : "MPREb_AFqOn4hH4Xk"
   },
-  "unvollständig" : true
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Zeichensprache",
+          "start" : 0,
+          "end" : 497027
+        },
+        {
+          "titel" : "Auf frischer Tat",
+          "start" : 497027,
+          "end" : 1124933
+        },
+        {
+          "titel" : "Rotwelsch",
+          "start" : 1124933,
+          "end" : 1638173
+        },
+        {
+          "titel" : "Gute Tarnung",
+          "start" : 1638173,
+          "end" : 2132547
+        },
+        {
+          "titel" : "Observation",
+          "start" : 2132547,
+          "end" : 2684093
+        },
+        {
+          "titel" : "Falsche Spuren",
+          "start" : 2684093,
+          "end" : 3160707
+        },
+        {
+          "titel" : "Diebesfalle",
+          "start" : 3160707,
+          "end" : 3620067
+        },
+        {
+          "titel" : "Der Eisenhain",
+          "start" : 3620067,
+          "end" : 3992453
+        }
+      ],
+      "musicBrainzID" : "gtbmpYT2yhTgcXn4Kg3sHFTj4nQ-"
+    }
+  ]
 }
