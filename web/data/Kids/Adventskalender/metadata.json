@@ -5,6 +5,129 @@
   "gesamtbeschreibung" : "Weihnachten steht vor der Tür und auf Justus, Peter und Bob warten 24 spannende Abenteuer. Jeden Tag stehen die drei ??? Kids vor einem neuen rätselhaften Fall. Findest auch du die Täter und kannst die verzwickten Ratekrimis lösen? Doch Vorsicht! Denn dabei geht es nicht nur um geklaute Tannenbäume …",
   "beschreibung" : "Weihnachten steht vor der Tür und auf Justus, Peter und Bob warten 24 spannende Abenteuer. Jeden Tag stehen die drei ??? Kids vor einem neuen rätselhaften Fall. Findest auch du die Täter und kannst die verzwickten Ratekrimis lösen? Doch Vorsicht! Denn dabei geht es nicht nur um geklaute Tannenbäume …",
   "veröffentlichungsdatum" : "2012-11-30",
+  "gesamtdauer" : 9536614,
+  "kapitel" : [
+    {
+      "titel" : "Blütenzauber in Rocky Beach",
+      "start" : 0,
+      "end" : 493707
+    },
+    {
+      "titel" : "Gefährliche Schatzsuche",
+      "start" : 493707,
+      "end" : 929893
+    },
+    {
+      "titel" : "Heiße Diamanten",
+      "start" : 929893,
+      "end" : 1411053
+    },
+    {
+      "titel" : "Gruseliges Geheimnis",
+      "start" : 1411053,
+      "end" : 1825093
+    },
+    {
+      "titel" : "Schattendiebe",
+      "start" : 1825093,
+      "end" : 2244827
+    },
+    {
+      "titel" : "Alarm im Looping",
+      "start" : 2244827,
+      "end" : 2583973
+    },
+    {
+      "titel" : "Postraub im Morgengrauen",
+      "start" : 2583973,
+      "end" : 2901867
+    },
+    {
+      "titel" : "Alarm im Affenstall",
+      "start" : 2901867,
+      "end" : 3294520
+    },
+    {
+      "titel" : "Feuerwerk am hellen Tag",
+      "start" : 3294520,
+      "end" : 3678627
+    },
+    {
+      "titel" : "Falsches Spiel",
+      "start" : 3678627,
+      "end" : 4037347
+    },
+    {
+      "titel" : "Achtung Strandräuber",
+      "start" : 4037347,
+      "end" : 4396080
+    },
+    {
+      "titel" : "Spurlos verschwunden",
+      "start" : 4396080,
+      "end" : 4759507
+    },
+    {
+      "titel" : "Detektive unter Verdacht",
+      "start" : 4759507,
+      "end" : 5125947
+    },
+    {
+      "titel" : "Falsche Tränen",
+      "start" : 5125947,
+      "end" : 5551214
+    },
+    {
+      "titel" : "Duell der Inline‐Skater",
+      "start" : 5551214,
+      "end" : 5924880
+    },
+    {
+      "titel" : "Feuer an Bord",
+      "start" : 5924880,
+      "end" : 6359734
+    },
+    {
+      "titel" : "Geisterstunde",
+      "start" : 6359734,
+      "end" : 6776214
+    },
+    {
+      "titel" : "Geheime Flaschenpost",
+      "start" : 6776214,
+      "end" : 7232640
+    },
+    {
+      "titel" : "Hilfe, Handydiebe!",
+      "start" : 7232640,
+      "end" : 7581054
+    },
+    {
+      "titel" : "Kopfüber ins Nichts",
+      "start" : 7581054,
+      "end" : 7939267
+    },
+    {
+      "titel" : "Taschenspielertricks",
+      "start" : 7939267,
+      "end" : 8358854
+    },
+    {
+      "titel" : "Gespensterjagd",
+      "start" : 8358854,
+      "end" : 8814840
+    },
+    {
+      "titel" : "Verbrannte Millionen",
+      "start" : 8814840,
+      "end" : 9174774
+    },
+    {
+      "titel" : "Der Fall Tannenbaum",
+      "start" : 9174774,
+      "end" : 9536614
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kids/Adventskalender/metadata.json",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music115/v4/95/95/f3/9595f34b-7bfb-c283-92d5-a5c5851c8c2b/886447023242.jpg",
@@ -27,5 +150,137 @@
     "youTubeMusic" : "MPREb_dVGHbrL7AoF",
     "deezer" : "67326872"
   },
-  "unvollständig" : true
+  "unvollständig" : true,
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Blütenzauber in Rocky Beach",
+          "start" : 0,
+          "end" : 493707
+        },
+        {
+          "titel" : "Gefährliche Schatzsuche",
+          "start" : 493707,
+          "end" : 929893
+        },
+        {
+          "titel" : "Heiße Diamanten",
+          "start" : 929893,
+          "end" : 1411053
+        },
+        {
+          "titel" : "Gruseliges Geheimnis",
+          "start" : 1411053,
+          "end" : 1825093
+        },
+        {
+          "titel" : "Schattendiebe",
+          "start" : 1825093,
+          "end" : 2244827
+        },
+        {
+          "titel" : "Alarm im Looping",
+          "start" : 2244827,
+          "end" : 2583973
+        },
+        {
+          "titel" : "Postraub im Morgengrauen",
+          "start" : 2583973,
+          "end" : 2901867
+        },
+        {
+          "titel" : "Alarm im Affenstall",
+          "start" : 2901867,
+          "end" : 3294520
+        },
+        {
+          "titel" : "Feuerwerk am hellen Tag",
+          "start" : 3294520,
+          "end" : 3678627
+        },
+        {
+          "titel" : "Falsches Spiel",
+          "start" : 3678627,
+          "end" : 4037347
+        },
+        {
+          "titel" : "Achtung Strandräuber",
+          "start" : 4037347,
+          "end" : 4396080
+        },
+        {
+          "titel" : "Spurlos verschwunden",
+          "start" : 4396080,
+          "end" : 4759507
+        }
+      ],
+      "musicBrainzID" : ".K_EDEiRrMiODUXE1B3ZzNUbJE0-"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Detektive unter Verdacht",
+          "start" : 0,
+          "end" : 366440
+        },
+        {
+          "titel" : "Falsche Tränen",
+          "start" : 366440,
+          "end" : 791707
+        },
+        {
+          "titel" : "Duell der Inline‐Skater",
+          "start" : 791707,
+          "end" : 1165373
+        },
+        {
+          "titel" : "Feuer an Bord",
+          "start" : 1165373,
+          "end" : 1600227
+        },
+        {
+          "titel" : "Geisterstunde",
+          "start" : 1600227,
+          "end" : 2016707
+        },
+        {
+          "titel" : "Geheime Flaschenpost",
+          "start" : 2016707,
+          "end" : 2473133
+        },
+        {
+          "titel" : "Hilfe, Handydiebe!",
+          "start" : 2473133,
+          "end" : 2821547
+        },
+        {
+          "titel" : "Kopfüber ins Nichts",
+          "start" : 2821547,
+          "end" : 3179760
+        },
+        {
+          "titel" : "Taschenspielertricks",
+          "start" : 3179760,
+          "end" : 3599347
+        },
+        {
+          "titel" : "Gespensterjagd",
+          "start" : 3599347,
+          "end" : 4055333
+        },
+        {
+          "titel" : "Verbrannte Millionen",
+          "start" : 4055333,
+          "end" : 4415267
+        },
+        {
+          "titel" : "Der Fall Tannenbaum",
+          "start" : 4415267,
+          "end" : 4777107
+        }
+      ],
+      "musicBrainzID" : "IMmCMpnKGXxTLyVSTAerq3pH4ow-"
+    }
+  ]
 }

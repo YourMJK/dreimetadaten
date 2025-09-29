@@ -5,6 +5,129 @@
   "gesamtbeschreibung" : "Vorweihnachtszeit in Rocky Beach. Ein riesiger, begehbarer Adventskalender ist die Attraktion auf dem Weihnachtsmarkt. Doch schon am ersten Tag steckt hinter der Tür keine schöne Adventsüberraschung, sondern ein übler Scherz! Die drei ??? Kids müssen all ihr Können aufbieten, um das Weihnachtsfest zu retten.",
   "beschreibung" : "Vorweihnachtszeit in Rocky Beach. Ein riesiger, begehbarer Adventskalender ist die Attraktion auf dem Weihnachtsmarkt. Doch schon am ersten Tag steckt hinter der Tür keine schöne Adventsüberraschung, sondern ein übler Scherz! Die drei ??? Kids müssen all ihr Können aufbieten, um das Weihnachtsfest zu retten.",
   "veröffentlichungsdatum" : "2016-11-04",
+  "gesamtdauer" : 8797840,
+  "kapitel" : [
+    {
+      "titel" : "Tag 1",
+      "start" : 0,
+      "end" : 525107
+    },
+    {
+      "titel" : "Tag 2",
+      "start" : 525107,
+      "end" : 1005013
+    },
+    {
+      "titel" : "Tag 3",
+      "start" : 1005013,
+      "end" : 1352387
+    },
+    {
+      "titel" : "Tag 4",
+      "start" : 1352387,
+      "end" : 1721133
+    },
+    {
+      "titel" : "Tag 5",
+      "start" : 1721133,
+      "end" : 2151320
+    },
+    {
+      "titel" : "Tag 6",
+      "start" : 2151320,
+      "end" : 2503880
+    },
+    {
+      "titel" : "Tag 7",
+      "start" : 2503880,
+      "end" : 2891373
+    },
+    {
+      "titel" : "Tag 8",
+      "start" : 2891373,
+      "end" : 3224387
+    },
+    {
+      "titel" : "Tag 9",
+      "start" : 3224387,
+      "end" : 3624174
+    },
+    {
+      "titel" : "Tag 10",
+      "start" : 3624174,
+      "end" : 3947774
+    },
+    {
+      "titel" : "Tag 11",
+      "start" : 3947774,
+      "end" : 4259094
+    },
+    {
+      "titel" : "Tag 12",
+      "start" : 4259094,
+      "end" : 4561080
+    },
+    {
+      "titel" : "Tag 13",
+      "start" : 4561080,
+      "end" : 4907014
+    },
+    {
+      "titel" : "Tag 14",
+      "start" : 4907014,
+      "end" : 5204760
+    },
+    {
+      "titel" : "Tag 15",
+      "start" : 5204760,
+      "end" : 5519400
+    },
+    {
+      "titel" : "Tag 16",
+      "start" : 5519400,
+      "end" : 5822267
+    },
+    {
+      "titel" : "Tag 17",
+      "start" : 5822267,
+      "end" : 6171254
+    },
+    {
+      "titel" : "Tag 18",
+      "start" : 6171254,
+      "end" : 6548614
+    },
+    {
+      "titel" : "Tag 19",
+      "start" : 6548614,
+      "end" : 6853454
+    },
+    {
+      "titel" : "Tag 20",
+      "start" : 6853454,
+      "end" : 7220880
+    },
+    {
+      "titel" : "Tag 21",
+      "start" : 7220880,
+      "end" : 7605600
+    },
+    {
+      "titel" : "Tag 22",
+      "start" : 7605600,
+      "end" : 7891000
+    },
+    {
+      "titel" : "Tag 23",
+      "start" : 7891000,
+      "end" : 8270774
+    },
+    {
+      "titel" : "Tag 24",
+      "start" : 8270774,
+      "end" : 8797840
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-Ein-Raetsel-in-24-Tagen/metadata.json",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music118/v4/ac/9b/b3/ac9bb3ec-b42b-0e04-c1da-d672a6fb7e73/886446331560.jpg",
@@ -27,5 +150,142 @@
     "youTubeMusic" : "MPREb_rC0JIHiKvc1",
     "deezer" : "59892342"
   },
-  "unvollständig" : true
+  "unvollständig" : true,
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 1",
+          "start" : 0,
+          "end" : 525107
+        },
+        {
+          "titel" : "Tag 2",
+          "start" : 525107,
+          "end" : 1005013
+        },
+        {
+          "titel" : "Tag 3",
+          "start" : 1005013,
+          "end" : 1352387
+        },
+        {
+          "titel" : "Tag 4",
+          "start" : 1352387,
+          "end" : 1721133
+        },
+        {
+          "titel" : "Tag 5",
+          "start" : 1721133,
+          "end" : 2151320
+        },
+        {
+          "titel" : "Tag 6",
+          "start" : 2151320,
+          "end" : 2503880
+        },
+        {
+          "titel" : "Tag 7",
+          "start" : 2503880,
+          "end" : 2891373
+        },
+        {
+          "titel" : "Tag 8",
+          "start" : 2891373,
+          "end" : 3224387
+        }
+      ],
+      "musicBrainzID" : "ETUHgpvsw4SK1U6ZgwzU_UniT4c-"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 9",
+          "start" : 0,
+          "end" : 399787
+        },
+        {
+          "titel" : "Tag 10",
+          "start" : 399787,
+          "end" : 723387
+        },
+        {
+          "titel" : "Tag 11",
+          "start" : 723387,
+          "end" : 1034707
+        },
+        {
+          "titel" : "Tag 12",
+          "start" : 1034707,
+          "end" : 1336693
+        },
+        {
+          "titel" : "Tag 13",
+          "start" : 1336693,
+          "end" : 1682627
+        },
+        {
+          "titel" : "Tag 14",
+          "start" : 1682627,
+          "end" : 1980373
+        },
+        {
+          "titel" : "Tag 15",
+          "start" : 1980373,
+          "end" : 2295013
+        },
+        {
+          "titel" : "Tag 16",
+          "start" : 2295013,
+          "end" : 2597880
+        }
+      ],
+      "musicBrainzID" : "ET4jeTmFwKzgICbCJK8zhXu8SBo-"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 17",
+          "start" : 0,
+          "end" : 348987
+        },
+        {
+          "titel" : "Tag 18",
+          "start" : 348987,
+          "end" : 726347
+        },
+        {
+          "titel" : "Tag 19",
+          "start" : 726347,
+          "end" : 1031187
+        },
+        {
+          "titel" : "Tag 20",
+          "start" : 1031187,
+          "end" : 1398613
+        },
+        {
+          "titel" : "Tag 21",
+          "start" : 1398613,
+          "end" : 1783333
+        },
+        {
+          "titel" : "Tag 22",
+          "start" : 1783333,
+          "end" : 2068733
+        },
+        {
+          "titel" : "Tag 23",
+          "start" : 2068733,
+          "end" : 2448507
+        },
+        {
+          "titel" : "Tag 24",
+          "start" : 2448507,
+          "end" : 2975573
+        }
+      ],
+      "musicBrainzID" : "u2Xior2MF4zF.g.4oZzAdo7x7UE-"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.8.3",
-    "lastModified" : "2025-09-29T01:46:00Z"
+    "version" : "2.8.4",
+    "lastModified" : "2025-09-29T14:22:58Z"
   },
   "kids" : [
     {
@@ -5483,6 +5483,129 @@
       "gesamtbeschreibung" : "Weihnachten steht vor der Tür und auf Justus, Peter und Bob warten 24 spannende Abenteuer. Jeden Tag stehen die drei ??? Kids vor einem neuen rätselhaften Fall. Findest auch du die Täter und kannst die verzwickten Ratekrimis lösen? Doch Vorsicht! Denn dabei geht es nicht nur um geklaute Tannenbäume …",
       "beschreibung" : "Weihnachten steht vor der Tür und auf Justus, Peter und Bob warten 24 spannende Abenteuer. Jeden Tag stehen die drei ??? Kids vor einem neuen rätselhaften Fall. Findest auch du die Täter und kannst die verzwickten Ratekrimis lösen? Doch Vorsicht! Denn dabei geht es nicht nur um geklaute Tannenbäume …",
       "veröffentlichungsdatum" : "2012-11-30",
+      "gesamtdauer" : 9536614,
+      "kapitel" : [
+        {
+          "titel" : "Blütenzauber in Rocky Beach",
+          "start" : 0,
+          "end" : 493707
+        },
+        {
+          "titel" : "Gefährliche Schatzsuche",
+          "start" : 493707,
+          "end" : 929893
+        },
+        {
+          "titel" : "Heiße Diamanten",
+          "start" : 929893,
+          "end" : 1411053
+        },
+        {
+          "titel" : "Gruseliges Geheimnis",
+          "start" : 1411053,
+          "end" : 1825093
+        },
+        {
+          "titel" : "Schattendiebe",
+          "start" : 1825093,
+          "end" : 2244827
+        },
+        {
+          "titel" : "Alarm im Looping",
+          "start" : 2244827,
+          "end" : 2583973
+        },
+        {
+          "titel" : "Postraub im Morgengrauen",
+          "start" : 2583973,
+          "end" : 2901867
+        },
+        {
+          "titel" : "Alarm im Affenstall",
+          "start" : 2901867,
+          "end" : 3294520
+        },
+        {
+          "titel" : "Feuerwerk am hellen Tag",
+          "start" : 3294520,
+          "end" : 3678627
+        },
+        {
+          "titel" : "Falsches Spiel",
+          "start" : 3678627,
+          "end" : 4037347
+        },
+        {
+          "titel" : "Achtung Strandräuber",
+          "start" : 4037347,
+          "end" : 4396080
+        },
+        {
+          "titel" : "Spurlos verschwunden",
+          "start" : 4396080,
+          "end" : 4759507
+        },
+        {
+          "titel" : "Detektive unter Verdacht",
+          "start" : 4759507,
+          "end" : 5125947
+        },
+        {
+          "titel" : "Falsche Tränen",
+          "start" : 5125947,
+          "end" : 5551214
+        },
+        {
+          "titel" : "Duell der Inline‐Skater",
+          "start" : 5551214,
+          "end" : 5924880
+        },
+        {
+          "titel" : "Feuer an Bord",
+          "start" : 5924880,
+          "end" : 6359734
+        },
+        {
+          "titel" : "Geisterstunde",
+          "start" : 6359734,
+          "end" : 6776214
+        },
+        {
+          "titel" : "Geheime Flaschenpost",
+          "start" : 6776214,
+          "end" : 7232640
+        },
+        {
+          "titel" : "Hilfe, Handydiebe!",
+          "start" : 7232640,
+          "end" : 7581054
+        },
+        {
+          "titel" : "Kopfüber ins Nichts",
+          "start" : 7581054,
+          "end" : 7939267
+        },
+        {
+          "titel" : "Taschenspielertricks",
+          "start" : 7939267,
+          "end" : 8358854
+        },
+        {
+          "titel" : "Gespensterjagd",
+          "start" : 8358854,
+          "end" : 8814840
+        },
+        {
+          "titel" : "Verbrannte Millionen",
+          "start" : 8814840,
+          "end" : 9174774
+        },
+        {
+          "titel" : "Der Fall Tannenbaum",
+          "start" : 9174774,
+          "end" : 9536614
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kids/Adventskalender/metadata.json",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music115/v4/95/95/f3/9595f34b-7bfb-c283-92d5-a5c5851c8c2b/886447023242.jpg",
@@ -5505,7 +5628,139 @@
         "youTubeMusic" : "MPREb_dVGHbrL7AoF",
         "deezer" : "67326872"
       },
-      "unvollständig" : true
+      "unvollständig" : true,
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Blütenzauber in Rocky Beach",
+              "start" : 0,
+              "end" : 493707
+            },
+            {
+              "titel" : "Gefährliche Schatzsuche",
+              "start" : 493707,
+              "end" : 929893
+            },
+            {
+              "titel" : "Heiße Diamanten",
+              "start" : 929893,
+              "end" : 1411053
+            },
+            {
+              "titel" : "Gruseliges Geheimnis",
+              "start" : 1411053,
+              "end" : 1825093
+            },
+            {
+              "titel" : "Schattendiebe",
+              "start" : 1825093,
+              "end" : 2244827
+            },
+            {
+              "titel" : "Alarm im Looping",
+              "start" : 2244827,
+              "end" : 2583973
+            },
+            {
+              "titel" : "Postraub im Morgengrauen",
+              "start" : 2583973,
+              "end" : 2901867
+            },
+            {
+              "titel" : "Alarm im Affenstall",
+              "start" : 2901867,
+              "end" : 3294520
+            },
+            {
+              "titel" : "Feuerwerk am hellen Tag",
+              "start" : 3294520,
+              "end" : 3678627
+            },
+            {
+              "titel" : "Falsches Spiel",
+              "start" : 3678627,
+              "end" : 4037347
+            },
+            {
+              "titel" : "Achtung Strandräuber",
+              "start" : 4037347,
+              "end" : 4396080
+            },
+            {
+              "titel" : "Spurlos verschwunden",
+              "start" : 4396080,
+              "end" : 4759507
+            }
+          ],
+          "musicBrainzID" : ".K_EDEiRrMiODUXE1B3ZzNUbJE0-"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Detektive unter Verdacht",
+              "start" : 0,
+              "end" : 366440
+            },
+            {
+              "titel" : "Falsche Tränen",
+              "start" : 366440,
+              "end" : 791707
+            },
+            {
+              "titel" : "Duell der Inline‐Skater",
+              "start" : 791707,
+              "end" : 1165373
+            },
+            {
+              "titel" : "Feuer an Bord",
+              "start" : 1165373,
+              "end" : 1600227
+            },
+            {
+              "titel" : "Geisterstunde",
+              "start" : 1600227,
+              "end" : 2016707
+            },
+            {
+              "titel" : "Geheime Flaschenpost",
+              "start" : 2016707,
+              "end" : 2473133
+            },
+            {
+              "titel" : "Hilfe, Handydiebe!",
+              "start" : 2473133,
+              "end" : 2821547
+            },
+            {
+              "titel" : "Kopfüber ins Nichts",
+              "start" : 2821547,
+              "end" : 3179760
+            },
+            {
+              "titel" : "Taschenspielertricks",
+              "start" : 3179760,
+              "end" : 3599347
+            },
+            {
+              "titel" : "Gespensterjagd",
+              "start" : 3599347,
+              "end" : 4055333
+            },
+            {
+              "titel" : "Verbrannte Millionen",
+              "start" : 4055333,
+              "end" : 4415267
+            },
+            {
+              "titel" : "Der Fall Tannenbaum",
+              "start" : 4415267,
+              "end" : 4777107
+            }
+          ],
+          "musicBrainzID" : "IMmCMpnKGXxTLyVSTAerq3pH4ow-"
+        }
+      ]
     },
     {
       "nummer" : 30,
@@ -9564,6 +9819,129 @@
       "gesamtbeschreibung" : "Vorweihnachtszeit in Rocky Beach. Ein riesiger, begehbarer Adventskalender ist die Attraktion auf dem Weihnachtsmarkt. Doch schon am ersten Tag steckt hinter der Tür keine schöne Adventsüberraschung, sondern ein übler Scherz! Die drei ??? Kids müssen all ihr Können aufbieten, um das Weihnachtsfest zu retten.",
       "beschreibung" : "Vorweihnachtszeit in Rocky Beach. Ein riesiger, begehbarer Adventskalender ist die Attraktion auf dem Weihnachtsmarkt. Doch schon am ersten Tag steckt hinter der Tür keine schöne Adventsüberraschung, sondern ein übler Scherz! Die drei ??? Kids müssen all ihr Können aufbieten, um das Weihnachtsfest zu retten.",
       "veröffentlichungsdatum" : "2016-11-04",
+      "gesamtdauer" : 8797840,
+      "kapitel" : [
+        {
+          "titel" : "Tag 1",
+          "start" : 0,
+          "end" : 525107
+        },
+        {
+          "titel" : "Tag 2",
+          "start" : 525107,
+          "end" : 1005013
+        },
+        {
+          "titel" : "Tag 3",
+          "start" : 1005013,
+          "end" : 1352387
+        },
+        {
+          "titel" : "Tag 4",
+          "start" : 1352387,
+          "end" : 1721133
+        },
+        {
+          "titel" : "Tag 5",
+          "start" : 1721133,
+          "end" : 2151320
+        },
+        {
+          "titel" : "Tag 6",
+          "start" : 2151320,
+          "end" : 2503880
+        },
+        {
+          "titel" : "Tag 7",
+          "start" : 2503880,
+          "end" : 2891373
+        },
+        {
+          "titel" : "Tag 8",
+          "start" : 2891373,
+          "end" : 3224387
+        },
+        {
+          "titel" : "Tag 9",
+          "start" : 3224387,
+          "end" : 3624174
+        },
+        {
+          "titel" : "Tag 10",
+          "start" : 3624174,
+          "end" : 3947774
+        },
+        {
+          "titel" : "Tag 11",
+          "start" : 3947774,
+          "end" : 4259094
+        },
+        {
+          "titel" : "Tag 12",
+          "start" : 4259094,
+          "end" : 4561080
+        },
+        {
+          "titel" : "Tag 13",
+          "start" : 4561080,
+          "end" : 4907014
+        },
+        {
+          "titel" : "Tag 14",
+          "start" : 4907014,
+          "end" : 5204760
+        },
+        {
+          "titel" : "Tag 15",
+          "start" : 5204760,
+          "end" : 5519400
+        },
+        {
+          "titel" : "Tag 16",
+          "start" : 5519400,
+          "end" : 5822267
+        },
+        {
+          "titel" : "Tag 17",
+          "start" : 5822267,
+          "end" : 6171254
+        },
+        {
+          "titel" : "Tag 18",
+          "start" : 6171254,
+          "end" : 6548614
+        },
+        {
+          "titel" : "Tag 19",
+          "start" : 6548614,
+          "end" : 6853454
+        },
+        {
+          "titel" : "Tag 20",
+          "start" : 6853454,
+          "end" : 7220880
+        },
+        {
+          "titel" : "Tag 21",
+          "start" : 7220880,
+          "end" : 7605600
+        },
+        {
+          "titel" : "Tag 22",
+          "start" : 7605600,
+          "end" : 7891000
+        },
+        {
+          "titel" : "Tag 23",
+          "start" : 7891000,
+          "end" : 8270774
+        },
+        {
+          "titel" : "Tag 24",
+          "start" : 8270774,
+          "end" : 8797840
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-Ein-Raetsel-in-24-Tagen/metadata.json",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music118/v4/ac/9b/b3/ac9bb3ec-b42b-0e04-c1da-d672a6fb7e73/886446331560.jpg",
@@ -9586,7 +9964,144 @@
         "youTubeMusic" : "MPREb_rC0JIHiKvc1",
         "deezer" : "59892342"
       },
-      "unvollständig" : true
+      "unvollständig" : true,
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 1",
+              "start" : 0,
+              "end" : 525107
+            },
+            {
+              "titel" : "Tag 2",
+              "start" : 525107,
+              "end" : 1005013
+            },
+            {
+              "titel" : "Tag 3",
+              "start" : 1005013,
+              "end" : 1352387
+            },
+            {
+              "titel" : "Tag 4",
+              "start" : 1352387,
+              "end" : 1721133
+            },
+            {
+              "titel" : "Tag 5",
+              "start" : 1721133,
+              "end" : 2151320
+            },
+            {
+              "titel" : "Tag 6",
+              "start" : 2151320,
+              "end" : 2503880
+            },
+            {
+              "titel" : "Tag 7",
+              "start" : 2503880,
+              "end" : 2891373
+            },
+            {
+              "titel" : "Tag 8",
+              "start" : 2891373,
+              "end" : 3224387
+            }
+          ],
+          "musicBrainzID" : "ETUHgpvsw4SK1U6ZgwzU_UniT4c-"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 9",
+              "start" : 0,
+              "end" : 399787
+            },
+            {
+              "titel" : "Tag 10",
+              "start" : 399787,
+              "end" : 723387
+            },
+            {
+              "titel" : "Tag 11",
+              "start" : 723387,
+              "end" : 1034707
+            },
+            {
+              "titel" : "Tag 12",
+              "start" : 1034707,
+              "end" : 1336693
+            },
+            {
+              "titel" : "Tag 13",
+              "start" : 1336693,
+              "end" : 1682627
+            },
+            {
+              "titel" : "Tag 14",
+              "start" : 1682627,
+              "end" : 1980373
+            },
+            {
+              "titel" : "Tag 15",
+              "start" : 1980373,
+              "end" : 2295013
+            },
+            {
+              "titel" : "Tag 16",
+              "start" : 2295013,
+              "end" : 2597880
+            }
+          ],
+          "musicBrainzID" : "ET4jeTmFwKzgICbCJK8zhXu8SBo-"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 17",
+              "start" : 0,
+              "end" : 348987
+            },
+            {
+              "titel" : "Tag 18",
+              "start" : 348987,
+              "end" : 726347
+            },
+            {
+              "titel" : "Tag 19",
+              "start" : 726347,
+              "end" : 1031187
+            },
+            {
+              "titel" : "Tag 20",
+              "start" : 1031187,
+              "end" : 1398613
+            },
+            {
+              "titel" : "Tag 21",
+              "start" : 1398613,
+              "end" : 1783333
+            },
+            {
+              "titel" : "Tag 22",
+              "start" : 1783333,
+              "end" : 2068733
+            },
+            {
+              "titel" : "Tag 23",
+              "start" : 2068733,
+              "end" : 2448507
+            },
+            {
+              "titel" : "Tag 24",
+              "start" : 2448507,
+              "end" : 2975573
+            }
+          ],
+          "musicBrainzID" : "u2Xior2MF4zF.g.4oZzAdo7x7UE-"
+        }
+      ]
     },
     {
       "titel" : "Adventskalender: 24 Tage im Weihnachtsland",
@@ -16821,6 +17336,129 @@
       "gesamtbeschreibung" : "Der Bürgermeister von Rocky Beach hat sich eine besondere Weihnachtsaktion ausgedacht: einen Adventskalender, der alle Bewohner auf eine spannende Rätsel-Schnitzeljagd schickt. Doch dann passieren merkwürdige Dinge und die drei ??? stecken mitten in ihrem nächsten Fall.",
       "beschreibung" : "Der Bürgermeister von Rocky Beach hat sich eine besondere Weihnachtsaktion ausgedacht: einen Adventskalender, der alle Bewohner auf eine spannende Rätsel-Schnitzeljagd schickt. Doch dann passieren merkwürdige Dinge und die drei ??? stecken mitten in ihrem nächsten Fall.",
       "veröffentlichungsdatum" : "2023-10-20",
+      "gesamtdauer" : 10711453,
+      "kapitel" : [
+        {
+          "titel" : "Tag 1 – Keksebacken",
+          "start" : 0,
+          "end" : 546400
+        },
+        {
+          "titel" : "Tag 2 – Der Adventskalender",
+          "start" : 546400,
+          "end" : 1002027
+        },
+        {
+          "titel" : "Tag 3 – Sitzung eröffnet",
+          "start" : 1002027,
+          "end" : 1425040
+        },
+        {
+          "titel" : "Tag 4 – Weihnachtsspuk",
+          "start" : 1425040,
+          "end" : 1863787
+        },
+        {
+          "titel" : "Tag 5 – Schattenrätsel",
+          "start" : 1863787,
+          "end" : 2318947
+        },
+        {
+          "titel" : "Tag 6 – Nikolaus",
+          "start" : 2318947,
+          "end" : 2850893
+        },
+        {
+          "titel" : "Tag 7 – Stadtgespräch",
+          "start" : 2850893,
+          "end" : 3333067
+        },
+        {
+          "titel" : "Tag 8 – Spezialeffekte",
+          "start" : 3333067,
+          "end" : 3793053
+        },
+        {
+          "titel" : "Tag 9 – Wasserspiele",
+          "start" : 3793053,
+          "end" : 4189600
+        },
+        {
+          "titel" : "Tag 10 – Geheimschriften",
+          "start" : 4189600,
+          "end" : 4624893
+        },
+        {
+          "titel" : "Tag 11 – Geisterstunde",
+          "start" : 4624893,
+          "end" : 5043760
+        },
+        {
+          "titel" : "Tag 12 – Frühstückszeit",
+          "start" : 5043760,
+          "end" : 5422920
+        },
+        {
+          "titel" : "Tag 13 – Fiese Erpresser",
+          "start" : 5422920,
+          "end" : 5849786
+        },
+        {
+          "titel" : "Tag 14 – Zu früh gefreut",
+          "start" : 5849786,
+          "end" : 6283826
+        },
+        {
+          "titel" : "Tag 15 – Fingerabdrücke",
+          "start" : 6283826,
+          "end" : 6696453
+        },
+        {
+          "titel" : "Tag 16 – Wunschlisten",
+          "start" : 6696453,
+          "end" : 7077213
+        },
+        {
+          "titel" : "Tag 17 – Badezeit",
+          "start" : 7077213,
+          "end" : 7520080
+        },
+        {
+          "titel" : "Tag 18 – Hochspannung",
+          "start" : 7520080,
+          "end" : 7895506
+        },
+        {
+          "titel" : "Tag 19 – Lichterglanz",
+          "start" : 7895506,
+          "end" : 8271040
+        },
+        {
+          "titel" : "Tag 20 – Haiangriff",
+          "start" : 8271040,
+          "end" : 8677306
+        },
+        {
+          "titel" : "Tag 21 – Funkloch",
+          "start" : 8677306,
+          "end" : 9128693
+        },
+        {
+          "titel" : "Tag 22 – Schlossknacker",
+          "start" : 9128693,
+          "end" : 9564560
+        },
+        {
+          "titel" : "Tag 23 – In der Falle",
+          "start" : 9564560,
+          "end" : 9990586
+        },
+        {
+          "titel" : "Tag 24 – Wassertrick",
+          "start" : 9990586,
+          "end" : 10711453
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-24-Tage-Weihnachtsspuk/metadata.json",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/b0/4b/7a/b04b7ae4-eee9-1295-cdbb-6eb8df1fa9fa/196872226454.jpg",
@@ -16842,7 +17480,144 @@
         "youTubeMusic" : "MPREb_W0GvbZ8c72h",
         "deezer" : "603877012"
       },
-      "unvollständig" : true
+      "unvollständig" : true,
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 1 – Keksebacken",
+              "start" : 0,
+              "end" : 546400
+            },
+            {
+              "titel" : "Tag 2 – Der Adventskalender",
+              "start" : 546400,
+              "end" : 1002027
+            },
+            {
+              "titel" : "Tag 3 – Sitzung eröffnet",
+              "start" : 1002027,
+              "end" : 1425040
+            },
+            {
+              "titel" : "Tag 4 – Weihnachtsspuk",
+              "start" : 1425040,
+              "end" : 1863787
+            },
+            {
+              "titel" : "Tag 5 – Schattenrätsel",
+              "start" : 1863787,
+              "end" : 2318947
+            },
+            {
+              "titel" : "Tag 6 – Nikolaus",
+              "start" : 2318947,
+              "end" : 2850893
+            },
+            {
+              "titel" : "Tag 7 – Stadtgespräch",
+              "start" : 2850893,
+              "end" : 3333067
+            },
+            {
+              "titel" : "Tag 8 – Spezialeffekte",
+              "start" : 3333067,
+              "end" : 3793053
+            }
+          ],
+          "musicBrainzID" : "JHlPYk9OHfakr.8ILmw9lWD5JQk-"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 9 – Wasserspiele",
+              "start" : 0,
+              "end" : 396547
+            },
+            {
+              "titel" : "Tag 10 – Geheimschriften",
+              "start" : 396547,
+              "end" : 831840
+            },
+            {
+              "titel" : "Tag 11 – Geisterstunde",
+              "start" : 831840,
+              "end" : 1250707
+            },
+            {
+              "titel" : "Tag 12 – Frühstückszeit",
+              "start" : 1250707,
+              "end" : 1629867
+            },
+            {
+              "titel" : "Tag 13 – Fiese Erpresser",
+              "start" : 1629867,
+              "end" : 2056733
+            },
+            {
+              "titel" : "Tag 14 – Zu früh gefreut",
+              "start" : 2056733,
+              "end" : 2490773
+            },
+            {
+              "titel" : "Tag 15 – Fingerabdrücke",
+              "start" : 2490773,
+              "end" : 2903400
+            },
+            {
+              "titel" : "Tag 16 – Wunschlisten",
+              "start" : 2903400,
+              "end" : 3284160
+            }
+          ],
+          "musicBrainzID" : "Y5T4Kb9A_6KJenhdlfdPFTcRTPg-"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 17 – Badezeit",
+              "start" : 0,
+              "end" : 442867
+            },
+            {
+              "titel" : "Tag 18 – Hochspannung",
+              "start" : 442867,
+              "end" : 818293
+            },
+            {
+              "titel" : "Tag 19 – Lichterglanz",
+              "start" : 818293,
+              "end" : 1193827
+            },
+            {
+              "titel" : "Tag 20 – Haiangriff",
+              "start" : 1193827,
+              "end" : 1600093
+            },
+            {
+              "titel" : "Tag 21 – Funkloch",
+              "start" : 1600093,
+              "end" : 2051480
+            },
+            {
+              "titel" : "Tag 22 – Schlossknacker",
+              "start" : 2051480,
+              "end" : 2487347
+            },
+            {
+              "titel" : "Tag 23 – In der Falle",
+              "start" : 2487347,
+              "end" : 2913373
+            },
+            {
+              "titel" : "Tag 24 – Wassertrick",
+              "start" : 2913373,
+              "end" : 3634240
+            }
+          ],
+          "musicBrainzID" : "K9k.DbelB.v.C6wt7m36dnhwpvw-"
+        }
+      ]
     },
     {
       "nummer" : 94,

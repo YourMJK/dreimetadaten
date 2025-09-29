@@ -5,6 +5,129 @@
   "gesamtbeschreibung" : "Der Bürgermeister von Rocky Beach hat sich eine besondere Weihnachtsaktion ausgedacht: einen Adventskalender, der alle Bewohner auf eine spannende Rätsel-Schnitzeljagd schickt. Doch dann passieren merkwürdige Dinge und die drei ??? stecken mitten in ihrem nächsten Fall.",
   "beschreibung" : "Der Bürgermeister von Rocky Beach hat sich eine besondere Weihnachtsaktion ausgedacht: einen Adventskalender, der alle Bewohner auf eine spannende Rätsel-Schnitzeljagd schickt. Doch dann passieren merkwürdige Dinge und die drei ??? stecken mitten in ihrem nächsten Fall.",
   "veröffentlichungsdatum" : "2023-10-20",
+  "gesamtdauer" : 10711453,
+  "kapitel" : [
+    {
+      "titel" : "Tag 1 – Keksebacken",
+      "start" : 0,
+      "end" : 546400
+    },
+    {
+      "titel" : "Tag 2 – Der Adventskalender",
+      "start" : 546400,
+      "end" : 1002027
+    },
+    {
+      "titel" : "Tag 3 – Sitzung eröffnet",
+      "start" : 1002027,
+      "end" : 1425040
+    },
+    {
+      "titel" : "Tag 4 – Weihnachtsspuk",
+      "start" : 1425040,
+      "end" : 1863787
+    },
+    {
+      "titel" : "Tag 5 – Schattenrätsel",
+      "start" : 1863787,
+      "end" : 2318947
+    },
+    {
+      "titel" : "Tag 6 – Nikolaus",
+      "start" : 2318947,
+      "end" : 2850893
+    },
+    {
+      "titel" : "Tag 7 – Stadtgespräch",
+      "start" : 2850893,
+      "end" : 3333067
+    },
+    {
+      "titel" : "Tag 8 – Spezialeffekte",
+      "start" : 3333067,
+      "end" : 3793053
+    },
+    {
+      "titel" : "Tag 9 – Wasserspiele",
+      "start" : 3793053,
+      "end" : 4189600
+    },
+    {
+      "titel" : "Tag 10 – Geheimschriften",
+      "start" : 4189600,
+      "end" : 4624893
+    },
+    {
+      "titel" : "Tag 11 – Geisterstunde",
+      "start" : 4624893,
+      "end" : 5043760
+    },
+    {
+      "titel" : "Tag 12 – Frühstückszeit",
+      "start" : 5043760,
+      "end" : 5422920
+    },
+    {
+      "titel" : "Tag 13 – Fiese Erpresser",
+      "start" : 5422920,
+      "end" : 5849786
+    },
+    {
+      "titel" : "Tag 14 – Zu früh gefreut",
+      "start" : 5849786,
+      "end" : 6283826
+    },
+    {
+      "titel" : "Tag 15 – Fingerabdrücke",
+      "start" : 6283826,
+      "end" : 6696453
+    },
+    {
+      "titel" : "Tag 16 – Wunschlisten",
+      "start" : 6696453,
+      "end" : 7077213
+    },
+    {
+      "titel" : "Tag 17 – Badezeit",
+      "start" : 7077213,
+      "end" : 7520080
+    },
+    {
+      "titel" : "Tag 18 – Hochspannung",
+      "start" : 7520080,
+      "end" : 7895506
+    },
+    {
+      "titel" : "Tag 19 – Lichterglanz",
+      "start" : 7895506,
+      "end" : 8271040
+    },
+    {
+      "titel" : "Tag 20 – Haiangriff",
+      "start" : 8271040,
+      "end" : 8677306
+    },
+    {
+      "titel" : "Tag 21 – Funkloch",
+      "start" : 8677306,
+      "end" : 9128693
+    },
+    {
+      "titel" : "Tag 22 – Schlossknacker",
+      "start" : 9128693,
+      "end" : 9564560
+    },
+    {
+      "titel" : "Tag 23 – In der Falle",
+      "start" : 9564560,
+      "end" : 9990586
+    },
+    {
+      "titel" : "Tag 24 – Wassertrick",
+      "start" : 9990586,
+      "end" : 10711453
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-24-Tage-Weihnachtsspuk/metadata.json",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/b0/4b/7a/b04b7ae4-eee9-1295-cdbb-6eb8df1fa9fa/196872226454.jpg",
@@ -26,5 +149,142 @@
     "youTubeMusic" : "MPREb_W0GvbZ8c72h",
     "deezer" : "603877012"
   },
-  "unvollständig" : true
+  "unvollständig" : true,
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 1 – Keksebacken",
+          "start" : 0,
+          "end" : 546400
+        },
+        {
+          "titel" : "Tag 2 – Der Adventskalender",
+          "start" : 546400,
+          "end" : 1002027
+        },
+        {
+          "titel" : "Tag 3 – Sitzung eröffnet",
+          "start" : 1002027,
+          "end" : 1425040
+        },
+        {
+          "titel" : "Tag 4 – Weihnachtsspuk",
+          "start" : 1425040,
+          "end" : 1863787
+        },
+        {
+          "titel" : "Tag 5 – Schattenrätsel",
+          "start" : 1863787,
+          "end" : 2318947
+        },
+        {
+          "titel" : "Tag 6 – Nikolaus",
+          "start" : 2318947,
+          "end" : 2850893
+        },
+        {
+          "titel" : "Tag 7 – Stadtgespräch",
+          "start" : 2850893,
+          "end" : 3333067
+        },
+        {
+          "titel" : "Tag 8 – Spezialeffekte",
+          "start" : 3333067,
+          "end" : 3793053
+        }
+      ],
+      "musicBrainzID" : "JHlPYk9OHfakr.8ILmw9lWD5JQk-"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 9 – Wasserspiele",
+          "start" : 0,
+          "end" : 396547
+        },
+        {
+          "titel" : "Tag 10 – Geheimschriften",
+          "start" : 396547,
+          "end" : 831840
+        },
+        {
+          "titel" : "Tag 11 – Geisterstunde",
+          "start" : 831840,
+          "end" : 1250707
+        },
+        {
+          "titel" : "Tag 12 – Frühstückszeit",
+          "start" : 1250707,
+          "end" : 1629867
+        },
+        {
+          "titel" : "Tag 13 – Fiese Erpresser",
+          "start" : 1629867,
+          "end" : 2056733
+        },
+        {
+          "titel" : "Tag 14 – Zu früh gefreut",
+          "start" : 2056733,
+          "end" : 2490773
+        },
+        {
+          "titel" : "Tag 15 – Fingerabdrücke",
+          "start" : 2490773,
+          "end" : 2903400
+        },
+        {
+          "titel" : "Tag 16 – Wunschlisten",
+          "start" : 2903400,
+          "end" : 3284160
+        }
+      ],
+      "musicBrainzID" : "Y5T4Kb9A_6KJenhdlfdPFTcRTPg-"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 17 – Badezeit",
+          "start" : 0,
+          "end" : 442867
+        },
+        {
+          "titel" : "Tag 18 – Hochspannung",
+          "start" : 442867,
+          "end" : 818293
+        },
+        {
+          "titel" : "Tag 19 – Lichterglanz",
+          "start" : 818293,
+          "end" : 1193827
+        },
+        {
+          "titel" : "Tag 20 – Haiangriff",
+          "start" : 1193827,
+          "end" : 1600093
+        },
+        {
+          "titel" : "Tag 21 – Funkloch",
+          "start" : 1600093,
+          "end" : 2051480
+        },
+        {
+          "titel" : "Tag 22 – Schlossknacker",
+          "start" : 2051480,
+          "end" : 2487347
+        },
+        {
+          "titel" : "Tag 23 – In der Falle",
+          "start" : 2487347,
+          "end" : 2913373
+        },
+        {
+          "titel" : "Tag 24 – Wassertrick",
+          "start" : 2913373,
+          "end" : 3634240
+        }
+      ],
+      "musicBrainzID" : "K9k.DbelB.v.C6wt7m36dnhwpvw-"
+    }
+  ]
 }
