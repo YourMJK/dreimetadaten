@@ -128,9 +128,73 @@
       "end" : 10711453
     }
   ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Bürgermeister Plimsfield",
+      "sprecher" : "Mario Hassert"
+    },
+    {
+      "rolle" : "Brenda Remington",
+      "sprecher" : "Antje von der Ahe"
+    },
+    {
+      "rolle" : "Skinny Norris",
+      "sprecher" : "Tim Kreuer"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Giovanni",
+      "sprecher" : "Roland Geiger"
+    },
+    {
+      "rolle" : "Rezeptionist",
+      "sprecher" : "Bernd Egger"
+    },
+    {
+      "rolle" : "Erpresser",
+      "sprecher" : "Michael Borgard"
+    },
+    {
+      "rolle" : "Weihnachtsmann",
+      "sprecher" : "Gilles Karolyi"
+    },
+    {
+      "rolle" : "Fernando Harris",
+      "sprecher" : "Henning Hartmann"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-24-Tage-Weihnachtsspuk/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/Adventskalender-24-Tage-Weihnachtsspuk/ffmetadata.txt",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/b0/4b/7a/b04b7ae4-eee9-1295-cdbb-6eb8df1fa9fa/196872226454.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/24-tage-weihnachtsspuk-adventskalender",
     "appleMusic" : "https://music.apple.com/de/album/1752884944",
     "spotify" : "https://open.spotify.com/intl-de/album/5o3ryPeYmpRkmgEv4hnDmJ",
     "bookbeat" : "https://www.bookbeat.com/de/book/1166002",
@@ -149,7 +213,6 @@
     "youTubeMusic" : "MPREb_W0GvbZ8c72h",
     "deezer" : "603877012"
   },
-  "unvollständig" : true,
   "medien" : [
     {
       "tracks" : [
