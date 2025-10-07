@@ -24,6 +24,7 @@ Folgende Projekte greifen bereits auf diesen Datensatz zurück:
 * [**Hörspielzentrale**](https://apps.apple.com/us/app/hörspielzentrale/id6503214441): iOS-App zum Durchstöbern und Abspielen der Folgen (über Apple Music) von *Philipp*
 * [**Rocky Beach**](https://apps.apple.com/de/app/rocky-beach-f%C3%BCr-die-drei/id6743175834): iOS-App zum Tracken gehörter Folgen, sowie Filtern nach Themen und Charakteren von *Jonas*
 * [**dreifragezeichenportal.de**](https://dreifragezeichenportal.de): Website zum (thematischen) Durchsuchen der Folgen und Sprecher von *Alex*
+* [**Fragezeichinator**](https://www.fragezeichinator.de/): Filterbarer Zufallsgenerator, Folgen Bewertung und Favoriten Listen von *clemwo*
 * [**kassettenwechsler.de**](https://kassettenwechsler.de): Website mit Zufallsauswahl und Streaming-Links zu den Folgen (und anderen Hörspielreihen) von *Johannes*
 * [**Audiobookshelf DreiMetadaten Provider**](https://github.com/eisregner/audiobookshelf-dreimetadaten-provider): Lokaler Metadaten-Provider für [audiobookshelf](https://github.com/advplyr/audiobookshelf) von *eisregner*
 * [**Die random ???**](https://die-random-fragezeichen.levrik.io): Zufallsgenerator von *levrik.io*
