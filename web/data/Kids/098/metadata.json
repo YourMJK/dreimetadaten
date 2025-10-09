@@ -1,0 +1,83 @@
+{
+  "nummer" : 98,
+  "titel" : "Die Geisterpferde",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "gesamtbeschreibung" : "Die drei ??? Kids ermitteln undercover und treffen auf mysteriöse Reiter.\nAber sind sie wirklich die gesuchten Diebe? Ein spannender Fall voller Geheimnisse und rätselhafter Vorgänge.",
+  "kurzbeschreibung" : "Die drei ??? Kids ermitteln undercover und treffen auf mysteriöse Reiter.",
+  "beschreibung" : "Aber sind sie wirklich die gesuchten Diebe? Ein spannender Fall voller Geheimnisse und rätselhafter Vorgänge.",
+  "veröffentlichungsdatum" : "2024-12-13",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Porter",
+      "sprecher" : "Tommi Piper"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Polizist",
+      "sprecher" : "Andreas Ersson"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Linda Larsson",
+      "sprecher" : "Wiebke Bierwag"
+    },
+    {
+      "rolle" : "Edda",
+      "sprecher" : "Paulina Weiner"
+    },
+    {
+      "rolle" : "Simon Redding",
+      "sprecher" : "Tim Moeseritz"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/098/metadata.json",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/96/c3/d8/96c3d890-a717-ab27-56ab-5f3667413054/196872212112.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/die-geisterpferde",
+    "appleMusic" : "https://music.apple.com/de/album/1779340094",
+    "spotify" : "https://open.spotify.com/intl-de/album/2mvQwwgID8NjyxDum84o6n",
+    "bookbeat" : "https://www.bookbeat.com/de/book/1504805",
+    "amazonMusic" : "https://music.amazon.de/albums/B0DMKTJLPL",
+    "amazon" : "https://www.amazon.de/gp/product/3803260817",
+    "youTubeMusic" : "https://music.youtube.com/browse/MPREb_eks70UFPMyS",
+    "deezer" : "https://www.deezer.com/de/album/669097181"
+  },
+  "ids" : {
+    "dreimetadaten" : 424,
+    "appleMusic" : "1779340094",
+    "spotify" : "2mvQwwgID8NjyxDum84o6n",
+    "bookbeat" : "1504805",
+    "amazonMusic" : "B0DMKTJLPL",
+    "amazon" : "3803260817",
+    "youTubeMusic" : "MPREb_eks70UFPMyS",
+    "deezer" : "669097181"
+  },
+  "unvollständig" : true
+}

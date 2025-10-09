@@ -1,0 +1,199 @@
+{
+  "nummer" : 99,
+  "titel" : "Football-Falle",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "gesamtbeschreibung" : "Ein Football-Training der besonderen Art.\nJustus, Peter und Bob sind dabei, als ein Spieler unter Verdacht gerät, mit gefälschten Tickets zu handeln. Ein Fall für die drei ??? Kids.",
+  "kurzbeschreibung" : "Ein Football-Training der besonderen Art.",
+  "beschreibung" : "Justus, Peter und Bob sind dabei, als ein Spieler unter Verdacht gerät, mit gefälschten Tickets zu handeln. Ein Fall für die drei ??? Kids.",
+  "veröffentlichungsdatum" : "2025-04-04",
+  "gesamtdauer" : 4069987,
+  "kapitel" : [
+    {
+      "titel" : "Überraschung",
+      "start" : 0,
+      "end" : 355453
+    },
+    {
+      "titel" : "Im Stadion",
+      "start" : 355453,
+      "end" : 707573
+    },
+    {
+      "titel" : "Schlimmer Verdacht",
+      "start" : 707573,
+      "end" : 1279813
+    },
+    {
+      "titel" : "Ermittlungen",
+      "start" : 1279813,
+      "end" : 1761840
+    },
+    {
+      "titel" : "Original & Fälschung",
+      "start" : 1761840,
+      "end" : 2476293
+    },
+    {
+      "titel" : "Trainer in Not",
+      "start" : 2476293,
+      "end" : 2789333
+    },
+    {
+      "titel" : "Finsteres Spiel",
+      "start" : 2789333,
+      "end" : 3286027
+    },
+    {
+      "titel" : "Codeknacker",
+      "start" : 3286027,
+      "end" : 3656933
+    },
+    {
+      "titel" : "Endspiel",
+      "start" : 3656933,
+      "end" : 4069987
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Kassenwart",
+      "sprecher" : "Sven Philipp"
+    },
+    {
+      "rolle" : "Wachmann",
+      "sprecher" : "Andreas Ersson"
+    },
+    {
+      "rolle" : "Henry Shaw",
+      "sprecher" : "Oliver Schmitz"
+    },
+    {
+      "rolle" : "Trainer",
+      "sprecher" : "Detlef Bierstedt"
+    },
+    {
+      "rolle" : "Barry Payton",
+      "sprecher" : "Paul-Lino Krenz"
+    },
+    {
+      "rolle" : "Jeffrey Payton",
+      "sprecher" : "Boris Jacoby"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Dorothy Payton",
+      "sprecher" : "Katharina Koschny"
+    },
+    {
+      "rolle" : "Mr. Connolly",
+      "sprecher" : "Milton Welsh"
+    },
+    {
+      "rolle" : "Quarterback Ben",
+      "sprecher" : "Ingmar Ersson"
+    },
+    {
+      "rolle" : "Michael Blender",
+      "sprecher" : "Stefan Naas"
+    },
+    {
+      "rolle" : "Ms. Blender",
+      "sprecher" : "Chantal Busse"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/099/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/099/ffmetadata.txt",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/65/ab/a7/65aba772-eea3-ebcf-cb80-cb180d77abd7/196872292633.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/football-falle",
+    "appleMusic" : "https://music.apple.com/de/album/1797766577",
+    "spotify" : "https://open.spotify.com/intl-de/album/4IMxyQClyxn6nLxYAK1BDs",
+    "bookbeat" : "https://www.bookbeat.com/de/book/1581469",
+    "amazonMusic" : "https://music.amazon.de/albums/B0DY1P8CJ8",
+    "amazon" : "https://www.amazon.de/gp/product/3803260825",
+    "youTubeMusic" : "https://music.youtube.com/browse/MPREb_OEp0vulO6HX",
+    "deezer" : "https://www.deezer.com/de/album/717915141"
+  },
+  "ids" : {
+    "dreimetadaten" : 425,
+    "appleMusic" : "1797766577",
+    "spotify" : "4IMxyQClyxn6nLxYAK1BDs",
+    "bookbeat" : "1581469",
+    "amazonMusic" : "B0DY1P8CJ8",
+    "amazon" : "3803260825",
+    "youTubeMusic" : "MPREb_OEp0vulO6HX",
+    "deezer" : "717915141"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Überraschung",
+          "start" : 0,
+          "end" : 355453
+        },
+        {
+          "titel" : "Im Stadion",
+          "start" : 355453,
+          "end" : 707573
+        },
+        {
+          "titel" : "Schlimmer Verdacht",
+          "start" : 707573,
+          "end" : 1279813
+        },
+        {
+          "titel" : "Ermittlungen",
+          "start" : 1279813,
+          "end" : 1761840
+        },
+        {
+          "titel" : "Original & Fälschung",
+          "start" : 1761840,
+          "end" : 2476293
+        },
+        {
+          "titel" : "Trainer in Not",
+          "start" : 2476293,
+          "end" : 2789333
+        },
+        {
+          "titel" : "Finsteres Spiel",
+          "start" : 2789333,
+          "end" : 3286027
+        },
+        {
+          "titel" : "Codeknacker",
+          "start" : 3286027,
+          "end" : 3656933
+        },
+        {
+          "titel" : "Endspiel",
+          "start" : 3656933,
+          "end" : 4069987
+        }
+      ],
+      "musicBrainzID" : "DW0MAVaEyt1rYsQEbBV9GvvdqhU-"
+    }
+  ]
+}
