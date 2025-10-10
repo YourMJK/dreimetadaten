@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.8.6",
-    "lastModified" : "2025-10-10T01:34:13Z"
+    "version" : "2.8.7",
+    "lastModified" : "2025-10-10T10:11:18Z"
   },
   "spezial" : [
     {
@@ -6815,24 +6815,230 @@
     {
       "titel" : "Das Dorf der Teufel",
       "autor" : "Ivar Leon Menger, John Beckmann",
+      "hörspielskriptautor" : "Ivar Leon Menger, John Beckmann",
+      "gesamtbeschreibung" : "Die drei ??? staunen nicht schlecht, als sie auf der Suche nach einem vermissten Freund des Chauffeurs Morton in Redwood Falls ankommen. Als wäre die Zeit stehen geblieben … Die Bewohner des abgelegenen Dorfes lehnen jegliche Form des Fortschritts ab. Doch dies ist nicht die einzige Überraschung für Justus, Peter und Bob.\nBereits nach kurzer Zeit überschlagen sich die Ereignisse und das Dorf der Teufel zeigt sein wahres Gesicht …",
+      "beschreibung" : "Die drei ??? staunen nicht schlecht, als sie auf der Suche nach einem vermissten Freund des Chauffeurs Morton in Redwood Falls ankommen. Als wäre die Zeit stehen geblieben … Die Bewohner des abgelegenen Dorfes lehnen jegliche Form des Fortschritts ab. Doch dies ist nicht die einzige Überraschung für Justus, Peter und Bob.\nBereits nach kurzer Zeit überschlagen sich die Ereignisse und das Dorf der Teufel zeigt sein wahres Gesicht …",
       "veröffentlichungsdatum" : "2025-10-10",
+      "gesamtdauer" : 5314413,
+      "kapitel" : [
+        {
+          "titel" : "Prolog",
+          "start" : 0,
+          "end" : 191267
+        },
+        {
+          "titel" : "Das Amulett",
+          "start" : 191267,
+          "end" : 725440
+        },
+        {
+          "titel" : "Redwood Falls",
+          "start" : 725440,
+          "end" : 1063827
+        },
+        {
+          "titel" : "Brüder und Schwestern",
+          "start" : 1063827,
+          "end" : 1523533
+        },
+        {
+          "titel" : "Die Nacht der Teufel",
+          "start" : 1523533,
+          "end" : 2224960
+        },
+        {
+          "titel" : "Modernste Technik",
+          "start" : 2224960,
+          "end" : 2557733
+        },
+        {
+          "titel" : "Der Unfall",
+          "start" : 2557733,
+          "end" : 2862333
+        },
+        {
+          "titel" : "Ein technischer Fehler",
+          "start" : 2862333,
+          "end" : 3294733
+        },
+        {
+          "titel" : "Ungeahnte Talente",
+          "start" : 3294733,
+          "end" : 3682240
+        },
+        {
+          "titel" : "Sie kommen!",
+          "start" : 3682240,
+          "end" : 4233440
+        },
+        {
+          "titel" : "Licht in der Mühle",
+          "start" : 4233440,
+          "end" : 4874173
+        },
+        {
+          "titel" : "Die Teufel und ihre Lügen",
+          "start" : 4874173,
+          "end" : 5314413
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Morton",
+          "sprecher" : "Michael Prelle"
+        },
+        {
+          "rolle" : "Mrs. Vanessa Jacobson",
+          "sprecher" : "Anja Topf"
+        },
+        {
+          "rolle" : "Mr. Daniel Jacobson",
+          "sprecher" : "Joachim Kretzer"
+        },
+        {
+          "rolle" : "Mrs. Bates",
+          "sprecher" : "Sandra Keck"
+        },
+        {
+          "rolle" : "Pete",
+          "sprecher" : "Armin Schlagwein"
+        },
+        {
+          "rolle" : "Frederik",
+          "sprecher" : "Till Hagen"
+        },
+        {
+          "rolle" : "Durchsage Flughafen",
+          "sprecher" : "Celine Fontanges"
+        },
+        {
+          "rolle" : "Brian",
+          "sprecher" : "Uwe Lauschke"
+        },
+        {
+          "rolle" : "Tim",
+          "sprecher" : "Tim Wiese"
+        },
+        {
+          "rolle" : "Tom",
+          "sprecher" : "Frank Ulbricht"
+        },
+        {
+          "rolle" : "Frau am Flughafen",
+          "sprecher" : "Heikedine Körting",
+          "pseudonym" : "Pamela Punti"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Spezial/Das-Dorf-der-Teufel/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Das-Dorf-der-Teufel/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/Spezial/Das-Dorf-der-Teufel/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/3b/5c/ee/3b5cee45-a7da-dc1f-4575-2e79ceda0816/196873391359.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/das-dorf-der-teufel",
         "appleMusic" : "https://music.apple.com/de/album/1837170319",
-        "spotify" : "https://open.spotify.com/intl-de/album/04fyiNXst7RB39SgEC0SbN",
+        "spotify" : "https://open.spotify.com/intl-de/album/09pBOlMa7AxGh1JbdXmrgc",
         "amazonMusic" : "https://music.amazon.de/albums/B0FPGBYC26",
-        "amazon" : "https://www.amazon.de/gp/product/B0FNBYTNVV"
+        "amazon" : "https://www.amazon.de/gp/product/B0FNBYTNVV",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_fmtwhGAUimZ",
+        "deezer" : "https://www.deezer.com/de/album/814801351"
       },
       "ids" : {
         "dreimetadaten" : 422,
         "appleMusic" : "1837170319",
-        "spotify" : "04fyiNXst7RB39SgEC0SbN",
+        "spotify" : "09pBOlMa7AxGh1JbdXmrgc",
         "amazonMusic" : "B0FPGBYC26",
-        "amazon" : "B0FNBYTNVV"
+        "amazon" : "B0FNBYTNVV",
+        "youTubeMusic" : "MPREb_fmtwhGAUimZ",
+        "deezer" : "814801351"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Prolog",
+              "start" : 0,
+              "end" : 191267
+            },
+            {
+              "titel" : "Das Amulett",
+              "start" : 191267,
+              "end" : 725440
+            },
+            {
+              "titel" : "Redwood Falls",
+              "start" : 725440,
+              "end" : 1063827
+            },
+            {
+              "titel" : "Brüder und Schwestern",
+              "start" : 1063827,
+              "end" : 1523533
+            },
+            {
+              "titel" : "Die Nacht der Teufel",
+              "start" : 1523533,
+              "end" : 2224960
+            },
+            {
+              "titel" : "Modernste Technik",
+              "start" : 2224960,
+              "end" : 2557733
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Spezial/Das-Dorf-der-Teufel/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Der Unfall",
+              "start" : 0,
+              "end" : 304600
+            },
+            {
+              "titel" : "Ein technischer Fehler",
+              "start" : 304600,
+              "end" : 737000
+            },
+            {
+              "titel" : "Ungeahnte Talente",
+              "start" : 737000,
+              "end" : 1124507
+            },
+            {
+              "titel" : "Sie kommen!",
+              "start" : 1124507,
+              "end" : 1675707
+            },
+            {
+              "titel" : "Licht in der Mühle",
+              "start" : 1675707,
+              "end" : 2316440
+            },
+            {
+              "titel" : "Die Teufel und ihre Lügen",
+              "start" : 2316440,
+              "end" : 2756680
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Spezial/Das-Dorf-der-Teufel/rip_log2.txt"
+        }
+      ]
     }
   ]
 }
