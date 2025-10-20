@@ -2,3 +2,8 @@ AddDefaultCharset utf-8
 AddType 'application/json; charset=UTF-8' .json
 AddType 'text/plain; charset=UTF-8' .swift
 ErrorDocument 404 default
+
+# CORS: Allow access to data/, index/ and index.json
+<If "%{REQUEST_URI} =~ m#^/(data|index)/# || %{REQUEST_URI} == '/index.json'">
+	Header always set Access-Control-Allow-Origin "*"
+</If>
