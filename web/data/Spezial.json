@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.8.8",
-    "lastModified" : "2025-10-10T13:30:48Z"
+    "version" : "2.8.9",
+    "lastModified" : "2025-11-07T17:44:50Z"
   },
   "spezial" : [
     {
@@ -4958,6 +4958,36 @@
           "ripLog" : "http://dreimetadaten.de/data/Spezial/Boeser-die-Glocken-nie-klingen/rip_log3.txt"
         }
       ]
+    },
+    {
+      "titel" : "Gruselige Weihnacht überall",
+      "autor" : "Christoph Dittert",
+      "gesamtbeschreibung" : "Ein ohrenbetäubender Knall ertönt, der Auktionsraum füllt sich mit Rauch, und den drei Detektiven entwischt ein Dieb!\nAaron Harper leitet das Weihnachtsmuseum in Rocky Beach. Ein anonymer Erpresser verlangt ein Ausstellungsstück aus dem Museum und bis zur großen Weihnachtsauktion muss die Übergabe stattfinden. Andernfalls drohen schlimme Folgen. Wem der Auktionsgäste können Justus, Peter und Bob vertrauen? Mit Zeitdruck im Rücken müssen die drei Detektive das Geheimnis um das weihnachtliche Exponat lüften.",
+      "kurzbeschreibung" : "Ein ohrenbetäubender Knall ertönt, der Auktionsraum füllt sich mit Rauch, und den drei Detektiven entwischt ein Dieb!",
+      "beschreibung" : "Aaron Harper leitet das Weihnachtsmuseum in Rocky Beach. Ein anonymer Erpresser verlangt ein Ausstellungsstück aus dem Museum und bis zur großen Weihnachtsauktion muss die Übergabe stattfinden. Andernfalls drohen schlimme Folgen. Wem der Auktionsgäste können Justus, Peter und Bob vertrauen? Mit Zeitdruck im Rücken müssen die drei Detektive das Geheimnis um das weihnachtliche Exponat lüften.",
+      "metabeschreibung" : "Ein weihnachtlicher Fall in 24 Kapiteln.",
+      "veröffentlichungsdatum" : "2025-11-07",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/Gruselige-Weihnacht-ueberall/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Spezial/Gruselige-Weihnacht-ueberall/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/e9/d1/b3/e9d1b30f-bbc4-3904-2ed5-b54d4a6b79f0/196872231823.jpg",
+        "appleMusic" : "https://music.apple.com/de/album/1843382938",
+        "spotify" : "https://open.spotify.com/intl-de/album/0PLjPVDHMsLP0tF1Zt6uvx",
+        "amazonMusic" : "https://music.amazon.de/albums/B0FTGG1KW7",
+        "amazon" : "https://www.amazon.de/gp/product/B0FKQFRSV1",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_nDkC3TrkRYT",
+        "deezer" : "https://www.deezer.com/de/album/830702521"
+      },
+      "ids" : {
+        "dreimetadaten" : 427,
+        "appleMusic" : "1843382938",
+        "spotify" : "0PLjPVDHMsLP0tF1Zt6uvx",
+        "amazonMusic" : "B0FTGG1KW7",
+        "amazon" : "B0FKQFRSV1",
+        "youTubeMusic" : "MPREb_nDkC3TrkRYT",
+        "deezer" : "830702521"
+      },
+      "unvollständig" : true
     },
     {
       "titel" : "Das Grab der Inka-Mumie",
