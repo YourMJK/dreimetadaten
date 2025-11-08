@@ -82,7 +82,7 @@ extension LinkTester {
 			.domain: ".youtube.com",
 			.path: "/",
 			.name: "SOCS",
-			.value: "CAESNQgREitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjQxMDE1LjA2X3AwGgJkZSACGgYIgO3LuAY",
+			.value: "CAESNQgREitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjUxMTA1LjA1X3AwGgJkZSACGgYIgJC6yAY",
 			.secure: "TRUE",
 			.discard: "TRUE",
 			.maximumAge: "31536000",
