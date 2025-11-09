@@ -1,15 +1,207 @@
 {
   "titel" : "Gruselige Weihnacht überall",
   "autor" : "Christoph Dittert",
+  "hörspielskriptautor" : "André Minninger",
   "gesamtbeschreibung" : "Ein ohrenbetäubender Knall ertönt, der Auktionsraum füllt sich mit Rauch, und den drei Detektiven entwischt ein Dieb!\nAaron Harper leitet das Weihnachtsmuseum in Rocky Beach. Ein anonymer Erpresser verlangt ein Ausstellungsstück aus dem Museum und bis zur großen Weihnachtsauktion muss die Übergabe stattfinden. Andernfalls drohen schlimme Folgen. Wem der Auktionsgäste können Justus, Peter und Bob vertrauen? Mit Zeitdruck im Rücken müssen die drei Detektive das Geheimnis um das weihnachtliche Exponat lüften.",
   "kurzbeschreibung" : "Ein ohrenbetäubender Knall ertönt, der Auktionsraum füllt sich mit Rauch, und den drei Detektiven entwischt ein Dieb!",
   "beschreibung" : "Aaron Harper leitet das Weihnachtsmuseum in Rocky Beach. Ein anonymer Erpresser verlangt ein Ausstellungsstück aus dem Museum und bis zur großen Weihnachtsauktion muss die Übergabe stattfinden. Andernfalls drohen schlimme Folgen. Wem der Auktionsgäste können Justus, Peter und Bob vertrauen? Mit Zeitdruck im Rücken müssen die drei Detektive das Geheimnis um das weihnachtliche Exponat lüften.",
   "metabeschreibung" : "Ein weihnachtlicher Fall in 24 Kapiteln.",
   "veröffentlichungsdatum" : "2025-11-07",
+  "gesamtdauer" : 10889720,
+  "kapitel" : [
+    {
+      "titel" : "Tag 01 – Unerwarteter Besuch",
+      "start" : 0,
+      "end" : 469253
+    },
+    {
+      "titel" : "Tag 02 – Weihnachtslabyrinth",
+      "start" : 469253,
+      "end" : 932987
+    },
+    {
+      "titel" : "Tag 03 – Eine Entdeckung und eine Frage",
+      "start" : 932987,
+      "end" : 1213467
+    },
+    {
+      "titel" : "Tag 04 – Spur ins Rentier-Paradies",
+      "start" : 1213467,
+      "end" : 1746880
+    },
+    {
+      "titel" : "Tag 05 – Eine Handvoll Matsch",
+      "start" : 1746880,
+      "end" : 2329933
+    },
+    {
+      "titel" : "Tag 06 – Tschadraabalyn",
+      "start" : 2329933,
+      "end" : 3005907
+    },
+    {
+      "titel" : "Tag 07 – Mari Lwyd",
+      "start" : 3005907,
+      "end" : 3422880
+    },
+    {
+      "titel" : "Tag 08 – (K)ein gemütliches Beisammensein",
+      "start" : 3422880,
+      "end" : 3878467
+    },
+    {
+      "titel" : "Tag 09 – Die verschwundene Spur",
+      "start" : 3878467,
+      "end" : 4193307
+    },
+    {
+      "titel" : "Tag 10 – Krankenbesuch",
+      "start" : 4193307,
+      "end" : 4612694
+    },
+    {
+      "titel" : "Tag 11 – Verhängnisvolle Verwechslung",
+      "start" : 4612694,
+      "end" : 5066094
+    },
+    {
+      "titel" : "Tag 12 – Sinterklaas",
+      "start" : 5066094,
+      "end" : 5743760
+    },
+    {
+      "titel" : "Tag 13 – Santa Super Spezial",
+      "start" : 5743760,
+      "end" : 6258334
+    },
+    {
+      "titel" : "Tag 14 – Täter oder Opfer",
+      "start" : 6258334,
+      "end" : 6650867
+    },
+    {
+      "titel" : "Tag 15 – Dreck am Stecken",
+      "start" : 6650867,
+      "end" : 6968867
+    },
+    {
+      "titel" : "Tag 16 – Auktionsbeginn",
+      "start" : 6968867,
+      "end" : 7384307
+    },
+    {
+      "titel" : "Tag 17 – Ein begehrtes Sammlerstück",
+      "start" : 7384307,
+      "end" : 7839654
+    },
+    {
+      "titel" : "Tag 18 – Wer täuscht wen?",
+      "start" : 7839654,
+      "end" : 8268787
+    },
+    {
+      "titel" : "Tag 19 – Nicht wie geplant",
+      "start" : 8268787,
+      "end" : 8793800
+    },
+    {
+      "titel" : "Tag 20 – Ein wenig Licht ins Dunkle",
+      "start" : 8793800,
+      "end" : 9088334
+    },
+    {
+      "titel" : "Tag 21 – Wer hat den besseren Plan?",
+      "start" : 9088334,
+      "end" : 9581080
+    },
+    {
+      "titel" : "Tag 22 – Remmidemmi",
+      "start" : 9581080,
+      "end" : 9884054
+    },
+    {
+      "titel" : "Tag 23 – Manipulation",
+      "start" : 9884054,
+      "end" : 10270334
+    },
+    {
+      "titel" : "Tag 24 – 24/12",
+      "start" : 10270334,
+      "end" : 10889720
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Aaron Harper",
+      "sprecher" : "Stephan Benson"
+    },
+    {
+      "rolle" : "Michael Watkins",
+      "sprecher" : "Romanus Fuhrmann"
+    },
+    {
+      "rolle" : "Tschadraabalyn Jawuuchulan",
+      "sprecher" : "Vixaysak Sihachak"
+    },
+    {
+      "rolle" : "Ethan Coleman",
+      "sprecher" : "Till Hagen"
+    },
+    {
+      "rolle" : "Richardson",
+      "sprecher" : "François Smesny"
+    },
+    {
+      "rolle" : "Oliver Wilson",
+      "sprecher" : "Achim Buch"
+    },
+    {
+      "rolle" : "Jakub Krawczyk",
+      "sprecher" : "Benjamin-Lew Klon"
+    },
+    {
+      "rolle" : "Ewa Krawczyk",
+      "sprecher" : "Violetta Ratajczyk"
+    },
+    {
+      "rolle" : "Abigail Jensen",
+      "sprecher" : "Astrid Kollex"
+    },
+    {
+      "rolle" : "Barney",
+      "sprecher" : "Christian Weibezahn"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Kellner",
+      "sprecher" : "Till Huster"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Spezial/Gruselige-Weihnacht-ueberall/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Spezial/Gruselige-Weihnacht-ueberall/ffmetadata.txt",
     "cover" : "http://dreimetadaten.de/data/Spezial/Gruselige-Weihnacht-ueberall/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/e9/d1/b3/e9d1b30f-bbc4-3904-2ed5-b54d4a6b79f0/196872231823.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/gruselige-weihnacht-uberall-1",
     "appleMusic" : "https://music.apple.com/de/album/1843382938",
     "spotify" : "https://open.spotify.com/intl-de/album/0PLjPVDHMsLP0tF1Zt6uvx",
     "amazonMusic" : "https://music.amazon.de/albums/B0FTGG1KW7",
@@ -26,5 +218,141 @@
     "youTubeMusic" : "MPREb_nDkC3TrkRYT",
     "deezer" : "830702521"
   },
-  "unvollständig" : true
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 01 – Unerwarteter Besuch",
+          "start" : 0,
+          "end" : 469253
+        },
+        {
+          "titel" : "Tag 02 – Weihnachtslabyrinth",
+          "start" : 469253,
+          "end" : 932987
+        },
+        {
+          "titel" : "Tag 03 – Eine Entdeckung und eine Frage",
+          "start" : 932987,
+          "end" : 1213467
+        },
+        {
+          "titel" : "Tag 04 – Spur ins Rentier-Paradies",
+          "start" : 1213467,
+          "end" : 1746880
+        },
+        {
+          "titel" : "Tag 05 – Eine Handvoll Matsch",
+          "start" : 1746880,
+          "end" : 2329933
+        },
+        {
+          "titel" : "Tag 06 – Tschadraabalyn",
+          "start" : 2329933,
+          "end" : 3005907
+        },
+        {
+          "titel" : "Tag 07 – Mari Lwyd",
+          "start" : 3005907,
+          "end" : 3422880
+        },
+        {
+          "titel" : "Tag 08 – (K)ein gemütliches Beisammensein",
+          "start" : 3422880,
+          "end" : 3878467
+        }
+      ],
+      "ripLog" : "http://dreimetadaten.de/data/Spezial/Gruselige-Weihnacht-ueberall/rip_log1.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 09 – Die verschwundene Spur",
+          "start" : 0,
+          "end" : 314840
+        },
+        {
+          "titel" : "Tag 10 – Krankenbesuch",
+          "start" : 314840,
+          "end" : 734227
+        },
+        {
+          "titel" : "Tag 11 – Verhängnisvolle Verwechslung",
+          "start" : 734227,
+          "end" : 1187627
+        },
+        {
+          "titel" : "Tag 12 – Sinterklaas",
+          "start" : 1187627,
+          "end" : 1865293
+        },
+        {
+          "titel" : "Tag 13 – Santa Super Spezial",
+          "start" : 1865293,
+          "end" : 2379867
+        },
+        {
+          "titel" : "Tag 14 – Täter oder Opfer",
+          "start" : 2379867,
+          "end" : 2772400
+        },
+        {
+          "titel" : "Tag 15 – Dreck am Stecken",
+          "start" : 2772400,
+          "end" : 3090400
+        },
+        {
+          "titel" : "Tag 16 – Auktionsbeginn",
+          "start" : 3090400,
+          "end" : 3505840
+        }
+      ],
+      "ripLog" : "http://dreimetadaten.de/data/Spezial/Gruselige-Weihnacht-ueberall/rip_log2.txt"
+    },
+    {
+      "tracks" : [
+        {
+          "titel" : "Tag 17 – Ein begehrtes Sammlerstück",
+          "start" : 0,
+          "end" : 455347
+        },
+        {
+          "titel" : "Tag 18 – Wer täuscht wen?",
+          "start" : 455347,
+          "end" : 884480
+        },
+        {
+          "titel" : "Tag 19 – Nicht wie geplant",
+          "start" : 884480,
+          "end" : 1409493
+        },
+        {
+          "titel" : "Tag 20 – Ein wenig Licht ins Dunkle",
+          "start" : 1409493,
+          "end" : 1704027
+        },
+        {
+          "titel" : "Tag 21 – Wer hat den besseren Plan?",
+          "start" : 1704027,
+          "end" : 2196773
+        },
+        {
+          "titel" : "Tag 22 – Remmidemmi",
+          "start" : 2196773,
+          "end" : 2499747
+        },
+        {
+          "titel" : "Tag 23 – Manipulation",
+          "start" : 2499747,
+          "end" : 2886027
+        },
+        {
+          "titel" : "Tag 24 – 24/12",
+          "start" : 2886027,
+          "end" : 3505413
+        }
+      ],
+      "ripLog" : "http://dreimetadaten.de/data/Spezial/Gruselige-Weihnacht-ueberall/rip_log3.txt"
+    }
+  ]
 }
