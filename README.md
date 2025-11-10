@@ -1,5 +1,5 @@
 # dreimetadaten
-#### Die drei ??? Metadaten – Datenbank, API und Website: [dreimetadaten.de](https://dreimetadaten.de)
+#### Die drei ??? Metadaten – Datenbank, API und Website: [dreimetadaten.de](https://dreimetadaten.de) & [api.dreimetadaten.de](https://api.dreimetadaten.de)
 
 Vollständige und korrekte Metadaten zu allen *Die drei ???* Folgen, inklusive Spezial-Folgen, *DiE DR3i*, Kurzgeschichten und *Die drei ??? Kids*.
 
@@ -12,8 +12,8 @@ Darunter:
 * Links zu Streaming-Plattformen und offiziellen Coverbildern
 
 Verfügbar in mehreren Formaten:
-* Relationale Datenbank in **SQL** (und als **TSV**)
-* Daten als **JSON** (pro Folge oder komplett) – auch als Web-API
+* Relationale Datenbank in **SQL** (und als **TSV**) – auch als Web-API mit dynamischen Anfragen ([api.dreimetadaten.de](https://api.dreimetadaten.de))
+* Daten als **JSON** (pro Folge oder komplett) – auch als statische Web-API ([dreimetadaten.de](https://dreimetadaten.de))
 * Reduzierte Daten im **`ffmetadata`**-Format zum Anwenden auf Audiodateien mithilfe von `ffmpeg`
 
 ## Externe Projekte
