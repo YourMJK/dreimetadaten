@@ -261,3 +261,18 @@ footer {
 .statistic .inline .datatable {
 	margin: 0;
 }
+
+
+.bmc-btn {
+	font-weight: 500;
+	background-color: var(--color-blue);
+	color: var(--color-background);
+	padding: 4pt 8pt;
+	border-radius: 6pt;
+}
+
+.bmc-btn:hover, .bmc-btn:active, .bmc-btn:focus {
+	color: var(--color-background);
+	text-decoration: none !important;
+    cursor: pointer;
+}
