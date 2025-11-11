@@ -1,3 +1,5 @@
+<img src="assets/banner.svg">
+
 # dreimetadaten
 #### Die drei ??? Metadaten – Datenbank, API und Website: [dreimetadaten.de](https://dreimetadaten.de) & [api.dreimetadaten.de](https://api.dreimetadaten.de)
 
@@ -275,9 +277,15 @@ struct DBInfo {
 </details>
 </p>
 
-## Unterstützen über GitHub Sponsors
-Wenn dir dieses Projekt gefällt oder der Datensatz hilfreich war, würde ich mich sehr über deine [Unterstützung durch eine Spende](https://github.com/sponsors/YourMJK) freuen!  
+## Unterstützen
+Wenn dir dieses Projekt gefällt oder der Datensatz hilfreich war, würde ich mich sehr über deine Unterstützung durch eine Spende freuen!  
 Das Geld hilft mir, die Kosten für das Hosting und die CDs zu tragen und motiviert mich, die Daten zu erweitern und weiterhin zeitnah aktuell zu halten :)
+
+<a href="https://buymeacoffee.com/YourMJK">
+  <img src="assets/bmc-button.svg" width="25%">
+</a>
+
+[Über GitHub Sponsors spenden](https://github.com/sponsors/YourMJK)
 
 ## Beitragen
 **Die "Single Source of Truth" für die Metadaten ist die SQL-Datenbank**.  
