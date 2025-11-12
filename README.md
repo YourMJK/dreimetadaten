@@ -34,6 +34,7 @@ Folgende Projekte greifen bereits auf diesen Datensatz zurück:
 * [**Die random ???**](https://die-random-fragezeichen.levrik.io): Zufallsgenerator von *levrik.io*
 * [**ddf-random**](https://github.com/MeFisto94/ddf-random): Zufallsgenerator zum selber hosten von *MeFisto94*
 ### APIs
+* [**DieDreiMetadatenJSLibary**](https://github.com/Epiclegendary53/DieDreiMetadatenJSLibary): JavaScript-Library zum Erhalten und Verarbeiten der Daten von *Jan*
 * [**Audiobookshelf DreiMetadaten Provider**](https://github.com/eisregner/audiobookshelf-dreimetadaten-provider): Lokaler Metadaten-Provider für [audiobookshelf](https://github.com/advplyr/audiobookshelf) von *eisregner*
 ### Sonstiges
 * [**RockyBotICE**](https://rockybotice.rondev.de): Täglich postender [Mastodon-Bot](https://mastodon.social/@RockyBotICE) mit Infos und Streaming-Links zu zufälliger Folge von *Ronny*
