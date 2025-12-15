@@ -2,12 +2,147 @@
   "nummer" : 236,
   "titel" : "Im Bann des Barrakudas",
   "autor" : "Hendrik Buchna",
+  "hörspielskriptautor" : "André Minninger",
+  "gesamtbeschreibung" : "Ein vor über hundert Jahren verstorbener Magier scheint zurückgekehrt zu sein. Wer will den Abriss seines Wohnhauses verhindern?\nNoch immer hat Aden Tangury viele Fans, die das Grundstück des Magiers retten wollen. Sie erzählen noch heute davon, wie Tangury sich damals bei einem seiner Zaubertricks in einen riesengroßen Barrakuda verwandelte. Nun demonstrieren seine Anhänger vor der Baustelle und es kommt sogar zu nächtlichen Sabotageakten. Können die drei ??? für Klarheit sorgen und die Demonstranten aus dem Bann des Barrakudas befreien?",
+  "kurzbeschreibung" : "Ein vor über hundert Jahren verstorbener Magier scheint zurückgekehrt zu sein. Wer will den Abriss seines Wohnhauses verhindern?",
+  "beschreibung" : "Noch immer hat Aden Tangury viele Fans, die das Grundstück des Magiers retten wollen. Sie erzählen noch heute davon, wie Tangury sich damals bei einem seiner Zaubertricks in einen riesengroßen Barrakuda verwandelte. Nun demonstrieren seine Anhänger vor der Baustelle und es kommt sogar zu nächtlichen Sabotageakten. Können die drei ??? für Klarheit sorgen und die Demonstranten aus dem Bann des Barrakudas befreien?",
   "veröffentlichungsdatum" : "2025-12-12",
+  "gesamtdauer" : 4754653,
+  "kapitel" : [
+    {
+      "titel" : "Besuch aus der Vergangenheit",
+      "start" : 0,
+      "end" : 801333
+    },
+    {
+      "titel" : "Ruhe vor dem Sturm",
+      "start" : 801333,
+      "end" : 1466667
+    },
+    {
+      "titel" : "Polizei!",
+      "start" : 1466667,
+      "end" : 1941213
+    },
+    {
+      "titel" : "Überraschung Dank Mathilda",
+      "start" : 1941213,
+      "end" : 2626587
+    },
+    {
+      "titel" : "Bei der Goldjägerin",
+      "start" : 2626587,
+      "end" : 3632187
+    },
+    {
+      "titel" : "In der Höhle des Barrakudas",
+      "start" : 3632187,
+      "end" : 4754653
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Alyssa",
+      "sprecher" : "Sonja Stein"
+    },
+    {
+      "rolle" : "Conrad Wilmington",
+      "sprecher" : "Till Huster"
+    },
+    {
+      "rolle" : "Haley Darlow",
+      "sprecher" : "Marleen Lohse"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Polizist 1",
+      "sprecher" : "Andreas Birnbaum"
+    },
+    {
+      "rolle" : "Polizist 2",
+      "sprecher" : "François Smesny"
+    },
+    {
+      "rolle" : "Polizist 3",
+      "sprecher" : "Alen Tsitak"
+    }
+  ],
   "links" : {
-    "json" : "http://dreimetadaten.de/data/Serie/236/metadata.json"
+    "json" : "http://dreimetadaten.de/data/Serie/236/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/236/ffmetadata.txt",
+    "cover" : "http://dreimetadaten.de/data/Serie/236/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/78/fd/4b/78fd4bad-3562-1b60-15bf-da7fce70362a/196872231878.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/im-bann-des-barrakudas-2",
+    "appleMusic" : "https://music.apple.com/de/album/1849190704",
+    "spotify" : "https://open.spotify.com/intl-de/album/5yCEzMfmMnSG97SXDFGjR8",
+    "amazonMusic" : "https://music.amazon.de/albums/B0FY3MWJ9H",
+    "amazon" : "https://www.amazon.de/gp/product/B0FP7GLHTF",
+    "youTubeMusic" : "https://music.youtube.com/browse/MPREb_3Ka1S3inUZy",
+    "deezer" : "https://www.deezer.com/de/album/845965352"
   },
   "ids" : {
-    "dreimetadaten" : 421
+    "dreimetadaten" : 421,
+    "appleMusic" : "1849190704",
+    "spotify" : "5yCEzMfmMnSG97SXDFGjR8",
+    "amazonMusic" : "B0FY3MWJ9H",
+    "amazon" : "B0FP7GLHTF",
+    "youTubeMusic" : "MPREb_3Ka1S3inUZy",
+    "deezer" : "845965352"
   },
-  "unvollständig" : true
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Besuch aus der Vergangenheit",
+          "start" : 0,
+          "end" : 801333
+        },
+        {
+          "titel" : "Ruhe vor dem Sturm",
+          "start" : 801333,
+          "end" : 1466667
+        },
+        {
+          "titel" : "Polizei!",
+          "start" : 1466667,
+          "end" : 1941213
+        },
+        {
+          "titel" : "Überraschung Dank Mathilda",
+          "start" : 1941213,
+          "end" : 2626587
+        },
+        {
+          "titel" : "Bei der Goldjägerin",
+          "start" : 2626587,
+          "end" : 3632187
+        },
+        {
+          "titel" : "In der Höhle des Barrakudas",
+          "start" : 3632187,
+          "end" : 4754653
+        }
+      ],
+      "ripLog" : "http://dreimetadaten.de/data/Serie/236/rip_log.txt"
+    }
+  ]
 }
