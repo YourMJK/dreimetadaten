@@ -2,6 +2,10 @@
   "nummer" : 237,
   "titel" : "und der rote Büffel",
   "autor" : "André Marx",
+  "hörspielskriptautor" : "André Minninger",
+  "gesamtbeschreibung" : "Der rote Büffel ist in Gefahr! Um das wertvolle Kunstwerk zu retten, wenden sich die drei ??? an ihren größten Widersacher – Victor Hugenay.\nDie Zeit drängt, denn Justus, Peter und Bob sind nicht die Einzigen, die das Gemälde suchen. Ohne die Hilfe des Meisterdiebs, ist das Versteck des Bildes nicht aufzuspüren. Können die Detektive ihm vertrauen? Zwar sitzt er hinter Gittern, doch Hugenay ist zu allem fähig. Ist er wirklich so hilfsbereit, wie er sich gibt oder tappen die drei ??? in eine Falle?",
+  "kurzbeschreibung" : "Der rote Büffel ist in Gefahr! Um das wertvolle Kunstwerk zu retten, wenden sich die drei ??? an ihren größten Widersacher – Victor Hugenay.",
+  "beschreibung" : "Die Zeit drängt, denn Justus, Peter und Bob sind nicht die Einzigen, die das Gemälde suchen. Ohne die Hilfe des Meisterdiebs, ist das Versteck des Bildes nicht aufzuspüren. Können die Detektive ihm vertrauen? Zwar sitzt er hinter Gittern, doch Hugenay ist zu allem fähig. Ist er wirklich so hilfsbereit, wie er sich gibt oder tappen die drei ??? in eine Falle?",
   "veröffentlichungsdatum" : "2026-02-20",
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/237/metadata.json",
@@ -9,14 +13,20 @@
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/98/65/61/986561fd-9cdd-03ed-3dda-ebaed689a26b/196873622330.jpg",
     "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/der-rote-buffel",
     "appleMusic" : "https://music.apple.com/de/album/1868936291",
+    "spotify" : "https://open.spotify.com/intl-de/album/1IkEurD7s47M9ukevi0bWA",
     "amazonMusic" : "https://music.amazon.de/albums/B0GGRWPRYW",
-    "amazon" : "https://www.amazon.de/gp/product/B0FW2NVCP1"
+    "amazon" : "https://www.amazon.de/gp/product/B0FW2NVCP1",
+    "youTubeMusic" : "https://music.youtube.com/browse/MPREb_uRngWscHai7",
+    "deezer" : "https://www.deezer.com/de/album/897204572"
   },
   "ids" : {
     "dreimetadaten" : 428,
     "appleMusic" : "1868936291",
+    "spotify" : "1IkEurD7s47M9ukevi0bWA",
     "amazonMusic" : "B0GGRWPRYW",
-    "amazon" : "B0FW2NVCP1"
+    "amazon" : "B0FW2NVCP1",
+    "youTubeMusic" : "MPREb_uRngWscHai7",
+    "deezer" : "897204572"
   },
   "unvollständig" : true
 }
