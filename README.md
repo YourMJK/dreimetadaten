@@ -30,7 +30,7 @@ Folgende Projekte greifen bereits auf diesen Datensatz zurück:
 ### Websites
 * [**dreifragezeichenportal.de**](https://dreifragezeichenportal.de): Website zum (thematischen) Durchsuchen der Folgen und Sprecher von *Alex*
 * [**Fragezeichinator**](https://www.fragezeichinator.de/): Filterbarer Zufallsgenerator, Folgen Bewertung und Favoriten Listen von *clemwo*
-* [**kassettenwechsler.de**](https://kassettenwechsler.de): Website mit Zufallsauswahl und Streaming-Links zu den Folgen (und anderen Hörspielreihen) von *Johannes*
+* [**kassettenwechsler.de**](https://kassettenwechsler.de): Website mit Zufallsauswahl und Streaming-Links zu den Folgen (und anderen Hörspielreihen) von *b0wter*
 * [**Die random ???**](https://die-random-fragezeichen.levrik.io): Zufallsgenerator von *levrik.io*
 * [**ddf-random**](https://github.com/MeFisto94/ddf-random): Zufallsgenerator zum selber hosten von *MeFisto94*
 ### APIs
