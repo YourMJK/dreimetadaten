@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.8.15",
-    "lastModified" : "2026-02-25T14:41:36Z"
+    "version" : "2.8.16",
+    "lastModified" : "2026-02-25T15:03:35Z"
   },
   "serie" : [
     {
@@ -46915,6 +46915,7 @@
         "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/die-drei-und-das-fantasmofon",
         "appleMusic" : "https://music.apple.com/de/album/1829447719",
         "spotify" : "https://open.spotify.com/intl-de/album/031exGT0P6IWBYY6faqoLV",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1699839",
         "amazonMusic" : "https://music.amazon.de/albums/B0FK5GQCXY",
         "amazon" : "https://www.amazon.de/gp/product/B0FBHSYMZM",
         "youTubeMusic" : "https://music.youtube.com/browse/MPREb_yxK3tprZXZS",
@@ -46924,6 +46925,7 @@
         "dreimetadaten" : 420,
         "appleMusic" : "1829447719",
         "spotify" : "031exGT0P6IWBYY6faqoLV",
+        "bookbeat" : "1699839",
         "amazonMusic" : "B0FK5GQCXY",
         "amazon" : "B0FBHSYMZM",
         "youTubeMusic" : "MPREb_yxK3tprZXZS",
@@ -47063,6 +47065,7 @@
         "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/im-bann-des-barrakudas-2",
         "appleMusic" : "https://music.apple.com/de/album/1849190704",
         "spotify" : "https://open.spotify.com/intl-de/album/5yCEzMfmMnSG97SXDFGjR8",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1780323",
         "amazonMusic" : "https://music.amazon.de/albums/B0FY3MWJ9H",
         "amazon" : "https://www.amazon.de/gp/product/B0FP7GLHTF",
         "youTubeMusic" : "https://music.youtube.com/browse/MPREb_3Ka1S3inUZy",
@@ -47072,6 +47075,7 @@
         "dreimetadaten" : 421,
         "appleMusic" : "1849190704",
         "spotify" : "5yCEzMfmMnSG97SXDFGjR8",
+        "bookbeat" : "1780323",
         "amazonMusic" : "B0FY3MWJ9H",
         "amazon" : "B0FP7GLHTF",
         "youTubeMusic" : "MPREb_3Ka1S3inUZy",
@@ -47228,6 +47232,7 @@
         "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/der-rote-buffel",
         "appleMusic" : "https://music.apple.com/de/album/1868936291",
         "spotify" : "https://open.spotify.com/intl-de/album/1IkEurD7s47M9ukevi0bWA",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1856185",
         "amazonMusic" : "https://music.amazon.de/albums/B0GGRWPRYW",
         "amazon" : "https://www.amazon.de/gp/product/B0FW2NVCP1",
         "youTubeMusic" : "https://music.youtube.com/browse/MPREb_uRngWscHai7",
@@ -47237,6 +47242,7 @@
         "dreimetadaten" : 428,
         "appleMusic" : "1868936291",
         "spotify" : "1IkEurD7s47M9ukevi0bWA",
+        "bookbeat" : "1856185",
         "amazonMusic" : "B0GGRWPRYW",
         "amazon" : "B0FW2NVCP1",
         "youTubeMusic" : "MPREb_uRngWscHai7",
@@ -47292,10 +47298,12 @@
       "veröffentlichungsdatum" : "2026-03-20",
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/238/metadata.json",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1877246",
         "amazon" : "https://www.amazon.de/gp/product/B0G2PMWSRN"
       },
       "ids" : {
         "dreimetadaten" : 429,
+        "bookbeat" : "1877246",
         "amazon" : "B0G2PMWSRN"
       },
       "unvollständig" : true

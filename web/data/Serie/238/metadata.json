@@ -5,10 +5,12 @@
   "veröffentlichungsdatum" : "2026-03-20",
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/238/metadata.json",
+    "bookbeat" : "https://www.bookbeat.com/de/book/1877246",
     "amazon" : "https://www.amazon.de/gp/product/B0G2PMWSRN"
   },
   "ids" : {
     "dreimetadaten" : 429,
+    "bookbeat" : "1877246",
     "amazon" : "B0G2PMWSRN"
   },
   "unvollständig" : true
