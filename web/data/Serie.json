@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.8.14",
-    "lastModified" : "2026-02-25T12:16:25Z"
+    "version" : "2.8.15",
+    "lastModified" : "2026-02-25T14:41:36Z"
   },
   "serie" : [
     {
@@ -47284,6 +47284,75 @@
           "ripLog" : "http://dreimetadaten.de/data/Serie/237/rip_log.txt"
         }
       ]
+    },
+    {
+      "nummer" : 238,
+      "titel" : "Falsche Schuld",
+      "autor" : "Ben Nevis",
+      "veröffentlichungsdatum" : "2026-03-20",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/238/metadata.json",
+        "amazon" : "https://www.amazon.de/gp/product/B0G2PMWSRN"
+      },
+      "ids" : {
+        "dreimetadaten" : 429,
+        "amazon" : "B0G2PMWSRN"
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 239,
+      "titel" : "Das Geheimnis der sieben Palmen",
+      "autor" : "Marco Sonnleitner",
+      "veröffentlichungsdatum" : "2026-05-22",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/239/metadata.json",
+        "amazon" : "https://www.amazon.de/gp/product/B0GGGNRNYQ"
+      },
+      "ids" : {
+        "dreimetadaten" : 430,
+        "amazon" : "B0GGGNRNYQ"
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 240,
+      "titel" : "und die schwarze Rose",
+      "autor" : "Ben Nevis",
+      "veröffentlichungsdatum" : "2026-07-17",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/240/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 431
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 241,
+      "titel" : "Meister des Lichts",
+      "autor" : "Christoph Dittert",
+      "veröffentlichungsdatum" : "2026-09-18",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/241/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 432
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 242,
+      "titel" : "und das weiße Auge",
+      "autor" : "Marco Sonnleitner",
+      "veröffentlichungsdatum" : "2026-12-11",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/242/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 433
+      },
+      "unvollständig" : true
     }
   ]
 }
