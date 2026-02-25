@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.8.13",
-    "lastModified" : "2026-02-20T20:28:59Z"
+    "version" : "2.8.14",
+    "lastModified" : "2026-02-25T12:16:25Z"
   },
   "serie" : [
     {
@@ -47124,8 +47124,105 @@
       "kurzbeschreibung" : "Der rote Büffel ist in Gefahr! Um das wertvolle Kunstwerk zu retten, wenden sich die drei ??? an ihren größten Widersacher – Victor Hugenay.",
       "beschreibung" : "Die Zeit drängt, denn Justus, Peter und Bob sind nicht die Einzigen, die das Gemälde suchen. Ohne die Hilfe des Meisterdiebs, ist das Versteck des Bildes nicht aufzuspüren. Können die Detektive ihm vertrauen? Zwar sitzt er hinter Gittern, doch Hugenay ist zu allem fähig. Ist er wirklich so hilfsbereit, wie er sich gibt oder tappen die drei ??? in eine Falle?",
       "veröffentlichungsdatum" : "2026-02-20",
+      "gesamtdauer" : 4736333,
+      "kapitel" : [
+        {
+          "titel" : "Die geheime Botschaft",
+          "start" : 0,
+          "end" : 592600
+        },
+        {
+          "titel" : "Ein Geschäft mit Rubbish",
+          "start" : 592600,
+          "end" : 1237867
+        },
+        {
+          "titel" : "Überfall!",
+          "start" : 1237867,
+          "end" : 1778707
+        },
+        {
+          "titel" : "Mandeville Canyon",
+          "start" : 1778707,
+          "end" : 2548187
+        },
+        {
+          "titel" : "In Handschellen",
+          "start" : 2548187,
+          "end" : 3389213
+        },
+        {
+          "titel" : "Komplizen",
+          "start" : 3389213,
+          "end" : 3916707
+        },
+        {
+          "titel" : "Fetzen der Schande",
+          "start" : 3916707,
+          "end" : 4736333
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Alba",
+          "sprecher" : "Celine Fontanges"
+        },
+        {
+          "rolle" : "Rubbish George",
+          "sprecher" : "Stefan Krause"
+        },
+        {
+          "rolle" : "Sergeant Kain",
+          "sprecher" : "Kai Schwind"
+        },
+        {
+          "rolle" : "Hugenay",
+          "sprecher" : "Tobias Meister"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Theodor",
+          "sprecher" : "Tim Grobe"
+        },
+        {
+          "rolle" : "Byron",
+          "sprecher" : "Jürgen Holdorf"
+        },
+        {
+          "rolle" : "Jordan",
+          "sprecher" : "Daniel Welbat"
+        },
+        {
+          "rolle" : "Wachmann",
+          "sprecher" : "Walter Bauhöfer"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/237/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/237/ffmetadata.txt",
         "cover" : "http://dreimetadaten.de/data/Serie/237/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/98/65/61/986561fd-9cdd-03ed-3dda-ebaed689a26b/196873622330.jpg",
         "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/der-rote-buffel",
@@ -47145,7 +47242,48 @@
         "youTubeMusic" : "MPREb_uRngWscHai7",
         "deezer" : "897204572"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Die geheime Botschaft",
+              "start" : 0,
+              "end" : 592600
+            },
+            {
+              "titel" : "Ein Geschäft mit Rubbish",
+              "start" : 592600,
+              "end" : 1237867
+            },
+            {
+              "titel" : "Überfall!",
+              "start" : 1237867,
+              "end" : 1778707
+            },
+            {
+              "titel" : "Mandeville Canyon",
+              "start" : 1778707,
+              "end" : 2548187
+            },
+            {
+              "titel" : "In Handschellen",
+              "start" : 2548187,
+              "end" : 3389213
+            },
+            {
+              "titel" : "Komplizen",
+              "start" : 3389213,
+              "end" : 3916707
+            },
+            {
+              "titel" : "Fetzen der Schande",
+              "start" : 3916707,
+              "end" : 4736333
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Serie/237/rip_log.txt"
+        }
+      ]
     }
   ]
 }
