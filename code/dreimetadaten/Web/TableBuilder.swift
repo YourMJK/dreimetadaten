@@ -9,7 +9,12 @@ import Foundation
 
 
 class TableBuilder {
-	var content: String = ""
+	let table: HTML.Node
+	var currentRow: HTML.Node?
+	
+	init(class tableClass: TableClass) {
+		self.table = HTML.table().class(tableClass.rawValue).indent()
+	}
 	
 	enum CellType: String {
 		case th
@@ -27,68 +32,54 @@ class TableBuilder {
 		case datatable
 	}
 	
-	func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, _ lines: [(text: String, link: String?)]) {
+	func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, lines: [HTML.Content]) {
 		guard width != 0 else { return }
 		
-		var cell = "<\(type.rawValue)"
+		let cell: HTML.Node =
+			switch type {
+				case .th: HTML.th()
+				case .td: HTML.td()
+			}
+		
 		if let cellClass {
-			cell.append(" class=\"\(cellClass.rawValue)\"")
+			cell.class(cellClass.rawValue)
 		}
 		if let width {
-			cell.append(" colspan=\"\(width)\"")
+			cell.attribute(key: "colspan", value: "\(width)")
 		}
-		cell.append(">")
 		
 		var first = true
 		for line in lines {
 			if !first {
-				cell.append("<br>")
+				cell.content(HTML.br)
 			}
 			first = false
-			if let link = line.link {
-				cell.append("<a href=\"\(link)\">")
-				cell.append(line.text)
-				cell.append("</a>")
-			}
-			else {
-				cell.append(line.text)
-			}
+			cell.content { line }
 		}
 		
-		cell.append("</td>")
-		content.append("\t\(cell)\n")
+		currentRow?.content { cell }
 	}
 	
-	func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, content: String) {
-		addCell(type: type, class: cellClass, width: width, [(content, nil)])
+	func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, content: HTML.Content) {
+		addCell(type: type, class: cellClass, width: width, lines: [content])
 	}
 	
 	func addEmptyCell(count: UInt = 1) {
 		for _ in 1...count {
-			addCell([])
+			addCell(lines: [])
 		}
 	}
 	
-	func startRow(class rowClass: RowClass? = nil) {
-		content.append("<tr")
+	func addRow(class rowClass: RowClass? = nil) {
+		let row = HTML.tr().indent()
 		if let rowClass {
-			content.append(" class=\"\(rowClass.rawValue)\"")
+			row.class(rowClass.rawValue)
 		}
-		content.append(">\n")
-	}
-	func endRow() {
-		content.append("</tr>\n")
+		table.content { row }
+		currentRow = row
 	}
 	
-	func startTable(class tableClass: TableClass? = nil) {
-		content.append("<table")
-		if let tableClass {
-			content.append(" class=\"\(tableClass.rawValue)\"")
-		}
-		content.append(">\n")
+	func serialize() -> String {
+		table.serialize() + "\n"
 	}
-	func endTable() {
-		content.append("</table>\n")
-	}
-	
 }

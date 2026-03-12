@@ -26,8 +26,7 @@ class CollectionPageBuilder: PageBuilder {
 	}
 	
 	private func replaceTableRowPlaceholder() throws {
-		let table = TableBuilder()
-		table.startTable(class: .datatable)
+		let table = TableBuilder(class: .datatable)
 		
 		// Collection
 		guard var collection = objectModel[keyPath: collectionType.objectModelKeyPath] as? [MetadataObjectModel.Hörspiel] else {
@@ -55,7 +54,7 @@ class CollectionPageBuilder: PageBuilder {
 		}
 		
 		// Headers
-		table.startRow()
+		table.addRow()
 		let hasRipLog = collection.compactMap(\.medien).joined().contains { $0.ripLog != nil }
 		let headerCoverWidth = countLinks([\.cover, \.cover_itunes, \.cover_kosmos])
 		let headerPlattformWidth = countLinks([\.dreifragezeichen, \.appleMusic, \.spotify])
@@ -86,9 +85,14 @@ class CollectionPageBuilder: PageBuilder {
 		}
 		table.addCell(type: .th, width: headerCoverWidth, content: "Cover")
 		table.addCell(type: .th, width: headerPlattformWidth, content: "Plattform")
-		table.endRow()
 		
 		// Content
+		func icon(_ filename: String) -> HTML.Node {
+			HTML.img().src("icons/\(filename)")
+		}
+		let iconDDF = icon("ddf_link.svg")
+		let iconAM = icon("am_link.svg")
+		let iconSpotify = icon("spotify_link.svg")
 		let listSymbol = "└╴"
 		
 		func formatLeadingZeros(max count: Int) -> String {
@@ -117,7 +121,7 @@ class CollectionPageBuilder: PageBuilder {
 		}
 		
 		func addRowFor(hörspiel: MetadataObjectModel.Hörspiel, collectionCount: Int) throws {
-			table.startRow(class: hörspiel.unvollständig == true ? .incomplete : nil)
+			table.addRow(class: hörspiel.unvollständig == true ? .incomplete : nil)
 			
 			// First one (or two) identifying cell(s)
 			switch collectionType {
@@ -167,24 +171,24 @@ class CollectionPageBuilder: PageBuilder {
 			}
 			
 			// Links
-			func addLinks(_ links: [(String, String?)], cellClass: TableBuilder.CellClass = .data) throws {
-				let lines: [(text: String, link: String?)] = try links.compactMap { (name, link) in
+			func addLinks(_ links: [(HTML.Content, String?)], cellClass: TableBuilder.CellClass = .data) throws {
+				let lines: [HTML.Node] = try links.compactMap { (content, link) in
 					guard let link else { return nil }
-					return (name, try relativePathForLink(link))
+					return HTML.a().href(try relativePathForLink(link)).content { content }
 				}
-				table.addCell(class: cellClass, lines)
+				table.addCell(class: cellClass, lines: lines)
 			}
-			func addLinks(_ links: [(String, LinkKeyPath)], cellClass: TableBuilder.CellClass = .data) throws {
-				try addLinks(links.map { (name, keyPath) in
-					(name, hörspiel.links?[keyPath: keyPath])
+			func addLinks(_ links: [(HTML.Content, LinkKeyPath)], cellClass: TableBuilder.CellClass = .data) throws {
+				try addLinks(links.map { (content, keyPath) in
+					(content, hörspiel.links?[keyPath: keyPath])
 				}, cellClass: cellClass)
 			}
-			func addOptionalLink(_ name: String, _ keyPath: LinkKeyPath, cellClass: TableBuilder.CellClass = .data) throws {
+			func addOptionalLink(_ content: HTML.Content, _ keyPath: LinkKeyPath, cellClass: TableBuilder.CellClass = .data) throws {
 				guard hasLink[keyPath]! else { return }
-				try addLinks([(name, keyPath)], cellClass: cellClass)
+				try addLinks([(content, keyPath)], cellClass: cellClass)
 			}
-			func addOptionalLinkIcon(_ filename: String, _ keyPath: LinkKeyPath) throws {
-				try addOptionalLink("<img src=\"icons/\(filename)\">", keyPath, cellClass: .icon)
+			func addOptionalIconLink(_ node: HTML.Node, _ keyPath: LinkKeyPath) throws {
+				try addOptionalLink(node, keyPath, cellClass: .icon)
 			}
 			// Metadaten
 			try addLinks([("JSON", \.json)])
@@ -209,11 +213,9 @@ class CollectionPageBuilder: PageBuilder {
 			try addOptionalLink("iTunes", \.cover_itunes)
 			try addOptionalLink("Kosmos", \.cover_kosmos)
 			// Plattform
-			try addOptionalLinkIcon("ddf_link.svg", \.dreifragezeichen)
-			try addOptionalLinkIcon("am_link.svg", \.appleMusic)
-			try addOptionalLinkIcon("spotify_link.svg", \.spotify)
-			
-			table.endRow()
+			try addOptionalIconLink(iconDDF, \.dreifragezeichen)
+			try addOptionalIconLink(iconAM, \.appleMusic)
+			try addOptionalIconLink(iconSpotify, \.spotify)
 		}
 		
 		func recursive(_ hörspiel: MetadataObjectModel.Hörspiel, collectionCount: Int) throws {
@@ -222,9 +224,8 @@ class CollectionPageBuilder: PageBuilder {
 		}
 		try collection.forEach { try recursive($0, collectionCount: collection.count) }
 		
-		table.endTable()
-		
-		try replace(placeholder: "%%table%%", with: table.content)
+		let content = table.serialize()
+		try replace(placeholder: "%%table%%", with: content)
 	}
 	
 }

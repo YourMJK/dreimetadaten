@@ -56,172 +56,170 @@
 
 <div class="statisticsData">
 <div class="statistic">
-<h3>Top 10 Sprecher</h3>
-<h4>nach gesprochenen Sprechrollen</h4>
-<table class="datatable">
-<tr>
-	<th>Sprecher</td>
-	<th>Anzahl</td>
-</tr>
-<tr>
-	<td class="cell_nr">Oliver Rohrbeck</td>
-	<td class="cell_data">270</td>
-</tr>
-<tr>
-	<td class="cell_nr">Andreas Fröhlich</td>
-	<td class="cell_data">269</td>
-</tr>
-<tr>
-	<td class="cell_nr">Jens Wawrczeck</td>
-	<td class="cell_data">269</td>
-</tr>
-<tr>
-	<td class="cell_nr">Achim Schülke</td>
-	<td class="cell_data">106</td>
-</tr>
-<tr>
-	<td class="cell_nr">Jannik Schümann</td>
-	<td class="cell_data">103</td>
-</tr>
-<tr>
-	<td class="cell_nr">Thomas Fritsch</td>
-	<td class="cell_data">102</td>
-</tr>
-<tr>
-	<td class="cell_nr">David Wittmann</td>
-	<td class="cell_data">101</td>
-</tr>
-<tr>
-	<td class="cell_nr">Johannes Steck</td>
-	<td class="cell_data">101</td>
-</tr>
-<tr>
-	<td class="cell_nr">Yoshij Grimm</td>
-	<td class="cell_data">101</td>
-</tr>
-<tr>
-	<td class="cell_nr">Holger Mahlich</td>
-	<td class="cell_data">90</td>
-</tr>
-</table>
-<details>
-	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">SELECT name AS Sprecher, COUNT(*) AS Anzahl
+	<h3>Top 10 Sprecher</h3>
+	<h4>nach gesprochenen Sprechrollen</h4>
+	<table class="datatable">
+		<tr>
+			<th>Sprecher</th>
+			<th>Anzahl</th>
+		</tr>
+		<tr>
+			<td class="cell_nr">Oliver Rohrbeck</td>
+			<td class="cell_data">270</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Andreas Fröhlich</td>
+			<td class="cell_data">269</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Jens Wawrczeck</td>
+			<td class="cell_data">269</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Achim Schülke</td>
+			<td class="cell_data">106</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Jannik Schümann</td>
+			<td class="cell_data">103</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Thomas Fritsch</td>
+			<td class="cell_data">102</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">David Wittmann</td>
+			<td class="cell_data">101</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Johannes Steck</td>
+			<td class="cell_data">101</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Yoshij Grimm</td>
+			<td class="cell_data">101</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Holger Mahlich</td>
+			<td class="cell_data">90</td>
+		</tr>
+	</table>
+	<details>
+		<summary><b>SQL</b></summary>
+		<pre><code class="hljs language-sql">SELECT name AS Sprecher, COUNT(*) AS Anzahl
 FROM spricht JOIN person USING (personID)
 GROUP BY Sprecher ORDER BY Anzahl DESC, Sprecher LIMIT 10</code></pre>
-</details>
+	</details>
 </div>
-
 <div class="statistic">
-<h3>Top 10 Rollen</h3>
-<h4>nach vorkommenden Hörspielen</h4>
-<table class="datatable">
-<tr>
-	<th>Rolle</td>
-	<th>Anzahl</td>
-</tr>
-<tr>
-	<td class="cell_nr">Bob Andrews, Recherchen und Archiv</td>
-	<td class="cell_data">361</td>
-</tr>
-<tr>
-	<td class="cell_nr">Justus Jonas, Erster Detektiv</td>
-	<td class="cell_data">361</td>
-</tr>
-<tr>
-	<td class="cell_nr">Peter Shaw, Zweiter Detektiv</td>
-	<td class="cell_data">361</td>
-</tr>
-<tr>
-	<td class="cell_nr">Erzähler</td>
-	<td class="cell_data">289</td>
-</tr>
-<tr>
-	<td class="cell_nr">Tante Mathilda</td>
-	<td class="cell_data">155</td>
-</tr>
-<tr>
-	<td class="cell_nr">Onkel Titus</td>
-	<td class="cell_data">127</td>
-</tr>
-<tr>
-	<td class="cell_nr">Kommissar Reynolds</td>
-	<td class="cell_data">106</td>
-</tr>
-<tr>
-	<td class="cell_nr">Inspektor Cotta</td>
-	<td class="cell_data">83</td>
-</tr>
-<tr>
-	<td class="cell_nr">Hitchcock, Erzähler</td>
-	<td class="cell_data">75</td>
-</tr>
-<tr>
-	<td class="cell_nr">Skinny Norris</td>
-	<td class="cell_data">42</td>
-</tr>
-</table>
-<details>
-	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">SELECT name AS Rolle, COUNT(*) AS Anzahl
+	<h3>Top 10 Rollen</h3>
+	<h4>nach vorkommenden Hörspielen</h4>
+	<table class="datatable">
+		<tr>
+			<th>Rolle</th>
+			<th>Anzahl</th>
+		</tr>
+		<tr>
+			<td class="cell_nr">Bob Andrews, Recherchen und Archiv</td>
+			<td class="cell_data">361</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Justus Jonas, Erster Detektiv</td>
+			<td class="cell_data">361</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Peter Shaw, Zweiter Detektiv</td>
+			<td class="cell_data">361</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Erzähler</td>
+			<td class="cell_data">289</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Tante Mathilda</td>
+			<td class="cell_data">155</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Onkel Titus</td>
+			<td class="cell_data">127</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Kommissar Reynolds</td>
+			<td class="cell_data">106</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Inspektor Cotta</td>
+			<td class="cell_data">83</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Hitchcock, Erzähler</td>
+			<td class="cell_data">75</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Skinny Norris</td>
+			<td class="cell_data">42</td>
+		</tr>
+	</table>
+	<details>
+		<summary><b>SQL</b></summary>
+		<pre><code class="hljs language-sql">SELECT name AS Rolle, COUNT(*) AS Anzahl
 FROM sprechrolle JOIN rolle USING (rolleID)
 GROUP BY Rolle ORDER BY Anzahl DESC, Rolle LIMIT 10</code></pre>
-</details>
+	</details>
 </div>
-
 <div class="statistic">
-<h3>Top 10 Autoren</h3>
-<h4>nach geschriebenen Buchvorlagen</h4>
-<table class="datatable">
-<tr>
-	<th>Autor</td>
-	<th>Anzahl</td>
-</tr>
-<tr>
-	<td class="cell_nr">Ulf Blanck</td>
-	<td class="cell_data">67</td>
-</tr>
-<tr>
-	<td class="cell_nr">Marco Sonnleitner</td>
-	<td class="cell_data">44</td>
-</tr>
-<tr>
-	<td class="cell_nr">André Marx</td>
-	<td class="cell_data">42</td>
-</tr>
-<tr>
-	<td class="cell_nr">Boris Pfeiffer</td>
-	<td class="cell_data">40</td>
-</tr>
-<tr>
-	<td class="cell_nr">Ben Nevis</td>
-	<td class="cell_data">34</td>
-</tr>
-<tr>
-	<td class="cell_nr">André Minninger</td>
-	<td class="cell_data">22</td>
-</tr>
-<tr>
-	<td class="cell_nr">Hendrik Buchna</td>
-	<td class="cell_data">22</td>
-</tr>
-<tr>
-	<td class="cell_nr">Kari Erlhoff</td>
-	<td class="cell_data">22</td>
-</tr>
-<tr>
-	<td class="cell_nr">Christoph Dittert</td>
-	<td class="cell_data">20</td>
-</tr>
-<tr>
-	<td class="cell_nr">Brigitte Johanna Henkel-Waidhofer</td>
-	<td class="cell_data">16</td>
-</tr>
-</table>
-<p>(max. ein Credit pro Autor pro Folge mit mehreren Teilen)</p>
-<details>
-	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">WITH buchautorCredits AS (
+	<h3>Top 10 Autoren</h3>
+	<h4>nach geschriebenen Buchvorlagen</h4>
+	<table class="datatable">
+		<tr>
+			<th>Autor</th>
+			<th>Anzahl</th>
+		</tr>
+		<tr>
+			<td class="cell_nr">Ulf Blanck</td>
+			<td class="cell_data">67</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Marco Sonnleitner</td>
+			<td class="cell_data">44</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">André Marx</td>
+			<td class="cell_data">42</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Boris Pfeiffer</td>
+			<td class="cell_data">40</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Ben Nevis</td>
+			<td class="cell_data">34</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">André Minninger</td>
+			<td class="cell_data">22</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Hendrik Buchna</td>
+			<td class="cell_data">22</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Kari Erlhoff</td>
+			<td class="cell_data">22</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Christoph Dittert</td>
+			<td class="cell_data">20</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Brigitte Johanna Henkel-Waidhofer</td>
+			<td class="cell_data">16</td>
+		</tr>
+	</table>
+	<p>(max. ein Credit pro Autor pro Folge mit mehreren Teilen)</p>
+	<details>
+		<summary><b>SQL</b></summary>
+		<pre><code class="hljs language-sql">WITH buchautorCredits AS (
   SELECT DISTINCT personID, COALESCE(hörspiel, hörspielID)
   FROM hörspiel LEFT OUTER JOIN hörspielTeil ON teil = hörspielID
   JOIN hörspielBuchautor USING (hörspielID)
@@ -229,61 +227,60 @@ GROUP BY Rolle ORDER BY Anzahl DESC, Rolle LIMIT 10</code></pre>
 SELECT name AS Autor, COUNT(*) AS Anzahl
 FROM buchautorCredits JOIN person USING (personID)
 GROUP BY personID ORDER BY Anzahl DESC, Autor LIMIT 10</code></pre>
-</details>
+	</details>
 </div>
-
 <div class="statistic">
-<h3>Top 10 Hörspiele</h3>
-<h4>nach Dauer</h4>
-<table class="datatable">
-<tr>
-	<th>Titel</td>
-	<th>Sekunden</td>
-</tr>
-<tr>
-	<td class="cell_nr">Feuriges Auge</td>
-	<td class="cell_data">17712</td>
-</tr>
-<tr>
-	<td class="cell_nr">Feuermond</td>
-	<td class="cell_data">13119</td>
-</tr>
-<tr>
-	<td class="cell_nr">und der dreiTag</td>
-	<td class="cell_data">13078</td>
-</tr>
-<tr>
-	<td class="cell_nr">Böser die Glocken nie klingen</td>
-	<td class="cell_data">12210</td>
-</tr>
-<tr>
-	<td class="cell_nr">Geisterbucht</td>
-	<td class="cell_data">11918</td>
-</tr>
-<tr>
-	<td class="cell_nr">und der schwarze Tag</td>
-	<td class="cell_data">11729</td>
-</tr>
-<tr>
-	<td class="cell_nr">Schattenwelt</td>
-	<td class="cell_data">11249</td>
-</tr>
-<tr>
-	<td class="cell_nr">Gruselige Weihnacht überall</td>
-	<td class="cell_data">10889</td>
-</tr>
-<tr>
-	<td class="cell_nr">Adventskalender: 24 Tage Weihnachtsspuk</td>
-	<td class="cell_data">10711</td>
-</tr>
-<tr>
-	<td class="cell_nr">und der Puppenmacher</td>
-	<td class="cell_data">10696</td>
-</tr>
-</table>
-<details>
-	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">WITH hörspielDauer AS (
+	<h3>Top 10 Hörspiele</h3>
+	<h4>nach Dauer</h4>
+	<table class="datatable">
+		<tr>
+			<th>Titel</th>
+			<th>Sekunden</th>
+		</tr>
+		<tr>
+			<td class="cell_nr">Feuriges Auge</td>
+			<td class="cell_data">17712</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Feuermond</td>
+			<td class="cell_data">13119</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">und der dreiTag</td>
+			<td class="cell_data">13078</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Böser die Glocken nie klingen</td>
+			<td class="cell_data">12210</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Geisterbucht</td>
+			<td class="cell_data">11918</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">und der schwarze Tag</td>
+			<td class="cell_data">11729</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Schattenwelt</td>
+			<td class="cell_data">11249</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Gruselige Weihnacht überall</td>
+			<td class="cell_data">10889</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">Adventskalender: 24 Tage Weihnachtsspuk</td>
+			<td class="cell_data">10711</td>
+		</tr>
+		<tr>
+			<td class="cell_nr">und der Puppenmacher</td>
+			<td class="cell_data">10696</td>
+		</tr>
+	</table>
+	<details>
+		<summary><b>SQL</b></summary>
+		<pre><code class="hljs language-sql">WITH hörspielDauer AS (
   SELECT hörspielID, SUM(dauer) AS dauer
   FROM hörspiel JOIN kapitel USING (hörspielID) JOIN track USING (trackID)
   GROUP BY hörspielID
@@ -303,135 +300,128 @@ rootHörspiel AS (
 SELECT titel as Titel, dauer/1000 as Sekunden
 FROM rootHörspiel JOIN hörspiel USING (hörspielID) JOIN multiHörspielDauer USING (hörspielID)
 ORDER BY dauer DESC LIMIT 10</code></pre>
-</details>
+	</details>
 </div>
-
 <div class="statistic">
-<div class="inline">
-<div>
-<h3>Gesamtdauer aller Hörspiele:</h3>
-<h4>in Stunden</h4>
-</div>
-<div>
-<table class="datatable">
-<tr>
-	<td class="cell_data">449,22</td>
-</tr>
-</table>
-</div>
-</div>
-<details>
-	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">SELECT ROUND(SUM(dauer)/1000/3600.0, 2)
+	<div class="inline">
+		<div>
+			<h3>Gesamtdauer aller Hörspiele:</h3>
+			<h4>in Stunden</h4>
+		</div>
+		<div>
+			<table class="datatable">
+				<tr>
+					<td class="cell_data">449,22</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<details>
+		<summary><b>SQL</b></summary>
+		<pre><code class="hljs language-sql">SELECT ROUND(SUM(dauer)/1000/3600.0, 2)
 FROM kapitel JOIN track USING (trackID)</code></pre>
-</details>
+	</details>
 </div>
-
 <div class="statistic">
-<div class="inline">
-<div>
-<h3>Anzahl an Hörspielen:</h3>
-<h4>ohne Teile</h4>
-</div>
-<div>
-<table class="datatable">
-<tr>
-	<td class="cell_data">385</td>
-</tr>
-</table>
-</div>
-</div>
-<details>
-	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM hörspiel h
+	<div class="inline">
+		<div>
+			<h3>Anzahl an Hörspielen:</h3>
+			<h4>ohne Teile</h4>
+		</div>
+		<div>
+			<table class="datatable">
+				<tr>
+					<td class="cell_data">385</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<details>
+		<summary><b>SQL</b></summary>
+		<pre><code class="hljs language-sql">SELECT COUNT(*) FROM hörspiel h
 WHERE NOT EXISTS (
   SELECT * FROM hörspielTeil ht WHERE ht.teil = h.hörspielID
 )</code></pre>
-</details>
+	</details>
 </div>
-
 <div class="statistic">
-<div class="inline">
-<div>
-<h3>Anzahl an Sprechern:</h3>
-</div>
-<div>
-<table class="datatable">
-<tr>
-	<td class="cell_data">1213</td>
-</tr>
-</table>
-</div>
-</div>
-<details>
-	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
+	<div class="inline">
+		<div>
+			<h3>Anzahl an Sprechern:</h3>
+		</div>
+		<div>
+			<table class="datatable">
+				<tr>
+					<td class="cell_data">1213</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<details>
+		<summary><b>SQL</b></summary>
+		<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
   SELECT DISTINCT personID FROM spricht
 )</code></pre>
-</details>
+	</details>
 </div>
-
 <div class="statistic">
-<div class="inline">
-<div>
-<h3>Anzahl an Rollen:</h3>
+	<div class="inline">
+		<div>
+			<h3>Anzahl an Rollen:</h3>
+		</div>
+		<div>
+			<table class="datatable">
+				<tr>
+					<td class="cell_data">2489</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<details>
+		<summary><b>SQL</b></summary>
+		<pre><code class="hljs language-sql">SELECT COUNT(*) FROM rolle</code></pre>
+	</details>
 </div>
-<div>
-<table class="datatable">
-<tr>
-	<td class="cell_data">2489</td>
-</tr>
-</table>
-</div>
-</div>
-<details>
-	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM rolle</code></pre>
-</details>
-</div>
-
 <div class="statistic">
-<div class="inline">
-<div>
-<h3>Anzahl an Buchautoren:</h3>
-</div>
-<div>
-<table class="datatable">
-<tr>
-	<td class="cell_data">28</td>
-</tr>
-</table>
-</div>
-</div>
-<details>
-	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
+	<div class="inline">
+		<div>
+			<h3>Anzahl an Buchautoren:</h3>
+		</div>
+		<div>
+			<table class="datatable">
+				<tr>
+					<td class="cell_data">28</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<details>
+		<summary><b>SQL</b></summary>
+		<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
   SELECT DISTINCT personID FROM hörspielBuchautor
 )</code></pre>
-</details>
+	</details>
 </div>
-
 <div class="statistic">
-<div class="inline">
-<div>
-<h3>Anzahl an Hörspielskriptautoren:</h3>
-</div>
-<div>
-<table class="datatable">
-<tr>
-	<td class="cell_data">13</td>
-</tr>
-</table>
-</div>
-</div>
-<details>
-	<summary><b>SQL</b></summary>
-	<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
+	<div class="inline">
+		<div>
+			<h3>Anzahl an Hörspielskriptautoren:</h3>
+		</div>
+		<div>
+			<table class="datatable">
+				<tr>
+					<td class="cell_data">13</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<details>
+		<summary><b>SQL</b></summary>
+		<pre><code class="hljs language-sql">SELECT COUNT(*) FROM (
   SELECT DISTINCT personID FROM hörspielSkriptautor
 )</code></pre>
-</details>
+	</details>
 </div>
-
 
 </div>
 

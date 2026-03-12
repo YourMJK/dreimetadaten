@@ -29,10 +29,6 @@ class StatisticsPageBuilder: PageBuilder {
 		decimalFormatter.numberStyle = .decimal
 		decimalFormatter.usesGroupingSeparator = false
 		
-		func addLine(_ line: String) {
-			content.append(line)
-			content.append("\n")
-		}
 		func format(_ value: DatabaseValue) -> String {
 			switch value.storage {
 				case .string(let string): return string
@@ -41,7 +37,9 @@ class StatisticsPageBuilder: PageBuilder {
 			}
 		}
 		func createSection(title: String, subtitle: String? = nil, description: String? = nil, inline: Bool = false, noHeaders: Bool = false, query: String) throws {
-			addLine("<div class=\"statistic\">")
+			let node = HTML.div().class("statistic").indent()
+			var headingNode: HTML.Node = node
+			var contentNode: HTML.Node = node
 			
 			// Query result
 			let rows = try Row.fetchAll(db, sql: query)
@@ -53,61 +51,67 @@ class StatisticsPageBuilder: PageBuilder {
 			var title = title
 			if inline {
 				title.append(":")
-				addLine("<div class=\"inline\">")
-				addLine("<div>")
+				
+				headingNode = HTML.div().indent()
+				contentNode = HTML.div().indent()
+				node.content {
+					HTML.div().class("inline").indent().content {[
+						headingNode,
+						contentNode
+					]}
+				}
 			}
 			
 			// Title
-			addLine("<h3>\(title)</h3>")
-			if let subtitle {
-				addLine("<h4>\(subtitle)</h4>")
+			headingNode.content {
+				HTML.h(3).content { title }
 			}
-			
-			if inline {
-				addLine("</div>")
-				addLine("<div>")
+			if let subtitle {
+				headingNode.content {
+					HTML.h(4).content { subtitle }
+				}
 			}
 			
 			// Table
-			let table = TableBuilder()
-			table.startTable(class: .datatable)
+			let table = TableBuilder(class: .datatable)
 			// Headers
 			if !noHeaders {
-				table.startRow()
+				table.addRow()
 				columnNames.forEach {
 					table.addCell(type: .th, content: $0)
 				}
-				table.endRow()
 			}
 			// Data
 			for row in rows {
-				table.startRow()
+				table.addRow()
 				row.databaseValues.enumerated().forEach {
 					let first = $0.offset == 0 && row.count != 1
 					table.addCell(class: first ? .nr : .data, content: format($0.element))
 				}
-				table.endRow()
 			}
-			table.endTable()
 			
-			content.append(table.content)
-			
-			if inline {
-				addLine("</div>")
-				addLine("</div>")
-			}
+			contentNode.content { table.table }
 			
 			if let description {
-				addLine("<p>\(description)</p>")
+				node.content {
+					HTML.p().content { description }
+				}
 			}
 			
 			// Query
-			addLine("<details>")
-			addLine("\t<summary><b>SQL</b></summary>")
-			addLine("\t<pre><code class=\"hljs language-sql\">\(query)</code></pre>")
-			addLine("</details>")
+			node.content {
+				HTML.details().indent().content {[
+					HTML.summary().content {
+						HTML.b().content { "SQL" }
+					},
+					HTML.pre().content {
+						HTML.code().class("hljs language-sql").content { query }
+					},
+				]}
+			}
 			
-			addLine("</div>\n")
+			node.serialize(into: &content)
+			content.append("\n")
 		}
 		func createSingleSection(title: String, subtitle: String? = nil, description: String? = nil, query: String) throws {
 			try createSection(title: title, subtitle: subtitle, description: description, inline: true, noHeaders: true, query: query)
