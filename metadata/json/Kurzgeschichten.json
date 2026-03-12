@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.8.16",
-    "lastModified" : "2026-02-25T15:03:35Z"
+    "version" : "2.9.0",
+    "lastModified" : "2026-03-12T18:21:12Z"
   },
   "kurzgeschichten" : [
     {
@@ -149,6 +149,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/metadata.json",
+        "artwork" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/cover.png",
         "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/und-die-geisterlampe",
         "appleMusic" : "https://music.apple.com/de/album/1092546618",
@@ -981,6 +982,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json",
+        "artwork" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/cover.png",
         "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/das-ratsel-der-sieben",
         "appleMusic" : "https://music.apple.com/de/album/1092549930",
@@ -1762,6 +1764,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/metadata.json",
+        "artwork" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/cover.png",
         "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/und-der-zeitgeist-sechs-kurzgeschichten",
         "appleMusic" : "https://music.apple.com/de/album/1149379770",
@@ -2455,6 +2458,7 @@
       ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/metadata.json",
+        "artwork" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/cover.png",
         "appleMusic" : "https://music.apple.com/de/album/1436692770",
         "spotify" : "https://open.spotify.com/intl-de/album/7ehMwTyKuIM4zdiltMxE4X",

@@ -117,6 +117,7 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/125/metadata.json",
+    "artwork" : "http://dreimetadaten.de/data/Serie/125/artwork.webp",
     "cover" : "http://dreimetadaten.de/data/Serie/125/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music71/v4/fc/8a/f6/fc8af66f-bb6d-b637-a1b7-3dbe445281e6/source",
     "cover_kosmos" : "http://web.archive.org/web/20211227022657if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/59/91/e0/0828766712520.jpg",
@@ -493,6 +494,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/125/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/1/ffmetadata.txt",
+        "artwork" : "http://dreimetadaten.de/data/Serie/125/1/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Serie/125/1/cover.png"
       },
       "ids" : {
@@ -656,6 +658,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/125/2/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/2/ffmetadata.txt",
+        "artwork" : "http://dreimetadaten.de/data/Serie/125/2/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Serie/125/2/cover.png"
       },
       "ids" : {
@@ -829,6 +832,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/125/3/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/125/3/ffmetadata.txt",
+        "artwork" : "http://dreimetadaten.de/data/Serie/125/3/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Serie/125/3/cover.png"
       },
       "ids" : {

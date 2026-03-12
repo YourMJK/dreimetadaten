@@ -254,6 +254,14 @@
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/200/metadata.json",
     "ffmetadata" : "http://dreimetadaten.de/data/Serie/200/ffmetadata.txt",
+    "artwork" : "http://dreimetadaten.de/data/Serie/200/artwork.webp",
+    "artwork2" : [
+      "http://dreimetadaten.de/data/Serie/200/artwork2.webp",
+      "http://dreimetadaten.de/data/Serie/200/artwork3.webp",
+      "http://dreimetadaten.de/data/Serie/200/artwork4.webp",
+      "http://dreimetadaten.de/data/Serie/200/artwork5.webp",
+      "http://dreimetadaten.de/data/Serie/200/artwork6.webp"
+    ],
     "cover" : "http://dreimetadaten.de/data/Serie/200/cover.png",
     "cover2" : [
       "http://dreimetadaten.de/data/Serie/200/cover2.png",

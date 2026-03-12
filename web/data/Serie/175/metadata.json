@@ -147,6 +147,7 @@
   ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/175/metadata.json",
+    "artwork" : "http://dreimetadaten.de/data/Serie/175/artwork.webp",
     "cover" : "http://dreimetadaten.de/data/Serie/175/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/us/r30/Music111/v4/c9/06/4e/c9064ea2-b476-e29b-33dd-182f11650b02/source",
     "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/schattenwelt",
@@ -500,6 +501,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/175/1/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/1/ffmetadata.txt",
+        "artwork" : "http://dreimetadaten.de/data/Serie/175/1/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Serie/175/1/cover.png"
       },
       "ids" : {
@@ -636,6 +638,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/175/2/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/2/ffmetadata.txt",
+        "artwork" : "http://dreimetadaten.de/data/Serie/175/2/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Serie/175/2/cover.png"
       },
       "ids" : {
@@ -759,6 +762,7 @@
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/175/3/metadata.json",
         "ffmetadata" : "http://dreimetadaten.de/data/Serie/175/3/ffmetadata.txt",
+        "artwork" : "http://dreimetadaten.de/data/Serie/175/3/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Serie/175/3/cover.png"
       },
       "ids" : {
