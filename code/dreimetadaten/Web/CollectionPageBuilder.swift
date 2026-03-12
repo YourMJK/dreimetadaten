@@ -36,6 +36,7 @@ class CollectionPageBuilder: PageBuilder {
 		// Check optional links
 		typealias LinkKeyPath = KeyPath<MetadataObjectModel.Links, String?>
 		let optionalLinks: [LinkKeyPath] = [
+			\.artwork,
 			\.cover,
 			\.cover_itunes,
 			\.cover_kosmos,
@@ -56,6 +57,7 @@ class CollectionPageBuilder: PageBuilder {
 		// Headers
 		table.addRow()
 		let hasRipLog = collection.compactMap(\.medien).joined().contains { $0.ripLog != nil }
+		let hasArtwork = hasLink[\.artwork]!
 		let headerCoverWidth = countLinks([\.cover, \.cover_itunes, \.cover_kosmos])
 		let headerPlattformWidth = countLinks([\.dreifragezeichen, \.appleMusic, \.spotify])
 		let headerNr = "Nr."
@@ -84,15 +86,25 @@ class CollectionPageBuilder: PageBuilder {
 			table.addCell(type: .th, content: "Rip")
 		}
 		table.addCell(type: .th, width: headerCoverWidth, content: "Cover")
+		if hasArtwork {
+			table.addCell(type: .th, content: "Artwork")
+		}
 		table.addCell(type: .th, width: headerPlattformWidth, content: "Plattform")
 		
 		// Content
-		func icon(_ filename: String) -> HTML.Node {
-			HTML.img().src("icons/\(filename)")
+		func icon(_ filename: String, title: String) -> HTML.Node {
+			HTML.img().src("icons/\(filename)").attribute(key: "title", value: title)
 		}
-		let iconDDF = icon("ddf_link.svg")
-		let iconAM = icon("am_link.svg")
-		let iconSpotify = icon("spotify_link.svg")
+		func iconWithSuffix(icon: HTML.Node, suffix: HTML.Content) -> HTML.Node {
+			HTML.span().class("icon_suffix").content {[
+				icon,
+				suffix
+			]}
+		}
+		let iconDM = icon("dm_link.svg", title: "dreimetadaten")
+		let iconDDF = icon("ddf_link.svg", title: "dreifragezeichen.de")
+		let iconAM = icon("am_link.svg", title: "Amazon Music")
+		let iconSpotify = icon("spotify_link.svg", title: "Spotify")
 		let listSymbol = "└╴"
 		
 		func formatLeadingZeros(max count: Int) -> String {
@@ -190,6 +202,18 @@ class CollectionPageBuilder: PageBuilder {
 			func addOptionalIconLink(_ node: HTML.Node, _ keyPath: LinkKeyPath) throws {
 				try addOptionalLink(node, keyPath, cellClass: .icon)
 			}
+			func addOptionalLinks(
+				primary: (content: HTML.Content, keyPath: LinkKeyPath),
+				secondary: (content: (UInt) -> HTML.Content, keyPath: KeyPath<MetadataObjectModel.Links, [String]?>),
+				cellClass: TableBuilder.CellClass = .data
+			) throws {
+				guard hasLink[primary.keyPath]! else { return }
+				var links: [(HTML.Content, String?)] = [(primary.content, hörspiel.links?[keyPath: primary.keyPath])]
+				hörspiel.links?[keyPath: secondary.keyPath]?.enumerated().forEach { (index, link) in
+					links.append((secondary.content(UInt(index+2)), link))
+				}
+				try addLinks(links, cellClass: cellClass)
+			}
 			// Metadaten
 			try addLinks([("JSON", \.json)])
 			try addLinks([("FFmetadata", \.ffmetadata)])
@@ -202,16 +226,19 @@ class CollectionPageBuilder: PageBuilder {
 				})
 			}
 			// Cover
-			if hasLink[\.cover]! {
-				let name = "dreimetadaten"
-				var coverLinks: [(String, String?)] = [(name, hörspiel.links?.cover)]
-				hörspiel.links?.cover2?.enumerated().forEach { (index, cover) in
-					coverLinks.append(("\(name)\(index+2)", cover))
-				}
-				try addLinks(coverLinks)
-			}
+			try addOptionalLinks(
+				primary: (iconDM, \.cover),
+				secondary: ({ iconWithSuffix(icon: iconDM, suffix: "\($0)") }, \.cover2),
+				cellClass: .icon
+			)
 			try addOptionalLink("iTunes", \.cover_itunes)
 			try addOptionalLink("Kosmos", \.cover_kosmos)
+			// Artwork
+			try addOptionalLinks(
+				primary: (iconDM, \.artwork),
+				secondary: ({ iconWithSuffix(icon: iconDM, suffix: "\($0)") }, \.artwork2),
+				cellClass: .icon
+			)
 			// Plattform
 			try addOptionalIconLink(iconDDF, \.dreifragezeichen)
 			try addOptionalIconLink(iconAM, \.appleMusic)
