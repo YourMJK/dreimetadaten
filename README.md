@@ -6,7 +6,7 @@
 Vollständige und korrekte Metadaten zu allen *Die drei ???* Folgen, inklusive Spezial-Folgen, *DiE DR3i*, Kurzgeschichten und *Die drei ??? Kids*.
 
 Darunter:
-* Hochauflösende Coverbilder
+* Hochauflösende Coverbilder und Artworks
 * Kapiteldaten mit Zeitangaben
 * Sprecher- und Rollenangaben
 * Veröffentlichungsdaten
@@ -59,6 +59,7 @@ CREATE TABLE "hörspiel"(
   "metabeschreibung" TEXT,
   "veröffentlichungsdatum" DATE,
   "unvollständig" BOOLEAN NOT NULL,
+  "artwork" INTEGER NOT NULL CHECK("artwork" >= 0),
   "cover" INTEGER NOT NULL CHECK("cover" >= 0),
   "urlCoverApple" TEXT,
   "urlCoverKosmos" TEXT,
@@ -242,6 +243,8 @@ struct Sprechrolle {
 struct Links {
   var json: String?
   var ffmetadata: String?
+  var artwork: String?
+  var artwork2: [String]?
   var cover: String?
   var cover2: [String]?
   var cover_itunes: String?

@@ -122,6 +122,12 @@ struct WebDataExporter {
 				try jsonString.write(to: jsonURL, atomically: true, encoding: .utf8)
 			}
 			
+			// Check artwork files
+			_ = try hörspiel.links?.artwork.map(fileURL(for:))
+			try hörspiel.links?.artwork2?.forEach {
+				_ = try fileURL(for: $0)
+			}
+			
 			// Check cover files
 			_ = try hörspiel.links?.cover.map(fileURL(for:))
 			try hörspiel.links?.cover2?.forEach {

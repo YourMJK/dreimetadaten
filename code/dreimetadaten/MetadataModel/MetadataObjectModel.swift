@@ -110,6 +110,8 @@ extension MetadataObjectModel {
 	struct Links: Codable {
 		var json: String?
 		var ffmetadata: String?
+		var artwork: String?
+		var artwork2: [String]?
 		var cover: String?
 		var cover2: [String]?
 		var cover_itunes: String?
@@ -218,6 +220,8 @@ extension MetadataObjectModel {
 			
 			"json",
 			"ffmetadata",
+			"artwork",
+			"artwork2",
 			"cover",
 			"cover2",
 			"cover_itunes",
@@ -497,6 +501,18 @@ extension MetadataObjectModel {
 			let beschreibungComponents = [hörspiel.kurzbeschreibung, hörspiel.beschreibung].compactMap { $0 }
 			let gesamtbeschreibung = beschreibungComponents.isEmpty ? hörspiel.metabeschreibung : beschreibungComponents.joined(separator: "\n")
 			
+			// artwork & cover
+			func numberedFileName(name: String, extension ext: String, number: UInt?) -> String {
+				let suffix: String = number.map { "\($0)" } ?? ""
+				return "\(name)\(suffix).\(ext)"
+			}
+			func artworkFileName(number: UInt? = nil) -> String {
+				numberedFileName(name: "artwork", extension: "webp", number: number)
+			}
+			func coverFileName(number: UInt? = nil) -> String {
+				numberedFileName(name: "cover", extension: "png", number: number)
+			}
+			
 			// Create and remember object model item
 			let hörspielObject = Hörspiel()
 			hörspielObject.titel = hörspiel.titel
@@ -514,8 +530,10 @@ extension MetadataObjectModel {
 			hörspielObject.links = Links(
 				json: "metadata.json",
 				ffmetadata: !hörspiel.unvollständig ? "ffmetadata.txt" : nil,
-				cover: hörspiel.cover > 0 ? "cover.png" : nil,
-				cover2: hörspiel.cover > 1 ? (2...hörspiel.cover).map { "cover\($0).png" } : nil,
+				artwork: hörspiel.artwork > 0 ? artworkFileName() : nil,
+				artwork2: hörspiel.artwork > 1 ? (2...hörspiel.artwork).map(artworkFileName(number:)) : nil,
+				cover: hörspiel.cover > 0 ? coverFileName() : nil,
+				cover2: hörspiel.cover > 1 ? (2...hörspiel.cover).map(coverFileName(number:)) : nil,
 				cover_itunes: hörspiel.urlCoverApple,
 				cover_kosmos: hörspiel.urlCoverKosmos,
 				dreifragezeichen: hörspiel.urlDreifragezeichen,
@@ -605,6 +623,10 @@ extension MetadataObjectModel {
 			if hörspiel.links != nil {
 				prepend(to: &hörspiel.links!.json)
 				prepend(to: &hörspiel.links!.ffmetadata)
+				prepend(to: &hörspiel.links!.artwork)
+				hörspiel.links!.artwork2?.indices.forEach {
+					prepend(to: &hörspiel.links!.artwork2![$0])
+				}
 				prepend(to: &hörspiel.links!.cover)
 				hörspiel.links!.cover2?.indices.forEach {
 					prepend(to: &hörspiel.links!.cover2![$0])

@@ -54,6 +54,8 @@ struct Sprechrolle {
 struct Links {
 	var json: String?
 	var ffmetadata: String?
+	var artwork: String?
+	var artwork2: [String]?
 	var cover: String?
 	var cover2: [String]?
 	var cover_itunes: String?

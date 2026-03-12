@@ -82,6 +82,7 @@ extension MetadataRelationalModel {
 		var metabeschreibung: String?
 		var veröffentlichungsdatum: DatabaseDateComponents?
 		var unvollständig: Bool
+		var artwork: UInt
 		var cover: UInt
 		var urlCoverApple: String?
 		var urlCoverKosmos: String?
