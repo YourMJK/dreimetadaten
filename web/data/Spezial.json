@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.9.0",
-    "lastModified" : "2026-03-12T18:21:12Z"
+    "version" : "2.9.1",
+    "lastModified" : "2026-03-13T20:01:44Z"
   },
   "spezial" : [
     {
@@ -7421,6 +7421,262 @@
             }
           ],
           "ripLog" : "http://dreimetadaten.de/data/Spezial/Das-Dorf-der-Teufel/rip_log2.txt"
+        }
+      ]
+    },
+    {
+      "titel" : "und die singende Schlange",
+      "autor" : "M. V. Carey",
+      "hörspielskriptautor" : "André Minninger",
+      "gesamtbeschreibung" : "Zugegeben, Mrs. Patricia Osborne ist eine etwas seltsame Dame. Ihrer Nichte Allie geht sie damit auf die Nerven, dass sie behauptet, Spinnweben seien hervorragende Heilkräuter.\nSie erzählt Allie, dass sie abends vor dem Schlafengehen mit einem Messer einen Kreis um ihr Bett zieht, um sich vor drohendem Unheil zu schützen. Außerdem lädt sie nachts zu geheimnisvollen Zusammenkünften ein.\nAllie bittet deshalb die drei ???, diesen Rätseln auf den Grund zu gehen. Unsere Detektive schleichen sich bei Mrs. Osborne ein und beobachten schauerliche Dinge. Was sie wohl gesehen haben?",
+      "beschreibung" : "Zugegeben, Mrs. Patricia Osborne ist eine etwas seltsame Dame. Ihrer Nichte Allie geht sie damit auf die Nerven, dass sie behauptet, Spinnweben seien hervorragende Heilkräuter.\nSie erzählt Allie, dass sie abends vor dem Schlafengehen mit einem Messer einen Kreis um ihr Bett zieht, um sich vor drohendem Unheil zu schützen. Außerdem lädt sie nachts zu geheimnisvollen Zusammenkünften ein.\nAllie bittet deshalb die drei ???, diesen Rätseln auf den Grund zu gehen. Unsere Detektive schleichen sich bei Mrs. Osborne ein und beobachten schauerliche Dinge. Was sie wohl gesehen haben?",
+      "veröffentlichungsdatum" : "2026-03-13",
+      "gesamtdauer" : 5419374,
+      "kapitel" : [
+        {
+          "titel" : "Das Mädchen auf der Schimmelstute",
+          "start" : 0,
+          "end" : 349467
+        },
+        {
+          "titel" : "Zuflucht bei Nacht",
+          "start" : 349467,
+          "end" : 646813
+        },
+        {
+          "titel" : "Die singende Schlange",
+          "start" : 646813,
+          "end" : 1265653
+        },
+        {
+          "titel" : "Hinter der Mauer",
+          "start" : 1265653,
+          "end" : 1759853
+        },
+        {
+          "titel" : "Ein Opfer der Schlange",
+          "start" : 1759853,
+          "end" : 2374520
+        },
+        {
+          "titel" : "Die goldene Kobra",
+          "start" : 2374520,
+          "end" : 2865387
+        },
+        {
+          "titel" : "Die Diamanten der Kaiserin",
+          "start" : 2865387,
+          "end" : 3171520
+        },
+        {
+          "titel" : "Dr. Shaitans Geister",
+          "start" : 3171520,
+          "end" : 3834454
+        },
+        {
+          "titel" : "Tante Patricia in Bedrängnis",
+          "start" : 3834454,
+          "end" : 4283560
+        },
+        {
+          "titel" : "Ein Opfer der Angst",
+          "start" : 4283560,
+          "end" : 4679147
+        },
+        {
+          "titel" : "Maras weiße Magie",
+          "start" : 4679147,
+          "end" : 5059027
+        },
+        {
+          "titel" : "Schluss mit der Schlangenbeschwörung",
+          "start" : 5059027,
+          "end" : 5419374
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Rüdiger Schulzki"
+        },
+        {
+          "rolle" : "Allie Jamison",
+          "sprecher" : "Katrin Fröhlich"
+        },
+        {
+          "rolle" : "Marie",
+          "sprecher" : "Susanne Wulkow"
+        },
+        {
+          "rolle" : "Patricia Osborne",
+          "sprecher" : "Barbara Focke"
+        },
+        {
+          "rolle" : "Madelyn Enderby",
+          "sprecher" : "Caroline Kiesewetter"
+        },
+        {
+          "rolle" : "Noxworth",
+          "sprecher" : "Mario Ramos"
+        },
+        {
+          "rolle" : "Asmodi",
+          "sprecher" : "Hanns-Jörg Krumpholz"
+        },
+        {
+          "rolle" : "Wache",
+          "sprecher" : "Wolfgang Kaven"
+        },
+        {
+          "rolle" : "Morton",
+          "sprecher" : "Michael Prelle"
+        },
+        {
+          "rolle" : "Hendricks",
+          "sprecher" : "André Beyer"
+        },
+        {
+          "rolle" : "Landstreicher",
+          "sprecher" : "Jürgen Thormann"
+        },
+        {
+          "rolle" : "Mara",
+          "sprecher" : "Katja Brügger"
+        },
+        {
+          "rolle" : "Dr. Shaitan",
+          "sprecher" : "Tim Grobe"
+        },
+        {
+          "rolle" : "Barrister/Bentley",
+          "sprecher" : "Douglas Welbat"
+        },
+        {
+          "rolle" : "TV-Sprecher",
+          "sprecher" : "Roman Rossa"
+        },
+        {
+          "rolle" : "Mrs. Compton",
+          "sprecher" : "Heidi Schaffrath"
+        },
+        {
+          "rolle" : "Krankenschwester",
+          "sprecher" : "Sarah Madeleine Tusk"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/und-die-singende-Schlange/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/und-die-singende-Schlange/ffmetadata.txt",
+        "artwork" : "http://dreimetadaten.de/data/Spezial/und-die-singende-Schlange/artwork.webp",
+        "cover" : "http://dreimetadaten.de/data/Spezial/und-die-singende-Schlange/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/42/e9/eb/42e9eb75-5234-c506-87ae-a4cdaf98a5ec/196873459097.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/die-singende-schlange-planetarium-special",
+        "appleMusic" : "https://music.apple.com/de/album/1860827440",
+        "spotify" : "https://open.spotify.com/intl-de/album/7pkVk9UgZBBcc2D2ySHaRM",
+        "amazonMusic" : "https://music.amazon.de/albums/B0G6L23M9X",
+        "amazon" : "https://www.amazon.de/gp/product/B0FR7S9WLT",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_sbw29j0PYZG",
+        "deezer" : "https://www.deezer.com/de/album/875916842"
+      },
+      "ids" : {
+        "dreimetadaten" : 434,
+        "appleMusic" : "1860827440",
+        "spotify" : "7pkVk9UgZBBcc2D2ySHaRM",
+        "amazonMusic" : "B0G6L23M9X",
+        "amazon" : "B0FR7S9WLT",
+        "youTubeMusic" : "MPREb_sbw29j0PYZG",
+        "deezer" : "875916842"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Das Mädchen auf der Schimmelstute",
+              "start" : 0,
+              "end" : 349467
+            },
+            {
+              "titel" : "Zuflucht bei Nacht",
+              "start" : 349467,
+              "end" : 646813
+            },
+            {
+              "titel" : "Die singende Schlange",
+              "start" : 646813,
+              "end" : 1265653
+            },
+            {
+              "titel" : "Hinter der Mauer",
+              "start" : 1265653,
+              "end" : 1759853
+            },
+            {
+              "titel" : "Ein Opfer der Schlange",
+              "start" : 1759853,
+              "end" : 2374520
+            },
+            {
+              "titel" : "Die goldene Kobra",
+              "start" : 2374520,
+              "end" : 2865387
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Spezial/und-die-singende-Schlange/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Die Diamanten der Kaiserin",
+              "start" : 0,
+              "end" : 306133
+            },
+            {
+              "titel" : "Dr. Shaitans Geister",
+              "start" : 306133,
+              "end" : 969067
+            },
+            {
+              "titel" : "Tante Patricia in Bedrängnis",
+              "start" : 969067,
+              "end" : 1418173
+            },
+            {
+              "titel" : "Ein Opfer der Angst",
+              "start" : 1418173,
+              "end" : 1813760
+            },
+            {
+              "titel" : "Maras weiße Magie",
+              "start" : 1813760,
+              "end" : 2193640
+            },
+            {
+              "titel" : "Schluss mit der Schlangenbeschwörung",
+              "start" : 2193640,
+              "end" : 2553987
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Spezial/und-die-singende-Schlange/rip_log2.txt"
         }
       ]
     }
