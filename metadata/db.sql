@@ -9776,7 +9776,7 @@ INSERT INTO person VALUES(793,'Achim Buch');
 INSERT INTO person VALUES(794,'Marion Gretchen Schmitz');
 INSERT INTO person VALUES(795,'Werner Wilkening');
 INSERT INTO person VALUES(796,'Tommi Piper');
-INSERT INTO person VALUES(797,'Hanns Jörg Krumpholz');
+INSERT INTO person VALUES(797,'Hanns-Jörg Krumpholz');
 INSERT INTO person VALUES(798,'Antje Birnbaum');
 INSERT INTO person VALUES(799,'Tim Heuer');
 INSERT INTO person VALUES(800,'Andreja Schneider');
