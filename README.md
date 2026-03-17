@@ -42,7 +42,7 @@ Folgende Projekte greifen bereits auf diesen Datensatz zurück:
 ## Struktur
 ### Relationales Modell (SQL-Datenbank, TSV)
 
-<a href="model/relationalModel.svg?raw=1">
+<a href="https://github.com/YourMJK/dreimetadaten/raw/refs/heads/master/model/relationalModel.svg">
   <img src="model/relationalModel.svg">
 </a>
 
@@ -178,7 +178,7 @@ CREATE TABLE "hörspielSkriptautor"(
 
 ### Objekt-orientiertes Modell (JSON)
 
-<a href="model/objectModel.svg?raw=1">
+<a href="https://github.com/YourMJK/dreimetadaten/raw/refs/heads/master/model/objectModel.svg">
   <img src="model/objectModel.svg">
 </a>
 
