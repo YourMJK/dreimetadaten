@@ -5,12 +5,19 @@
   "veröffentlichungsdatum" : "2026-03-20",
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/238/metadata.json",
+    "artwork" : "http://dreimetadaten.de/data/Serie/238/artwork.webp",
+    "cover" : "http://dreimetadaten.de/data/Serie/238/cover.png",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/86/77/56/86775613-2332-d457-7efb-5844627d168c/196873622682.jpg",
+    "appleMusic" : "https://music.apple.com/de/album/1874900327",
     "bookbeat" : "https://www.bookbeat.com/de/book/1877246",
+    "amazonMusic" : "https://music.amazon.de/albums/B0GM118148",
     "amazon" : "https://www.amazon.de/gp/product/B0G2PMWSRN"
   },
   "ids" : {
     "dreimetadaten" : 429,
+    "appleMusic" : "1874900327",
     "bookbeat" : "1877246",
+    "amazonMusic" : "B0GM118148",
     "amazon" : "B0G2PMWSRN"
   },
   "unvollständig" : true
