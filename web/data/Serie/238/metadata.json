@@ -2,23 +2,178 @@
   "nummer" : 238,
   "titel" : "Falsche Schuld",
   "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "gesamtbeschreibung" : "Eine geteilte Insel, eine spirituelle Sekte und ein Einbruch. Die drei ??? finden heraus, wer Schuld hat und wer nicht.\nJustus, Peter und Bob werden Zeugen eines Einbruchs, doch der Täter entkommt ihnen knapp. Alles, was sie finden, ist eine Holzkugel mit einem seltsamen Symbol. Alle Spuren führen nach Holy Island, einer Insel vor der Küste von Rocky Beach. Rubbish George bringt sie auf seinem Boot dort hin. Aber nicht nur die Überfahrt gestaltet sich schwieriger als gedacht …\nDie heilige Insel ist ein Ort der Zwietracht. Können die drei Detektive den Einbrecher dingfest machen?",
+  "kurzbeschreibung" : "Eine geteilte Insel, eine spirituelle Sekte und ein Einbruch. Die drei ??? finden heraus, wer Schuld hat und wer nicht.",
+  "beschreibung" : "Justus, Peter und Bob werden Zeugen eines Einbruchs, doch der Täter entkommt ihnen knapp. Alles, was sie finden, ist eine Holzkugel mit einem seltsamen Symbol. Alle Spuren führen nach Holy Island, einer Insel vor der Küste von Rocky Beach. Rubbish George bringt sie auf seinem Boot dort hin. Aber nicht nur die Überfahrt gestaltet sich schwieriger als gedacht …\nDie heilige Insel ist ein Ort der Zwietracht. Können die drei Detektive den Einbrecher dingfest machen?",
   "veröffentlichungsdatum" : "2026-03-20",
+  "gesamtdauer" : 4767493,
+  "kapitel" : [
+    {
+      "titel" : "Auf frischer Tat",
+      "start" : 0,
+      "end" : 701987
+    },
+    {
+      "titel" : "Die Holzkugel",
+      "start" : 701987,
+      "end" : 1411813
+    },
+    {
+      "titel" : "Videostars",
+      "start" : 1411813,
+      "end" : 2281267
+    },
+    {
+      "titel" : "Ungereimtheiten",
+      "start" : 2281267,
+      "end" : 2833200
+    },
+    {
+      "titel" : "Übler Scherz",
+      "start" : 2833200,
+      "end" : 3815947
+    },
+    {
+      "titel" : "Der wahre Retter",
+      "start" : 3815947,
+      "end" : 4767493
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Rubbish George",
+      "sprecher" : "Stefan Krause"
+    },
+    {
+      "rolle" : "Jessy Winters",
+      "sprecher" : "Alexandra Wilcke"
+    },
+    {
+      "rolle" : "Officer",
+      "sprecher" : "Wanja Mues"
+    },
+    {
+      "rolle" : "Henry van Istor",
+      "sprecher" : "Ronny Krappmann"
+    },
+    {
+      "rolle" : "Scott King",
+      "sprecher" : "Till Huster"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Inspektor Cotta",
+      "sprecher" : "Holger Mahlich"
+    },
+    {
+      "rolle" : "Chris",
+      "sprecher" : "Jannik Endemann"
+    },
+    {
+      "rolle" : "Nhi-Mai",
+      "sprecher" : "Julia Fölster"
+    },
+    {
+      "rolle" : "Joe",
+      "sprecher" : "Andreas Birnbaum"
+    },
+    {
+      "rolle" : "Frank Resnick",
+      "sprecher" : "Frank Roder"
+    },
+    {
+      "rolle" : "William",
+      "sprecher" : "Stefan Brönneke"
+    },
+    {
+      "rolle" : "Lauderburgh",
+      "sprecher" : "Constantin von Westphalen"
+    },
+    {
+      "rolle" : "Hafenmeisterin Anne",
+      "sprecher" : "Christiane Leuchtmann"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/238/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/238/ffmetadata.txt",
     "artwork" : "http://dreimetadaten.de/data/Serie/238/artwork.webp",
     "cover" : "http://dreimetadaten.de/data/Serie/238/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/86/77/56/86775613-2332-d457-7efb-5844627d168c/196873622682.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/die-falsche-schuld",
     "appleMusic" : "https://music.apple.com/de/album/1874900327",
+    "spotify" : "https://open.spotify.com/intl-de/album/00Pxqrupz6xjkI0vd4Otxb",
     "bookbeat" : "https://www.bookbeat.com/de/book/1877246",
     "amazonMusic" : "https://music.amazon.de/albums/B0GM118148",
-    "amazon" : "https://www.amazon.de/gp/product/B0G2PMWSRN"
+    "amazon" : "https://www.amazon.de/gp/product/B0G2PMWSRN",
+    "youTubeMusic" : "https://music.youtube.com/browse/MPREb_aX7IJH3RBWY",
+    "deezer" : "https://www.deezer.com/de/album/913235691"
   },
   "ids" : {
     "dreimetadaten" : 429,
     "appleMusic" : "1874900327",
+    "spotify" : "00Pxqrupz6xjkI0vd4Otxb",
     "bookbeat" : "1877246",
     "amazonMusic" : "B0GM118148",
-    "amazon" : "B0G2PMWSRN"
+    "amazon" : "B0G2PMWSRN",
+    "youTubeMusic" : "MPREb_aX7IJH3RBWY",
+    "deezer" : "913235691"
   },
-  "unvollständig" : true
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Auf frischer Tat",
+          "start" : 0,
+          "end" : 701987
+        },
+        {
+          "titel" : "Die Holzkugel",
+          "start" : 701987,
+          "end" : 1411813
+        },
+        {
+          "titel" : "Videostars",
+          "start" : 1411813,
+          "end" : 2281267
+        },
+        {
+          "titel" : "Ungereimtheiten",
+          "start" : 2281267,
+          "end" : 2833200
+        },
+        {
+          "titel" : "Übler Scherz",
+          "start" : 2833200,
+          "end" : 3815947
+        },
+        {
+          "titel" : "Der wahre Retter",
+          "start" : 3815947,
+          "end" : 4767493
+        }
+      ],
+      "ripLog" : "http://dreimetadaten.de/data/Serie/238/rip_log.txt"
+    }
+  ]
 }
