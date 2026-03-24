@@ -44,8 +44,13 @@
 	--color-background: #FCFCFC;
 	--color-tablerowHoverBG: rgba(0,0,0,0.05);
 	--color-tablerowIncompleteBG: rgba(237,27,35,0.125);
+	--color-tablerowHeaderBG: rgb(239,239,239); /* var(--color-tablerowHoverBG) + var(--color-background) */
 	
 	--line-style: 0.05em solid var(--color-gray1);
+	--line-style2: var(--line-style2-width) var(--line-style2-style) var(--line-style2-color);
+	--line-style2-width: 0.1em;
+	--line-style2-style: solid;
+	--line-style2-color: var(--color-gray0);
 	
 	box-sizing: border-box;
 }
@@ -203,14 +208,26 @@ footer {
 	line-height: 1.2;
 	border-collapse: collapse;
 }
-.datatable th, .datatable td {
+.datatable thead {
+	position: sticky;
+	top: calc(var(--line-style2-width) / 2);
+	background-color: var(--color-tablerowHeaderBG);
+	outline: var(--line-style2);
+}
+.datatable th {
+	outline: var(--line-style2);
+	outline-width: calc(var(--line-style2-width) / 2);
+}
+.datatable td {
 	border: var(--line-style);
+}
+.datatable th, .datatable td {
 	padding: 0.25em 0.5em;
 }
 .datatable tr {
 	background-color: transparent;
 }
-.datatable tr:hover {
+.datatable tbody tr:hover {
 	background-color: var(--color-tablerowHoverBG);
 }
 .datatable .row_incomplete {

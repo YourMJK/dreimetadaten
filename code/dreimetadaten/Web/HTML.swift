@@ -97,6 +97,8 @@ extension String: HTML.Content {
 
 extension HTML {
 	static func table() -> Node { Node(tag: "table") }
+	static func thead() -> Node { Node(tag: "thead") }
+	static func tbody() -> Node { Node(tag: "tbody") }
 	static func tr() -> Node { Node(tag: "tr") }
 	static func th() -> Node { Node(tag: "th") }
 	static func td() -> Node { Node(tag: "td") }

@@ -76,7 +76,7 @@ class StatisticsPageBuilder: PageBuilder {
 			let table = TableBuilder(class: .datatable)
 			// Headers
 			if !noHeaders {
-				table.addRow()
+				table.addHeaderRow()
 				columnNames.forEach {
 					table.addCell(type: .th, content: $0)
 				}

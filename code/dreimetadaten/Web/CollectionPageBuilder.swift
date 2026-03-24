@@ -60,7 +60,7 @@ class CollectionPageBuilder: PageBuilder {
 		}
 		
 		// Headers
-		table.addRow()
+		table.addHeaderRow()
 		let hasRipLog = collection.compactMap(\.medien).joined().contains { $0.ripLog != nil }
 		let hasArtwork = hasLink[\.artwork]!
 		let headerCoverWidth = countLinks([\.cover, \.cover_itunes, \.cover_kosmos])

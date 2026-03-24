@@ -10,10 +10,20 @@ import Foundation
 
 class TableBuilder {
 	let table: HTML.Node
-	var currentRow: HTML.Node?
+	let thead: HTML.Node
+	let tbody: HTML.Node
+	var currentHeaderRow: HTML.Node?
+	var currentBodyRow: HTML.Node?
 	
 	init(class tableClass: TableClass) {
-		self.table = HTML.table().class(tableClass.rawValue).indent()
+		let thead = HTML.thead().indent()
+		let tbody = HTML.tbody().indent()
+		self.table = HTML.table().class(tableClass.rawValue).indent().content {[
+			thead,
+			tbody
+		]}
+		self.thead = thead
+		self.tbody = tbody
 	}
 	
 	enum CellType: String {
@@ -35,11 +45,17 @@ class TableBuilder {
 	func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, lines: [HTML.Content]) {
 		guard width != 0 else { return }
 		
-		let cell: HTML.Node =
-			switch type {
-				case .th: HTML.th()
-				case .td: HTML.td()
-			}
+		let cell: HTML.Node
+		let row: HTML.Node?
+		switch type {
+			case .th:
+				cell = HTML.th()
+				row = currentHeaderRow
+			case .td:
+				cell = HTML.td()
+				row = currentBodyRow
+		}
+		guard let row else { return }
 		
 		if let cellClass {
 			cell.class(cellClass.rawValue)
@@ -57,7 +73,7 @@ class TableBuilder {
 			cell.content { line }
 		}
 		
-		currentRow?.content { cell }
+		row.content { cell }
 	}
 	
 	func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, content: HTML.Content) {
@@ -70,13 +86,22 @@ class TableBuilder {
 		}
 	}
 	
-	func addRow(class rowClass: RowClass? = nil) {
+	private func newRow(rowClass: RowClass?) -> HTML.Node {
 		let row = HTML.tr().indent()
 		if let rowClass {
 			row.class(rowClass.rawValue)
 		}
-		table.content { row }
-		currentRow = row
+		return row
+	}
+	func addRow(class rowClass: RowClass? = nil) {
+		let row = newRow(rowClass: rowClass)
+		tbody.content { row }
+		currentBodyRow = row
+	}
+	func addHeaderRow(class rowClass: RowClass? = nil) {
+		let row = newRow(rowClass: rowClass)
+		thead.content { row }
+		currentHeaderRow = row
 	}
 	
 	func serialize() -> String {
