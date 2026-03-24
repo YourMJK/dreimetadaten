@@ -42,7 +42,12 @@ class CollectionPageBuilder: PageBuilder {
 			\.cover_kosmos,
 			\.dreifragezeichen,
 			\.appleMusic,
-			\.spotify
+			\.spotify,
+			\.bookbeat,
+			\.amazonMusic,
+			\.amazon,
+			\.youTubeMusic,
+			\.deezer,
 		]
 		var hasLink: [LinkKeyPath: Bool] = [:]
 		for keyPath in optionalLinks {
@@ -59,7 +64,9 @@ class CollectionPageBuilder: PageBuilder {
 		let hasRipLog = collection.compactMap(\.medien).joined().contains { $0.ripLog != nil }
 		let hasArtwork = hasLink[\.artwork]!
 		let headerCoverWidth = countLinks([\.cover, \.cover_itunes, \.cover_kosmos])
-		let headerPlattformWidth = countLinks([\.dreifragezeichen, \.appleMusic, \.spotify])
+		let headerInfoWidth = countLinks([\.dreifragezeichen])
+		let headerShopWidth = countLinks([\.amazon])
+		let headerStreamingWidth = countLinks([\.appleMusic, \.spotify, \.amazonMusic, \.youTubeMusic, \.deezer, \.bookbeat])
 		let headerNr = "Nr."
 		let headerTitel = "Titel"
 		switch collectionType {
@@ -89,7 +96,9 @@ class CollectionPageBuilder: PageBuilder {
 		if hasArtwork {
 			table.addCell(type: .th, content: "Artwork")
 		}
-		table.addCell(type: .th, width: headerPlattformWidth, content: "Plattform")
+		table.addCell(type: .th, width: headerInfoWidth, content: "Info")
+		table.addCell(type: .th, width: headerShopWidth, content: "Shop")
+		table.addCell(type: .th, width: headerStreamingWidth, content: "Streaming")
 		
 		// Content
 		func icon(_ filename: String, title: String) -> HTML.Node {
@@ -103,8 +112,13 @@ class CollectionPageBuilder: PageBuilder {
 		}
 		let iconDM = icon("dm_link.svg", title: "dreimetadaten")
 		let iconDDF = icon("ddf_link.svg", title: "dreifragezeichen.de")
-		let iconAM = icon("am_link.svg", title: "Amazon Music")
+		let iconAppleMusic = icon("applem_link.svg", title: "Apple Music")
 		let iconSpotify = icon("spotify_link.svg", title: "Spotify")
+		let iconBookBeat = icon("bookbeat_link.svg", title: "BookBeat")
+		let iconAmazonMusic = icon("amazonm_link.svg", title: "Amazon Music")
+		let iconAmazon = icon("amazon_link.svg", title: "Amazon")
+		let iconYouTubeMusic = icon("ytm_link.svg", title: "YouTube Music")
+		let iconDeezer = icon("deezer_link.svg", title: "Deezer")
 		let listSymbol = "└╴"
 		
 		func formatLeadingZeros(max count: Int) -> String {
@@ -239,10 +253,17 @@ class CollectionPageBuilder: PageBuilder {
 				secondary: ({ iconWithSuffix(icon: iconDM, suffix: "\($0)") }, \.artwork2),
 				cellClass: .icon
 			)
-			// Plattform
+			// Info
 			try addOptionalIconLink(iconDDF, \.dreifragezeichen)
-			try addOptionalIconLink(iconAM, \.appleMusic)
+			// Shop
+			try addOptionalIconLink(iconAmazon, \.amazon)
+			// Streaming
+			try addOptionalIconLink(iconAppleMusic, \.appleMusic)
 			try addOptionalIconLink(iconSpotify, \.spotify)
+			try addOptionalIconLink(iconAmazonMusic, \.amazonMusic)
+			try addOptionalIconLink(iconYouTubeMusic, \.youTubeMusic)
+			try addOptionalIconLink(iconDeezer, \.deezer)
+			try addOptionalIconLink(iconBookBeat, \.bookbeat)
 		}
 		
 		func recursive(_ hörspiel: MetadataObjectModel.Hörspiel, collectionCount: Int) throws {
