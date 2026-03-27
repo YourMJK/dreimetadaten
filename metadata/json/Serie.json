@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.9.4",
-    "lastModified" : "2026-03-20T16:36:18Z"
+    "version" : "2.9.5",
+    "lastModified" : "2026-03-27T11:17:07Z"
   },
   "serie" : [
     {
@@ -47733,10 +47733,19 @@
       "veröffentlichungsdatum" : "2026-05-22",
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/239/metadata.json",
+        "artwork" : "http://dreimetadaten.de/data/Serie/239/artwork.webp",
+        "cover" : "http://dreimetadaten.de/data/Serie/239/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/a7/b3/96/a7b39637-7f74-5efa-f1e3-968c661a6f0d/196873622798.jpg",
+        "appleMusic" : "https://music.apple.com/de/album/1887229472",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1916377",
+        "amazonMusic" : "https://music.amazon.de/albums/B0GTMKT3BB",
         "amazon" : "https://www.amazon.de/gp/product/B0GGGNRNYQ"
       },
       "ids" : {
         "dreimetadaten" : 430,
+        "appleMusic" : "1887229472",
+        "bookbeat" : "1916377",
+        "amazonMusic" : "B0GTMKT3BB",
         "amazon" : "B0GGGNRNYQ"
       },
       "unvollständig" : true
