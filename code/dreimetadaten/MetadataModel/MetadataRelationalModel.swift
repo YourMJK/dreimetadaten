@@ -86,6 +86,7 @@ extension MetadataRelationalModel {
 		var cover: UInt
 		var urlCoverApple: String?
 		var urlCoverKosmos: String?
+		var urlCoverDreifragezeichen: String?
 		var urlDreifragezeichen: String?
 		var idAppleMusic: String?
 		var idSpotify: String?

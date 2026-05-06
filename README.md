@@ -63,6 +63,7 @@ CREATE TABLE "hörspiel"(
   "cover" INTEGER NOT NULL CHECK("cover" >= 0),
   "urlCoverApple" TEXT,
   "urlCoverKosmos" TEXT,
+  "urlCoverDreifragezeichen" TEXT,
   "urlDreifragezeichen" TEXT,
   "idAppleMusic" TEXT,
   "idSpotify" TEXT,
@@ -249,6 +250,7 @@ struct Links {
   var cover2: [String]?
   var cover_itunes: String?
   var cover_kosmos: String?
+  var cover_dreifragezeichen: String?
   var dreifragezeichen: String?
   var appleMusic: String?
   var spotify: String?

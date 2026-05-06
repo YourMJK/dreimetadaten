@@ -60,6 +60,7 @@ struct Links {
 	var cover2: [String]?
 	var cover_itunes: String?
 	var cover_kosmos: String?
+	var cover_dreifragezeichen: String?
 	var dreifragezeichen: String?
 	var appleMusic: String?
 	var spotify: String?

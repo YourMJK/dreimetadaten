@@ -19,6 +19,10 @@ extension LinkTester {
 				valid:   "http://web.archive.org/web/20220115135349if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a0/2a/de/0743218420627.jpg",
 				invalid: "http://web.archive.org/web/20220115135349if_/https://s3.eu-central-1.amazonaws.com/kosmos.de/media/image/a0/2a/de/0743218420628.jpg"
 			),
+			.cover_dreifragezeichen: .init(
+				valid:   "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produkte/hoerspiele/ddf_cd_100.jpg",
+				invalid: "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produkte/hoerspiele/ddf_xx_100.jpg"
+			),
 			.dreifragezeichen: .init(
 				valid:   "https://dreifragezeichen.de/produktwelt/details/toteninsel",
 				invalid: "https://dreifragezeichen.de/produktwelt/details/toteninsem"

@@ -141,6 +141,7 @@ extension Command.Test.Links {
 	enum LinkTypeArgument: String, ArgumentEnum {
 		case cover_itunes
 		case cover_kosmos
+		case cover_dreifragezeichen
 		case dreifragezeichen
 		case appleMusic
 		case spotify
@@ -158,6 +159,7 @@ extension Command.Test.Links {
 			switch self {
 				case .cover_itunes: [.cover_itunes]
 				case .cover_kosmos: [.cover_kosmos]
+				case .cover_dreifragezeichen: [.cover_dreifragezeichen]
 				case .dreifragezeichen: [.dreifragezeichen]
 				case .appleMusic: [.appleMusic]
 				case .spotify: [.spotify]
@@ -171,6 +173,7 @@ extension Command.Test.Links {
 				case .covers: [
 					.cover_itunes,
 					.cover_kosmos,
+					.cover_dreifragezeichen,
 				]
 				case .platforms: [
 					.dreifragezeichen,

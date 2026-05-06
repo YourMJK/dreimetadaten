@@ -116,6 +116,7 @@ extension MetadataObjectModel {
 		var cover2: [String]?
 		var cover_itunes: String?
 		var cover_kosmos: String?
+		var cover_dreifragezeichen: String?
 		var dreifragezeichen: String?
 		var appleMusic: String?
 		var spotify: String?
@@ -226,6 +227,7 @@ extension MetadataObjectModel {
 			"cover2",
 			"cover_itunes",
 			"cover_kosmos",
+			"cover_dreifragezeichen",
 			"dreifragezeichen",
 			
 			"dreimetadaten",
@@ -536,6 +538,7 @@ extension MetadataObjectModel {
 				cover2: hörspiel.cover > 1 ? (2...hörspiel.cover).map(coverFileName(number:)) : nil,
 				cover_itunes: hörspiel.urlCoverApple,
 				cover_kosmos: hörspiel.urlCoverKosmos,
+				cover_dreifragezeichen: hörspiel.urlCoverDreifragezeichen,
 				dreifragezeichen: hörspiel.urlDreifragezeichen,
 				appleMusic: hörspiel.idAppleMusic.map { "https://music.apple.com/de/album/\($0)" },
 				spotify: hörspiel.idSpotify.map { "https://open.spotify.com/intl-de/album/\($0)" },
