@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.9.5",
-    "lastModified" : "2026-03-27T11:17:07Z"
+    "version" : "2.10.0",
+    "lastModified" : "2026-05-11T10:34:14Z"
   },
   "kurzgeschichten" : [
     {
@@ -151,6 +151,7 @@
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/metadata.json",
         "artwork" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/cover.png",
+        "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produkte/hoerspiele/ddf_sp_cd_12-k.jpg",
         "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/und-die-geisterlampe",
         "appleMusic" : "https://music.apple.com/de/album/1092546618",
         "spotify" : "https://open.spotify.com/intl-de/album/1nL3AddBvZ845zMyXRowgs",
@@ -984,6 +985,7 @@
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json",
         "artwork" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/cover.png",
+        "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produkte/hoerspiele/ddf-raetsel-der-sieben.jpeg",
         "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/das-ratsel-der-sieben",
         "appleMusic" : "https://music.apple.com/de/album/1092549930",
         "spotify" : "https://open.spotify.com/intl-de/album/2AEzTekSWfyfzJH56jmhET",
@@ -1766,6 +1768,7 @@
         "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/metadata.json",
         "artwork" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/cover.png",
+        "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/materna-import/6099874_cover.jpeg",
         "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/und-der-zeitgeist-sechs-kurzgeschichten",
         "appleMusic" : "https://music.apple.com/de/album/1149379770",
         "spotify" : "https://open.spotify.com/intl-de/album/4lLOJQU6QBH5cxmERE77La",
