@@ -40,6 +40,7 @@ class CollectionPageBuilder: PageBuilder {
 			\.cover,
 			\.cover_itunes,
 			\.cover_kosmos,
+			\.cover_dreifragezeichen,
 			\.dreifragezeichen,
 			\.appleMusic,
 			\.spotify,
@@ -63,7 +64,7 @@ class CollectionPageBuilder: PageBuilder {
 		table.addHeaderRow()
 		let hasRipLog = collection.compactMap(\.medien).joined().contains { $0.ripLog != nil }
 		let hasArtwork = hasLink[\.artwork]!
-		let headerCoverWidth = countLinks([\.cover, \.cover_itunes, \.cover_kosmos])
+		let headerCoverWidth = countLinks([\.cover, \.cover_itunes, \.cover_dreifragezeichen])
 		let headerInfoWidth = countLinks([\.dreifragezeichen])
 		let headerShopWidth = countLinks([\.amazon])
 		let headerStreamingWidth = countLinks([\.appleMusic, \.spotify, \.amazonMusic, \.youTubeMusic, \.deezer, \.bookbeat])
@@ -246,7 +247,7 @@ class CollectionPageBuilder: PageBuilder {
 				cellClass: .icon
 			)
 			try addOptionalLink("iTunes", \.cover_itunes)
-			try addOptionalLink("Kosmos", \.cover_kosmos)
+			try addOptionalIconLink(iconDDF, \.cover_dreifragezeichen)
 			// Artwork
 			try addOptionalLinks(
 				primary: (iconDM, \.artwork),
