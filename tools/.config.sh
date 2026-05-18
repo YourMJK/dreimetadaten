@@ -1,5 +1,4 @@
-BASEDIR=$(dirname "$0")/..
-BASEDIR=$(realpath --relative-to=. "$BASEDIR")
+BASEDIR=$(cd "$(dirname "$0")/.." && pwd)
 
 DBFILE=${DBFILE:-"$BASEDIR"/metadata/db.sqlite}
 SQLFILE=${SQLFILE:-"$BASEDIR"/metadata/db.sql}
