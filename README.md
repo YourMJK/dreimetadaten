@@ -308,9 +308,12 @@ Bei kleineren Korrekturhinweisen reicht aber natürlich auch ein Issue.
 
 ### Voraussetzungen
 * `bash`-Shell
-* [`sqlite3`](https://sqlite.org/cli.html) CLI tool
+* [`sqlite3`](https://sqlite.org/cli.html) CLI tool, Version **3.50+**
   * Ubuntu/Debian: `sudo apt install sqlite3`
-  * macOS: (vorinstalliert)
+  * macOS 26+: ✅ (vorinstalliert)
+  * macOS 15 und älter:  
+    `brew install sqlite && ln -vs ../opt/sqlite3/bin/sqlite3 $(brew --prefix)/bin`  
+    (vorinstallierte Version ist zu alt)
 
 ### Ablauf
 1. **Datenbank laden**:  
