@@ -8,6 +8,7 @@
 import Foundation
 import GRDB
 import Collections
+import RegexBuilder
 
 
 struct MetadataObjectModel: Codable {
@@ -162,7 +163,7 @@ extension MetadataObjectModel {
 		var intValue: Int?
 		
 		init(_ key: CodingKey) {
-			self.stringValue = Self.prefixedKeyString(keyString: key.stringValue)
+			self.stringValue = Self.prefixedKeyStrings[key.stringValue] ?? key.stringValue
 			self.intValue = key.intValue
 		}
 		init?(stringValue: String) {
@@ -173,7 +174,7 @@ extension MetadataObjectModel {
 			self.intValue = intValue
 		}
 		
-		static let ordering: [String] = [
+		private static let ordering: [String] = [
 			"dbInfo",
 			"version",
 			"lastModified",
@@ -239,9 +240,28 @@ extension MetadataObjectModel {
 			"youTubeMusic",
 			"deezer",
 		]
-		static func prefixedKeyString(keyString: String) -> String {
-			let number = Self.ordering.firstIndex(of: keyString) ?? 99
-			return String(format: "%02d_%@", number, keyString)
+		
+		private static let prefixedKeyStrings = [String: String](ordering.map {
+			($0, createPrefixedKeyString(keyString: $0))
+		}, uniquingKeysWith: { (first, _) in first })
+		
+		private static func createPrefixedKeyString(keyString: String) -> String {
+			guard let index = Self.ordering.firstIndex(of: keyString) else {
+				return keyString
+			}
+			return String(format: "#%02d_%@#", index, keyString)
+		}
+		
+		static let prefixedKeyRegex = Regex {
+			"#"
+			Repeat(.digit, count: 2)
+			"_"
+			Capture {
+				OneOrMore(
+					CharacterClass.anyOf("#").inverted
+				)
+			}
+			"#"
 		}
 	}
 	
@@ -279,11 +299,8 @@ extension MetadataObjectModel {
 		var jsonString = String(data: jsonData, encoding: .utf8)!
 		
 		// Replace prefixed ordered keys with normal keys again
-		for key in Self.OrderedCodingKey.ordering {
-			let prefixedKey = Self.OrderedCodingKey.prefixedKeyString(keyString: key)
-			let target = "\"\(prefixedKey)\""
-			let replacement = "\"\(key)\""
-			jsonString = jsonString.replacingOccurrences(of: target, with: replacement)  // despite copy overhead 10x faster than range(of:) + mutating replaceSubrange()
+		jsonString.replace(Self.OrderedCodingKey.prefixedKeyRegex) { match in
+			match.1
 		}
 		jsonString = jsonString.replacingOccurrences(of: "\\/", with: "/")
 		
