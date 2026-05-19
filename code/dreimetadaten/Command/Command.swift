@@ -55,3 +55,27 @@ struct Command: AsyncParsableCommand {
 		return relComponents.joined(separator: "/")
 	}
 }
+
+
+extension Command {
+	static func findExecutablePath(name: String) -> String? {
+		let pathVariable = ProcessInfo.processInfo.environment["PATH"]
+		let pathVariableComponents = pathVariable?.split(separator: ":").map { String($0) }
+		let searchPaths = (pathVariableComponents ?? []) + defaultSearchPaths
+		for searchPath in searchPaths {
+			let executablePath = String(searchPath) + "/" + name
+			if FileManager.default.isExecutableFile(atPath: executablePath) {
+				return executablePath
+			}
+		}
+		return nil
+	}
+	
+	private static let defaultSearchPaths = [
+		"/usr/bin",
+		"/bin",
+		"/usr/sbin",
+		"/sbin",
+		"/usr/local/bin",
+	]
+}

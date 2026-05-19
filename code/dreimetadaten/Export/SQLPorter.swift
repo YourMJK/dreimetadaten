@@ -13,7 +13,7 @@ struct SQLPorter {
 	let databaseFile: URL
 	let sqliteBinary: URL
 	
-	static let defaultSqliteBinaryPath = "/usr/bin/sqlite3"
+	static let defaultSqliteBinaryPath = Command.findExecutablePath(name: "sqlite3") ?? "/usr/bin/sqlite3"
 	
 	
 	func export(to sqlFile: URL) throws {
