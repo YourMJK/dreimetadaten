@@ -8,7 +8,6 @@
 import Foundation
 import GRDB
 import Collections
-import RegexBuilder
 
 
 struct MetadataObjectModel: Codable {
@@ -252,17 +251,7 @@ extension MetadataObjectModel {
 			return String(format: "#%02d_%@#", index, keyString)
 		}
 		
-		static let prefixedKeyRegex = Regex {
-			"#"
-			Repeat(.digit, count: 2)
-			"_"
-			Capture {
-				OneOrMore(
-					CharacterClass.anyOf("#").inverted
-				)
-			}
-			"#"
-		}
+		static let prefixedKeyRegex = #"#\d{2}_([^#]+)#"#
 	}
 	
 	enum JSONError: LocalizedError {
@@ -298,11 +287,14 @@ extension MetadataObjectModel {
 		}
 		var jsonString = String(data: jsonData, encoding: .utf8)!
 		
-		// Replace prefixed ordered keys with normal keys again
-		jsonString.replace(Self.OrderedCodingKey.prefixedKeyRegex) { match in
-			match.1
+		// Replace prefixed ordered keys with normal keys and un-escape slashes again
+		func replace(_ target: String, with replacement: String, options: NSString.CompareOptions = []) {
+			// For regex, String.replacingOccurrences(of:with:options:) seems to be 5x faster than String.replace(_:with:)
+			// and equally as fast as NSString.replacingOccurrences(of:with:options:range:)
+			jsonString = jsonString.replacingOccurrences(of: target, with: replacement, options: options)
 		}
-		jsonString = jsonString.replacingOccurrences(of: "\\/", with: "/")
+		replace(OrderedCodingKey.prefixedKeyRegex, with: "$1", options: .regularExpression)
+		replace("\\/", with: "/")
 		
 		// Normalize Unicode characters into NFC, e.g. replacing "\u{0061}\u{0308}" (LATIN SMALL LETTER A + COMBINING DIAERESIS) with "\u{00E4}" (LATIN SMALL LETTER A WITH DIAERESIS)
 		jsonString = jsonString.precomposedStringWithCanonicalMapping
