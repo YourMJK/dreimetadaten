@@ -6,24 +6,18 @@
 //
 
 import Foundation
+import HTML
 
 
 class TableBuilder {
-	let table: HTML.Node
-	let thead: HTML.Node
-	let tbody: HTML.Node
-	var currentHeaderRow: HTML.Node?
-	var currentBodyRow: HTML.Node?
+	private let tableClass: TableClass
+	private(set) var thead: HTML.Node?
+	private(set) var tbody: HTML.Node?
+	private(set) var currentHeaderRow: HTML.Node?
+	private(set) var currentBodyRow: HTML.Node?
 	
 	init(class tableClass: TableClass) {
-		let thead = HTML.thead().indent()
-		let tbody = HTML.tbody().indent()
-		self.table = HTML.table().class(tableClass.rawValue).indent().content {[
-			thead,
-			tbody
-		]}
-		self.thead = thead
-		self.tbody = tbody
+		self.tableClass = tableClass
 	}
 	
 	enum CellType: String {
@@ -40,6 +34,11 @@ class TableBuilder {
 	}
 	enum TableClass: String {
 		case datatable
+	}
+	
+	var table: HTML.Node {
+		let content = [thead, tbody].compactMap { $0 }
+		return HTML.table().class(tableClass.rawValue).indent().content { content }
 	}
 	
 	func addCell(type: CellType = .td, class cellClass: CellClass? = nil, width: UInt? = nil, lines: [HTML.Content]) {
@@ -95,12 +94,18 @@ class TableBuilder {
 	}
 	func addRow(class rowClass: RowClass? = nil) {
 		let row = newRow(rowClass: rowClass)
-		tbody.content { row }
+		if tbody == nil {
+			tbody = HTML.tbody().indent()
+		}
+		tbody!.content { row }
 		currentBodyRow = row
 	}
 	func addHeaderRow(class rowClass: RowClass? = nil) {
 		let row = newRow(rowClass: rowClass)
-		thead.content { row }
+		if thead == nil {
+			thead = HTML.thead().indent()
+		}
+		thead!.content { row }
 		currentHeaderRow = row
 	}
 	

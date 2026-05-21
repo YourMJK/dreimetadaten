@@ -10,6 +10,7 @@ let package = Package(
 	],
 	dependencies: [
 		.package(url: "https://github.com/YourMJK/CommandLineTool", from: "1.1.0"),
+		.package(url: "https://github.com/YourMJK/swift-HTML", from: "1.0.1"),
 		.package(url: "https://github.com/dehesa/CodableCSV", from: "0.6.0"),
 		.package(url: "https://github.com/groue/GRDB.swift", from: "6.27.0"),
 		.package(url: "https://github.com/apple/swift-collections.git", from: "1.1.0"),
@@ -20,6 +21,7 @@ let package = Package(
 			name: "dreimetadaten",
 			dependencies: [
 				"CommandLineTool",
+				.product(name: "HTML", package: "swift-HTML"),
 				"CodableCSV",
 				.product(name: "GRDB", package: "GRDB.swift"),
 				.product(name: "Collections", package: "swift-collections"),
