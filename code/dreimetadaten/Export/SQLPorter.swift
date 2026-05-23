@@ -20,7 +20,9 @@ struct SQLPorter {
 		let start = "PRAGMA foreign_keys=ON;\nBEGIN TRANSACTION;\n"
 		let end = "COMMIT;\n"
 		
-		FileManager.default.createFile(atPath: sqlFile.path, contents: nil)
+		guard FileManager.default.createFile(atPath: sqlFile.path, contents: nil) else {
+			throw IOError.fileWritingFailed(url: sqlFile, error: nil)
+		}
 		let handle: FileHandle
 		do {
 			handle = try FileHandle(forWritingTo: sqlFile)
@@ -105,13 +107,14 @@ struct SQLPorter {
 
 extension SQLPorter {
 	enum IOError: LocalizedError {
-		case fileWritingFailed(url: URL, error: Error)
+		case fileWritingFailed(url: URL, error: Error?)
 		case fileReadingFailed(url: URL, error: Error)
 		
 		var errorDescription: String? {
 			switch self {
 				case .fileWritingFailed(let url, let error):
-					return "Couldn't write to file \"\(url.relativePath)\": \(error.localizedDescription)"
+					let description = error.map { ": \($0.localizedDescription)" }
+					return "Couldn't write to file \"\(url.relativePath)\"\(description ?? "")"
 				case .fileReadingFailed(let url, let error):
 					return "Couldn't read file \"\(url.relativePath)\": \(error.localizedDescription)"
 			}

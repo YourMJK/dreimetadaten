@@ -6,6 +6,9 @@
 //
 
 import Foundation
+#if canImport(FoundationNetworking)
+import FoundationNetworking
+#endif
 import SwiftSoup
 
 
@@ -52,21 +55,69 @@ extension LinkTester {
 			}
 			
 			// Send request, retrieve status code and ignore body data
+			let statusCode = try await Self.getResponseStatusCode(request: request)
+			
+			// Check status code
+			let isValid = statusCodeCheck(statusCode)
+			
+			return (isValid, statusCode)
+		}
+		
+		private static func getResponseStatusCode(request: URLRequest) async throws -> StatusCode {
+			#if canImport(FoundationNetworking)
+			let response = try await getResponseWithDelegate(request: request)
+			#else
 			let (bytes, response) = try await URLSession.shared.bytes(for: request)
 			bytes.task.cancel()
-//			let (bodyData, response) = try await URLSession.shared.data(for: request)
-//			print(String(data: bodyData, encoding: .utf8)!)
+			#endif
+			
 			guard let httpResponse = response as? HTTPURLResponse else {
 				throw RequestError.noHTTPResponse
 			}
 			guard let statusCode = StatusCode(httpResponse.statusCode) else {
 				throw RequestError.invalidStatusCode
 			}
+			return statusCode
+		}
+		
+		
+		/// Linux FoundationNetworking version for retrieving status code without awaiting response body using `URLSessionDataDelegate`
+		private static func getResponseWithDelegate(request: URLRequest) async throws -> URLResponse {
+			try await withCheckedThrowingContinuation { continuation in
+				let delegate: HeadOnlyURLSessionDelegate? = HeadOnlyURLSessionDelegate(continuation: continuation)
+				let session = URLSession(configuration: .default, delegate: delegate, delegateQueue: nil)
+				let task = session.dataTask(with: request)
+				task.resume()
+			}
+		}
+		
+		private final class HeadOnlyURLSessionDelegate: NSObject, URLSessionDataDelegate {
+			private let continuation: CheckedContinuation<URLResponse, Error>
 			
-			// Check status code
-			let isValid = statusCodeCheck(statusCode)
+			init(continuation: CheckedContinuation<URLResponse, Error>) {
+				self.continuation = continuation
+			}
 			
-			return (isValid, statusCode)
+			func urlSession(
+				_ session: URLSession,
+				dataTask: URLSessionDataTask,
+				didReceive response: URLResponse,
+				completionHandler: @escaping (URLSession.ResponseDisposition) -> Void
+			) {
+				// Return response in continuation and stop downloading body immediately
+				continuation.resume(returning: response)
+				completionHandler(.cancel)
+			}
+			
+			func urlSession(_ session: URLSession, task: URLSessionTask, didCompleteWithError error: (any Error)?) {
+				guard let error else { return }
+				continuation.resume(throwing: error)
+			}
+			
+			func urlSession(_ session: URLSession, didBecomeInvalidWithError error: (any Error)?) {
+				guard let error else { return }
+				continuation.resume(throwing: error)
+			}
 		}
 		
 	}
@@ -86,7 +137,8 @@ extension LinkTester {
 			.secure: "TRUE",
 			.discard: "TRUE",
 			.maximumAge: "31536000",
-			.sameSitePolicy: "Lax",
+			// Not available on FoundationNetworking (Linux)
+			//.sameSitePolicy: "Lax",
 		])!
 		
 		
