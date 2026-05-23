@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.10.1",
-    "lastModified" : "2026-05-19T09:59:48Z"
+    "version" : "2.10.2",
+    "lastModified" : "2026-05-23T01:47:26Z"
   },
   "serie" : [
     {
@@ -47972,25 +47972,175 @@
       "nummer" : 239,
       "titel" : "Das Geheimnis der sieben Palmen",
       "autor" : "Marco Sonnleitner",
+      "hörspielskriptautor" : "André Minninger",
+      "gesamtbeschreibung" : "Wer hat die Bibliothek von Mr. Lehmann verwüstet? Die drei ??? stehen vor einem Rätsel, das sie zu einem Nobelpreisträger führt.\nBei Mr. Lehmann wurde eingebrochen, doch nicht nur ein wertvolles Buch wurde gestohlen, auch alte Briefe seiner Eltern sind verschwunden. Als wenig später auch bei Lehmanns Bruder eingebrochen wird, werden die Detektive hellhörig. Die Ermittlungen führen Justus, Peter und Bob nach Seven Palms, dem Haus von Thomas Mann in Kalifornien. Was hat die Familie Lehmann mit dem Schriftsteller zu tun?",
+      "kurzbeschreibung" : "Wer hat die Bibliothek von Mr. Lehmann verwüstet? Die drei ??? stehen vor einem Rätsel, das sie zu einem Nobelpreisträger führt.",
+      "beschreibung" : "Bei Mr. Lehmann wurde eingebrochen, doch nicht nur ein wertvolles Buch wurde gestohlen, auch alte Briefe seiner Eltern sind verschwunden. Als wenig später auch bei Lehmanns Bruder eingebrochen wird, werden die Detektive hellhörig. Die Ermittlungen führen Justus, Peter und Bob nach Seven Palms, dem Haus von Thomas Mann in Kalifornien. Was hat die Familie Lehmann mit dem Schriftsteller zu tun?",
       "veröffentlichungsdatum" : "2026-05-22",
+      "gesamtdauer" : 4751600,
+      "kapitel" : [
+        {
+          "titel" : "Das Schnabelmonster",
+          "start" : 0,
+          "end" : 501627
+        },
+        {
+          "titel" : "Und immer wieder: Thomas Mann",
+          "start" : 501627,
+          "end" : 1339493
+        },
+        {
+          "titel" : "Rätselhafte Briefe",
+          "start" : 1339493,
+          "end" : 1923653
+        },
+        {
+          "titel" : "Dynamik der Geschehnisse",
+          "start" : 1923653,
+          "end" : 2467360
+        },
+        {
+          "titel" : "Ein Werk des Teufels?",
+          "start" : 2467360,
+          "end" : 3161507
+        },
+        {
+          "titel" : "Nacht der Geheimnisse",
+          "start" : 3161507,
+          "end" : 3750360
+        },
+        {
+          "titel" : "Untergejubelt",
+          "start" : 3750360,
+          "end" : 4751600
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Joseph Lehmann",
+          "sprecher" : "Claus Wilcke"
+        },
+        {
+          "rolle" : "Felix Lehmann",
+          "sprecher" : "Olaf Kreutzenbeck"
+        },
+        {
+          "rolle" : "Officer Brandon",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Imma",
+          "sprecher" : "Anika Baumann"
+        },
+        {
+          "rolle" : "Lorenzo",
+          "sprecher" : "Mathias Renneisen"
+        },
+        {
+          "rolle" : "Dr. Paul Hayden",
+          "sprecher" : "Michael Bideller"
+        },
+        {
+          "rolle" : "Wendell Larimer",
+          "sprecher" : "Axel Stosberg"
+        },
+        {
+          "rolle" : "Annabelle Fox",
+          "sprecher" : "Sofie Junker"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Axel Field",
+          "sprecher" : "Stephan A. Tölle"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/239/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/239/ffmetadata.txt",
         "artwork" : "http://dreimetadaten.de/data/Serie/239/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Serie/239/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/a7/b3/96/a7b39637-7f74-5efa-f1e3-968c661a6f0d/196873622798.jpg",
+        "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produkte/hoerspiele/01_ab_213/ddf-239.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/das-geheimnis-der-sieben-palmen",
         "appleMusic" : "https://music.apple.com/de/album/1887229472",
+        "spotify" : "https://open.spotify.com/intl-de/album/2mh0BDhRAJFa7clABwut3L",
         "bookbeat" : "https://www.bookbeat.com/de/book/1916377",
         "amazonMusic" : "https://music.amazon.de/albums/B0GTMKT3BB",
-        "amazon" : "https://www.amazon.de/gp/product/B0GGGNRNYQ"
+        "amazon" : "https://www.amazon.de/gp/product/B0GGGNRNYQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_dvRbxAfeUId",
+        "deezer" : "https://www.deezer.com/de/album/945481241"
       },
       "ids" : {
         "dreimetadaten" : 430,
         "appleMusic" : "1887229472",
+        "spotify" : "2mh0BDhRAJFa7clABwut3L",
         "bookbeat" : "1916377",
         "amazonMusic" : "B0GTMKT3BB",
-        "amazon" : "B0GGGNRNYQ"
+        "amazon" : "B0GGGNRNYQ",
+        "youTubeMusic" : "MPREb_dvRbxAfeUId",
+        "deezer" : "945481241"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Das Schnabelmonster",
+              "start" : 0,
+              "end" : 501627
+            },
+            {
+              "titel" : "Und immer wieder: Thomas Mann",
+              "start" : 501627,
+              "end" : 1339493
+            },
+            {
+              "titel" : "Rätselhafte Briefe",
+              "start" : 1339493,
+              "end" : 1923653
+            },
+            {
+              "titel" : "Dynamik der Geschehnisse",
+              "start" : 1923653,
+              "end" : 2467360
+            },
+            {
+              "titel" : "Ein Werk des Teufels?",
+              "start" : 2467360,
+              "end" : 3161507
+            },
+            {
+              "titel" : "Nacht der Geheimnisse",
+              "start" : 3161507,
+              "end" : 3750360
+            },
+            {
+              "titel" : "Untergejubelt",
+              "start" : 3750360,
+              "end" : 4751600
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Serie/239/rip_log.txt"
+        }
+      ]
     },
     {
       "nummer" : 240,
