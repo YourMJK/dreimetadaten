@@ -10,7 +10,7 @@ import GRDB
 import Collections
 
 
-struct MetadataObjectModel: Codable {
+struct MetadataObjectModel: Codable, Sendable {
 	var serie: [Folge]?
 	var spezial: [Hörspiel]?
 	var kurzgeschichten: [Hörspiel]?
@@ -24,7 +24,7 @@ struct MetadataObjectModel: Codable {
 
 extension MetadataObjectModel {
 	
-	class Hörspiel: Codable {
+	class Hörspiel: Codable, @unchecked Sendable {
 		var titel: String?
 		var autor: String?
 		var hörspielskriptautor: String?
@@ -43,7 +43,7 @@ extension MetadataObjectModel {
 		var teile: [Teil]?
 	}
 	
-	class Folge: Hörspiel {
+	class Folge: Hörspiel, @unchecked Sendable {
 		var nummer: UInt
 		
 		init(nummer: UInt) {
@@ -67,7 +67,7 @@ extension MetadataObjectModel {
 		}
 	}
 	
-	class Teil: Hörspiel {
+	class Teil: Hörspiel, @unchecked Sendable {
 		var teilNummer: UInt
 		var buchstabe: String?
 		
@@ -95,19 +95,19 @@ extension MetadataObjectModel {
 		}
 	}
 	
-	struct Kapitel: Codable {
+	struct Kapitel: Codable, Sendable {
 		var titel: String
 		var start: Int?
 		var end: Int?
 	}
 	
-	struct Sprechrolle: Codable {
+	struct Sprechrolle: Codable, Sendable {
 		var rolle: String
 		var sprecher: String
 		var pseudonym: String?
 	}
 	
-	struct Links: Codable {
+	struct Links: Codable, Sendable {
 		var json: String?
 		var ffmetadata: String?
 		var artwork: String?
@@ -127,7 +127,7 @@ extension MetadataObjectModel {
 		var deezer: String?
 	}
 	
-	struct IDs: Codable {
+	struct IDs: Codable, Sendable {
 		var dreimetadaten: UInt
 		var appleMusic: String?
 		var spotify: String?
@@ -138,14 +138,14 @@ extension MetadataObjectModel {
 		var deezer: String?
 	}
 	
-	struct Medium: Codable {
+	struct Medium: Codable, Sendable {
 		var tracks: [Kapitel]
 		var ripLog: String?
 		var musicBrainzID: String?
 	}
 	
 	
-	struct DBInfo: Codable {
+	struct DBInfo: Codable, Sendable {
 		var version: String
 		var lastModified: String
 	}

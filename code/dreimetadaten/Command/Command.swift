@@ -32,9 +32,9 @@ struct Command: AsyncParsableCommand {
 	static let webURL = URL(string: "http://dreimetadaten.de")!
 	static let webDir = url(projectRelativePath: "web")
 	private static let webDataDirRelativePath = "data"
-	static var webDataURL = webURL.appendingPathComponent(webDataDirRelativePath)
-	static var webDataDir = webDir.appendingPathComponent(webDataDirRelativePath)
-	static var webIndexDir = webDir.appendingPathComponent("index")
+	static let webDataURL = webURL.appendingPathComponent(webDataDirRelativePath)
+	static let webDataDir = webDir.appendingPathComponent(webDataDirRelativePath)
+	static let webIndexDir = webDir.appendingPathComponent("index")
 	static let webTemplatesDir = url(projectRelativePath: "web_templates")
 	
 	static func url(projectRelativePath projectDirRelativePath: String) -> URL {
