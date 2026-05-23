@@ -31,12 +31,10 @@ extension Command.Import {
 		@Option(name: .customLong("db"), help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
 		var databaseFilePath: String = Command.databaseFile.relativePath
 		
-		func run() throws {
+		func run() async throws {
 			let dbQueue = try DatabaseQueue(path: databaseFilePath)
-			try dbQueue.write { db in
-				let importer = MusicBrainzImporter(db: db)
-				try importer.addMedium(to: hörspielID, at: position, usingDisc: mbDiscID)
-			}
+			let importer = MusicBrainzImporter(dbQueue: dbQueue)
+			try await importer.addMedium(to: hörspielID, at: position, usingDisc: mbDiscID)
 		}
 	}
 }

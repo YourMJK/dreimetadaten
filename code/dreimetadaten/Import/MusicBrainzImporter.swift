@@ -10,52 +10,65 @@ import GRDB
 
 
 struct MusicBrainzImporter {
-	let db: Database
+	let dbQueue: DatabaseQueue
 	
 	
-	func addMedium(to hörspielID: MetadataRelationalModel.Hörspiel.ID, at position: UInt, usingDisc discID: String) throws {
+	func addMedium(to hörspielID: MetadataRelationalModel.Hörspiel.ID, at position: UInt, usingDisc discID: String) async throws {
 		func nextID<T: PersistableFetchableTableRecord, I: BinaryInteger>(of: T.Type, id transform: (T) -> I) throws -> I {
-			try T.fetchAll(db).map(transform).max()! + 1
+			try dbQueue.read { db in
+				try T.fetchAll(db).map(transform).max()! + 1
+			}
 		}
 		
 		// Medium
 		let mediumID = try nextID(of: MetadataRelationalModel.Medium.self, id: \.mediumID)
-		try MetadataRelationalModel.Medium(
+		let medium = MetadataRelationalModel.Medium(
 			mediumID: mediumID,
 			hörspielID: hörspielID,
 			position: position,
 			ripLog: false,
 			musicBrainzID: discID
-		).insert(db)
+		)
+		try await dbQueue.write { db in
+			try medium.insert(db)
+		}
 		
 		// Tracks
-		let chapters = try Self.chaptersFromTracks(discID: discID, mediaPosition: position)
+		let chapters = try await Self.chaptersFromTracks(discID: discID, mediaPosition: position)
 		let baseTrackID = try nextID(of: MetadataRelationalModel.Track.self, id: \.trackID)
-		let baseKapitelPosition = (try UInt.fetchOne(db, sql: "SELECT MAX(position) FROM kapitel WHERE hörspielID = \(hörspielID)") ?? 0) + 1
+		let baseKapitelPosition = try await dbQueue.read { db in
+			let lastPosition = try UInt.fetchOne(db, sql: "SELECT MAX(position) FROM kapitel WHERE hörspielID = ?", arguments: [hörspielID]) ?? 0
+			return lastPosition + 1
+		}
+		
 		for (index, chapter) in chapters.enumerated() {
 			let index = UInt(index)
 			let trackID = baseTrackID + index
-			try MetadataRelationalModel.Track(
+			let track = MetadataRelationalModel.Track(
 				trackID: trackID,
 				mediumID: mediumID,
 				position: index+1,
 				titel: chapter.title,
 				dauer: chapter.duration
-			).insert(db)
-			try MetadataRelationalModel.Kapitel(
+			)
+			let kapitel = MetadataRelationalModel.Kapitel(
 				trackID: trackID,
 				hörspielID: hörspielID,
 				position: baseKapitelPosition + index
-			).insert(db)
+			)
+			try await dbQueue.write { db in
+				try track.insert(db)
+				try kapitel.insert(db)
+			}
 		}
 	}
 	
 	
 	typealias Chapter = (title: String, duration: UInt)
 	
-	private static func chaptersFromTracks(discID: String, mediaPosition: UInt) throws -> [Chapter] {
+	private static func chaptersFromTracks(discID: String, mediaPosition: UInt) async throws -> [Chapter] {
 		// Get disc data
-		guard let disc = try synchronousJSONRequest(to: "https://musicbrainz.org/ws/2/discid/\(discID)?fmt=json") as? [String: Any] else {
+		guard let disc = try await jsonRequest(to: "https://musicbrainz.org/ws/2/discid/\(discID)?fmt=json") as? [String: Any] else {
 			throw ImportError.jsonParsingFailed(errorMsg: "Disc top level not a dictionary")
 		}
 		guard let discRelease = (disc["releases"] as? [[String: Any]])?.first else {
@@ -69,7 +82,7 @@ struct MusicBrainzImporter {
 		}
 		
 		// Get release data
-		guard let release = try synchronousJSONRequest(to: "https://musicbrainz.org/ws/2/release/\(releaseID)?inc=recordings&fmt=json") as? [String: Any] else {
+		guard let release = try await jsonRequest(to: "https://musicbrainz.org/ws/2/release/\(releaseID)?inc=recordings&fmt=json") as? [String: Any] else {
 			throw ImportError.jsonParsingFailed(errorMsg: "Release top level not a dictionary")
 		}
 		guard let media = (release["media"] as? [[String: Any]]) else {
@@ -131,46 +144,31 @@ struct MusicBrainzImporter {
 	}
 	
 	
-	private static func synchronousJSONRequest(to urlString: String) throws -> Any {
+	private static func jsonRequest(to urlString: String) async throws -> Any {
 		guard let url = URL(string: urlString) else {
 			throw ImportError.invalidURL(urlString: urlString)
 		}
-		var result: Any?
-		var errorToThrow: Error?
-		let semphore = DispatchSemaphore(value: 0)
-		let task = URLSession.shared.dataTask(with: url) { (data, response, error) in
-			defer {
-				semphore.signal()
-			}
-			if let error = error {
-				errorToThrow = ImportError.requestFailed(errorMsg: error.localizedDescription)
-				return
-			}
-			guard let data = data else {
-				errorToThrow = ImportError.requestFailed(errorMsg: "No data")
-				return
-			}
-			let httpResponse = response as! HTTPURLResponse
-			guard httpResponse.statusCode == 200 else {
-				errorToThrow = ImportError.requestFailed(errorMsg: "\(httpResponse.statusCode): \(String(data: data, encoding: .utf8) ?? "(nil)")")
-				return
-			}
-			
-			do {
-				result = try JSONSerialization.jsonObject(with: data, options: [])
-			}
-			catch(let parseError) {
-				errorToThrow = ImportError.jsonParsingFailed(errorMsg: parseError.localizedDescription)
-				return
-			}
-		}
-		task.resume()
-		semphore.wait()
 		
-		if let error = errorToThrow {
-			throw error
+		let data: Data
+		let response: URLResponse
+		do {
+			(data, response) = try await URLSession.shared.data(from: url)
 		}
-		return result!
+		catch {
+			throw ImportError.requestFailed(errorMsg: error.localizedDescription)
+		}
+		
+		let httpResponse = response as! HTTPURLResponse
+		guard httpResponse.statusCode == 200 else {
+			throw ImportError.requestFailed(errorMsg: "\(httpResponse.statusCode): \(String(data: data, encoding: .utf8) ?? "(nil)")")
+		}
+		
+		do {
+			return try JSONSerialization.jsonObject(with: data, options: [])
+		}
+		catch (let parseError) {
+			throw ImportError.jsonParsingFailed(errorMsg: parseError.localizedDescription)
+		}
 	}
 	
 	
