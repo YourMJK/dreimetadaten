@@ -78,7 +78,16 @@ struct WebDataExporter {
 			guard attributes.isRegularFile! else {
 				continue
 			}
-			existingFilePaths.insert(outputDir.relativePath + "/" + url.relativePath)
+			// Get path of file relative to base of outputDir,
+			// or absolute path if outputDir is absolute (all referencedFilePaths will also be absolute).
+			// FileManager.DirectoryEnumerationOptions.producesRelativePathURLs can't be used, option is ignored on Linux
+			let relativePath =
+				if let baseURL = outputDir.baseURL {
+					Command.relativePath(of: url, toDirectory: baseURL)
+				} else {
+					url.path
+				}
+			existingFilePaths.insert(relativePath)
 		}
 		
 		let missingFiles = referencedFilePaths.subtracting(existingFilePaths).sorted()
