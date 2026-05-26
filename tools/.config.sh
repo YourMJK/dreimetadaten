@@ -45,3 +45,13 @@ parseArgID() {
 editFile() {
 	$EDITOR "$1"
 }
+
+checkSQLiteVersion() {
+	minMajor=3
+	minMinor=50
+	version=$(sqlite3 --version 2> /dev/null | head -n1 | cut -d' ' -f1)
+	IFS=. read -r major minor patch <<< "$version"
+	[ $major -eq $minMajor ] && [ $minor -ge $minMinor ] || error "SQLite version $minMajor.$minMinor+ required. Current version is $version"
+}
+
+checkSQLiteVersion

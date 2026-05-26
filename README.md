@@ -309,7 +309,7 @@ Bei kleineren Korrekturhinweisen reicht aber natürlich auch ein Issue.
 ### Voraussetzungen
 * `bash`-Shell
 * [`sqlite3`](https://sqlite.org/cli.html) CLI tool, Version **3.50+**
-  * Ubuntu/Debian: `sudo apt install sqlite3`
+  * Linux: https://sqlite.org/download.html (Version aus `apt`-Paketmanager ist zu alt)
   * macOS 26+: ✅ (vorinstalliert)
   * macOS 15 und älter:  
     `brew install sqlite && ln -vs ../opt/sqlite3/bin/sqlite3 $(brew --prefix)/bin`  

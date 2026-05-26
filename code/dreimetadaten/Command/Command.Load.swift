@@ -48,7 +48,7 @@ extension Command {
 				}
 			}
 			
-			let porter = SQLPorter(databaseFile: databaseFile, sqliteBinary: sqliteBinary)
+			let porter = try SQLPorter(databaseFile: databaseFile, sqliteBinary: sqliteBinary)
 			try porter.import(from: sqlFile)
 		}
 	}

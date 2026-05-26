@@ -32,7 +32,7 @@ extension Command.Export {
 			let sqlFile = URL(filePath: sqlFilePath, directoryHint: .notDirectory)
 			let sqliteBinary = URL(filePath: sqliteBinaryPath, directoryHint: .notDirectory)
 			
-			let porter = SQLPorter(databaseFile: databaseFile, sqliteBinary: sqliteBinary)
+			let porter = try SQLPorter(databaseFile: databaseFile, sqliteBinary: sqliteBinary)
 			try porter.export(to: sqlFile)
 		}
 	}
