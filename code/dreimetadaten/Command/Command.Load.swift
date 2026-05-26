@@ -31,11 +31,11 @@ extension Command {
 		var force: Bool = false
 		
 		func run() throws {
-			let databaseFile = URL(fileURLWithPath: databaseFilePath, isDirectory: false)
-			let sqlFile = URL(fileURLWithPath: sqlFilePath, isDirectory: false)
-			let sqliteBinary = URL(fileURLWithPath: sqliteBinaryPath, isDirectory: false)
+			let databaseFile = URL(filePath: databaseFilePath, directoryHint: .notDirectory)
+			let sqlFile = URL(filePath: sqlFilePath, directoryHint: .notDirectory)
+			let sqliteBinary = URL(filePath: sqliteBinaryPath, directoryHint: .notDirectory)
 			
-			if FileManager.default.fileExists(atPath: databaseFile.path) {
+			if FileManager.default.fileExists(at: databaseFile) {
 				guard force else {
 					throw ArgumentsError.databaseExists(url: databaseFile)
 				}

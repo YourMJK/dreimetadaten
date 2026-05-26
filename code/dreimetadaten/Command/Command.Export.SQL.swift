@@ -28,9 +28,9 @@ extension Command.Export {
 		var sqliteBinaryPath: String = SQLPorter.defaultSqliteBinaryPath
 		
 		func run() throws {
-			let databaseFile = URL(fileURLWithPath: databaseFilePath, isDirectory: false)
-			let sqlFile = URL(fileURLWithPath: sqlFilePath, isDirectory: false)
-			let sqliteBinary = URL(fileURLWithPath: sqliteBinaryPath, isDirectory: false)
+			let databaseFile = URL(filePath: databaseFilePath, directoryHint: .notDirectory)
+			let sqlFile = URL(filePath: sqlFilePath, directoryHint: .notDirectory)
+			let sqliteBinary = URL(filePath: sqliteBinaryPath, directoryHint: .notDirectory)
 			
 			let porter = SQLPorter(databaseFile: databaseFile, sqliteBinary: sqliteBinary)
 			try porter.export(to: sqlFile)

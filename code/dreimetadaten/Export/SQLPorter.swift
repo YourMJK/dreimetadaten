@@ -20,7 +20,7 @@ struct SQLPorter {
 		let start = "PRAGMA foreign_keys=ON;\nBEGIN TRANSACTION;\n"
 		let end = "COMMIT;\n"
 		
-		guard FileManager.default.createFile(atPath: sqlFile.path, contents: nil) else {
+		guard FileManager.default.createFile(at: sqlFile, contents: nil) else {
 			throw IOError.fileWritingFailed(url: sqlFile, error: nil)
 		}
 		let handle: FileHandle
@@ -95,7 +95,7 @@ struct SQLPorter {
 	private static func readAndNormalize(contentsOf url: URL) throws -> String {
 		do {
 			// Normalize Unicode characters into NFC, e.g. replacing "\u{0061}\u{0308}" (LATIN SMALL LETTER A + COMBINING DIAERESIS) with "\u{00E4}" (LATIN SMALL LETTER A WITH DIAERESIS)
-			let contents = try String(contentsOfFile: url.path, encoding: .utf8)
+			let contents = try String(contentsOf: url, encoding: .utf8)
 			return contents.precomposedStringWithCanonicalMapping
 		}
 		catch {

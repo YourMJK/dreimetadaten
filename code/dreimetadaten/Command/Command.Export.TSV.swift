@@ -25,9 +25,9 @@ extension Command.Export {
 		var tsvDirectoryPath: String = Command.tsvDir.relativePath
 		
 		func run() throws {
-			let tsvDirectoryURL = URL(fileURLWithPath: tsvDirectoryPath, isDirectory: true)
+			let tsvDirectoryURL = URL(filePath: tsvDirectoryPath, directoryHint: .isDirectory)
 			
-			if !FileManager.default.fileExists(atPath: tsvDirectoryURL.path) {
+			if !FileManager.default.fileExists(at: tsvDirectoryURL) {
 				try FileManager.default.createDirectory(at: tsvDirectoryURL, withIntermediateDirectories: false)
 			}
 			

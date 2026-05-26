@@ -28,12 +28,12 @@ extension Command.Export {
 		var webDataURLString: String = Command.webDataURL.absoluteString
 		
 		func run() throws {
-			let jsonDirectoryURL = URL(fileURLWithPath: jsonDirectoryPath, isDirectory: true)
+			let jsonDirectoryURL = URL(filePath: jsonDirectoryPath, directoryHint: .isDirectory)
 			guard let webDataURL = URL(string: webDataURLString) else {
 				throw ArgumentsError.invalidURL(string: webDataURLString)
 			}
 			
-			if !FileManager.default.fileExists(atPath: jsonDirectoryURL.path) {
+			if !FileManager.default.fileExists(at: jsonDirectoryURL) {
 				try FileManager.default.createDirectory(at: jsonDirectoryURL, withIntermediateDirectories: false)
 			}
 			

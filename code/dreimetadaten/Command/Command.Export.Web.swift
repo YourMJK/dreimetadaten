@@ -34,12 +34,12 @@ extension Command.Export {
 		var webDirPath: String = Command.webDir.relativePath
 		
 		func run() throws {
-			let webDataDirectory = URL(fileURLWithPath: webDataDirectoryPath, isDirectory: true)
-			let webIndexDirectory = URL(fileURLWithPath: webIndexDirectoryPath, isDirectory: true)
+			let webDataDirectory = URL(filePath: webDataDirectoryPath, directoryHint: .isDirectory)
+			let webIndexDirectory = URL(filePath: webIndexDirectoryPath, directoryHint: .isDirectory)
 			guard let webDataURL = URL(string: webDataURLString) else {
 				throw ArgumentsError.invalidURL(string: webDataURLString)
 			}
-			let webDir = URL(fileURLWithPath: webDirPath, isDirectory: true)
+			let webDir = URL(filePath: webDirPath, directoryHint: .isDirectory)
 			
 			let dbQueue = try DatabaseQueue(path: databaseFilePath)
 			try dbQueue.read { db in

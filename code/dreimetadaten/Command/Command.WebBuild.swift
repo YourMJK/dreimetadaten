@@ -42,7 +42,7 @@ extension Command {
 		var ioOptions: IOOptions
 		
 		func run() throws {
-			guard let webDataURL = URL(string: webDataURLString) else {
+			guard let webDataURL = URL(string: webDataURLString), let webDataURLHost = webDataURL.host() else {
 				throw ArgumentError.invalidURL(string: webDataURLString)
 			}
 			
@@ -56,7 +56,7 @@ extension Command {
 				for page in pageArgument.pages {
 					func automaticDefault(_ optionKeyPath: KeyPath<IOOptions, String?>, defaultIn defaultDir: URL) throws -> URL {
 						if let path = ioOptions[keyPath: optionKeyPath] {
-							return URL(fileURLWithPath: path, isDirectory: false)
+							return URL(filePath: path, directoryHint: .notDirectory)
 						}
 						let defaultFile = page.htmlFile
 						return defaultDir.appendingPathComponent(defaultFile, isDirectory: false)
@@ -64,8 +64,8 @@ extension Command {
 					let templateFileURL = try automaticDefault(\.templateFilePath, defaultIn: Command.webTemplatesDir)
 					let outputFileURL = try automaticDefault(\.outputFilePath, defaultIn: Command.webDir)
 					
-					var isDirectory: ObjCBool = false
-					guard FileManager.default.fileExists(atPath: templateFileURL.path, isDirectory: &isDirectory), !isDirectory.boolValue else {
+					var isDirectory = false
+					guard FileManager.default.fileExists(at: templateFileURL, isDirectory: &isDirectory), !isDirectory else {
 						throw ArgumentError.noSuchFile(url: templateFileURL)
 					}
 					
@@ -76,7 +76,7 @@ extension Command {
 								objectModel: objectModel!,
 								collectionType: collectionType,
 								templateFile: templateFileURL,
-								host: webDataURL.host!
+								host: webDataURLHost
 							)
 							
 						case .statistik:

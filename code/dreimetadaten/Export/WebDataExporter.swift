@@ -19,7 +19,7 @@ struct WebDataExporter {
 	init(db: Database, webDataURL: URL, webDir: URL) throws {
 		self.objectModel = try MetadataObjectModel(fromDatabase: db, withBaseURL: webDataURL)
 		self.webDir = webDir
-		guard let host = webDataURL.host else {
+		guard let host = webDataURL.host() else {
 			throw FileError.invalidURL(string: webDataURL.absoluteString)
 		}
 		self.host = host
@@ -83,9 +83,9 @@ struct WebDataExporter {
 			// FileManager.DirectoryEnumerationOptions.producesRelativePathURLs can't be used, option is ignored on Linux
 			let relativePath =
 				if let baseURL = outputDir.baseURL {
-					Command.relativePath(of: url, toDirectory: baseURL)
+					url.relativePath(toDirectory: baseURL)
 				} else {
-					url.path
+					url.absolutePath
 				}
 			existingFilePaths.insert(relativePath)
 		}
@@ -113,7 +113,7 @@ struct WebDataExporter {
 				fileURL = fileURL.appendingPathComponent($0)
 			}
 			// Check and remember file path
-			guard fileURL.path.hasPrefix(outputDir.path) else {
+			guard fileURL.absolutePath.hasPrefix(outputDir.absolutePath) else {
 				throw FileError.filePathOutsideOfOutputDirectory(file: fileURL, outputDir: outputDir)
 			}
 			referencedFiles.append(fileURL)
@@ -198,11 +198,11 @@ struct WebDataExporter {
 			guard let url = URL(string: link) else {
 				throw FileError.invalidURL(string: link)
 			}
-			guard url.host == host else {
+			guard url.host() == host else {
 				throw IndexerError.mismatchedHostInURL(url: url.absoluteString, host: host)
 			}
 			let relativePath = String(url.relativePath.dropFirst())
-			return URL(fileURLWithPath: relativePath, relativeTo: webDir)
+			return URL(filePath: relativePath, relativeTo: webDir)
 		}
 		
 		func index(named name: String, _ mapClosure: (MetadataObjectModel.Hörspiel) throws -> String?) throws {
@@ -223,7 +223,7 @@ struct WebDataExporter {
 				}
 				let sourceFile = indexDir.appendingPathComponent(key)
 				let destinationFile = try fileURLForLink(jsonLink)
-				let destinationRelativePath = Command.relativePath(of: destinationFile, toDirectory: indexDir)
+				let destinationRelativePath = destinationFile.relativePath(toDirectory: indexDir)
 				try Self.createAndOverwriteSymlink(at: sourceFile, to: destinationRelativePath)
 				
 				dictionary[key] = jsonLink
@@ -293,7 +293,7 @@ struct WebDataExporter {
 	
 	private static func createDirectoryIfNeccessary(at url: URL) throws {
 		do {
-			try FileManager.default.createDirectory(atPath: url.path, withIntermediateDirectories: true, attributes: nil)
+			try FileManager.default.createDirectory(at: url, withIntermediateDirectories: true, attributes: nil)
 		}
 		catch {
 			throw FileError.directoryCreationFailed(url: url, error: error)
@@ -302,14 +302,14 @@ struct WebDataExporter {
 	
 	private static func createAndOverwriteSymlink(at sourceURL: URL, to destinationRelativePath: String) throws {
 		let manager = FileManager.default
-		if manager.fileExists(atPath: sourceURL.path) {
+		if manager.fileExists(at: sourceURL) {
 			let values = try sourceURL.resourceValues(forKeys: [.isSymbolicLinkKey])
 			guard values.isSymbolicLink! else {
 				throw FileError.symlinkCreationOverwritesFile(url: sourceURL)
 			}
 			try manager.removeItem(at: sourceURL)
 		}
-		try manager.createSymbolicLink(atPath: sourceURL.path, withDestinationPath: destinationRelativePath)
+		try manager.createSymbolicLink(at: sourceURL, withDestinationPath: destinationRelativePath)
 	}
 	
 }
@@ -328,13 +328,13 @@ extension WebDataExporter {
 				case .invalidURL(let string):
 					return "Invalid URL \"\(string)\""
 				case .filePathOutsideOfOutputDirectory(let file, let outputDir):
-					return "File path \"\(file.path)\" derived from object model points outside of specified output directory \"\(outputDir.path)\""
+					return "File path \"\(file.absolutePath)\" derived from object model points outside of specified output directory \"\(outputDir.absolutePath)\""
 				case .directoryCreationFailed(let url, let error):
 					return "Couldn't create directory at \"\(url.relativePath)\": \(error.localizedDescription)"
 				case .directoryEnumerationFailed(let url):
 					return "Couldn't enumerate contents of directory \"\(url.relativePath)\""
 				case .symlinkCreationOverwritesFile(let url):
-					return "Creating a symlink at \"\(url.path)\" would overwrite existing non-symlink file"
+					return "Creating a symlink at \"\(url.absolutePath)\" would overwrite existing non-symlink file"
 			}
 		}
 	}

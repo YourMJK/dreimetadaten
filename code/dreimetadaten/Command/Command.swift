@@ -13,13 +13,13 @@ import ArgumentParser
 struct Command: AsyncParsableCommand {
 	static let configuration = CommandConfiguration(
 		commandName: executableName,
-		version: "2.10.3",
+		version: "2.10.4",
 		subcommands: [Load.self, Export.self, WebBuild.self, Import.self, Test.self],
 		helpMessageLabelColumnWidth: 20
 	)
 	
-	static let workingDir = URL(fileURLWithPath: FileManager.default.currentDirectoryPath, isDirectory: true)
-	static let projectDir = URL(fileURLWithPath: CommandLine.arguments.first!, isDirectory: false)
+	static let workingDir = URL(filePath: FileManager.default.currentDirectoryPath, directoryHint: .isDirectory)
+	static let projectDir = URL(filePath: CommandLine.arguments.first!, directoryHint: .notDirectory)
 		.deletingLastPathComponent()
 		.appendingPathComponent("..")
 	
@@ -38,21 +38,10 @@ struct Command: AsyncParsableCommand {
 	static let webTemplatesDir = url(projectRelativePath: "web_templates")
 	
 	static func url(projectRelativePath projectDirRelativePath: String) -> URL {
-		let dest = URL(fileURLWithPath: projectDirRelativePath, relativeTo: projectDir)
+		let dest = URL(filePath: projectDirRelativePath, relativeTo: projectDir)
 		let base = workingDir
-		let workingDirRelativePath = relativePath(of: dest, toDirectory: base)
-		return URL(fileURLWithPath: workingDirRelativePath, relativeTo: workingDir)
-	}
-	static func relativePath(of dest: URL, toDirectory base: URL) -> String {
-		let destComponents = dest.standardizedFileURL.pathComponents
-		let baseComponents = base.standardizedFileURL.pathComponents
-		var index = 0
-		while index < destComponents.count && index < baseComponents.count && destComponents[index] == baseComponents[index] {
-			index += 1
-		}
-		var relComponents = Array(repeating: "..", count: baseComponents.count - index)
-		relComponents.append(contentsOf: destComponents[index...])
-		return relComponents.joined(separator: "/")
+		let workingDirRelativePath = dest.relativePath(toDirectory: base)
+		return URL(filePath: workingDirRelativePath, relativeTo: workingDir)
 	}
 }
 

@@ -142,7 +142,7 @@ class CollectionPageBuilder: PageBuilder {
 			guard let url = URL(string: link) else {
 				throw BuildingError.invalidURL(string: link)
 			}
-			if url.host == host {
+			if url.host() == host {
 				return String(url.relativePath.dropFirst())
 			}
 			return link
