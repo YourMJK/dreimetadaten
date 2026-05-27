@@ -323,7 +323,7 @@ Beispiel:
 `$ sqlite3 metadata/db.sqlite < commands.txt`  
 wobei Inhalt von `commands.txt` z.B.:
 ``` sql
-UPDATE hörspiel SET urlSpotify = "https://…" WHERE titel = "und der Super-Papagei";
+UPDATE hörspiel SET idSpotify = "…" WHERE titel = "und der Super-Papagei";
 ...
 ```
 3. **Datenbank speichern**:  
