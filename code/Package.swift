@@ -9,7 +9,7 @@ let package = Package(
 		.executable(name: "dreimetadaten", targets: ["dreimetadaten"]),
 	],
 	dependencies: [
-		.package(url: "https://github.com/YourMJK/CommandLineTool", from: "1.1.0"),
+		.package(url: "https://github.com/YourMJK/CommandLineTool", from: "1.2.0"),
 		.package(url: "https://github.com/YourMJK/swift-HTML", from: "1.0.1"),
 		.package(url: "https://github.com/dehesa/CodableCSV", from: "0.6.0"),
 		.package(url: "https://github.com/groue/GRDB.swift", from: "7.10.0"),

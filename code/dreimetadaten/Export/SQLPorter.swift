@@ -7,13 +7,14 @@
 
 import Foundation
 import GRDB
+import CommandLineTool
 
 
 struct SQLPorter {
 	let databaseFile: URL
 	let sqliteBinary: URL
 	
-	static let defaultSqliteBinaryPath = Command.findExecutablePath(name: "sqlite3") ?? "/usr/bin/sqlite3"
+	static let defaultSqliteBinaryPath = CommandLineTool.findExecutablePath(name: "sqlite3") ?? "/usr/bin/sqlite3"
 	private static let minimumRequiredSqliteVersion = (major: 3, minor: 50)
 	
 	init(databaseFile: URL, sqliteBinary: URL) throws {

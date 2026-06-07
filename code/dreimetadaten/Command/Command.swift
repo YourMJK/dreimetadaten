@@ -13,7 +13,7 @@ import ArgumentParser
 struct Command: AsyncParsableCommand {
 	static let configuration = CommandConfiguration(
 		commandName: executableName,
-		version: "2.10.4",
+		version: "2.10.5",
 		subcommands: [Load.self, Export.self, WebBuild.self, Import.self, Test.self],
 		helpMessageLabelColumnWidth: 20
 	)
@@ -43,28 +43,4 @@ struct Command: AsyncParsableCommand {
 		let workingDirRelativePath = dest.relativePath(toDirectory: base)
 		return URL(filePath: workingDirRelativePath, relativeTo: workingDir)
 	}
-}
-
-
-extension Command {
-	static func findExecutablePath(name: String) -> String? {
-		let pathVariable = ProcessInfo.processInfo.environment["PATH"]
-		let pathVariableComponents = pathVariable?.split(separator: ":").map { String($0) }
-		let searchPaths = (pathVariableComponents ?? []) + defaultSearchPaths
-		for searchPath in searchPaths {
-			let executablePath = String(searchPath) + "/" + name
-			if FileManager.default.isExecutableFile(atPath: executablePath) {
-				return executablePath
-			}
-		}
-		return nil
-	}
-	
-	private static let defaultSearchPaths = [
-		"/usr/bin",
-		"/bin",
-		"/usr/sbin",
-		"/sbin",
-		"/usr/local/bin",
-	]
 }
