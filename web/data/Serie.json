@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.10.2",
-    "lastModified" : "2026-05-23T01:47:26Z"
+    "version" : "2.10.3",
+    "lastModified" : "2026-06-23T10:19:36Z"
   },
   "serie" : [
     {
@@ -48146,12 +48146,23 @@
       "nummer" : 240,
       "titel" : "und die schwarze Rose",
       "autor" : "Ben Nevis",
-      "veröffentlichungsdatum" : "2026-07-17",
+      "veröffentlichungsdatum" : "2026-07-24",
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/240/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Serie/240/metadata.json",
+        "artwork" : "http://dreimetadaten.de/data/Serie/240/artwork.webp",
+        "cover" : "http://dreimetadaten.de/data/Serie/240/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/22/a5/e5/22a5e553-d13e-c09f-a993-d1974c31cf48/196873622910.jpg",
+        "appleMusic" : "https://music.apple.com/de/album/6770563852",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1974371",
+        "amazonMusic" : "https://music.amazon.de/albums/B0H26RDM4C",
+        "amazon" : "https://www.amazon.de/gp/product/B0GSSVW2QW"
       },
       "ids" : {
-        "dreimetadaten" : 431
+        "dreimetadaten" : 431,
+        "appleMusic" : "6770563852",
+        "bookbeat" : "1974371",
+        "amazonMusic" : "B0H26RDM4C",
+        "amazon" : "B0GSSVW2QW"
       },
       "unvollständig" : true
     },
