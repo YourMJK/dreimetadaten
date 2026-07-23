@@ -1,0 +1,188 @@
+{
+  "nummer" : 102,
+  "titel" : "Spur der Tresorknacker",
+  "autor" : "Ulf Blanck",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "gesamtbeschreibung" : "Die drei ??? Kids übernehmen einen überaus mysteriösen Fall.\nDie Spuren führen zu einem Tresorexperten, der alles über Sicherheitssysteme weiß. Justus, Peter und Bob ermitteln in ganz unterschiedliche Richtungen.",
+  "kurzbeschreibung" : "Die drei ??? Kids übernehmen einen überaus mysteriösen Fall.",
+  "beschreibung" : "Die Spuren führen zu einem Tresorexperten, der alles über Sicherheitssysteme weiß. Justus, Peter und Bob ermitteln in ganz unterschiedliche Richtungen.",
+  "veröffentlichungsdatum" : "2026-03-13",
+  "gesamtdauer" : 4872120,
+  "kapitel" : [
+    {
+      "titel" : "Bankgeheimnisse",
+      "start" : 0,
+      "end" : 418867
+    },
+    {
+      "titel" : "Spurensuche",
+      "start" : 418867,
+      "end" : 1067573
+    },
+    {
+      "titel" : "Sonntagskuchen",
+      "start" : 1067573,
+      "end" : 1481787
+    },
+    {
+      "titel" : "Falsches Geld",
+      "start" : 1481787,
+      "end" : 2148000
+    },
+    {
+      "titel" : "Kellergeister",
+      "start" : 2148000,
+      "end" : 2648000
+    },
+    {
+      "titel" : "Fort Knox",
+      "start" : 2648000,
+      "end" : 3212173
+    },
+    {
+      "titel" : "Tresorknacker",
+      "start" : 3212173,
+      "end" : 3855973
+    },
+    {
+      "titel" : "Falscher Zeuge",
+      "start" : 3855973,
+      "end" : 4434053
+    },
+    {
+      "titel" : "Praktikantentricks",
+      "start" : 4434053,
+      "end" : 4872120
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Kommissar Reynolds",
+      "sprecher" : "Bert Franzke"
+    },
+    {
+      "rolle" : "Henry Hopkins",
+      "sprecher" : "Till Hagen"
+    },
+    {
+      "rolle" : "Nicolas Flint",
+      "sprecher" : "Matthias Klages"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Mr. Mahony",
+      "sprecher" : "Roland Hemmo"
+    },
+    {
+      "rolle" : "Sarah Mahony",
+      "sprecher" : "Bettina Kurth"
+    },
+    {
+      "rolle" : "Ronnie Ventura",
+      "sprecher" : "Daniel Sellier"
+    },
+    {
+      "rolle" : "Polizeibeamter",
+      "sprecher" : "Andreas Ersson"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/102/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Kids/102/ffmetadata.txt",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/5a/c1/75/5ac1754c-4632-252b-922d-47a7df6f494b/196873695846.jpg",
+    "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produktwelt/hoerspiele/cover/ddfk-102.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/spur-der-tresorknacker",
+    "appleMusic" : "https://music.apple.com/de/album/1872987119",
+    "spotify" : "https://open.spotify.com/intl-de/album/14GyPFeUi6pNCgjHgF9zUw",
+    "bookbeat" : "https://www.bookbeat.com/de/book/1868842",
+    "amazonMusic" : "https://music.amazon.de/albums/B0GKHF99PP",
+    "amazon" : "https://www.amazon.de/gp/product/B0FX3D4GTH",
+    "youTubeMusic" : "https://music.youtube.com/browse/MPREb_xMBg5ezcyKw",
+    "deezer" : "https://www.deezer.com/de/album/907674572"
+  },
+  "ids" : {
+    "dreimetadaten" : 437,
+    "appleMusic" : "1872987119",
+    "spotify" : "14GyPFeUi6pNCgjHgF9zUw",
+    "bookbeat" : "1868842",
+    "amazonMusic" : "B0GKHF99PP",
+    "amazon" : "B0FX3D4GTH",
+    "youTubeMusic" : "MPREb_xMBg5ezcyKw",
+    "deezer" : "907674572"
+  },
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Bankgeheimnisse",
+          "start" : 0,
+          "end" : 418867
+        },
+        {
+          "titel" : "Spurensuche",
+          "start" : 418867,
+          "end" : 1067573
+        },
+        {
+          "titel" : "Sonntagskuchen",
+          "start" : 1067573,
+          "end" : 1481787
+        },
+        {
+          "titel" : "Falsches Geld",
+          "start" : 1481787,
+          "end" : 2148000
+        },
+        {
+          "titel" : "Kellergeister",
+          "start" : 2148000,
+          "end" : 2648000
+        },
+        {
+          "titel" : "Fort Knox",
+          "start" : 2648000,
+          "end" : 3212173
+        },
+        {
+          "titel" : "Tresorknacker",
+          "start" : 3212173,
+          "end" : 3855973
+        },
+        {
+          "titel" : "Falscher Zeuge",
+          "start" : 3855973,
+          "end" : 4434053
+        },
+        {
+          "titel" : "Praktikantentricks",
+          "start" : 4434053,
+          "end" : 4872120
+        }
+      ],
+      "musicBrainzID" : "hag2dIl1jJjnZyG93zt5n8xD8Y8-"
+    }
+  ]
+}

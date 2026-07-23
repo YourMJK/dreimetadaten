@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.10.3",
-    "lastModified" : "2026-06-23T10:19:36Z"
+    "version" : "2.10.4",
+    "lastModified" : "2026-07-23T11:31:33Z"
   },
   "serie" : [
     {
@@ -80125,6 +80125,481 @@
         "amazon" : "3803260833",
         "youTubeMusic" : "MPREb_lLDbu2B6sNK",
         "deezer" : "782826401"
+      },
+      "unvollständig" : true
+    },
+    {
+      "titel" : "Adventskalender: 24 Tage Weihnachtsparade",
+      "autor" : "Ulf Blanck",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "gesamtbeschreibung" : "Eine Weihnachtsparade in Rocky Beach! Onkel Titus hat eigens dafür einen Wagen gebaut und geschmückt. Justus, Peter und Bob sind begeistert. Doch dann geht plötzlich einiges schief. Die drei ??? Kids verfolgen eine mysteriöse Spur in den Bergen und versuchen die Parade zu retten!",
+      "beschreibung" : "Eine Weihnachtsparade in Rocky Beach! Onkel Titus hat eigens dafür einen Wagen gebaut und geschmückt. Justus, Peter und Bob sind begeistert. Doch dann geht plötzlich einiges schief. Die drei ??? Kids verfolgen eine mysteriöse Spur in den Bergen und versuchen die Parade zu retten!",
+      "metabeschreibung" : "Ein winterliches Detektivabenteuer in 24 Kapiteln! Beginne am 1. Dezember und höre bis Weihnachten jeden Tag ein Kapitel.",
+      "veröffentlichungsdatum" : "2025-11-07",
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Johannes Steck"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Jannik Schümann"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Yoshij Grimm"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "David Wittmann"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Ingrid Capelle"
+        },
+        {
+          "rolle" : "Kranführer",
+          "sprecher" : "Markus Kästle"
+        },
+        {
+          "rolle" : "Bürgermeister Plimsfield",
+          "sprecher" : "Mario Hassert"
+        },
+        {
+          "rolle" : "Kommissar Reynolds",
+          "sprecher" : "Bert Franzke"
+        },
+        {
+          "rolle" : "Norah Carson",
+          "sprecher" : "Katja Hirsch"
+        },
+        {
+          "rolle" : "Mike",
+          "sprecher" : "Andi Königsmann"
+        },
+        {
+          "rolle" : "Darrel",
+          "sprecher" : "Karlo Hackenberger"
+        },
+        {
+          "rolle" : "Brian",
+          "sprecher" : "Kaze Uzumaki"
+        },
+        {
+          "rolle" : "Porter",
+          "sprecher" : "Tommi Piper"
+        },
+        {
+          "rolle" : "Giovanni",
+          "sprecher" : "Roland Geiger"
+        },
+        {
+          "rolle" : "Hilpert Pennigton",
+          "sprecher" : "Jörg Pasquay"
+        },
+        {
+          "rolle" : "Clifford Mac Womack",
+          "sprecher" : "Samuel Zekarias"
+        },
+        {
+          "rolle" : "Lagerist",
+          "sprecher" : "Marko Bräutigam"
+        },
+        {
+          "rolle" : "Bürgermeisterin Gallardo",
+          "sprecher" : "Anke Reitzenstein"
+        },
+        {
+          "rolle" : "Mrs. Kirksey",
+          "sprecher" : "Rita Ringheanu"
+        },
+        {
+          "rolle" : "Mrs. Lucy Allister",
+          "sprecher" : "Lea Kalbhenn"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/Adventskalender-24-Tage-Weihnachtsparade/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/df/bb/96/dfbb96e0-2180-e25d-5a4a-3ec676c1bff2/196872298185.jpg",
+        "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produktwelt/hoerspiele/cover/ddfk-ak25.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/24-tage-weihnachtsparade",
+        "appleMusic" : "https://music.apple.com/de/album/1844305745",
+        "spotify" : "https://open.spotify.com/intl-de/album/2Xn2j4vYeYALVmoDj6NT5D",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1759520",
+        "amazonMusic" : "https://music.amazon.de/albums/B0FTZ6JV6Y",
+        "amazon" : "https://www.amazon.de/gp/product/3803233380",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_92Mipphus6u",
+        "deezer" : "https://www.deezer.com/de/album/833081741"
+      },
+      "ids" : {
+        "dreimetadaten" : 435,
+        "appleMusic" : "1844305745",
+        "spotify" : "2Xn2j4vYeYALVmoDj6NT5D",
+        "bookbeat" : "1759520",
+        "amazonMusic" : "B0FTZ6JV6Y",
+        "amazon" : "3803233380",
+        "youTubeMusic" : "MPREb_92Mipphus6u",
+        "deezer" : "833081741"
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 101,
+      "titel" : "Geistermusik",
+      "autor" : "Boris Pfeiffer",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "gesamtbeschreibung" : "Onkel Titus hat einen alten Konzertflügel ergattert. Doch plötzlich hören Justus, Peter und Bob unerklärliche Töne in der Nacht.\nSpielt das Klavier etwa von selbst? Die drei ??? Kids sind ratlos. Hat hier ein Geist die Hände im Spiel?",
+      "kurzbeschreibung" : "Onkel Titus hat einen alten Konzertflügel ergattert. Doch plötzlich hören Justus, Peter und Bob unerklärliche Töne in der Nacht.",
+      "beschreibung" : "Spielt das Klavier etwa von selbst? Die drei ??? Kids sind ratlos. Hat hier ein Geist die Hände im Spiel?",
+      "veröffentlichungsdatum" : "2025-12-05",
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Johannes Steck"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Jannik Schümann"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Yoshij Grimm"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "David Wittmann"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Eddi Kane",
+          "sprecher" : "Thomas Fedrowitz"
+        },
+        {
+          "rolle" : "Susan Sevilla",
+          "sprecher" : "Gabi Franke"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Ingrid Capelle"
+        },
+        {
+          "rolle" : "Miss Bennett",
+          "sprecher" : "Jana Kozewa"
+        },
+        {
+          "rolle" : "Pförtner",
+          "sprecher" : "Bodo Henkel"
+        },
+        {
+          "rolle" : "Fred Long",
+          "sprecher" : "Gunnar Blanck"
+        },
+        {
+          "rolle" : "Lisa Long",
+          "sprecher" : "Jana Mehmann"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/101/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/c5/ca/cb/c5cacb7c-2a0e-b715-0e76-5173137d8b92/196872295320.jpg",
+        "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produktwelt/hoerspiele/cover/ddfk-101.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/geistermusik-1",
+        "appleMusic" : "https://music.apple.com/de/album/1849207129",
+        "spotify" : "https://open.spotify.com/intl-de/album/6lJ7alLhPIHLRz411gDUut",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1780344",
+        "amazonMusic" : "https://music.amazon.de/albums/B0FY3RH8F9",
+        "amazon" : "https://www.amazon.de/gp/product/3803260841",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_IefhPZ5teTI",
+        "deezer" : "https://www.deezer.com/de/album/846003612"
+      },
+      "ids" : {
+        "dreimetadaten" : 436,
+        "appleMusic" : "1849207129",
+        "spotify" : "6lJ7alLhPIHLRz411gDUut",
+        "bookbeat" : "1780344",
+        "amazonMusic" : "B0FY3RH8F9",
+        "amazon" : "3803260841",
+        "youTubeMusic" : "MPREb_IefhPZ5teTI",
+        "deezer" : "846003612"
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 102,
+      "titel" : "Spur der Tresorknacker",
+      "autor" : "Ulf Blanck",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "gesamtbeschreibung" : "Die drei ??? Kids übernehmen einen überaus mysteriösen Fall.\nDie Spuren führen zu einem Tresorexperten, der alles über Sicherheitssysteme weiß. Justus, Peter und Bob ermitteln in ganz unterschiedliche Richtungen.",
+      "kurzbeschreibung" : "Die drei ??? Kids übernehmen einen überaus mysteriösen Fall.",
+      "beschreibung" : "Die Spuren führen zu einem Tresorexperten, der alles über Sicherheitssysteme weiß. Justus, Peter und Bob ermitteln in ganz unterschiedliche Richtungen.",
+      "veröffentlichungsdatum" : "2026-03-13",
+      "gesamtdauer" : 4872120,
+      "kapitel" : [
+        {
+          "titel" : "Bankgeheimnisse",
+          "start" : 0,
+          "end" : 418867
+        },
+        {
+          "titel" : "Spurensuche",
+          "start" : 418867,
+          "end" : 1067573
+        },
+        {
+          "titel" : "Sonntagskuchen",
+          "start" : 1067573,
+          "end" : 1481787
+        },
+        {
+          "titel" : "Falsches Geld",
+          "start" : 1481787,
+          "end" : 2148000
+        },
+        {
+          "titel" : "Kellergeister",
+          "start" : 2148000,
+          "end" : 2648000
+        },
+        {
+          "titel" : "Fort Knox",
+          "start" : 2648000,
+          "end" : 3212173
+        },
+        {
+          "titel" : "Tresorknacker",
+          "start" : 3212173,
+          "end" : 3855973
+        },
+        {
+          "titel" : "Falscher Zeuge",
+          "start" : 3855973,
+          "end" : 4434053
+        },
+        {
+          "titel" : "Praktikantentricks",
+          "start" : 4434053,
+          "end" : 4872120
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Johannes Steck"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Jannik Schümann"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Yoshij Grimm"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "David Wittmann"
+        },
+        {
+          "rolle" : "Kommissar Reynolds",
+          "sprecher" : "Bert Franzke"
+        },
+        {
+          "rolle" : "Henry Hopkins",
+          "sprecher" : "Till Hagen"
+        },
+        {
+          "rolle" : "Nicolas Flint",
+          "sprecher" : "Matthias Klages"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Ingrid Capelle"
+        },
+        {
+          "rolle" : "Mr. Mahony",
+          "sprecher" : "Roland Hemmo"
+        },
+        {
+          "rolle" : "Sarah Mahony",
+          "sprecher" : "Bettina Kurth"
+        },
+        {
+          "rolle" : "Ronnie Ventura",
+          "sprecher" : "Daniel Sellier"
+        },
+        {
+          "rolle" : "Polizeibeamter",
+          "sprecher" : "Andreas Ersson"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/102/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Kids/102/ffmetadata.txt",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/5a/c1/75/5ac1754c-4632-252b-922d-47a7df6f494b/196873695846.jpg",
+        "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produktwelt/hoerspiele/cover/ddfk-102.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/spur-der-tresorknacker",
+        "appleMusic" : "https://music.apple.com/de/album/1872987119",
+        "spotify" : "https://open.spotify.com/intl-de/album/14GyPFeUi6pNCgjHgF9zUw",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1868842",
+        "amazonMusic" : "https://music.amazon.de/albums/B0GKHF99PP",
+        "amazon" : "https://www.amazon.de/gp/product/B0FX3D4GTH",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_xMBg5ezcyKw",
+        "deezer" : "https://www.deezer.com/de/album/907674572"
+      },
+      "ids" : {
+        "dreimetadaten" : 437,
+        "appleMusic" : "1872987119",
+        "spotify" : "14GyPFeUi6pNCgjHgF9zUw",
+        "bookbeat" : "1868842",
+        "amazonMusic" : "B0GKHF99PP",
+        "amazon" : "B0FX3D4GTH",
+        "youTubeMusic" : "MPREb_xMBg5ezcyKw",
+        "deezer" : "907674572"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Bankgeheimnisse",
+              "start" : 0,
+              "end" : 418867
+            },
+            {
+              "titel" : "Spurensuche",
+              "start" : 418867,
+              "end" : 1067573
+            },
+            {
+              "titel" : "Sonntagskuchen",
+              "start" : 1067573,
+              "end" : 1481787
+            },
+            {
+              "titel" : "Falsches Geld",
+              "start" : 1481787,
+              "end" : 2148000
+            },
+            {
+              "titel" : "Kellergeister",
+              "start" : 2148000,
+              "end" : 2648000
+            },
+            {
+              "titel" : "Fort Knox",
+              "start" : 2648000,
+              "end" : 3212173
+            },
+            {
+              "titel" : "Tresorknacker",
+              "start" : 3212173,
+              "end" : 3855973
+            },
+            {
+              "titel" : "Falscher Zeuge",
+              "start" : 3855973,
+              "end" : 4434053
+            },
+            {
+              "titel" : "Praktikantentricks",
+              "start" : 4434053,
+              "end" : 4872120
+            }
+          ],
+          "musicBrainzID" : "hag2dIl1jJjnZyG93zt5n8xD8Y8-"
+        }
+      ]
+    },
+    {
+      "nummer" : 103,
+      "titel" : "SOS im Bike-Park",
+      "autor" : "Boris Pfeiffer",
+      "hörspielskriptautor" : "Ulf Blanck",
+      "gesamtbeschreibung" : "Peter überredet Justus und Bob zu einem Abenteuer auf speziellen Downhill-Rädern.\nDoch im Camp geht so einiges drunter und drüber. Können die drei ??? Kids den Saboteur entlarven?",
+      "kurzbeschreibung" : "Peter überredet Justus und Bob zu einem Abenteuer auf speziellen Downhill-Rädern.",
+      "beschreibung" : "Doch im Camp geht so einiges drunter und drüber. Können die drei ??? Kids den Saboteur entlarven?",
+      "veröffentlichungsdatum" : "2026-07-03",
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Johannes Steck"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Jannik Schümann"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Yoshij Grimm"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "David Wittmann"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Frauke Poolman"
+        },
+        {
+          "rolle" : "Edward Spitz",
+          "sprecher" : "Clemens Gerhard"
+        },
+        {
+          "rolle" : "Valery Spitz",
+          "sprecher" : "Iris Artajo"
+        },
+        {
+          "rolle" : "Missy Air",
+          "sprecher" : "Moira May"
+        },
+        {
+          "rolle" : "Kommissar Reynolds",
+          "sprecher" : "Bert Franzke"
+        },
+        {
+          "rolle" : "Porter",
+          "sprecher" : "Tommi Piper"
+        },
+        {
+          "rolle" : "Dieb",
+          "sprecher" : "Robert Frank"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kids/103/metadata.json",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/46/e0/09/46e0091d-ca4c-58c7-825e-465afe10eac4/196873695884.jpg",
+        "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produktwelt/hoerspiele/cover/ddfk-103.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/sos-im-bike-park",
+        "appleMusic" : "https://music.apple.com/de/album/6775767498",
+        "spotify" : "https://open.spotify.com/intl-de/album/7rLkOzBiK5q5GHP3L9IaJl",
+        "bookbeat" : "https://www.bookbeat.com/de/book/1982628",
+        "amazonMusic" : "https://music.amazon.de/albums/B0H3P7NNVX",
+        "amazon" : "https://www.amazon.de/gp/product/B0GNPB5V1J",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_9UxSQhrlXT8",
+        "deezer" : "https://www.deezer.com/de/album/996310511"
+      },
+      "ids" : {
+        "dreimetadaten" : 438,
+        "appleMusic" : "6775767498",
+        "spotify" : "7rLkOzBiK5q5GHP3L9IaJl",
+        "bookbeat" : "1982628",
+        "amazonMusic" : "B0H3P7NNVX",
+        "amazon" : "B0GNPB5V1J",
+        "youTubeMusic" : "MPREb_9UxSQhrlXT8",
+        "deezer" : "996310511"
       },
       "unvollständig" : true
     }

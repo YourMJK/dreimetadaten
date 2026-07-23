@@ -1,0 +1,84 @@
+{
+  "nummer" : 101,
+  "titel" : "Geistermusik",
+  "autor" : "Boris Pfeiffer",
+  "hörspielskriptautor" : "Ulf Blanck",
+  "gesamtbeschreibung" : "Onkel Titus hat einen alten Konzertflügel ergattert. Doch plötzlich hören Justus, Peter und Bob unerklärliche Töne in der Nacht.\nSpielt das Klavier etwa von selbst? Die drei ??? Kids sind ratlos. Hat hier ein Geist die Hände im Spiel?",
+  "kurzbeschreibung" : "Onkel Titus hat einen alten Konzertflügel ergattert. Doch plötzlich hören Justus, Peter und Bob unerklärliche Töne in der Nacht.",
+  "beschreibung" : "Spielt das Klavier etwa von selbst? Die drei ??? Kids sind ratlos. Hat hier ein Geist die Hände im Spiel?",
+  "veröffentlichungsdatum" : "2025-12-05",
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Johannes Steck"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Jannik Schümann"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Yoshij Grimm"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "David Wittmann"
+    },
+    {
+      "rolle" : "Onkel Titus",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Eddi Kane",
+      "sprecher" : "Thomas Fedrowitz"
+    },
+    {
+      "rolle" : "Susan Sevilla",
+      "sprecher" : "Gabi Franke"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Ingrid Capelle"
+    },
+    {
+      "rolle" : "Miss Bennett",
+      "sprecher" : "Jana Kozewa"
+    },
+    {
+      "rolle" : "Pförtner",
+      "sprecher" : "Bodo Henkel"
+    },
+    {
+      "rolle" : "Fred Long",
+      "sprecher" : "Gunnar Blanck"
+    },
+    {
+      "rolle" : "Lisa Long",
+      "sprecher" : "Jana Mehmann"
+    }
+  ],
+  "links" : {
+    "json" : "http://dreimetadaten.de/data/Kids/101/metadata.json",
+    "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/c5/ca/cb/c5cacb7c-2a0e-b715-0e76-5173137d8b92/196872295320.jpg",
+    "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produktwelt/hoerspiele/cover/ddfk-101.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen-kids.de/produktwelt/produkt-details/geistermusik-1",
+    "appleMusic" : "https://music.apple.com/de/album/1849207129",
+    "spotify" : "https://open.spotify.com/intl-de/album/6lJ7alLhPIHLRz411gDUut",
+    "bookbeat" : "https://www.bookbeat.com/de/book/1780344",
+    "amazonMusic" : "https://music.amazon.de/albums/B0FY3RH8F9",
+    "amazon" : "https://www.amazon.de/gp/product/3803260841",
+    "youTubeMusic" : "https://music.youtube.com/browse/MPREb_IefhPZ5teTI",
+    "deezer" : "https://www.deezer.com/de/album/846003612"
+  },
+  "ids" : {
+    "dreimetadaten" : 436,
+    "appleMusic" : "1849207129",
+    "spotify" : "6lJ7alLhPIHLRz411gDUut",
+    "bookbeat" : "1780344",
+    "amazonMusic" : "B0FY3RH8F9",
+    "amazon" : "3803260841",
+    "youTubeMusic" : "MPREb_IefhPZ5teTI",
+    "deezer" : "846003612"
+  },
+  "unvollständig" : true
+}
