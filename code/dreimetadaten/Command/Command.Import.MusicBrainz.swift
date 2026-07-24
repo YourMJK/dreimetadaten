@@ -12,7 +12,7 @@ import GRDB
 
 
 extension Command.Import {
-	struct MusicBrainz: ParsableCommand {
+	struct MusicBrainz: AsyncParsableCommand {
 		static let configuration = CommandConfiguration(
 			commandName: "mb",
 			abstract: "Import data from MusicBrainz.",
