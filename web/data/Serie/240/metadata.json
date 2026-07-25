@@ -2,23 +2,177 @@
   "nummer" : 240,
   "titel" : "und die schwarze Rose",
   "autor" : "Ben Nevis",
+  "hörspielskriptautor" : "André Minninger",
+  "gesamtbeschreibung" : "Wer schickt dem ersten Detektiv eine schwarze Rose? Justus ist beunruhigt und macht sich mit seinen Freunden auf die Suche nach dem Absender.\nSchnell finden die drei ??? heraus, aus welcher Gärtnerei die Blume stammt, und machen sich auf den Weg zu der ehemaligen Klosteranlage. Hinter den efeuberankten Mauern stoßen sie auf so manches Geheimnis und der Wettkampf um die schwarze Rose beginnt! Denn bislang ist es offiziell noch niemandem geglückt, eine schwarze Rose zu züchten. Zu allem Überfluss sollen in den alten Gemäuern auch noch Seelen der verstorbenen Mönche ihr Unwesen treiben …",
+  "kurzbeschreibung" : "Wer schickt dem ersten Detektiv eine schwarze Rose? Justus ist beunruhigt und macht sich mit seinen Freunden auf die Suche nach dem Absender.",
+  "beschreibung" : "Schnell finden die drei ??? heraus, aus welcher Gärtnerei die Blume stammt, und machen sich auf den Weg zu der ehemaligen Klosteranlage. Hinter den efeuberankten Mauern stoßen sie auf so manches Geheimnis und der Wettkampf um die schwarze Rose beginnt! Denn bislang ist es offiziell noch niemandem geglückt, eine schwarze Rose zu züchten. Zu allem Überfluss sollen in den alten Gemäuern auch noch Seelen der verstorbenen Mönche ihr Unwesen treiben …",
   "veröffentlichungsdatum" : "2026-07-24",
+  "gesamtdauer" : 4169293,
+  "kapitel" : [
+    {
+      "titel" : "Schwarze Post",
+      "start" : 0,
+      "end" : 635253
+    },
+    {
+      "titel" : "Aushilfsgärtner gesucht",
+      "start" : 635253,
+      "end" : 1256587
+    },
+    {
+      "titel" : "Der verbotene Ort",
+      "start" : 1256587,
+      "end" : 1857293
+    },
+    {
+      "titel" : "Heftige Schläge",
+      "start" : 1857293,
+      "end" : 2600560
+    },
+    {
+      "titel" : "Bewerbungsgespräch",
+      "start" : 2600560,
+      "end" : 3140600
+    },
+    {
+      "titel" : "Der braune Umschlag",
+      "start" : 3140600,
+      "end" : 3564013
+    },
+    {
+      "titel" : "Die schwarze Rose",
+      "start" : 3564013,
+      "end" : 4169293
+    }
+  ],
+  "sprechrollen" : [
+    {
+      "rolle" : "Erzähler",
+      "sprecher" : "Axel Milberg"
+    },
+    {
+      "rolle" : "Justus Jonas, Erster Detektiv",
+      "sprecher" : "Oliver Rohrbeck"
+    },
+    {
+      "rolle" : "Peter Shaw, Zweiter Detektiv",
+      "sprecher" : "Jens Wawrczeck"
+    },
+    {
+      "rolle" : "Bob Andrews, Recherchen und Archiv",
+      "sprecher" : "Andreas Fröhlich"
+    },
+    {
+      "rolle" : "Tante Mathilda",
+      "sprecher" : "Karin Lieneweg"
+    },
+    {
+      "rolle" : "Linh Huong",
+      "sprecher" : "Neele Pettig"
+    },
+    {
+      "rolle" : "Ken Keaton",
+      "sprecher" : "Konstantin Graudus"
+    },
+    {
+      "rolle" : "O'Brien",
+      "sprecher" : "Christian Rudolf"
+    },
+    {
+      "rolle" : "Tessa Palmer",
+      "sprecher" : "Andrea Lüdke"
+    },
+    {
+      "rolle" : "Marco Ribcev",
+      "sprecher" : "Joachim Kretzer"
+    },
+    {
+      "rolle" : "Officer Jones",
+      "sprecher" : "Oliver Böttcher"
+    },
+    {
+      "rolle" : "Officer Parker",
+      "sprecher" : "Achim Schülke"
+    },
+    {
+      "rolle" : "Audrey",
+      "sprecher" : "Neda Rahmanian"
+    },
+    {
+      "rolle" : "Mr. Bloom",
+      "sprecher" : "Christoph M. Ohrt"
+    },
+    {
+      "rolle" : "Mrs. Bloom",
+      "sprecher" : "Julia Jäger"
+    }
+  ],
   "links" : {
     "json" : "http://dreimetadaten.de/data/Serie/240/metadata.json",
+    "ffmetadata" : "http://dreimetadaten.de/data/Serie/240/ffmetadata.txt",
     "artwork" : "http://dreimetadaten.de/data/Serie/240/artwork.webp",
     "cover" : "http://dreimetadaten.de/data/Serie/240/cover.png",
     "cover_itunes" : "http://a1.mzstatic.com/r40/Music211/v4/22/a5/e5/22a5e553-d13e-c09f-a993-d1974c31cf48/196873622910.jpg",
+    "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produkte/hoerspiele/01_ab_213/ddf-240.jpg",
+    "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/die-schwarze-rose",
     "appleMusic" : "https://music.apple.com/de/album/6770563852",
+    "spotify" : "https://open.spotify.com/intl-de/album/55djiROmSQZWDVzzUwyKFc",
     "bookbeat" : "https://www.bookbeat.com/de/book/1974371",
     "amazonMusic" : "https://music.amazon.de/albums/B0H26RDM4C",
-    "amazon" : "https://www.amazon.de/gp/product/B0GSSVW2QW"
+    "amazon" : "https://www.amazon.de/gp/product/B0GSSVW2QW",
+    "youTubeMusic" : "https://music.youtube.com/browse/MPREb_9O0Z0iw90aj",
+    "deezer" : "https://www.deezer.com/de/album/985501051"
   },
   "ids" : {
     "dreimetadaten" : 431,
     "appleMusic" : "6770563852",
+    "spotify" : "55djiROmSQZWDVzzUwyKFc",
     "bookbeat" : "1974371",
     "amazonMusic" : "B0H26RDM4C",
-    "amazon" : "B0GSSVW2QW"
+    "amazon" : "B0GSSVW2QW",
+    "youTubeMusic" : "MPREb_9O0Z0iw90aj",
+    "deezer" : "985501051"
   },
-  "unvollständig" : true
+  "medien" : [
+    {
+      "tracks" : [
+        {
+          "titel" : "Schwarze Post",
+          "start" : 0,
+          "end" : 635253
+        },
+        {
+          "titel" : "Aushilfsgärtner gesucht",
+          "start" : 635253,
+          "end" : 1256587
+        },
+        {
+          "titel" : "Der verbotene Ort",
+          "start" : 1256587,
+          "end" : 1857293
+        },
+        {
+          "titel" : "Heftige Schläge",
+          "start" : 1857293,
+          "end" : 2600560
+        },
+        {
+          "titel" : "Bewerbungsgespräch",
+          "start" : 2600560,
+          "end" : 3140600
+        },
+        {
+          "titel" : "Der braune Umschlag",
+          "start" : 3140600,
+          "end" : 3564013
+        },
+        {
+          "titel" : "Die schwarze Rose",
+          "start" : 3564013,
+          "end" : 4169293
+        }
+      ],
+      "ripLog" : "http://dreimetadaten.de/data/Serie/240/rip_log.txt"
+    }
+  ]
 }
