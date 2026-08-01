@@ -27,6 +27,7 @@ Folgende Projekte greifen bereits auf diesen Datensatz zurück:
 ### Apps
 * [**Hörspielzentrale**](https://apps.apple.com/us/app/hörspielzentrale/id6503214441): iOS-App zum Durchstöbern und Abspielen der Folgen (über Apple Music) von *Philipp*
 * [**Rocky Beach**](https://apps.apple.com/de/app/rocky-beach-f%C3%BCr-die-drei/id6743175834): iOS-App zum Tracken gehörter Folgen, sowie Filtern nach Themen und Charakteren von *Jonas*
+* [**Hörspielakte**](https://play.google.com/store/apps/details?id=de.wagenknecht.fragezeichenlog): Android-App zum Tracken, Bewerten und Entdecken von Folgen samt Hörstatistiken von [*Florian*](https://github.com/wagenknecht)
 ### Websites
 * [**dreifragezeichenportal.de**](https://dreifragezeichenportal.de): Website zum (thematischen) Durchsuchen der Folgen und Sprecher von *Alex*
 * [**Fragezeichinator**](https://www.fragezeichinator.de/): Filterbarer Zufallsgenerator, Folgen Bewertung und Favoriten Listen von *clemwo*
