@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.10.6",
-    "lastModified" : "2026-07-25T13:53:51Z"
+    "version" : "2.10.7",
+    "lastModified" : "2026-08-01T11:14:10Z"
   },
   "serie" : [
     {
@@ -48326,10 +48326,21 @@
       "autor" : "Christoph Dittert",
       "veröffentlichungsdatum" : "2026-09-18",
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/241/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Serie/241/metadata.json",
+        "artwork" : "http://dreimetadaten.de/data/Serie/241/artwork.webp",
+        "cover" : "http://dreimetadaten.de/data/Serie/241/cover.png",
+        "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/a6/34/c5/a634c56d-4323-d65f-5158-83f4bbe6879f/196873623641.jpg",
+        "appleMusic" : "https://music.apple.com/de/album/6789055080",
+        "bookbeat" : "https://www.bookbeat.com/de/book/2017296",
+        "amazonMusic" : "https://music.amazon.de/albums/B0H87XPWXQ",
+        "amazon" : "https://www.amazon.de/gp/product/B0GZJ9FSFW"
       },
       "ids" : {
-        "dreimetadaten" : 432
+        "dreimetadaten" : 432,
+        "appleMusic" : "6789055080",
+        "bookbeat" : "2017296",
+        "amazonMusic" : "B0H87XPWXQ",
+        "amazon" : "B0GZJ9FSFW"
       },
       "unvollständig" : true
     },
