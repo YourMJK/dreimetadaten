@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.10.7",
-    "lastModified" : "2026-08-01T11:14:10Z"
+    "version" : "2.10.8",
+    "lastModified" : "2026-09-22T12:18:24Z"
   },
   "serie" : [
     {
@@ -48324,25 +48324,171 @@
       "nummer" : 241,
       "titel" : "Meister des Lichts",
       "autor" : "Christoph Dittert",
+      "hörspielskriptautor" : "André Minninger",
+      "gesamtbeschreibung" : "Haben Aliens John Shadwell auserwählt, um den Menschen eine Botschaft mitzuteilen? Die drei ??? sind der Wahrheit auf der Spur.\nDer Lichtkünstler ist für seine Show in Rocky Beach zu Gast. Justus, Peter und Bob freuen sich auf die Lichtprojektionen, als plötzlich ein unerklärliches Leuchten am Himmel erscheint, das eindeutig nicht vom Künstler stammt. Ein Zeichen der Außerirdischen? Sind die Gerüchte wahr und Shadwell ist der Auserwählte? Das streitet der Meister des Lichts vehement ab, doch mit der Zeit beginnt er, an sich selbst zu zweifeln …",
+      "kurzbeschreibung" : "Haben Aliens John Shadwell auserwählt, um den Menschen eine Botschaft mitzuteilen? Die drei ??? sind der Wahrheit auf der Spur.",
+      "beschreibung" : "Der Lichtkünstler ist für seine Show in Rocky Beach zu Gast. Justus, Peter und Bob freuen sich auf die Lichtprojektionen, als plötzlich ein unerklärliches Leuchten am Himmel erscheint, das eindeutig nicht vom Künstler stammt. Ein Zeichen der Außerirdischen? Sind die Gerüchte wahr und Shadwell ist der Auserwählte? Das streitet der Meister des Lichts vehement ab, doch mit der Zeit beginnt er, an sich selbst zu zweifeln …",
       "veröffentlichungsdatum" : "2026-09-18",
+      "gesamtdauer" : 4740213,
+      "kapitel" : [
+        {
+          "titel" : "Der Botschafter der Außerirdischen",
+          "start" : 0,
+          "end" : 599987
+        },
+        {
+          "titel" : "Joggen vor dem Frühstück",
+          "start" : 599987,
+          "end" : 999827
+        },
+        {
+          "titel" : "Nicht von dieser Welt",
+          "start" : 999827,
+          "end" : 1485920
+        },
+        {
+          "titel" : "Blick hinter die Kulissen",
+          "start" : 1485920,
+          "end" : 2210320
+        },
+        {
+          "titel" : "Außerirdische Stimmen",
+          "start" : 2210320,
+          "end" : 2834107
+        },
+        {
+          "titel" : "Durchsuchungserlaubnis",
+          "start" : 2834107,
+          "end" : 3812253
+        },
+        {
+          "titel" : "Die letzte Show",
+          "start" : 3812253,
+          "end" : 4740213
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "John Shadwell",
+          "sprecher" : "Nicolas König"
+        },
+        {
+          "rolle" : "Eron Vess",
+          "sprecher" : "Lars Schmidtke"
+        },
+        {
+          "rolle" : "Suzanna Outley",
+          "sprecher" : "Maria Fuchs"
+        },
+        {
+          "rolle" : "Barbeau",
+          "sprecher" : "Wolfgang Sommer"
+        },
+        {
+          "rolle" : "Nelson Snyder",
+          "sprecher" : "Kai Henrik Möller"
+        },
+        {
+          "rolle" : "Sensationsreporter",
+          "sprecher" : "Joachim Kretzer"
+        },
+        {
+          "rolle" : "Frau 1",
+          "sprecher" : "Claudia Schermutzki"
+        },
+        {
+          "rolle" : "Frau 2",
+          "sprecher" : "Christiane Leuchtmann"
+        },
+        {
+          "rolle" : "Mann",
+          "sprecher" : "Volker Wackermann"
+        }
+      ],
       "links" : {
         "json" : "http://dreimetadaten.de/data/Serie/241/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Serie/241/ffmetadata.txt",
         "artwork" : "http://dreimetadaten.de/data/Serie/241/artwork.webp",
         "cover" : "http://dreimetadaten.de/data/Serie/241/cover.png",
         "cover_itunes" : "http://a1.mzstatic.com/r40/Music221/v4/a6/34/c5/a634c56d-4323-d65f-5158-83f4bbe6879f/196873623641.jpg",
+        "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produkte/hoerspiele/01_ab_213/ddf-241.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/meister-des-lichts",
         "appleMusic" : "https://music.apple.com/de/album/6789055080",
+        "spotify" : "https://open.spotify.com/intl-de/album/3yMvUfGBieqtsmwQ35lCoA",
         "bookbeat" : "https://www.bookbeat.com/de/book/2017296",
         "amazonMusic" : "https://music.amazon.de/albums/B0H87XPWXQ",
-        "amazon" : "https://www.amazon.de/gp/product/B0GZJ9FSFW"
+        "amazon" : "https://www.amazon.de/gp/product/B0GZJ9FSFW",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_ZsI39UbTBJl",
+        "deezer" : "https://www.deezer.com/de/album/1024801661"
       },
       "ids" : {
         "dreimetadaten" : 432,
         "appleMusic" : "6789055080",
+        "spotify" : "3yMvUfGBieqtsmwQ35lCoA",
         "bookbeat" : "2017296",
         "amazonMusic" : "B0H87XPWXQ",
-        "amazon" : "B0GZJ9FSFW"
+        "amazon" : "B0GZJ9FSFW",
+        "youTubeMusic" : "MPREb_ZsI39UbTBJl",
+        "deezer" : "1024801661"
       },
-      "unvollständig" : true
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Der Botschafter der Außerirdischen",
+              "start" : 0,
+              "end" : 599987
+            },
+            {
+              "titel" : "Joggen vor dem Frühstück",
+              "start" : 599987,
+              "end" : 999827
+            },
+            {
+              "titel" : "Nicht von dieser Welt",
+              "start" : 999827,
+              "end" : 1485920
+            },
+            {
+              "titel" : "Blick hinter die Kulissen",
+              "start" : 1485920,
+              "end" : 2210320
+            },
+            {
+              "titel" : "Außerirdische Stimmen",
+              "start" : 2210320,
+              "end" : 2834107
+            },
+            {
+              "titel" : "Durchsuchungserlaubnis",
+              "start" : 2834107,
+              "end" : 3812253
+            },
+            {
+              "titel" : "Die letzte Show",
+              "start" : 3812253,
+              "end" : 4740213
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Serie/241/rip_log.txt"
+        }
+      ]
     },
     {
       "nummer" : 242,
