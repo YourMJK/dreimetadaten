@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.10.8",
-    "lastModified" : "2026-09-22T12:18:24Z"
+    "version" : "2.10.9",
+    "lastModified" : "2026-09-22T13:00:50Z"
   },
   "serie" : [
     {
@@ -48500,6 +48500,45 @@
       },
       "ids" : {
         "dreimetadaten" : 433
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 243,
+      "titel" : "Fußball-Skandal",
+      "autor" : "Christoph Dittert",
+      "veröffentlichungsdatum" : "2027-02-19",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/243/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 439
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 244,
+      "titel" : "Das Lied der Knochenflöte",
+      "autor" : "Kari Erlhoff",
+      "veröffentlichungsdatum" : "2027-03-19",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/244/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 440
+      },
+      "unvollständig" : true
+    },
+    {
+      "nummer" : 245,
+      "titel" : "Rätsel des Mondes",
+      "autor" : "Hendrik Buchna",
+      "veröffentlichungsdatum" : "2027-05-14",
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Serie/245/metadata.json"
+      },
+      "ids" : {
+        "dreimetadaten" : 441
       },
       "unvollständig" : true
     }
