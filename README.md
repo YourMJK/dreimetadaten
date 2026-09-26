@@ -37,6 +37,7 @@ Folgende Projekte greifen bereits auf diesen Datensatz zurück:
 ### APIs
 * [**DieDreiMetadatenJSLibary**](https://github.com/Epiclegendary53/DieDreiMetadatenJSLibary): JavaScript-Library zum Erhalten und Verarbeiten der Daten von *Jan*
 * [**Audiobookshelf DreiMetadaten Provider**](https://github.com/eisregner/audiobookshelf-dreimetadaten-provider): Lokaler Metadaten-Provider für [audiobookshelf](https://github.com/advplyr/audiobookshelf) von *eisregner*
+* [**abs-agg**](https://github.com/Vito0912/abs-agg): Lokaler Metadaten-Provider (inkl. anderer Quellen) für [audiobookshelf](https://github.com/advplyr/audiobookshelf) von *Finn*
 ### Sonstiges
 * [**RockyBotICE**](https://rockybotice.rondev.de): Täglich postender [Mastodon-Bot](https://mastodon.social/@RockyBotICE) mit Infos und Streaming-Links zu zufälliger Folge von *Ronny*
 
