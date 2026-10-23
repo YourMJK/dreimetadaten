@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.10.9",
-    "lastModified" : "2026-09-22T13:00:50Z"
+    "version" : "2.10.10",
+    "lastModified" : "2026-10-23T21:45:08Z"
   },
   "serie" : [
     {
@@ -48496,7 +48496,8 @@
       "autor" : "Marco Sonnleitner",
       "veröffentlichungsdatum" : "2026-12-11",
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/242/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Serie/242/metadata.json",
+        "cover_dreifragezeichen" : "https://cdn.prod.website-files.com/67a0fbbab6c2dd9f092cc10c/69cd2fd03584e296ee4d348d_DDF_CD_242.jpg"
       },
       "ids" : {
         "dreimetadaten" : 433
@@ -48548,7 +48549,8 @@
       "autor" : "Fritz Schaefer",
       "veröffentlichungsdatum" : "2027-07-09",
       "links" : {
-        "json" : "http://dreimetadaten.de/data/Serie/246/metadata.json"
+        "json" : "http://dreimetadaten.de/data/Serie/246/metadata.json",
+        "cover_dreifragezeichen" : "https://cdn.prod.website-files.com/67a0fbbab6c2dd9f092cc10c/6aa26fc6dbd332ed11986e82_Cover_DDF_246%20(2).jpg"
       },
       "ids" : {
         "dreimetadaten" : 442
