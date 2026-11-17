@@ -9260,7 +9260,7 @@ INSERT INTO person VALUES(155,'Walter Eltz');
 INSERT INTO person VALUES(156,'Ernst A. Frantz');
 INSERT INTO person VALUES(157,'Michael Quiatkowsky');
 INSERT INTO person VALUES(158,'Gerlinde Dillge');
-INSERT INTO person VALUES(159,'Norbert Lange');
+INSERT INTO person VALUES(159,'Norbert Langer');
 INSERT INTO person VALUES(160,'Megan & H. William Stine');
 INSERT INTO person VALUES(161,'Kerstin Draeger');
 INSERT INTO person VALUES(162,'Tessa Gasser');
