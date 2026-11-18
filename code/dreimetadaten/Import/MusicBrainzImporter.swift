@@ -16,12 +16,16 @@ struct MusicBrainzImporter {
 	let dbQueue: DatabaseQueue
 	
 	
-	func addMedium(to hörspielID: MetadataRelationalModel.Hörspiel.ID, at position: UInt, usingDisc discID: String) async throws {
+	func addMedium(to hörspielID: MetadataRelationalModel.Hörspiel.ID, at position: UInt, usingDisc discID: String, mediaPosition: UInt?) async throws {
 		func nextID<T: PersistableFetchableTableRecord, I: BinaryInteger>(of: T.Type, id transform: (T) -> I) throws -> I {
 			try dbQueue.read { db in
 				try T.fetchAll(db).map(transform).max()! + 1
 			}
 		}
+		
+		// Try fetching chapters before creating new database records
+		let mediaPosition = mediaPosition ?? position
+		let chapters = try await Self.chaptersFromTracks(discID: discID, mediaPosition: mediaPosition)
 		
 		// Medium
 		let mediumID = try nextID(of: MetadataRelationalModel.Medium.self, id: \.mediumID)
@@ -37,7 +41,6 @@ struct MusicBrainzImporter {
 		}
 		
 		// Tracks
-		let chapters = try await Self.chaptersFromTracks(discID: discID, mediaPosition: position)
 		let baseTrackID = try nextID(of: MetadataRelationalModel.Track.self, id: \.trackID)
 		let baseKapitelPosition = try await dbQueue.read { db in
 			let lastPosition = try UInt.fetchOne(db, sql: "SELECT MAX(position) FROM kapitel WHERE hörspielID = ?", arguments: [hörspielID]) ?? 0
@@ -185,7 +188,7 @@ struct MusicBrainzImporter {
 		case zeroTracks
 		case negativeTimestamp(timestamp: Int)
 		
-		var errorDescription: String {
+		var errorDescription: String? {
 			switch self {
 				case .invalidURL(let urlString): return "Invalid URL:  \(urlString)"
 				case .requestFailed(let errorMsg): return "Request to MusicBrainz failed:  \(errorMsg)"

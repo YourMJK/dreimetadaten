@@ -25,8 +25,11 @@ extension Command.Import {
 		@Option(name: .customLong("discID"), help: ArgumentHelp("The MusicBrainz Disc-ID to read track data from.", valueName: "id"))
 		var mbDiscID: String
 		
-		@Option(name: .long, help: ArgumentHelp("The position of the medium in the release and of the new \"medium\" to create.", valueName: "number"))
+		@Option(name: .long, help: ArgumentHelp("The position of the new \"medium\" to create and of the medium in the release.", valueName: "number"))
 		var position: UInt = 1
+		
+		@Option(name: .long, help: ArgumentHelp("The position of the medium in the release if it differs from --position.", valueName: "number"))
+		var mediaPosition: UInt?
 		
 		@Option(name: .customLong("db"), help: ArgumentHelp("The path to the SQLite database file.", valueName: "sqlite file"))
 		var databaseFilePath: String = Command.databaseFile.relativePath
@@ -34,7 +37,7 @@ extension Command.Import {
 		func run() async throws {
 			let dbQueue = try DatabaseQueue(path: databaseFilePath)
 			let importer = MusicBrainzImporter(dbQueue: dbQueue)
-			try await importer.addMedium(to: hörspielID, at: position, usingDisc: mbDiscID)
+			try await importer.addMedium(to: hörspielID, at: position, usingDisc: mbDiscID, mediaPosition: mediaPosition)
 		}
 	}
 }
