@@ -1,7 +1,7 @@
 {
   "dbInfo" : {
-    "version" : "2.10.11",
-    "lastModified" : "2026-10-25T21:58:26Z"
+    "version" : "2.10.12",
+    "lastModified" : "2026-11-18T00:23:38Z"
   },
   "spezial" : [
     {
@@ -5340,6 +5340,383 @@
             }
           ],
           "ripLog" : "http://dreimetadaten.de/data/Spezial/Gruselige-Weihnacht-ueberall/rip_log3.txt"
+        }
+      ]
+    },
+    {
+      "titel" : "O Geisterbaum",
+      "autor" : "Hendrik Buchna",
+      "hörspielskriptautor" : "André Minninger",
+      "gesamtbeschreibung" : "O Geisterbaum, o Geisterbaum – wer spukt in deinen Nadeln? Die drei ??? im Winterwunderland zwischen Weihnachtselfen und gemeinen Racheplänen.\nJustus, Peter und Bob sind zu Gast beim legendären Santa's Weekend des Schauspielers Jim Rattles. Doch das besinnliche Wochenende wird jäh von gespenstischen Erscheinungen in einer 500 Jahre alten Tanne unterbrochen. Der Baum soll die Wahrheit der Welt in sich tragen … und diese Wahrheit ist für den Gastgeber Rattles alles andere als angenehm. Reich beschenkt mit ausgeprägtem Spürsinn beginnen die Detektive mit ihren weihnachtlichen Ermittlungen.",
+      "kurzbeschreibung" : "O Geisterbaum, o Geisterbaum – wer spukt in deinen Nadeln? Die drei ??? im Winterwunderland zwischen Weihnachtselfen und gemeinen Racheplänen.",
+      "beschreibung" : "Justus, Peter und Bob sind zu Gast beim legendären Santa's Weekend des Schauspielers Jim Rattles. Doch das besinnliche Wochenende wird jäh von gespenstischen Erscheinungen in einer 500 Jahre alten Tanne unterbrochen. Der Baum soll die Wahrheit der Welt in sich tragen … und diese Wahrheit ist für den Gastgeber Rattles alles andere als angenehm. Reich beschenkt mit ausgeprägtem Spürsinn beginnen die Detektive mit ihren weihnachtlichen Ermittlungen.",
+      "metabeschreibung" : "Ein weihnachtlicher Fall in 24 Kapiteln.",
+      "veröffentlichungsdatum" : "2026-11-13",
+      "gesamtdauer" : 11878840,
+      "kapitel" : [
+        {
+          "titel" : "Tag 01 – Ein spezialgelagertes Wochenende",
+          "start" : 0,
+          "end" : 631280
+        },
+        {
+          "titel" : "Tag 02 – Weihnachtswunderwelt",
+          "start" : 631280,
+          "end" : 1277613
+        },
+        {
+          "titel" : "Tag 03 – Der Baum erwacht",
+          "start" : 1277613,
+          "end" : 2091187
+        },
+        {
+          "titel" : "Tag 04 – Offizieller Auftrag",
+          "start" : 2091187,
+          "end" : 2447813
+        },
+        {
+          "titel" : "Tag 05 – Spezialausrüstung",
+          "start" : 2447813,
+          "end" : 2892400
+        },
+        {
+          "titel" : "Tag 06 – Die Sekretärin und der Engel",
+          "start" : 2892400,
+          "end" : 3323480
+        },
+        {
+          "titel" : "Tag 07 – Überraschende Entwicklungen",
+          "start" : 3323480,
+          "end" : 3650133
+        },
+        {
+          "titel" : "Tag 08 – Speicherschock und Horrorschneemann",
+          "start" : 3650133,
+          "end" : 3962840
+        },
+        {
+          "titel" : "Tag 09 – Das Fernrohr",
+          "start" : 3962840,
+          "end" : 4233640
+        },
+        {
+          "titel" : "Tag 10 – Peter-Notfall",
+          "start" : 4233640,
+          "end" : 4529987
+        },
+        {
+          "titel" : "Tag 11 – Grusel-Keller und Lebkuchen-Drohung",
+          "start" : 4529987,
+          "end" : 4886053
+        },
+        {
+          "titel" : "Tag 12 – Nachtbesuche",
+          "start" : 4886053,
+          "end" : 5403520
+        },
+        {
+          "titel" : "Tag 13 – Wolf-Alarm und Schmuck-Verluste",
+          "start" : 5403520,
+          "end" : 5960720
+        },
+        {
+          "titel" : "Tag 14 – Plötzliche Zweifel",
+          "start" : 5960720,
+          "end" : 6524027
+        },
+        {
+          "titel" : "Tag 15 – Wilde Wichteljagd",
+          "start" : 6524027,
+          "end" : 7051760
+        },
+        {
+          "titel" : "Tag 16 – Reh-Komplikationen",
+          "start" : 7051760,
+          "end" : 7476907
+        },
+        {
+          "titel" : "Tag 17 – Seltsamer Pralinen-Elf",
+          "start" : 7476907,
+          "end" : 7876707
+        },
+        {
+          "titel" : "Tag 18 – Spezialmischung",
+          "start" : 7876707,
+          "end" : 8189147
+        },
+        {
+          "titel" : "Tag 19 – Der Geist der gegenwärtigen Weihnacht",
+          "start" : 8189147,
+          "end" : 8727907
+        },
+        {
+          "titel" : "Tag 20 – Angriff auf Peter",
+          "start" : 8727907,
+          "end" : 9081667
+        },
+        {
+          "titel" : "Tag 21 – Böser Tiny Tim",
+          "start" : 9081667,
+          "end" : 9553520
+        },
+        {
+          "titel" : "Tag 22 – Der Boss und die rechte Hand",
+          "start" : 9553520,
+          "end" : 9977574
+        },
+        {
+          "titel" : "Tag 23 – Emily und der kleine Ebenezer",
+          "start" : 9977574,
+          "end" : 10705440
+        },
+        {
+          "titel" : "Tag 24 – Vier Zwei Vier",
+          "start" : 10705440,
+          "end" : 11878840
+        }
+      ],
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Santa Claus",
+          "sprecher" : "Michael Prelle"
+        },
+        {
+          "rolle" : "Carol",
+          "sprecher" : "Julia Jäger"
+        },
+        {
+          "rolle" : "Tara Wilcox",
+          "sprecher" : "Anna Carlsson"
+        },
+        {
+          "rolle" : "Jim Rattles",
+          "sprecher" : "Norbert Langer"
+        },
+        {
+          "rolle" : "Nigel Crossfield",
+          "sprecher" : "Volker Wackermann"
+        },
+        {
+          "rolle" : "Stella Cummings",
+          "sprecher" : "Claudia Schermutzki"
+        },
+        {
+          "rolle" : "Damion Scott",
+          "sprecher" : "Wolfgang Sommer"
+        },
+        {
+          "rolle" : "Warren",
+          "sprecher" : "Peter Lontzek"
+        },
+        {
+          "rolle" : "Wichtel",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Betty",
+          "sprecher" : "Christiane Leuchtmann"
+        },
+        {
+          "rolle" : "Komponist",
+          "sprecher" : "Joachim Kretzer"
+        },
+        {
+          "rolle" : "Filmdiva",
+          "sprecher" : "Philine Peters-Arnolds"
+        },
+        {
+          "rolle" : "Elf",
+          "sprecher" : "Lutz Mackensy"
+        },
+        {
+          "rolle" : "Larry",
+          "sprecher" : "Manou Lubowski"
+        },
+        {
+          "rolle" : "Schneemann",
+          "sprecher" : "Christian Rudolf"
+        },
+        {
+          "rolle" : "Spukstimme",
+          "sprecher" : "Jan Sosniok"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Spezial/O-Geisterbaum/metadata.json",
+        "ffmetadata" : "http://dreimetadaten.de/data/Spezial/O-Geisterbaum/ffmetadata.txt",
+        "artwork" : "http://dreimetadaten.de/data/Spezial/O-Geisterbaum/artwork.webp",
+        "cover" : "http://dreimetadaten.de/data/Spezial/O-Geisterbaum/cover.png",
+        "cover_dreifragezeichen" : "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/produkte/hoerspiele/01_ab_213/ddf_adventskalender_cover-26.jpg",
+        "dreifragezeichen" : "https://www.dreifragezeichen.de/produktwelt/details/o-geisterbaum",
+        "appleMusic" : "https://music.apple.com/de/album/6816080246",
+        "spotify" : "https://open.spotify.com/intl-de/album/7e5uqca3BaiL3MURkBTFxJ",
+        "bookbeat" : "https://www.bookbeat.com/de/book/2099953",
+        "amazonMusic" : "https://music.amazon.de/albums/B0HKZK7W5F",
+        "amazon" : "https://www.amazon.de/gp/product/B0HK2GYV93",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_6ufDg3nj3fI",
+        "deezer" : "https://www.deezer.com/de/album/1104778272"
+      },
+      "ids" : {
+        "dreimetadaten" : 443,
+        "appleMusic" : "6816080246",
+        "spotify" : "7e5uqca3BaiL3MURkBTFxJ",
+        "bookbeat" : "2099953",
+        "amazonMusic" : "B0HKZK7W5F",
+        "amazon" : "B0HK2GYV93",
+        "youTubeMusic" : "MPREb_6ufDg3nj3fI",
+        "deezer" : "1104778272"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 01 – Ein spezialgelagertes Wochenende",
+              "start" : 0,
+              "end" : 631280
+            },
+            {
+              "titel" : "Tag 02 – Weihnachtswunderwelt",
+              "start" : 631280,
+              "end" : 1277613
+            },
+            {
+              "titel" : "Tag 03 – Der Baum erwacht",
+              "start" : 1277613,
+              "end" : 2091187
+            },
+            {
+              "titel" : "Tag 04 – Offizieller Auftrag",
+              "start" : 2091187,
+              "end" : 2447813
+            },
+            {
+              "titel" : "Tag 05 – Spezialausrüstung",
+              "start" : 2447813,
+              "end" : 2892400
+            },
+            {
+              "titel" : "Tag 06 – Die Sekretärin und der Engel",
+              "start" : 2892400,
+              "end" : 3323480
+            },
+            {
+              "titel" : "Tag 07 – Überraschende Entwicklungen",
+              "start" : 3323480,
+              "end" : 3650133
+            },
+            {
+              "titel" : "Tag 08 – Speicherschock und Horrorschneemann",
+              "start" : 3650133,
+              "end" : 3962840
+            }
+          ],
+          "musicBrainzID" : "lIyI3KurxJRbeuCaEybQvzuKrnw-"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 09 – Das Fernrohr",
+              "start" : 0,
+              "end" : 270800
+            },
+            {
+              "titel" : "Tag 10 – Peter-Notfall",
+              "start" : 270800,
+              "end" : 567147
+            },
+            {
+              "titel" : "Tag 11 – Grusel-Keller und Lebkuchen-Drohung",
+              "start" : 567147,
+              "end" : 923213
+            },
+            {
+              "titel" : "Tag 12 – Nachtbesuche",
+              "start" : 923213,
+              "end" : 1440680
+            },
+            {
+              "titel" : "Tag 13 – Wolf-Alarm und Schmuck-Verluste",
+              "start" : 1440680,
+              "end" : 1997880
+            },
+            {
+              "titel" : "Tag 14 – Plötzliche Zweifel",
+              "start" : 1997880,
+              "end" : 2561187
+            },
+            {
+              "titel" : "Tag 15 – Wilde Wichteljagd",
+              "start" : 2561187,
+              "end" : 3088920
+            },
+            {
+              "titel" : "Tag 16 – Reh-Komplikationen",
+              "start" : 3088920,
+              "end" : 3514067
+            }
+          ],
+          "musicBrainzID" : "QVImVQEXFCrSBxU19kr.ixYgzOg-"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Tag 17 – Seltsamer Pralinen-Elf",
+              "start" : 0,
+              "end" : 399800
+            },
+            {
+              "titel" : "Tag 18 – Spezialmischung",
+              "start" : 399800,
+              "end" : 712240
+            },
+            {
+              "titel" : "Tag 19 – Der Geist der gegenwärtigen Weihnacht",
+              "start" : 712240,
+              "end" : 1251000
+            },
+            {
+              "titel" : "Tag 20 – Angriff auf Peter",
+              "start" : 1251000,
+              "end" : 1604760
+            },
+            {
+              "titel" : "Tag 21 – Böser Tiny Tim",
+              "start" : 1604760,
+              "end" : 2076613
+            },
+            {
+              "titel" : "Tag 22 – Der Boss und die rechte Hand",
+              "start" : 2076613,
+              "end" : 2500667
+            },
+            {
+              "titel" : "Tag 23 – Emily und der kleine Ebenezer",
+              "start" : 2500667,
+              "end" : 3228533
+            },
+            {
+              "titel" : "Tag 24 – Vier Zwei Vier",
+              "start" : 3228533,
+              "end" : 4401933
+            }
+          ],
+          "musicBrainzID" : "ecQYkrxsFWOn8ND8XYJPVeJpwmc-"
         }
       ]
     },
